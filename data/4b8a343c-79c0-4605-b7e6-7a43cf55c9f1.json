@@ -1,0 +1,12 @@
+{
+  "id": "4b8a343c-79c0-4605-b7e6-7a43cf55c9f1",
+  "instruction": "Read the following text and you need to detect the errors in punctuation and grammar.",
+  "input": "The man who was buying apples said \" I'm going to eat them all",
+  "output": "The man who was buying apples said, \"I'm going to eat them all.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

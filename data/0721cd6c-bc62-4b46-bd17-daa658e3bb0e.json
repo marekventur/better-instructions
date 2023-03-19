@@ -1,0 +1,12 @@
+{
+  "id": "0721cd6c-bc62-4b46-bd17-daa658e3bb0e",
+  "instruction": "Given a list of specifications, develop a plan or solution to purchase or build a PC.",
+  "input": "Budget: $800\nDesired Graphics: High-end\nMemory: 16GB\nProcessor: 8th Gen i5",
+  "output": "A suitable solution would be to purchase a pre-built PC with a budget of $800 or less. The PC should have a 8th gen i5 processor, 16GB of memory and a high-end graphics card.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e02980e0-430a-4aba-b201-6d0850cf51d8",
+  "instruction": "Compare the reaction of two different people reading the same article.",
+  "input": "An article published on October 10th, 2019 titled \"Women Move Closer to Majority on Corporate Boards\"",
+  "output": "Person A is pleased to see that more women are being appointed to corporate boards, as it will help reduce gender inequality and recognize women's ability to contribute to the success of corporations. Person B is worried that the increased presence of women on corporate boards will only make it harder for men to get appointed and thus increase gender inequality in the opposite direction. Person A and B both agree, however, that more diversity on corporate boards is a positive outcome.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

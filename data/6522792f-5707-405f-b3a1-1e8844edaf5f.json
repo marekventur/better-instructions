@@ -1,0 +1,12 @@
+{
+  "id": "6522792f-5707-405f-b3a1-1e8844edaf5f",
+  "instruction": "Explain the concept of Markov Chain",
+  "input": "",
+  "output": "A Markov Chain is a type of mathematical model in which the next state of a system is only dependent on the current state. In the most basic terms, it is a system which predicts the future behavior of a process based on the current state of the system. In this way, the behavior of the system is determined solely by the probabilities of different possible states.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

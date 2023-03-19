@@ -1,0 +1,12 @@
+{
+  "id": "20f8202c-5565-44e1-b50a-f0257a1403c4",
+  "instruction": "Output the verbs and their tenses in the sentence.",
+  "input": "John recently sold his car and bought a new one.",
+  "output": "sold (Past tense), buy (Past tense)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

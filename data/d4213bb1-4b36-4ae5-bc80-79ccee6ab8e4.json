@@ -1,0 +1,12 @@
+{
+  "id": "d4213bb1-4b36-4ae5-bc80-79ccee6ab8e4",
+  "instruction": "Find the area of a triangle with three sides of 12,4,7",
+  "input": "",
+  "output": "The area of a triangle with sides of 12, 4, and 7 is approximately 17.85 square units. This can be calculated using Heron's formula, which involves taking the half of the triangle's perimeter, subtracting each side length in turn, and then taking the square root of the result multiplied by the individual side lengths.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

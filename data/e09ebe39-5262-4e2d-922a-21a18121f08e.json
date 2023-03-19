@@ -1,0 +1,12 @@
+{
+  "id": "e09ebe39-5262-4e2d-922a-21a18121f08e",
+  "instruction": "Compare two given characters",
+  "input": "Mario and Luigi",
+  "output": "Mario is the main character of the Mario series, while Luigi is his brother and a sidekick to Mario in the games. They have similar abilities and gameplay styles, but Luigi has higher jump abilities than Mario and is the only character who can use power-ups like the Poltergust and Super Poltergust.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

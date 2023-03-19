@@ -1,0 +1,12 @@
+{
+  "id": "8a04a578-02f8-48e9-876e-f155e71bcd6a",
+  "instruction": "Summarise the article in 10 sentences.",
+  "input": "The article discusses how businesses can successfully employ Artificial Intelligence (AI) to improve their customer experience.",
+  "output": "Businesses have started to employ Artificial Intelligence (AI) to improve the customer experience. AI has the potential to revolutionize the customer experience and allow companies to provide personalized, efficient services. AI-powered customer service agents, such as chatbots and virtual agents, can provide quick, accurate responses to customer inquiries. AI can also be used to simplify the customer journey, automate customer interactions, and improve product recommendations, customer segmentation, and sentiment analysis. Other applications for AI include marketing automation, call routing, and financial fraud detection. To ensure successful implementation of AI into their operations, businesses need to ensure they have the necessary data, infrastructure, and skills to make the most of AI. Furthermore, businesses must also be prepared to evaluate the results of any AI applications they introduced, as this can help refine and refine the AI in order to optimize customer experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

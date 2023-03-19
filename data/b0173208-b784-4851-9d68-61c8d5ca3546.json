@@ -1,0 +1,12 @@
+{
+  "id": "b0173208-b784-4851-9d68-61c8d5ca3546",
+  "instruction": "Given an emotion, come up with a new term that describes that emotion.",
+  "input": "confusion",
+  "output": "Befudzlement \u2013 a feeling of being overwhelmed and confused.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2925bd4b-02dd-453b-83c3-9164b7e36182",
+  "instruction": "Design a classification algorithm to detect a message as spam or ham.",
+  "input": "No input",
+  "output": "The algorithm should first check the content of a message for any offensive or inappropriate language, or for language related to financial, legal or health advice. If the message contains any of this, it should be classified as spam. The algorithm can also use common spam signal words such as 'offer', 'discount', and 'free' to classify a message as spam. In addition, the algorithm should check for abnormal syntax and long URLs, as these are also common features of spam messages. Finally, the algorithm should check for discrepancies between the sender address, reply-to address, and the content of the message, to determine whether it is legitimate or not.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

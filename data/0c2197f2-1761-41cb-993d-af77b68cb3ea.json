@@ -1,0 +1,12 @@
+{
+  "id": "0c2197f2-1761-41cb-993d-af77b68cb3ea",
+  "instruction": "Arrange these musical notes in ascending order.",
+  "input": "D, C, F, A",
+  "output": "C, D, F, A",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

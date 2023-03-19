@@ -1,0 +1,12 @@
+{
+  "id": "5f30e961-5f31-4a96-a171-c255276bc5b2",
+  "instruction": "Generate a scenario where the following dialogue would occur:",
+  "input": "A: Have you seen my phone?\nB: No, I haven't",
+  "output": "A and B are in a library, and A had been studying for several hours. When A stands up to leave, they realize that they can't find their phone. They ask B, who had been studying at the same table, if they had seen the phone. B responds that they had not.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

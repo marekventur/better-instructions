@@ -1,0 +1,12 @@
+{
+  "id": "cdf25fe8-6d65-470c-9ba5-d04fbd26a339",
+  "instruction": "Sort the following countries by land area (from largest to smallest)",
+  "input": "Switzerland, Norway, Monaco, Denmark",
+  "output": "Norway, Denmark, Switzerland, Monaco",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

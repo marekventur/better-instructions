@@ -1,0 +1,12 @@
+{
+  "id": "cf99686b-18e0-430e-956e-d7cc2d696a02",
+  "instruction": "Identify the part of speech of the underlined word in the following sentence: \"The webinar should have ended earlier than it did\".",
+  "input": "earlier",
+  "output": "Adverb",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

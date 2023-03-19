@@ -1,0 +1,12 @@
+{
+  "id": "1da22c25-e2be-4161-a569-e4dce622365c",
+  "instruction": "Edit the sentence and correct the spelling errors.",
+  "input": "The cats curld up and went to sleap.",
+  "output": "The cats curled up and went to sleep.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

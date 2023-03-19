@@ -1,0 +1,12 @@
+{
+  "id": "33e8abb0-24d8-41fb-a441-cff254dfca50",
+  "instruction": "Rank the following elements of a camping trip by level of importance (1 being the most important, 4 being the least important): food, sleeping bag, water, tent.",
+  "input": "",
+  "output": "1. Water \n2. Food\n3. Tent\n4. Sleeping Bag",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

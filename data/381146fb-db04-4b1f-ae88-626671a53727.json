@@ -1,0 +1,12 @@
+{
+  "id": "381146fb-db04-4b1f-ae88-626671a53727",
+  "instruction": "Create a basic program which prints the following line in the console.",
+  "input": "",
+  "output": "console.log(\"Hello World!\");",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

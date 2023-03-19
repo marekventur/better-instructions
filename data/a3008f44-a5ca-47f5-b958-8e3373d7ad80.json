@@ -1,0 +1,12 @@
+{
+  "id": "a3008f44-a5ca-47f5-b958-8e3373d7ad80",
+  "instruction": "Summarize the given text into 5 lines.",
+  "input": "Many people find security systems to be too costly, but they don't understand the high cost of ignoring such a system. Security systems are designed to deter potential criminals, detecting disturbances and alerting you to any threats. A good security system won't just protect your property, but also protect your family. You can also use them to monitor activity within your home while you're away.",
+  "output": "Security systems are designed to protect your property and family from potential criminals and disturbances. They can alert you to potential threats, detect unusual activity and monitor your home while you're away. Despite the costs, the high cost of not having a security system is often much higher. Investing in a good security system can provide peace of mind and make your home a safer place for you and your family.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

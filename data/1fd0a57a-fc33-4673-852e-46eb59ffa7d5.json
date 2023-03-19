@@ -1,0 +1,12 @@
+{
+  "id": "1fd0a57a-fc33-4673-852e-46eb59ffa7d5",
+  "instruction": "Explain how a self-driving car works.",
+  "input": "",
+  "output": "A self-driving car is an autonomous vehicle that uses a combination of sensors, cameras, radars, and artificial intelligence (AI) to detect its environment and navigate without human input. The car uses cameras to detect road markings and lane lines, radars to detect other vehicles, and ultrasonic sensors to detect the size of various objects and obstacles. The car then combines this data with AI to recognize objects and plan a path of travel. The car's AI will then instruct the car's computer system to make the necessary adjustments to control the steering, brakes, and accelerator.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

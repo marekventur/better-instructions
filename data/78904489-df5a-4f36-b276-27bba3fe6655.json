@@ -1,0 +1,12 @@
+{
+  "id": "78904489-df5a-4f36-b276-27bba3fe6655",
+  "instruction": "Analyze the provided text and predict the sentiment of the author using the provided text.",
+  "input": "The new cell phone was terrible!",
+  "output": "Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

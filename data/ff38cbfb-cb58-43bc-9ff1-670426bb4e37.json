@@ -1,0 +1,12 @@
+{
+  "id": "ff38cbfb-cb58-43bc-9ff1-670426bb4e37",
+  "instruction": "Summarize the given article from a climate change perspective.",
+  "input": "Article: \nhttps://grist.org/article/if-we-dont-revive-nuclear-power-we-wont-beat-climate-change/",
+  "output": "Despite being controversial for safety reasons, nuclear power is a key source of clean energy in the fight against climate change. Current nuclear energy production contributes significantly to reducing carbon emissions, but those emissions could be reduced further if the existing projects were replaced with new advanced reactor designs, which produce around half the emissions but double the output. Unfortunately, economics has made it difficult to build new reactors, and the world has failed to capitalize on a potential solution in the war against climate change.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ed033a25-1521-48ff-8f3d-38d65d087dc8",
+  "instruction": "Estimate how many apples will fit in this basket.",
+  "input": "The basket is 15 inches long, 10 inches wide and 7 inches deep.",
+  "output": "The basket can hold roughly 40 apples.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

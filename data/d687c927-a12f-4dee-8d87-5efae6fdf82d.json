@@ -1,0 +1,12 @@
+{
+  "id": "d687c927-a12f-4dee-8d87-5efae6fdf82d",
+  "instruction": "Convert the following sentence into a mathematical equation.\n\nThe sum of three apples and two oranges is five.",
+  "input": "",
+  "output": "3 apples + 2 oranges = 5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

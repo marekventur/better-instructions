@@ -1,0 +1,12 @@
+{
+  "id": "0a89c264-4809-4580-818a-de4afe2c4186",
+  "instruction": "Classify the product as either a \"tool\" or a \"toy\".",
+  "input": "Remote-controlled car",
+  "output": "Tool",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

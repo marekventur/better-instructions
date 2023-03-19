@@ -1,0 +1,12 @@
+{
+  "id": "4476af52-9279-4d97-85a7-8393500a45a3",
+  "instruction": "Given a list of facts, describe the characteristics of a person described by those facts.",
+  "input": "He is responsible, thorough and organized.",
+  "output": "The person described by these facts is likely to be a very responsible, thorough and organized individual. He will likely take care of all tasks given to him, ensuring accuracy and attention to detail. He will also likely be organized, setting up his work routine in a way that allows for efficient progress.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

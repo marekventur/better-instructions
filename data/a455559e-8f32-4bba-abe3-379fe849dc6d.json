@@ -1,0 +1,12 @@
+{
+  "id": "a455559e-8f32-4bba-abe3-379fe849dc6d",
+  "instruction": "Suggest an algorithm for reverse a linked list.",
+  "input": "",
+  "output": "def reverse_list(head):\n    prev = None\n    curr = head\n    \n    while curr is not None:\n        next_node = curr.next\n        curr.next = prev\n        prev = curr\n        curr = next_node\n    \n    head = prev\n    return head",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

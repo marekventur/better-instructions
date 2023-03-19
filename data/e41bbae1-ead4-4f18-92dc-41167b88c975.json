@@ -1,0 +1,12 @@
+{
+  "id": "e41bbae1-ead4-4f18-92dc-41167b88c975",
+  "instruction": "Calculate the surface area of an octagonal prism.",
+  "input": "Octagonal prism with each side 3 cm in length and height is 5 cm",
+  "output": "The surface area of the octagonal prism is 403.5 cm2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

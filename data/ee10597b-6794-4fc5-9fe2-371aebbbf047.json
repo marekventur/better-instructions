@@ -1,0 +1,12 @@
+{
+  "id": "ee10597b-6794-4fc5-9fe2-371aebbbf047",
+  "instruction": "Describe the difference between scalar and vector quantity.",
+  "input": "",
+  "output": "A scalar quantity is a one-dimensional quantity that is only defined by a magnitude, while a vector quantity is a multiple-dimensional quantity that is defined by both magnitude and direction. Scalar quantities include speed, mass, temperature, energy and volume, while vector quantities include velocity, acceleration, force and momentum. A scalar quantity can be represented in one dimension or unit, while a vector quantity always requires two or more units to describe the magnitude and direction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

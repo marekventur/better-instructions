@@ -1,0 +1,12 @@
+{
+  "id": "ec1641b9-7ffa-4182-8959-a1446b126b60",
+  "instruction": "Delete the extra words and make the sentence grammatical.",
+  "input": "The meeting tomorrow will be would cancelled because of the bad weather.",
+  "output": "The meeting tomorrow will be cancelled because of the bad weather.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

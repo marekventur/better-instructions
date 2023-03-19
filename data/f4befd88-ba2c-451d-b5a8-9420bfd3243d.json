@@ -1,0 +1,12 @@
+{
+  "id": "f4befd88-ba2c-451d-b5a8-9420bfd3243d",
+  "instruction": "List all possible numbers from the given range inclusively.",
+  "input": "Range: 10 to 18",
+  "output": "10, 11, 12, 13, 14, 15, 16, 17, 18",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

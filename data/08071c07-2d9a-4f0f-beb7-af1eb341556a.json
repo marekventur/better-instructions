@@ -1,0 +1,12 @@
+{
+  "id": "08071c07-2d9a-4f0f-beb7-af1eb341556a",
+  "instruction": "Construct a function to find the area of a rectangle.",
+  "input": "",
+  "output": "def find_area(length, width): \n  area = length * width\n  return area",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fc960029-652c-4125-8858-5dbc1849da23",
+  "instruction": "Predict whether the given Twitter post contains antagonizing language.",
+  "input": "\"Some people need to realize their opinions do not matter.\"",
+  "output": "yes, the post contains antagonizing language.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

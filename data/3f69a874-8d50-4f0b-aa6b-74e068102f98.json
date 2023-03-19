@@ -1,0 +1,12 @@
+{
+  "id": "3f69a874-8d50-4f0b-aa6b-74e068102f98",
+  "instruction": "Given the following string, remove all white spaces.",
+  "input": "Hello   world",
+  "output": "Helloworld",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

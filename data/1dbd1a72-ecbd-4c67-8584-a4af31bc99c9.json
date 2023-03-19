@@ -1,0 +1,12 @@
+{
+  "id": "1dbd1a72-ecbd-4c67-8584-a4af31bc99c9",
+  "instruction": "Write a paragraph explaining how the given term is used in research",
+  "input": "Data Visualization",
+  "output": "Data Visualization is an essential tool in research and analysis. It is used to represent and interpret large amounts of data in visually appealing ways, such as graphs, tables, and maps. Doing so allows researchers to identify patterns, relationships, and trends that may not be obvious in the raw data. Visualization also allows communication of complex data in simple, intuitive ways to be readily understood by both experts and nonexperts alike.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

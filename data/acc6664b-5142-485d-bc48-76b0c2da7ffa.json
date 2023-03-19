@@ -1,0 +1,12 @@
+{
+  "id": "acc6664b-5142-485d-bc48-76b0c2da7ffa",
+  "instruction": "Categorize the given animal into its class.",
+  "input": "Gorilla",
+  "output": "The Gorilla is a mammal belonging to the order Primates. It is the largest living primate species.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

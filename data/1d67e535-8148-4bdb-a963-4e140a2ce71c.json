@@ -1,0 +1,12 @@
+{
+  "id": "1d67e535-8148-4bdb-a963-4e140a2ce71c",
+  "instruction": "Edit this sentence so it remains gramatically correct.",
+  "input": "We is going to the store.",
+  "output": "We are going to the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

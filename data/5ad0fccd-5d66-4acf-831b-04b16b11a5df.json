@@ -1,0 +1,12 @@
+{
+  "id": "5ad0fccd-5d66-4acf-831b-04b16b11a5df",
+  "instruction": "Analyze the given product description and suggest 5 performance enhancements.",
+  "input": "This smartphone is designed with the latest version of Android, a 13MP primary camera, a 5.5-inch HD display, and a fingerprint sensor for added security.",
+  "output": "1. Increase the camera resolution to 20MP. \n2. Add an autofocus function to the camera.\n3. Increase the battery capacity for longer usage.\n4. Design the phone with a faster processor for improved performance.\n5. Add a waterproof feature for added protection.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

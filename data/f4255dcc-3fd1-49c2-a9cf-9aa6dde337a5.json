@@ -1,0 +1,12 @@
+{
+  "id": "f4255dcc-3fd1-49c2-a9cf-9aa6dde337a5",
+  "instruction": "Compose a 4-measure melody in C minor.",
+  "input": "",
+  "output": "| C min | G min | F maj | B\u266d maj | \n| :---: | :---: | :---: | :---: |\n| C4    | G3    | F4    | B\u266d4   |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

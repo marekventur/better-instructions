@@ -1,0 +1,12 @@
+{
+  "id": "b9f9c100-35d2-4b0a-b442-43313d027d2c",
+  "instruction": "Write a sentence which has a analogy structure and conveys the given message. Output the sentence.",
+  "input": "The business was forced to downsize due to low income.",
+  "output": "The business was trimming down like a plant in drought due to its low income.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

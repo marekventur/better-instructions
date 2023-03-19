@@ -1,0 +1,12 @@
+{
+  "id": "3d2109af-556c-4677-9fda-9b5ab76fe2ea",
+  "instruction": "Replace mispelled words in the following sentence:",
+  "input": "Thiis is a sentce wuith some mispelled woads.",
+  "output": "This is a sentence with some mispelled words.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

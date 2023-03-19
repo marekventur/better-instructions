@@ -1,0 +1,12 @@
+{
+  "id": "8e0c93b1-1cf3-4905-bcc4-d9fca81a1ec0",
+  "instruction": "Convert the following statement into a code snippet.",
+  "input": "Print the sum of 1 and 2.",
+  "output": "Console.log(1 + 2);",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

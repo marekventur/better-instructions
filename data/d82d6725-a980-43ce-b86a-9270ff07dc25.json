@@ -1,0 +1,12 @@
+{
+  "id": "d82d6725-a980-43ce-b86a-9270ff07dc25",
+  "instruction": "Calculate the average monthly salary for the sales team.",
+  "input": "The sales team has 10 people. The salaries range from $2,000 to $6,000 per month.",
+  "output": "The average monthly salary for the sales team is $4,000.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

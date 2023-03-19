@@ -1,0 +1,12 @@
+{
+  "id": "91389e95-001b-4335-b64c-dd24ce14a201",
+  "instruction": "Analyze the following text and identify what type of text it is.",
+  "input": "The fires on the hillside spread quickly and destroyed much of the town.",
+  "output": "This is an example of a descriptive text.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

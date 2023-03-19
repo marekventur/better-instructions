@@ -1,0 +1,12 @@
+{
+  "id": "7ff44da7-de51-4674-ad22-55abdc25b5b6",
+  "instruction": "Categorize the following items as either a vehicle or animal: \"Truck\", \"Elephant\".",
+  "input": "",
+  "output": "Truck: Vehicle\nElephant: Animal",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

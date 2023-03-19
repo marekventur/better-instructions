@@ -1,0 +1,12 @@
+{
+  "id": "f754d9da-4763-4392-bd7b-d5a1c6c54b27",
+  "instruction": "Classify the following news report into three categories: Politics, Economics and Social.",
+  "input": "The United Nations Security Council has unanimously adopted resolution 2371 that establishes a tough new sanctions regime against North Korea in response to its ongoing weapons program.",
+  "output": "Politics",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

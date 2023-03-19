@@ -1,0 +1,12 @@
+{
+  "id": "9f28484b-f08e-4653-9dd0-dc436bf32638",
+  "instruction": "Generate a list of topics to include in a given document.",
+  "input": "A guide to creating a business plan",
+  "output": "A business plan guide should include topics such as setting and achieving goals, understanding the market and target audience, researching and analyzing competitors, creating and tracking financial models, writing a business plan executive summary, and determining appropriate financing options.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

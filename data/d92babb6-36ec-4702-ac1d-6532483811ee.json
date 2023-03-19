@@ -1,0 +1,12 @@
+{
+  "id": "d92babb6-36ec-4702-ac1d-6532483811ee",
+  "instruction": "Change the font style and size of the text in this document.",
+  "input": "<p style=\"font-family: Arial; font-size: 12px;\">This is a test document.</p>",
+  "output": "<p style=\"font-family: Times New Roman; font-size: 24px;\">This is a test document.</p>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

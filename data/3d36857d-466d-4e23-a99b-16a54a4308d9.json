@@ -1,0 +1,12 @@
+{
+  "id": "3d36857d-466d-4e23-a99b-16a54a4308d9",
+  "instruction": "Rewrite the phrase in inverted word order.",
+  "input": "The sun rises in the east",
+  "output": "In the east rises the sun.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

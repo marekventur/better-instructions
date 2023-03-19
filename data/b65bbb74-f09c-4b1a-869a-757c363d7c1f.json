@@ -1,0 +1,12 @@
+{
+  "id": "b65bbb74-f09c-4b1a-869a-757c363d7c1f",
+  "instruction": "Order the given events chronologically.",
+  "input": "Jamestown was founded, American Revolution, Emancipation Proclamation",
+  "output": "The given events should be ordered chronologically as:\nJamestown was founded, American Revolution, Emancipation Proclamation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

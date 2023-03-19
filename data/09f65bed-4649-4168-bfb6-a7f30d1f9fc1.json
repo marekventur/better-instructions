@@ -1,0 +1,12 @@
+{
+  "id": "09f65bed-4649-4168-bfb6-a7f30d1f9fc1",
+  "instruction": "Ask a question that someone buying the product might have.",
+  "input": "Smart Fridge Pro, a Wi-Fi enabled fridge that connects to the internet and can provide recipes and detailed nutrition advice.",
+  "output": "What types of nutrition advice can Smart Fridge Pro provide?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

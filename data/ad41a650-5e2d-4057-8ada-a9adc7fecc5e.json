@@ -1,0 +1,12 @@
+{
+  "id": "ad41a650-5e2d-4057-8ada-a9adc7fecc5e",
+  "instruction": "Given a variety of adjectives, classify them into three categories: negative, neutral and positive",
+  "input": "hostile, agreeable, tolerant, respectful",
+  "output": "Negative: hostile\nNeutral: tolerant\nPositive: agreeable, respectful",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

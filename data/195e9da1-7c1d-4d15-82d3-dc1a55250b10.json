@@ -1,0 +1,12 @@
+{
+  "id": "195e9da1-7c1d-4d15-82d3-dc1a55250b10",
+  "instruction": "Please separate the complete sentences given below into words",
+  "input": "The sun rises in the east",
+  "output": "The | sun | rises | in | the | east",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

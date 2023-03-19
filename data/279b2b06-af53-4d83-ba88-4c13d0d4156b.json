@@ -1,0 +1,12 @@
+{
+  "id": "279b2b06-af53-4d83-ba88-4c13d0d4156b",
+  "instruction": "Given a user query, suggest a relevant title.",
+  "input": "Query: Best hotels in London",
+  "output": "\"Top-Rated Hotels: An Ultimate Guide to London\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

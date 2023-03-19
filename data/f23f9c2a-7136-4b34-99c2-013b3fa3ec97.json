@@ -1,0 +1,12 @@
+{
+  "id": "f23f9c2a-7136-4b34-99c2-013b3fa3ec97",
+  "instruction": "Come up with a script to automate a given task.",
+  "input": "Scraping data from a website.",
+  "output": "We can create a script to automate the task of scraping data from a website. The script will first access the website, extract data from the HTML text, parse the data, and then store the data in a database or file. For example, the script can make use of Python libraries such as requests and BeautifulSoup to make API requests, parse the HTML text, and store the desired data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

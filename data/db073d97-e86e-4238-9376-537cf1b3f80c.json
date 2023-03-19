@@ -1,0 +1,12 @@
+{
+  "id": "db073d97-e86e-4238-9376-537cf1b3f80c",
+  "instruction": "Write a function that takes a string parameter and returns the same string in reverse",
+  "input": "",
+  "output": "def reverse_string(string):\n    reversed_string = \"\"\n    forchar in string: \n        reversed_string = char + reversed_string\n    return reversed_string",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "48c58825-95a9-4ec9-bb30-0eebb7d5d24d",
+  "instruction": "Given the following input, suggest a way to optimize the process.",
+  "input": "Processing incoming orders",
+  "output": "The process can be optimized by automating repetitive tasks and streamlining the workflow. For example, implementing a digital system to manage order information would reduce the need for manual data entry. Additionally, creating an automated system to track customers\u2019 order history would help identify potential customers and improve customer service.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

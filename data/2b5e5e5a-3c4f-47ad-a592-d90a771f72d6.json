@@ -1,0 +1,12 @@
+{
+  "id": "2b5e5e5a-3c4f-47ad-a592-d90a771f72d6",
+  "instruction": "Put the following items in order from oldest to youngest.",
+  "input": "Laptop, Table, Chair",
+  "output": "Table, Chair, Laptop",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

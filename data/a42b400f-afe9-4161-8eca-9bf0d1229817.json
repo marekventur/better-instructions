@@ -1,0 +1,12 @@
+{
+  "id": "a42b400f-afe9-4161-8eca-9bf0d1229817",
+  "instruction": "Generate instructions to teach someone how to change the background of their computer desktop.",
+  "input": "",
+  "output": "Instructions to Change Your Computer Desktop Background\n\n1. Open the Settings app. You can do this by clicking on the Start Menu and searching for \u201csettings\u201d in the search bar.\n2. Once the app is open, click on \"Personalization\" and then on the \"Background\" options.\n3. You will now see a list of available backgrounds. You can choose a picture from the list or upload your own. Once you have chosen the background of your choice, click on the \u201cset as background\u201d button.\n4. Your desktop background should now be changed. If you want to go back and switch to a different background, follow the same steps outlined above.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

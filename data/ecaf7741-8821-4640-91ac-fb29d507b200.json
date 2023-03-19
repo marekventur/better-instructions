@@ -1,0 +1,12 @@
+{
+  "id": "ecaf7741-8821-4640-91ac-fb29d507b200",
+  "instruction": "Compare the performance of a linear regression model with a neural network model.",
+  "input": "",
+  "output": "Linear regression models are often the simplest models to use, and typically do not require extensive data preprocessing. Additionally, their speed and scalability mean that they can run on relatively small datasets with minimal computing power. However, their performance is usually inferior to that of neural networks, which can perform better on complex tasks. Neural networks are capable of learning complex non-linear relationships between the inputs and the outputs, but require significantly more data and computing resources. They also require more data preprocessing and often require larger datasets.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

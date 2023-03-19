@@ -1,0 +1,12 @@
+{
+  "id": "be62de47-04f5-4bb0-9122-6dafb0d56250",
+  "instruction": "Read the following sentence and create a sentence expressing the opposite.",
+  "input": "I plan to graduate college in 2024.",
+  "output": "I don't plan to graduate college in 2024.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

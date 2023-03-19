@@ -1,0 +1,12 @@
+{
+  "id": "b813ab58-df9e-4477-bf5a-3b7cf1bed04b",
+  "instruction": "Reshape the list of words into an alphabetically ordered list",
+  "input": "government, month, ocean, paper",
+  "output": "month, ocean, paper, government.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

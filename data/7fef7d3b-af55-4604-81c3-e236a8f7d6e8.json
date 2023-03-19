@@ -1,0 +1,12 @@
+{
+  "id": "7fef7d3b-af55-4604-81c3-e236a8f7d6e8",
+  "instruction": "Classify the following computer languages into either low-level or high-level.",
+  "input": "- Java\n- C++\n- Assembly",
+  "output": "- Java: High-Level\n- C++: High-Level\n- Assembly: Low-Level",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

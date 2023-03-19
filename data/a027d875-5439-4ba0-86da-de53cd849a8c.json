@@ -1,0 +1,12 @@
+{
+  "id": "a027d875-5439-4ba0-86da-de53cd849a8c",
+  "instruction": "Calculate the area of this triangle using the given measurenments.",
+  "input": "The base of the triangle is 10 cm and the height is 12 cm.",
+  "output": "60 cm^2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

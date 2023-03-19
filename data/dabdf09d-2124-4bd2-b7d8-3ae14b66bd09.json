@@ -1,0 +1,12 @@
+{
+  "id": "dabdf09d-2124-4bd2-b7d8-3ae14b66bd09",
+  "instruction": "Categorize the following item into the appropriate class.",
+  "input": "Bus",
+  "output": "Vehicle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

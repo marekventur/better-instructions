@@ -1,0 +1,12 @@
+{
+  "id": "b47e4f2f-34e6-409e-a89b-fee4f075fc61",
+  "instruction": "Take the following texts and complete them with necessary commas.",
+  "input": "I usually cook pasta with tomatoes basil and garlic",
+  "output": "I usually cook pasta with tomatoes, basil, and garlic.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

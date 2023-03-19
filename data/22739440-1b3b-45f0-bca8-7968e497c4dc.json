@@ -1,0 +1,12 @@
+{
+  "id": "22739440-1b3b-45f0-bca8-7968e497c4dc",
+  "instruction": "Determine the age of a person given his date of birth.",
+  "input": "Date of Birth: February 3, 1990",
+  "output": "30",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

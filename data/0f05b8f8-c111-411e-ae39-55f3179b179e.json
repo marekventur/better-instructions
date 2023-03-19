@@ -1,0 +1,12 @@
+{
+  "id": "0f05b8f8-c111-411e-ae39-55f3179b179e",
+  "instruction": "Spin the sentence by using a synonym of the given word.",
+  "input": "He learned to break the cycle.",
+  "output": "He learned to disrupt the cycle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

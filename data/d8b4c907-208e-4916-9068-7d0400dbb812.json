@@ -1,0 +1,12 @@
+{
+  "id": "d8b4c907-208e-4916-9068-7d0400dbb812",
+  "instruction": "Given a list of topics, find a source or a citation for each topic.",
+  "input": "Topics: Climate Change, US Presidential Elections",
+  "output": "Climate Change: NASA. (2020). Climate change: How it affects us. https://climate.nasa.gov/effects/\nUS Presidential Elections: United States Elections Project. (2020). State-level presidential election results by year. https://www.electproject.org/2020-primary",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

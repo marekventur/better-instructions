@@ -1,0 +1,12 @@
+{
+  "id": "3d7a8eae-a965-4269-983b-50a81c3871d7",
+  "instruction": "Given a dialogue, identify any possible red flags.",
+  "input": "- Customer: I'm interested in buying this product, but I can't afford it right now.\n- Agent: That's okay, I can give you a loan to cover it.",
+  "output": "The red flag in this dialogue is that the agent is offering a loan to the customer to purchase the product, which could be a sign of predatory lending.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

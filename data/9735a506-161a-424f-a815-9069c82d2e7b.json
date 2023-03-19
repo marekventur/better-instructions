@@ -1,0 +1,12 @@
+{
+  "id": "9735a506-161a-424f-a815-9069c82d2e7b",
+  "instruction": "List the main components of a computer and provide a brief description of each",
+  "input": "",
+  "output": "The main components of a computer are the Central Processing Unit (CPU); Memory; Storage;Input/Output (I/O); and the Motherboard. The CPU processes data and executes commands. Memory stores programs and data that the CPU can access. Storage holds data so that the computer can access and use it later. Input/Output devices allow data to be sent to the CPU and receive data from the CPU. The Motherboard houses all the components of the computer and allows them to communicate with each other.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

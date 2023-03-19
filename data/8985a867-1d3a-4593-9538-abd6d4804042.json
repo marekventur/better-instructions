@@ -1,0 +1,12 @@
+{
+  "id": "8985a867-1d3a-4593-9538-abd6d4804042",
+  "instruction": "Identify a musical instrument from the following description.",
+  "input": "A string instrument with a bow used to play classical music.",
+  "output": "A violin.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

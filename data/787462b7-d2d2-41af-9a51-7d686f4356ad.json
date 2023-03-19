@@ -1,0 +1,12 @@
+{
+  "id": "787462b7-d2d2-41af-9a51-7d686f4356ad",
+  "instruction": "Name three differences between an X-ray and a CT scan.",
+  "input": "",
+  "output": "1. An X-ray utilizes external radiation to produce an image, while a CT scan uses internal radiation.\n2. An X-ray has limited depth of view, while a CT scan can provide images of greater depth.\n3. X-rays are cheaper and easier to administer than CT scans.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

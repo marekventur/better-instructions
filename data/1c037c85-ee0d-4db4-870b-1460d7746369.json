@@ -1,0 +1,12 @@
+{
+  "id": "1c037c85-ee0d-4db4-870b-1460d7746369",
+  "instruction": "Explain how a fixed-width font is different from a proportional font",
+  "input": "",
+  "output": "A fixed-width font is a type of font where each character takes up the same amount of space, while a proportional font is a type of font where each character takes up an amount of space based on its size. Fixed-width fonts are typically used to display text in a structured way, such as when coding, while proportional fonts are mainly used for text display, such as when formatting a document.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

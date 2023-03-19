@@ -1,0 +1,12 @@
+{
+  "id": "40ce28ec-e634-49b1-897a-a2254986af65",
+  "instruction": "Rewrite given statement so that it is in the third person.",
+  "input": "I am excited to go shopping.",
+  "output": "She is excited to go shopping.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

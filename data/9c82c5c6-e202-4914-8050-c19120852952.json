@@ -1,0 +1,12 @@
+{
+  "id": "9c82c5c6-e202-4914-8050-c19120852952",
+  "instruction": "Is the following sentence a compound sentence?",
+  "input": "The actress sang a song and danced.",
+  "output": "Yes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

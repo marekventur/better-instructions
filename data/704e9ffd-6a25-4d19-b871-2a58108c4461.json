@@ -1,0 +1,12 @@
+{
+  "id": "704e9ffd-6a25-4d19-b871-2a58108c4461",
+  "instruction": "Analyze the given financial report and identify any potential problems or risks.",
+  "input": "The company's total income has declined by 15% in the past quarter",
+  "output": "The financial report shows that the company's total income has declined by 15%, which could be indicative of potential financial problems or risks. The company may need to re-evaluate its current strategies and find new ways to increase income. Other performance indicators such as expenses and profits should also be analysed for further insights.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

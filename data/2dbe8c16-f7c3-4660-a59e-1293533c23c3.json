@@ -1,0 +1,12 @@
+{
+  "id": "2dbe8c16-f7c3-4660-a59e-1293533c23c3",
+  "instruction": "Evaluate the expression 5 + (4 x 10).",
+  "input": "",
+  "output": "5 + (4 x 10) = 45.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

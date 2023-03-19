@@ -1,0 +1,12 @@
+{
+  "id": "62342e37-aff2-42a9-be46-38d97c8ab720",
+  "instruction": "Find the word with the longest length in this sentence",
+  "input": "I am delighted to meet you",
+  "output": "Delighted",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

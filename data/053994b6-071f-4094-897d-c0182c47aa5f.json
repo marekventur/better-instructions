@@ -1,0 +1,12 @@
+{
+  "id": "053994b6-071f-4094-897d-c0182c47aa5f",
+  "instruction": "Join two sentences to make one.",
+  "input": "John was reading a book. The book was interesting.",
+  "output": "John was reading an interesting book.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

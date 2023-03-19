@@ -1,0 +1,12 @@
+{
+  "id": "33c31d21-0a19-4233-ab7c-54a27b970171",
+  "instruction": "Given two independent events, calculate the probability of both events occuring.",
+  "input": "Event A: Rolling a 3 on a six-sided die\nEvent B: Drawing a heart from a deck of cards",
+  "output": "The probability of both events occuring is 1/6 x 1/52 = 1/312.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

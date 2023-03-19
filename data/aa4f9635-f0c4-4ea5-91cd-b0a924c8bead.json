@@ -1,0 +1,12 @@
+{
+  "id": "aa4f9635-f0c4-4ea5-91cd-b0a924c8bead",
+  "instruction": "Reformulate the statement using a different structure.",
+  "input": "The dog barked at the mail carrier.",
+  "output": "The mail carrier was barked at by the dog.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8526f961-6403-417e-b1be-aba6f52c5aa4",
+  "instruction": "How can we classify the given set of numbers?",
+  "input": "2, 4, 6, 8",
+  "output": "The given set can be classified as even numbers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

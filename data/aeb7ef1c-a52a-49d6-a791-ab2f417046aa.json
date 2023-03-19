@@ -1,0 +1,12 @@
+{
+  "id": "aeb7ef1c-a52a-49d6-a791-ab2f417046aa",
+  "instruction": "Describe the shape of an obtuse triangle in 50 words.",
+  "input": "",
+  "output": "An obtuse triangle is a type of triangle where one of the interior angles of the triangle is greater than 90 degrees. It is also known as an oblique triangle. The sides of the triangle are not necessarily unequal, and the angle between them can vary from greater than 90 degrees to less than 180 degrees. The obtuse triangle has two acute angles and one obtuse angle. The longest side of the triangle is opposite the obtuse angle. The sum of the length of the two shorter sides is less than the longest side.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

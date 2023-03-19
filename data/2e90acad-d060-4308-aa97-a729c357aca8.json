@@ -1,0 +1,12 @@
+{
+  "id": "2e90acad-d060-4308-aa97-a729c357aca8",
+  "instruction": "Which of the given sentences is a compound sentence?",
+  "input": "I love to travel and I am always fascinated by new places.\nHe went to the store but he forgot to buy milk.",
+  "output": "The sentence \"He went to the store but he forgot to buy milk\" is a compound sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "69b2015f-e740-4880-a4fc-dd9c9f4f5db7",
+  "instruction": "Generate a piece of code in Python that could be used to calculate the cost of a product.",
+  "input": "price = 15; quantity = 10;",
+  "output": "total_cost = price * quantity\nprint(\"The total cost of the product is:\",total_cost,\"dollars\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

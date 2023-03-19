@@ -1,0 +1,12 @@
+{
+  "id": "49dcd332-2974-46b6-b844-48899f650004",
+  "instruction": "Classify the following email as either \"work-related\" or \"personal\".",
+  "input": "Dear [person name],\n\nI'm writing to invite you to the launch of our company's new product. We are so excited to be launching it, and you'll be one of the first people to get to experience it. \n\nBest,\n[my name]",
+  "output": "work-related",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

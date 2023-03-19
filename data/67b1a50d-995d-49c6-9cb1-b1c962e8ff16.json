@@ -1,0 +1,12 @@
+{
+  "id": "67b1a50d-995d-49c6-9cb1-b1c962e8ff16",
+  "instruction": "Rewrite the list of products using formatting techniques.",
+  "input": "Glass \u2013 10 units\nSilver \u2013 5 units\nWood \u2013 2 units",
+  "output": "- Glass: 10 units\n- Silver: 5 units\n- Wood: 2 units",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

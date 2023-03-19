@@ -1,0 +1,12 @@
+{
+  "id": "e5e61982-5fec-418a-9aa8-5443f285967c",
+  "instruction": "Find the solution to the equation ax3 + bx2 + cx + d = 0",
+  "input": "a = 1, b = -3, c = -3, d = -1",
+  "output": "The solution to the equation 1x3 - 3x2 - 3x - 1 = 0 is x = -1, 1 + (-\u221a3)i, and 1 - (-\u221a3)i.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

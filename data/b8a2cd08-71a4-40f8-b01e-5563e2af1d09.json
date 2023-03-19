@@ -1,0 +1,12 @@
+{
+  "id": "b8a2cd08-71a4-40f8-b01e-5563e2af1d09",
+  "instruction": "Edit the paragraph by changing the verb tenses of the verbs in the paragraph to the past tense.",
+  "input": "People are cheering when the Olympic gold medalist takes the stage. They wave the flags and celebrate the victory.",
+  "output": "People cheered when the Olympic gold medalist took the stage. They waved the flags and celebrated the victory.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

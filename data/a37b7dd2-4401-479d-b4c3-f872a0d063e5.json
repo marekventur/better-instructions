@@ -1,0 +1,12 @@
+{
+  "id": "a37b7dd2-4401-479d-b4c3-f872a0d063e5",
+  "instruction": "Construct a query to find related articles about a topic.",
+  "input": "Gardening",
+  "output": "SELECT * FROM articles WHERE topic = 'gardening' ORDER BY relevance DESC;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

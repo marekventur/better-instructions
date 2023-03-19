@@ -1,0 +1,12 @@
+{
+  "id": "9e8bbe26-9ef9-4146-bf64-72b89628b35a",
+  "instruction": "Pick one out of the two given alternatives. Output should be either \"Alternative A\" or \"Alternative B\".",
+  "input": "Alternative A: I prefer to watch movies at home.\nAlternative B: I prefer to watch movies at the cinema.",
+  "output": "Alternative A.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

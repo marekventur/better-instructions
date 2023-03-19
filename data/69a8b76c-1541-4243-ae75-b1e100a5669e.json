@@ -1,0 +1,12 @@
+{
+  "id": "69a8b76c-1541-4243-ae75-b1e100a5669e",
+  "instruction": "Classify the following sentence: The toy was red and blue.",
+  "input": "",
+  "output": "This sentence is classified as a description sentence because it is providing information about a noun (the toy). The sentence is describing the colors of the toy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

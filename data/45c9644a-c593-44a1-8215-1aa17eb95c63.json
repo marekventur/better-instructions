@@ -1,0 +1,12 @@
+{
+  "id": "45c9644a-c593-44a1-8215-1aa17eb95c63",
+  "instruction": "Given a linked list which has both odd and even elements, rearrange the elements of the list so that all even numbers appear after all odd numbers",
+  "input": "1->2->3->4->5->6->7->8->NULL",
+  "output": "1->3->5->7->2->4->6->8->NULL",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

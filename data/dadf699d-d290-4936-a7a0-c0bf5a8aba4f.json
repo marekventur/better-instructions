@@ -1,0 +1,12 @@
+{
+  "id": "dadf699d-d290-4936-a7a0-c0bf5a8aba4f",
+  "instruction": "Generate a computer program to calculate the area of rectangle",
+  "input": "",
+  "output": "def areaOfRectangle(length, width): \n  # Calculate area \n  area = length * width \n  # Return area \n  return area \n\n# Driver Code \nlength = 5\nwidth = 10\nprint(\"Area of rectangle =\", areaOfRectangle(length, width))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

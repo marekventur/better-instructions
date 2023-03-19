@@ -1,0 +1,12 @@
+{
+  "id": "ce597c44-b94e-4eed-9a7f-c26c7cdf92f6",
+  "instruction": "Please explain in three sentences how a GPS navigation system works.",
+  "input": "",
+  "output": "A GPS navigation system uses satellites to detect its location. The GPS receiver sends signals to the satellite which then send signals back containing information about the receiver's location, speed, and direction. This data is then used to calculate the distance to other points, enabling the user to receive directions and a map with the location of their destination.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

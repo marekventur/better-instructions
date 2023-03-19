@@ -1,0 +1,12 @@
+{
+  "id": "6429385a-d125-4b47-8fb1-712bff2067d0",
+  "instruction": "Generate a technical specification for a smartphone",
+  "input": "",
+  "output": "The smartphone features a 5.8 inch Full HD+ AMOLED display, an octa-core processor, 6GB of RAM and 128GB of expandable storage. It runs on the Android 9.0 Pie operating system and is powered by a 4000mAh battery. The device is equipped with a dual rear camera setup consisting of a 12-megapixel primary camera and a 5-megapixel secondary camera, and a 16-megapixel front-facing camera. Other features include dual-band Wi-Fi, Bluetooth, USB-C, and a fingerprint scanner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

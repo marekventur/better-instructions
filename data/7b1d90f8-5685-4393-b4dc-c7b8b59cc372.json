@@ -1,0 +1,12 @@
+{
+  "id": "7b1d90f8-5685-4393-b4dc-c7b8b59cc372",
+  "instruction": "Identify the nouns in the following sentence: \"My dog loves to chase sticks and fetch balls\".",
+  "input": "My dog loves to chase sticks and fetch balls",
+  "output": "Nouns in the sentence: dog, sticks, balls",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

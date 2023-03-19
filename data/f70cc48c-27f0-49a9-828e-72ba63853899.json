@@ -1,0 +1,12 @@
+{
+  "id": "f70cc48c-27f0-49a9-828e-72ba63853899",
+  "instruction": "Step-by-step instructions to change your computer's wallpaper.",
+  "input": "",
+  "output": "1. Right click on the desktop background, select \"Change Desktop Background\" \n2. Select the \"Desktop Background\" tab \n3. Click the \"Browse\" button to find the image you wish to set as the new wallpaper\n4. Select the image and click \"Open\"\n5. Select an option from the scrolling list of actions next to the image to set how it will display on your desktop \n6. Click \"Set Desktop\" when finished",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dda47ef1-39a6-4eca-9223-1f5020adb7bd",
+  "instruction": "Assemble the pieces of the sentence in the proper order.",
+  "input": "black and - the - cat - white",
+  "output": "The black and white cat.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

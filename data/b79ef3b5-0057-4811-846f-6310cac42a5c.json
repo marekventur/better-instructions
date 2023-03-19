@@ -1,0 +1,12 @@
+{
+  "id": "b79ef3b5-0057-4811-846f-6310cac42a5c",
+  "instruction": "Create a todo list which you can use to organize daily tasks.",
+  "input": "",
+  "output": "1. Wake up and get dressed.\n2. Make breakfast.\n3. Do one pleasant task.\n4. Do one unpleasant task.\n5. Make lunch.\n6. Check emails.\n7. Do one creative task. \n8. Do one physical task.\n9. Make dinner.\n10. Revise the to do list for tomorrow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

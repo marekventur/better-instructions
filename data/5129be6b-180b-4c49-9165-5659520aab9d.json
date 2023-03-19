@@ -1,0 +1,12 @@
+{
+  "id": "5129be6b-180b-4c49-9165-5659520aab9d",
+  "instruction": "Design an algorithm to remove duplicates from a given array.",
+  "input": "",
+  "output": "def removeDuplicates(arr): \n    # create an empty list \n    res = [] \n   \n    # iterate over original array \n    for i in arr: \n        # if element is not in the result already, add it\n        if i not in res: \n            res.append(i) \n  \n    # return the result \n    return res",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

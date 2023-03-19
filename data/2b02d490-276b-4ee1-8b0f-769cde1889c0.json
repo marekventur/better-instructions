@@ -1,0 +1,12 @@
+{
+  "id": "2b02d490-276b-4ee1-8b0f-769cde1889c0",
+  "instruction": "For the given data frame, calculate the mean of the \"Grade\" column.",
+  "input": "Name\tGrade\nJohn\t87\nMary\t93\nKate\t88\nGeorge\t94",
+  "output": "The mean of the \"Grade\" column is 90.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

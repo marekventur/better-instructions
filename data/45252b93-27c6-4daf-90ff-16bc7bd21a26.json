@@ -1,0 +1,12 @@
+{
+  "id": "45252b93-27c6-4daf-90ff-16bc7bd21a26",
+  "instruction": "Investigate the energy consumption of a given building.",
+  "input": "A building with 100 people in a city of Vancouver, Canada",
+  "output": "The energy consumption of a building with 100 people in the city of Vancouver, Canada, is estimated to be between 320,000 and 500,000 kWh per year. This estimate is based on the city's average total energy usage of 2.55 MWh per capita per year. The exact amount will depend on the size of the building and the type of energy it consumes. Energy efficient appliances, lighting and insulation can help reduce energy usage significantly. Additionally, renewable energy sources such as solar, wind and geothermal can provide additional cost savings. More efficient energy management strategies, such as smart meters and the implementation of building automation systems, can help reduce energy consumption further.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "83163dc5-84bd-4214-a2d6-ded86ffd6288",
+  "instruction": "Read the following paragraph and answer a question about the words used in it.",
+  "input": "Cognition refers to a set of mental processes that include attention, memory, language, problem-solving, perception, and decision-making. These processes are the basic mechanisms of the human mind and are essential for higher level thinking skills.\nQuestion: How many mental processes are mentioned in the paragraph?",
+  "output": "The paragraph mentions six mental processes: attention, memory, language, problem-solving, perception, and decision-making.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

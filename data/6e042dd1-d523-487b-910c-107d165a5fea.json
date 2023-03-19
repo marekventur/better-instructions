@@ -1,0 +1,12 @@
+{
+  "id": "6e042dd1-d523-487b-910c-107d165a5fea",
+  "instruction": "Classify the following sentence into appropriate categories: 1) Informative; 2) Argumentative; 3) Descriptive",
+  "input": "It was a very difficult exam",
+  "output": "1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

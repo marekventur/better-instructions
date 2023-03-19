@@ -1,0 +1,12 @@
+{
+  "id": "cea8d777-3875-454e-b031-31480e390e10",
+  "instruction": "Reverse engineer the interaction between Peter and the restaurant owner.",
+  "input": "Peter saw a restaurant the other day and noticed that it was closed. He asked the owner why it was closed and the owner said it was because of a plumbing failure.",
+  "output": "Peter noticed that the restaurant he saw the other day was closed and asked the owner why it was closed. The owner replied that it was because of a plumbing failure.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

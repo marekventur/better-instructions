@@ -1,0 +1,12 @@
+{
+  "id": "c8bda56c-bd68-4f26-ad0e-5f07b0bfaa81",
+  "instruction": "Design an exercise program for a person who would like to lose weight.",
+  "input": "Weight: 150 lbs",
+  "output": "Exercise Program for Weight Loss: \n\nMonday:\n- 15 minutes of interval training\n- 20 minutes of circuit training\n- 10 minutes of stretching\n\nTuesday:\n- 45 minutes of running or jogging\n- 15 minutes of strength training\n- 10 minutes of stretching\n\nWednesday:\n- 15 minutes of HIIT\n- 30 minutes of swimming\n- 10 minutes of stretching\n\nThursday:\n- 30 minutes of weightlifting\n- 10 minutes of core exercises\n- 10 minutes of stretching \n\nFriday:\n- 20 minutes of jumping rope \n- 20 minutes of cycling\n- 10 minutes of stretching\n\nSaturday: \n- 15 minutes of yoga\n- 15 minutes of Pilates \n- 10 minutes of stretching\n\nSunday:\nRest Day",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

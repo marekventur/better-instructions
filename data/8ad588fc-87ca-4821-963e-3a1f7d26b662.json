@@ -1,0 +1,12 @@
+{
+  "id": "8ad588fc-87ca-4821-963e-3a1f7d26b662",
+  "instruction": "Given three words, generate a sentence.",
+  "input": "cat, cake, slow",
+  "output": "The cat was walking slowly towards the cake.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

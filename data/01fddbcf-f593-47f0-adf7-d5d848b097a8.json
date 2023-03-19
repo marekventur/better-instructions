@@ -1,0 +1,12 @@
+{
+  "id": "01fddbcf-f593-47f0-adf7-d5d848b097a8",
+  "instruction": "Categorize a given business as a service-oriented or product-oriented one.",
+  "input": "Auto repair shop",
+  "output": "The auto repair shop is a service-oriented business.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

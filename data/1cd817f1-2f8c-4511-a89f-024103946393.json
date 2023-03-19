@@ -1,0 +1,12 @@
+{
+  "id": "1cd817f1-2f8c-4511-a89f-024103946393",
+  "instruction": "Output a way to reduce the effects of a given issue.",
+  "input": "Air Pollution",
+  "output": "One way to reduce the effects of air pollution is to reduce the amount of emissions from vehicles. This can be done by switching to electric cars, taking public transportation, and/or carpooling. Additionally, reducing the burning of fossil fuels, such as coal, as well as changing industrial processes and promoting green energy sources can help reduce air pollution.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

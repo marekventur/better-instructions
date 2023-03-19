@@ -1,0 +1,12 @@
+{
+  "id": "15448189-aeaf-481e-b9cf-418ccd349704",
+  "instruction": "Generate a quiz with 5 MCQs about computers.",
+  "input": "",
+  "output": "Q. What does RAM stands for?\nA. Random Access Memory\nB. Read and Memory \nC. RAM and ROM \nD. Rainbow and Memory\n\nQ. What is the full form of CPU?\nA. Central Processing Unit\nB. Compensatory Processing Unit\nC. Central Processor Unit\nD. Computing Processing Unity \n\nQ. What is the main function of a hard drive?\nA. To store programs and data\nB. To run programs\nC. To output audio and video\nD. To transmit data\n\nQ. What is the main difference between a modem and a router?\nA. Modems send data while routers receive data\nB. Modems are used to connect to the internet while routers are used to connect to a network\nC. Modems send and receive data while routers only send data\nD. Modems are wired while routers are wireless \n\nQ. What is an optical drive used for?\nA. To read CDs and DVDs\nB. To print documents\nC. To transfer data\nD. To store data",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

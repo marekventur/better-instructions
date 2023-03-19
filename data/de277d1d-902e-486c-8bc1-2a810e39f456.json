@@ -1,0 +1,12 @@
+{
+  "id": "de277d1d-902e-486c-8bc1-2a810e39f456",
+  "instruction": "Decompose the following equation into two.",
+  "input": "7x + 14 = 21",
+  "output": "7x = 21 - 14\n7x = 7",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

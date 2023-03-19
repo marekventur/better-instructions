@@ -1,0 +1,12 @@
+{
+  "id": "23a002dd-1260-4015-8c7e-15cff726fb56",
+  "instruction": "Using descriptive words to list the items in the fridge",
+  "input": "Fruit salad, cheese, milk, carrots, salad dressings",
+  "output": "The refrigerator's contents consist of a bowl full of juicy, brightly colored fruit salad, a block of creamy pale yellow cheese, a carton of white and frothy milk, crunchy orange carrots, and bottles of savory salad dressings.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c2983c41-e35c-4381-be09-53582e1b2793",
+  "instruction": "Make me a cup of tea.",
+  "input": "",
+  "output": "Step 1: Heat a cup of water in a pot until it starts boiling.\nStep 2: Add 1-2 teaspoons of tea leaves in the cup.\nStep 3: Pour the hot water into the cup and steep for 2-3 minutes.\nStep 4: Add milk or sugar to the tea according to your preference.\nStep 5: Strain the tea leaves and enjoy your cup of tea!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

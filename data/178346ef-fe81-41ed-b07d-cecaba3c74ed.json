@@ -1,0 +1,12 @@
+{
+  "id": "178346ef-fe81-41ed-b07d-cecaba3c74ed",
+  "instruction": "Suppose you want to remind yourself to do something in the future. Construct a reminder sentence that guides a GPT model.",
+  "input": "",
+  "output": "Remind me to [do something] at [specific date/time].",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

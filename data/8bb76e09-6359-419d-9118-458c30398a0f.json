@@ -1,0 +1,12 @@
+{
+  "id": "8bb76e09-6359-419d-9118-458c30398a0f",
+  "instruction": "Given an article, identify the main author's point of view.",
+  "input": "An article entitled \"The Impact of Technology on Modern Society\"",
+  "output": "The article is arguing that technology has had a positive impact on society.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

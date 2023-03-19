@@ -1,0 +1,12 @@
+{
+  "id": "3cf0d34a-1435-4155-9083-f418841964fa",
+  "instruction": "Generate a sequence of HTML code to create a landing page.",
+  "input": "",
+  "output": "<!DOCTYPE html>\n<html>\n    <head>\n        <title>Landing page</title>\n    </head>\n    <body>\n        <h1></h1>\n        <p></p>\n        <div>\n            <p></p>\n            <img src=\"\" alt=\"\">\n        </div>\n    </body>\n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

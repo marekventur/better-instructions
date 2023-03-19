@@ -1,0 +1,12 @@
+{
+  "id": "9696cbaf-c338-45de-ba17-ab9820fd749a",
+  "instruction": "Describe the procedure to start the server.",
+  "input": "",
+  "output": "The procedure to start the server usually involves running a start-up script, which will launch the server on the computer and allow it to start accepting connections. Some servers require additional configuration tasks to be completed before they can start, but these are usually detailed in the user manual.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

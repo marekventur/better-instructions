@@ -1,0 +1,12 @@
+{
+  "id": "1f4c1b7a-3585-4341-a5d6-f173af0d289b",
+  "instruction": "Detect the intent of this sentence.",
+  "input": "I want to offer more services to customers.",
+  "output": "The intent of this sentence is to indicate a desire to provide more services to customers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

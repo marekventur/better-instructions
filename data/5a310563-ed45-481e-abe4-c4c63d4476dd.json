@@ -1,0 +1,12 @@
+{
+  "id": "5a310563-ed45-481e-abe4-c4c63d4476dd",
+  "instruction": "Rewrite the given sentence using the appropriate conjunctions.",
+  "input": "He started laughing and then he stopped.",
+  "output": "He started laughing, but then he stopped.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

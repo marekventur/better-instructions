@@ -1,0 +1,12 @@
+{
+  "id": "ac164ce2-654a-4f5e-b41f-8198bfb7da61",
+  "instruction": "Identify the names of the three micro-services used in a model cloud architecture.",
+  "input": "",
+  "output": "A model cloud architecture typically utilizes three micro-services, these are: Storage Service, Compute Service and Network Service. These micro-services provide flexibility, scalability and security to the cloud architecture.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

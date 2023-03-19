@@ -1,0 +1,12 @@
+{
+  "id": "df4fb1f8-23e0-4839-881d-847b7403ce78",
+  "instruction": "Generate a hypothesis to explain the observed data.",
+  "input": "The research found that people with a higher educational attainment are more likely to be employed.",
+  "output": "The hypothesis generated from the research is that educational attainment is a possible indicator of employability, with people who have higher educational attainment being more likely to find employment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

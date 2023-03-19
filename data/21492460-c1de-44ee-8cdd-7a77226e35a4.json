@@ -1,0 +1,12 @@
+{
+  "id": "21492460-c1de-44ee-8cdd-7a77226e35a4",
+  "instruction": "Given the following inputs, identify the theme of the passage. Output the theme.",
+  "input": "George was a kind man who thought of others before himself. He worked hard but rarely reaped the rewards of his efforts. Each time something good happened to him, it never felt deserved. He was the type of person who always let the people around him have the glory.",
+  "output": "Selflessness.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "39b61643-5672-4ac1-bc8a-42942bc90cd2",
+  "instruction": "Convert a numerical value in days to its corresponding value in weeks.",
+  "input": "Numerical Value: 57",
+  "output": "8.14 weeks",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

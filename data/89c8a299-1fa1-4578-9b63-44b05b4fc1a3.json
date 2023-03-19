@@ -1,0 +1,12 @@
+{
+  "id": "89c8a299-1fa1-4578-9b63-44b05b4fc1a3",
+  "instruction": "Identify the tone of the paragraph.",
+  "input": "The world of business can be daunting and overwhelming to the uninitiated. Even the most successful new business owners can feel intimidated by the thought of managing the day-to-day tasks, meeting customer needs, and watching trends in the market place. It's worthwhile to familiarize yourself with the basics of launching and running a business, such as creating a business plan, financing the venture, marketing your products or services, and understanding tax issues and payroll requirements. As you move forward and gain experience, these basics will become increasingly less intimidating and you'll identify more efficient ways of managing your business.",
+  "output": "The tone of the paragraph is informative and encouraging. It is intended to provide useful information about launching and running a business. In addition, the writer conveys a sense of optimism and assurance that becoming familiar with the basics and gaining experience will lead to success.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

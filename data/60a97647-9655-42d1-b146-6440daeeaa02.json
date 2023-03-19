@@ -1,0 +1,12 @@
+{
+  "id": "60a97647-9655-42d1-b146-6440daeeaa02",
+  "instruction": "What is a K-Nearest Neighbor algorithm?",
+  "input": "",
+  "output": "K-Nearest Neighbor (KNN) is an algorithm used for supervised learning that can be used for classification and regression problems. It is based on the idea that the data points that are closer in the feature space are more similar than those that are further away. The algorithm will use the closest 'K' data points to make predictions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

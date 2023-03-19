@@ -1,0 +1,12 @@
+{
+  "id": "f3784388-ff6a-4ced-b4d7-f2eff48a01b0",
+  "instruction": "Are the following sentences parallel?",
+  "input": "He likes swimming, cycling, and to go camping.",
+  "output": "No, the sentences are not parallel. The correct version is: He likes swimming, cycling, and going camping.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

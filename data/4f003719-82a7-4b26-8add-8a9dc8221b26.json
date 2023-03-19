@@ -1,0 +1,12 @@
+{
+  "id": "4f003719-82a7-4b26-8add-8a9dc8221b26",
+  "instruction": "Suggest 5 methods for solving an optimization problem.",
+  "input": "",
+  "output": "1. Greedy Algorithm: A greedy algorithm is an algorithmic strategy where the optimal solution is chosen at each step in order to maximize an objective function. \n\n2. Gradient Descent: Gradient descent is an iterative algorithm which seeks to find a minimum by following the steepest descent from a given point.\n\n3. Simulated Annealing: Simulated annealing is a metaheuristic algorithm to find an approximate global optimum for a given objective function. \n\n4. Genetic Algorithm: A genetic algorithm uses evolutionary concepts such as mutation, selection, and crossover to sample solutions in search for a global optimum. \n\n5. Branch and Bound: Branch and bound is an algorithmic technique which consists of dividing the problem into subproblems and bounding the solution space to guarantee an optimal solution.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

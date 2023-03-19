@@ -1,0 +1,12 @@
+{
+  "id": "5d539a83-39ab-4cee-bc66-611107309d33",
+  "instruction": "Given the following input, replace the blanks in the story with appropriate words. Output the story.",
+  "input": "John was a ___ who enjoyed ___ water sports. He loved to ___ his kayak ___ the bay and explore the ___ underwater life.",
+  "output": "John was a sailor who enjoyed various water sports. He loved to paddle his kayak around the bay and explore the vibrant underwater life.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

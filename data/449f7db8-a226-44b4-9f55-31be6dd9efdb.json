@@ -1,0 +1,12 @@
+{
+  "id": "449f7db8-a226-44b4-9f55-31be6dd9efdb",
+  "instruction": "Take the given speech and make it more formal.",
+  "input": "Hey everyone, it's great to see you all here today. We need to discuss budget cuts for the new fiscal year.",
+  "output": "Good afternoon everyone. It is a pleasure to see you all here today. We need to address the issue of budget cuts for the upcoming fiscal year.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

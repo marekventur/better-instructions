@@ -1,0 +1,12 @@
+{
+  "id": "5fb2666f-d433-4818-af71-504e0a7cd04f",
+  "instruction": "Can you create a list of vocabulary words from the sentence?",
+  "input": "I'm biking to the beach tomorrow.",
+  "output": "Vocabulary words: I, biking, beach, tomorrow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

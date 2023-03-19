@@ -1,0 +1,12 @@
+{
+  "id": "123d9c76-9526-4f17-8008-46546cac2bd5",
+  "instruction": "Make a list of things that come to mind when you think of given place.",
+  "input": "Place: San Francisco",
+  "output": "1. Golden Gate Bridge\n2. The San Francisco Bay\n3. Alcatraz \n4. Cable Cars\n5. Fisherman's Wharf\n6. Downtown Area\n7. Chinatown\n8. Great Restaurants\n9. Hills\n10. Golden Gate Park\n11. Victorian Homes",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

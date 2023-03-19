@@ -1,0 +1,12 @@
+{
+  "id": "febebaf8-5f92-4000-a96c-9c2b59d98137",
+  "instruction": "Write a computer program that can detect fraud in credit card transactions.",
+  "input": "",
+  "output": "The program would be designed to detect fraud in credit card transactions by analyzing data such as past transactions and account information. It would look for patterns, discrepancies and suspicious activities on the account that could indicate fraud attempts. The program would alert the cardholder and the bank if it detects any abnormal activities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

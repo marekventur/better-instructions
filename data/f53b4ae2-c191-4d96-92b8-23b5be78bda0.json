@@ -1,0 +1,12 @@
+{
+  "id": "f53b4ae2-c191-4d96-92b8-23b5be78bda0",
+  "instruction": "Tell me the countries of origin for the given traditional foods.",
+  "input": "Patatas Bravas, Sushi",
+  "output": "Patatas Bravas: Spain \nSushi: Japan",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

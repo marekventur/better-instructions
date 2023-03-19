@@ -1,0 +1,12 @@
+{
+  "id": "f25ecb3b-0b6d-4dee-b8f9-9e7188d05b07",
+  "instruction": "Replace the italicized word with another word with the same meaning.",
+  "input": "It was my mom's habit to not brush her teeth before bed.",
+  "output": "It was my mom's practice to not brush her teeth before bed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

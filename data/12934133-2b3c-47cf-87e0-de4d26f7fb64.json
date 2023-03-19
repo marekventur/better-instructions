@@ -1,0 +1,12 @@
+{
+  "id": "12934133-2b3c-47cf-87e0-de4d26f7fb64",
+  "instruction": "Find the largest prime number in this group of numbers",
+  "input": "2, 7, 11, 14",
+  "output": "The largest prime number in the group is 11.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

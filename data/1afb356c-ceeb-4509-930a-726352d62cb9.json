@@ -1,0 +1,12 @@
+{
+  "id": "1afb356c-ceeb-4509-930a-726352d62cb9",
+  "instruction": "Rearrange the given words into a meaningful sentence and add a connective.",
+  "input": "person growth effective",
+  "output": "An effective growth of a person is possible with proper guidance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

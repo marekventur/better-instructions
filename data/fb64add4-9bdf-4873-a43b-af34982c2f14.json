@@ -1,0 +1,12 @@
+{
+  "id": "fb64add4-9bdf-4873-a43b-af34982c2f14",
+  "instruction": "Create a model to predict the demand of local produce in a specific region",
+  "input": "",
+  "output": "The model we propose to predict the demand of local produce in a specific region would be based on the historical data of the local produce market in the region. We would consider factors such as the population of the region, local farming industry and other available produce, what seasons the produce is available in, and seasonal climate fluctuations. Furthermore, we would also look at consumer shopping habits, as well as other environmental factors that may influence and drive the demand of local produce in that region. With all this data and feedback, we will be able to build an accurate model of the local produce demand.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4f2e5e98-9b9b-4cb1-9f0e-8154f9dc0d81",
+  "instruction": "Convert the sentence into the interrogative form.",
+  "input": "I will take the bus.",
+  "output": "Will I take the bus?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

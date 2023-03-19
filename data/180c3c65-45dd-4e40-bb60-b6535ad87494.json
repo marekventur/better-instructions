@@ -1,0 +1,12 @@
+{
+  "id": "180c3c65-45dd-4e40-bb60-b6535ad87494",
+  "instruction": "Find the area of the rectangular prism given its side lengths.",
+  "input": "Length=2, Width=3, Height=4",
+  "output": "24",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

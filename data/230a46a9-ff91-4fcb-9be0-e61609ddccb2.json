@@ -1,0 +1,12 @@
+{
+  "id": "230a46a9-ff91-4fcb-9be0-e61609ddccb2",
+  "instruction": "Construct a query to search for the following topic in a database.",
+  "input": "Search for articles about the ethics of artificial intelligence.",
+  "output": "SELECT * FROM Articles WHERE topic = 'ethics of artificial intelligence'.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

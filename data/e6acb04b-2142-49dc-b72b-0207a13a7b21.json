@@ -1,0 +1,12 @@
+{
+  "id": "e6acb04b-2142-49dc-b72b-0207a13a7b21",
+  "instruction": "Select an animal and explain why it is endangered.",
+  "input": "Snow Leopard",
+  "output": "The snow leopard is an endangered animal due to poaching, habitat destruction and fragmentation, and human-wildlife conflict. Its habitat is shrinking due to climate change, which is resulting in changes to the mountain habitat that these cats rely on for prey. Additionally, many people hunt them for their valuable fur and body parts, which has led to the depletion of their population.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "435ddcd3-22e3-4893-b219-ccab1e3bc1f9",
+  "instruction": "Compare the differences between HTML and JSON formats.",
+  "input": "",
+  "output": "HTML (HyperText Markup Language) is a markup language used to display data, while JSON (JavaScript Object Notation) is a lightweight data-interchange format. HTML is designed to display data in a structured format, while JSON is designed to transmit data between a server and a web application. HTML documents contain tags, while JSON objects contain data in name/value pairs. HTML documents are usually rendered in the browser, while JSON is primarily used to transfer data between a server and web application.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

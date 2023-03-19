@@ -1,0 +1,12 @@
+{
+  "id": "d13d498e-9d47-401e-af76-548d729636b9",
+  "instruction": "Take an existing document and suggest new ideas that can make the document more persuasive.",
+  "input": "This is a essay about the importance of local tourism.",
+  "output": "The essay should emphasize the importance of supporting local businesses and how local tourism helps lift the economy of a given region. It should also point out the benefits of experiencing a destination from the cultural and historical perspectives that can only come from local tourism. Furthermore, it should illustrate how the money from local tourism typically stays within the community, providing jobs and other local opportunities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "20eaef7a-249b-4d31-869e-c495f52d578c",
+  "instruction": "Summarize the article in the input.",
+  "input": "President Trump announced on Tuesday plans to withdraw from the Paris climate agreement, a sweeping environmental accord reached among nearly 200 countries in 2015 to reduce the emissions that are heating up the planet. The president has described the pact as a \u201cdisaster\u201d for the U.S. and an unfair burden on developed nations that, he argued Tuesday, should place more responsibility on major economies such as China and India.",
+  "output": "President Trump announced on Tuesday plans to withdraw from the Paris climate agreement, a global accord aimed to reduce emissions to prevent climate change. Trump argued the pact was a \"disaster\" for the U.S. and an unfair burden on developed nations, pushing for more responsibility on major economies like China and India.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

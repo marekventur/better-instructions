@@ -1,0 +1,12 @@
+{
+  "id": "c9d9d20a-80f5-4a44-8115-908f588bf27b",
+  "instruction": "Generate a multiple choice question from this sentence.",
+  "input": "The Grand Canyon is one of the greatest attractions in Arizona.",
+  "output": "Which state is the Grand Canyon located in?\nA. California \nB. Colorado \nC. Arizona \nD. New Mexico",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

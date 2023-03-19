@@ -1,0 +1,12 @@
+{
+  "id": "7d066eec-961b-4547-935e-cbe86b3781ab",
+  "instruction": "Edit the following sentence to remove the incorrect verb and replace it with a correct verb:",
+  "input": "I would like to living in a place near the beach.",
+  "output": "I would like to live in a place near the beach.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

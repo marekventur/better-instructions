@@ -1,0 +1,12 @@
+{
+  "id": "12ee7a66-4095-4742-9487-228f24e8cef3",
+  "instruction": "Color each statement as true or false",
+  "input": "Python is a programming language\nR is a statistical language",
+  "output": "Python: True\nR: True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

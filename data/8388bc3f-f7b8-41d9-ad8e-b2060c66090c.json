@@ -1,0 +1,12 @@
+{
+  "id": "8388bc3f-f7b8-41d9-ad8e-b2060c66090c",
+  "instruction": "Suggest a programming language to complete a task X.",
+  "input": "Task X: Machine Learning",
+  "output": "Python is a great language for Machine Learning tasks. It has a lot of libraries such as Scikit-Learn, TensorFlow, or Keras that are specifically designed for this purpose.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

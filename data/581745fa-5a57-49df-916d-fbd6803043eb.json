@@ -1,0 +1,12 @@
+{
+  "id": "581745fa-5a57-49df-916d-fbd6803043eb",
+  "instruction": "Generate a code to print the elements of an array in reverse order",
+  "input": "",
+  "output": "for (i = arraysize-1; i >= 0; i--)  \n{ \n    printf(\"%d \", array[i]); \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

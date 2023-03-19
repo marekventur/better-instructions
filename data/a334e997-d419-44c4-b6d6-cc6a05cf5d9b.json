@@ -1,0 +1,12 @@
+{
+  "id": "a334e997-d419-44c4-b6d6-cc6a05cf5d9b",
+  "instruction": "Rewrite the sentence making it a negative statement.",
+  "input": "He succeeded in his attempt.",
+  "output": "He did not fail in his attempt.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

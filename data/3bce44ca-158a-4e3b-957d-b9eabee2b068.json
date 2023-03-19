@@ -1,0 +1,12 @@
+{
+  "id": "3bce44ca-158a-4e3b-957d-b9eabee2b068",
+  "instruction": "Given a list of musical instruments, instruments, write some lyrics that feature each instrument.",
+  "input": "Guitar, viola, drums",
+  "output": "The strum of the guitar, the gentle bow of the viola, the beat of the drums - \nWe come together to create a harmony that thrums. \nThe guitar strums a rhythm, the viola plays a tune, the drums fill the heart with a merry tune. \nBringing joy and a spark of delight, \nLet's thread together music through the night.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

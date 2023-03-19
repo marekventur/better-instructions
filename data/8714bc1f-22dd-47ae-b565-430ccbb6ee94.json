@@ -1,0 +1,12 @@
+{
+  "id": "8714bc1f-22dd-47ae-b565-430ccbb6ee94",
+  "instruction": "Output a classification of the following article as either \"positive\" or \"negative\".",
+  "input": "A recent study conducted by the Brookings Institute has shown that online learning may be ineffective for college students, particularly for those studying in STEM fields.",
+  "output": "Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

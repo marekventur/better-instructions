@@ -1,0 +1,12 @@
+{
+  "id": "e43ed859-ca64-4f31-8102-1c3065f1bb5f",
+  "instruction": "What type of capital did the company have?",
+  "input": "The company received an equity funding of $5 million.",
+  "output": "The company had equity capital.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5ca31edc-1f6c-4099-9eca-83e8a00ab525",
+  "instruction": "Diagnose the issue with the following statement:",
+  "input": "\"The car won't start\"",
+  "output": "The issue could be with the battery, starter, spark plugs, fuel system or alternator. A diagnostic check should be done to determine the specific cause.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

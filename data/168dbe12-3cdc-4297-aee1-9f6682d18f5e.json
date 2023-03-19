@@ -1,0 +1,12 @@
+{
+  "id": "168dbe12-3cdc-4297-aee1-9f6682d18f5e",
+  "instruction": "Create a hashtable in Java.",
+  "input": "",
+  "output": "A hashtable in Java can be created using the java.util.Hashtable class. The Hashtable class is a concrete implementation of the Map interface and provides the base for adding and looking up key/value pairs. The keys must be objects, and the values can be either objects or primitive data types such as int, boolean, and double. To create a hashtable, first create a new instance of the Hashtable class, then use the put() and get() methods to add and retrieve key/value pairs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

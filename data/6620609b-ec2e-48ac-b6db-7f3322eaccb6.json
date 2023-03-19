@@ -1,0 +1,12 @@
+{
+  "id": "6620609b-ec2e-48ac-b6db-7f3322eaccb6",
+  "instruction": "Describe the typical applications of AI in the healthcare sector.",
+  "input": "",
+  "output": "AI is broadly used in the healthcare sector for tasks such as automated medical diagnoses, data analysis for medical research, administrative tasks such as scheduling, and drug development. Automated medical diagnoses involve AI systems that can accurately diagnose a disease or medical condition, such as cancer or diabetes, without needing a human doctor. Data analysis for medical research can use AI to quickly access and analyze large amounts of medical data in order to identify patterns or correlations that could lead to new medical treatments or disease prevention. AI can also be used to reduce administrative tasks such as scheduling patient appointments and managing hospital records. Finally, AI can be used to develop new drugs by analyzing molecular structures and simulating drug interactions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

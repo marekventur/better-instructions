@@ -1,0 +1,12 @@
+{
+  "id": "ac2e1dc3-07fa-4417-93a8-00c531bbcaaa",
+  "instruction": "Create a new noun phrase that is related to the given topic.",
+  "input": "Soccer",
+  "output": "Soccer fans",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

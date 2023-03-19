@@ -1,0 +1,12 @@
+{
+  "id": "f3cdc31a-aead-4d4b-9874-6c980483131c",
+  "instruction": "Identify the Canadian provinces mentioned in the given text.",
+  "input": "We flew from Edmonton to Montr\u00e9al, stopping by Regina, Vancouver, Quebec City and Winnipeg.",
+  "output": "Alberta, Saskatchewan, British Columbia, Quebec, Manitoba",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

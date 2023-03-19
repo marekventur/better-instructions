@@ -1,0 +1,12 @@
+{
+  "id": "db80f8a3-319f-4856-8599-27789e2cef9d",
+  "instruction": "Given a sentence, edit the sentence adding new words to make the sentence more complete.",
+  "input": "The student failed the tests.",
+  "output": "The student unfortunately failed all the tests he took.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

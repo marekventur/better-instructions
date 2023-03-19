@@ -1,0 +1,12 @@
+{
+  "id": "968e0c3e-6d89-4ac2-a85d-35fb15b3cf94",
+  "instruction": "Determine the type of the following text. Output 1 for narrative, and 0 for non-narrative.",
+  "input": "The movie follows the journey of a family as they face a difficult decision.",
+  "output": "1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "673122fc-4ed1-43eb-aa08-59928c3ee0ad",
+  "instruction": "Develop a machine learning system to identify signs of diabetes.",
+  "input": "",
+  "output": "The machine learning system should be able to identify signs of diabetes from health teck metrics such as blood pressure, cholesterol level, blood sugar levels, and body mass index. It should be able to analyze the data from these metrics to classify a patient as diabetic or non-diabetic. If a patient is determined to be diabetic, the system should also be able to give suggestions about the best course of action to take \u2013 such as medications, lifestyle changes, or other treatment options. Furthermore, the system should be able to monitor the patient\u2019s progress over time and adjust its recommendations accordingly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

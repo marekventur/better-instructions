@@ -1,0 +1,12 @@
+{
+  "id": "e20c82ab-c526-4263-906e-2f260fdb6b46",
+  "instruction": "Create a sample input that illustrates the concept of natural language processing",
+  "input": "",
+  "output": "Input: \"I would like to order two pizzas with pepperoni and extra cheese\"\nOutput: Two pizzas with pepperoni and extra cheese have been added to your order.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "16aee732-f88b-41fe-a4ec-5e300d271e64",
+  "instruction": "Compare the two countries according to their economic indicators.",
+  "input": "United States and United Kingdom",
+  "output": "The United States has a higher GDP than the United Kingdom ($21.44 trillion compared to $2.83 trillion). The United Kingdom has a higher inflation rate than the United States (2.1% compared to 1.9%). The United States has a higher household median income than the United Kingdom ($61,937 compared to $37,851).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

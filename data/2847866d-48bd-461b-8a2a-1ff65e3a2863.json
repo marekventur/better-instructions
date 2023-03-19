@@ -1,0 +1,12 @@
+{
+  "id": "2847866d-48bd-461b-8a2a-1ff65e3a2863",
+  "instruction": "Categorize this list of diseases into viral and bacterial.",
+  "input": "Influenza, Measles, Whooping Cough, Strept throat",
+  "output": "Viral: Influenza, Measles\nBacterial: Whooping Cough, Strept throat",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

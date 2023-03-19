@@ -1,0 +1,12 @@
+{
+  "id": "ec5a1f10-202c-4bbe-a91a-50fdf765e013",
+  "instruction": "How would you use a paragraph of text to explain what a stock market index is?",
+  "input": "",
+  "output": "A stock market index is a measurement of the value of a portfolio of certain stocks over a certain period of time. It is designed to give a general representation of prices in a particular market. For example, the Dow Jones Industrial Average (DJIA) is a stock market index that comprises 30 large public companies in the United States. The DJIA represents a diverse set of industries, from tech companies to food giants. An index's value represents its portfolio's change in price in comparison to the previous day's value. An index is used to measure the overall performance of the stock market. It can also be used to compare the performance of different sectors in the market\u2014for example, seeing how energy companies are doing compared to tech companies. It's important to keep track of stock market indices, as they often provide insight into economic trends.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

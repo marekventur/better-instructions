@@ -1,0 +1,12 @@
+{
+  "id": "e2cab4e4-b8e1-4e8c-a582-390ef02129ec",
+  "instruction": "Change all of the words to past tense.",
+  "input": "I jump high in the sky.",
+  "output": "I jumped high in the sky.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

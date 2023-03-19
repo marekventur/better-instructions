@@ -1,0 +1,12 @@
+{
+  "id": "9a0581a3-7a40-4a3b-9994-9b6e2b5a0c47",
+  "instruction": "By following the instructions in the paragraph, what is the result?",
+  "input": "Instructions: Take one piece of slim salmon and marinate it with lemons and a pinch of salt.",
+  "output": "The result is a piece of marinated slim salmon with lemons and salt.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

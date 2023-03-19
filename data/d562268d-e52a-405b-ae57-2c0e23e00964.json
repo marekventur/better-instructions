@@ -1,0 +1,12 @@
+{
+  "id": "d562268d-e52a-405b-ae57-2c0e23e00964",
+  "instruction": "What is the purpose of a null hypothesis in a statistical test?",
+  "input": "",
+  "output": "The purpose of a null hypothesis in a statistical test is to state a hypothesis that will be tested and rejected if there is enough evidence that the null hypothesis is false. In other words, the null hypothesis is a hypothesis about a population parameter which is tested with data from a sample. If there is enough evidence against the null hypothesis, then the alternative hypothesis must be true.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

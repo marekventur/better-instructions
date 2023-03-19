@@ -1,0 +1,12 @@
+{
+  "id": "7f1116e4-e15f-48fa-bef8-3f7490699ced",
+  "instruction": "Rearrange the actions in this sentence, starting with the past tense verb, allowing it to be used as a complete sentence.",
+  "input": "The students textbooks opened scattered across across the classroom",
+  "output": "Scattered across the classroom, the students' textbooks opened.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

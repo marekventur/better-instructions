@@ -1,0 +1,12 @@
+{
+  "id": "9dc73701-430f-49ac-9e31-fa172e1bfe74",
+  "instruction": "Recommend one song that is similar to the provided song.",
+  "input": "Song  - \u201cLose Yourself\u201d\u00a0 by Eminem",
+  "output": "A song similar to \u201cLose Yourself\u201d by Eminem is \u201cRap God\u201d also by Eminem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

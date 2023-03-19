@@ -1,0 +1,12 @@
+{
+  "id": "3de2192a-8cf8-4f63-ab43-cb9c5fd48460",
+  "instruction": "Correct the following sentence: The small child was very AFRAID of the thunder.",
+  "input": "The small child was very AFRAID of the thunder.",
+  "output": "The small child was very afraid of the thunder.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

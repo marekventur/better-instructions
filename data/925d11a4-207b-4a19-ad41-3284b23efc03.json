@@ -1,0 +1,12 @@
+{
+  "id": "925d11a4-207b-4a19-ad41-3284b23efc03",
+  "instruction": "Operate this cash register to calculate the total amount purchased.",
+  "input": "Item: Groceries \nQuantity: 3 \nPrice: $4.20",
+  "output": "The total amount purchased is $12.60.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

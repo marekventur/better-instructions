@@ -1,0 +1,12 @@
+{
+  "id": "04d7fe18-a7bd-4da4-adaf-7416186ae835",
+  "instruction": "Change the following sentence in the second person and make sure it is in the present tense.",
+  "input": "I love singing in the rain.",
+  "output": "You love singing in the rain.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

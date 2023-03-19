@@ -1,0 +1,12 @@
+{
+  "id": "1cd83e30-9287-4b6c-bbe1-15c28cc9a231",
+  "instruction": "Given the name of a movie and its genre, generate a short description of the movie",
+  "input": "Movie: Aquaman\nGenre: Action/Adventure",
+  "output": "Aquaman is a 2018 American superhero action-adventure film based on the DC Comics character of the same name. It follows Arthur Curry, a half-human and half-Atlantean, as he battles an enemy from the depths of the ocean in a race to save the underwater kingdom of Atlantis from destruction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6c02c335-5ae9-43e2-98d3-dc3afa2ea8d2",
+  "instruction": "Construct a regular expression that matches any 7 digit number.",
+  "input": "",
+  "output": "The regular expression for any 7 digit number is `\\d{7}`. This will match any 7 digits in a row.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

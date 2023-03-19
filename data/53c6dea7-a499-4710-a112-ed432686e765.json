@@ -1,0 +1,12 @@
+{
+  "id": "53c6dea7-a499-4710-a112-ed432686e765",
+  "instruction": "Analyze the rhyme scheme of the poem and provide the rhyme pattern.",
+  "input": "The cat ran to the tree\nto find a honey bee.\nHe stole the honeycomb\nand flew away from home.",
+  "output": "AABB",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

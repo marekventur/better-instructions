@@ -1,0 +1,12 @@
+{
+  "id": "56a54847-53c9-4338-8b8c-610a4955e776",
+  "instruction": "Given this sequence of numbers, find the nth term.",
+  "input": "4, 7, 10, 13, ...",
+  "output": "The nth term is (n-1) * 3 + 4.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

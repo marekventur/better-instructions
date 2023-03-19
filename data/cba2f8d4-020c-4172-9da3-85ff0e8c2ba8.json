@@ -1,0 +1,12 @@
+{
+  "id": "cba2f8d4-020c-4172-9da3-85ff0e8c2ba8",
+  "instruction": "Compare the two cities and provide a summary.",
+  "input": "Cities: New York City and San Francisco",
+  "output": "New York City and San Francisco are two of the most popular cities in the United States. They are both renowned for their vibrant cultural and culinary scenes, as well as their distinctive architecture. New York is the biggest city of the two, with a much larger population, diverse neighborhoods, and a wide variety of iconic landmarks, including the Wall Street and Central Park. San Francisco, on the other hand, is smaller but extremely popular for its hills, Golden Gate Bridge, and iconic cable cars. Both cities have excellent universities and bustling job markets, offering exciting opportunities to those who live there.  All in all, NYC and SF are both exciting cities with a lot to offer, but they offer different experiences.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

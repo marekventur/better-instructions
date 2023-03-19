@@ -1,0 +1,12 @@
+{
+  "id": "cbe0dbe0-2305-4e7d-88bf-1c2ae53ed4dc",
+  "instruction": "Classify each sentence as either declarative, interrogative, imperative, or exclamatory.",
+  "input": "Why would you do that?",
+  "output": "Interrogative.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

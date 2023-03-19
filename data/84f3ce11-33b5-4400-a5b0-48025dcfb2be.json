@@ -1,0 +1,12 @@
+{
+  "id": "84f3ce11-33b5-4400-a5b0-48025dcfb2be",
+  "instruction": "Add up the numbers in the following array.",
+  "input": "`[1, 2, 3, 4, 5, 6]`",
+  "output": "21",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

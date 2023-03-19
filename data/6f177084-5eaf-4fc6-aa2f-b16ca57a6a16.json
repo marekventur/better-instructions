@@ -1,0 +1,12 @@
+{
+  "id": "6f177084-5eaf-4fc6-aa2f-b16ca57a6a16",
+  "instruction": "Convert the adjectives in the given sentence into nouns.",
+  "input": "The car was fast and luxurious.",
+  "output": "The car was speed and luxury.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

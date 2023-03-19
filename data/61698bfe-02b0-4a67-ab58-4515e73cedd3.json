@@ -1,0 +1,12 @@
+{
+  "id": "61698bfe-02b0-4a67-ab58-4515e73cedd3",
+  "instruction": "Reply to the incoming mail",
+  "input": "Dear Joe,\nI am writing to let you know that I will be taking a three week vacation starting next Monday.",
+  "output": "Dear Joe,\n\nThank you for letting me know about your upcoming vacation. Have a great time!\n\nBest,",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

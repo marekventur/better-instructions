@@ -1,0 +1,12 @@
+{
+  "id": "db4be827-2c19-4ac8-b773-58b7d2064b38",
+  "instruction": "Create a product advertisement slogan based on the input product.",
+  "input": "High quality coffee beans",
+  "output": "Brew your best with high quality coffee beans.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

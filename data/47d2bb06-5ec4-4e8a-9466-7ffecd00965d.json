@@ -1,0 +1,12 @@
+{
+  "id": "47d2bb06-5ec4-4e8a-9466-7ffecd00965d",
+  "instruction": "Name 3 people who have been influential in the given field.",
+  "input": "Robotics",
+  "output": "1. Rodney Brooks, from the Massachusetts Institute of Technology, developed the foundational work in the field of robotics.\n2. Masahiro Mori, from the Tokyo Institute of Technology, developed the concept of the \u2018uncanny valley\u2019 in robotics.\n3. Alfred Berkeley, from Stanford University, developed the first robot arm that was used in industrial assembly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

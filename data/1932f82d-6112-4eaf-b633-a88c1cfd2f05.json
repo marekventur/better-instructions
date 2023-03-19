@@ -1,0 +1,12 @@
+{
+  "id": "1932f82d-6112-4eaf-b633-a88c1cfd2f05",
+  "instruction": "Identify the error in the following sentence and state the proper correction.",
+  "input": "She wanted to seeing her best friend.",
+  "output": "The sentence contains a verb error. The correct sentence is: She wanted to see her best friend.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

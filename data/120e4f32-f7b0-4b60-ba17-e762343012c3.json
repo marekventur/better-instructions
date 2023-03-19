@@ -1,0 +1,12 @@
+{
+  "id": "120e4f32-f7b0-4b60-ba17-e762343012c3",
+  "instruction": "Automatically delete all duplicated lines from a text document.",
+  "input": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nPellentesque elementum est quis consectetur adipiscing.\nDonec tempor, leo et interdum pulvinar, odio sapien hendrerit neque, ut mattis sapien eros et sem.\nLorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "output": "Pellentesque elementum est quis consectetur adipiscing.\nDonec tempor, leo et interdum pulvinar, odio sapien hendrerit neque, ut mattis sapien eros et sem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

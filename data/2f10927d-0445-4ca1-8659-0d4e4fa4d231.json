@@ -1,0 +1,12 @@
+{
+  "id": "2f10927d-0445-4ca1-8659-0d4e4fa4d231",
+  "instruction": "Given the following list, extract the unique elements",
+  "input": "my_list = [1, 2, 2, 3, 3, 4]",
+  "output": "[1, 2, 3, 4]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

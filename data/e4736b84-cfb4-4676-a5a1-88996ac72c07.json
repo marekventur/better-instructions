@@ -1,0 +1,12 @@
+{
+  "id": "e4736b84-cfb4-4676-a5a1-88996ac72c07",
+  "instruction": "Categorize the following text as belonging to one of the following: food, fashion, or science.",
+  "input": "The hydrogen atom consists of a single proton and a single electron.",
+  "output": "Science.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

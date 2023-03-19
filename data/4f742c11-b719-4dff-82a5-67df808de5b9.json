@@ -1,0 +1,12 @@
+{
+  "id": "4f742c11-b719-4dff-82a5-67df808de5b9",
+  "instruction": "Classify the following object as either living or nonliving.",
+  "input": "A rock.",
+  "output": "Nonliving.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

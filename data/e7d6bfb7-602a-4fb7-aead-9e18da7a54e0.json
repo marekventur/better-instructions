@@ -1,0 +1,12 @@
+{
+  "id": "e7d6bfb7-602a-4fb7-aead-9e18da7a54e0",
+  "instruction": "Classify this sentence as belonging to one of the following categories: politics, sports or entertainment",
+  "input": "The US president held a press conference to address the nation.",
+  "output": "Politics",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

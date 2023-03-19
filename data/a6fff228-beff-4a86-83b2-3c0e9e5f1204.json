@@ -1,0 +1,12 @@
+{
+  "id": "a6fff228-beff-4a86-83b2-3c0e9e5f1204",
+  "instruction": "List two facts about the given topic.",
+  "input": "The Amazon rainforest",
+  "output": "- The Amazon rainforest is the largest tropical rainforest in the world.\n- The Amazon rainforest plays a vital role in regulating global climate patterns as it absorbs and stores staggering amounts of carbon dioxide.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

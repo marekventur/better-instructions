@@ -1,0 +1,12 @@
+{
+  "id": "0ec3dd32-e7c0-436f-9687-1440c2d089d8",
+  "instruction": "Identify if the following statement is a fact or an opinion. Output \"fact\" or \"opinion\".",
+  "input": "Eating healthy is an important part of a healthy lifestyle.",
+  "output": "fact",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

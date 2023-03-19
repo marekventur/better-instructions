@@ -1,0 +1,12 @@
+{
+  "id": "65814809-f874-48e8-8e2b-57131a0bb8ee",
+  "instruction": "Create a script of four to sentences for a conversation between a customer and a salesperson.",
+  "input": "",
+  "output": "Customer: Hi, I'm looking for a new laptop.\nSalesperson: Sure, what type of laptop do you need?\nCustomer: I need one with a long battery life and 256 GB of SSD storage.\nSalesperson: Alright, I think I have exactly what you're looking for!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

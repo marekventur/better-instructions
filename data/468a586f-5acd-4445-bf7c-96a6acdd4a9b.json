@@ -1,0 +1,12 @@
+{
+  "id": "468a586f-5acd-4445-bf7c-96a6acdd4a9b",
+  "instruction": "Find the nearest restaurant from a given address.",
+  "input": "715 Church Street, Evanston, IL 60201",
+  "output": "The closest restaurant from 715 Church Street, Evanston, IL 60201 is D'Agostino Pizza & Pub, located 0.4 miles away.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

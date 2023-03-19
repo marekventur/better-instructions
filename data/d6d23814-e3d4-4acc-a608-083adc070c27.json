@@ -1,0 +1,12 @@
+{
+  "id": "d6d23814-e3d4-4acc-a608-083adc070c27",
+  "instruction": "Given some text, identify any idioms or phrases in the text and explain their meaning.",
+  "input": "She is the apple of my eye.",
+  "output": "She is the apple of my eye: This is an idiom which means 'someone who is very special to you'.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

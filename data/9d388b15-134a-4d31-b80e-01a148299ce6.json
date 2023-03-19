@@ -1,0 +1,12 @@
+{
+  "id": "9d388b15-134a-4d31-b80e-01a148299ce6",
+  "instruction": "Write an algorithm to create a Sudoku board.",
+  "input": "",
+  "output": "A simple algorithm to create a valid Sudoku board could involve the following steps: \n1. Create an empty 9x9 grid, with all values filled in with zeros.\n2. Place the numbers 1 to 9 randomly on the edges of 3x3 sub-grids.\n3. Fill in the remaining values of the sub-grids by randomly choosing numbers from 1 to 9 that are not already present in the same row, column, or sub-grid.\n4. Repeat step 3 until all cells in the 9x9 board are filled in with valid numbers.\n5. Check if the final board is valid according to Sudoku rules and repeat the process until a valid board is produced.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

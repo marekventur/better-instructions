@@ -1,0 +1,12 @@
+{
+  "id": "b05ecd44-508d-4881-9866-3337ed848f81",
+  "instruction": "Classify the following text as opinion, fact, or non-credible",
+  "input": "This new book is amazing!",
+  "output": "Opinion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "eedce807-d73b-4d9f-be27-68f4b61b45f2",
+  "instruction": "Generate a summary of these two articles about the use of renewable energy.",
+  "input": "Article 1: Renewable energy is an increasingly important part of our electricity mixture. It is a clean, reliable, and sustainable source of electricity that does not pollute the air or deplete the environment. Renewable energy also helps to reduce greenhouse gas emissions which are a major cause of climate change. \n\nArticle 2: Renewable energy is becoming more and more popular around the world. This is because of its many advantages such as being affordable, renewable, and sustainable. It also helps to reduce the amount of pollution that is released into the atmosphere. In addition, renewable energy can help to create local jobs and promote economic growth.",
+  "output": "Renewable energy is becoming increasingly popular around the world due to its many benefits. It is a clean, reliable, and sustainable source of energy that helps reduce greenhouse gas emissions and air pollution. Additionally, it is an affordable, renewable, and sustainable form of energy that can help create local jobs and promote economic growth. Renewable energy is becoming an important part of our electricity mix as it is an effective way to combat climate change.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

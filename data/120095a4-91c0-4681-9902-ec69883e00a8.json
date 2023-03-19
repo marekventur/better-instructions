@@ -1,0 +1,12 @@
+{
+  "id": "120095a4-91c0-4681-9902-ec69883e00a8",
+  "instruction": "Given a list of task instructions, what type of task is each instruction?",
+  "input": "What is the definition of \"computer\"; Remove all duplicate words from the given sentence",
+  "output": "The first task is a classification task and the second task is an editing task.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

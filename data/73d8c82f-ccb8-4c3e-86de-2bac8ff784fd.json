@@ -1,0 +1,12 @@
+{
+  "id": "73d8c82f-ccb8-4c3e-86de-2bac8ff784fd",
+  "instruction": "Calculate the average acceleration of an object that moves from a speed of 45m/s to 69m/s in 6 seconds.",
+  "input": "",
+  "output": "The average acceleration can be calculated using the formula a = (Vf - Vi)/t, where Vf is the final velocity, Vi is the initial velocity, and t is the time elapsed. In this case, the average acceleration is (69 - 45)/6 = 8 m/s/s.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

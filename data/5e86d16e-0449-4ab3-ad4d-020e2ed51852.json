@@ -1,0 +1,12 @@
+{
+  "id": "5e86d16e-0449-4ab3-ad4d-020e2ed51852",
+  "instruction": "Assemble a toy robot according to the given instructions.",
+  "input": "Instructions: Tip: Make sure to read the instructions and familiarize yourself with all the pieces before beginning.\n\n<noinput>",
+  "output": "Step 1: Begin by inserting the two wires into the back of the robot\u2019s head, checking to make sure the connections are secure.\n\nStep 2: Attach the torso plate to the back of the head plate. Secure the plate with four screws. \n\nStep 3: Place the arms and legs onto the body of the robot, making sure the joints are lined up. Secure the pieces together by inserting the included bolts and fasteners.\n\nStep 4: Connect the wheels to the robot\u2019s feet. Secure the wheels to the robot\u2019s feet with the included screws. \n\nStep 5: Insert the battery pack into the back of the robot, attaching the metal connector to the actual robot battery. Make sure the connection is tight and secure.\n\nStep 6: Place the last two pieces \u2013 the robot\u2019s eyes \u2013 into the robot\u2019s head. Make sure the pieces fit securely before continuing. \n\nStep 7: Power up the robot by pressing the power switch.\n\nCongratulations! You have successfully assembled your robot. Enjoy your new robot!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9b108627-96b7-46e7-a1a2-c752097c387b",
+  "instruction": "Simulate a conversation between two people using the given information.",
+  "input": "Person A works in a furniture store and Person B visited the store",
+  "output": "Person A: Welcome to our store! Are you looking for something in particular?\n\nPerson B: Yes, I'm looking for a new dresser for my bedroom.\n\nPerson A: We have plenty of dressers in different styles and finishes. Do you have a particular one in mind?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

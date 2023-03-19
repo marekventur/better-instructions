@@ -1,0 +1,12 @@
+{
+  "id": "7529146a-9ac9-4d09-8a90-42f507ef6753",
+  "instruction": "Write a cross-stitch pattern that says \"the future is bright\".",
+  "input": "",
+  "output": "The pattern starts by drawing a 9x9 square. On the left and right side of the square, draw two curvy lines from top to bottom with a space of two stitches in between. \nAt the top and bottom of the square, draw the word \"The\" each in three stitches. \nAt the middle of the square, draw the word \"Future\" in five stitches. \nAt the bottom right corner and top left corner of the square, draw a bright star each in four stitches. \nAt the bottom left corner and top right corner of the square, draw the word \"Bright\" each in five stitches.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

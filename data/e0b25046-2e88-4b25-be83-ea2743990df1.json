@@ -1,0 +1,12 @@
+{
+  "id": "e0b25046-2e88-4b25-be83-ea2743990df1",
+  "instruction": "Create a chart that shows the percentage of people who prefer different modes of transportation.",
+  "input": "",
+  "output": "[Chart]\n\nThe chart shows the percentage of people who prefer different types of transportation. Walking is preferred by 34%, while public transportation is chosen by 28%. 22% prefer to drive their own car, and 16% prefer to ride a bike or other alternatives such as scooters and skateboards.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

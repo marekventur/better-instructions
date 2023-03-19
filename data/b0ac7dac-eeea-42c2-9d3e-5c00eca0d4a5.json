@@ -1,0 +1,12 @@
+{
+  "id": "b0ac7dac-eeea-42c2-9d3e-5c00eca0d4a5",
+  "instruction": "You are given a list of ingredients and a list of instructions, and you need to write a poem about cooking.",
+  "input": "Ingredients: Flour, milk, sugar, eggs\nInstructions: Mix all ingredients together in a bowl, bake in an oven at 350 degrees for 25 minutes",
+  "output": "Gather the flour and milk, the eggs and then the sugar,\nMix it all together in a bowl and carefully measure.\nPop it in the oven at a hale and hearty three fifty,\nThen let the magic of baking begin in a jiffy!\n\nThe timer's ticking, anticipation is high,\nThe sweet smells of cooking fill the room in no time.\nTake it out of the oven, let it cool if you please,\nEnjoy the delicious treat, you've destroyed all your ills!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "42f848ef-3008-49d1-99c4-d5aad2587795",
+  "instruction": "Generate an appropriate headline given the following news story.",
+  "input": "Several passengers were injured in a car crash in Paris involving a car and an Uber driver this morning.",
+  "output": "Several Passengers Injured in Paris Uber Crash",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0fca94f3-26c0-4b1c-af4b-7baddb350dad",
+  "instruction": "Assemble a 500 piece jigsaw puzzle.",
+  "input": "",
+  "output": "Start by sorting the pieces into basic shapes and colors, then find pieces with similar patterns or features, such as edges and corners. Turn all pieces right side up, and begin building the outer edge. Assemble small sections of the puzzle as you work your way inwards. Look for pieces with key features such as different colors and gradients that help to identify what piece goes where. Keep looking over the pieces until you\u2019ve filled in the entire image.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

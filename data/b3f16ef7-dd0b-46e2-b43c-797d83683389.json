@@ -1,0 +1,12 @@
+{
+  "id": "b3f16ef7-dd0b-46e2-b43c-797d83683389",
+  "instruction": "Compare and contrast holographic imaging and x-ray imaging.",
+  "input": "",
+  "output": "Holographic imaging and x-ray imaging are two different types of scanning technologies. X-rays are a form of radiation, while holographic imaging uses lasers and light to create a 3D image. X-rays provide an image of the inside of the body, while holographic imaging creates a 3D reconstruction of the outside of the body. X-rays can penetrate through solid materials, while holographic imaging typically cannot. Both technologies are used to aid in diagnosis and image interpretation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

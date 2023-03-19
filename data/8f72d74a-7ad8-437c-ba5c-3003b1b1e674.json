@@ -1,0 +1,12 @@
+{
+  "id": "8f72d74a-7ad8-437c-ba5c-3003b1b1e674",
+  "instruction": "Create a data table to compare the average price of a house in Arizona and Nebraska.",
+  "input": "",
+  "output": "| State | Average Price of a House (USD) |\n|------|-------------------------------|\n|Arizona| $250,000                      |\n|Nebraska| $165,000                     |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

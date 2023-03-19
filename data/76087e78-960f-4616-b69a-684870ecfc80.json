@@ -1,0 +1,12 @@
+{
+  "id": "76087e78-960f-4616-b69a-684870ecfc80",
+  "instruction": "Generate a list of all valid triangle types.",
+  "input": "",
+  "output": "The valid triangle types are equilateral, isosceles, scalene, right-angled, obtuse, and acute.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "eb236635-a70f-42f3-9fba-40aa2c1c3e88",
+  "instruction": "Convert the given amount into Kelvin.",
+  "input": "32 degree Celsius",
+  "output": "305.15 Kelvin",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

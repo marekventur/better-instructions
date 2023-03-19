@@ -1,0 +1,12 @@
+{
+  "id": "e1b42dfd-2c63-4f2e-91ad-c49762c62355",
+  "instruction": "Determine which one of the given equations is not quadratic.",
+  "input": "3x^2 + 4x - 2\n7x^2 + 3\n12x^2 - 5x - 13",
+  "output": "7x^2 + 3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

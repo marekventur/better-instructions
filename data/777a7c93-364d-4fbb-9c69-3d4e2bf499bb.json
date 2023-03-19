@@ -1,0 +1,12 @@
+{
+  "id": "777a7c93-364d-4fbb-9c69-3d4e2bf499bb",
+  "instruction": "Tell me the method of transportation available between two cities.",
+  "input": "Bangalore and Mysore.",
+  "output": "The most convenient and common method of transportation for traveling from Bangalore to Mysore is by bus. Travelling by bus is relatively inexpensive and takes about 3 to 4 hours depending on the bus and road conditions. Other options include renting a car or taking a train, which takes about 2 hours.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

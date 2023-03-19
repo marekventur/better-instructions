@@ -1,0 +1,12 @@
+{
+  "id": "77e12c5d-f86b-4cc6-9391-effaed5cc6d3",
+  "instruction": "Identify two weaknesses in the following essay",
+  "input": "The essay does not attempt to explain how technological advances have impacted the education sector.",
+  "output": "The essay does not use evidence to back up its statements, and it fails to address the history of educational advancement, as well as its present and future implications.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

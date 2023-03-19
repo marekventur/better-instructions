@@ -1,0 +1,12 @@
+{
+  "id": "3c149449-e4a4-43ca-a938-e11c18511dea",
+  "instruction": "Classify this emotion as one of the four basic emotions.",
+  "input": "The man was fearful of his future.",
+  "output": "Fear",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

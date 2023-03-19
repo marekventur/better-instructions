@@ -1,0 +1,12 @@
+{
+  "id": "fb979636-35da-4e94-95c9-55ee857473d3",
+  "instruction": "Categorize the text into one of the following genres: fiction, non-fiction, science, or fantasy.",
+  "input": "The book tells the story of an orphaned girl who discovers magic and embarks on an adventure.",
+  "output": "Fantasy",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

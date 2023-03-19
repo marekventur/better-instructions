@@ -1,0 +1,12 @@
+{
+  "id": "ce337ecc-e404-4f41-b99e-fde48bd1a5ac",
+  "instruction": "Create a prioritized list of activities to complete given the context.",
+  "input": "Maria is a student and she needs to balance school and her part-time job.",
+  "output": "1. Going to school - this should be the top priority as it is essential to graduate and get a degree. \n2. Studying - aside from attending classes, Maria should also set aside time for doing homework and research.\n3. Working - working is important for contributing to the family\u2019s financial stability, but it should not interfere excessively with school.\n4. Taking breaks - Maria should also schedule breaks for herself to relax and recharge.\n5. Socialising - Maria should also find a balance between socialising with friends and taking care of her responsibilities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

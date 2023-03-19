@@ -1,0 +1,12 @@
+{
+  "id": "ba1fb12a-20ee-4200-8c28-28ed169e7a9d",
+  "instruction": "Outline the key steps to solve this puzzle.",
+  "input": "A chef is making a tiramisu with 10 ingredients. She needs to figure out the volume of each ingredient.",
+  "output": "1. Gather information about the ingredients to be used, such as weight and volume. \n2. Calculate the weight of each ingredient based on the volume of the dish. \n3. Calculate the relative volumes for each ingredient based on the weight and volume of the dish. \n4. Apply the calculated volume values for each ingredient to the tiramisu recipe. \n5. Assemble and prepare the tiramisu. \n6. Refrigerate the dish for a minimum of two hours before serving.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

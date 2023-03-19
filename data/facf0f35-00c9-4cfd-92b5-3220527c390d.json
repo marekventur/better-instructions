@@ -1,0 +1,12 @@
+{
+  "id": "facf0f35-00c9-4cfd-92b5-3220527c390d",
+  "instruction": "What law of motion is demonstrated in a yo-yo?",
+  "input": "",
+  "output": "The law of conservation of energy is demonstrated in a yo-yo as the energy provided by the pull of the string is dissipated when the yo-yo reaches the end of the string. This energy is converted into potential energy which, once the yo-yo reaches the apex of its swing, is converted back into kinetic energy, allowing the yo-yo to return to the hand of the user.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

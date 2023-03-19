@@ -1,0 +1,12 @@
+{
+  "id": "94c59154-af5b-46ad-b155-20dec8d28b27",
+  "instruction": "Given the following list of words, come up with a sentence using as many of them as possible.",
+  "input": "Rainbow, Song, Cat, Inception",
+  "output": "The rainbow-colored cat sang a song that was reminiscent of an intricate inception dream.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

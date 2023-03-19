@@ -1,0 +1,12 @@
+{
+  "id": "b403d862-de31-473d-9963-45987a02ea3c",
+  "instruction": "Take the given text and summarize it as if it was a quote",
+  "input": "Poverty is a severe issue that affects millions of people across the world. It is an immense challenge and a cause of despair that people must confront and attempt to eradicate",
+  "output": "\"Poverty is an immense challenge and a cause of despair that must be confronted and eradicated.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

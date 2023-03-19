@@ -1,0 +1,12 @@
+{
+  "id": "a34cc24e-259d-4572-9cd0-f8991ed76bed",
+  "instruction": "Format this text to make it more reader friendly",
+  "input": "we all make mistakes some worse than others\n\nTrying to make things right Is what life's about",
+  "output": "We all make mistakes, some worse than others.\n\nTrying to make things right is what life is all about.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

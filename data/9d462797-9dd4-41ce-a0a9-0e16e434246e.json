@@ -1,0 +1,12 @@
+{
+  "id": "9d462797-9dd4-41ce-a0a9-0e16e434246e",
+  "instruction": "Develop a classification system to determine whether or not an email is spam.",
+  "input": "Data set of 200 emails",
+  "output": "My classification system for determining whether an email is spam includes several steps. First, subject lines and senders will be analyzed to detect any suspicious or frequently seen words or phrases that could indicate that an email is spam. Second, emails will be checked for links to known malicious websites. Third, content will be analyzed with natural language processing to identify any potentially deceptive language that could indicate an email is spam. Lastly, statistical models such as Naive Bayes will be used on the data set to assess the probability of the email being spam.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

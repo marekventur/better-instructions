@@ -1,0 +1,12 @@
+{
+  "id": "c7cf7e4c-1918-4457-a589-ac600d3d06fb",
+  "instruction": "Guess what movie the below review is about.",
+  "input": "Review: A Romantic comedy that follows the story of a young couple and their journey to find true love.",
+  "output": "The Notebook.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

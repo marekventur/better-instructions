@@ -1,0 +1,12 @@
+{
+  "id": "9a90c686-e9e7-4de0-8d56-a045f3008492",
+  "instruction": "Search and supply a list of tools that can be used to write python code",
+  "input": "",
+  "output": "- Visual Studio Code\n - Sublime Text\n - PyCharm\n - Spyder\n - Atom\n - VS\n - Komodo Edit\n - Notepad++\n - Vim",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e10f1009-9bc6-4836-9012-cb764de3ab35",
+  "instruction": "Create a pop quiz about clouds.",
+  "input": "",
+  "output": "1. What type of cloud is named after a mountain range?\nA. Cirrus\nB. Stratus\nC. Cumulus\nD. Nimbostratus\n\n2. What type of cloud is associated with a rain shower?\nA. Cumulus\nB. Stratus\nC. Cirrus\nD. Altostratus\n\n3. Which type of cloud is often described as looking like a pile of cotton balls?\nA. Stratus\nB. Altostratus\nC. Cumulus\nD. Nimbostratus\n\n4. Which type of cloud has the tallest vertical growth?\nA. Stratus\nB. Cumulus\nC. Altostratus\nD. Nimbostratus\n\n5. What are the two main ingredients clouds are made of?\nA. Dust and water\nB. Wind and water\nC. Air and water\nD. Ice and water",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

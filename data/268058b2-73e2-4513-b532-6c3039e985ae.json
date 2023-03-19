@@ -1,0 +1,12 @@
+{
+  "id": "268058b2-73e2-4513-b532-6c3039e985ae",
+  "instruction": "Compress the given article using the LZW algorithm.",
+  "input": "This is an article about the LZW algorithm.\n\nThe LZW algorithm is a lossless data compression algorithm that is used for compressing data. It was first introduced by Abraham Lempel and Jacob Ziv in 1977 and has since been used in a variety of applications, such as image compression, video compression, data compression, and text compression.",
+  "output": "0111111100101110101111000001010111110100110110011100100100100100100100100100100100100100100100100110100101010",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

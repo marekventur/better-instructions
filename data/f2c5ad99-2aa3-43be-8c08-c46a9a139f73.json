@@ -1,0 +1,12 @@
+{
+  "id": "f2c5ad99-2aa3-43be-8c08-c46a9a139f73",
+  "instruction": "Calculate the total cost of a given shopping list.",
+  "input": "Banana - 2.50, Apple - 1.75, Orange - 2.30",
+  "output": "The total cost of the given shopping list is 6.55.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

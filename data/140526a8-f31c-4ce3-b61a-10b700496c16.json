@@ -1,0 +1,12 @@
+{
+  "id": "140526a8-f31c-4ce3-b61a-10b700496c16",
+  "instruction": "List three machine learning techniques used in Natural Language Processing.",
+  "input": "No Input",
+  "output": "1. Word Embeddings: word embeddings are used to represent each word in a corpus as a vector that captures its semantic and syntactic properties.\n2. Sequence Models: this is a type of learning algorithm that uses data with prior order information. This allows the model to learn temporal relationships in data.\n3. Neural Networks: neural networks are used to detect complex relationships and patterns in data. They are particularly effective for tasks such as identifying entities and classifying documents.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

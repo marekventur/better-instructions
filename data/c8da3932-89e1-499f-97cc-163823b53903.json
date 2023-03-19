@@ -1,0 +1,12 @@
+{
+  "id": "c8da3932-89e1-499f-97cc-163823b53903",
+  "instruction": "Omit unnecessary details to concisely describe an article's content.",
+  "input": "This article examines the growing prevalence of loneliness and isolation in modern society, focusing on how these psychological effects are caused by a number of social and technological trends.",
+  "output": "Loneliness and isolation in modern society due to social and technological trends.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

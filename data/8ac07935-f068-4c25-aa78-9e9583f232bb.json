@@ -1,0 +1,12 @@
+{
+  "id": "8ac07935-f068-4c25-aa78-9e9583f232bb",
+  "instruction": "Suggest a solution for this leetcode problem",
+  "input": "Given a string containing only three types of characters: '(', ')' and '*', write a function to check whether this string is valid. We define the validity of a string by these rules:\n\nAny left parenthesis '(' must have a corresponding right parenthesis ')'.\nAny right parenthesis ')' must have a corresponding left parenthesis '('.\nLeft parenthesis '(' must go before the corresponding right parenthesis ')'.\n'*' could be treated as a single right parenthesis ')' or a single left parenthesis '(' or an empty string.\n\nAn empty string is also valid.",
+  "output": "class Solution:\n    def checkValidString(self, s: str) -> bool:\n        open_stack = []\n        star_stack = []\n        for i, char in enumerate(s):\n            \n            # Add open brackets to open_stack and star to star_stack\n            if char == \"(\":\n                open_stack.append(i)\n            elif char == \"*\":\n                star_stack.append(i)\n                \n            # Check the current opening brackets or star, pop them in case they match the closing bracket\n            # If no matching bracket is found, then the expression is not valid.\n            elif char == \")\":\n                if open_stack:\n                    open_stack.pop()\n                elif star_stack:\n                    star_stack.pop()\n                else:\n                    return False\n\n        # Check the length of the remaining stacks\n        while open_stack and star_stack:\n            o = open_stack.pop()\n            s = star_stack.pop()\n\n            if o > s:\n                return False\n\n        return len(open_stack) == 0",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

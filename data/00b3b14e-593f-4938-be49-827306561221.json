@@ -1,0 +1,12 @@
+{
+  "id": "00b3b14e-593f-4938-be49-827306561221",
+  "instruction": "Create a statement given the premises and conditions provided.",
+  "input": "Premise: All dogs are mammals\nCondition: All cats are mammals",
+  "output": "Therefore, all cats are dogs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

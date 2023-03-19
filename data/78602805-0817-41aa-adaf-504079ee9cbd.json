@@ -1,0 +1,12 @@
+{
+  "id": "78602805-0817-41aa-adaf-504079ee9cbd",
+  "instruction": "Given the following text, extract relevant information.",
+  "input": "The president said that the economy is improving and the wages are higher than before.",
+  "output": "The president mentioned that the economy has been improving, and that wages have increased.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

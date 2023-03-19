@@ -1,0 +1,12 @@
+{
+  "id": "cd70ea31-5775-4105-b115-55d8e675c239",
+  "instruction": "Construct a dialogue between a customer and a store clerk regarding a product.",
+  "input": "",
+  "output": "Customer: Hi, I'm looking for a new phone.\nStore Clerk: Sure, what kind of phone are you looking for?\nCustomer: I'm looking for one with good battery life and a decent camera.\nStore Clerk: We have a great line of phones that fit your criteria. Let me show you some of them.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

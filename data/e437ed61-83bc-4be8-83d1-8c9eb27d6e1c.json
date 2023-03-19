@@ -1,0 +1,12 @@
+{
+  "id": "e437ed61-83bc-4be8-83d1-8c9eb27d6e1c",
+  "instruction": "Complete the flow chart to explain the four stages of the sleep cycle.",
+  "input": "",
+  "output": "START\n\nIF Person is falling asleep \nTHEN \nStage 1 - Light Sleep\nELSEIF Person enters deeper sleep \nTHEN \nStage 2 - Deep Sleep \nELSEIF Person is entering into dreamlike state\nTHEN \nStage 3 - Rapid Eye Movement (REM)\nELSE \nStage 4 - Very Deep Sleep \n \nEND",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

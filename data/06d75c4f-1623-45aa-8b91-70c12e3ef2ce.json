@@ -1,0 +1,12 @@
+{
+  "id": "06d75c4f-1623-45aa-8b91-70c12e3ef2ce",
+  "instruction": "Come up with input and output data for an AI assistant task that involves playing a song",
+  "input": "I want to hear \"Yesterday\" by The Beatles.",
+  "output": "Input: \nI want to hear \"Yesterday\" by The Beatles.\n\nOutput: \nOK, here's \"Yesterday\" by The Beatles. (Plays the song).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

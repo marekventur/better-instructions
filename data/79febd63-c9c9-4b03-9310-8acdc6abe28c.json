@@ -1,0 +1,12 @@
+{
+  "id": "79febd63-c9c9-4b03-9310-8acdc6abe28c",
+  "instruction": "Select the sentence that does not contain a grammatical error.",
+  "input": "A. His behavior had been irresponsible and unbelievabley childish.\nB. His behavior had been irresponsable and unbelievably childish.\nC. His behavior have been irresponsible and unbelievably childish.",
+  "output": "A. His behavior had been irresponsible and unbelievably childish.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

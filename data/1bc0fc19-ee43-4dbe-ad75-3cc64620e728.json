@@ -1,0 +1,12 @@
+{
+  "id": "1bc0fc19-ee43-4dbe-ad75-3cc64620e728",
+  "instruction": "Spelling check the given sentence.",
+  "input": "She is goeng to the store.",
+  "output": "She is going to the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "68fe215c-2cdd-443c-be0a-d2008edbd9b6",
+  "instruction": "Classify the given document asSports, Arts, Science, History",
+  "input": "This article is about the life of tennis player Serena Williams",
+  "output": "Sports",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

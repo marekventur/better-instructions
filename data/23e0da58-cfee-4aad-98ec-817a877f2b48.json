@@ -1,0 +1,12 @@
+{
+  "id": "23e0da58-cfee-4aad-98ec-817a877f2b48",
+  "instruction": "Given some reviews about a movie, classify the sentiment of the review as positive or negative.",
+  "input": "* \"The movie is slow-paced, but the visuals and story are amazing.\"\n* \"The movie has terrible acting and is badly edited.\"",
+  "output": "Positive, Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

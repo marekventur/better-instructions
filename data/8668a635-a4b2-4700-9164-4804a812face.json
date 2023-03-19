@@ -1,0 +1,12 @@
+{
+  "id": "8668a635-a4b2-4700-9164-4804a812face",
+  "instruction": "Given the following sentence, provide a set of synonyms that could replace the bolded words.",
+  "input": "The sky is an azure blue.",
+  "output": "The sky is a sapphire blue, cerulean blue, turquoise blue, or aquamarine blue.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

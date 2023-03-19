@@ -1,0 +1,12 @@
+{
+  "id": "16caf275-d550-401f-b056-6d84374d4393",
+  "instruction": "What type of design pattern would you apply in the following situation?",
+  "input": "You have to design an algorithm to find the best route from one place to another.",
+  "output": "I would apply a greedy algorithm as it can quickly find the path with the shortest distance between two locations. Greedy algorithms are efficient, and this algorithm is a good fit for the problem because it can quickly identify the best possible route between two points.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

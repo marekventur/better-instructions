@@ -1,0 +1,12 @@
+{
+  "id": "8c7a5908-2d10-4f57-992c-884970a1f5c6",
+  "instruction": "Keyboard the given text for spelling errors.",
+  "input": "We're glade that your're enjoying the new feature!",
+  "output": "We're glad that you're enjoying the new feature!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

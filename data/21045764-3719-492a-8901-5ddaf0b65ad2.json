@@ -1,0 +1,12 @@
+{
+  "id": "21045764-3719-492a-8901-5ddaf0b65ad2",
+  "instruction": "Summarize the key points from the following article in three to five sentences:",
+  "input": "https://www.newyorker.com/culture/cultural-comment/why-comedians-burn-out",
+  "output": "Comedians often experience burnout due to the low wages and long working hours associated with the profession. Other contributors to burnout include the unforgiving nature of stand-up comedy, high stress levels, and the need to constantly be \"on\" in order to be successful. Many comedians must rely heavily on their social circle to make ends meet and they can suffer from loneliness and alienation if the job proves too demanding. Finally, having success in comedy can also be a factor in burnout due to the need to keep up a level of creativity and a high standard of performance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "783cc388-4e1e-4c57-afdc-b63efbcd6058",
+  "instruction": "Describe how the given engineering concept works.",
+  "input": "Artificial Intelligence",
+  "output": "Artificial Intelligence (AI) is a branch of computer science that uses sophisticated algorithms to enable computers to think like humans and solve complex problems. AI works by taking a problem and breaking it down into pieces that the computer can understand. The machine then looks for patterns in data and creates models or a \u201cdecision tree\u201d to make informed decisions. For example, facial recognition uses AI to look for patterns in a person\u2019s face to identify them. AI can also be used to analyze large sets of data to identify correlations and trends that humans may miss.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

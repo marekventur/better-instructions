@@ -1,0 +1,12 @@
+{
+  "id": "8fbb676f-cdbb-45c4-9d19-1e33e3bd5891",
+  "instruction": "Edit the following sentence eliminating 3 unnecessary words.",
+  "input": "I really really really really think this is a meaningful task.",
+  "output": "I really think this is a meaningful task.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

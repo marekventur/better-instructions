@@ -1,0 +1,12 @@
+{
+  "id": "c89daf8f-ec68-4fae-9dce-a5e8687ab725",
+  "instruction": "Explain the difference between modal and non-modal dialogs.",
+  "input": "",
+  "output": "Modal dialogs are pop-up windows that open and close independently of any other window, while non-modal dialog boxes appear within a single window and must be completed before other actions can take place in the application. Modal dialogs, also known as modal windows, are typically used to provide time-sensitive information or other important notifications and often have some type of \"OK\" or \"Cancel\" button to proceed and close the dialog. Non-modal dialogs are used to provide the user with extra information that is not vital to the completion of the task, such as a video tutorial, an on-screen map, or even additional settings. Additionally, non-modal dialogs can remain open and can be interacted with after other actions in the application have taken place.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

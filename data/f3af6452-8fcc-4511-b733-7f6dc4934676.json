@@ -1,0 +1,12 @@
+{
+  "id": "f3af6452-8fcc-4511-b733-7f6dc4934676",
+  "instruction": "Generate a walking route between two given locations.",
+  "input": "Brooklyn Bridge and Grand Central Station",
+  "output": "Start by walking west towards Broadway, then make a right onto Worth Street, then right onto Centre Street and finally make a left turn onto Park Row and walk until you reach Grand Central Station.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

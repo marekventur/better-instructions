@@ -1,0 +1,12 @@
+{
+  "id": "7f1a6f3c-dfd9-4b9b-b0ac-021a671cfd24",
+  "instruction": "You are given a series of objects. Sort them into categories.",
+  "input": "tulip, hat, mop, globe",
+  "output": "-Household items: mop, hat \n-Plants: tulip \n-Objects: globe",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

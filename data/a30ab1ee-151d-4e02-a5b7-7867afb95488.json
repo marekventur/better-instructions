@@ -1,0 +1,12 @@
+{
+  "id": "a30ab1ee-151d-4e02-a5b7-7867afb95488",
+  "instruction": "Given the following data [1,2,3,4,5], output the sum and product of the data.",
+  "input": "[1,2,3,4,5]",
+  "output": "Sum: 15, Product: 120",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

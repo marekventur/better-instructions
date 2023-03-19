@@ -1,0 +1,12 @@
+{
+  "id": "667b87d5-6531-4c43-9505-03a9402257f9",
+  "instruction": "Classify the following words related to fruits.",
+  "input": "Tomato, pineapple, mango",
+  "output": "Tomato: Vegetable \nPineapple: Fruit \nMango: Fruit",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

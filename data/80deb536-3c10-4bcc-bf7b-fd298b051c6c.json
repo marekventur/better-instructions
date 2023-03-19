@@ -1,0 +1,12 @@
+{
+  "id": "80deb536-3c10-4bcc-bf7b-fd298b051c6c",
+  "instruction": "Given two arrays, write a program to return the elements that are present in both the arrays.",
+  "input": "Array 1 = [1, 2, 3, 4, 5]\nArray 2 = [3, 4, 5, 6, 7]",
+  "output": "def find_common_elements(arr1, arr2):\n    res = []\n    for i in arr1:\n        if i in arr2:\n            res.append(i)\n    return res",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

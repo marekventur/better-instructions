@@ -1,0 +1,12 @@
+{
+  "id": "9f79798a-fec5-4b9b-ac3c-54bfa11add94",
+  "instruction": "Given an array of integers, write a program that finds the maximum and minimum values.",
+  "input": "[7, 9, 5, 4, 6, 8]",
+  "output": "//This program finds the maximum and minimum numbers in an array\nlet arr = [7, 9, 5, 4, 6, 8];\nlet max = Math.max(...arr);\nlet min = Math.min(...arr);\nconsole.log(\"Max:\", max);\nconsole.log(\"Min:\", min);",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

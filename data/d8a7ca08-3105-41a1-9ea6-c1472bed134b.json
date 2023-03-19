@@ -1,0 +1,12 @@
+{
+  "id": "d8a7ca08-3105-41a1-9ea6-c1472bed134b",
+  "instruction": "Given two colors, suggest a third color to complete the color palette.",
+  "input": "blue and orange",
+  "output": "A third color that would complete the palette could be yellow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

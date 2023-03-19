@@ -1,0 +1,12 @@
+{
+  "id": "cfd43a2e-859a-4d08-a57d-0581d73f9dd7",
+  "instruction": "Rewrite the sentence in reported speech.",
+  "input": "He said, \"I want to go for a walk.\"",
+  "output": "He said that he wanted to go for a walk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

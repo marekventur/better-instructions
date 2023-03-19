@@ -1,0 +1,12 @@
+{
+  "id": "fc7322e5-3d90-4639-aab9-4885b0294dd5",
+  "instruction": "Find the sentence with the correct punctuation.",
+  "input": "The cat snuck slowly around the corner carefuly\nThe cat snuck slowly around the corner, carefuly",
+  "output": "The cat snuck slowly around the corner, carefully.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

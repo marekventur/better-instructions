@@ -1,0 +1,12 @@
+{
+  "id": "85e4c5f1-f714-429f-a75b-fb2e90c76552",
+  "instruction": "Construct a query using a wildcard.",
+  "input": "",
+  "output": "SELECT * FROM table_name WHERE column_name LIKE \"%text%\";",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

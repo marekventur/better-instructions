@@ -1,0 +1,12 @@
+{
+  "id": "8e613633-8662-4899-9aff-fde7507c5727",
+  "instruction": "Name three specific techniques for reducing the memory requirement of a neural network.",
+  "input": "",
+  "output": "Three specific techniques for reducing the memory requirement of a neural network include:\n- Pruning: removing unnecessary connections in the network \n- Knowledge distillation: compressing a large network into a smaller one \n- Quantization: transforming large floating point numbers into smaller integers",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

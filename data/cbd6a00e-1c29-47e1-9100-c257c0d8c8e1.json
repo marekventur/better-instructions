@@ -1,0 +1,12 @@
+{
+  "id": "cbd6a00e-1c29-47e1-9100-c257c0d8c8e1",
+  "instruction": "The following poem is written in dactylic hexameter. Identify the meter of the poem.",
+  "input": "My love is like a rose that blooms in the night \nMy love's the luxury that you can never fight",
+  "output": "Dactylic hexameter.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

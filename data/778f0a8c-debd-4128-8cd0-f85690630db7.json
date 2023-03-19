@@ -1,0 +1,12 @@
+{
+  "id": "778f0a8c-debd-4128-8cd0-f85690630db7",
+  "instruction": "Calculate the molality of a solution.",
+  "input": "A solution has 5.0 moles of ethylene glycol (C2H6O2) dissolved in 500ml of water.",
+  "output": "The molality of the solution is 10.0 moles per kg.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

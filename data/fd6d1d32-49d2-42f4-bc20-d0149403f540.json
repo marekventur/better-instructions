@@ -1,0 +1,12 @@
+{
+  "id": "fd6d1d32-49d2-42f4-bc20-d0149403f540",
+  "instruction": "The following sentences are given. Separate them into their components (noun, verb, adjective, adverb)",
+  "input": "The woman happily jumped into the pool.",
+  "output": "Noun: woman, pool\nVerb: jumped\nAdjective: happily\nAdverb: none",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

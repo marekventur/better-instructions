@@ -1,0 +1,12 @@
+{
+  "id": "ae9bf81e-61f8-420a-b0ab-110efb4fd01a",
+  "instruction": "Classify the following as an example of an idiom",
+  "input": "It's raining cats and dogs",
+  "output": "Idiom",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

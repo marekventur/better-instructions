@@ -1,0 +1,12 @@
+{
+  "id": "e39726a4-f340-4af7-8fbc-017d1e2a1633",
+  "instruction": "Process the text through a parser to find the root of a sentence.",
+  "input": "It was a beautiful day.",
+  "output": "The root of the sentence is \"be\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1a8e4324-12e4-4a89-a374-6c9cff9260d5",
+  "instruction": "Rank the following countries based on GDP, output the rankings in ascending order.",
+  "input": "Indonesia, Malaysia, Singapore",
+  "output": "Malaysia, Indonesia, Singapore.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

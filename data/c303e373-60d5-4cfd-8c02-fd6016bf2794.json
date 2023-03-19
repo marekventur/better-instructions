@@ -1,0 +1,12 @@
+{
+  "id": "c303e373-60d5-4cfd-8c02-fd6016bf2794",
+  "instruction": "Generate a sample form template for collecting user feedback.",
+  "input": "",
+  "output": "<form>\n    <h2>User Feedback Survey</h2>\n    <p>Please answer the following questions about your experience with our product. Your feedback will help us improve our services for future users.</p>\n    \n    <label for=\"overallRating\">Overall Rating</label>\n    <select name=\"overallRating\">\n        <option>1 - Poor</option>\n        <option>2 - Fair</option>\n        <option>3 - Good</option>\n        <option>4 - Very Good</option>\n        <option>5 - Excellent</option>\n    </select>\n\n    <label for=\"easeOfUse\">Ease of Use</label>\n    <select name=\"easeOfUse\">\n        <option>1 - Poor</option>\n        <option>2 - Fair</option>\n        <option>3 - Good</option>\n        <option>4 - Very Good</option>\n        <option>5 - Excellent</option>\n    </select>\n\n    <label for=\"features\">Features</label>\n    <select name=\"features\">\n        <option>1 - Poor</option>\n        <option>2 - Fair</option>\n        <option>3 - Good</option>\n        <option>4 - Very Good</option>\n        <option>5 - Excellent</option>\n    </select>\n\n    <label for=\"valueForMoney\">Value for Money</label>\n    <select name=\"valueForMoney\">\n        <option>1 - Poor</option>\n        <option>2 - Fair</option>\n        <option>3 - Good</option>\n        <option>4 - Very Good</option>\n        <option>5 - Excellent</option>\n    </select>\n\n    <label for=\"comments\">Comments</label><br>\n    <textarea name=\"comments\" rows=\"5\" cols=\"70\"></textarea>\n\n    <input type=\"submit\" value=\"Submit\">\n\n</form>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

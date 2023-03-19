@@ -1,0 +1,12 @@
+{
+  "id": "b6f6979b-453b-4798-96e6-ecb19ce16ba3",
+  "instruction": "Classify the following Github repository into one of the following areas: deep learning, natural language processing, computer vision, data Science or software engineering.",
+  "input": "https://github.com/google-research/bert",
+  "output": "Natural Language Processing",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

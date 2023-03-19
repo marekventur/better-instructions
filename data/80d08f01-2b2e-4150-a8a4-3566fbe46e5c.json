@@ -1,0 +1,12 @@
+{
+  "id": "80d08f01-2b2e-4150-a8a4-3566fbe46e5c",
+  "instruction": "Sort the ideas using any parameter.",
+  "input": "- Exercise regularly\n- Establish a regular sleep routine\n- Cut down on processed foods\n- Eat a balanced diet",
+  "output": "- Eat a balanced diet\n- Cut down on processed foods\n- Exercise regularly\n- Establish a regular sleep routine",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

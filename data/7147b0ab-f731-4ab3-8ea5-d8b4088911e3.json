@@ -1,0 +1,12 @@
+{
+  "id": "7147b0ab-f731-4ab3-8ea5-d8b4088911e3",
+  "instruction": "Classify the following sentence into the given categories: He worked hard to achieve his goal:",
+  "input": "",
+  "output": "He worked hard to achieve his goal:\n\nCategory: Action",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

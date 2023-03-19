@@ -1,0 +1,12 @@
+{
+  "id": "0fb63afa-7845-4ce3-a8cb-8fb6613e3369",
+  "instruction": "Divide the given group of numbers into two groups such that the numbers in each group have the same mean.",
+  "input": "2, 5, 6, 7, 9",
+  "output": "Group 1: 2, 5, 6 \nGroup 2: 7, 9",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

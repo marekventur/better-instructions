@@ -1,0 +1,12 @@
+{
+  "id": "4d51ad40-e0ba-4b7f-b3dc-671150fa1e0d",
+  "instruction": "Rewrite this sentence so that it begins with \"despite\".",
+  "input": "The other party argued their point relentlessly.",
+  "output": "Despite the other party arguing their point relentlessly,",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

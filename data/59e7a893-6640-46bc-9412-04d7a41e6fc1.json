@@ -1,0 +1,12 @@
+{
+  "id": "59e7a893-6640-46bc-9412-04d7a41e6fc1",
+  "instruction": "Create a program that analyses the sentiment of articles.",
+  "input": "",
+  "output": "I can create a program that analyses the sentiment of articles. First, the program should extract each article's text. Then, it should analyze the text to identify words and phrases associated with a positive, negative, or neutral sentiment. The program can then assign a sentiment value to each article based on the proportion of positive and negative terms it contains. The program can also generate summaries of the sentiment of recent articles or visualize the overall sentiment of a collection of articles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0f6814b7-ac3b-435e-bc8e-bdee3926e1ce",
+  "instruction": "Compare a given sentence to one written by a famous author and rewrite the sentence to make it more like the famous author's writing style.",
+  "input": "The sunset was breath-taking.\nFamous Author: Ernest Hemingway",
+  "output": "The setting sun was breathtaking.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

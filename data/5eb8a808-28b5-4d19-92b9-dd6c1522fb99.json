@@ -1,0 +1,12 @@
+{
+  "id": "5eb8a808-28b5-4d19-92b9-dd6c1522fb99",
+  "instruction": "Design a program for forecasting international weather.",
+  "input": "",
+  "output": "A program for forecasting international weather should include the following components: \n- Accurate global weather data from reliable sources \n- A powerful algorithm for analyzing global weather patterns \n- Advanced visualization tools for displaying weather data\n- Automated and user-defined alertset thresholds and trends\n- An algorithm for creating future weather forecasts\n- Extended weather forecasts for individual locations and regions\n- Access to historical weather data\n- User-friendly interface for understanding and using weather data",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

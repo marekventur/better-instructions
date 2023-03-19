@@ -1,0 +1,12 @@
+{
+  "id": "b7322fec-6f27-4f5f-aab2-c63ed1f6bcf3",
+  "instruction": "Change the verb tense.",
+  "input": "I will go to the store.",
+  "output": "I am going to the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bfbb893b-f7c6-4aaa-89bc-d078551b8882",
+  "instruction": "Arrange the sentences in a coherent paragraph.",
+  "input": "Sentences:\nThe flowers were growing in the sun. The sun was shining brightly in the sky. The sky was a beautiful shade of blue.\n7",
+  "output": "The sky was a beautiful shade of blue, and the sun was shining brightly in it. The flowers were growing in the sunshine, basking in the warmth and light.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

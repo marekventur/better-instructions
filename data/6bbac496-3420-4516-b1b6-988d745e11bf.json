@@ -1,0 +1,12 @@
+{
+  "id": "6bbac496-3420-4516-b1b6-988d745e11bf",
+  "instruction": "Describe the steps needed to solve this system of equations.",
+  "input": "x + 4y = 7\n5x + 2y = 7",
+  "output": "To solve this system of equations, first subtract 4y from both sides of the first equation to obtain x = -4y + 7. Then substitute this into the second equation and solve for y. Finally, substitute the result for y back into either of the original equations to obtain the value of x.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

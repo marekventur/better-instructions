@@ -1,0 +1,12 @@
+{
+  "id": "487464c0-d73c-4950-86fd-4df818d07ccf",
+  "instruction": "Insert the 4th letter of the alphabet into this sentence:",
+  "input": "I went to the m__ket yesterday.",
+  "output": "I went to the market yesterday.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

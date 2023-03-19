@@ -1,0 +1,12 @@
+{
+  "id": "4172d78f-15d4-4a09-9fee-64149032974a",
+  "instruction": "Explain the difference between a TCP/IP and UDP protocol",
+  "input": "",
+  "output": "The Transmission Control Protocol (TCP) and the User Datagram Protocol (UDP) are two of the main protocols used in network communications today. Both protocols provide a connection-oriented service, meaning that a connection must be established between the sender and the receiver before data can be exchanged. TCP is a reliable connection-oriented protocol, meaning that the data sent is guaranteed to arrive at the intended destination in the same order it was sent. UDP is an unreliable connection-oriented protocol, meaning that data may be lost or received out of order. Another key difference is that TCP provides data flow control by sending acknowledgments, while UDP doesn't provide any flow control mechanism.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

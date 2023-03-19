@@ -1,0 +1,12 @@
+{
+  "id": "6abc74ed-ca1b-4281-afd2-0d82e7675275",
+  "instruction": "Edit this email to change the tone from negative to positive.",
+  "input": "Dear John,\n\nWe regret to inform you that your application to be a part of our team has been rejected. We understand that you are disappointed, but there were many quality applicants and we could only accept a few.",
+  "output": "Dear John, \n\nWe appreciate you taking the time to apply to be part of our team. Although we are unable to extend an offer at this time, we are impressed by the quality of your application and appreciate the effort that you have put in. We wish you all the best on your future endeavors.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

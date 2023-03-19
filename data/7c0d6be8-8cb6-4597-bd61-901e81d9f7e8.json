@@ -1,0 +1,12 @@
+{
+  "id": "7c0d6be8-8cb6-4597-bd61-901e81d9f7e8",
+  "instruction": "Find out what the subject of this sentence is.",
+  "input": "Tim was dancing at the party.",
+  "output": "Tim.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

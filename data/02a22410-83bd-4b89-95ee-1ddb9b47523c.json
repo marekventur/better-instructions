@@ -1,0 +1,12 @@
+{
+  "id": "02a22410-83bd-4b89-95ee-1ddb9b47523c",
+  "instruction": "Analyze the sentence for its political correctness.",
+  "input": "He is strong and determined so he can get whatever he wants.",
+  "output": "This sentence contains gender stereotypes and may be considered as politically incorrect. It implies that men can achieve anything they set their mind to, while implicitly discounting the capabilities of women.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

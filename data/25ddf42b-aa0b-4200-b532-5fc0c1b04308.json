@@ -1,0 +1,12 @@
+{
+  "id": "25ddf42b-aa0b-4200-b532-5fc0c1b04308",
+  "instruction": "Construct a valid SQL query to update data in a table.",
+  "input": "Table Name: users\nColumn Names: user_id, age",
+  "output": "UPDATE users SET age = 35 WHERE user_id = 1;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

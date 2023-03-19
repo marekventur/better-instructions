@@ -1,0 +1,12 @@
+{
+  "id": "6ed09eb3-da95-4853-8f35-4c9d90613da9",
+  "instruction": "Create a graphic representation of a dichotomous key.",
+  "input": "",
+  "output": "A dichotomous key is a type of graphic representation used to classify items by progressively narrowing down the choices using two-option questions. It typically contains two branches on either side of a decision node, with options and features marked on the branches. The user follows each branch of the dichotomous key until they reach a final conclusion. This is usually represented visually as a series of connected boxes and arrows.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

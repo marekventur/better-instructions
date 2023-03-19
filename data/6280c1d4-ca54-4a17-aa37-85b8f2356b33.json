@@ -1,0 +1,12 @@
+{
+  "id": "6280c1d4-ca54-4a17-aa37-85b8f2356b33",
+  "instruction": "Classify the following text as belonging to one of the five sentiment classes (positive, negative, neutral, mixed, or none).",
+  "input": "The product arrived on time, but its packaging was severely damaged.",
+  "output": "Mixed",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

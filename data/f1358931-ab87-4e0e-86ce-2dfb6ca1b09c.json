@@ -1,0 +1,12 @@
+{
+  "id": "f1358931-ab87-4e0e-86ce-2dfb6ca1b09c",
+  "instruction": "Describe the sentiment of the following poem.",
+  "input": "\"The wind swirls and the leaves dance,\nFilled with life and play.\nThe Moon smiles down on the sky,\nAs night comes to stay.\"",
+  "output": "The poem is expressing a feeling of joy and serenity. The imagery of the wind and leaves dancing, along with the Moon smiling down from the sky, conveys a sense of peacefulness and contentment. It is a reminder to take a moment and appreciate the beauty of the natural world around us.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

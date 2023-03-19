@@ -1,0 +1,12 @@
+{
+  "id": "e0f196b2-e632-4145-af21-672b71c961e8",
+  "instruction": "Recognize whether the following phrase is in passive voice.",
+  "input": "The ball was thrown by him",
+  "output": "true",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

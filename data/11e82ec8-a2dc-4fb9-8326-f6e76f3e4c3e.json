@@ -1,0 +1,12 @@
+{
+  "id": "11e82ec8-a2dc-4fb9-8326-f6e76f3e4c3e",
+  "instruction": "Write a script that will determine the smallest number in a given array.",
+  "input": "[1, 5, 6, 8, -3, -2, 0]",
+  "output": "min = -3\n\n// Function to determine the smallest number in an array \nfunction findMin(arr) { \n    let min = arr[0]; \n    for (let i = 0; i < arr.length; i++) { \n        if (arr[i] < min) \n            min = arr[i]; \n    }\n    return min; \n} \n  \n// // Sample input array \nlet arr = [1, 5, 6, 8, -3, -2, 0]; \n\n// // Calling findMin function \nconsole.log(\"Minimum element is: \" + findMin(arr));",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

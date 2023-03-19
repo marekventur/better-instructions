@@ -1,0 +1,12 @@
+{
+  "id": "39f90872-0326-4c56-b7ae-4e99f4a06c9b",
+  "instruction": "Choose the best definition of the given term.",
+  "input": "Context Awareness",
+  "output": "Context Awareness is the ability of a system to sense its environment and to interpret its user's goals, preferences, and intentions based on the available inputs. This allows the system to provide timely, relevant, and personalized services to the user.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

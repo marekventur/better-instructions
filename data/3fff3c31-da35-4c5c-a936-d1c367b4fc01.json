@@ -1,0 +1,12 @@
+{
+  "id": "3fff3c31-da35-4c5c-a936-d1c367b4fc01",
+  "instruction": "Formulate an AI-based model that can tell the difference between a dog and a cat.",
+  "input": "",
+  "output": "The AI-based model can be based on convolutional neural networks (CNNs). These neural networks use layers of convolutional kernels that \"learn\" the features of the images and are able to distinguish between cats and dogs based on these extracted features. Input to the model can be images of cats and dogs, and output should be a true or false label, indicating whether the image is of a cat or dog. The model can then be trained on a labeled dataset of cat and dog images.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

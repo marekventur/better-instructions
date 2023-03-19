@@ -1,0 +1,12 @@
+{
+  "id": "466d0bba-d10c-42ef-bdbf-fdfc063cc8f8",
+  "instruction": "Design an algorithm for searching for duplicate contact entries in a list of emails.",
+  "input": "",
+  "output": "The algorithm should first read each email address to determine if the address is unique or a duplicate of an existing address. To ensure accuracy, the data should be broken down into tokens based on the local-part (before the @) and the domain-part (after the @). Then, these tokens can be compared to other email addresses in the list to identify duplicates. To handle the possibility of typos, a fuzzy matching algorithm can be implemented that accounts for errors in the input. For example, if two entries have matching local-part tokens but different domain-part tokens, a fuzzy matching algorithm can be used to decide whether it should be categorized as a duplicate or a typo. Additionally, a binary search tree could be used to compare the tokenized data and determine faster whether an email address is a duplicate or not.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

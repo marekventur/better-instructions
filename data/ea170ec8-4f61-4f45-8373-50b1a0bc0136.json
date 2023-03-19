@@ -1,0 +1,12 @@
+{
+  "id": "ea170ec8-4f61-4f45-8373-50b1a0bc0136",
+  "instruction": "Given a description of a food, provide instructions on how to prepare it.",
+  "input": "Miso soup",
+  "output": "Miso soup is a popular Japanese dish made from a base of miso, a paste made from fermented soybeans. To prepare it, start by heating two cups of dashi broth in a pot. Once the broth is hot, whisk in two tablespoons of miso paste until it fully dissolves. Add cubed tofu, sliced mushrooms, and chopped green onions to the pot and let simmer for five minutes. Serve the soup hot, garnished with additional green onions, if desired.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

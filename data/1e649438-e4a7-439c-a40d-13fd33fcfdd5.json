@@ -1,0 +1,12 @@
+{
+  "id": "1e649438-e4a7-439c-a40d-13fd33fcfdd5",
+  "instruction": "Construct the sentences using words in the given order.",
+  "input": "Most / important / the / is / thing",
+  "output": "The most important thing is.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

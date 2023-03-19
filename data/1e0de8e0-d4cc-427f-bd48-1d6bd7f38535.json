@@ -1,0 +1,12 @@
+{
+  "id": "1e0de8e0-d4cc-427f-bd48-1d6bd7f38535",
+  "instruction": "Classify the input sentence according to the following list:\nStatement, Question, Imperative.",
+  "input": "Can I have a cup of tea?",
+  "output": "Question",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

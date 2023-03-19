@@ -1,0 +1,12 @@
+{
+  "id": "71b4c7f8-f4cd-4c61-b7b1-deb51dbaad39",
+  "instruction": "Create a spreadsheet in Google Sheets with 4 columns and 4 rows.",
+  "input": "",
+  "output": "Financial Summary\n\nMonth  |  Expenditure  |  Income  |  Profit\n--------------------------------------------------\nJan    |               |          |\nFeb    |               |          | \nMar    |               |          |\nApr    |               |          | \n--------------------------------------------------",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

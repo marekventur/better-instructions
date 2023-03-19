@@ -1,0 +1,12 @@
+{
+  "id": "a994e069-e86d-4282-acce-44bdbdb2b2b6",
+  "instruction": "Given a list of numbers, write a python program to find the second smallest number in the list.",
+  "input": "[114, 11, 90, 7, 34]",
+  "output": "def secondSmallest(list):\n  smallest = list[0]\n  secondSmallest = list[0]\n  for x in list:\n    if x < smallest:\n        secondSmallest = smallest\n        smallest = x\n    elif x < secondSmallest:\n        secondSmallest = x\n  return secondSmallest\n\nprint(secondSmallest([114, 11, 90, 7, 34]))\n\n# Output: 11",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

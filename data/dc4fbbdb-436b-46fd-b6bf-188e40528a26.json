@@ -1,0 +1,12 @@
+{
+  "id": "dc4fbbdb-436b-46fd-b6bf-188e40528a26",
+  "instruction": "Classify the clothing item",
+  "input": "A long sleeved shirt with buttons",
+  "output": "The clothing item is a shirt.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

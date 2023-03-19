@@ -1,0 +1,12 @@
+{
+  "id": "53655498-7ff9-40ab-aba1-758789f23db8",
+  "instruction": "Differentiate between abstract classes and interface",
+  "input": "",
+  "output": "An abstract class is a class that contains one or more abstract methods which are methods without an implementation. An interface is a type that defines a set of behaviors that a class must implement. An interface does not contain any implementation, while an abstract class may contain implementation. An interface can be implemented by multiple or any class, while an abstract class can only be inherited by a single class.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "964db158-d969-488b-9d2e-942d9f3b6162",
+  "instruction": "Paraphrase the input sentence and make sure the output should contain a antonym of the existing word in the sentence.",
+  "input": "The woman was pleasant.",
+  "output": "The woman was disagreeable.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

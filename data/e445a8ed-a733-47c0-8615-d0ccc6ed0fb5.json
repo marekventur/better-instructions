@@ -1,0 +1,12 @@
+{
+  "id": "e445a8ed-a733-47c0-8615-d0ccc6ed0fb5",
+  "instruction": "Design an algorithm to solve the following problem: Given a NxN matrix, find the smallest positive integer missing from it.",
+  "input": "",
+  "output": "A possible algorithm to solve the problem is as follows: \n1. Initialize a result variable (res) to -1.\n2. Iterate over the given matrix.\n3. For each element, check if it is greater than 0.\n4. If so, store it in a set s.\n5. For each element in the matrix, iterate from 1 to N and if the element is not present in the set, update the result variable (res) with the value and break from the loop.\n6. Finally, return res.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d0fa52ef-d299-4b4c-a636-f423d2973972",
+  "instruction": "Clean up this paragraph by replacing the jargon with more simple language.\n\n\"The emergent business models that leverage big data analytics and machine learning have revolutionized the way we do business in the 21st century.\"",
+  "input": "The emergent business models that leverage big data analytics and machine learning have revolutionized the way we do business in the 21st century.",
+  "output": "New business models that use large collections of data and computers to make decisions have completely changed the way businesses operate in this century.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

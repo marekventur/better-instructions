@@ -1,0 +1,12 @@
+{
+  "id": "c25106e4-7ba8-417f-9bff-689da2281571",
+  "instruction": "Make a silhouette of the given object.",
+  "input": "Object: Bird",
+  "output": "Draw a black silhouette of a bird with long outstretched wings against a white background.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

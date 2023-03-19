@@ -1,0 +1,12 @@
+{
+  "id": "843420e2-a13d-4299-b7cb-22d7b8e7eed6",
+  "instruction": "Categorize this description as a mammal or reptile",
+  "input": "Cold-blooded, four-legged creature with scales",
+  "output": "Reptile",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

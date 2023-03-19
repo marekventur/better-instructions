@@ -1,0 +1,12 @@
+{
+  "id": "40877534-0db8-42e8-9b21-e8782cd976b3",
+  "instruction": "Given a website, review the homepage layout and comment on the user experience of the website.",
+  "input": "https://www.apple.com/",
+  "output": "The Apple homepage is clean and simple, with big visuals and links to their products. The menu is easy to use and offers intuitive navigation, with essential information and contact links conveniently located at the bottom of the page. Overall, the user experience is streamlined and pleasant.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

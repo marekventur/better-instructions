@@ -1,0 +1,12 @@
+{
+  "id": "9c3a7a0a-116c-4bd9-8112-ddf56cfeb4a3",
+  "instruction": "Generate a code to perform a matrix transpose.",
+  "input": "Matrix A of size 2x3:\nA = [[1, 2, 3],\n     [4, 5, 6]]",
+  "output": "def transpose(A):\n    m = len(A)\n    n = len(A[0])\n    AT = [[0] * m for _ in range(n)]\n    \n    for i in range(m):\n        for j in range(n):\n            AT[j][i] = A[i][j]\n    return AT",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

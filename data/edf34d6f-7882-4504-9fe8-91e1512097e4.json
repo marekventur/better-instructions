@@ -1,0 +1,12 @@
+{
+  "id": "edf34d6f-7882-4504-9fe8-91e1512097e4",
+  "instruction": "Rank the following countries from most to least GDP",
+  "input": "USA, Japan, China",
+  "output": "China, Japan, USA",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

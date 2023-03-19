@@ -1,0 +1,12 @@
+{
+  "id": "b21b4e76-6556-49be-af40-05e29ac84931",
+  "instruction": "Find the typo in the following sentence and rewrite the sentence correctly.",
+  "input": "They will reachd their destination soon.",
+  "output": "They will reach their destination soon.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

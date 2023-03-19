@@ -1,0 +1,12 @@
+{
+  "id": "47b3e0a8-500b-4e00-8c34-22b8b834e940",
+  "instruction": "Edit the following sentence so it reads correctly.",
+  "input": "I had ate my breakfast",
+  "output": "I had eaten my breakfast.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

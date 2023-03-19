@@ -1,0 +1,12 @@
+{
+  "id": "1f46818f-9434-4c92-9e24-4ce4661bb915",
+  "instruction": "Describe a given city.",
+  "input": "Rome",
+  "output": "Rome is an ancient city located in Italy on the banks of the Tiber River. It is known for its rich history, art, and culture. Rome is home to some of the world's most iconic monuments and landmarks, such as the Colosseum, Trevi Fountain, Pantheon, and Spanish Steps. The city is also known for its cuisine, especially its pizza, gelato, and pasta dishes. In addition, Roman nightlife and shopping are among the best in Europe.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

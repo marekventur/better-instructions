@@ -1,0 +1,12 @@
+{
+  "id": "77809b76-87c6-429f-8832-488b6d73eb98",
+  "instruction": "Identify two potential interpretations of the sentence.",
+  "input": "I said goodbye to my parents.",
+  "output": "1. I said goodbye to my parents after I left them.\n2. I said goodbye to my parents in order to say goodbye forever.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

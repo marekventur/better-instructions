@@ -1,0 +1,12 @@
+{
+  "id": "68c62ed9-d680-4b39-8283-6744aea8155f",
+  "instruction": "How would you solve the following programming problem:\n\nWrite a function called \"isCapital\" that takes a single character and returns a boolean value indicating if the character is a capital letter or not.",
+  "input": "",
+  "output": "def isCapital(char):\n    if ord(char) >= 65 and ord(char) <= 90:\n        return True\n    else:\n        return False",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

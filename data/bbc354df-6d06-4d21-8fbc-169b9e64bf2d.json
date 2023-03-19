@@ -1,0 +1,12 @@
+{
+  "id": "bbc354df-6d06-4d21-8fbc-169b9e64bf2d",
+  "instruction": "Given two countries, find out the number of border crossings between them.",
+  "input": "USA and Mexico",
+  "output": "There are a total of 47 border crossings between the USA and Mexico.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

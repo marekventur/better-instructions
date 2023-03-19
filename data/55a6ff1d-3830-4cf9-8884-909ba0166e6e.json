@@ -1,0 +1,12 @@
+{
+  "id": "55a6ff1d-3830-4cf9-8884-909ba0166e6e",
+  "instruction": "Find the assembly instructions for creating the given product",
+  "input": "L-shaped computer desk",
+  "output": "The L-shaped computer desk requires basic assembly tools and instructions available online. Typically, the instructions will include an image of the components, a list of necessary tools, and detailed step-by-step assembly instructions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f1d5dd36-1709-4e74-a95b-d199a698ee94",
+  "instruction": "Analyse the sentence for errors in grammar and provide the corrected version of it.",
+  "input": "Proposals were made by the school committee for encourage more engagement in the classroom.",
+  "output": "The school committee proposed measures to encourage more engagement in the classroom.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6e8e81b8-99bf-4806-97fe-06fb492f725a",
+  "instruction": "Estimate the number of people living in a town given the following data.",
+  "input": "The town has a population density of 1000 people per sq km and has an area of 100 sq km.",
+  "output": "The estimated population of the town is 100,000 people.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

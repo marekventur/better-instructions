@@ -1,0 +1,12 @@
+{
+  "id": "43954660-a9f4-4cea-9431-2addc0a5f271",
+  "instruction": "Analyze this rhetorical device used in the given sentence.",
+  "input": "\"It was a bright cold day in April, and the clocks were striking thirteen.\"",
+  "output": "This sentence contains an example of hyperbole, as the clocks are obviously not literally striking thirteen.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

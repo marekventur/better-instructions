@@ -1,0 +1,12 @@
+{
+  "id": "33407488-86f1-4146-9a3a-741b33ba6269",
+  "instruction": "Classify the following sentence as a imperative sentence or question",
+  "input": "Let us find out the answer.",
+  "output": "imperative sentence",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

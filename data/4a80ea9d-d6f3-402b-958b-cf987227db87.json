@@ -1,0 +1,12 @@
+{
+  "id": "4a80ea9d-d6f3-402b-958b-cf987227db87",
+  "instruction": "Order these topics based on their importance.",
+  "input": "- Education \n- Health care \n- Employment",
+  "output": "Education, Employment, Health care",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

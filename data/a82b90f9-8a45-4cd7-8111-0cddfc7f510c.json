@@ -1,0 +1,12 @@
+{
+  "id": "a82b90f9-8a45-4cd7-8111-0cddfc7f510c",
+  "instruction": "Given a string, flip it upside down and output the result.",
+  "input": "Hello",
+  "output": "\u00a1\u00bfolleH",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

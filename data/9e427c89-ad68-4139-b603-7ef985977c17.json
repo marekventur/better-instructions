@@ -1,0 +1,12 @@
+{
+  "id": "9e427c89-ad68-4139-b603-7ef985977c17",
+  "instruction": "Explain how the following two sentences are together grammatically.",
+  "input": "We ran as fast as we could. Still, we arrived late.",
+  "output": "The two sentences are linked using a conjunctive adverb. The conjunctive adverb \"Still\" connects the two sentences and shows the relationship between them. The first sentence is contrasting with the second sentence; the \"Still\" expression shows that the speaker ran as fast as possible but the result was still being late.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

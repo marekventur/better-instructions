@@ -1,0 +1,12 @@
+{
+  "id": "a65c3e8c-3495-45d3-9eb0-b95fc0136277",
+  "instruction": "Rewrite the following sentence to bring out the implicit emotion it conveys.",
+  "input": "The car moved quickly.",
+  "output": "The car raced through the streets with exhilaration.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

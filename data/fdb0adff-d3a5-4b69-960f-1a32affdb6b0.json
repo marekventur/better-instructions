@@ -1,0 +1,12 @@
+{
+  "id": "fdb0adff-d3a5-4b69-960f-1a32affdb6b0",
+  "instruction": "How is data curation important for achieving AI milestones?",
+  "input": "",
+  "output": "Data curation is important for achieving AI milestones because it ensures that the data used to train the AI models is accurate, well-structured, and relevant to the task. Data curation also helps to remove bias and noise from the data, thus improving the performance and accuracy of the AI models. Additionally, data curation assists in making sure that the AI models are able to access the data when required, allowing for efficient and effective training of the models.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

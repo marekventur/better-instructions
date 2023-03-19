@@ -1,0 +1,12 @@
+{
+  "id": "34fffe27-71fc-4683-b575-87670906babf",
+  "instruction": "Write a few lines of code to print \"Hello World\"",
+  "input": "",
+  "output": "Console.WriteLine(\"Hello World\");",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

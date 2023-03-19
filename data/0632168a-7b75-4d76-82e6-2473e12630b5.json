@@ -1,0 +1,12 @@
+{
+  "id": "0632168a-7b75-4d76-82e6-2473e12630b5",
+  "instruction": "Create a to-do list for this week's tasks.",
+  "input": "",
+  "output": "This week\u2019s to-do list: \n1. Research and create a proposal for a new project\n2. Attend a meeting with a prospective client\n3. Meet with the HR department to review new policies\n4. Draft a marketing strategy for the upcoming quarter\n5. Create a budget for the next fiscal year\n6. Analyze sales data for the previous quarter\n7. Develop a company-wide training program",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

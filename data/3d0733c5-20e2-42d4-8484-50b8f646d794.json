@@ -1,0 +1,12 @@
+{
+  "id": "3d0733c5-20e2-42d4-8484-50b8f646d794",
+  "instruction": "Name the species of this mammal.",
+  "input": "The whale has a flat, paddle-shaped tail thatsometimes grows up to 8 meters long.",
+  "output": "Blue whale (Balaenoptera musculus)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

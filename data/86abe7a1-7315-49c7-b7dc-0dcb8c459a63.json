@@ -1,0 +1,12 @@
+{
+  "id": "86abe7a1-7315-49c7-b7dc-0dcb8c459a63",
+  "instruction": "Tell if the sentence is sarcastic or not",
+  "input": "What a great day it is today.",
+  "output": "No",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

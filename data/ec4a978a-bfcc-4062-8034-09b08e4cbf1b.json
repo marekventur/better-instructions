@@ -1,0 +1,12 @@
+{
+  "id": "ec4a978a-bfcc-4062-8034-09b08e4cbf1b",
+  "instruction": "Classify the given device according to the type of storage it uses.",
+  "input": "USB drive",
+  "output": "The USB drive is classified as a removable storage device.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

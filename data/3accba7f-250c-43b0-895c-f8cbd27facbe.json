@@ -1,0 +1,12 @@
+{
+  "id": "3accba7f-250c-43b0-895c-f8cbd27facbe",
+  "instruction": "Implement the quick-sort algorithm to sort the following array.",
+  "input": "[2, 4, 3, 7, 5]",
+  "output": "[2, 3, 4, 5, 7]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

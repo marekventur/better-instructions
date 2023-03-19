@@ -1,0 +1,12 @@
+{
+  "id": "d79b161e-8331-4757-9ed0-cdabc50b2819",
+  "instruction": "Given the following list, remove all the numbers that are divisible by 4.",
+  "input": "2, 3, 4, 8, 10, 11",
+  "output": "2, 3, 10, 11",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

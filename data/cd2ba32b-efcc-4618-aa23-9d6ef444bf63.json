@@ -1,0 +1,12 @@
+{
+  "id": "cd2ba32b-efcc-4618-aa23-9d6ef444bf63",
+  "instruction": "Delete the specified words from the sentence, then rewrite it using grammatically correct English.",
+  "input": "She is ambitious and outgoing.\nWords to be deleted: outgoing",
+  "output": "She is ambitious.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

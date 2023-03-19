@@ -1,0 +1,12 @@
+{
+  "id": "fb1ddefe-b087-4e6b-8daa-3ce9b64ca96a",
+  "instruction": "Estimate how much time it will take to finish the project.",
+  "input": "Project involves coding, UI design and analysis.",
+  "output": "It will likely take between 3-5 weeks to complete the project depending on the complexity of the coding, the complexity of the analysis, and the skill level of the UI designer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

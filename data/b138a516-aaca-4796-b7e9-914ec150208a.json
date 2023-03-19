@@ -1,0 +1,12 @@
+{
+  "id": "b138a516-aaca-4796-b7e9-914ec150208a",
+  "instruction": "Design a graphical user interface (GUI) to represent the following data.",
+  "input": "Air quality index of major cities around the world",
+  "output": "A GUI with a map that is divided into regions. Each region is labeled with the name of a major city and the corresponding air quality index is represented through varying shades of colors (darker shades for poorer air quality, lighter shades for better air quality).  The air quality index can also be represented by symbols, such as happy and sad faces.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

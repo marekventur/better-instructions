@@ -1,0 +1,12 @@
+{
+  "id": "74869451-102a-41e4-b7ca-2beafce222c2",
+  "instruction": "Explain the concept of random forest.",
+  "input": "",
+  "output": "Random forests are a supervised machine learning algorithm used for classification and regression. The algorithm works by first creating a large number of decision trees which it then combines together to create a powerful predictive model. Each decision tree is built from a randomly selected subset of the data, and the trees vote to determine the output of the random forest. Random forests are used for a variety of tasks, such as predicting customer behavior and finding which features are most important in a given data set.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1559b38b-42a7-4102-8e96-96c27410f719",
+  "instruction": "Message a friend with a reminder to pay you back",
+  "input": "John owes you $10.",
+  "output": "Hey John, just wanted to remind you that you owe me that ten bucks we talked about, and so I'd appreciate it if you could pay me back when you have a chance. Thanks!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

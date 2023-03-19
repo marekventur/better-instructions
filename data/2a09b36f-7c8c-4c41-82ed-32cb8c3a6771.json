@@ -1,0 +1,12 @@
+{
+  "id": "2a09b36f-7c8c-4c41-82ed-32cb8c3a6771",
+  "instruction": "Describe the process for extracting oil from an oil well.",
+  "input": "",
+  "output": "The process for extracting oil from an oil well begins with drilling a borehole deep into rock, followed by inserting a string of steel pipe. A perforating gun is then placed at the end of the pipe and fired to create channels in the rock, which allows the oil and gas to enter the pipe. The oil is then collected and stored in tanks, while the gas is collected and either burned off or compressed and stored in containers. The extracted oil is then processed and refined to produce useable products.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

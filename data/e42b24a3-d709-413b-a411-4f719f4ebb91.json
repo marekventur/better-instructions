@@ -1,0 +1,12 @@
+{
+  "id": "e42b24a3-d709-413b-a411-4f719f4ebb91",
+  "instruction": "How might someone use machine learning to assess credit scores of borrowers?",
+  "input": "",
+  "output": "Machine learning could be used to assess credit scores of borrowers by analyzing the borrower's past financial history. The model could take into account factors such as income, debt-to-income ratio, past credit payments, and other such factors to calculate the borrower's credit score.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

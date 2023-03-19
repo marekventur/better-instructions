@@ -1,0 +1,12 @@
+{
+  "id": "97063665-330f-4a72-88e6-338f53e2ec2d",
+  "instruction": "Identify the main characteristics of an average computer virus.",
+  "input": "",
+  "output": "The main characteristics of a computer virus are: \n1. It is self-replicating, meaning it copies itself onto other computers.\n2. It is hidden within a legitimate file or program.\n3. It may damage data or affect the system's performance.\n4. It may steal information or access user credentials.\n5. It may activate at certain times or in certain conditions.\n6. It may be embedded in malicious email attachments or web links.\n7. It is designed to spread rapidly from one computer to another.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

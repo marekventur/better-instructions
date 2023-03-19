@@ -1,0 +1,12 @@
+{
+  "id": "1f183c3b-6f05-4bf4-8632-d2845d637e27",
+  "instruction": "Classify this person's occupation as one of the following occupations: scientist, doctor, teacher, artist, engineer.",
+  "input": "John Doe is a medical researcher who works in drug development.",
+  "output": "scientist",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

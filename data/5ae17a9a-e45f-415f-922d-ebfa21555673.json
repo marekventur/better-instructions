@@ -1,0 +1,12 @@
+{
+  "id": "5ae17a9a-e45f-415f-922d-ebfa21555673",
+  "instruction": "Retrieve the relevant details from the news article.",
+  "input": "The Daily Star- 30th May 2021\nA massive fire broke out in Sunamganj, near Dhaka.",
+  "output": "The fire broke out in the town of Sunamganj near Dhaka on 30th May 2021. No casualties or significant damage has been reported so far. Firefighters have managed to bring the fire under control and the situation is being monitored.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

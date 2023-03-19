@@ -1,0 +1,12 @@
+{
+  "id": "adbc4777-eae4-47f3-a5f4-7d157f306dd3",
+  "instruction": "Analyze the following news article and provide a brief summary.",
+  "input": "The news article is about a new study that finds that climate change is the leading cause of species extinction.",
+  "output": "A recent study conducted by researchers has confirmed that climate change is the leading cause of species extinction. This study looked at a sample of vertebrates from 1950 to 2019, and found that species that were vulnerable to climate change had a greater chance of going extinct. The findings point to a need for immediate action to prevent further extinctions, as climate change continues to accelerate and have a greater effect on the environment. The study also highlights the need for increased protection of vulnerable species that are particularly susceptible to the effects of climate change.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

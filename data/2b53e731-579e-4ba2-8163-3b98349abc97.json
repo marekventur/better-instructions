@@ -1,0 +1,12 @@
+{
+  "id": "2b53e731-579e-4ba2-8163-3b98349abc97",
+  "instruction": "Generate the code to display \u201cHello World\u201d on the screen.",
+  "input": "",
+  "output": "Console.WriteLine(\"Hello World\");",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

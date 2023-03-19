@@ -1,0 +1,12 @@
+{
+  "id": "1b86f2a6-03b4-414d-8474-f0664bc170a1",
+  "instruction": "Reformat the following paragraph into bullet points.",
+  "input": "The Porsche 911 GT3 is a performance variant of the 911 model, redesigned with a more powerful engine, rear-wheel drive, active suspension and lightweight body shell. It also features revised aerodynamics, enhanced brakes and sports-focused interior features.",
+  "output": "- Porsche 911 GT3 is a performance variant of the 911 model \n- More powerful engine, rear-wheel drive, active suspension and lightweight body shell \n- Revised aerodynamics, enhanced brakes and sports-focused interior features",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "df5c940e-4118-4d5e-98be-b6e2eb0d30d8",
+  "instruction": "Design a program that calculates the distance between two points given the coordinates of the points.",
+  "input": "The coordinates of Point A are (2, 3) \nThe coordinates of Point B are (5, 7)",
+  "output": "\"\"\"\nDesign a program that calculates the distance between two points \ngiven the coordinates of the points.\n\nimport math\n\ndef calc_distance(point1, point2):\n    x1, y1 = point1\n    x2, y2 = point2\n    dist = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)\n    return dist\n\nif __name__ == \"__main__\":\n    pointA = (2, 3)\n    pointB = (5, 7)\n    dist = calc_distance(pointA, pointB)\n    print(\"The distance between Point A and Point B is\", dist)\n\n\"\"\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "97b759c6-ffb7-4e34-b438-8d4b1542bd86",
+  "instruction": "How does DNA replication work?",
+  "input": "",
+  "output": "DNA replication is a complex process that requires multiple steps. First, enzymes untangle the DNA strands. Then, the strands are 'unzipped' at the replication forks and special polymerases pair each strand with its complementary nucleotide, forming a new double-stranded molecule. Finally, the two DNA molecules are separated, resulting in two identical copies of the original DNA molecule.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

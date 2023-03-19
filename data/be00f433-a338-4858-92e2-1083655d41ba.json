@@ -1,0 +1,12 @@
+{
+  "id": "be00f433-a338-4858-92e2-1083655d41ba",
+  "instruction": "Calculate the kinetic energy of a moving object",
+  "input": "Object mass: 10kg, Object velocity: 20 m/s",
+  "output": "The kinetic energy of the moving object is 800 Joules (J). This can be calculated using the equation KE=1/2mv2, where m is the object's mass and v is its velocity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

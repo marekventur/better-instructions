@@ -1,0 +1,12 @@
+{
+  "id": "bcbc8882-3b08-43c4-a228-50c74d935859",
+  "instruction": "Generate a 3 letter usernames with the following format: [first letter] + [random letter] + [last letter].",
+  "input": "Abdul",
+  "output": "Abhdl",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

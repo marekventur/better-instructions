@@ -1,0 +1,12 @@
+{
+  "id": "abf2cf98-fecc-4b44-9956-eba83635bae7",
+  "instruction": "Construct an excel formula to calculate the total cost for the following list of items.",
+  "input": "Item\t    Quantity\tPrice\nApple\t    3\t        2.6\nBanana\t    5\t        1.8\nPears\t    2\t        3.9",
+  "output": "=SUM (2.6*3, 1.8*5, 3.9*2)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

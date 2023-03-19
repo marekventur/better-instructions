@@ -1,0 +1,12 @@
+{
+  "id": "f3b63960-444c-45e3-913a-846d7ef6809e",
+  "instruction": "Generate a mathematical equation to calculate a person's BMI",
+  "input": "",
+  "output": "BMI = weight (kg) / height (m)^2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

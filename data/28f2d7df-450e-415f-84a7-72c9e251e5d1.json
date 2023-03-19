@@ -1,0 +1,12 @@
+{
+  "id": "28f2d7df-450e-415f-84a7-72c9e251e5d1",
+  "instruction": "Generate a list of 4 user stories associated with this project.",
+  "input": "[Project description] A mobile app for an online streaming service",
+  "output": "1. As a user, I want to see a list of popular movies and shows from the streaming service so that I can quickly find something to watch. \n2. As a user, I want to be able to search for movies and shows by specific criteria so that I can find exactly what I am looking for.\n3. As a user, I want to be able to save movies and shows to my favorites list so that I can quickly access them for viewing.\n4. As a user, I want to be able to access my account across multiple devices so that I can easily start watching a movie or show at home, and continue watching it on my phone while I am on the go.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

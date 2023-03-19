@@ -1,0 +1,12 @@
+{
+  "id": "d7b10de8-fa11-419c-94d2-d4b27f760b15",
+  "instruction": "Formulate a hypothesis to determine the cause of the given problem.",
+  "input": "There have been inconsistent results in the most recent product testing.",
+  "output": "The hypothesis is that there may be a problem with the product testing procedures that is causing the inconsistent results. Further investigation should be done to determine what the exact problem is and how it can be solved.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

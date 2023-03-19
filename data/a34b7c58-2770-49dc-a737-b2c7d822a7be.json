@@ -1,0 +1,12 @@
+{
+  "id": "a34b7c58-2770-49dc-a737-b2c7d822a7be",
+  "instruction": "Categorize the following text by labeling it as either opinion or fact.",
+  "input": "Smoking is dangerous to your health.",
+  "output": "Fact",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

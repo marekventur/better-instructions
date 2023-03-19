@@ -1,0 +1,12 @@
+{
+  "id": "d8386ec7-0208-43d7-8f38-8b2ab4ae443c",
+  "instruction": "Calculate the closest approximate value of the given expression.",
+  "input": "Expression: (3.14 + 2.71) / 2",
+  "output": "3.425",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

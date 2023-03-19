@@ -1,0 +1,12 @@
+{
+  "id": "6d203feb-d30b-4e9a-8a1f-a52a9a94375b",
+  "instruction": "Run a search algorithm on the given list of numbers in order to find the number at a particular index.",
+  "input": "list = [21, 17, 50, 29, 52]\nindex = 3",
+  "output": "The number at index 3 is 29.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

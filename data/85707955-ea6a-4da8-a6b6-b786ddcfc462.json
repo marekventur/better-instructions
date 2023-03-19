@@ -1,0 +1,12 @@
+{
+  "id": "85707955-ea6a-4da8-a6b6-b786ddcfc462",
+  "instruction": "Generate a classifier that accurately predicts whether a given house is expensive or not based on input features.",
+  "input": "number of bedrooms | number of bathrooms | square footage\n3 | 2 | 2,000\n3 | 2 | 4,000\n4 | 3 | 2,500\n4 | 4 | 5,500",
+  "output": "Expensive (1)\t|\tNot Expensive (0) \n0 | 1\n0 | 1\n0 | 0\n1 | 1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

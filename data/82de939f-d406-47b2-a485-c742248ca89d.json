@@ -1,0 +1,12 @@
+{
+  "id": "82de939f-d406-47b2-a485-c742248ca89d",
+  "instruction": "Describe in 3 to 5 sentences the most important aspects of a topic.",
+  "input": "Neural networks",
+  "output": "Neural networks are computer algorithms that are inspired by how the human brain works. They are modeled after biological neural networks, which consist of interconnected neurons that are able to learn and recognize patterns. Neural networks create a mathematical model to take inputs and use them to calculate outputs. Through training, they learn the relationship between inputs and the outputs they are supposed to generate. After the neural network is built and trained, it can be used for a wide variety of tasks, such as classification, segmentation, and data processing. The powerful ability of neural networks to learn from data and generate results has given rise to some of the most successful applications of machine learning.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

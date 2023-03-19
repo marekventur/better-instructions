@@ -1,0 +1,12 @@
+{
+  "id": "3a0bcdf5-bdd0-4c2b-93f2-d0d3752320ad",
+  "instruction": "Generate instructions for a person to make a chocolate cake.",
+  "input": "",
+  "output": "Preheat oven to 350 degrees Fahrenheit. Grease and flour a 9-inch round cake pan. In a medium bowl, mix together 1 \u00bd cups all-purpose flour, 3 tablespoons cocoa powder, 1 teaspoon baking soda and \u00bd teaspoon of salt. In a large bowl, whisk together 1 cup sugar, 1 cup boiling water, \u00bd cup vegetable oil, \u00bc cup buttermilk and 1 teaspoon of vanilla extract. Add the flour mixture to the large bowl and mix until smooth. Pour the batter into the prepared pan and bake for 30-35 minutes, or until a toothpick inserted into the center comes out clean. Enjoy your delicious chocolate cake!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

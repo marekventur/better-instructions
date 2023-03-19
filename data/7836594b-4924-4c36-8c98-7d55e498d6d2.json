@@ -1,0 +1,12 @@
+{
+  "id": "7836594b-4924-4c36-8c98-7d55e498d6d2",
+  "instruction": "Compare and contrast the two types of supervised machine learning.",
+  "input": "",
+  "output": "Supervised learning is divided into two main types: classification and regression. In classification, the goal is to predict a categorical label such as a yes/no, true/false, or a number of discrete classes. In regression, the goal is to predict a continuous variable such as temperature or price. Both of these tasks are accomplished by learning a mapping from a set of input features to an output label or value. Classification is used when the output is categorical, while regression is used when the output is a continuous variable. Both of these algorithms require labeled data in order to learn the mapping between the features and the label.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d284e5c8-dde8-4c56-bade-6ee452160cb2",
+  "instruction": "Infer the emotion of the person in the following sentence",
+  "input": "I have been working on this project for last few days but nothing is turning up",
+  "output": "Frustration",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

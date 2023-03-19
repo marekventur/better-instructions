@@ -1,0 +1,12 @@
+{
+  "id": "054d8f2a-6789-42be-8cfc-dd923e0b396b",
+  "instruction": "Train a model to classify the following data into two categories: red apples and green apples.",
+  "input": "red apple, red apple, red apple, green apple, green apple, red apple",
+  "output": "A trained classification model that can accurately classify red and green apples.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

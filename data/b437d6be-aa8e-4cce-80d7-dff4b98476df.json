@@ -1,0 +1,12 @@
+{
+  "id": "b437d6be-aa8e-4cce-80d7-dff4b98476df",
+  "instruction": "Given this sentence, remove all unnecessary words",
+  "input": "This beautiful large white house is situated on the top of the hill.",
+  "output": "House on hill top is white.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

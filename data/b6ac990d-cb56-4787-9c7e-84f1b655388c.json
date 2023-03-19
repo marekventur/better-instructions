@@ -1,0 +1,12 @@
+{
+  "id": "b6ac990d-cb56-4787-9c7e-84f1b655388c",
+  "instruction": "Create a personalized greeting message for a customer.",
+  "input": "Customer Name: Jennifer",
+  "output": "Hi Jennifer,\n\nWelcome to our store! We're happy to have you here. We want to make sure you have the best shopping experience, so let us know if there's anything we can do for you. \n\nHappy shopping!\n\nSincerely,\nThe Team at",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

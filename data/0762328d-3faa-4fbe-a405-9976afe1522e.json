@@ -1,0 +1,12 @@
+{
+  "id": "0762328d-3faa-4fbe-a405-9976afe1522e",
+  "instruction": "Create a personal budget for a hypothetical person based on the given information.",
+  "input": "$3500 monthly salary.",
+  "output": "Assuming a $3500 monthly salary, an example monthly budget could look like this: Fixed Expenses: Rent: $850, Utilities: $150, Car Payment: $170, Insurance: $75. Variable Expenses: Groceries: $250, Eating Out: $90, Gas: $120, Shopping: $50, Entertainment: $80. Savings: Emergency Fund: $300, Retirement: $300, Savings Goals: $250. This would leave $485 in discretionary spending.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

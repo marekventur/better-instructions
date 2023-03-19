@@ -1,0 +1,12 @@
+{
+  "id": "04cff1e6-f1c9-44fc-afde-2c7cb58890b7",
+  "instruction": "Create a customer profile for a customer that recently purchased a new bike.",
+  "input": "John Smith, 25, USA.",
+  "output": "John Smith is a 25-year-old customer from the United States. He recently purchased a new bike from our store, indicating that he values convenience and quality. He is likely an active user of his bike, as he was looking for a bike that was easy to maintain and durable enough to withstand harsh terrain. John is likely an experienced biker, as he was able to make an informed purchase decision quickly and confidently. He is likely looking for products to help him make the most of his biking experience, such as comfortable clothing and accessories that can improve his experience with his new bike.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5faf232c-b035-4aae-a028-dbcddbb6e9bf",
+  "instruction": "Explain the concept of linear regression in terms used by laypersons",
+  "input": "",
+  "output": "Linear regression is a method of using data points to create a line that predicts how a particular set of data points may be related. It is used to predict how changes in one factor (e.g the size of a room) can affect changes in another factor (e.g the temperature of the room). This line can then be used to accurately predict the outcome of any given data point. In essence, linear regression is used to understand the relationship between two factors and gain insights about the data points.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

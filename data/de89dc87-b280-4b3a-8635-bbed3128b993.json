@@ -1,0 +1,12 @@
+{
+  "id": "de89dc87-b280-4b3a-8635-bbed3128b993",
+  "instruction": "Calculate the diameter of the circle given its area",
+  "input": "Area = 50",
+  "output": "The diameter of a circle with an area of 50 is approximately 8.66.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

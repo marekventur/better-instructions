@@ -1,0 +1,12 @@
+{
+  "id": "73cc69f0-32f1-4e51-a330-59433f6eb1a3",
+  "instruction": "Classify the following text as in support of or against the statement. You can answer \"Support\" or \"Unsupport\".",
+  "input": "Statement: Eating healthy is always expensive\nText: Recent studies have shown that it is possible to eat healthily, with a great variety of foods, all while sticking to a budget.",
+  "output": "Support",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

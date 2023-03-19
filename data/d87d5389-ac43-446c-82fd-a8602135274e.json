@@ -1,0 +1,12 @@
+{
+  "id": "d87d5389-ac43-446c-82fd-a8602135274e",
+  "instruction": "Modify the following word document.",
+  "input": "This document has two lines of text.",
+  "output": "This document has two lines of text. The first line is bold and the second line is italicized.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

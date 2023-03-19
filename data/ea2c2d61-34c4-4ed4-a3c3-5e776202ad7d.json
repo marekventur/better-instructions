@@ -1,0 +1,12 @@
+{
+  "id": "ea2c2d61-34c4-4ed4-a3c3-5e776202ad7d",
+  "instruction": "Analyze this company's financial standing",
+  "input": "ABC Corporation | Annual Revenue | $10 Million",
+  "output": "This company has an annual revenue of $10 million. It is in good financial standing and is able to maintain steady growth. Looking at the income statement, ABC Corporation's expenses are low and net profit is healthy relative to revenue. Further analysis of the balance sheet reveals that it has manageable levels of debt and an adequate amount of cash on its balance sheet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

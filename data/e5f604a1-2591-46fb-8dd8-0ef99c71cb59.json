@@ -1,0 +1,12 @@
+{
+  "id": "e5f604a1-2591-46fb-8dd8-0ef99c71cb59",
+  "instruction": "Rewrite the following sentence: \u201cShe always leaves early\u201d",
+  "input": "She always leaves early",
+  "output": "She departs ahead of schedule every time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

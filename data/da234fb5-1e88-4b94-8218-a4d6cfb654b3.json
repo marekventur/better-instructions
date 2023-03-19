@@ -1,0 +1,12 @@
+{
+  "id": "da234fb5-1e88-4b94-8218-a4d6cfb654b3",
+  "instruction": "Design an experiment to determine the efficiency of a wind turbine in different wind speeds.",
+  "input": "",
+  "output": "The goal of the experiment is to measure the efficiency of a wind turbine in different wind speeds. To do this, an outdoor wind tunnel test is conducted, in which a wind turbine is placed in the wind tunnel and is exposed to different wind speeds. The wind turbine's output power is then measured and compared to the wind speed. This experiment can also be conducted in multiple locations to better understand the performance of the turbine in varying weather conditions. Additionally, the data collected can be used to better understand the turbine's design and power output capabilities in different conditions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d121a134-3060-4253-8771-34aaf5bde194",
+  "instruction": "Change the words within a given sentence.",
+  "input": "She was the prettiest flower in the garden.",
+  "output": "She was the most beautiful blossom in the garden.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

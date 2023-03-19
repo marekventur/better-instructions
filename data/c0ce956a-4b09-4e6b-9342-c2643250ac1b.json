@@ -1,0 +1,12 @@
+{
+  "id": "c0ce956a-4b09-4e6b-9342-c2643250ac1b",
+  "instruction": "Suggest 3 best restaurants near the given location.",
+  "input": "Berlin, Germany",
+  "output": "- Shiso Burger - Hackescher Markt, Berlin\n- Burgermeister - Schlesisches Tor, Berlin\n- Mustafa's Gem\u00fcse Kebap - Kreuzberg, Berlin",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

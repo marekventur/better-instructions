@@ -1,0 +1,12 @@
+{
+  "id": "f68fc128-053b-4cfa-9b15-5f1581f8c834",
+  "instruction": "Categorize the given sample according to the provided label",
+  "input": "Sample: Sam\nLabel: Age",
+  "output": "Sam is 8 years old.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

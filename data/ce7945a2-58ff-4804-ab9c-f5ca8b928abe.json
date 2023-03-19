@@ -1,0 +1,12 @@
+{
+  "id": "ce7945a2-58ff-4804-ab9c-f5ca8b928abe",
+  "instruction": "Describe the basic features of a computer operating system.",
+  "input": "",
+  "output": "A computer operating system is a software program that runs on the computer hardware and allows for user interaction and system management. It manages the hardware and acts as an interface between the user and the computer hardware. An operating system facilitates basic tasks such as controlling the input/output devices, starting programs, memory management, task scheduling, multitasking and protection of data on the computer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

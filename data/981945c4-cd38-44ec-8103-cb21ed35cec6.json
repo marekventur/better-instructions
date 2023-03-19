@@ -1,0 +1,12 @@
+{
+  "id": "981945c4-cd38-44ec-8103-cb21ed35cec6",
+  "instruction": "Create a recipe for strawberry cake",
+  "input": "",
+  "output": "Ingredients:\n\u2022\t2 cups all-purpose flour\n\u2022\t1 teaspoon baking soda\n\u2022\t1 teaspoon baking powder\n\u2022\t1 teaspoon salt\n\u2022\t1/2 cup butter, softened\n\u2022\t2/3 cup white sugar\n\u2022\t2 eggs\n\u2022\t1 teaspoon vanilla extract\n\u2022\t3/4 cup milk\n\u2022\t2 cups fresh strawberries, diced\n\nInstructions:\n1. Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking pan.\n2. Sift together the flour, baking soda, baking powder, and salt; set aside.\n3. In a large bowl cream together the butter and sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla.\n4. Gradually add the dry mixture to the wet mixture while stirring, then mix in the milk.\n5. Spread the batter into the prepared pan, and layer with fresh strawberries.\n6. Bake for 30-35 minutes in the preheated oven, until a toothpick inserted into the center of the cake comes out clean.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

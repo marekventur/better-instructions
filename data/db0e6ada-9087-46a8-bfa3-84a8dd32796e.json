@@ -1,0 +1,12 @@
+{
+  "id": "db0e6ada-9087-46a8-bfa3-84a8dd32796e",
+  "instruction": "Identify the major cause for the given issue.",
+  "input": "Issue: Climate change",
+  "output": "The major cause of climate change is the emission of greenhouse gases from burning fossil fuels, such as oil and coal. These gases trap heat in the Earth's atmosphere, which leads to an increase in global temperature. Other human activities, such as deforestation, livestock farming, and the release of pollutants such as chlorofluorocarbons (CFCs) contribute to the increase in global temperatures.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

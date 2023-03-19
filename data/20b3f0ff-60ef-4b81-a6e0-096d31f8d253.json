@@ -1,0 +1,12 @@
+{
+  "id": "20b3f0ff-60ef-4b81-a6e0-096d31f8d253",
+  "instruction": "Categorize a restaurant as either an Italian, Mexican, or Chinese restaurant",
+  "input": "Taco Bell",
+  "output": "Mexican",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

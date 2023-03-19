@@ -1,0 +1,12 @@
+{
+  "id": "c46f9ad5-acdf-4d0d-93fd-52803178bd93",
+  "instruction": "Evaluate the following website for its usability.",
+  "input": "www.example.com",
+  "output": "The website www.example.com is user-friendly, with all the relevant information easily accessible. There is a clear, intuitive navigation menu and the design is simple and uncluttered, making it easy to find the required information. The pages load quickly and the webpages have clearly visible search boxes and buttons. All in all, the usability of this website is excellent.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

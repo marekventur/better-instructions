@@ -1,0 +1,12 @@
+{
+  "id": "4f3b5e07-df65-404b-b309-d795c3c8602f",
+  "instruction": "Write a function in JavaScript to print the current date.",
+  "input": "",
+  "output": "function printCurrentDate() {\n    const date = new Date();\n    const day = date.getDate();\n    const month = date.getMonth();\n    const year = date.getFullYear();\n    console.log(`The current date is ${day}/${month+1}/${year}.`);\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

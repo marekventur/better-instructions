@@ -1,0 +1,12 @@
+{
+  "id": "6a9ab4af-154e-4788-a577-551842f08ef5",
+  "instruction": "Rewrite the sentence below with the square brackets to make it clearer.",
+  "input": "The area around Grand Tower is beautiful [in the] summer.",
+  "output": "The area around Grand Tower is beautiful [in the] summer [time].",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

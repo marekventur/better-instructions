@@ -1,0 +1,12 @@
+{
+  "id": "a32c87f2-abe5-43b1-bdae-2b754335891c",
+  "instruction": "Given an animal, generate a list of foods it can eat.",
+  "input": "Koala",
+  "output": "A list of foods that a koala can eat includes eucalyptus leaves, manna gum, gumleaves, and ironbark leaves. They are also known to eat certain other varieties of leaves, as well as some grasses, acacias, and apples.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

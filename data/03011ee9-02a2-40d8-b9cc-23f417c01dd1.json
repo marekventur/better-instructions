@@ -1,0 +1,12 @@
+{
+  "id": "03011ee9-02a2-40d8-b9cc-23f417c01dd1",
+  "instruction": "Rank the following songs according to their popularity (with 1 being the most popular and 3 the least popular).",
+  "input": "\"Eye of the Tiger\", \"We Will Rock You\", \"Bohemian Rhapsody\"",
+  "output": "1. \"Bohemian Rhapsody\"\n2. \"We Will Rock You\"\n3. \"Eye of the Tiger\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

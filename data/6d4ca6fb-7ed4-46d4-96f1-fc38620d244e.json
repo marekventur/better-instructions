@@ -1,0 +1,12 @@
+{
+  "id": "6d4ca6fb-7ed4-46d4-96f1-fc38620d244e",
+  "instruction": "Generate a list of five interview questions which can be asked to a software engineer.",
+  "input": "",
+  "output": "1. What experience do you have in software engineering? \n2. How comfortable are you with developing user-friendly software products? \n3. Could you tell us what measures you take to ensure that new features work correctly? \n4. How do you go about debugging and troubleshooting software issues? \n5. What software development methods and practices do you typically follow?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

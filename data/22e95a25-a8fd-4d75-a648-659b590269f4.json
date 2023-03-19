@@ -1,0 +1,12 @@
+{
+  "id": "22e95a25-a8fd-4d75-a648-659b590269f4",
+  "instruction": "Construct a function that takes a comma-separated string input and returns the words that appear in both strings.",
+  "input": "",
+  "output": "def find_common_words(s1, s2):\n    # split the strings and store them into two lists\n    list1 = s1.split(', ')\n    list2 = s2.split(', ')\n    # create a set of words that appear in both strings\n    common_words = set(list1).intersection(list2)\n  \n    # return the words\n    return common_words",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

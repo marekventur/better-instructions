@@ -1,0 +1,12 @@
+{
+  "id": "6d87c1ec-2f7e-4ccb-81ff-9b4937738287",
+  "instruction": "Edit the following sentence: \"She is as been an excellent student with of highest grades.\"",
+  "input": "She is been an excellent student with of highest grades.",
+  "output": "She has been an excellent student with the highest grades.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

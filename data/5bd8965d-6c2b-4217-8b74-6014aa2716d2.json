@@ -1,0 +1,12 @@
+{
+  "id": "5bd8965d-6c2b-4217-8b74-6014aa2716d2",
+  "instruction": "Rewrite the following sentence in a more concise way.",
+  "input": "Although he had been studying for several hours he had not finished the task.",
+  "output": "Despite studying for hours, he hadn't finished the task.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

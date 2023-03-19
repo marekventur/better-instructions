@@ -1,0 +1,12 @@
+{
+  "id": "61103369-1ed6-4957-b352-f4ef0d924855",
+  "instruction": "Given the input, classify the object into a type.",
+  "input": "The object is circular and has a small cab in the middle.",
+  "output": "Ferris Wheel.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

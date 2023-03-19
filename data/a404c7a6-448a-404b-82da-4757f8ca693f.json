@@ -1,0 +1,12 @@
+{
+  "id": "a404c7a6-448a-404b-82da-4757f8ca693f",
+  "instruction": "How is data pre-processing used in machine learning?",
+  "input": "",
+  "output": "Data pre-processing is a crucial step in machine learning. It involves cleaning the data, normalizing the values, and applying feature selection methods to reduce the data dimensionality. Data pre-processing is necessary to make the data easier to use and interpret, as it can improve the performance of the learning algorithms by removing noise and outliers as well as selecting the most relevant features.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

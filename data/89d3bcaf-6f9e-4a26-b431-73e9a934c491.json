@@ -1,0 +1,12 @@
+{
+  "id": "89d3bcaf-6f9e-4a26-b431-73e9a934c491",
+  "instruction": "Split the word \"balanced\" into two words using prefixes and suffixes.",
+  "input": "",
+  "output": "Bal-ance, un-balanced.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

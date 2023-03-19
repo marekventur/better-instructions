@@ -1,0 +1,12 @@
+{
+  "id": "1a7061e4-19cb-45bd-a9b8-02133b1d6e1c",
+  "instruction": "Write a python script to convert a temperature from Celsius to Fahrenheit.",
+  "input": "",
+  "output": "\"\"\"\nScript to convert Celsius to Fahrenheit\n\"\"\"\n\ndef celsius_to_fahrenheit(celsius):\n    return celsius * 9/5 + 32\n\nif __name__ == '__main__':\n    celsius = 37\n    print(celsius_to_fahrenheit(celsius))\n    # Output: 98.6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

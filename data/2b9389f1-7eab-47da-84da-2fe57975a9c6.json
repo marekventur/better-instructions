@@ -1,0 +1,12 @@
+{
+  "id": "2b9389f1-7eab-47da-84da-2fe57975a9c6",
+  "instruction": "Arrange the given list of sentences in chronological sequence.",
+  "input": "- The skies had cleared.\n- The storm had passed. \n- Wind and rain had been battering the city the morning over.\n- Waves crashed against the shore.",
+  "output": "- Wind and rain had been battering the city the morning over. \n- Waves crashed against the shore. \n- The storm had passed. \n- The skies had cleared.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

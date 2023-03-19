@@ -1,0 +1,12 @@
+{
+  "id": "38652fc6-4456-47ac-88da-f8e6984e9861",
+  "instruction": "Show the least busy route to get from the Eiffel Tower to the Louvre",
+  "input": "Paris, France",
+  "output": "The quickest and least busy route to get from the Eiffel Tower to the Louvre is via Avenue des Champs-\u00c9lys\u00c9ES and Avenue de l'Op\u00e9ra.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

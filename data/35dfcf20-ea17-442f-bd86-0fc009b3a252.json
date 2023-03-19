@@ -1,0 +1,12 @@
+{
+  "id": "35dfcf20-ea17-442f-bd86-0fc009b3a252",
+  "instruction": "Write a script to delete items from a list.",
+  "input": "list = [4, 5, 6, 7, 8]",
+  "output": "list = [4, 6, 7, 8]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

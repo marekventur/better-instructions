@@ -1,0 +1,12 @@
+{
+  "id": "9bb7eaeb-f6ab-4892-acb2-309050b1e06f",
+  "instruction": "Reverse engineer and recreate a recipe from the given description.",
+  "input": "A rich, creamy vegan pasta dish, full of caramelized onions, garlic and creamy sauce of cashew milk, lemon and rosemary.",
+  "output": "Ingredients: \n- 2 tablespoons of olive oil\n- 2 large onions, diced\n- 2 cloves of garlic, minced\n- 2 cups of cashew milk\n- 2 tablespoons of fresh lemon juice\n- 2 tablespoons of fresh rosemary, minced\n- 1 pound of vegan penne pasta \n- Salt and freshly ground black pepper, to taste \n\nInstructions: \n1. Heat olive oil in a large skillet over medium heat. \n2. Add onions and garlic and cook, stirring occasionally, until the onions are caramelized, about 10 minutes. \n3. Add cashew milk, lemon juice and rosemary and simmer for 5 minutes. \n4. Meanwhile, cook penne according to package instructions. \n5. Drain the cooked pasta and add to the skillet. Season with salt and pepper to taste. \n6. Simmer the pasta in the creamy sauce for about 5 minutes. \n7. Serve the creamy vegan pasta warm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

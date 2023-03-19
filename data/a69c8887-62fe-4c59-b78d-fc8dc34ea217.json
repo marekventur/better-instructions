@@ -1,0 +1,12 @@
+{
+  "id": "a69c8887-62fe-4c59-b78d-fc8dc34ea217",
+  "instruction": "Construct a narration explaining the given comic strip.",
+  "input": "[Image]",
+  "output": "The woman in the comic strip is talking to her friend, telling her that she never understood why people would want to go out and party when they can just stay at home and relax. Her friend responds to her saying that partying is a great way to make new friends and have fun, and she should try it!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

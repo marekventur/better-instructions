@@ -1,0 +1,12 @@
+{
+  "id": "b1c73902-4185-4c7a-bc78-4651820707f6",
+  "instruction": "Create a scenario where the given dialogue can be applied.",
+  "input": "\"I'll see you tomorrow.\"",
+  "output": "Two friends, Mary and Mike, are saying goodbye after having lunch together. Mary is leaving for another city tomorrow and she tells Mike, \"I'll see you tomorrow.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

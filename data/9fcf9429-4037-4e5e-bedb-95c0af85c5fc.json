@@ -1,0 +1,12 @@
+{
+  "id": "9fcf9429-4037-4e5e-bedb-95c0af85c5fc",
+  "instruction": "Analyze the following statement and identify any biases present in it.",
+  "input": "Women aren't as good as men at sports.",
+  "output": "This statement contains gender bias. It implies that women are inherently less capable than men in terms of sports performance, which is not necessarily the case. It ignores the fact that physical strength, agility, and skills can vary greatly amongst individuals, regardless of gender. Furthermore, this statement downplays the accomplishments of female athletes who have achieved remarkable successes in the world of sports.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

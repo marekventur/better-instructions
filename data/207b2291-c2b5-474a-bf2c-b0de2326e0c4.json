@@ -1,0 +1,12 @@
+{
+  "id": "207b2291-c2b5-474a-bf2c-b0de2326e0c4",
+  "instruction": "Summarize a conversation between two people discussing their last vacation.",
+  "input": "Person A: Last summer I hiked through the Rocky Mountains.\nPerson B: That sounds amazing!",
+  "output": "Person A and Person B discussed their last vacations. Person A shared that they hiked through the Rocky Mountains, and Person B reacted with awe.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

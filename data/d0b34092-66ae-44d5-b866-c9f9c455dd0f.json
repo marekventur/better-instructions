@@ -1,0 +1,12 @@
+{
+  "id": "d0b34092-66ae-44d5-b866-c9f9c455dd0f",
+  "instruction": "Arrange the notes in the key of C major.",
+  "input": "C  D  E",
+  "output": "C  D  E  F  G  A  B  C",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

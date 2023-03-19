@@ -1,0 +1,12 @@
+{
+  "id": "9fea1f95-78f9-4fea-827d-3adbec44f89e",
+  "instruction": "Find the type of verb used in the sentence: \"He enjoyed eating pizza\".",
+  "input": "He enjoyed eating pizza",
+  "output": "The type of verb used in the sentence is an -ing verb (eating).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

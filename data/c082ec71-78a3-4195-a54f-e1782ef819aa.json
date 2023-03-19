@@ -1,0 +1,12 @@
+{
+  "id": "c082ec71-78a3-4195-a54f-e1782ef819aa",
+  "instruction": "Consider the following list, what is the third item in the list?",
+  "input": "1. Apple\n2. Banana\n3. Carrot",
+  "output": "3. Carrot",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

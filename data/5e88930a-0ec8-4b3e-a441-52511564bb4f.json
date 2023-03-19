@@ -1,0 +1,12 @@
+{
+  "id": "5e88930a-0ec8-4b3e-a441-52511564bb4f",
+  "instruction": "What type of data does a credit card hold?",
+  "input": "",
+  "output": "A credit card holds personal information, such as the cardholder's name, financial institution, account number, expiration date, and security code, as well as the cardholder's spending and transaction history.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

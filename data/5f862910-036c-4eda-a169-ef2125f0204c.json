@@ -1,0 +1,12 @@
+{
+  "id": "5f862910-036c-4eda-a169-ef2125f0204c",
+  "instruction": "Construct a bacterial transformation lab experiment.",
+  "input": "",
+  "output": "A bacterial transformation lab experiment involves transferring DNA into a bacterial host cell. This can be done by using a plasmid vector, which is a small ring of DNA that can be inserted into bacterial cells. First, the vector must be taken up by the host cell, and this is done by heat shock. Then, the plasmid vector carrying the desired gene must be introduced into the bacterial cell using techniques like chemical competence, electroporation, or lipofection. Once inside, the new gene is expressed and can be used to carry out desired traits.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

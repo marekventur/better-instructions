@@ -1,0 +1,12 @@
+{
+  "id": "26be146e-787c-4c97-97f8-2795374f26d0",
+  "instruction": "Translatre the given sentence to Spanish.",
+  "input": "I am looking for the right book",
+  "output": "Estoy buscando el libro correcto.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

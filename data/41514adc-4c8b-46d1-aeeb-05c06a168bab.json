@@ -1,0 +1,12 @@
+{
+  "id": "41514adc-4c8b-46d1-aeeb-05c06a168bab",
+  "instruction": "Find the software release notes for the latest version of Google Chrome.",
+  "input": "",
+  "output": "The latest version of Google Chrome (version 86.0.4240.111) has a variety of new features, improvements, and bug fixes. Some of the highlights include a new security indicator to improve user privacy and control, new APIs to help developers make common tasks easier, performance improvements to JavaScript, and additional support for HTML and CSS. Additionally, several security and stability fixes were included. For the complete list of changes, please check out the official release notes on the Google Chrome website.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

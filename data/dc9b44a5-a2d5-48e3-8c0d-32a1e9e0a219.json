@@ -1,0 +1,12 @@
+{
+  "id": "dc9b44a5-a2d5-48e3-8c0d-32a1e9e0a219",
+  "instruction": "Convert the number in Fahrenheit to Celsius.",
+  "input": "210",
+  "output": "210\u00b0F is equal to 98.89\u00b0C.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9ba8671b-cfd6-4c6f-aa76-f2cda0ea0989",
+  "instruction": "Given the current temperature, what type of clothing should you wear?",
+  "input": "25\u00b0C",
+  "output": "At 25\u00b0C, it is advised to wear light and loose fabric clothing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a837ba86-0284-4133-9d9b-74d4d322c26c",
+  "instruction": "Summarize a news article in a sentence.",
+  "input": "Article: The decline of wild bee species",
+  "output": "The decline in wild bee species has been attributed to a variety of factors, including habitat loss, pesticide use, and climate change.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

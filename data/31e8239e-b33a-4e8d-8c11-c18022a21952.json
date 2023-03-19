@@ -1,0 +1,12 @@
+{
+  "id": "31e8239e-b33a-4e8d-8c11-c18022a21952",
+  "instruction": "Identify one example of a person using persuasion in the following story.",
+  "input": "Sam and Jessica were trying to decide if they should go skydiving the following weekend. Sam was apprehensive and said \u201cI really don\u2019t think this is a good idea. What if something goes wrong?\u201d Jessica, on the other hand, was more enthusiastic and replied \u201cIt\u2019ll be fine. I\u2019ve gone skydiving before and it was a lot of fun!\u201d",
+  "output": "Jessica is using persuasion by giving her own example of enjoying skydiving in the past and attempting to allay Sam's fears by saying that \"it'll be fine\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

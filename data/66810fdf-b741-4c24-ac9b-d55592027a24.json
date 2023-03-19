@@ -1,0 +1,12 @@
+{
+  "id": "66810fdf-b741-4c24-ac9b-d55592027a24",
+  "instruction": "Categorize the following word as an animal, fruit, or vegetable",
+  "input": "Banana",
+  "output": "Fruit",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

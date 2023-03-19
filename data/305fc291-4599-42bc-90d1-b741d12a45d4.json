@@ -1,0 +1,12 @@
+{
+  "id": "305fc291-4599-42bc-90d1-b741d12a45d4",
+  "instruction": "Identify the theme in this song.",
+  "input": "I can feel it in my bones\nHere come the tremors\nWhen the ground starts to shake",
+  "output": "The theme of this song is that of anticipation \u2013 the narrator is feeling something coming and is able to sense it in their bones. They know that something is about to happen, and they can sense the tremors, signaling that something is on its way and the ground is starting to shake, increasing the anticipation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

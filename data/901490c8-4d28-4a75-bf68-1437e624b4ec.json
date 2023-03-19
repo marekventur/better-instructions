@@ -1,0 +1,12 @@
+{
+  "id": "901490c8-4d28-4a75-bf68-1437e624b4ec",
+  "instruction": "Combine the following sentences into one with an appropriate conjunction.",
+  "input": "I'm tired. I want to go to bed.",
+  "output": "I'm tired, so I want to go to bed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

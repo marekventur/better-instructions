@@ -1,0 +1,12 @@
+{
+  "id": "3da1b3e4-4549-478c-a5ec-d31845d7d569",
+  "instruction": "What is the difference between RAM and ROM in computer engineering?",
+  "input": "",
+  "output": "The main difference between RAM and ROM in computer engineering is that RAM is a type of volatile memory, meaning that any data stored in it is erased when the computer is turned off. ROM, on the other hand, is a type of non-volatile memory, which means that once data is written to it, it cannot be changed or erased. RAM is used to temporarily store data for immediate use, while ROM is used to permanently store programs and data that are essential for the functioning of the computer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

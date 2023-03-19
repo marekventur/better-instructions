@@ -1,0 +1,12 @@
+{
+  "id": "5731bef5-c9bc-423d-be9b-1d31f06abd8f",
+  "instruction": "Create a new recipe for macaroni and cheese.",
+  "input": "",
+  "output": "Ingredients:\n- \u00bd lb macaroni\n- 2 cups of heavy cream\n- 1 \u00bd cups grated cheddar cheese\n- \u00bc cup parmesan cheese\n- 2 tbsp butter\n- 2 cloves of minced garlic\n- Salt and pepper to taste\n\nInstructions:\n1. Preheat oven to 375\u00b0F.\n2. Boil macaroni in salted water until it's al dente. Drain the macaroni, transfer to a large bowl.\n3. In a saucepan, heat cream and butter over low-medium heat. Add garlic and stir until butter is melted.\n4. Gradually add the cheddar and parmesan cheese, stirring continually until cheese is completely melted and sauce is smooth. Add salt and pepper.\n5. Add the cheese sauce to the macaroni and stir until fully combined.\n6. Transfer macaroni mixture to a baking dish.\n7. Bake in the preheated oven for 25 minutes.\n8. Serve warm. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

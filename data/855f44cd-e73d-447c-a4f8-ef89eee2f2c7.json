@@ -1,0 +1,12 @@
+{
+  "id": "855f44cd-e73d-447c-a4f8-ef89eee2f2c7",
+  "instruction": "Generate a single sentence containing the three words provided.",
+  "input": "mountain, meadow, wildflowers",
+  "output": "I hiked to the mountain summit and was greeted by a meadow full of colorful wildflowers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

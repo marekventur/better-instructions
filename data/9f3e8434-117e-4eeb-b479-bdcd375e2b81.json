@@ -1,0 +1,12 @@
+{
+  "id": "9f3e8434-117e-4eeb-b479-bdcd375e2b81",
+  "instruction": "Answer this question with a yes or no.",
+  "input": "Will I be able to go to the park tomorrow?",
+  "output": "Yes or No.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

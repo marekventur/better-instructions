@@ -1,0 +1,12 @@
+{
+  "id": "984dc46e-dbe7-4a7a-b4d4-322fa83541b5",
+  "instruction": "Given a cooking recipe, make changes to it to make it vegan.",
+  "input": "We will be making tandoori chicken. \nIngredients: Chicken, garlic, lemon, ginger, yogurt, red chili powder, garam masala, and oil",
+  "output": "We will be making vegan tandoori \"chicken\". \nIngredients: Firm tofu, garlic, lemon, ginger, vegan yogurt, red chili powder, garam masala, and oil.\nInstructions:\n- Cut the tofu into 1-inch cubes and set aside.\n- In a medium bowl, combine garlic, lemon, ginger, vegan yogurt, red chili powder, garam masala, and oil.\n- Add the tofu cubes to the mixture and stir to coat.\n- Place the tofu cubes on a non-stick baking sheet and bake for 25 minutes until cooked and lightly browned.\n- Serve with vegan naan and chutney.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

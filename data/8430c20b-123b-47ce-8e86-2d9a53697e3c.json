@@ -1,0 +1,12 @@
+{
+  "id": "8430c20b-123b-47ce-8e86-2d9a53697e3c",
+  "instruction": "Create a blueprint for an app that creates memes from user input.",
+  "input": "",
+  "output": "A blueprint for an app that creates memes from user input could include the following features: \n- User authentication system for logging in and creating an account \n- Option to add a text box for customizing the meme\n- Image library of meme-worthy images to choose from\n- Editing options such as font and color choices\n- Ability to post and share the meme\n- Option to save the meme to a profile gallery",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

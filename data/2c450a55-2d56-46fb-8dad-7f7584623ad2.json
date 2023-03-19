@@ -1,0 +1,12 @@
+{
+  "id": "2c450a55-2d56-46fb-8dad-7f7584623ad2",
+  "instruction": "Create an appropriate response to the given customer service enquiry",
+  "input": "I am trying to access my account but can't remember my password.",
+  "output": "No worries! You can easily reset your password by clicking on the 'Forgot Password' link on the login page. From there, we'll have you fill out some information so we can verify your identity and you'll be able to create a new password that you'll be able to use to access your account.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

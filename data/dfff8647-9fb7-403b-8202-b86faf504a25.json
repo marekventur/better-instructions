@@ -1,0 +1,12 @@
+{
+  "id": "dfff8647-9fb7-403b-8202-b86faf504a25",
+  "instruction": "Choose one of the countries in the list and provide a brief overview about its culture",
+  "input": "Brazil, India, Indonesia",
+  "output": "Brazil has a rich and diverse culture that is heavily influenced by its vibrant mix of Portuguese and African heritage. Music, festivals, dance, and cuisine are all uniquely Brazilian, with the popular Carnaval celebration being one of the most famous. Brazilians are generally outgoing, friendly, and welcoming to those they meet and take pride in their country and its many accomplishments.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

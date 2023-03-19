@@ -1,0 +1,12 @@
+{
+  "id": "eeefc903-083e-4318-b604-fe125b45d9cc",
+  "instruction": "Analyze the following example sentence:",
+  "input": "He thought about what he should do next.",
+  "output": "The sentence is in the past tense and is in the form of a declarative sentence, expressing a thought or opinion. The subject is \"He\" and the verb is \"thought\". The object of the sentence is the clause \"about what he should do next\", which expresses a contemplation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

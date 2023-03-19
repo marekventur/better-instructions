@@ -1,0 +1,12 @@
+{
+  "id": "726c926a-7c3b-43f7-b104-1b0b5656f9e8",
+  "instruction": "Explain the purpose of the following class in Python.",
+  "input": "class Car():",
+  "output": "The Car class is a blueprint that is used to create objects that represent a car. This class will define the properties and methods of any car object, such as its make, model, color, year, speed, etc., as well as any actions that a car can do, such as accelerating, braking, and turning.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

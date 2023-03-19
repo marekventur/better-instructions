@@ -1,0 +1,12 @@
+{
+  "id": "f7c40928-d322-403c-81c7-37d653227429",
+  "instruction": "Compute the total number of students in the following classes.",
+  "input": "Class A: 10 students  \nClass B: 17 students  \nClass C: 22 students",
+  "output": "49 students.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

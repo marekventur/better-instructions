@@ -1,0 +1,12 @@
+{
+  "id": "83105c52-d823-480b-bed1-0dd89504c378",
+  "instruction": "Search the internet and make a comparison table for two different types of digital cameras.",
+  "input": "",
+  "output": "Product\t Canon EOS 500D\t Nikon D5600\nSensor\t 15MP APS-C\t 24MP DX CMOS\nProcessor\t DIGIC 4+\t EXPEED 4\nNative ISO\t 100-6400\t 100-25600\nAutofocus\t 9pts\t 39pts\nContinuous Shooting\t 3.0 FPS\t 5.0 FPS\nVideo Quality\t 1080/30p\t 1080/60p\nWeight\t 505 g\t 465 g\nPrice\t $279.99\t $499.99",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2cf8d575-e45c-45b3-93f3-f26d73b1097e",
+  "instruction": "Given a set of five numbers, return the highest and lowest values.",
+  "input": "8, 4, 12, 2, 16",
+  "output": "The highest value is 16 and the lowest value is 2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

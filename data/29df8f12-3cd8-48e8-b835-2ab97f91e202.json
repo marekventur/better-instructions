@@ -1,0 +1,12 @@
+{
+  "id": "29df8f12-3cd8-48e8-b835-2ab97f91e202",
+  "instruction": "Compose an email thanking the customer for the purchase.",
+  "input": "Dear Customer,\n\nThank you for your purchase of ABC product.",
+  "output": "Dear Customer,\n\nThank you for your purchase of ABC product. We appreciate your trust and support, and we're glad that you have chosen our product to meet your needs. We hope you will enjoy using it and we look forward to hearing your feedback.\n\nSincerely, \nABC Team",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

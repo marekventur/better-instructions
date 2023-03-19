@@ -1,0 +1,12 @@
+{
+  "id": "847e0e05-7c41-411e-84d2-5c2bbeb972e7",
+  "instruction": "Explain what polynomials are.",
+  "input": "",
+  "output": "A polynomial is an expression that involves operations such as addition, subtraction, multiplication and non-negative integer exponents of variables. A polynomial is composed of terms, which are separated by plus and minus signs. Each term includes a coefficient (a number), a literal part (a letter or symbol representing a value), and an exponent (which indicates how many times the literal is used). For example, the expression 4x^3 + 6x + 9x^2 contains three terms and represents a 3-degree polynomial. Polynomials can be used to model many types of functions and equations in mathematics, science, and engineering.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ce8933fa-a5ad-42dc-a431-8f56f238676a",
+  "instruction": "Given a sentence and two words, create a new sentence with the words the same but in the reverse order.",
+  "input": "This apple is sweet, apple this",
+  "output": "This sweet is apple, apple this.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b5a4430c-ff89-46cb-b22f-8880b6f7c307",
+  "instruction": "Classify the following statement into one of the four elements of persuasion.",
+  "input": "\"Take this pill and you will feel better.\"",
+  "output": "This statement is an appeal to emotion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

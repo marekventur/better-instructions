@@ -1,0 +1,12 @@
+{
+  "id": "6dd97215-a239-49bc-a889-73e05576d7d5",
+  "instruction": "Identify the given type of figure of speech.",
+  "input": "\"The early bird catches the worm\"",
+  "output": "This phrase is an example of a proverb.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cbf1aeef-3777-4f97-93f0-a4d5270d3025",
+  "instruction": "Designate an emotion for the following phrase.",
+  "input": "She shouted angrily",
+  "output": "Anger",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

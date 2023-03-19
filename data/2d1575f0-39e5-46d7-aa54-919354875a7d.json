@@ -1,0 +1,12 @@
+{
+  "id": "2d1575f0-39e5-46d7-aa54-919354875a7d",
+  "instruction": "Classify the following metals as either magnetic or non-magnetic.",
+  "input": "Copper, Iron",
+  "output": "Copper is non-magnetic, while Iron is magnetic.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

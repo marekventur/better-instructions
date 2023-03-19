@@ -1,0 +1,12 @@
+{
+  "id": "b8f94aac-f036-48ca-b5bf-0afcf5c9e336",
+  "instruction": "Edit the following sentence for clarity: I'll go shopping for the products that I will make a cake.",
+  "input": "I'll go shopping for the products that I will make a cake.",
+  "output": "I'll go shopping for the ingredients I need to make a cake.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

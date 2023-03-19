@@ -1,0 +1,12 @@
+{
+  "id": "c61176a4-676e-4132-a4ec-9a992982b42a",
+  "instruction": "Identify the strongest argument from this paragraph.",
+  "input": "The issue of global climate change needs to be addressed now more than ever. Its impacts are being seen all around the world, from rising sea levels to extreme weather patterns. It threatens the future of our planet and all life living on it, as well as whole human societies and economies. We need to take swift and radical action to reduce emissions, invest in sustainable and renewable sources of energy, and explore more options to reduce further and mitigate the impacts of climate change.",
+  "output": "The strongest argument from this paragraph is that we need to take swift and radical action to reduce emissions, invest in sustainable and renewable sources of energy, and explore more options to reduce further and mitigate the impacts of climate change.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

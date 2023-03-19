@@ -1,0 +1,12 @@
+{
+  "id": "4b4cafef-ffc3-4a57-8053-0b154113e904",
+  "instruction": "Generate a list of potential hazards in a given environment.",
+  "input": "Snowy mountain",
+  "output": "Potential hazards in a snowy mountain environment include: \n- Avalanches \n- Slips and falls \n- Hypothermia \n- Frostbite \n- Wildlife encounters \n- Blinding snow and ice \n- Ice crevices and cracks \n- Limited visibility \n- Inexperienced hikers \n- Exhaustion \n- Poor navigation \n- Environmental extremes",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

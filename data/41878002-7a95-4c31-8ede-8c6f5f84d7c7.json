@@ -1,0 +1,12 @@
+{
+  "id": "41878002-7a95-4c31-8ede-8c6f5f84d7c7",
+  "instruction": "Given the following data, calculate the average cost of a meal.",
+  "input": "Cost of meals: $15, $20, $12, $18",
+  "output": "The average cost of a meal is $16.50.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "74df5656-c34a-4dcb-9b3d-776a8fb96b62",
+  "instruction": "Read through a given text and identify all the spelling errors.",
+  "input": "I have had the best experiance this past weekend.",
+  "output": "I have had the best experience this past weekend.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

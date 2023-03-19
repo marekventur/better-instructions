@@ -1,0 +1,12 @@
+{
+  "id": "eea3f227-76f1-419d-b27a-414848f1ac98",
+  "instruction": "Pick out the dependent clauses from the sentence.",
+  "input": "Once the game was over, we packed our belongings and went home.",
+  "output": "Once the game was over",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

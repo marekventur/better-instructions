@@ -1,0 +1,12 @@
+{
+  "id": "8badde27-f3e3-4c38-8b9c-0800449192b3",
+  "instruction": "Generate a new sentence that follows the same structure of the sentence below.",
+  "input": "The clouds were moving swiftly across the sky.",
+  "output": "The leaves were blowing gracefully across the backyard.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

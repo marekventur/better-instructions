@@ -1,0 +1,12 @@
+{
+  "id": "e0b59b09-5cb1-4aa3-b95e-8c3b58bf802c",
+  "instruction": "Classify these three animals: lion, crocodile, and elephant.",
+  "input": "",
+  "output": "Lion: Kingdom Animalia, Phylum Chordata, Class Mammalia, Order Carnivora, Family Felidae, Genus Panthera, Species leo\nCrocodile: Kingdom Animalia, Phylum Chordata, Class Reptilia, Order Crocodilia, Family Crocodylidae, Genus Crocodylus, Species spp\nElephant: Kingdom Animalia, Phylum Chordata, Class Mammalia, Order Proboscidea, Family Elephantidae, Genus Loxodonta, Species spp",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

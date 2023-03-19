@@ -1,0 +1,12 @@
+{
+  "id": "d50f5cc4-2ac0-4775-af32-58b89161cc6a",
+  "instruction": "Describe a potential risk of using artificial intelligence.",
+  "input": "",
+  "output": "One potential risk of using artificial intelligence is that it could be used to automate decisions and processes in such a way that unintended bias or errors could be embedded. AI algorithms are designed by people and can reflect the implicit and explicit effects of individual and societal biases which could lead to discrimination and unfair outcomes, especially when used to make decisions without proper oversight or regulation. As machine learning algorithms are further used in decision-making and predictive analytics, it is important to ensure that the data used, and the outcomes generated, are free from bias so as to ensure fair and just outcomes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

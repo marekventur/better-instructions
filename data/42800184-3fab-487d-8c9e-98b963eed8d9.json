@@ -1,0 +1,12 @@
+{
+  "id": "42800184-3fab-487d-8c9e-98b963eed8d9",
+  "instruction": "Convert the body mass index into the correct category.",
+  "input": "19.6",
+  "output": "Underweight",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

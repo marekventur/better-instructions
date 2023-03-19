@@ -1,0 +1,12 @@
+{
+  "id": "daf8e40d-2de7-4e07-bb58-07e0b839838f",
+  "instruction": "Define the words in the given text using precise definitions.",
+  "input": "The cacophony of sounds in the overpopulated city was deafening.",
+  "output": "Cacophony: a harsh, discordant mixture of sounds.\nOverpopulated: having more people than a place can normally sustain.\nDeafening: so loud as to make hearing impossible.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

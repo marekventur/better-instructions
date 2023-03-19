@@ -1,0 +1,12 @@
+{
+  "id": "a10cd0fd-f11c-452c-adf6-25ab97c714ee",
+  "instruction": "Edit the text to fix any grammar mistakes.",
+  "input": "He went outside to play wit his friends.",
+  "output": "He went outside to play with his friends.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

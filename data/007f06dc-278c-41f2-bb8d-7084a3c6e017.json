@@ -1,0 +1,12 @@
+{
+  "id": "007f06dc-278c-41f2-bb8d-7084a3c6e017",
+  "instruction": "Create a function that will calculate the area of a triangle.",
+  "input": "",
+  "output": "The function should take in the three sides of a triangle as parameters and then use the Heron\u2019s Formula to calculate the area. The formula is as follows: Area = \u221ap(p-a)(p-b)(p-c) where p is the semiperimeter or half of the perimeter of the triangle and a, b, c are the three side lengths.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

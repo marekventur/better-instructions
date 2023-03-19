@@ -1,0 +1,12 @@
+{
+  "id": "ca742316-2692-4119-9f7e-97e20dfba615",
+  "instruction": "Given a customer feedback, detect and explain customer sentiment.",
+  "input": "\"This product was terrible. I will never buy it again.\"",
+  "output": "The customer sentiment in the customer feedback is negative, as the customer expresses dissatisfaction with the product. The customer's words \"terrible\" and \"never buy it again\" indicate their dissatisfaction and lack of intention to purchase the product in the future.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

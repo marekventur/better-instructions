@@ -1,0 +1,12 @@
+{
+  "id": "516871ec-376f-4a00-9565-88e97e9cb149",
+  "instruction": "Identify the type of triangle from the following set of angles.",
+  "input": "80 degrees, 50 degrees, 50 degrees",
+  "output": "The triangle is an isosceles triangle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

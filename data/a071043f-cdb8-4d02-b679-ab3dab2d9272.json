@@ -1,0 +1,12 @@
+{
+  "id": "a071043f-cdb8-4d02-b679-ab3dab2d9272",
+  "instruction": "Rank the following activities based on their level of difficulty, from easiest to hardest.",
+  "input": "Drawing a still life painting, solving a Rubik's cube, memorizing a poem.",
+  "output": "Drawing a still life painting, memorizing a poem, solving a Rubik's cube.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b282125b-9ff7-447d-95bb-3fffa976f830",
+  "instruction": "Classify this sentence as formal or informal: \n\"What's the deal?\"",
+  "input": "",
+  "output": "This sentence is informal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

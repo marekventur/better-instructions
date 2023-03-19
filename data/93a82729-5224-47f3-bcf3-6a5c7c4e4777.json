@@ -1,0 +1,12 @@
+{
+  "id": "93a82729-5224-47f3-bcf3-6a5c7c4e4777",
+  "instruction": "Given the following instructions, decide which one is ethical.",
+  "input": "A robot is programmed to obey orders from its human masters.",
+  "output": "The instruction to obey orders from its human masters is ethical.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

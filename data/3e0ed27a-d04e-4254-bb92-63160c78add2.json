@@ -1,0 +1,12 @@
+{
+  "id": "3e0ed27a-d04e-4254-bb92-63160c78add2",
+  "instruction": "Given the following statements, compose them into a complete argument and provide a conclusion.",
+  "input": "Statement 1: Global warming is a serious problem.\nStatement 2: It requires urgent action from governments and corporations.",
+  "output": "It is evident that global warming is a serious problem that needs to be addressed urgently. Governments and corporations must come together to create lasting solutions and ensure the planet is protected. Without their combined efforts, we stand little chance in reversing the effects of global warming in time. The conclusion is that global warming is a serious problem that requires urgent action from governments and corporations.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

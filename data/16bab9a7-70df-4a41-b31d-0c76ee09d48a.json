@@ -1,0 +1,12 @@
+{
+  "id": "16bab9a7-70df-4a41-b31d-0c76ee09d48a",
+  "instruction": "Evaluate the following equation and write an answer.",
+  "input": "15*10 =",
+  "output": "15*10 = 150",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

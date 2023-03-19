@@ -1,0 +1,12 @@
+{
+  "id": "37800f89-5b54-4c86-9345-457c7c21d46b",
+  "instruction": "Determine the type of a given website.",
+  "input": "www.amazon.com",
+  "output": "The website www.amazon.com is a shopping website. It offers goods in categories such as books, electronics, apparel, toys, and more.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

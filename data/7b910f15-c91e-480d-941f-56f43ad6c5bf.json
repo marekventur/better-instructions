@@ -1,0 +1,12 @@
+{
+  "id": "7b910f15-c91e-480d-941f-56f43ad6c5bf",
+  "instruction": "Identify the type of sentence and provide the corresponding label.",
+  "input": "She wrote a poem about joy.",
+  "output": "Declarative sentence (label : statement)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

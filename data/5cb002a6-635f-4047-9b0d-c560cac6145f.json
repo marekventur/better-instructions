@@ -1,0 +1,12 @@
+{
+  "id": "5cb002a6-635f-4047-9b0d-c560cac6145f",
+  "instruction": "Design a user interface for an AI based task management application.",
+  "input": "",
+  "output": "The user interface for the AI based task management application should have an intuitive design and should provide users with easy access to all the features, such as creating and editing tasks, setting reminders and notifications, categorizing tasks, and tracking progress. The home page should have a main dashboard that contains the user\u2019s current tasks and a list of their upcoming tasks. A sidebar should be included that allows users to switch between different tasks, set reminders, and track progress. Additional features, such as search capabilities, should also be included, which allow users to quickly locate and manage different tasks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "13c21180-bc0d-4b9b-a547-07d9d61c61b7",
+  "instruction": "Calculate the missing value.",
+  "input": "A circle has a radius of 8 cm. What is the circumference of the circle?",
+  "output": "50.26548245743669 cm",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

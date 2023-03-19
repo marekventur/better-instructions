@@ -1,0 +1,12 @@
+{
+  "id": "1c4a41aa-f557-4643-b1c9-bad368dff21a",
+  "instruction": "Categorize the following activities as either aerobic or anaerobic:",
+  "input": "Running; Weightlifting",
+  "output": "Running - Aerobic; Weightlifting - Anaerobic",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

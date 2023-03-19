@@ -1,0 +1,12 @@
+{
+  "id": "16ddf0f9-1245-41d5-81c2-71866bc7daa1",
+  "instruction": "Edit the below sentence to make its meaning more accurate.",
+  "input": "We should take the time appreciating our surroundings.",
+  "output": "We should take the time to appreciate our surroundings.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

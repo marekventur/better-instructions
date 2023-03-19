@@ -1,0 +1,12 @@
+{
+  "id": "53af03a4-5e94-47ce-8b89-b1f18c5fe592",
+  "instruction": "Categorize the following text according to the topics \"sports\", \"food\", or \"movies\".",
+  "input": "LeBron James is aiming for his fourth championship title.",
+  "output": "Sports",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

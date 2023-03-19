@@ -1,0 +1,12 @@
+{
+  "id": "7c86e5b7-a155-494a-aeee-b28d321e5cfc",
+  "instruction": "Given a list[4,21,11,32,14], create a new list in reverse order.",
+  "input": "[4,21,11,32,14]",
+  "output": "[14,32,11,21,4]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

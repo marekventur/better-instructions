@@ -1,0 +1,12 @@
+{
+  "id": "ec7a42b7-644b-4948-9d83-60c1f8d66f13",
+  "instruction": "Evaluate the following expression: (2x-3)2",
+  "input": "",
+  "output": "16x2 - 12x + 9.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

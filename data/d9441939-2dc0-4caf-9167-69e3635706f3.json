@@ -1,0 +1,12 @@
+{
+  "id": "d9441939-2dc0-4caf-9167-69e3635706f3",
+  "instruction": "Analyze the given argument and list it's components.",
+  "input": "The recent approval of a housing development project in a rural area goes against the wishes of the local community and will lead to increased traffic and environmental pressures on the area.",
+  "output": "This argument consists of three components: 1. The approval of a housing development in a rural area; 2. The wishes of the local community; 3. The potential for increased traffic and environmental pressures on the area as a result.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

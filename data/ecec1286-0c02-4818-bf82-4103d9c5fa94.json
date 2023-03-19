@@ -1,0 +1,12 @@
+{
+  "id": "ecec1286-0c02-4818-bf82-4103d9c5fa94",
+  "instruction": "Advance the given story by one sentence.",
+  "input": "She had forgotten to trim the tree in the garden.",
+  "output": "She wandered over to see what kind of mess she had made, worrying she had done too much damage.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dd1ff773-e46b-422f-b3ca-5574b69f1cfd",
+  "instruction": "Pick one of the given options and justify why you chose that option.",
+  "input": "Which action should be taken: accept the proposal or reject the proposal?",
+  "output": "I would accept the proposal. The proposal offers a unique opportunity to accomplish something that might not be possible if we don't accept it. The potential gain outweighs the potential risks, and I believe that it is worth taking a chance in order to gain from this opportunity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

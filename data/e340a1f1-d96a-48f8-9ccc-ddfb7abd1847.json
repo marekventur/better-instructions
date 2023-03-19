@@ -1,0 +1,12 @@
+{
+  "id": "e340a1f1-d96a-48f8-9ccc-ddfb7abd1847",
+  "instruction": "Generate a function that satisfies the given constrains.",
+  "input": "The function should return 0 for all inputs greater than 4 and for values that are not divisible by 3, it should return the next greatest multiple of 3.",
+  "output": "f(x) = 3*ceil(x/3) if x <=4 else 0",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

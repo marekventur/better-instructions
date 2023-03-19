@@ -1,0 +1,12 @@
+{
+  "id": "4a4cfd07-a7f5-4fdb-b8ac-022cdbcddf12",
+  "instruction": "Given a recipe for a product, list the ingredients and the exact level of ingredients required.",
+  "input": "Recipe: Chocolate Cake",
+  "output": "Ingredients:\n- 2 cups all-purpose flour\n- 3/4 cup cocoa powder\n- 1 teaspoon baking powder\n- 1/2 teaspoon baking soda\n- 1/2 teaspoon salt\n- 1/2 cup butter\n- 1 1/2 cups sugar\n- 2 eggs\n- 1 cup milk\n- 1 teaspoon vanilla extract \n- 3/4 cup chocolate chips \n- 1/2 cup chopped nuts (optional) \n\nInstructions:\n Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9 inch round pan.\nIn a medium bowl, sift together the flour, cocoa powder, baking powder, baking soda, and salt.\nIn a large bowl, cream together the butter and sugar. Beat in the eggs one at a time. Stir in the milk and vanilla. Beat in the flour mixture alternately with the milk mixture. Finally, fold in the chocolate chips and nuts (if desired).\nPour the batter into the prepared pan.\nBake for 25 minutes in the preheated oven, or until a toothpick inserted into the cake comes out clean. Allow to cool before serving.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

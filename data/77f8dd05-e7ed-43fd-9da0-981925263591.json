@@ -1,0 +1,12 @@
+{
+  "id": "77f8dd05-e7ed-43fd-9da0-981925263591",
+  "instruction": "Give three ways to improve web performance.",
+  "input": "",
+  "output": "1. Reduce the number of requests and optimize request and response size. \n2. Compress images and other types of assets. \n3. Minify and cache assets. \n4. Use a Content Delivery Network (CDN) for static assets. \n5. Defer loading files until needed. \n6. Implement lazy loading for images.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

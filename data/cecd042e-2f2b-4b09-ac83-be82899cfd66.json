@@ -1,0 +1,12 @@
+{
+  "id": "cecd042e-2f2b-4b09-ac83-be82899cfd66",
+  "instruction": "Organize the following list of adjectives in a logical order",
+  "input": "smart, dangerous, brave",
+  "output": "Brave, smart, dangerous",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

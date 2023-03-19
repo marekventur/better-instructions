@@ -1,0 +1,12 @@
+{
+  "id": "1aadd4f7-3ddc-44ba-aa56-f352b15a4e80",
+  "instruction": "Identify and explain the premise of this song.",
+  "input": "\"Walking on Broken Glass\" by Annie Lennox",
+  "output": "The premise of \"Walking on Broken Glass\" is about a lost and painful love. The song talks about how it can be difficult at times to look past the pain of a failed relationship, and how the narrator has to find their way through the fractured remains. It is a tale of trying to move on and reclaim your life and self-worth.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

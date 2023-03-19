@@ -1,0 +1,12 @@
+{
+  "id": "0a2f1ec4-d15b-41c1-b4c4-1a246ce7729f",
+  "instruction": "Create a response for a customer's email about a refund issue.",
+  "input": "Dear [Company],\n\nI recently purchased a product from your store and I'm disappointed with the quality. I would like to request a refund.",
+  "output": "Dear [Customer],\n\nThank you for bringing this to our attention. We apologize for the issue with the product. We will process your refund request as soon as possible. Please let us know if we can help with anything else. Thank you for your understanding.  Kind regards, [Company]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

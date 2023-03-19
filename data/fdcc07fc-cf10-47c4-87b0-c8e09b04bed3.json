@@ -1,0 +1,12 @@
+{
+  "id": "fdcc07fc-cf10-47c4-87b0-c8e09b04bed3",
+  "instruction": "Change the sentence to demonstrate a contrast of the verb.",
+  "input": "He ate the cake.",
+  "output": "He didn't eat the cake.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

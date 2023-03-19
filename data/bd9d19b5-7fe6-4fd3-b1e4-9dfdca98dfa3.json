@@ -1,0 +1,12 @@
+{
+  "id": "bd9d19b5-7fe6-4fd3-b1e4-9dfdca98dfa3",
+  "instruction": "Rank the following three animals in terms of their speed: dolphin, frog, cheetah",
+  "input": "",
+  "output": "The ranking of the animals in terms of speed is as follows: Cheetah, Dolphin, Frog. The cheetah is the fastest, reaching speeds of up to 75 miles per hour. Next is the dolphin, which can reach speeds of up to 25 miles per hour. Finally comes the frog, which can reach speeds of up to 1.5 miles per hour.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

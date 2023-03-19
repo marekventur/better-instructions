@@ -1,0 +1,12 @@
+{
+  "id": "5c5a5364-63d9-477c-ad1f-7675b02729f7",
+  "instruction": "Classify the following sentence as supporting or opposing a topic.",
+  "input": "I think it's a good idea, but I'm not sure if we should go ahead with it.",
+  "output": "Neutral.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

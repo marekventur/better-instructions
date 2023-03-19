@@ -1,0 +1,12 @@
+{
+  "id": "2a162aa7-4cee-435a-953b-8aef17dce7d9",
+  "instruction": "Generate an email message for the following enquiry.",
+  "input": "I am looking for information about online courses for MBA",
+  "output": "Dear Sir/Madam,\n\nI am writing to enquire about the availability and details of online courses for MBA. Kindly let me know more so I can make an informed decision.\n\nThanks in advance,\n<Name>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

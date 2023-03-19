@@ -1,0 +1,12 @@
+{
+  "id": "71ccbbee-6af5-4de5-9989-c90256dcfb82",
+  "instruction": "Given the following article, rewrite the sentences in an engaging way.",
+  "input": "Climate change, also commonly referred to as global warming, is one of the most pressing topics we face today. Scientists and researchers have been studying the effects of climate change for decades, and the news isn't good.",
+  "output": "Climate change, also known as global warming, is one of the most urgent issues of our time. Decades of research has revealed that the impact of this phenomenon on our planet is not favorable.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

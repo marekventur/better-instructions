@@ -1,0 +1,12 @@
+{
+  "id": "5da75326-897a-46c7-ad4a-af1c8cdff49e",
+  "instruction": "Reorganize a given paragraph to improve its flow and make it more effective.",
+  "input": "In order to prevent the spread of COVID-19, it is important to adhere to social distancing measures. We have seen that social distancing has been effective in reducing transmission of the virus. Furthermore, everyone should also wear a mask whenever in public. Lastly, washing your hands often is necessary as it helps to limit contact with the virus.",
+  "output": "We have seen that social distancing has been effective in reducing transmission of the virus and, in order to prevent the spread of COVID-19, it is important to adhere to these measures. Wearing a mask whenever in public is also necessary and washing your hands often helps to limit contact with the virus. Lastly, it is important to follow all of the social distancing and health protocols to reduce transmission.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "875ace50-b4b2-4b5c-b658-7b9e58b2b91f",
+  "instruction": "Name the least probable event from the following list",
+  "input": "A plane crash, a train crash, a car crash",
+  "output": "A plane crash",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c56bea6a-c5bc-4fbd-8854-52a76ebc6474",
+  "instruction": "Classify the given sentence using the following categories - Fact or Opinion.",
+  "input": "Drinking coffee can give you energy.",
+  "output": "Fact",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

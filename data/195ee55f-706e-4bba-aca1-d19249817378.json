@@ -1,0 +1,12 @@
+{
+  "id": "195ee55f-706e-4bba-aca1-d19249817378",
+  "instruction": "Identify the different types of transportation mentioned in the text.",
+  "input": "During rush hour, people used cars, buses, trains and even bicycles to get from one point to the other.",
+  "output": "Cars, buses, trains, and bicycles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

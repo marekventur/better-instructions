@@ -1,0 +1,12 @@
+{
+  "id": "c32c4fcf-ce25-451f-a3f9-e93116117a20",
+  "instruction": "Generate a piece of dialog between two characters discussing the current weather.",
+  "input": "",
+  "output": "Character 1: Man, it feels like the weather has been so unpredictable this past week!\n\nCharacter 2: Yeah, I know! One day it'll be sunny and then the next it will be raining cats and dogs!\n\nCharacter 1: I know right? We should just be thankful that it's not as hot as it was last month.\n\nCharacter 2: You're right, I'm sure the weather will cool down soon.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

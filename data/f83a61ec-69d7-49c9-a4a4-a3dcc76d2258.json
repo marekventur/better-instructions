@@ -1,0 +1,12 @@
+{
+  "id": "f83a61ec-69d7-49c9-a4a4-a3dcc76d2258",
+  "instruction": "Categorize the following article as belonging to one of the genres: adventure, romance, horror, science fiction.",
+  "input": "The world is divided between those who can see the spirit world and those who cannot see it. A small town in the northern region of the country is the last standing barrier between the two worlds, trying to keep them apart. In order to prevent the two worlds from coming into contact, a group of brave adventurers decide to embark on a quest to find a mythical artifact that is said to protect the barrier.",
+  "output": "The article belongs to the genre of adventure. It follows a group of brave adventurers on their quest to find a mythical artifact that is said to protect the barrier between the spirit world and the world of the living. It involves traversing dark and dangerous places in search of the artifact, making it an adventure story.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

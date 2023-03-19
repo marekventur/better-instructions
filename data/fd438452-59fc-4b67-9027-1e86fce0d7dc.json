@@ -1,0 +1,12 @@
+{
+  "id": "fd438452-59fc-4b67-9027-1e86fce0d7dc",
+  "instruction": "Delete unnecessary words from the sentences without changing the meaning.",
+  "input": "I decided to go eat at a very good restaurant.",
+  "output": "I decided to go a good restaurant.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

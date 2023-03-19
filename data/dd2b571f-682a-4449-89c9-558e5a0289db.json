@@ -1,0 +1,12 @@
+{
+  "id": "dd2b571f-682a-4449-89c9-558e5a0289db",
+  "instruction": "Rewrite the following sentence to show a cause and effect relationship.",
+  "input": "Rising temperatures are causing glaciers to melt.",
+  "output": "As temperatures increase, glaciers are melting.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

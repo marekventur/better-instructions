@@ -1,0 +1,12 @@
+{
+  "id": "9174e097-3268-412a-9713-d19e6af10fb6",
+  "instruction": "Generate a restaurant review for this restaurant.",
+  "input": "Panera Bread",
+  "output": "I had the pleasure of dining at Panera Bread recently, and it was one of the best restaurant experiences I've ever had. The food was cooked to perfection, the service was friendly and attentive, and the atmosphere was chic and inviting. The menu featured a variety of unique and flavorful dishes that could easily satisfy a wide range of tastes. I especially enjoyed the hearty sandwiches and delicious pastries. I would highly recommend Panera Bread to any discerning diner looking for a top-notch dining experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

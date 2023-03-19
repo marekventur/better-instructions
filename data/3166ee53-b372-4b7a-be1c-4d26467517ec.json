@@ -1,0 +1,12 @@
+{
+  "id": "3166ee53-b372-4b7a-be1c-4d26467517ec",
+  "instruction": "Given two pieces of information, find the correlation between them.",
+  "input": "Height and number of shoes owned",
+  "output": "There is no correlation between height and number of shoes owned.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

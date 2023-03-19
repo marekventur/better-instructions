@@ -1,0 +1,12 @@
+{
+  "id": "c1e91534-fe20-4fd1-9d81-67ca97f53c20",
+  "instruction": "Add a few lines of dialogue to this scene",
+  "input": "A woman is sitting on a park bench and looking out into the sunset.",
+  "output": "Woman: This is so peaceful.\n\nMan (sitting next to her): It really is.\n\nWoman: It's like there are no worries in the world right now.\n\nMan: It's like being able to take a break from all of our troubles.\n\nWoman: Yes, that's exactly how it feels. It's nice to have this moment of peace.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

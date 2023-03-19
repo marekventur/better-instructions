@@ -1,0 +1,12 @@
+{
+  "id": "64d2d502-ac48-4091-b0b9-161801885534",
+  "instruction": "Create a quiz about the solar system.",
+  "input": "",
+  "output": "Q1. How many planets are in our Solar System? \nA1. Eight.\n\nQ2. What is the hottest planet in the Solar System? \nA2. Venus.\n\nQ3. How many moons does Saturn have? \nA3. Sixty-two.\n\nQ4. What is the largest planet in our Solar System? \nA4. Jupiter.\n\nQ5. Which planet is closest to the Sun? \nA5. Mercury.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

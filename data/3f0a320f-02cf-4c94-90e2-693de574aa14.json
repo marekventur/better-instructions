@@ -1,0 +1,12 @@
+{
+  "id": "3f0a320f-02cf-4c94-90e2-693de574aa14",
+  "instruction": "Suggest a product to solve the given problem. Output the product name and 1 sentence of explanation.",
+  "input": "Looking for a device to monitor sleeping patterns",
+  "output": "Fitbit Sleep Tracker - Tracks time spent asleep, sleep stages and trends over time to help you understand your sleep quality.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

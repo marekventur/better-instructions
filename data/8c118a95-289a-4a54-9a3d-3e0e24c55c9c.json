@@ -1,0 +1,12 @@
+{
+  "id": "8c118a95-289a-4a54-9a3d-3e0e24c55c9c",
+  "instruction": "Explicate the following axiom",
+  "input": "A stitch in time saves nine",
+  "output": "This axiom conveys the idea that if you fix a minor problem immediately, you can prevent it from growing into a much bigger one later that would require much more effort to solve.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

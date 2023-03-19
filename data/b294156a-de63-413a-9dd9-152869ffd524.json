@@ -1,0 +1,12 @@
+{
+  "id": "b294156a-de63-413a-9dd9-152869ffd524",
+  "instruction": "Rewrite the sentence in active voice. Output the sentence.",
+  "input": "The door was opened by him.",
+  "output": "He opened the door.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

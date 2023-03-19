@@ -1,0 +1,12 @@
+{
+  "id": "bcc605e4-d74d-4da4-8633-83f69d9f685c",
+  "instruction": "Convert the given numbers from hexadecimal to binary.",
+  "input": "hexadecimal numbers: 21, 3A",
+  "output": "binary numbers: 00100001, 00111010",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

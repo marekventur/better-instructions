@@ -1,0 +1,12 @@
+{
+  "id": "bebf1a88-6bbb-49ff-afec-dce1a5825e4c",
+  "instruction": "Generate an algorithm to count the number of words in a given sentence.",
+  "input": "",
+  "output": "A algorithm to count the number of words in a given sentence can involve splitting the sentence into a list of words and counting the number of items in the list. It can also involve looping through the sentence and counting up each time a new word is detected.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

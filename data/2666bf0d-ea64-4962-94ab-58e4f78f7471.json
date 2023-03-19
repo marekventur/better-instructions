@@ -1,0 +1,12 @@
+{
+  "id": "2666bf0d-ea64-4962-94ab-58e4f78f7471",
+  "instruction": "Generate a new budget for the following expenses.",
+  "input": "Rent: $1,200\nUtilities: $200\nInsurance: $100\nInternet: $50",
+  "output": "Groceries: $300 \nTransportation: $100 \nEntertainment: $100 \nSavings: $100 \nClothing: $100 \nMedical Expenses: $50 \nPhone Bill: $50 \nMiscellaneous: $100 \nTotal: $2,000",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

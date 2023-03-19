@@ -1,0 +1,12 @@
+{
+  "id": "19db7aa1-f257-4844-8f71-0929d3c83c93",
+  "instruction": "Make a prediction based on the given data.",
+  "input": "The data contains the average temperature of a city over the last 8 weeks.",
+  "output": "Based on the given data, I predict that the average temperature of the city next week will be similar to the average temperature of the last 8 weeks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

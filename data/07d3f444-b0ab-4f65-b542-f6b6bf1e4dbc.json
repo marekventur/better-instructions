@@ -1,0 +1,12 @@
+{
+  "id": "07d3f444-b0ab-4f65-b542-f6b6bf1e4dbc",
+  "instruction": "Create an entity recognition system for a given dataset.",
+  "input": "",
+  "output": "A suitable approach for entity recognition is to use a Named Entity Recognition (NER) system. This would involve using techniques such as feature engineering, part-of-speech tagging, rule-based matching and supervised machine learning algorithms to identify different entities present in the data. The identified entities could then be categorized into pre-defined entity classes such as Location, Person, Organization, Date, Time, Number and Monetary value. Once the entities have been identified, they can be further used for higher-level tasks such as semantic parsing or question answering.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

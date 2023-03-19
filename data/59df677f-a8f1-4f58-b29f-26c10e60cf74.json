@@ -1,0 +1,12 @@
+{
+  "id": "59df677f-a8f1-4f58-b29f-26c10e60cf74",
+  "instruction": "Select the following type of computer language: procedural, object-oriented, or parallel",
+  "input": "Java",
+  "output": "Object-oriented",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

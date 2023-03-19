@@ -1,0 +1,12 @@
+{
+  "id": "1fb2c1c4-4915-4187-b761-8231b3eccec5",
+  "instruction": "Change the given paragraph to passive voice.",
+  "input": "The police have arrested two suspects in connection with the robbery.",
+  "output": "Two suspects have been arrested by the police in connection with the robbery.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

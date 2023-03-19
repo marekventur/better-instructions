@@ -1,0 +1,12 @@
+{
+  "id": "16633dff-78ef-4e9f-bb5c-93857a189dce",
+  "instruction": "Describe what are the features that makes blockchain technology secure.",
+  "input": "",
+  "output": "Blockchain technology is secure because it is immutable, meaning the data stored in it can't be changed once it is recorded; transparent, meaning all parties involved are able to view the transaction data; distributed, meaning the data is not concentrated in one place; and protected, meaning it is encrypted with strong cryptography.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

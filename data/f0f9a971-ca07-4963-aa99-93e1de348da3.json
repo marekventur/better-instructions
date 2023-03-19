@@ -1,0 +1,12 @@
+{
+  "id": "f0f9a971-ca07-4963-aa99-93e1de348da3",
+  "instruction": "Given two countries, develop a comparison between their healthcare systems.",
+  "input": "France and Germany",
+  "output": "France and Germany both have high quality healthcare systems. In France, healthcare services are provided by the national government and funded by taxes. In comparison, Germany has a system of statutory health insurance which is funded by contributions from employers, employees and the government. Both countries have an average life expectancy of over 80 years, with France having slightly better outcomes in terms of infant mortality, quality of care and access to care.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

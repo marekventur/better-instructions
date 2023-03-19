@@ -1,0 +1,12 @@
+{
+  "id": "838a5c35-c058-40b9-8542-e11baf321d4e",
+  "instruction": "Divide a given set of items into categories.",
+  "input": "Butter, eggs, cheese, orange juice",
+  "output": "Dairy: Butter, Eggs, Cheese \nBeverage: Orange juice",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

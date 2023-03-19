@@ -1,0 +1,12 @@
+{
+  "id": "f36b24b7-2d85-484c-a707-a5ba1c700be2",
+  "instruction": "Given two people and a relatable situation, compose a dialogue between them.",
+  "input": "People: A parent and a child\nSituation: The child needs to be disciplined",
+  "output": "Parent: That isn't acceptable behavior.\nChild: Why not?\nParent: Because your actions do not reflect the values we want to instill in you. \nChild: What do you want me to do? \nParent: I want you to apologize and do better next time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

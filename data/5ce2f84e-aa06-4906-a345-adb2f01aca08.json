@@ -1,0 +1,12 @@
+{
+  "id": "5ce2f84e-aa06-4906-a345-adb2f01aca08",
+  "instruction": "Create an outline of steps to bake an apple pie.",
+  "input": "",
+  "output": "Steps to Bake an Apple Pie:\n- Preheat oven to 375 degrees\n- Prepare the filling: mix together diced apples, lemon juice, brown sugar, white sugar, cinnamon and nutmeg \n- Combine flour and salt to make the pie crust \n- Roll out the pie crust, line the pie dish, and trim the excess dough \n- Fill the dish with the apple mixture \n- Cut the remaining dough into strips and make a lattice for the top \n- Bake for 45-50 minutes or until the crust is golden brown \n- Let cool before serving.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

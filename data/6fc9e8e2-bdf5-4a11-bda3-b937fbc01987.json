@@ -1,0 +1,12 @@
+{
+  "id": "6fc9e8e2-bdf5-4a11-bda3-b937fbc01987",
+  "instruction": "Generate a sentence describing the product using the following phrase.",
+  "input": "Pedicure chair\nPhrase: \"+ is the perfect mixture of beauty and comfort\"",
+  "output": "The Pedicure Chair is the perfect mixture of beauty and comfort.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

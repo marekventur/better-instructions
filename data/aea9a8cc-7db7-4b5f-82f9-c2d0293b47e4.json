@@ -1,0 +1,12 @@
+{
+  "id": "aea9a8cc-7db7-4b5f-82f9-c2d0293b47e4",
+  "instruction": "Generate a machine learning algorithm that determines whether an object is a hot dog or not.",
+  "input": "",
+  "output": "A Machine Learning Algorithm for Determining if an Object is a Hot Dog\n\n1. Collect a dataset of images that contain various objects with labels that indicate whether they are a hot dog or not\n2. Pre-process the data by resizing the images and then converting them to a gray-scale format.\n3. Split the data into three sets: Training, Validation and Testing\n4. Use a Convolutional Neural Network (CNN) as the model that will classify the images.\n5. Create three different CNN architectures with varying number of layers and nodes.\n6. Train each model and use the validation set to select the model with the highest accuracy.\n7. Test the selected model with the test set to evaluate the final accuracy.\n8. Use the model to classify unseen images.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

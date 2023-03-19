@@ -1,0 +1,12 @@
+{
+  "id": "e0813606-24ff-4d38-81e9-183e44e92099",
+  "instruction": "Create an itinerary for a 3-day trip to the given location.",
+  "input": "Paris, France",
+  "output": "Itinerary for a 3-Day Trip to Paris, France:\nDay 1: \n- Visit Notre Dame Cathedral and the Eiffel Tower\n- Take a boat tour along the River Seine \n- Dine at one of the many wonderful cafes located in the Latin Quarter for dinner\nDay 2: \n- Visit the Louvre and take in the artwork \n- Go shopping on the Champs Elysees and marvel at the architecture \n- Visit the Palace of Versailles and explore the gardens\n- Enjoy dinner at a cafe in Montmartre \nDay 3: \n- Take a walking tour of the city\n- Visit the Catacombs of Paris \n- Enjoy a relaxing picnic in the Luxembourg Gardens \n- Spend the evening strolling along the Seine, taking in the lights and sights",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

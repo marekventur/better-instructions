@@ -1,0 +1,12 @@
+{
+  "id": "a18e2fb3-56c0-4412-afe5-cdbdf466ae3d",
+  "instruction": "Rewrite the following worded statement into a mathematical expression.",
+  "input": "The product of the two numbers is equal to 24",
+  "output": "x * y = 24",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

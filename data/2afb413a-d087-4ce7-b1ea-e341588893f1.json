@@ -1,0 +1,12 @@
+{
+  "id": "2afb413a-d087-4ce7-b1ea-e341588893f1",
+  "instruction": "Generate an appropriate content for a meme given a caption.",
+  "input": "Caption: \"#ThursdayThoughts... Work smarter, not harder\"",
+  "output": "Content: A cartoon image of a person pushing an impossibly huge boulder uphill with the struggling caption of \"Working Harder\" and the rolling hill of the exact same boulder but colored green with the caption of \"Working Smarter\" underneath it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

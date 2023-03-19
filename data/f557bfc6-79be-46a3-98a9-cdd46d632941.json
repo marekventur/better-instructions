@@ -1,0 +1,12 @@
+{
+  "id": "f557bfc6-79be-46a3-98a9-cdd46d632941",
+  "instruction": "Describe how the given character changed in the given story.",
+  "input": "Character: Harry Potter\nStory: Harry Potter and the Sorcerer's Stone",
+  "output": "In Harry Potter and the Sorcerer's Stone, Harry Potter undergoes a remarkable transformation. He starts off as a humble and meek boy, but soon discovers he is a powerful wizard. He then develops new skills and insight that enables him to confront an evil wizard and protect his friends and family. He also grows more confident and courageous as the story progresses and learns important lessons about friendship and loyalty.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

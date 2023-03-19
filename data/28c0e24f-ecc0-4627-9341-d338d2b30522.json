@@ -1,0 +1,12 @@
+{
+  "id": "28c0e24f-ecc0-4627-9341-d338d2b30522",
+  "instruction": "Identify the food item and its cuisine from the following description",
+  "input": "A savory dish made by baking a mixture of breadcrumbs, cheese, and herbs inside a pastry.",
+  "output": "Cheese and herb pastry is a savory dish typically associated with European cuisine.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

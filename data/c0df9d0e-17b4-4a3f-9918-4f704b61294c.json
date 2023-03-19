@@ -1,0 +1,12 @@
+{
+  "id": "c0df9d0e-17b4-4a3f-9918-4f704b61294c",
+  "instruction": "Rank the following fruits based on their sweetness, from 1 to 5 (1 being the sweetest).",
+  "input": "Oranges, apples, bananas, limes, lemons",
+  "output": "Bananas (1), Apples (2), Oranges (3), Limes (4), Lemons (5).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

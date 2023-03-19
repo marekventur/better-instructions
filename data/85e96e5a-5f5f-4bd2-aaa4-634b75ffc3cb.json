@@ -1,0 +1,12 @@
+{
+  "id": "85e96e5a-5f5f-4bd2-aaa4-634b75ffc3cb",
+  "instruction": "Analyze the given sentence and classify it into five categories: subject, verb, object, complemment, and adverbial phrase.",
+  "input": "The phoenix quickly flew away.",
+  "output": "Subject: phoenix \nVerb: flew\nObject: away\nComplement: quickly\nAdverbial phrase: none.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

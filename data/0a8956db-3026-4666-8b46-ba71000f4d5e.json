@@ -1,0 +1,12 @@
+{
+  "id": "0a8956db-3026-4666-8b46-ba71000f4d5e",
+  "instruction": "Rewrite the sentence given in the input field so it expresses the opposite meaning. Output should be 1 Sentence.",
+  "input": "Electric vehicles are not sustainable.",
+  "output": "Electric vehicles are sustainable.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

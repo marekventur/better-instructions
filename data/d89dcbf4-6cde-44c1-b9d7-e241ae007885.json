@@ -1,0 +1,12 @@
+{
+  "id": "d89dcbf4-6cde-44c1-b9d7-e241ae007885",
+  "instruction": "Name one type of malware and explain how it works.",
+  "input": "",
+  "output": "One type of malware is a Trojan horse. It is a type of malicious software designed to gain access to a computer system without the user's knowledge. When a user downloads a seemingly harmless file from the internet, it can contain a malicious code which then executes and allows a hacker to gain access to private files, install other malware, and control a computer remotely. The malicious code can also be hidden in ordinary-looking emails or in software that seems legitimate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

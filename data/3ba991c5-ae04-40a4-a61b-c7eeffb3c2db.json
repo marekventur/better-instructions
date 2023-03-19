@@ -1,0 +1,12 @@
+{
+  "id": "3ba991c5-ae04-40a4-a61b-c7eeffb3c2db",
+  "instruction": "Sort the following vegetables by their colors.",
+  "input": "Tomato, Carrot, Broccoli, Avocado",
+  "output": "Red (Tomato), Orange (Carrot), Green (Broccoli, Avocado)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

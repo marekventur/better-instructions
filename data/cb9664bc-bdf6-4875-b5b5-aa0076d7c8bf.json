@@ -1,0 +1,12 @@
+{
+  "id": "cb9664bc-bdf6-4875-b5b5-aa0076d7c8bf",
+  "instruction": "Analyze the following Tweet and classify the sentiment of the message.",
+  "input": "The US economy is soaring and unemployment levels have never been lower.",
+  "output": "Positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "22fcb0be-60cd-42ec-a8fc-0d8490c16ba6",
+  "instruction": "Given the following input, suggest two different ways to conclude the story.",
+  "input": "Takumi had made it home, but the door was locked. His parents were away on vacation, and they'd forgotten to give him a key. He slapped the door in frustration, knowing that he couldn't get in.",
+  "output": "Option 1:\nTakumi decided to call his parents and ask them to quickly get him a set of spare keys. After a quick discussion, they agreed and Takumi was able to enter his home. \nOption 2: \nTakumi remembered that he had a spare key hidden in the back of one of the flower pots. He reached in, and luckily it was still there. He retrieved the key, unlocked the door, and walked in.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

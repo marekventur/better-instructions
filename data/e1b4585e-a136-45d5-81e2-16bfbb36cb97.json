@@ -1,0 +1,12 @@
+{
+  "id": "e1b4585e-a136-45d5-81e2-16bfbb36cb97",
+  "instruction": "Add a transition sentence to connect the two paragraphs.",
+  "input": "Paragraph 1: The development of language is an absolutely unique trait of humans. It has enabled us to share thoughts, feelings, and ideas, and create a sense of community.\nParagraph 2: Through those exchanges, our abilities have been greatly enhanced, allowing us to progress and to master our environment.",
+  "output": "Consequently, the evolution of language has provided humans with innumerable opportunities to further their development far beyond what would have otherwise been possible.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

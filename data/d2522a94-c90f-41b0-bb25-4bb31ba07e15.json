@@ -1,0 +1,12 @@
+{
+  "id": "d2522a94-c90f-41b0-bb25-4bb31ba07e15",
+  "instruction": "Rank the following energy sources according to their cleanliness.",
+  "input": "Solar, Wind, Coal",
+  "output": "Solar > Wind > Coal. Solar and Wind are both clean renewable sources of energy, while coal produces a lot of pollution.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

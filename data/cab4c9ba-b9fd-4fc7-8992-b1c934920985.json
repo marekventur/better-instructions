@@ -1,0 +1,12 @@
+{
+  "id": "cab4c9ba-b9fd-4fc7-8992-b1c934920985",
+  "instruction": "Write a cover letter for the given job position.",
+  "input": "Job Position: Software Engineer",
+  "output": "Dear Hiring Manager,\n\nI am writing to express my interest in the Software Engineer position. \n\nI have a Bachelor's degree in Computer Science from ______ University and three years of professional experience developing software solutions in a variety of engineering and business contexts. Currently, I am employed as a software engineer on an innovative project at _____, where I have a proven track record of resolving difficult technical problems. \n\nI am adept at a variety of programming languages, including Java, Python, and Javascript, and have worked on projects that integrate with Google Cloud Platform and Web Services. I am well-versed in software engineering principles and have worked with TDD, agile practices, and other software engineering best practices. \n\nI am well-organized, have excellent technical and problem-solving skills, and am dedicated to creating the highest quality solutions. I am confident that I can make an immediate contribution to your company and am excited to discuss the opportunity with you.\n\nThank you for your time and consideration.\n\nSincerely, \n___",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

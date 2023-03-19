@@ -1,0 +1,12 @@
+{
+  "id": "db4b49e5-6564-4497-b281-8b4e08dcc9b1",
+  "instruction": "Determine what the primary emotion is present in the given text.",
+  "input": "I was so surprised and excited to get the job offer!",
+  "output": "Excitement.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

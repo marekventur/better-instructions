@@ -1,0 +1,12 @@
+{
+  "id": "e0b2b678-e7f2-4d9f-b30a-e2b81254d82c",
+  "instruction": "Identify the nearest airport based on the given coordinates.",
+  "input": "40.728157, -73.794853",
+  "output": "The nearest airport to the given coordinates is the LaGuardia Airport (LGA) in New York City.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

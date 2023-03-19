@@ -1,0 +1,12 @@
+{
+  "id": "fa8344bf-a271-4d9b-a00a-5f90dc4e5086",
+  "instruction": "Summarize the given text about machine learning.",
+  "input": "Machine learning is a type of artificial intelligence that provides computers with the ability to learn without being explicitly programmed. It focuses on the development of computer programs that can access data and use it to learn for themselves. The process of machine learning is divided into two parts, supervised and unsupervised learning. In supervised learning, the computer is provided with an output for each input and used to optimize its algorithms to produce a generalized output. In unsupervised learning, the computer is given an input and then it searches for patterns or trends in the data.",
+  "output": "Machine learning is a branch of Artificial Intelligence (AI) which enables computers to learn from data and make predictions without being explicitly programmed. It includes two types of learning: supervised learning, where the computer is given labelled data to optimize its algorithms, and unsupervised learning, where the computer is given an input and searches for patterns in the data. Machine learning is used in various fields to enhance automation, pattern recognition, and predictive analytics.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

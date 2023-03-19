@@ -1,0 +1,12 @@
+{
+  "id": "54382369-ad99-48c9-a5f2-309ba60ddb59",
+  "instruction": "Given a list of numbers, write a code to calculate the arithmetic mean.",
+  "input": "[25, 20, 15, 8, 5]",
+  "output": "def calculate_mean(numbers):\n  total = 0\n  for number in numbers:\n    total += number\n  mean = total / len(numbers)\n  return mean\n\ncalculate_mean([25, 20, 15, 8, 5])",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

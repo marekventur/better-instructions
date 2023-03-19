@@ -1,0 +1,12 @@
+{
+  "id": "9c57e779-6f07-4ce4-8c59-1cf242e76f13",
+  "instruction": "Write a Python function to sort a two-dimensional array based on a given column index",
+  "input": "Array = [[1,2,3], [4,5,6], [7,8,9]]\nColumn index = 2",
+  "output": "def sortByColIndex(arr, col_index): \n  \n    arr.sort(key=lambda x : x[col_index]) \n    return arr \n\nsortedArray = sortByColIndex(arr, 2) \nprint(sortedArray) \n\nOutput:\n[[3, 2, 1], [6, 5, 4], [9, 8, 7]]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

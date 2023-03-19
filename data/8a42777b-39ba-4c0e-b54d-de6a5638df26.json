@@ -1,0 +1,12 @@
+{
+  "id": "8a42777b-39ba-4c0e-b54d-de6a5638df26",
+  "instruction": "Given a scenario, design a game level.",
+  "input": "The hero must rescue their comrade from an ancient temple",
+  "output": "The hero will have to traverse an ancient temple in order to rescue their comrade. The temple is filled with traps and secrets, and the hero must be careful to avoid them. There will be puzzles that must be solved in order to progress, as well as hidden items to collect. Along the way, they will encounter enemies and bosses that they must face in order to reach the end. Once they reach the end, they will have to face the toughest challenge yet in order to rescue their comrade.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

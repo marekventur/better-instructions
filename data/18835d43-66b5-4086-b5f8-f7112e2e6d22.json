@@ -1,0 +1,12 @@
+{
+  "id": "18835d43-66b5-4086-b5f8-f7112e2e6d22",
+  "instruction": "Convert this set of words into a sentence using the semicolon properly.",
+  "input": "Streams; moonlight; nightingales",
+  "output": "Streams ripple in the moonlight; nightingales serenade the night.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

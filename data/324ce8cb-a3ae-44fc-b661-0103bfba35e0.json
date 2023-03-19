@@ -1,0 +1,12 @@
+{
+  "id": "324ce8cb-a3ae-44fc-b661-0103bfba35e0",
+  "instruction": "Prove the Pythagorean Theorem.",
+  "input": "",
+  "output": "The Pythagorean Theorem states that for any right triangle with legs 'a' and 'b' and hypotenuse 'c', a\u00b2 + b\u00b2 = c\u00b2. This can be proven using the law of cosine, where the angle opposite of leg 'c' is 90 degrees, yielding c\u00b2 = a\u00b2 + b\u00b2 - 2ab cos(90). Plugging in 90 to cos(90) gives us c\u00b2 = a\u00b2 + b\u00b2, thus proving the Pythagorean Theorem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

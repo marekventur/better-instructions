@@ -1,0 +1,12 @@
+{
+  "id": "4f53f19a-4232-4f0a-9573-d6572268e2e3",
+  "instruction": "How is linear regression used in predictive modeling?",
+  "input": "",
+  "output": "Linear regression is a machine learning method used in predictive modeling. It involves fitting a linear model that attempts to minimize the sum of the squared errors between the predicted value and the true value. The model uses multiple variables, such as the input variables, to predict a numerical outcomes. It can be used to identify trends in data, estimate future trends, and even predict prices or stock returns.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

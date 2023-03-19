@@ -1,0 +1,12 @@
+{
+  "id": "e2718c19-0cd1-4f19-8a00-d278ccf56c8d",
+  "instruction": "Perform named entity recognition on the given sentence.",
+  "input": "The Eiffel Tower is located in Paris, France.",
+  "output": "(The, Noun), (Eiffel, Noun), (Tower, Noun), (Paris, Proper Noun), (France, Proper Noun)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

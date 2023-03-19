@@ -1,0 +1,12 @@
+{
+  "id": "c0c9a574-1dc7-4782-b764-eb44724b166f",
+  "instruction": "Describe the form and structure of a haiku poem.",
+  "input": "",
+  "output": "A haiku poem is a traditional form of Japanese poetry that typically consists of three lines. The first and last lines contain five syllables each, while the middle line contains seven syllables. The lines often evoke a single image, which contains a juxtaposition of two contrasting elements. The structure and language of haiku is often very simple and is intended to be an expression of a moment of epiphany.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

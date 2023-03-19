@@ -1,0 +1,12 @@
+{
+  "id": "41c3c26b-942c-4297-a8f8-013d9dc298f2",
+  "instruction": "Construct a matrix that provides a comparison between two different products.",
+  "input": "The two products are a vacuum cleaner and a robot vacuum cleaner.",
+  "output": "A matrix comparing a standard vacuum cleaner and a robot vacuum cleaner would include criteria such ease of use, effectiveness, cost, and noise level. The matrix would rate each criteria on a scale of 1-5 for both products, thus providing a clear comparison between the two products.\n\nVacuum Cleaner | Robot Vacuum Cleaner\n--- | ---\nEase of Use | 4 | 5\nEffectiveness | 4 | 5\nCost | 3 | 4 \nNoise Level | 2 | 1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

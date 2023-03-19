@@ -1,0 +1,12 @@
+{
+  "id": "b5fdd384-ab44-4200-8890-ac65b2509a25",
+  "instruction": "Read these two statements and explain why they contradict each other.",
+  "input": "A piece of paper is heavier than a rock.\nA rock is lighter than a piece of paper.",
+  "output": "The two statements contradict each other because they are describing the same object in two different ways--a piece of paper is heavier than a rock, but a rock is lighter than a piece of paper. This is impossible since it is impossible for an object to be both heavier and lighter than the same object.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

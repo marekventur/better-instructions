@@ -1,0 +1,12 @@
+{
+  "id": "716489ff-dac0-4d7b-bb9b-a7647fe958c6",
+  "instruction": "Write a function to print a string in reverse order.",
+  "input": "String: \"Hello World\"",
+  "output": "//Function to print a string in reverse order //\n\nfunction reversePrint(str){\n  let reversedStr = '';\n\n  for (let i = str.length - 1; i >= 0; i--) {\n    reversedStr += str[i];\n  }\n\n  console.log(reversedStr);\n}\n\nreversePrint(\"Hello World\");  // dlroW olleH",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "32999702-981a-4c81-b224-43c331881244",
+  "instruction": "Sort this list of words.",
+  "input": "summer, class, always, best",
+  "output": "always, best, class, summer",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

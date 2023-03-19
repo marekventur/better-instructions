@@ -1,0 +1,12 @@
+{
+  "id": "e8cdbc5f-2583-4eb1-be05-dc8f092ed146",
+  "instruction": "Output appropriate response to the following instruction using a GPT model.",
+  "input": "Write down three characteristics of a successful entrepreneur.",
+  "output": "A successful entrepreneur should have excellent communication skills, strong problem-solving capabilities, and the ability to understand the needs of their customers or clients. Additionally, they should be highly driven and motivated, with a strong passion for their work, and an innovative and creative mindset. Finally, a successful entrepreneur should have the capacity to manage their resources and time effectively.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

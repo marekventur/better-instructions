@@ -1,0 +1,12 @@
+{
+  "id": "5c716326-4f83-44bd-b996-b546929672f4",
+  "instruction": "Replace the word 'large' with a more descriptive word.",
+  "input": "He had a large smile on his face.",
+  "output": "He had an expansive smile on his face.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

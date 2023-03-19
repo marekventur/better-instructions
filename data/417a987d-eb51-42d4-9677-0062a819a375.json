@@ -1,0 +1,12 @@
+{
+  "id": "417a987d-eb51-42d4-9677-0062a819a375",
+  "instruction": "Classify these animals into their respective taxonomic order.",
+  "input": "Tarantula, Elephant, Shark",
+  "output": "Tarantula: Araneae \nElephant: Proboscidea\nShark: Selachimorpha",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

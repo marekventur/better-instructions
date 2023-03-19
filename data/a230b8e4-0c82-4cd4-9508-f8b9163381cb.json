@@ -1,0 +1,12 @@
+{
+  "id": "a230b8e4-0c82-4cd4-9508-f8b9163381cb",
+  "instruction": "Compose an apology letter to a customer.",
+  "input": "The customer received their order late and wasn't satisfied with the service provided.",
+  "output": "Dear [Customer Name],\n\nWe apologize for the inconvenience you experienced with your recent order. We understand how important it is for customers to receive their orders on time and we ultimately dropped the ball in your case. We take responsibility for the delay and we are deeply sorry for the inconvenience caused. \n\nWe want all our customers to have a great experience with our company and we are working to ensure that our services improve. We are committed to making sure that this issue does not occur again in the future.\n\nWe hope that you can accept our apologies for this situation and we will do our best to make things right with you. \n\nSincerely, \n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

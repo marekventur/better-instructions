@@ -1,0 +1,12 @@
+{
+  "id": "b733a92e-7461-404d-b174-ce4141b668cc",
+  "instruction": "Classify the following into the categories: recreational, educational, commercial.",
+  "input": "Playing games.",
+  "output": "Recreational.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

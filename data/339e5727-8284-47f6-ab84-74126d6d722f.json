@@ -1,0 +1,12 @@
+{
+  "id": "339e5727-8284-47f6-ab84-74126d6d722f",
+  "instruction": "Generate a dialogue between two characters, Jack and Susan, in a restaurant.",
+  "input": "",
+  "output": "Jack: Hey, this place looks really nice. How long have you been coming here?\n\nSusan: Oh, I've been coming here for years. It's one of my favorite restaurants.\n\nJack:  Wow! That's impressive. What do you usually order?\n\nSusan: It depends on my mood. I usually go with their steak, but sometimes I like to try their seafood dishes.\n\nJack: Sounds delicious. Can I get you anything else? \n\nSusan: No, that should be it for now. Thanks!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

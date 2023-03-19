@@ -1,0 +1,12 @@
+{
+  "id": "1cd57a75-1518-4647-9324-b8af11ceee83",
+  "instruction": "Insert appropriate coordinate adverbs in the sentence.",
+  "input": "He called father ____",
+  "output": "He called father immediately.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

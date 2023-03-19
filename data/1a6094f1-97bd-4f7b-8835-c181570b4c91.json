@@ -1,0 +1,12 @@
+{
+  "id": "1a6094f1-97bd-4f7b-8835-c181570b4c91",
+  "instruction": "Identify the pattern in the following series: 1, 4, 7, 11, ?",
+  "input": "",
+  "output": "14 (each number is 3 more than the previous number)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

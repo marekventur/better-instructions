@@ -1,0 +1,12 @@
+{
+  "id": "9d5a273e-88ab-4527-8f2f-963f96a7316a",
+  "instruction": "Categorize the following object as either a mammal, reptile, or amphibian.",
+  "input": "Frog",
+  "output": "Amphibian",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "84dc120a-622f-4551-a315-8beb1bbccde0",
+  "instruction": "Add a comma in the following sentence: She screamed in terror and ran",
+  "input": "She screamed in terror and ran",
+  "output": "She screamed, in terror, and ran.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

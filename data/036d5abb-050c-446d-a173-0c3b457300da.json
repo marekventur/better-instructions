@@ -1,0 +1,12 @@
+{
+  "id": "036d5abb-050c-446d-a173-0c3b457300da",
+  "instruction": "List 3 methods to prevent packet loss",
+  "input": "",
+  "output": "1. Increase bandwidth to reduce the traffic load. \n2. Utilize QoS (quality of service) to prioritize important packets. \n3. Adjust MTU (maximum transmission unit).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

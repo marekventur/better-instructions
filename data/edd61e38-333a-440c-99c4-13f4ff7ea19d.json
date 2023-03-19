@@ -1,0 +1,12 @@
+{
+  "id": "edd61e38-333a-440c-99c4-13f4ff7ea19d",
+  "instruction": "Create five multiple choice questions on British history.",
+  "input": "",
+  "output": "1. Who was the first Prime Minister of the United Kingdom?\nA. Benjamin Disraeli \nB. Winston Churchill \nC. William Pitt \nD. Robert Walpole \n\n2. What was the name of the Great Fire of London in 1666?\nA. Great Fire of Rome \nB. Great Fire of Athens \nC. Great Fire of London \nD. Great Fire of Paris\n\n3. What is the name of the earliest surviving English epic poem?\nA. The Odyssey\nB. The Canterbury Tales \nC. Beowulf \nD. The Song of Roland \n\n4. What ended the War of the Roses in England?\nA. The Battle of Bosworth\nB. The Battle of Stoke  \nC. The Battle of Hastings \nD. The Battle of Agincourt \n\n5. From what year does the Magna Carta date?\nA. 1415\nB. 1399\nC. 1215\nD. 1066",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

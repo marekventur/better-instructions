@@ -1,0 +1,12 @@
+{
+  "id": "0cdcafd4-a2d1-47c8-91bf-dbeb7d245c74",
+  "instruction": "Given an array, find the second smallest element",
+  "input": "[8, 3, 5, 7, 0]",
+  "output": "The second smallest element in the array is 3.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

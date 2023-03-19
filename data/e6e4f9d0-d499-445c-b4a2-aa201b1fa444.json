@@ -1,0 +1,12 @@
+{
+  "id": "e6e4f9d0-d499-445c-b4a2-aa201b1fa444",
+  "instruction": "Organize the following list of rewards and identify the five that offer the best value.",
+  "input": "Points: 500, 400, 300, 200, 100",
+  "output": "The five rewards that offer the best value are 500 points, 400 points, 300 points, 200 points, and 100 points.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

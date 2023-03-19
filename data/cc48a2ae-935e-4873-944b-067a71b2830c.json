@@ -1,0 +1,12 @@
+{
+  "id": "cc48a2ae-935e-4873-944b-067a71b2830c",
+  "instruction": "In the passage below, identify the main topic.",
+  "input": "Mobile phones have become an indispensable part of life. While it\u2019s impossible to name every single use, they are used quite heavily in communication and entertainment. Apps, maps, streaming media, and internet access are just a few of the popular uses of mobile phones today.",
+  "output": "The main topic of the passage is the uses of mobile phones.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a613efc0-83a4-4aad-9778-24dd6b0f2ec4",
+  "instruction": "Describe the differences between type I and type II errors.",
+  "input": "",
+  "output": "A type I error is a false positive, when a hypothesis test results in the rejection of a true null hypothesis. A type II error is a false negative, when a hypothesis test fails to reject a false null hypothesis. In other words, a type I error is when a test incorrectly identifies an event as significant, while a type II error is when a test fails to identify an event as significant when it is.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

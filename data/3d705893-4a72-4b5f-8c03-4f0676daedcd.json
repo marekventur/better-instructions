@@ -1,0 +1,12 @@
+{
+  "id": "3d705893-4a72-4b5f-8c03-4f0676daedcd",
+  "instruction": "Summarize the steps needed to solve this problem.",
+  "input": "Given a string of 10 characters, print the character at index 3.",
+  "output": "To solve this problem, one needs to take a string of 10 characters, determine the index at which the desired character is located, and then print out the character located at that index.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2050c3fe-7e2d-4fe4-9bbf-a72b2d61d3b2",
+  "instruction": "Analyze the following piece of text and explain why it would be considered persuasive.",
+  "input": "Text: Did you know that Amazon has been the gold standard in customer service since its inception in 1994?",
+  "output": "This piece of text is persuasive because it is making an implied statement about Amazon's customer service being the gold standard, without any evidence to back it up. This could lead readers to believe that Amazon is trustworthy and to create an association in the reader's mind of Amazon being an authority on customer service. This type of statement without evidence is a common technique used by many marketers to try and persuade readers to buy their product. It will lead readers to think, \"If Amazon is the gold standard in customer service, then their product must be the best!\" Thus, this piece of text is both persuasive and designed to create a positive thought-association in the reader's mind with Amazon's product.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

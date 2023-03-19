@@ -1,0 +1,12 @@
+{
+  "id": "b0457810-cd31-4bd4-8735-601db05dc28f",
+  "instruction": "Output the total length of each word in the sentence.",
+  "input": "The quick brown fox jumps over the lazy dog.",
+  "output": "The 3 quick 5 brown 3 fox 5 jumps 4 over 4 the 3 lazy 3 dog 3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

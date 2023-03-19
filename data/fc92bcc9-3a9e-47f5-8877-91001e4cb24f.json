@@ -1,0 +1,12 @@
+{
+  "id": "fc92bcc9-3a9e-47f5-8877-91001e4cb24f",
+  "instruction": "Explain the principle of parallel computing.",
+  "input": "",
+  "output": "Parallel computing is a computing technique that divides a large task into several smaller tasks, and then allocates each task to a separate processor or computer, allowing the tasks to be executed simultaneously. This makes it possible to complete complex computations and data processing tasks in a fraction of the time compared to sequential computing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

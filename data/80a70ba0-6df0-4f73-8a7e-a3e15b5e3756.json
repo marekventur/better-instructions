@@ -1,0 +1,12 @@
+{
+  "id": "80a70ba0-6df0-4f73-8a7e-a3e15b5e3756",
+  "instruction": "Add the missing ingredient for a pizza dough recipe?",
+  "input": "1 packet of yeast, 2 cups of warm water, 2 tablespoons of honey, and 4 cups of all-purpose flour",
+  "output": "The missing ingredient for the pizza dough recipe is 1 tablespoon of salt.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

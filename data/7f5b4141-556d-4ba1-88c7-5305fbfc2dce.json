@@ -1,0 +1,12 @@
+{
+  "id": "7f5b4141-556d-4ba1-88c7-5305fbfc2dce",
+  "instruction": "Detect if the statements are logically equivalent.",
+  "input": "If p then q\nq implies p",
+  "output": "Yes, the statements are logically equivalent.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

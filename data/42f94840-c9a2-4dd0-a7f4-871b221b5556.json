@@ -1,0 +1,12 @@
+{
+  "id": "42f94840-c9a2-4dd0-a7f4-871b221b5556",
+  "instruction": "Identify the synonyms for the bolded words in the sentence below.",
+  "input": "The cost to try to influence the 2008 election could exceed $3 billion.",
+  "output": "The cost to try to sway the 2008 election could exceed $3 billion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

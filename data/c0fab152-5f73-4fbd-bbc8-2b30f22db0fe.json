@@ -1,0 +1,12 @@
+{
+  "id": "c0fab152-5f73-4fbd-bbc8-2b30f22db0fe",
+  "instruction": "Outline the major steps of memory management in an operating system.",
+  "input": "",
+  "output": "Memory management in an operating system involves the following steps: 1) Establishing memory limits; 2) Allocation of memory to processes; 3) De-allocation of unused memory; 4) Re-allocation of used memory; 5) Protection of memory; and 6) Garbage collection.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

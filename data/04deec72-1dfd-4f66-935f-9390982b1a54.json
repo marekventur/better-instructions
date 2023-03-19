@@ -1,0 +1,12 @@
+{
+  "id": "04deec72-1dfd-4f66-935f-9390982b1a54",
+  "instruction": "Arrange the following sentences so that they make a story. Output all the arranged sentences, seperated by period.",
+  "input": "He had gone to the lake. There he found lots of ducks. It was a lily-pad lake. The lake was very still and quiet.",
+  "output": "He had gone to the lake, which was a lily-pad lake. It was very still and quiet, and there he found lots of ducks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

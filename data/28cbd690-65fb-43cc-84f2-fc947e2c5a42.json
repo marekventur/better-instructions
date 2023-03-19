@@ -1,0 +1,12 @@
+{
+  "id": "28cbd690-65fb-43cc-84f2-fc947e2c5a42",
+  "instruction": "Perform a mathematical operation.",
+  "input": "5 + 50",
+  "output": "55",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

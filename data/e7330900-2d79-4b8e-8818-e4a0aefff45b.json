@@ -1,0 +1,12 @@
+{
+  "id": "e7330900-2d79-4b8e-8818-e4a0aefff45b",
+  "instruction": "Succinctly compare and contrast responsive and adaptive website design.",
+  "input": "",
+  "output": "Responsive web design focuses on creating a single website that will adjust its layout and design elements in response to the size of the device being used to view it. Adaptive web design, on the other hand, involves creating multiple versions of a website, each tailored for a particular device or combination of devices and browser versions. Both approaches cater for different types of devices, but adaptive design results in a faster loading time and a more optimized experience for the user.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

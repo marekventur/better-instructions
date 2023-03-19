@@ -1,0 +1,12 @@
+{
+  "id": "ac836027-0940-414b-ad34-0cc33461a1c2",
+  "instruction": "Create a list of instructions for setting up an email account.",
+  "input": "",
+  "output": "1. Choose a suitable email provider.\n2. Create a unique username.\n3. Come up with a strong password.\n4. Enter the proper server settings for incoming and outgoing emails.\n5. Verify your new email address.\n6. Set up a signature and other settings.\n7. Test your email account and make sure you can send and receive emails.\n8. Familiarize yourself with the security and privacy settings.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

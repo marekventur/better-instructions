@@ -1,0 +1,12 @@
+{
+  "id": "a4e4e846-970b-4855-9127-bc7a0eb8e5c3",
+  "instruction": "Create a new sentence that starts with the same word as the provided sentence.",
+  "input": "John went to the store",
+  "output": "John eagerly went to the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a2f474b6-d9a0-4859-b145-75ee485092f2",
+  "instruction": "Create a query to retrieve all items in a database with a status of 'shipped'.",
+  "input": "",
+  "output": "SELECT * FROM orders WHERE status = 'shipped';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

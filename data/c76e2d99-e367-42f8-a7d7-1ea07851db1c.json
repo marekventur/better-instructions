@@ -1,0 +1,12 @@
+{
+  "id": "c76e2d99-e367-42f8-a7d7-1ea07851db1c",
+  "instruction": "Generate instructions for making a pot of macaroni and cheese.",
+  "input": "",
+  "output": "- Bring a large pot of water to a rolling boil.\n- Add a teaspoon of salt to the water.\n- Add macaroni noodles to the boiling water and stir.\n- Cook for 8 minutes or until macaroni is soft.\n- Drain the macaroni, reserving one cup of the hot cooking liquid.\n- Place the macaroni back in the pot.\n- To the macaroni, add one cup of milk, one tablespoon of butter and one tablespoon of flour.\n- Add 2 cups of shredded cheese.\n- Simmer the macaroni, stirring constantly, until the cheese is melted and the sauce is thickened.\n- Add reserved cooking liquid to the macaroni if it is too thick.\n- Serve macaroni and cheese warm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ae21a664-297f-4ce9-a445-f50308883fde",
+  "instruction": "Create a histogram for the following data set.",
+  "input": "30, 20, 22, 34, 16, 32",
+  "output": "30|\n   |\n22|   *\n   | *        *\n16| *    *    *\n   |________*___\n    10  20  30  40",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

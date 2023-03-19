@@ -1,0 +1,12 @@
+{
+  "id": "da081d20-7066-474e-bb4e-361755d88681",
+  "instruction": "Input two sets and determine if they are disjoint or not.",
+  "input": "A = {3, 5, 7} \nB = {4, 6, 8}",
+  "output": "Disjoint",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "391f11c4-2d37-4638-9f83-2164775b7f01",
+  "instruction": "Convert the following logical equation to C code.",
+  "input": "(A AND B) OR (NOT C AND B)",
+  "output": "(A && B) || (!C && B)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

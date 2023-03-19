@@ -1,0 +1,12 @@
+{
+  "id": "27ea1da0-95a7-4dc9-9eb6-e3348634aed4",
+  "instruction": "Find five words associated with the given study material",
+  "input": "Microbiology",
+  "output": "Bacteria, Microorganisms, Virology, Pathogen, Antibodies.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

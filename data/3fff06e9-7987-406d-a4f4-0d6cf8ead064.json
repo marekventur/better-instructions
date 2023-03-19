@@ -1,0 +1,12 @@
+{
+  "id": "3fff06e9-7987-406d-a4f4-0d6cf8ead064",
+  "instruction": "Create a list of steps",
+  "input": "Baking a cake",
+  "output": "1. Preheat the oven to the desired temperature.\n2. Grease the pan with butter or cooking spray.\n3. In a medium bowl, sift together the flour, baking powder, and salt.\n4. In a separate bowl, cream together butter and sugar until light and fluffy.\n5. Beat in the eggs, one at a time, until each is incorporated.\n6. Slowly beat in the dry ingredients alternately with the milk.\n7. Stir in any desired mix-ins.\n8. Pour the batter into the prepared pan.\n9. Bake for the recommended time or until a toothpick inserted in the center comes out clean.\n10. Let cool before serving.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

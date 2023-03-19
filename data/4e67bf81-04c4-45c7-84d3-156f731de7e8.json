@@ -1,0 +1,12 @@
+{
+  "id": "4e67bf81-04c4-45c7-84d3-156f731de7e8",
+  "instruction": "Fetch a recipe for a healthy green smoothie.",
+  "input": "",
+  "output": "Ingredients: 2 cups spinach, 2 cups diced pineapple, 1 banana, 1 cup mango, 1/2 cup orange juice, 1/2 cup coconut water, 1 teaspoon chia seeds, 1/2 teaspoon ground ginger.\nInstructions: Place the spinach, pineapple, banana, mango, orange juice, coconut water, chia seeds, and ground ginger in a blender. Blend on high speed until smooth. Serve immediately. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

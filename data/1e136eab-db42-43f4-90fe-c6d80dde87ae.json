@@ -1,0 +1,12 @@
+{
+  "id": "1e136eab-db42-43f4-90fe-c6d80dde87ae",
+  "instruction": "Convert this string of Morse Code into text.",
+  "input": "..-. --- -.-. .... .",
+  "output": "The text is: \"ECW.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

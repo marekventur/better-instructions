@@ -1,0 +1,12 @@
+{
+  "id": "bcd67912-f303-4e2d-a4fc-af4302ef883b",
+  "instruction": "Determine the expiration date",
+  "input": "The product was purchased on March 15, 2021",
+  "output": "The expiration date of the product is March 14, 2022.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

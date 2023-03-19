@@ -1,0 +1,12 @@
+{
+  "id": "33b03907-c9a9-4bd4-87d6-1e4bcbf0f594",
+  "instruction": "Estimate the closest number to the following value without going over.",
+  "input": "3.87",
+  "output": "4",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

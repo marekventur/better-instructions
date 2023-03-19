@@ -1,0 +1,12 @@
+{
+  "id": "770e1e61-c5a5-46e3-b08b-4e76a756cc36",
+  "instruction": "Given an example of a smart home appliance, explain its features.",
+  "input": "Google Home",
+  "output": "Google Home is a voice-activated smart home device that can be used to control compatible appliances in the home. It can be used to perform a variety of tasks, such as playing music, searching the web, giving news updates, and controlling compatible smart home appliances, like lights and thermostats. Google Home also has powerful natural language processing capabilities, so it can understand complex commands.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

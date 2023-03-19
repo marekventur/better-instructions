@@ -1,0 +1,12 @@
+{
+  "id": "08c733fe-4282-43c6-827c-a9372b10882a",
+  "instruction": "Give advice on how to approach a problem effectively.",
+  "input": "My team has been struggling with our project for a month. We are not making any progress on our deliverables.",
+  "output": "Begin by breaking the project down into smaller, achievable goals. Set deadlines and hold regular meetings to track progress. Make sure to allocate tasks appropriately and clearly define roles. Keep the lines of communication open, but also carve out time to work independently and focus on the tasks at hand. Finally, periodically pause, reflect, and reassess objectives.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

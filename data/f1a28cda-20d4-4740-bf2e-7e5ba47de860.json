@@ -1,0 +1,12 @@
+{
+  "id": "f1a28cda-20d4-4740-bf2e-7e5ba47de860",
+  "instruction": "Describe the process of how a computer generates a response to a query.",
+  "input": "",
+  "output": "When a computer receives a query, it begins by parsing the input to understand the components of the question and assign a meaning to the keywords. It then searches through its vast database of structured and unstructured data to find the most relevant information. This data is analyzed and interpreted to determine the best possible response. The computer then uses natural language processing to generate an appropriate response, which is finally presented to the user as a well-crafted answer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

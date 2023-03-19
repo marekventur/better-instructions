@@ -1,0 +1,12 @@
+{
+  "id": "fedcd503-53e4-412f-a144-4e402c58c64e",
+  "instruction": "Find the sum of the sides of the following triangle.",
+  "input": "Triangle ABC has sides AB = 5 cm, BC = 6 cm, and AC = 7 cm.",
+  "output": "The sum of the sides of triangle ABC is 18 cm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

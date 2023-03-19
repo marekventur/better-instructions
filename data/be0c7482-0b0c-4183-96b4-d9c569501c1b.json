@@ -1,0 +1,12 @@
+{
+  "id": "be0c7482-0b0c-4183-96b4-d9c569501c1b",
+  "instruction": "Find a good restaurant near the address given",
+  "input": "660 Lexington Avenue, New York, NY 10022",
+  "output": "Avra Madison Estiatorio is a highly-rated Greek restaurant located at 14 East 60th Street, New York, NY 10022, two blocks from 660 Lexington Avenue. This restaurant serves classic Greek dishes and offers outdoor seating, making it ideal for a special evening.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

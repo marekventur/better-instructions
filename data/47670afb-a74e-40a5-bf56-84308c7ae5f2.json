@@ -1,0 +1,12 @@
+{
+  "id": "47670afb-a74e-40a5-bf56-84308c7ae5f2",
+  "instruction": "Generate the word list of all the bigrams in the following text",
+  "input": "A warm welcome is extended to everyone",
+  "output": "\"A warm\", \"warm welcome\", \"welcome is\", \"is extended\", \"extended to\", \"to everyone\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

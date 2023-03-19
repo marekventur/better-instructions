@@ -1,0 +1,12 @@
+{
+  "id": "96e4b027-5ad3-4b2f-90a0-09b528f16465",
+  "instruction": "Find the person who wrote this book.",
+  "input": "The book titled \"Introduction to Quantum Mechanics\"",
+  "output": "The book was written by David J. Griffiths.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

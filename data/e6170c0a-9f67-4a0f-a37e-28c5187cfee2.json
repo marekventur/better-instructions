@@ -1,0 +1,12 @@
+{
+  "id": "e6170c0a-9f67-4a0f-a37e-28c5187cfee2",
+  "instruction": "Classify the following text into either fiction or non-fiction.",
+  "input": "The novel \"The Catcher in the Rye\" by J.D. Salinger follows the story of a teenage boy named Holden Caulfield.",
+  "output": "This text is fiction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

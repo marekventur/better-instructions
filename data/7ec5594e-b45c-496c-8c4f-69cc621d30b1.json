@@ -1,0 +1,12 @@
+{
+  "id": "7ec5594e-b45c-496c-8c4f-69cc621d30b1",
+  "instruction": "Construct the timeline of an event.",
+  "input": "The invention of the computer",
+  "output": "The timeline of the invention of the computer begins in the 1830s, when Charles Babbage designed the Difference Engine and Analytical Engine, which laid the groundwork for modern computing. In the 1940s, the first programmable computer, the Colossus, was invented. In the 1950s, computers began to be mass-produced for commercial use. The invention of the first personal computer was in the 1970s, and the development of the Internet in the 1990s laid the foundation of modern information technology.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

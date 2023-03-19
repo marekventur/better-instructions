@@ -1,0 +1,12 @@
+{
+  "id": "963b1c2f-1f0d-458d-84be-a0029903f7e0",
+  "instruction": "Given an array of numbers, write a program to find the median value.",
+  "input": "[10, 20, 30, 40]",
+  "output": "\"\"\"\n# Calculate the median of a array\n\ndef find_median(data):\n    data.sort()\n    n = len(data)\n\n    if n % 2 == 0:  \n        median = (data[n//2] + data[n//2-1])/2\n    else: \n        median = data[n//2] \n    \n    return median\n\nif __name__ == \"__main__\":\n    data = [10, 20, 30, 40]\n    median = find_median(data)\n    print(\"The median is:\", median)\n\"\"\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

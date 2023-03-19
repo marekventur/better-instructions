@@ -1,0 +1,12 @@
+{
+  "id": "5d554c1e-0320-421b-a5c7-3eaa0228a2c8",
+  "instruction": "Write a review of your recent visit to a restaurant.",
+  "input": "",
+  "output": "I recently had the pleasure of visiting [restaurant name], and I must say it was a delightful experience! The atmosphere was relaxed and welcoming, and the service was attentive and friendly. The menu offered a wide variety of options, from classic dishes to creative, modern creations. I tried the braised beef short ribs, which were cooked to perfection and wonderfully flavorful. I also enjoyed the halibut with mushroom risotto, which was cooked perfectly with the perfect balance of flavors. The dessert was equally delicious, a rich and creamy cheesecake with a flavorful blueberry compote. \n\nOverall, I had a wonderful experience at [restaurant name] and would highly recommend it to anyone looking for a truly enjoyable dining experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

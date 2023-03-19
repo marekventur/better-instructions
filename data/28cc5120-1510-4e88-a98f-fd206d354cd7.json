@@ -1,0 +1,12 @@
+{
+  "id": "28cc5120-1510-4e88-a98f-fd206d354cd7",
+  "instruction": "Calculate the trade-off cost between two investments.",
+  "input": "Investment 1 value: $100\nInvestment 2 value: $80",
+  "output": "The cost trade-off between Investment 1 and Investment 2 is $",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

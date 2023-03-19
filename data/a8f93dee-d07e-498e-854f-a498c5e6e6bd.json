@@ -1,0 +1,12 @@
+{
+  "id": "a8f93dee-d07e-498e-854f-a498c5e6e6bd",
+  "instruction": "Write a review of the restaurant.",
+  "input": "The restaurant is called La Taqueria.",
+  "output": "I recently visited La Taqueria and I was really impressed.  The food was amazing and the service was excellent. The atmosphere was cozy and inviting and the staff were friendly and attentive to all the customers. Overall, I would highly recommend La Taqueria for an enjoyable, delicious, and satisfying dining experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

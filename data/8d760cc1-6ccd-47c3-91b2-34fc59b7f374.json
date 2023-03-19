@@ -1,0 +1,12 @@
+{
+  "id": "8d760cc1-6ccd-47c3-91b2-34fc59b7f374",
+  "instruction": "Categorize this sentence as a declarative sentence.",
+  "input": "I love to code.",
+  "output": "This sentence is a declarative sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

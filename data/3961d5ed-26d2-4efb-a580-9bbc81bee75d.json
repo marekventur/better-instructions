@@ -1,0 +1,12 @@
+{
+  "id": "3961d5ed-26d2-4efb-a580-9bbc81bee75d",
+  "instruction": "In the following sentence, identify and explain the three figures of speech.",
+  "input": "He was as smart as a whip.",
+  "output": "This sentence contains three figures of speech: \n1) Simile: This is a comparison between two unlike things using the words \"as\" or \"like\". Here, the speaker is comparing someone's intelligence to that of a whip, suggesting that the person is very sharp and quick-witted. \n2) Metaphor: This is an implied comparison between different things which shares a common quality. Here, the speaker is suggesting that the person is as smart as a whip, meaning that they are quick and sharp.\n3) Hyperbole: This is an exaggeration to emphasize a point. Here, the speaker is exaggerating the person's intelligence to emphasize the point that they are very smart.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f35a5406-aedf-4398-a67b-0129c99907d0",
+  "instruction": "Determine if the following sentence is grammatically correct: \"John an Mary was late.\"",
+  "input": "noinput",
+  "output": "No, the sentence is not grammatically correct. It should be: \"John and Mary were late.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

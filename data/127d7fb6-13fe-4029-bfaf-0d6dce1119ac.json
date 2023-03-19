@@ -1,0 +1,12 @@
+{
+  "id": "127d7fb6-13fe-4029-bfaf-0d6dce1119ac",
+  "instruction": "Divide the given set of numbers into prime and composite numbers.",
+  "input": "[16, 31, 5, 9, 18]",
+  "output": "Prime numbers: 5, 31\nComposite numbers: 16, 9, 18",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

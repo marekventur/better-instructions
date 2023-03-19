@@ -1,0 +1,12 @@
+{
+  "id": "31c6c797-7605-4e14-8005-829b8a955169",
+  "instruction": "You need to summarise the following text into one sentence.",
+  "input": "Apple debuted their newest rumors of a foldable phone, the iPhone F5, last month.",
+  "output": "Apple recently released the iPhone F5, their latest foldable phone.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

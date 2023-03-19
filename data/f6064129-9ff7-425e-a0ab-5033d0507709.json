@@ -1,0 +1,12 @@
+{
+  "id": "f6064129-9ff7-425e-a0ab-5033d0507709",
+  "instruction": "Put the following sentences in the correct order to create a story.",
+  "input": "The postman arrived at the house. \nHe opened the mailbox and saw many letters inside. \nThe postman then looked over the website of the house. \nThe house was majestic and even had a garden.",
+  "output": "The postman arrived at the house and looked over the website of the house. The house was majestic and even had a garden. He opened the mailbox and saw many letters inside.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

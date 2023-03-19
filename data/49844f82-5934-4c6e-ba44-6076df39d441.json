@@ -1,0 +1,12 @@
+{
+  "id": "49844f82-5934-4c6e-ba44-6076df39d441",
+  "instruction": "Look up information on the given topic and create a one-page summary.",
+  "input": "The rise of customer experience in the last decade",
+  "output": "In the last decade, customer experience (CX) has risen to become an integral part of business operations. With customer needs and expectations increasingly both diverse and specialized, companies of all sizes have had to adapt to the changing landscape and create customer-centric experiences. Companies have focused on engaging customer experiences through personalization, custom tailorings products and services, individual attention, customer-led innovation, and appropriate customer feedback. The next decade will also likely bring more sophisticated AI and more customer centric strategies, positioning companies to succeed in the ever-evolving customer experience market.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

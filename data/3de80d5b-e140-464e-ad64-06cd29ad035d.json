@@ -1,0 +1,12 @@
+{
+  "id": "3de80d5b-e140-464e-ad64-06cd29ad035d",
+  "instruction": "Extract the key findings from the following research:",
+  "input": "This study examines the effect of social media use on mental health.",
+  "output": "The results of this study showed that social media use has a significant effect on mental health. Specifically, higher levels of social media use were associated with poorer mental health outcomes such as increased depression, anxiety, loneliness, and decreased life satisfaction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

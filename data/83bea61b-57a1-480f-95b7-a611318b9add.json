@@ -1,0 +1,12 @@
+{
+  "id": "83bea61b-57a1-480f-95b7-a611318b9add",
+  "instruction": "Given a customer review, identify three key points in the review.",
+  "input": "I just got this phone and it's been great so far! The camera has amazing quality photos and the battery lasts a long time.",
+  "output": "Key points in review: \n1. Camera has amazing quality photos. \n2. Battery lasts a long time. \n3. Generally a great phone.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

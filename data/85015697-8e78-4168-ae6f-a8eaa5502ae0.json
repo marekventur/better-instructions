@@ -1,0 +1,12 @@
+{
+  "id": "85015697-8e78-4168-ae6f-a8eaa5502ae0",
+  "instruction": "Determine the time taken for a transfer",
+  "input": "The data was transferred over a 200 Mbps connection",
+  "output": "The time taken for the data transfer over a 200 Mbps connection would be 3.2 seconds, assuming that the file size is 100 MB.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

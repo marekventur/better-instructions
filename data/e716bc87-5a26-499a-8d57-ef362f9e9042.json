@@ -1,0 +1,12 @@
+{
+  "id": "e716bc87-5a26-499a-8d57-ef362f9e9042",
+  "instruction": "Given an input string, remove all duplicate characters and print the output string.",
+  "input": "apple",
+  "output": "apel",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

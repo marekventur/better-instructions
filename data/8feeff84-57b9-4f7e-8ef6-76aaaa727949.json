@@ -1,0 +1,12 @@
+{
+  "id": "8feeff84-57b9-4f7e-8ef6-76aaaa727949",
+  "instruction": "Calculate the average salary of the given set of data.",
+  "input": "Data set: \n\nEmployee 1: $56,000\nEmployee 2: $45,000\nEmployee 3: $50,000",
+  "output": "$50,333.33",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

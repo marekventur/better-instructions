@@ -1,0 +1,12 @@
+{
+  "id": "0cde7a8e-fa3a-4b1c-b7b4-8c7f9beba757",
+  "instruction": "Classify each of the following restaurant features as either indoor or outdoor.",
+  "input": "Restaurant features: Patio, Dining Room, Atrium, Bar",
+  "output": "Restaurant Feature | Descriptor \n------------------ | ---------- \nPatio | Outdoor \nDining Room | Indoor \nAtrium | Indoor \nBar | Indoor",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

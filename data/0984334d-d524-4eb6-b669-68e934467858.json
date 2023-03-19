@@ -1,0 +1,12 @@
+{
+  "id": "0984334d-d524-4eb6-b669-68e934467858",
+  "instruction": "Create an algorithm to detect plagiarism between two pieces of text.",
+  "input": "",
+  "output": "One algorithm for detecting plagiarism between two pieces of text involves tokenizing the texts into individual words or phrases, then creating a concordance table comparing all the words in the documents. If some words match exactly, then these words or phrases could be said to be plagiarized. Additionally, if the order of words and phrases are similar in both documents, then plagiarism can be suspected.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

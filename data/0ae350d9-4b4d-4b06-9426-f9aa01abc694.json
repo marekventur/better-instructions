@@ -1,0 +1,12 @@
+{
+  "id": "0ae350d9-4b4d-4b06-9426-f9aa01abc694",
+  "instruction": "Given a scenario, decide which is the best advice.",
+  "input": "Scenario:\nA friend is considering taking a new job that pays more money, but it's in a different state.",
+  "output": "The best advice is to weigh the pros and cons of taking the new job. Consider the financial benefits, the impact it will have on your lifestyle, the potential for professional development, and any personal factors that may be impacted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "da5516ab-f257-410d-983c-2f826d31aef2",
+  "instruction": "Create a timeline of the history of the internet from 1964 to the present.",
+  "input": "",
+  "output": "1964: ARPANET was developed by Advanced Research Projects Agency (ARPA) of the US Department of Defense as a way for military computers to remain in contact during nuclear war.\n\n1969: ARPANET had 4 nodes and was the first to use the now-popular TCP/IP protocol.\n\n1972: The first email was sent over ARPANET, revolutionizing communication.\n\n1973: The first webpage was created at CERN.\n\n1979: Usenet was created and became the earliest online forum for computer users.\n\n1980: ARPANET was formally decommissioned and the internet as we know it began to emerge.\n\n1983: The Domain Name System (DNS) was introduced, providing humans with the ability to easily remember website addresses.\n\n1989: The first web browser, WorldWideWeb, was released.\n\n1995: JavaScript was released, allowing for more dynamic webpages with scrolling and graphic elements.\n\n1996: The Electronic Frontier Foundation was formed to protect internet freedom.\n\n1998: Google was created, revolutionizing the way people search for information.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

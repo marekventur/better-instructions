@@ -1,0 +1,12 @@
+{
+  "id": "64218e5d-d08b-491e-b90c-7669e14e398b",
+  "instruction": "Determine the longest side of the triangle.",
+  "input": "Triangle ABC has sides AB = 10 cm, BC = 12 cm, and AC = 11 cm.",
+  "output": "The longest side of triangle ABC is BC, 12 cm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

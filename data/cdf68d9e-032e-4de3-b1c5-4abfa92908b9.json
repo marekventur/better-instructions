@@ -1,0 +1,12 @@
+{
+  "id": "cdf68d9e-032e-4de3-b1c5-4abfa92908b9",
+  "instruction": "Determine the banking details of the New York branch.",
+  "input": "Bank Name: Bank of America\nBranch Name: New York",
+  "output": "The Bank of America New York branch is located at 1585 Broadway, New York, NY 10036. It is open Monday through Friday from 9am to 5pm. The branch's ABA/Routing number is 021000322 and its phone number is (212) 684-4700.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

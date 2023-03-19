@@ -1,0 +1,12 @@
+{
+  "id": "0d438684-d2f5-4f77-b19e-7bf2c9f9e328",
+  "instruction": "Name the continent of which the given country is part of",
+  "input": "Japan",
+  "output": "Asia",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dd58772a-f2e7-47c9-94f7-feae86530e17",
+  "instruction": "Reverse engineer the following algorithm and explain its function in one sentence.",
+  "input": "def sort_numbers(arr):\n    for i in range(len(arr)): \n        for j in range(i): \n            if arr[i] < arr[j]: \n                arr[i], arr[j] = arr[j], arr[i]\n    return arr",
+  "output": "This algorithm sorts numbers in an array in ascending order by comparing them against each other and swapping them if they are out of order.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

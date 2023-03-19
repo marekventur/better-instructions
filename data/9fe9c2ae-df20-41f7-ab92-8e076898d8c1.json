@@ -1,0 +1,12 @@
+{
+  "id": "9fe9c2ae-df20-41f7-ab92-8e076898d8c1",
+  "instruction": "Edit the given code by adding type annotations.",
+  "input": "def add_numbers(a, b): \n  return a + b",
+  "output": "def add_numbers(a: int, b: int) -> int: \n  return a + b",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

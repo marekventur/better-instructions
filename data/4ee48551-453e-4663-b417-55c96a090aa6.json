@@ -1,0 +1,12 @@
+{
+  "id": "4ee48551-453e-4663-b417-55c96a090aa6",
+  "instruction": "Given a word, construct its antonyms.",
+  "input": "Light",
+  "output": "Dark, heavy, dense",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

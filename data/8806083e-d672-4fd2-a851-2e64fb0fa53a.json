@@ -1,0 +1,12 @@
+{
+  "id": "8806083e-d672-4fd2-a851-2e64fb0fa53a",
+  "instruction": "Create an AI assistant that can answer general information queries about movies.",
+  "input": "",
+  "output": "The AI assistant can answer general movie queries from users. It can understand the user's questions, retrieve the required information from online databases, and provide an appropriate response to the user. For example, the assistant can respond to questions like \u201cwhat is the release date of the movie \u2018Avengers: Endgame\u2019\u201d or \u201chow long is the movie \u2018Avatar\u2019\u201d.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

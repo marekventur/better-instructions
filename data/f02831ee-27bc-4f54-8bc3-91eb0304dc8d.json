@@ -1,0 +1,12 @@
+{
+  "id": "f02831ee-27bc-4f54-8bc3-91eb0304dc8d",
+  "instruction": "Compare two websites based on the given information.",
+  "input": "Website A:\nDesign: Intuitive\nPerformance: Fast\nWebsite B:\nDesign: Cluttered\nPerformance: Slow",
+  "output": "Website A has an intuitive design and fast performance, whereas Website B has a cluttered design and slow performance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

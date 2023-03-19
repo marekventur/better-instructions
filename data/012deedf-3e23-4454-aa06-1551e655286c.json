@@ -1,0 +1,12 @@
+{
+  "id": "012deedf-3e23-4454-aa06-1551e655286c",
+  "instruction": "Write a compelling summary in 5 sentences of the following article:",
+  "input": "https://www.nytimes.com/2021/02/11/business/tesla-stock-elon-musk.html",
+  "output": "Tesla's stock price has risen exponentially in the last year due to increasing demand for electric cars as well as the success of Elon Musk's leadership. Tesla is now valued higher than Toyota, General Motors and Ford combined. The company recently announced its first international Gigafactory in Germany and plans for more expansion throughout Europe. Despite occasional debates over Elon Musk's business practices, investors have continued to invest in Tesla in part due to the projected environmental impact of electric cars. As the electric car market continues to grow and the global markets adjust to Tesla's enormous presence, it will be interesting to observe the company's future trajectory.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

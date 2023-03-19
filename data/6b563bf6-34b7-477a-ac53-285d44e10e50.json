@@ -1,0 +1,12 @@
+{
+  "id": "6b563bf6-34b7-477a-ac53-285d44e10e50",
+  "instruction": "Explain why creating data lakes is advantageous for businesses.",
+  "input": "",
+  "output": "Data lakes are advantageous for businesses because they provide fast, powerful access to data from multiple sources. Data lakes have no upfront upfront schema design so that data can be added to the repository without needing to define all schemas. This enables businesses to explore different types of data sources more quickly and reduce the cost of maintaining data warehouses. Additionally, with tools such as AWS Lake Formation and Data Lake Analytics, it is easier to query and analyze data within the data lake. Additionally, data lakes can store large amounts of data and help businesses gain insights by combining disparate sources of data into one location, allowing them to make better decisions faster.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cad511e9-e757-42d4-a77f-00a59a188e81",
+  "instruction": "Given an input sentence, add an antonym for the phrase.",
+  "input": "He is being very quiet.",
+  "output": "He is being very loud.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

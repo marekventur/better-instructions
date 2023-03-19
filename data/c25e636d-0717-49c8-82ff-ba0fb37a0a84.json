@@ -1,0 +1,12 @@
+{
+  "id": "c25e636d-0717-49c8-82ff-ba0fb37a0a84",
+  "instruction": "Place a comma in the correct location in the sentence.",
+  "input": "The photographs were taken by my brother a professional photographer.",
+  "output": "The photographs were taken by my brother, a professional photographer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

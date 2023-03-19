@@ -1,0 +1,12 @@
+{
+  "id": "964ca5f8-57f4-4bce-9ef9-3ad1b882bc49",
+  "instruction": "Generate an output that satisfies the given conditions",
+  "input": "Generate a sequence of integer numbers that are divisible by 3. The sequence should start from 0 and should have length of 10.",
+  "output": "0, 3, 6, 9, 12, 15, 18, 21, 24, 27",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

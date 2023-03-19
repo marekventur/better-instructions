@@ -1,0 +1,12 @@
+{
+  "id": "cad6b838-5629-4c1e-a34e-082acc26c949",
+  "instruction": "Make the listed sentence more descriptive.",
+  "input": "John bought a car.",
+  "output": "John purchased an old but reliable Ford Mustang from the local car dealership.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

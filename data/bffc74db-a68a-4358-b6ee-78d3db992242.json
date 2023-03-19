@@ -1,0 +1,12 @@
+{
+  "id": "bffc74db-a68a-4358-b6ee-78d3db992242",
+  "instruction": "Find examples of the given text in the paragraph.",
+  "input": "The people of the city",
+  "output": "In the paragraph given, the people of the city is referred to when the author mentions \"the city dwellers\", \"the citizens of the town\", and \"the inhabitants of the city\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

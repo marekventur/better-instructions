@@ -1,0 +1,12 @@
+{
+  "id": "c60db6e3-8da7-4368-8b95-ee17ff7fcb30",
+  "instruction": "Create a logic puzzle about a celebrity's Paris vacation",
+  "input": "Brad Pitt",
+  "output": "Brad Pitt is on vacation in Paris, and he wants to visit all of the top tourist spots. He has only three days to visit them, but some locations close earlier than others on certain days. He can only visit each location once and has to accommodate the fact that he will be out during different hours each day. Which order should Brad Pitt visit these spots in to maximize his sightseeing?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1e1b8787-eb1f-439c-8496-c69c369f956f",
+  "instruction": "Convert the following equation from exponential form to logarithmic form.",
+  "input": "2^8 = 256",
+  "output": "log2(256) = 8",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

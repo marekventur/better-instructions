@@ -1,0 +1,12 @@
+{
+  "id": "05ef25e1-b5a2-483f-95df-a84b0e1d0bba",
+  "instruction": "Find the maximum capacity of each room in the list.",
+  "input": "Room Name: Conference Room A, Conference Room B, Meeting Room C",
+  "output": "Room Name | Maximum Capacity\n------- | --------- \nConference Room A | 40 people \nConference Room B | 25 people\nMeeting Room C | 8 people",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

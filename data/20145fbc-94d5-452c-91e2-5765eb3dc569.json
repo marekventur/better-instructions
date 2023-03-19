@@ -1,0 +1,12 @@
+{
+  "id": "20145fbc-94d5-452c-91e2-5765eb3dc569",
+  "instruction": "Edit the following sentence in order to improve readability.",
+  "input": "The new workflow requires that employees input their data into the system by Thursday, so that management can review the numbers on Friday.",
+  "output": "Employees are required to enter their data into the system by Thursday for management to review the numbers on Friday.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

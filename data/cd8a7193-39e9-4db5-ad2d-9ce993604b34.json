@@ -1,0 +1,12 @@
+{
+  "id": "cd8a7193-39e9-4db5-ad2d-9ce993604b34",
+  "instruction": "Classify this uniform as military or police.",
+  "input": "The uniform is dark green with a beret on the head.",
+  "output": "This uniform is military.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

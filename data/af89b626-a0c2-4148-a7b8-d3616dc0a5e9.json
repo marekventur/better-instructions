@@ -1,0 +1,12 @@
+{
+  "id": "af89b626-a0c2-4148-a7b8-d3616dc0a5e9",
+  "instruction": "Given a poem, identify the meter type and provide an explanation\n\nInput: I love you little, I love you big \nI love you like a ladybug.",
+  "input": "I love you little, I love you big \nI love you like a ladybug.",
+  "output": "The poem uses anapestic tetrameter, which consists of four anapestic feet - two unstressed syllables followed by a stressed syllable - per line. The poem follows the pattern \"unstressed-unstressed-stressed, unstressed-unstressed-stressed\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

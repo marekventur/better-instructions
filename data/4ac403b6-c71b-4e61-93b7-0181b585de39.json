@@ -1,0 +1,12 @@
+{
+  "id": "4ac403b6-c71b-4e61-93b7-0181b585de39",
+  "instruction": "Given this design, suggest three improvements that can be made",
+  "input": "![alt text](https://i.ibb.co/1rQ2TzT/design.jpg \"Design\")",
+  "output": "Three improvements that can be made to this design are:\n1. Incorporating visual hierarchy by increasing the size of the most important elements of the design.\n2. Adding more contrast to the background colour and font colour to improve legibility.\n3. Replacing the circle shapes with more interesting shapes to add more visual interest.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

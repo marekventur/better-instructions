@@ -1,0 +1,12 @@
+{
+  "id": "9a430e34-831d-4fdf-b6f1-0ceaf8c7adbd",
+  "instruction": "Group the words \"pencil,\" \"eraser,\" \"ruler,\" \"compass,\" and \"calculator\" into two categories.",
+  "input": "",
+  "output": "- Writing Utensils: Pencil, Eraser, Ruler\n- Calculating Instruments: Compass, Calculator",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

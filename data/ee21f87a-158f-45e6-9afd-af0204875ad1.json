@@ -1,0 +1,12 @@
+{
+  "id": "ee21f87a-158f-45e6-9afd-af0204875ad1",
+  "instruction": "Develop a chatbot that answers common questions related to air travel.",
+  "input": "",
+  "output": "The chatbot should be designed to answer common questions related to air travel such as what type of ID is needed for travel, how much luggage can be brought on the plane, and other questions related to boarding, flights, and destinations. The chatbot should be programmed to recognize keywords and provide accurate responses. Additionally, the chatbot should be programmed to provide links to official websites and other relevant sources of information.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

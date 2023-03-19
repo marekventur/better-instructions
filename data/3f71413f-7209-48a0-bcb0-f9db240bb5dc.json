@@ -1,0 +1,12 @@
+{
+  "id": "3f71413f-7209-48a0-bcb0-f9db240bb5dc",
+  "instruction": "Create a conditional statement in JavaScript.",
+  "input": "",
+  "output": "The following is an example of a conditional statement in JavaScript:\n\nif (x > 0) {\n    console.log(\"x is greater than 0\");\n} else {\n    console.log(\"x is not greater than 0\");\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

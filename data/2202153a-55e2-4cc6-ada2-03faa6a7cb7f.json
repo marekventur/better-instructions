@@ -1,0 +1,12 @@
+{
+  "id": "2202153a-55e2-4cc6-ada2-03faa6a7cb7f",
+  "instruction": "Compare two types of text processing techniques and explain differences between them.",
+  "input": "Rule-Based Text Processing and Deep Learning Based Text Processing",
+  "output": "Rule-based text processing is based on hand-crafted rules for understanding the text. It relies on human experts to define the rules, which can require significant time and effort. It is able to accurately parse and manipulate text, but it is limited in its accuracy and speed. Deep learning based text processing uses algorithms to learn from datasets and extract patterns from text. It is able to process text with high accuracy and at a much faster rate than rule-based text processing. Deep learning models are also more flexible and can be adapted to different tasks with little effort. Deep learning is thus better suited for more complex text processing tasks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

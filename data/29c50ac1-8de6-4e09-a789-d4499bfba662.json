@@ -1,0 +1,12 @@
+{
+  "id": "29c50ac1-8de6-4e09-a789-d4499bfba662",
+  "instruction": "Add a line to the following poem to complete it.",
+  "input": "Roses are red\nViolets are blue\nWinter is here",
+  "output": "Snowflakes are white, blanketing the land in sight.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "13725f3e-4573-4740-82bd-de5d3c3bdca1",
+  "instruction": "Given the following words, come up with a poem (up to 30 lines)",
+  "input": "spring, ocean, warmth",
+  "output": "The smell of the ocean, crisp and salty\nThe warmth of the sun on my back \nThe pink and purple hues of the horizon\nBringing in a newfound spring \n\nIn the sand of its shore\nThe whisper of its waves\nWithin the sky so blue\nAwait an adventure brave \n\nA garden of tulips so sweet\nThe birds that chirp along\nThe gentle calm of a lake\nAs the day moves along \n\nThough summer will bring the heat\nLet us pause and enjoy spring \nFeel the ocean's warmth embrace us\nIn its beauty let us sing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

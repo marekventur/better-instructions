@@ -1,0 +1,12 @@
+{
+  "id": "41564fde-6838-459d-b25c-8274c815ce99",
+  "instruction": "Convert the given binary string to a decimal number.",
+  "input": "110111",
+  "output": "The binary string 110111 is converted to decimal number 55.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

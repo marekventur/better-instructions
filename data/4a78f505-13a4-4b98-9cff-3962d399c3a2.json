@@ -1,0 +1,12 @@
+{
+  "id": "4a78f505-13a4-4b98-9cff-3962d399c3a2",
+  "instruction": "Place the following countries in order of population size (from highest to lowest).",
+  "input": "Germany, Canada, Mexico, Thailand",
+  "output": "Mexico, Thailand, Germany, Canada",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

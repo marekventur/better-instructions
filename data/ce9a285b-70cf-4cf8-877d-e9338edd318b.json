@@ -1,0 +1,12 @@
+{
+  "id": "ce9a285b-70cf-4cf8-877d-e9338edd318b",
+  "instruction": "Write a message that a customer would like to send to the support team.",
+  "input": "I received the wrong product.",
+  "output": "Dear Support Team,\n\nI recently purchased an item from your store, however, I received the wrong product. Please let me know how we can resolve this issue as soon as possible.\n\nThank you,\n[Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

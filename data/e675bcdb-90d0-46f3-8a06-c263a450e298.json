@@ -1,0 +1,12 @@
+{
+  "id": "e675bcdb-90d0-46f3-8a06-c263a450e298",
+  "instruction": "You are presented with a mathematical query and an equation. Output the answer to the query.",
+  "input": "Query: What is the value of x in this equation?\nEquation: x - 5 = 10",
+  "output": "The value of x in the equation is 15.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

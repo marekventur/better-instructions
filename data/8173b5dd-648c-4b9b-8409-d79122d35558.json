@@ -1,0 +1,12 @@
+{
+  "id": "8173b5dd-648c-4b9b-8409-d79122d35558",
+  "instruction": "Categorize the list of items as either clothes or shoes.",
+  "input": "Dress, Sandals, Shirt, Sneakers",
+  "output": "Dress: Clothes\nSandals: Shoes\nShirt: Clothes\nSneakers: Shoes",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

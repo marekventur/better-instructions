@@ -1,0 +1,12 @@
+{
+  "id": "2a55c7a5-6ac0-42a9-bb48-0ca0781e4fad",
+  "instruction": "Identify the type of data that these five pieces of information represent:",
+  "input": "Carlos, 24, November 16th 1990, Male, USA",
+  "output": "Name: String \nAge: Integer\nDate of Birth: Date\nGender: String\nNationality: String",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

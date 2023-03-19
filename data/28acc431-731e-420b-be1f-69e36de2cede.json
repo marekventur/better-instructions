@@ -1,0 +1,12 @@
+{
+  "id": "28acc431-731e-420b-be1f-69e36de2cede",
+  "instruction": "Classify the following utterance as 1) technical issue; 2) change and return",
+  "input": "I want to return the shoes I bought yesterday.",
+  "output": "2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

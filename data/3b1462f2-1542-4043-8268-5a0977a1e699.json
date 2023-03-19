@@ -1,0 +1,12 @@
+{
+  "id": "3b1462f2-1542-4043-8268-5a0977a1e699",
+  "instruction": "Construct a function that determines the number of days in a given month using the month name and date.",
+  "input": "",
+  "output": "The function should take two string arguments, the month name and date. It should then check if the date is valid, and depending on the month, return an integer corresponding to the number of days in that month. If the month is February, it should also take leap year into consideration. For example, if the inputs are \"February\" and \"29\", the function should return 29 if the year is a leap year, and 28 otherwise.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "92ddecf3-ba21-4828-80f9-21f1fa93f69e",
+  "instruction": "Explain the concept of multi-label classification.",
+  "input": "",
+  "output": "Multi-label classification is a supervised learning technique where a single output example can belong to more than one class. This technique is useful for tasks that involve assigning multiple labels to an input example. For example, a task may require predicting all labels that describe the contents of an image such as, \u201csports\u201d, \u201coutdoors\u201d, \u201cindoors\u201d. Such tasks can be solved by multi-label classification models which are made up of multiple classifiers that each handle one label. The input example is first classified by a base model that predicts the most likely labels. Subsequently, the labels which have a confidence score above a certain threshold are chosen by the model. The multi-label classification model can learn correlations between related labels and can even predict layers of labels like a taxonomy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

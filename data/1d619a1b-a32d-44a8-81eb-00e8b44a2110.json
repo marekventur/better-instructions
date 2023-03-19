@@ -1,0 +1,12 @@
+{
+  "id": "1d619a1b-a32d-44a8-81eb-00e8b44a2110",
+  "instruction": "Tell which type of sentence is this:",
+  "input": "He worked hard all day.",
+  "output": "This is a declarative sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d16cb7c6-227e-42a4-a3cb-595086d9ca31",
+  "instruction": "Construct a linear programming problem that maximizes the profit from selling a certain product.",
+  "input": "",
+  "output": "Given a production line with limited resources and a cost for each ingredient, the objective of the linear programming problem is to maximize profit from selling the product by finding the optimal combination of ingredients. The problem is formulated as follows: \n\nMaximize Profit = (Price of Product - Cost of Ingredient 1 - Cost of Ingredient 2 - ... - Cost of Ingredient n)\nSubject to: \n- Ingredient 1 quantity <= Maximum Available Quantity \n- Ingredient 2 quantity <= Maximum Available Quantity \n- ... \n- Ingredient n quantity <= Maximum Available Quantity",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "16e71a15-fb89-430b-af3d-5fdd343d3ba5",
+  "instruction": "Describe one technique used in artificial intelligence.",
+  "input": "",
+  "output": "One technique used in artificial intelligence is machine learning, which uses algorithms and statistical models to give computers the ability to \"learn\" without being explicitly programmed to do so. This is done by training the computer on data and providing feedback in the form of a score so that the computer can adjust its parameters over time to improve its performance on the task.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

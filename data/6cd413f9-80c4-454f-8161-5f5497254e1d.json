@@ -1,0 +1,12 @@
+{
+  "id": "6cd413f9-80c4-454f-8161-5f5497254e1d",
+  "instruction": "Categorize the given sentence as either an imperative or a declarative sentence.",
+  "input": "Have a nice day.",
+  "output": "Imperative.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

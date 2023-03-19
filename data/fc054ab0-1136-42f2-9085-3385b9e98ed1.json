@@ -1,0 +1,12 @@
+{
+  "id": "fc054ab0-1136-42f2-9085-3385b9e98ed1",
+  "instruction": "Given two sentences, identify the correct verb to link them.",
+  "input": "She missed the deadline. She was unable to submit her report.",
+  "output": "She missed the deadline, so she was unable to submit her report.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

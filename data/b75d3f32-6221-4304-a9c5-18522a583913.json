@@ -1,0 +1,12 @@
+{
+  "id": "b75d3f32-6221-4304-a9c5-18522a583913",
+  "instruction": "Explain the conservation of momentum.",
+  "input": "",
+  "output": "The law of conservation of momentum states that the total momentum of a closed system remains constant, regardless of any internal exchange of momentum between the components. This means that the momentum of a group of objects will remain the same, regardless of how they interact with each other. It can be applied to many situations, including collisions and explosions, provided they occur in an isolated closed system. In a collision, the momentum of both objects remains the same, though the direction may change. In an explosion, the change in momentum is equal to the sum of the individual momentums of the new components, as each piece originally had zero momentum.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

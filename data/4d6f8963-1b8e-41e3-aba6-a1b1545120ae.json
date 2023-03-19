@@ -1,0 +1,12 @@
+{
+  "id": "4d6f8963-1b8e-41e3-aba6-a1b1545120ae",
+  "instruction": "Train a model using this data.",
+  "input": "This dataset contains 8000 images of cats and dogs.",
+  "output": "The model can be trained using the dataset by first pre-processing the images to resize and normalize them. Then, the dataset can be split into training, validation and testing sets. Finally, the model can be trained by inputting the training set and evaluating the model on the validation set.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

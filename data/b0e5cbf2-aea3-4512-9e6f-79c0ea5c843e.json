@@ -1,0 +1,12 @@
+{
+  "id": "b0e5cbf2-aea3-4512-9e6f-79c0ea5c843e",
+  "instruction": "Create a function that converts a given number to binary.",
+  "input": "Number: 20",
+  "output": "def decimal_to_binary(num):\n    binary = bin(num)\n    binary = binary[2:]\n    return binary\n    \ndecimal_to_binary(20) # Output: '10100'",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "011eda20-a7b7-4bc6-b83c-0ed9f22bcfe1",
+  "instruction": "Match the sentence frame with the correct word.",
+  "input": "The moon is __ larger than the Earth.",
+  "output": "The moon is much larger than the Earth.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

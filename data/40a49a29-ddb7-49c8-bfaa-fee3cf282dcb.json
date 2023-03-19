@@ -1,0 +1,12 @@
+{
+  "id": "40a49a29-ddb7-49c8-bfaa-fee3cf282dcb",
+  "instruction": "Given this sentence, \"Software engineering is a challenging field,\" suggest a follow-up question that could be asked.",
+  "input": "",
+  "output": "What makes software engineering so challenging?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

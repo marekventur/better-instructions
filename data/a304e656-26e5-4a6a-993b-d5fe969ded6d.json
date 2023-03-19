@@ -1,0 +1,12 @@
+{
+  "id": "a304e656-26e5-4a6a-993b-d5fe969ded6d",
+  "instruction": "Based on the input, create a dialogue between two characters in a story.",
+  "input": "Characters: Doctor and Patient",
+  "output": "Doctor: Hi, what brings you here today?\n\nPatient: I'm having really bad stomach pains.\n\nDoctor: Okay, I'm going to need you to give me some more information. Can you tell me when you first started experiencing the pain?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

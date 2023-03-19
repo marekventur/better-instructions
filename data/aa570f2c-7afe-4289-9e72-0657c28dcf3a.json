@@ -1,0 +1,12 @@
+{
+  "id": "aa570f2c-7afe-4289-9e72-0657c28dcf3a",
+  "instruction": "Generate a web page displaying the given information.",
+  "input": "Item: Shoes\nPrice: $32\nDescription: These shoes are made with a durable tread and breathable material.",
+  "output": "<html> \n  <head> \n    <title>Shoes</title> \n  </head> \n  <body> \n    <h1>Shoes</h1> \n    <p>Price: $32</p>\n    <p>Description: These shoes are made with a durable tread and breathable material.</p>\n  </body> \n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

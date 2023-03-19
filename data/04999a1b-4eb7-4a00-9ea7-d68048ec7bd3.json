@@ -1,0 +1,12 @@
+{
+  "id": "04999a1b-4eb7-4a00-9ea7-d68048ec7bd3",
+  "instruction": "Transform the following sentence so that the meaning does not change.",
+  "input": "I took a haircut yesterday",
+  "output": "I had a haircut yesterday.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

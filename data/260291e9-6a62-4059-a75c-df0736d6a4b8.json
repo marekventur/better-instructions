@@ -1,0 +1,12 @@
+{
+  "id": "260291e9-6a62-4059-a75c-df0736d6a4b8",
+  "instruction": "Given a list of sports and equipment required, develop a new game or sport.",
+  "input": "Sports: Football, Basketball, Tennis \nEquipment: two nets, one ball",
+  "output": "Net Rivals: a hybrid game of football, basketball, and tennis. Two teams of two players each face off against each other separated by a net in the middle. The goal of the game is to score on the opposite net. The ball is passed back and forth, with each team only allowed three throws and one shot per turn. When a player makes a shot, they receive one point. The first team to ten points wins.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

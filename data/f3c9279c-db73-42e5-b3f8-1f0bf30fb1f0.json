@@ -1,0 +1,12 @@
+{
+  "id": "f3c9279c-db73-42e5-b3f8-1f0bf30fb1f0",
+  "instruction": "Design a program that can find the kth smallest element in an array.",
+  "input": "",
+  "output": "def kthSmallest(arr, n, k): \n    # Sort the array \n    arr.sort() \n    # Return k'th element in the sorted array \n    return arr[k-1] \n  \n# Driver Code \n# Output should be 5\narr = [12, 3, 5, 7, 19] \nn = len(arr) \nk = 3\nprint(kthSmallest(arr, n, k))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

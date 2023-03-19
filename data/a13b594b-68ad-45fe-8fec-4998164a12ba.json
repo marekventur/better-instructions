@@ -1,0 +1,12 @@
+{
+  "id": "a13b594b-68ad-45fe-8fec-4998164a12ba",
+  "instruction": "Explain what the following machine learning algorithm does.",
+  "input": "K-Means Clustering",
+  "output": "K-Means Clustering is an unsupervised machine learning algorithm used for clustering data into a given number of k clusters, where the mean value of each group is calculated and used to update the clusters.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

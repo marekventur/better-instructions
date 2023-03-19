@@ -1,0 +1,12 @@
+{
+  "id": "ffd6725a-1ff0-4bca-b433-7041d22e4c60",
+  "instruction": "Find the mile radius between two addresses.",
+  "input": "Washington D.C.  and New York City",
+  "output": "The radius between Washington D.C. and New York City is 219.81 miles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

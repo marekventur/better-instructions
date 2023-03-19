@@ -1,0 +1,12 @@
+{
+  "id": "ca18c6f9-b453-4c25-ae65-8087703ff257",
+  "instruction": "Suggest three articles related to the given topic.",
+  "input": "Topic: Negative Impacts of Social Media",
+  "output": "1. \"The Dark Side of Social Media: The Impact of Social Media on Mental Health\" by Professor Rami Yacoub.\n2. \"Negative Impact of Social Media Usage: A Literature Review\" by Dr. Sanju Kanwar and Shveta Rajpal.\n3. \"Social Media and Its Impact on People's Lives\" by Dr. Priya Agrawal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

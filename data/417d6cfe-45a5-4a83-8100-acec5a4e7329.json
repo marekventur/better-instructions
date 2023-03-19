@@ -1,0 +1,12 @@
+{
+  "id": "417d6cfe-45a5-4a83-8100-acec5a4e7329",
+  "instruction": "Given a news story, create a headline that captures the main point of the article.",
+  "input": "One of the world's largest tech companies announced its plan to invest billions of dollars in creating renewable energy resources in the United States.",
+  "output": "Tech Giant to Invest Billions in US Renewable Energy Resources.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

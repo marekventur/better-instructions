@@ -1,0 +1,12 @@
+{
+  "id": "ed4c6d17-4a94-40f2-9cb6-cd39a1caaa1d",
+  "instruction": "Create a valid SQL query to extract the requested information.",
+  "input": "Table Name: Employees\nColumns: Name, Salary\n\nQuery all employees whose salary is greater than $50,000",
+  "output": "SELECT Name FROM Employees WHERE Salary > 50000;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

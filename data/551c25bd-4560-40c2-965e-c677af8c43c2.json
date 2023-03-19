@@ -1,0 +1,12 @@
+{
+  "id": "551c25bd-4560-40c2-965e-c677af8c43c2",
+  "instruction": "Create a program that can detect if a text is written in English.",
+  "input": "This text is written in English.",
+  "output": "The program should detect that the text is written in English by analyzing the words used and the syntax of the sentence. The program should be trained on a corpus of English text and be able to recognize and identify English sentences.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "60f512b7-1e4a-4fa9-bd85-012fdce2d02e",
+  "instruction": "Select the statement that is the most applicable to the given text",
+  "input": "Text: It was the best of times, it was the worst of times.\n\nA. The author of this text is sad\nB. The author of this text is reflective\nC. The author of this text is optimistic",
+  "output": "B. The author of this text is reflective.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1d2a5ea3-896f-42be-bd9d-6865b8e1aada",
+  "instruction": "Based on the provided context, provide a dialogue for a scene.",
+  "input": "Two friends meeting after school for the first time since summer break.",
+  "output": "Friend 1: \"Hey! It's been so long since we've seen each other! How was your summer?\" \nFriend 2: \"It was good. I did a lot of traveling and met a lot of new people. You?\" \nFriend 1: \"That sounds awesome! I spent most of my summer at home, catching up on the latest shows. But it was nice to have a break from the routine, for sure. So what have you been up to since school started?\" \nFriend 2: \"Oh, same old stuff. Trying to stay on top of classes and manage my extracurriculars. What about you?\" \nFriend 1: \"Definitely. It's been a crazy few weeks balancing all of that. I'm looking forward to some down time soon.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

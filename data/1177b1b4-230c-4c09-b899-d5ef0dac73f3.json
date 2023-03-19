@@ -1,0 +1,12 @@
+{
+  "id": "1177b1b4-230c-4c09-b899-d5ef0dac73f3",
+  "instruction": "Generate an example of a task automation process involving natural language processing.",
+  "input": "",
+  "output": "An example of a task automation process involving natural language processing is automatic text summarization. Automatic text summarization is the process of condensing long pieces of text into shorter summaries by using natural language processing algorithms. It works by extracting key words, identifying important phrases, and selecting sentences that are relevant to the topic of the text. The result is a condensed version of the original text that captures the main points and is easier to understand.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

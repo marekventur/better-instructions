@@ -1,0 +1,12 @@
+{
+  "id": "671b4c27-321f-4c7a-ae46-982cc4213749",
+  "instruction": "Figure out the type of this sentence.",
+  "input": "The cat sat on the mat.",
+  "output": "Declarative sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "84b3cd04-57eb-42f8-a7e0-afccb8fb224b",
+  "instruction": "Adapt the following formula to the given clothes.",
+  "input": "Formula: Dressy +Casual =Smart Casual; Clothes: Jeans and Blazer",
+  "output": "The combination of jeans and blazer is a great example of smart casual attire. Jeans provide the casual element, while a blazer adds a dressy touch to the outfit. The pairing creates a stylish and modern look that\u2019s appropriate for many occasions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

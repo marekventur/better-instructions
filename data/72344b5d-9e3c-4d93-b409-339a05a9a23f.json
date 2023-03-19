@@ -1,0 +1,12 @@
+{
+  "id": "72344b5d-9e3c-4d93-b409-339a05a9a23f",
+  "instruction": "Convert the following Noun phrase to Adjective phrase.",
+  "input": "The house is large.",
+  "output": "The house is spacious.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

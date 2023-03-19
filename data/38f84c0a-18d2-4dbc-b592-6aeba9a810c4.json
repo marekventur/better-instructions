@@ -1,0 +1,12 @@
+{
+  "id": "38f84c0a-18d2-4dbc-b592-6aeba9a810c4",
+  "instruction": "Output a list of 5 adjectives that describe the following noun.",
+  "input": "Country",
+  "output": "1. Diverse\n2. Eclectic\n3. Historic \n4. Vast\n5. Cultural",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

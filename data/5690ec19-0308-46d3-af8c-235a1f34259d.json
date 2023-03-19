@@ -1,0 +1,12 @@
+{
+  "id": "5690ec19-0308-46d3-af8c-235a1f34259d",
+  "instruction": "Change the sentences from active voice to passive voice.",
+  "input": "She will write the report.",
+  "output": "The report will be written by her.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

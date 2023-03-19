@@ -1,0 +1,12 @@
+{
+  "id": "48e282b2-d8df-43c6-b628-850900fe6250",
+  "instruction": "Generate a conversation between two people discussing the movie Narcos.",
+  "input": "",
+  "output": "Person 1: Have you seen the show Narcos?\nPerson 2: Yes I have! It's an amazing show, full of great actors, interesting plot and really good acting. What did you think?\nPerson 1: I loved it. The transitions between seasons were seamless and the story kept me on the edge of my seat. I was so invested in the characters, their motives and their arcs as the show went on. I think this show is great for anyone interested in learning about the drug trade without getting immersed in it. \nPerson 2: True. The show also has very complex characters which make it more interesting and intriguing to watch. I can definitely relate to the characters, as well as the moral ambiguity of the story. It was very thought-provoking and captivating!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "92f1b4d1-d53f-4695-8f8d-abc177ec1f78",
+  "instruction": "Determine the number of steps required to complete the given task.",
+  "input": "Write a book",
+  "output": "- Research and develop ideas for a book\n- Outline the story and characters\n- Write a rough draft\n- Edit the rough draft\n- Revise the draft\n- Submit the draft for editing\n- Make the requested edits\n- Finalize the book\n- Publish the book\n\nNumber of steps: 8",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

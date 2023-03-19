@@ -1,0 +1,12 @@
+{
+  "id": "6294270b-c0ce-4f2c-8add-3e121820bbec",
+  "instruction": "Compile a list of all the countries mentioned in the following article",
+  "input": "The spread of the coronavirus has affected people in countries all around the world. In the United States, Italy, Spain, and France, the virus has been particularly devastating. Government officials in India, China, Germany, and the United Kingdom have implemented strict regulations to help slow contagion.",
+  "output": "United States, Italy, Spain, France, India, China, Germany, United Kingdom.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

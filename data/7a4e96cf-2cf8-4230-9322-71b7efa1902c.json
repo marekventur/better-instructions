@@ -1,0 +1,12 @@
+{
+  "id": "7a4e96cf-2cf8-4230-9322-71b7efa1902c",
+  "instruction": "Decide if the phrase is a simile or a metaphor.",
+  "input": "He is as smooth as a baby's bottom",
+  "output": "Simile",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

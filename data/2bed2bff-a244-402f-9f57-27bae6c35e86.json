@@ -1,0 +1,12 @@
+{
+  "id": "2bed2bff-a244-402f-9f57-27bae6c35e86",
+  "instruction": "Create a sample conversation between two people discussing a machine learning project",
+  "input": "",
+  "output": "Person 1: I'm thinking about starting a machine learning project. \nPerson 2: That sounds great! What kind of project did you have in mind? \nPerson 1: I was thinking of using a supervised learning model to predict customer churn.\nPerson 2: That sounds like a worthwhile project! What data do you think you need to collect in order to train the model? \nPerson 1: I'm thinking we'll need to collect data on customer demographics, transaction history, loyalty data, and provide customer survey data. \nPerson 2: That sounds like a great plan! I'm sure your project will be a success.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

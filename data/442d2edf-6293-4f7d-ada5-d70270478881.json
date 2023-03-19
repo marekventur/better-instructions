@@ -1,0 +1,12 @@
+{
+  "id": "442d2edf-6293-4f7d-ada5-d70270478881",
+  "instruction": "Create an algorithm to decide which movies a user should watch based on their ratings of other movies.",
+  "input": "",
+  "output": "A potential algorithm to decide which movies a user should watch based on their ratings of other movies could involve the following steps: \n1. Collect rating data from the user using online surveys. \n2. Use data mining techniques to analyze the data and identify user preferences.\n3. Construct a recommendation model based on the user preferences and ratings.\n4. Generate movie recommendations based on the model.\n5. Use an evaluation metric to measure the accuracy of the recommendations.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4449fbec-db06-4286-a6ff-4129b49ca61b",
+  "instruction": "Sort this list of fruits from the sweetest to the least sweet.",
+  "input": "Banana, Pineapple, Apple, Grapes",
+  "output": "Banana, Pineapple, Grapes, Apple.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

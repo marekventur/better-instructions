@@ -1,0 +1,12 @@
+{
+  "id": "0c1f3c54-601d-4b45-9a8b-a3f7e6d6b459",
+  "instruction": "Explain an algorithm for solving the problem of sorting an array of numbers in order from least to greatest.",
+  "input": "",
+  "output": "The algorithm for sorting an array of numbers from least to greatest is called bubble sort. It works by comparing adjacent elements and then swapping them if they are in the wrong order, and repeating this until the list is sorted. Starting at the beginning of the list, two adjacent elements are compared and if they are in the wrong order, they are swapped. This process is then repeated with the next two elements, and continues until the end of the list. Once all elements have been compared, the list is scanned again and the process is repeated until a pass is made with no swaps needed. At this point, the list is sorted in the correct order from least to greatest.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

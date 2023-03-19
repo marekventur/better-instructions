@@ -1,0 +1,12 @@
+{
+  "id": "11ee9687-a3f8-4497-8742-1610527e04a1",
+  "instruction": "Find the density of a substance given its mass and volume.",
+  "input": "Mass: 10 kg\nVolume: 8 L",
+  "output": "The density of the substance is 1.25 kg/L. This is calculated by dividing the mass (10 kg) by the volume (8 L) to get the density (1.25 kg/L).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

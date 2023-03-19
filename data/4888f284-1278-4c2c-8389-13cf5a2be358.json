@@ -1,0 +1,12 @@
+{
+  "id": "4888f284-1278-4c2c-8389-13cf5a2be358",
+  "instruction": "Reconstruct the following sentence adding adjectives and adverbs so that it becomes more descriptive.",
+  "input": "The tree was tall.",
+  "output": "The towering oak tree stood impressively tall.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

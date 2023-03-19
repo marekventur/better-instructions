@@ -1,0 +1,12 @@
+{
+  "id": "a9bb253b-767b-4864-b897-7864286fa364",
+  "instruction": "Calculate the interest earned on the following data.",
+  "input": "Principal: $1000, Rate of interest: 5%, Duration: 3 years",
+  "output": "The interest earned on a principal of $1000 at a rate of 5% per annum for a duration of 3 years is $150.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0597b25f-059a-4e74-ab65-349b43b84260",
+  "instruction": "Describe the purpose of the following computer algorithm",
+  "input": "K-nearest Neighbor algorithm",
+  "output": "K-nearest Neighbor algorithm is a supervised machine learning algorithm used for classification and regression. It works by finding the k nearest neighbors in the training set, and then voting on the most common class or estimating the value based on these neighbors.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

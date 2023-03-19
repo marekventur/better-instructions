@@ -1,0 +1,12 @@
+{
+  "id": "a5b80ae6-2404-4307-abe9-57d0a7fe195b",
+  "instruction": "Arrange the given items into a logical order",
+  "input": "pen, chair, table",
+  "output": "The logical order is: table, chair, pen.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

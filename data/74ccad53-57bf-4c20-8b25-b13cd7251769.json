@@ -1,0 +1,12 @@
+{
+  "id": "74ccad53-57bf-4c20-8b25-b13cd7251769",
+  "instruction": "Classify the following example as a form of verbal abuse. Output 1 for verbal abuse, and 0 for not.",
+  "input": "He insults me whenever I make a mistake",
+  "output": "1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

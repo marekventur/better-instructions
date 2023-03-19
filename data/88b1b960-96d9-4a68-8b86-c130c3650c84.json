@@ -1,0 +1,12 @@
+{
+  "id": "88b1b960-96d9-4a68-8b86-c130c3650c84",
+  "instruction": "Select the perfectly punctuated sentence",
+  "input": "A) The defendant legally contested his sentence  \nB) The defendant legally challenged his sentence!",
+  "output": "A) The defendant legally contested his sentence",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

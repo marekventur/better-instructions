@@ -1,0 +1,12 @@
+{
+  "id": "b6983a85-cbfa-421f-b70d-71a9db8149a7",
+  "instruction": "Identify three major challenges of Artificial Intelligence",
+  "input": "",
+  "output": "Three major challenges of Artificial Intelligence are privacy and security, lack of transparency, and algorithmic bias. Privacy and security concerns arise when data collection is pervasive and the AI model mishandles user or user data, or when an AI model is hacked and user data is stolen. A lack of transparency occurs when AI models become so complex that it is difficult to determine exactly how it is making decisions or how it can be improved. Algorithmic bias can result from data inputs that reflect undesired societal biases, resulting in inaccurate results and potentially unfair decisions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

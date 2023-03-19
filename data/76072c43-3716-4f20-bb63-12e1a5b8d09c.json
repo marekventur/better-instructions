@@ -1,0 +1,12 @@
+{
+  "id": "76072c43-3716-4f20-bb63-12e1a5b8d09c",
+  "instruction": "Identify the character given the following description.",
+  "input": "He is an intelligent wizard who is skilled in the art of magic and teaches at the Hogwarts School of Witchcraft and Wizardry.",
+  "output": "Albus Dumbledore",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

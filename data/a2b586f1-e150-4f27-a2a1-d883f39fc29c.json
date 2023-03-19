@@ -1,0 +1,12 @@
+{
+  "id": "a2b586f1-e150-4f27-a2a1-d883f39fc29c",
+  "instruction": "Given a customer's feedback, write a reply to address their issue.",
+  "input": "Customer feedback:\n\"The delivery process was quite slow compared to my past experience.\"",
+  "output": "Dear customer,\nThank you for letting us know about your experience with our delivery process. We apologize for the slow delivery process. We are working hard to ensure our delivery process is faster and your feedback is appreciated. We will forward this to our customer service department and they will look into it and make the necessary changes. Thank you for bringing this to our attention and we hope to provide better services in the future.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fe8cda12-b646-4e8a-a81b-fd7d67683d1e",
+  "instruction": "Convert the following currency to its equivalent in US dollars (USD).",
+  "input": "1500 Euros",
+  "output": "1500 Euros is equivalent to 1725.25 US Dollars (USD).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "84a9b75e-4c0d-47ed-a4d2-3b61a2978513",
+  "instruction": "Find roots of the given polynomial.",
+  "input": "x^3 - x^2 + 2x - 4",
+  "output": "The roots of the given polynomial x^3 - x^2 + 2x - 4 are x = 1, x = 2, and x = 4.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

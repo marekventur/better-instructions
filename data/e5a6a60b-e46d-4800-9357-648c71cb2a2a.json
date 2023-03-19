@@ -1,0 +1,12 @@
+{
+  "id": "e5a6a60b-e46d-4800-9357-648c71cb2a2a",
+  "instruction": "Generate a unique story (title and content in <100 words) about two people at the airport.",
+  "input": "",
+  "output": "The title of the story is \"An Unexpected Airport Reunion\".\n\nThe story begins at a busy airport. Two travelers, who have never met before, are both waiting for their flights. Both are anxious about the upcoming journey and full of anticipation.\n\nSuddenly, the travelers make eye contact and recognize each other. It turns out that they share the same hometown, and used to play together every day during their childhood.\n\nThey share stories and catch up on their lives. The conversation is so engrossing that the travelers don't even notice when the boarding call for their flights is announced. \n\nEventually, the travelers realize what's happening and bid a tearful goodbye to each other. As they part ways, the travelers know their unexpected reunion has changed their lives. \n\nMoral of the story: You never know who you might meet at the airport. It could be someone from your past, a long-lost friend, or even a family member!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e0e47ca2-cde5-42c9-baa1-a31f06425bc1",
+  "instruction": "Create an algorithm to search for a given phone number in a list of names and phone numbers.",
+  "input": "NamePhoneList = [(\"John Doe\", \"123-456-7890\"),\n(\"Jane Doe\", \"098-765-4321\"),\n(\"Steve Smith\", \"111-111-1111\")\n]\n\nPhoneNumber = \"111-111-1111\"",
+  "output": "\"\"\"\nSearch for a given phone number in a list of names and phone numbers\n\"\"\"\n\n# NamePhoneList contains a list of tuples, with each tuple containing a name and a phone number\nNamePhoneList = [(\"John Doe\", \"123-456-7890\"),\n(\"Jane Doe\", \"098-765-4321\"),\n(\"Steve Smith\", \"111-111-1111\")\n]\n\n# PhoneNumber is the number we are searching for\nPhoneNumber = \"111-111-1111\"\n\n# Initialize a variable to keep track of whether or not the number is found\nisFound = False\n\n# Loop through each tuple in NamePhoneList\nfor name, number in NamePhoneList:\n    # If the phone number matches the number we are searching for, set isFound to True and break out of the loop\n    if number == PhoneNumber:\n        isFound = True\n        break\n\n# Print the result\nif isFound:\n    print(\"The phone number was found.\")\nelse:\n    print(\"The phone number was not found.\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

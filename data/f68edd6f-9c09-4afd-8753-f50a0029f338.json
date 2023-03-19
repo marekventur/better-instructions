@@ -1,0 +1,12 @@
+{
+  "id": "f68edd6f-9c09-4afd-8753-f50a0029f338",
+  "instruction": "Print out a biography of the current US president.",
+  "input": "",
+  "output": "Joseph R. Biden Jr. is the 46th President of the United States. He was born in Scranton, Pennsylvania in 1942, and graduated from the University of Delaware and Syracuse Law School. Biden served as Delaware\u2019s U.S. Senator from 1973 to 2009, and as Vice President to President Barack Obama from 2009 to 2017. After Vice President Mike Pence presided over the certification of Biden\u2019s victory in the 2020 presidential election, Biden was inaugurated as the 46th President of the United States on January 20, 2021. As president, Biden is leading the nation in addressing the coronavirus pandemic, rebuilding a strong middle class, and restoring America\u2019s leadership on the world stage.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

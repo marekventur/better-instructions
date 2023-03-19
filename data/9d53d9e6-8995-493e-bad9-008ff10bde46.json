@@ -1,0 +1,12 @@
+{
+  "id": "9d53d9e6-8995-493e-bad9-008ff10bde46",
+  "instruction": "Describe the data pre-processing steps in a machine learning project",
+  "input": "",
+  "output": "Data pre-processing is an important step in any machine learning project. It involves transforming raw datasets into ready-to-use form so that models can be trained with it. Common steps of data pre-processing include data cleaning, feature engineering, data normalization, and feature selection. Data cleaning involves identifying and addressing any errors, outliers, or missing values. Feature engineering is the process of transforming existing features to create new features that better capture the information contained in the raw data. Data normalization is used to rescale the values of certain features to a standard range which allows for more meaningful comparisons between features. In feature selection, irrelevant and redundant features are removed to reduce the complexity of the model and improve its accuracy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

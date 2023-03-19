@@ -1,0 +1,12 @@
+{
+  "id": "272bbfd9-54aa-4f50-9119-a1098fa44735",
+  "instruction": "Using the given sentence, construct a valid English sentence.",
+  "input": "Dogs of many",
+  "output": "Dogs of many different breeds can be found around the world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

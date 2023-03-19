@@ -1,0 +1,12 @@
+{
+  "id": "761a8be7-08da-4a86-a2ea-def8ece7df1a",
+  "instruction": "Provide a valid example of using inheritance in the Java language",
+  "input": "",
+  "output": "An example of using inheritance in Java is by extending a class. For example, if you have a class called \u201cCar\u201d, you can create a new class called \u201cSportCar\u201d and extend the \u201cCar\u201d class. This would give \u201cSportCar\u201d all the same features and methods as \u201cCar\u201d, while allowing you to add new features and methods that are specific to \u201cSportCar\u201d.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

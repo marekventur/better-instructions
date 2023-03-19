@@ -1,0 +1,12 @@
+{
+  "id": "b1527e1d-c2dd-4cc9-ab3f-bfbdd843fdf8",
+  "instruction": "Compress the following text into a tweet with less than 140 characters.",
+  "input": "The world is facing a climate crisis and we need to take immediate action before it's too late.",
+  "output": "Urgent: We must act now to combat the climate crisis! #ClimateAction",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b7cb757c-69ce-4861-849b-b2d91211f202",
+  "instruction": "Categorize this medical condition.",
+  "input": "The patient has fever, nausea, worsening headaches, and difficulty breathing.",
+  "output": "This medical condition could be influenza.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9e73e8fd-80f6-4e30-aff9-4397d375c5a6",
+  "instruction": "Organize the following list of names into alphabetical order.",
+  "input": "Miranda, Xavier, Bob, Henry",
+  "output": "Bob, Henry, Miranda, Xavier",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

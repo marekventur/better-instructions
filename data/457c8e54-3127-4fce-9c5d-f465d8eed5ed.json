@@ -1,0 +1,12 @@
+{
+  "id": "457c8e54-3127-4fce-9c5d-f465d8eed5ed",
+  "instruction": "Find the mean, median and mode for this set of numbers: 1,2,2,4,4,4,4",
+  "input": "",
+  "output": "Mean: 3\nMedian: 4\nMode: 4",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

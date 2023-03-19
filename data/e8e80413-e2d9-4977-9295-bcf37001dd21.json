@@ -1,0 +1,12 @@
+{
+  "id": "e8e80413-e2d9-4977-9295-bcf37001dd21",
+  "instruction": "Let's look up the stock price of Microsoft Corporation (MSFT) today.",
+  "input": "",
+  "output": "The current stock price of Microsoft Corporation (MSFT) is $209.20, which is 0.50% higher than the previous closing price of $208.38.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

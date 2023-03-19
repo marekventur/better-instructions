@@ -1,0 +1,12 @@
+{
+  "id": "b75f9b63-09cf-4848-8b45-6c54134abb4b",
+  "instruction": "Design a software program that auto completes data entry on a form.",
+  "input": "",
+  "output": "The software program should include a user-friendly interface with options to configure and customize the fields to be auto completed. The program should use automated algorithms to extract data from predefined sources and then predict and auto complete the data fields quickly and accurately. It should also be able to detect and automatically enter multiple rows of data into a form.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

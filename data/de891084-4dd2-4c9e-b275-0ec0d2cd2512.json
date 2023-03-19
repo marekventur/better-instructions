@@ -1,0 +1,12 @@
+{
+  "id": "de891084-4dd2-4c9e-b275-0ec0d2cd2512",
+  "instruction": "Write an algorithm to calculate the perimeter of a rectangle.",
+  "input": "",
+  "output": "Algorithm: \n1. Start \n2. Declare variables length, width, perimeter \n3. Read length, width \n4. Calculate perimeter as length + width + length + width \n5. Print perimeter \n6. End",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

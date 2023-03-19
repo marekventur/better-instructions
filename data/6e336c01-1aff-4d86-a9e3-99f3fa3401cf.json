@@ -1,0 +1,12 @@
+{
+  "id": "6e336c01-1aff-4d86-a9e3-99f3fa3401cf",
+  "instruction": "Place a bet on a horse race",
+  "input": "The upcoming Kentucky Derby",
+  "output": "I place $10 on the horse named Secretariat.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

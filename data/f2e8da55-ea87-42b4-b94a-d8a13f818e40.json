@@ -1,0 +1,12 @@
+{
+  "id": "f2e8da55-ea87-42b4-b94a-d8a13f818e40",
+  "instruction": "Explain the characteristics of a polygon",
+  "input": "",
+  "output": "A polygon is a closed figure in Euclidian geometry, consisting of a set of line segments that are all connected. The polygon is defined by its number of sides, the length of each side, which must all be equal, and the angles between each side. Polygons have the same number of angles and vertices, and the same sum of angles, as the number of sides.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

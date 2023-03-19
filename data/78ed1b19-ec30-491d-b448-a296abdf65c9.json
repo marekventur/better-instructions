@@ -1,0 +1,12 @@
+{
+  "id": "78ed1b19-ec30-491d-b448-a296abdf65c9",
+  "instruction": "For a given sentence, invert the word order",
+  "input": "This sentence is quite simple.",
+  "output": "simple quite is sentence This",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

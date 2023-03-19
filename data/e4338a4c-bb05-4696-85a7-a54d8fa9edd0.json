@@ -1,0 +1,12 @@
+{
+  "id": "e4338a4c-bb05-4696-85a7-a54d8fa9edd0",
+  "instruction": "Tell me why this sentence is ungrammatical.",
+  "input": "We observed the stars and the galaxies beyond.",
+  "output": "This sentence is ungrammatical because it is missing an article after the word \"stars\". It is also missing an article before the word \"galaxies\". The proper sentence should be \"We observed the stars and the galaxies beyond\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

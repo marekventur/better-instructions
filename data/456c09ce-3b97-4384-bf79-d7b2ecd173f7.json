@@ -1,0 +1,12 @@
+{
+  "id": "456c09ce-3b97-4384-bf79-d7b2ecd173f7",
+  "instruction": "Complete the story beginning with the given line.",
+  "input": "He opened his eyes and",
+  "output": "He opened his eyes and saw that he was standing in a lush green forest. The sun was shining through the canopy of trees and birds were chirping in the distance. He felt the soft earth beneath his feet, and the sound of a nearby stream reminding him that he was alive. He stepped forward and breathed in the warm air, feeling a sense of peace and serenity that he had never before experienced in his life.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

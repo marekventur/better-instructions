@@ -1,0 +1,12 @@
+{
+  "id": "11b5cc57-3fc4-453d-b38b-95fa268427d7",
+  "instruction": "Categorize the following words into two teams.",
+  "input": "turtle, hedgehog, goat, fox",
+  "output": "Team 1: Turtle, Hedgehog\nTeam 2: Goat, Fox",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

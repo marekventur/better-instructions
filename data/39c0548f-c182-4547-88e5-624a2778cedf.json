@@ -1,0 +1,12 @@
+{
+  "id": "39c0548f-c182-4547-88e5-624a2778cedf",
+  "instruction": "Create a biographical sketch of a person given the input.",
+  "input": "John is an engineer who loves exploring new places and cultures.",
+  "output": "John is an engineer who is driven by a never-ending curiosity. He loves exploring new places and cultures, which he does frequently. Having traveled extensively and gained an understanding of different cultures and people, he carries an open mind when it comes to interacting and communicating with others. He is passionate about helping others achieve their dreams and is always looking for innovative solutions to existing problems.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

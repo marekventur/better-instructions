@@ -1,0 +1,12 @@
+{
+  "id": "2a4894ba-8089-4202-9435-1960303b5de7",
+  "instruction": "Classify the given sentence according to the sentence structures.",
+  "input": "He is a funny man.",
+  "output": "The sentence is classified as an adjective clause.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

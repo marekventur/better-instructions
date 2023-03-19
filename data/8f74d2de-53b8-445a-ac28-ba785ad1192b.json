@@ -1,0 +1,12 @@
+{
+  "id": "8f74d2de-53b8-445a-ac28-ba785ad1192b",
+  "instruction": "Given a photo, classify the type of animal in the photo.",
+  "input": "<include image>",
+  "output": "This photo contains a dog.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

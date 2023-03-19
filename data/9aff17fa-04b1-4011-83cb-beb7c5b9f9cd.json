@@ -1,0 +1,12 @@
+{
+  "id": "9aff17fa-04b1-4011-83cb-beb7c5b9f9cd",
+  "instruction": "Generate two questions related to the given subject.",
+  "input": "The history of the United States",
+  "output": "What were the significant events in the history of the United States?\nWhat impact did the events in the history of the United States have on its politics and culture?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "99741b6e-27a0-4abf-bdfe-7cf0570d5ea1",
+  "instruction": "Group the following countries into continents:\nAustralia, Brazil, India, Mexico",
+  "input": "",
+  "output": "Australia: Oceania\nBrazil: South America\nIndia: Asia\nMexico: North America",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

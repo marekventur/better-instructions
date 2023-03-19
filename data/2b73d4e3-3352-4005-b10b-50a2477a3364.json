@@ -1,0 +1,12 @@
+{
+  "id": "2b73d4e3-3352-4005-b10b-50a2477a3364",
+  "instruction": "Generate a new recipe using these 3 ingredients: eggs, tomatoes, and cheese.",
+  "input": "",
+  "output": "Scrambled Eggs with Tomato and Cheese:\n\nIngredients:\n- 3 eggs\n- 2 tomatoes, diced\n- 1/2 cup shredded cheese\n- Salt, to taste\n- 2 tablespoons of butter\n\nInstructions:\n1. Heat the butter in a large skillet on medium heat.\n2. Add the tomatoes and cook until softened and lightly browned.\n3. Crack the eggs into a large bowl and season with salt and pepper.\n4. Pour the eggs into the skillet and cook, stirring occasionally, until lightly scrambled.\n5. Add the cheese and stir until melted.\n6. Serve warm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

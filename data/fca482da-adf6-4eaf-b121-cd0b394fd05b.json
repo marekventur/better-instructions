@@ -1,0 +1,12 @@
+{
+  "id": "fca482da-adf6-4eaf-b121-cd0b394fd05b",
+  "instruction": "What is the significance of the number five in The Fibonacci Sequence?",
+  "input": "",
+  "output": "The Fibonacci Sequence is a series of numbers in which each number is the sum of the two numbers preceding it. The number five is significant because it is the first number in this sequence that results in an even total when added to the number before it (3 + 5 = 8). This is the beginning of the pattern known as the Fibonacci numbers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

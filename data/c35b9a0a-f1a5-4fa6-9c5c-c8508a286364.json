@@ -1,0 +1,12 @@
+{
+  "id": "c35b9a0a-f1a5-4fa6-9c5c-c8508a286364",
+  "instruction": "Determine if the given proverb is historically accurate.",
+  "input": "Time heals all wounds",
+  "output": "No.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

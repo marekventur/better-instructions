@@ -1,0 +1,12 @@
+{
+  "id": "8a098364-f8c3-42f4-b232-f4e1e6915364",
+  "instruction": "Identify the grammatical category of the underlined word: She went to the beach.",
+  "input": "Beach",
+  "output": "Noun",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "655e79c8-96ad-463e-b908-da4f4a48536e",
+  "instruction": "Classify this sentence as either an example of Structuralism, Post-Structuralism, or Deconstruction.",
+  "input": "Interpretation of a text should start by identifying its key words.",
+  "output": "Structuralism.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

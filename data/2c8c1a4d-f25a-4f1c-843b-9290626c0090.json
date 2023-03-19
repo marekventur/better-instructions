@@ -1,0 +1,12 @@
+{
+  "id": "2c8c1a4d-f25a-4f1c-843b-9290626c0090",
+  "instruction": "Create a short dialogue between two characters about the given topic.",
+  "input": "Topic: The importance of being organized",
+  "output": "Character 1: Hey, do you have a few minutes to talk? I wanted to discuss something important. \nCharacter 2: Sure, what's up?\n\nCharacter 1: Well, do you think it's important to stay organized? \nCharacter 2: Absolutely, organization can help us stay on top of things and make sure we don't overlook anything important. \n\nCharacter 1: Good point. So, how do you think staying organized has helped you?\nCharacter2: Well, it has helped me to keep track of all my tasks, so I can prioritize them and be more productive. It also helps me to stay focused on the things that are most important and set goals to reach them.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "467b1cfb-ac48-4ea2-8c69-6f8f68257c7e",
+  "instruction": "Calculate the total with the following inputs",
+  "input": "6 books at $10 each",
+  "output": "The total is $60.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

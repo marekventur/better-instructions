@@ -1,0 +1,12 @@
+{
+  "id": "7db6ecb0-751e-4977-ba33-b91a48a31015",
+  "instruction": "Analyze an example of a conflict in the given text.",
+  "input": "In the movie City Lights, a wealthy woman helps a poor man who is in love with her.",
+  "output": "An example of a conflict in the movie City Lights is the romantic conflict between the wealthy woman and the poor man. While the woman is attracted to the man, her wealthy status creates a barrier that complicates their relationship. This conflict illustrates the gulf between the two characters\u2019 different social classes and the challenge they face in developing a meaningful connection.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

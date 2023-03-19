@@ -1,0 +1,12 @@
+{
+  "id": "85aac6cd-e968-46ef-8ac0-838e51a3d580",
+  "instruction": "Create a table of the top 10 countries with the highest population density.",
+  "input": "",
+  "output": "Country         | Population Density (Population/km2)\n-------------------------------------------------------------------------\nMonaco          | 18,988 \nSingapore       | 8,164 \nBermuda         | 6,349 \nMacau           | 5,968 \nBahrain         | 1,902\nHong Kong       | 1,553 \nVatican City    | 1,011 \nMalta           | 1,244 \nBangladesh      | 1,250 \nNauru           | 995",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

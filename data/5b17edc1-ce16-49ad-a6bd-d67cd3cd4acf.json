@@ -1,0 +1,12 @@
+{
+  "id": "5b17edc1-ce16-49ad-a6bd-d67cd3cd4acf",
+  "instruction": "Edit this text by reducing the word count without changing its meaning.",
+  "input": "The sun rises in the east each morning and sets in the west each evening, giving us alternating cycles of day and night.",
+  "output": "The sun rises east and sets west, creating a cycle of day and night.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

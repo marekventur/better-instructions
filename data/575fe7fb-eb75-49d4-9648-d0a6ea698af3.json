@@ -1,0 +1,12 @@
+{
+  "id": "575fe7fb-eb75-49d4-9648-d0a6ea698af3",
+  "instruction": "Put the words in a sensible alphabetical order.",
+  "input": "dictionary, grammar, language",
+  "output": "dictionary, language, grammar",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

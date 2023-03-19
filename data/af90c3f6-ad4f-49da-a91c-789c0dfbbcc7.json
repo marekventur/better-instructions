@@ -1,0 +1,12 @@
+{
+  "id": "af90c3f6-ad4f-49da-a91c-789c0dfbbcc7",
+  "instruction": "Answer the following questions using factual evidence",
+  "input": "Question: What is the average lifespan of a bee?",
+  "output": "The average lifespan of a bee varies among different species of bee. Worker bees typically live for 5-6 weeks, while queens can live for around 3-4 years. Additionally, drone bees typically only live for a few months.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

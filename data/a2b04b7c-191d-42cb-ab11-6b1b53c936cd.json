@@ -1,0 +1,12 @@
+{
+  "id": "a2b04b7c-191d-42cb-ab11-6b1b53c936cd",
+  "instruction": "Take the following news article and summarize it in three to five sentences.",
+  "input": "A recent survey found that over 80% of Americans believe that climate change is a major environmental concern. The survey also indicated that 88% of people believe that protecting the environment is crucial to the future of the planet. More than 85% of those surveyed expressed a desire to take action to reduce their own carbon footprint and to make positive changes to the environment. In addition, almost half expressed an interest in learning more about how to reduce their negative environmental impact.",
+  "output": "A recent survey found that the majority of Americans understand the need for environmental protection and expressed a desire to take action to reduce their carbon footprint. Over 80% of people expressed a concern for climate change, 88% believe that protecting the environment is vital, and 85% are interested in taking steps to make positive changes. Nearly half of those surveyed want to learn more about how to reduce their environmental impact.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5431aed3-639e-4491-a153-78eec6d4a77a",
+  "instruction": "Describe a particular tool used in the given field.",
+  "input": "Data Visualization",
+  "output": "A powerful tool used in data visualization is d3.js, an open-source JavaScript library for creating interactive data visualizations on the web. It enables users to create dynamic, interactive visualizations that can be integrated into websites or embedded into applications. D3.js is extremely flexible and provides many advanced features such as animation, Zoom and Pan, Flexible Axes, Zero Margins, and Dynamic Scales.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

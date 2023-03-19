@@ -1,0 +1,12 @@
+{
+  "id": "5c6a3c47-6ed7-4352-a92f-1fe59c3050c1",
+  "instruction": "What type of input does the following command line expect?",
+  "input": "calculate 5+7",
+  "output": "This command line expects two numerical inputs (5, 7) and an arithmetic operation (+) as inputs. It will then calculate the resulting sum.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

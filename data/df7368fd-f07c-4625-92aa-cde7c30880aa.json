@@ -1,0 +1,12 @@
+{
+  "id": "df7368fd-f07c-4625-92aa-cde7c30880aa",
+  "instruction": "Analyze the following sentence for the simple subject and the complete subject.",
+  "input": "Many students in the class were studying vigorously.",
+  "output": "Simple subject: students\nComplete subject: Many students in the class",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

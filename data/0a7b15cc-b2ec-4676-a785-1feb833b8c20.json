@@ -1,0 +1,12 @@
+{
+  "id": "0a7b15cc-b2ec-4676-a785-1feb833b8c20",
+  "instruction": "Replace the verb in the sentence with a similar one.",
+  "input": "Carrie rode her bike to school.",
+  "output": "Carrie pedaled her bike to school.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

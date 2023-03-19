@@ -1,0 +1,12 @@
+{
+  "id": "3083122f-ddfc-4d77-9180-bfd5e955f9e0",
+  "instruction": "Generate a list of common nouns from the given text",
+  "input": "John lives in a small town with many friendly people",
+  "output": "Common nouns from the given text are town, people, John, small and friendly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

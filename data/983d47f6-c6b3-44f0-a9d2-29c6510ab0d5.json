@@ -1,0 +1,12 @@
+{
+  "id": "983d47f6-c6b3-44f0-a9d2-29c6510ab0d5",
+  "instruction": "Generate a list of questions based on the given input text.",
+  "input": "Text: Hamlet is one of the greatest tragedies ever written by William Shakespeare.",
+  "output": "- What themes does Shakespeare explore in Hamlet?\n- Who are the major characters in Hamlet?\n- In what ways does Hamlet demonstrate revenge and betrayal?\n- Who is the protagonist and antagonist in Hamlet?\n- How is the plot of Hamlet structured?\n- How does Hamlet's character develop over the course of the play?\n- What does Hamlet's soliloquy reveal about his inner thoughts and feelings?\n- What symbols are used to bring out the main themes of the play?\n- How does Shakespeare use metaphors and imagery in Hamlet?\n- What reactions did Hamlet's audiences have to the play?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

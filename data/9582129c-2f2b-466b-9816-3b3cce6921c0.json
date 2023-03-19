@@ -1,0 +1,12 @@
+{
+  "id": "9582129c-2f2b-466b-9816-3b3cce6921c0",
+  "instruction": "Generate code to create a new random number every three seconds",
+  "input": "",
+  "output": "while(true) {\n   Random random = new Random();\n   System.out.println(random.nextInt());\n   Thread.sleep(3000);\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

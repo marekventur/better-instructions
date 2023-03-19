@@ -1,0 +1,12 @@
+{
+  "id": "eae29af0-2a10-413f-b21d-792139e01496",
+  "instruction": "Provide an example of a financial tool that is used to identify returns on an investment.",
+  "input": "",
+  "output": "A popular financial tool used to identify returns on an investment is the Internal Rate of Return (IRR). The IRR is a metric that measures the rate of return of a project or an investment over its lifetime and is often used to compare alternative investments. It is calculated by finding the internal rate of return, which is the discount rate at which all the streams of cash flow of a project are equal to the initial investment. The higher the IRR, the greater the expected return on the investment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

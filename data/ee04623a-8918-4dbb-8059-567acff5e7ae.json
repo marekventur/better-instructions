@@ -1,0 +1,12 @@
+{
+  "id": "ee04623a-8918-4dbb-8059-567acff5e7ae",
+  "instruction": "You are given some items, find an interesting pattern in it.",
+  "input": "Sun, Moon, Stars",
+  "output": "A fascinating pattern can be found in the items given: the Sun, Moon and Stars. This pattern is reflected in the natural phenomenon of the Sun's day-night cycle, which is formed by the Moon constantly orbiting the Earth and blocking its light during particular phases of its cycle. During these same phases, we can also see the stars come out and make their appearance in the night sky, serving as a reminder of the beauty of the universe and its natural order.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

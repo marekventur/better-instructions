@@ -1,0 +1,12 @@
+{
+  "id": "d84fe8db-0283-47f7-beae-608cbf5d891d",
+  "instruction": "Classify the given data as categorical or numerical.",
+  "input": "Brand name of a car",
+  "output": "The given data is categorical.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8c3d809e-0455-4d29-9e38-7bafb1137248",
+  "instruction": "Edit the following sentence so that it is grammatically correct: There is two cats in my house",
+  "input": "There is two cats in my house.",
+  "output": "There are two cats in my house.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

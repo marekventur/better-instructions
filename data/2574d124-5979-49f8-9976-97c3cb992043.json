@@ -1,0 +1,12 @@
+{
+  "id": "2574d124-5979-49f8-9976-97c3cb992043",
+  "instruction": "Create an algorithm to identify duplicates in a dataset",
+  "input": "",
+  "output": "The algorithm should loop through the dataset and compare each item with every other item in the dataset. If the items match according to a specified criteria, the algorithm should mark those items as duplicates.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "60c6ef0d-a8bb-4d5f-a9c5-9d517c903fe7",
+  "instruction": "Determine the optimal order of the following tasks.",
+  "input": "- Go to work\n- Buy groceries\n- Mow the lawn",
+  "output": "The optimal order for these tasks is:\n1. Go to work\n2. Mow the lawn\n3. Buy groceries",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8b0fc2c0-112d-4a30-8988-48972ecbb87a",
+  "instruction": "Recommend a movie that matches the criteria",
+  "input": "Romantic comedy for teenagers",
+  "output": "An easy recommendation for a romantic comedy for teenagers would be \u2018The Princess Diaries\u2019 (2001). It centers around Mia (Anne Hathaway), a teenage girl living with her single mom in San Francisco who discovers she\u2019s a princess in the small European kingdom of Genovia. With the help of her grandmother (Julie Andrews), Mia learns to navigate her newfound title and the complexities of high school life.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

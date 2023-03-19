@@ -1,0 +1,12 @@
+{
+  "id": "26cdc1a1-98b7-4c9e-938b-0007eb8a713f",
+  "instruction": "Create a software design to measure progress given the following requirements.",
+  "input": "Requirements:\n- Must keep track of user progress \n- Must be able to easily add, review, and delete progress\n- Also must be able to categorize user data",
+  "output": "The software design will involve creating a database to store user data including their progress and categorizing it based on user criteria. An API will be created for the user to be able to add, review and delete their progress as desired. This API will be coupled with a user interface for easy interaction and visual feedback for the user to be able to easily track and review their progress.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

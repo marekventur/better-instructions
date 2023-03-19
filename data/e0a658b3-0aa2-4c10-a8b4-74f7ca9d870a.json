@@ -1,0 +1,12 @@
+{
+  "id": "e0a658b3-0aa2-4c10-a8b4-74f7ca9d870a",
+  "instruction": "Create a checklist that can help diagnose a given issue.",
+  "input": "Slow computer",
+  "output": "Diagnosing a Slow Computer Checklist: \n- Check for malware and viruses \n- Close any unused applications \n- Disable unnecessary startup programs \n- Change the power settings to maximize performance \n- Uninstall unused programs \n- Disable unnecessary browser extensions \n- Check network settings \n- Check for outdated drivers \n- Check for and remove duplicate files\n- Increase virtual memory\n- Check for hardware issues \n- Use a system optimizer \n- Check for disk fragmentation",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

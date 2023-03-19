@@ -1,0 +1,12 @@
+{
+  "id": "3bfed3cd-d25e-46a6-bf4a-cdb8d0f1ec3f",
+  "instruction": "Identify the effect of this policy change.",
+  "input": "The city of New York is introducing a new policy that will increase the amount of fees for new businesses.",
+  "output": "The effect of this policy change will be an increase in costs for new businesses in New York City, potentially making it harder for new businesses to establish themselves.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

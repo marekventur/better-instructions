@@ -1,0 +1,12 @@
+{
+  "id": "34ce5c9e-ff06-403e-b3a2-21e9a6f77341",
+  "instruction": "Collect the first five lines of text from a web page.",
+  "input": "https://en.wikipedia.org/wiki/Machine_learning",
+  "output": "Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model of sample data, known as \"training data\", in order to make predictions or decisions without being explicitly programmed to do so.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cf557578-c071-4505-99f5-7c6bc3dd28fe",
+  "instruction": "Identify the type of poem from the following poem excerpt.",
+  "input": "In Xanadu did Kubla Khan\nA stately pleasure-dome decree;",
+  "output": "This is an example of a Romantic poem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

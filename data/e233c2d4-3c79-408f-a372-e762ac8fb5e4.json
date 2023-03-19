@@ -1,0 +1,12 @@
+{
+  "id": "e233c2d4-3c79-408f-a372-e762ac8fb5e4",
+  "instruction": "After being given a text, shorten it without affecting its original meaning.",
+  "input": "Friedrich Nietzsche (1844-1900) was a German philosopher known for his radical ideas and critiques of common beliefs. He developed the concept of the \u00dcbermensch and was a major influence in existentialism and nihilism.",
+  "output": "Friedrich Nietzsche (1844-1900) was a German philosopher known for his radical ideas and critiques of common beliefs. He developed the concept of the \u00dcbermensch, a major influence in existentialism and nihilism.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

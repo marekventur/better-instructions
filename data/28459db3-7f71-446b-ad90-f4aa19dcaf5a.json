@@ -1,0 +1,12 @@
+{
+  "id": "28459db3-7f71-446b-ad90-f4aa19dcaf5a",
+  "instruction": "Analyze the given article and explain the argument the author is making",
+  "input": "A recent study has found that most people who use social media on a daily basis experience a drop in their overall happiness.",
+  "output": "The author of this article is arguing that using social media on a daily basis can have a detrimental effect on an individual's overall happiness. The study that was referenced in the article found that daily social media use leads to an overall decrease in overall happiness. The article suggests that this can be attributed to the tendency of social media users to constantly compare themselves to others, and the pressure to appear perfect online. It also notes that cyberbullying, which is increasingly common on social media, can also have a negative impact on happiness. Finally, the article points out that spending too much time on social media can lead to a decrease in physical activity, as well as increased propensity for overeating. Overall, the article argues that social media should be used in moderation in order to maintain a healthy level of happiness.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

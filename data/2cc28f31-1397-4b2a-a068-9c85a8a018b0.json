@@ -1,0 +1,12 @@
+{
+  "id": "2cc28f31-1397-4b2a-a068-9c85a8a018b0",
+  "instruction": "Classify the emotion associated with the given sentence.",
+  "input": "She felt angry, frustrated and helpless all at once.",
+  "output": "Anger, frustration, helplessness.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

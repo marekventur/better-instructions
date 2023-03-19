@@ -1,0 +1,12 @@
+{
+  "id": "079212fa-2295-4f24-ab93-7e9d3939a6eb",
+  "instruction": "Clssify the following text into one of the three categories: Positive, Negative, or Neutral",
+  "input": "He failed the test",
+  "output": "Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

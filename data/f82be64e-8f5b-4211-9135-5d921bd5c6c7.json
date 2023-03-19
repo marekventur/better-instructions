@@ -1,0 +1,12 @@
+{
+  "id": "f82be64e-8f5b-4211-9135-5d921bd5c6c7",
+  "instruction": "Classify the given definition as 'abstract' or 'concrete'.",
+  "input": "Love is the emotion evoked by strong feelings of attachment and affection.",
+  "output": "Abstract.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cb8726e8-5678-4c21-8cd3-5b77a1287dce",
+  "instruction": "Given a sentence, tell if it is grammatically correct. Output yes or no.",
+  "input": "She coming to the party later.",
+  "output": "No",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

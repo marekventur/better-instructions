@@ -1,0 +1,12 @@
+{
+  "id": "fae17dca-567b-474e-894e-9478d91380b0",
+  "instruction": "Calculate the area of a right triangle given one side of 6 cm and the angle of 60 degrees.",
+  "input": "",
+  "output": "The area of the right triangle can be calculated by multiplying one half of the length of the base (6 cm) by the perpendicular height drawn from the vertex of the 60 degree angle, which is given by the formula: height = base x (hyperbolic tangent of angle / 2). Therefore, the area of the triangle is 18 cm2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

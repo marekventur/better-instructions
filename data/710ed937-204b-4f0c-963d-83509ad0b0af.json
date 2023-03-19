@@ -1,0 +1,12 @@
+{
+  "id": "710ed937-204b-4f0c-963d-83509ad0b0af",
+  "instruction": "Explain why the following fraction is equivalent to 1/4",
+  "input": "4/16",
+  "output": "The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

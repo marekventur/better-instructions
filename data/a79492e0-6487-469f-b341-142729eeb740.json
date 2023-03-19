@@ -1,0 +1,12 @@
+{
+  "id": "a79492e0-6487-469f-b341-142729eeb740",
+  "instruction": "Classify the following observation into a primary level of biological organisation.",
+  "input": "The mitochondria are the powerhouses of the cell.",
+  "output": "The observation is classified under the cellular level of biological organisation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

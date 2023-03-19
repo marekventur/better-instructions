@@ -1,0 +1,12 @@
+{
+  "id": "a07dee33-4563-47f2-8987-dda20cc5e616",
+  "instruction": "Summarize the following recipe instructions in 25 words.",
+  "input": "Instructions for Baked Salmon:\n1. Preheat oven to 400\u00b0F.\n2. Place salmon in baking dish.\n3. Drizzle with olive oil and season with salt and pepper.\n4. Bake for 10-12 minutes.",
+  "output": "Preheat oven to 400\u00b0F, place salmon in a baking dish, drizzle with olive oil and season with salt and pepper, then bake for 10-12 minutes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

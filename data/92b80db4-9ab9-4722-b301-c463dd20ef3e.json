@@ -1,0 +1,12 @@
+{
+  "id": "92b80db4-9ab9-4722-b301-c463dd20ef3e",
+  "instruction": "Generate two sentences of a conversation that takes place between two shop owners.",
+  "input": "Noinput",
+  "output": "Shop Owner 1: \"How has business been going since we reopened?\"\nShop Owner 2: \"It's been going better than expected. We've seen a lot of customers coming back and have had a steady stream of new customers as well.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

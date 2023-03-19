@@ -1,0 +1,12 @@
+{
+  "id": "2b549beb-b60b-4936-9392-8e8741f94c55",
+  "instruction": "Identify the error in this sentence: I unlocked the unlock door.",
+  "input": "I unlocked the unlock door.",
+  "output": "The sentence contains a redundancy error as 'unlocked' and 'unlock' are used in the same sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

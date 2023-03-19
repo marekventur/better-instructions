@@ -1,0 +1,12 @@
+{
+  "id": "4b612a99-ebba-4e9a-8ce7-7794f907320a",
+  "instruction": "Given a photo, detect the different objects in the photo and label each object.",
+  "input": "Attach the photo",
+  "output": "The photo contains a person, a chair, a table, and a laptop.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

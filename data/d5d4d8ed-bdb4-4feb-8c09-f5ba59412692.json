@@ -1,0 +1,12 @@
+{
+  "id": "d5d4d8ed-bdb4-4feb-8c09-f5ba59412692",
+  "instruction": "Rank these motives in the order of importance.",
+  "input": "Maximizing profits, minimizing costs, protecting the environment.",
+  "output": "Maximizing profits, minimizing costs, protecting the environment (in order of importance).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

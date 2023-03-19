@@ -1,0 +1,12 @@
+{
+  "id": "a7e70985-8400-481c-8d36-bc1f54200f76",
+  "instruction": "Generate a list of 10 books that someone who likes historical fiction should read.",
+  "input": "",
+  "output": "1. All Quiet on the Western Front by Erich Maria Remarque  \n2. Memoirs of a Geisha by Arthur Golden\n3. The Pillars of the Earth by Ken Follett \n4. The Name of the Rose by Umberto Eco\n5. The Catcher in the Rye by J.D. Salinger\n6. Gone with the Wind by Margaret Mitchell\n7. The Count of Monte Cristo by Alexandre Dumas\n8. The Da Vinci Code by Dan Brown\n9. The Iliad by Homer\n10. War and Peace by Leo Tolstoy",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

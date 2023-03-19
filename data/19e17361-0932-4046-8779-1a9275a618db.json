@@ -1,0 +1,12 @@
+{
+  "id": "19e17361-0932-4046-8779-1a9275a618db",
+  "instruction": "Generate a list of 5 important dates in US history.",
+  "input": "",
+  "output": "- July 4, 1776: Adoption of the Declaration of Independence\n- January 1, 1863: Emancipation Proclamation \n- December 7, 1941: Attack on Pearl Harbor\n- August 6, 1965: Voting Rights Act \n- November 22, 1963: Assassination of President John F. Kennedy",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

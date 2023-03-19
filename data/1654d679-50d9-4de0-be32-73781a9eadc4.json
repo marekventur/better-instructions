@@ -1,0 +1,12 @@
+{
+  "id": "1654d679-50d9-4de0-be32-73781a9eadc4",
+  "instruction": "Write a pseudocode to calculate the roots of a quadratic equation.",
+  "input": "",
+  "output": "```\nFunction Quadratic_Equation_Roots (a, b, c)\n    //Calculate the Discriminant\n    Discriminant <- b2 - 4 * a * c\n    \n    //Calculate the two Roots\n    If Discriminant > 0\n        Root1 <- (-b + Sqrt(Discriminant)) / (2 * a) \n        Root2 <- (-b - Sqrt(Discriminant)) / (2 * a)\n    \n    Else If Discriminant = 0\n        Root1 = Root2 <- - b / (2 * a)\n    \n    Else\n        Return \"Imaginary Roots\"\nEnd Function\n```",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

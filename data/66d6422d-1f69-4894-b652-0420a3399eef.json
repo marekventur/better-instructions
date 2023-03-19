@@ -1,0 +1,12 @@
+{
+  "id": "66d6422d-1f69-4894-b652-0420a3399eef",
+  "instruction": "In the given input, rewrite the sentence using the subjunctive mood.",
+  "input": "I wish he was more considerate.",
+  "output": "I wish he were more considerate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

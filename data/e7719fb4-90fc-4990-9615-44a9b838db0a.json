@@ -1,0 +1,12 @@
+{
+  "id": "e7719fb4-90fc-4990-9615-44a9b838db0a",
+  "instruction": "Suggest five open-ended questions which an AI assistant can ask a customer while scheduling an appointment",
+  "input": "",
+  "output": "1. What type of appointment are you looking for?\n2. Who will be attending the appointment?\n3. Is there a preferred date and time for the appointment?\n4. Is there anything else we should consider for the appointment?\n5. How can I help you with making the appointment?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

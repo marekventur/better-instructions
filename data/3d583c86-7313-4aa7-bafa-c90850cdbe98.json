@@ -1,0 +1,12 @@
+{
+  "id": "3d583c86-7313-4aa7-bafa-c90850cdbe98",
+  "instruction": "Given the following two sentences, create a sentence about the connection between them.",
+  "input": "Scott has an old, rusty car.\nEric has a new and shiny car.",
+  "output": "Scott and Eric have an obvious disparity in car quality, with Scott driving an old, rusty car and Eric having a new and shiny one.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

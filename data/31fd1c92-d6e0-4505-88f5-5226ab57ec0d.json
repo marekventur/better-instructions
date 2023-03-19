@@ -1,0 +1,12 @@
+{
+  "id": "31fd1c92-d6e0-4505-88f5-5226ab57ec0d",
+  "instruction": "Provide the pros and cons of the given situation.",
+  "input": "Situation: Working from home.",
+  "output": "Pros: \n- Flexibility in hours and schedule\n- Increased productivity \n- More comfortable work environment\n- Reduced stress levels\n- Less commuting time and cost\n\nCons: \n- Potential for feeling isolated\n- Potential for reduced income\n- Difficulty in delegating tasks\n- Distractions at home\n- Increased need for self-discipline",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

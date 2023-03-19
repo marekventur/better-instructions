@@ -1,0 +1,12 @@
+{
+  "id": "932b8db1-cef2-4c31-880b-f0767fcc52ee",
+  "instruction": "Categorize this text as either positive, negative, or neutral.",
+  "input": "The concert was mediocre.",
+  "output": "Neutral",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

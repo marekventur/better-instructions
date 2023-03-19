@@ -1,0 +1,12 @@
+{
+  "id": "d342c35e-ca1f-41af-bd23-4462d3fee741",
+  "instruction": "Find a unique recipe that uses the given ingredients",
+  "input": "Onion, Garlic, Parsley, Bacon",
+  "output": "Bacon and Parsley Stuffed Onions:\nIngredients:\n- 4 large onions, peeled and halved\n- 4 cloves of garlic, minced\n- 4 tablespoons of butter\n- 2 tablespoons of olive oil\n- 3 tablespoons of chopped parsley\n- 8 slices of bacon, cut into small pieces\n- Salt and pepper, to taste\nInstructions:\n1. Preheat oven to 350 degrees F.\n2. Heat butter and olive oil in a large skillet over medium-high heat.\n3. Add garlic and onion and cook for 2 to 3 minutes, or until translucent.\n4. Remove from heat and let cool for 10 minutes.\n5. In a medium bowl, combine chopped parsley, bacon, and onion mixture.\n6. Season with salt and pepper, to taste.\n7. Fill each onion half with the bacon and parsley mixture.\n8. Place onions onto a baking dish and bake for 25 to 30 minutes or until golden brown and cooked through.\n9. Serve and enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

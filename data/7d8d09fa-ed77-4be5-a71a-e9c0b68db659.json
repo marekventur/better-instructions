@@ -1,0 +1,12 @@
+{
+  "id": "7d8d09fa-ed77-4be5-a71a-e9c0b68db659",
+  "instruction": "Make a list of topics to discuss in a given research paper.",
+  "input": "Analyzing the impact of the coronavirus pandemic on higher education",
+  "output": "Potential topics to discuss in a research paper analyzing the impact of the Coronavirus pandemic on higher education include: \n- The sudden shift to online learning\n- Financial difficulties for colleges and universities \n- Mental health issues among students \n- Increased disparities in access to education\n- Changes in college admissions requirements\n- Disruption of campus life",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

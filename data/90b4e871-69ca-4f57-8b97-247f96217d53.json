@@ -1,0 +1,12 @@
+{
+  "id": "90b4e871-69ca-4f57-8b97-247f96217d53",
+  "instruction": "Assign the following adjectives to the nouns provided: one word at a time, demanding.",
+  "input": "Nouns: job, boss",
+  "output": "Job: demanding\nBoss: one-word",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

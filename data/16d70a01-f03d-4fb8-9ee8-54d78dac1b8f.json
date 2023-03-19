@@ -1,0 +1,12 @@
+{
+  "id": "16d70a01-f03d-4fb8-9ee8-54d78dac1b8f",
+  "instruction": "Based on the given article, how many countries are involved in the conflict?",
+  "input": "The conflict between Syria and Turkey has been ongoing for several years. Both countries have accused the other of violating human rights and causing civilian casualties.",
+  "output": "Two countries are involved in the conflict - Syria and Turkey.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

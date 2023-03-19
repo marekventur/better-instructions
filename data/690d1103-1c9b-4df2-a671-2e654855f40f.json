@@ -1,0 +1,12 @@
+{
+  "id": "690d1103-1c9b-4df2-a671-2e654855f40f",
+  "instruction": "Arrange the given entity in the right order of chronology",
+  "input": "Phone, Radio, Television",
+  "output": "The correct chronology of the given entities is Phone, Radio, Television.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

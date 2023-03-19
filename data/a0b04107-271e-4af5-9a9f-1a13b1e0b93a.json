@@ -1,0 +1,12 @@
+{
+  "id": "a0b04107-271e-4af5-9a9f-1a13b1e0b93a",
+  "instruction": "Transition the given narrative into a more effective one.",
+  "input": "John had a very bad day. He was late to work, he forgot all his tasks, and he missed his bus.",
+  "output": "John's disastrous day started with him running late to work, forgetting all of his tasks and then missing the bus that would have gotten him to work on time. Despite this, he refused to give up and continued on his journey, determined to make it in on time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

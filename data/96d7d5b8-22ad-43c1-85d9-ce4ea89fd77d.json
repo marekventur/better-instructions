@@ -1,0 +1,12 @@
+{
+  "id": "96d7d5b8-22ad-43c1-85d9-ce4ea89fd77d",
+  "instruction": "Write an algorithm for finding the sum of two numbers.",
+  "input": "",
+  "output": "The algorithm for finding the sum of two numbers is as follows: \n1. Begin by taking in two numbers x and y. \n2. Add the two numbers to get the sum \"s\". \n3. Return the sum \"s\" as the result.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

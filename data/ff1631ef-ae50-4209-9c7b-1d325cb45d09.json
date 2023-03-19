@@ -1,0 +1,12 @@
+{
+  "id": "ff1631ef-ae50-4209-9c7b-1d325cb45d09",
+  "instruction": "What type of data structure would you use to store a list of unique subscribers?",
+  "input": "",
+  "output": "To store a list of unique subscribers, a hash table or set would be the most appropriate data structure. A hash table is a data structure that uses a hash function to map data to unique keys, and a set is an unordered collection of unique elements. These data structures are efficient and well-suited for storing a list of unique subscribers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

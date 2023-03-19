@@ -1,0 +1,12 @@
+{
+  "id": "7f0cc581-c353-4517-bdef-eec9edfafe30",
+  "instruction": "Compute the volume of the cylinder.",
+  "input": "Radius: 5 cm; Height: 10 cm",
+  "output": "The volume of the cylinder is 392.7 cm\u00b3.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

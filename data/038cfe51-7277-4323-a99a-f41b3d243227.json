@@ -1,0 +1,12 @@
+{
+  "id": "038cfe51-7277-4323-a99a-f41b3d243227",
+  "instruction": "Predict survival rate for the Titanic disaster.",
+  "input": "Passengers: 2000",
+  "output": "Based on the 2000 passengers in the Titanic disaster, the estimated survival rate is 32%.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

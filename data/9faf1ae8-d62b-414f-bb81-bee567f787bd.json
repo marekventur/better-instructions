@@ -1,0 +1,12 @@
+{
+  "id": "9faf1ae8-d62b-414f-bb81-bee567f787bd",
+  "instruction": "Create an HTML table that compares the prices of 3 different cars.",
+  "input": "Car|Price \n-- | --\nHonda Civic|$19,000\nToyota Camry|$23,000\nFord Mustang|$32,000",
+  "output": "<table>\n  <tr>\n    <th>Car</th>\n    <th>Price</th>\n  </tr>\n  <tr>\n    <td>Honda Civic</td>\n    <td>$19,000</td>\n  </tr>\n  <tr>\n    <td>Toyota Camry</td>\n    <td>$23,000</td>\n  </tr>\n  <tr>\n    <td>Ford Mustang</td>\n    <td>$32,000</td>\n  </tr>\n</table>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

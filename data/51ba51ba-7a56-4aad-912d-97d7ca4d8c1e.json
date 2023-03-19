@@ -1,0 +1,12 @@
+{
+  "id": "51ba51ba-7a56-4aad-912d-97d7ca4d8c1e",
+  "instruction": "Output the updated list with the element \"onions\" added to it.",
+  "input": "Tomatoes, potatoes, mushrooms",
+  "output": "Tomatoes, potatoes, mushrooms, onions",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2864639a-0cf9-4ccb-a448-e803f2d0ba77",
+  "instruction": "Pick the most logical answer.",
+  "input": "Q: You see a sign that says \"No Entry\"\nA. I will go through the gate anyway\nB. I will find another way\nC. I will turn back\nD. I will ignore the sign",
+  "output": "C. I will turn back.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "03a01a1f-9669-4dbd-89b5-1e8cd434e7c4",
+  "instruction": "Classify this sentence as either a simile or a metaphor: The moon was a light in the darkness.",
+  "input": "The moon was a light in the darkness.",
+  "output": "Metaphor.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

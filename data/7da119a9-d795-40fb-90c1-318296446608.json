@@ -1,0 +1,12 @@
+{
+  "id": "7da119a9-d795-40fb-90c1-318296446608",
+  "instruction": "Summarize what you learned in this week's lesson.",
+  "input": "This week's lesson focused on teaching the basics of probability. We covered topics such as independent and dependent events, sample space, expected value and probability distribution.",
+  "output": "This week's lesson covered the basics of probability. We discussed independent and dependent events, sample space, expected value, and probability distribution. We learned that independent events are chance events that are not affected by past events, while dependent events are chance events that can be affected by preceding events. We also learned how to calculate expected values and construct probability distributions for outcomes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

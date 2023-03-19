@@ -1,0 +1,12 @@
+{
+  "id": "5bf9cb19-0f56-4895-bcdb-055918e2db5b",
+  "instruction": "Categorize the type of work done by _________",
+  "input": "Donald Trump",
+  "output": "Donald Trump is a businessman and the 45th President of the United States. He is currently involved in political, business, and legal activities. He is also active on various media outlets. \nCategorization Type: Business, Politics, Legal, Media.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

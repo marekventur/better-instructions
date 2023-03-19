@@ -1,0 +1,12 @@
+{
+  "id": "d52251d3-390c-4696-9728-84876f546d40",
+  "instruction": "Assign a letter grade of A, B, C, D, or F to a student based on their grades.",
+  "input": "Math Grade: 86, Science Grade: 78",
+  "output": "The student's letter grade is B.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

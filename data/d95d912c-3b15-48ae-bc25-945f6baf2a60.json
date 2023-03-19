@@ -1,0 +1,12 @@
+{
+  "id": "d95d912c-3b15-48ae-bc25-945f6baf2a60",
+  "instruction": "Identify what type of reaction the following equation shows.",
+  "input": "2H2 + O2 \u2192 2H2O",
+  "output": "Combustion",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

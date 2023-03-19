@@ -1,0 +1,12 @@
+{
+  "id": "0b1dc8c7-5afb-4e58-a9ef-392486976f41",
+  "instruction": "Convert the numbers in the sentence to words.",
+  "input": "I have 4 cats.",
+  "output": "I have four cats.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

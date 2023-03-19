@@ -1,0 +1,12 @@
+{
+  "id": "e4e8231d-aa67-4bdc-ba9b-c52d9542095a",
+  "instruction": "I need to change my flight but I can't remember the exact details. Can you help me look up my flight details?",
+  "input": "Name: John Smith\nFlight date: 5 July, 2021",
+  "output": "John Smith's flight details for 5 July 2021 are: Flight Number: DL1234, Departure from: Los Angeles (LAX), Arrival to: Philadelphia (PHL), Departure Time: 7:00 AM, Arrival Time: 10:30 AM.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

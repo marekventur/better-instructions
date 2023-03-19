@@ -1,0 +1,12 @@
+{
+  "id": "6ef78866-734f-4f96-8932-02bbd113d50e",
+  "instruction": "Create a query that finds the average price of all products in a store.",
+  "input": "",
+  "output": "SELECT AVG(price) FROM products;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

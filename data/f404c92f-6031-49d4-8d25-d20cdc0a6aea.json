@@ -1,0 +1,12 @@
+{
+  "id": "f404c92f-6031-49d4-8d25-d20cdc0a6aea",
+  "instruction": "Explain the concept of time complexity.",
+  "input": "",
+  "output": "Time complexity is a measure of how efficient an algorithm is, with respect to the amount of time required to execute the algorithm. It is usually measured in terms of the number of operations required for execution, or the amount of memory used. The time complexity of an algorithm is directly related to its efficiency; algorithms with faster runtimes are more efficient than those with slower runtimes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9c221d6d-832c-48a2-9638-b648db8e4b55",
+  "instruction": "Classify the following employee reviews into positives, negatives and neutrals.",
+  "input": "\"The working conditions at this office are horrible. The managers and employees are always talking over me and never giving any proper answers.\"",
+  "output": "Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

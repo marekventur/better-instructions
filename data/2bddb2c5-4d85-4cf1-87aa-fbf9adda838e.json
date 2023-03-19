@@ -1,0 +1,12 @@
+{
+  "id": "2bddb2c5-4d85-4cf1-87aa-fbf9adda838e",
+  "instruction": "Write a tweet summarizing the given article.",
+  "input": "An article about the importance of engaging with customers on social media",
+  "output": "Engaging with customers on social media is essential for building strong relationships, creating a positive brand image and driving customer loyalty. #SocialMediaMarketing #CustomerEngagement",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

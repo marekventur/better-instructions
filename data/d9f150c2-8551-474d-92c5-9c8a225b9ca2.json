@@ -1,0 +1,12 @@
+{
+  "id": "d9f150c2-8551-474d-92c5-9c8a225b9ca2",
+  "instruction": "Recognize the following bird's species.",
+  "input": "<img src=\"https://i.imgur.com/aVDU6IH.jpg\" alt=\"Bird\">",
+  "output": "Western Great Egret (Ardea alba maxima).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

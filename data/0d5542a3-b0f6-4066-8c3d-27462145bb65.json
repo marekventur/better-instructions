@@ -1,0 +1,12 @@
+{
+  "id": "0d5542a3-b0f6-4066-8c3d-27462145bb65",
+  "instruction": "Explain why this argument is wrong.",
+  "input": "We should close all public schools to prevent the spread of COVID-19.",
+  "output": "This argument is wrong because closing all public schools would be an extreme measure that is not necessary for preventing the spread of COVID-19. Other measures such as social distancing and wearing face masks are more sensible and effective ways to reduce the risk of the virus spreading. Additionally, many public schools provide essential services such as meals, childcare, and mental health services that are vital for those who rely on it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

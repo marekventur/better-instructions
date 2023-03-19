@@ -1,0 +1,12 @@
+{
+  "id": "e5ba22a0-e612-4604-8f75-562ab48d091f",
+  "instruction": "Design a table to store the information about floral sets.",
+  "input": "Floral Sets have 6 elements (Name, Image, Type, Colour of Flower, Occasion and Price).",
+  "output": "Table: Floral Sets\n\nColumns: \nName | Image | Type | Colour of Flower | Occasion | Price\n-----|-------|------|------------------|----------|------",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

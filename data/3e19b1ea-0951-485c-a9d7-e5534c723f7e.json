@@ -1,0 +1,12 @@
+{
+  "id": "3e19b1ea-0951-485c-a9d7-e5534c723f7e",
+  "instruction": "Classify the following sentence as describing either a feeling or an action.\n\nJohn jumped on the chair",
+  "input": "John jumped on the chair",
+  "output": "Action",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d6c091aa-dfd6-45ed-b93a-8905cea9b5d6",
+  "instruction": "Summarize this book review",
+  "input": "The new book \"To Kill a Mockingbird\" by Harper Lee is a powerful story of racial injustice and the brave individuals who fight it.",
+  "output": "This book review discusses Harper Lee's novel \"To Kill a Mockingbird\", which tells the story of racial injustice and the efforts of individuals to overcome it. The book is praised for its power and empathetic portrayal of complex issues.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

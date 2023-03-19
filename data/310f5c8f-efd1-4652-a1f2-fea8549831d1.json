@@ -1,0 +1,12 @@
+{
+  "id": "310f5c8f-efd1-4652-a1f2-fea8549831d1",
+  "instruction": "Create a business timeline that includes three upcoming milestones.",
+  "input": "Company: ABC Solutions",
+  "output": "ABC Solutions Timeline\n\n\u2022 November 2020: Launch new product in the US market\n\u2022 April 2021: Introduce product in European markets\n\u2022 November 2021: Establish business presence in Asia Pacific region",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

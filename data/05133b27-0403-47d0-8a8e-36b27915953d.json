@@ -1,0 +1,12 @@
+{
+  "id": "05133b27-0403-47d0-8a8e-36b27915953d",
+  "instruction": "Correct the following sentence:\n\nI've seen all the show of the Game of Thrones",
+  "input": "I've seen all the show of the Game of Thrones",
+  "output": "I've seen all the seasons of the Game of Thrones.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

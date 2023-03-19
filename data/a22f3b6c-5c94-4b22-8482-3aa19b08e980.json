@@ -1,0 +1,12 @@
+{
+  "id": "a22f3b6c-5c94-4b22-8482-3aa19b08e980",
+  "instruction": "Compare two different albums.",
+  "input": "Beyonce, Lemonade and Rihanna, Anti",
+  "output": "Beyonce's album Lemonade is a complicated and thought-provoking exploration of love, womanhood, and race. Brooding and intense, it is musically complex and lyrically powerful. Rihanna's album Anti, however, is a more light-hearted and upbeat affair, with synth-pop influences and a vibrant sound. While there are some serious themes addressed, the tone is much more optimistic and uplifting than Lemonade.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

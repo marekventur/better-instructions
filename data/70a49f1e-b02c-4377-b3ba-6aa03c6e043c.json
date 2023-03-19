@@ -1,0 +1,12 @@
+{
+  "id": "70a49f1e-b02c-4377-b3ba-6aa03c6e043c",
+  "instruction": "Generate article titles for the given article body.",
+  "input": "As more companies transition to a remote-first working model to support the global pandemic, cyber security threats become more apparent. Employers must take responsibility and be aware of the potential dangers to their systems in order to make the transition a success.",
+  "output": "1. Employers Must Prioritize Cyber Security When Going Remote \n2. Securing Your System: Making the Remote-First Transition Successful \n3. Understanding Cyber Security Risks in the Remote-First Model \n4. Keeping Systems Secure During the Remote-First Transition: Tips & Tricks \n5. Take Responsibility: How Employers Can Stay Vigilant in a Remote Setting",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

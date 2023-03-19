@@ -1,0 +1,12 @@
+{
+  "id": "7470fb77-68b8-4a29-99a5-3f1a95a40a6a",
+  "instruction": "Given two strings, output the longer one.",
+  "input": "String 1: \u201cfishing\u201d\nString 2: \u201ccamping\u201d",
+  "output": "The longer string is \u201cfishing\u201d.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

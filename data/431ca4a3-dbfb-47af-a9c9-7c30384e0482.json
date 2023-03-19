@@ -1,0 +1,12 @@
+{
+  "id": "431ca4a3-dbfb-47af-a9c9-7c30384e0482",
+  "instruction": "Edit the following sentence so that it has correct grammar.",
+  "input": "I were just going to the store",
+  "output": "I was just going to the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

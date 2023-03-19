@@ -1,0 +1,12 @@
+{
+  "id": "9c7729b7-1d19-4ebd-93d6-d11f09351230",
+  "instruction": "Categorize the following question as an open-ended or closed-ended question.",
+  "input": "What kind of music do you enjoy listening to?",
+  "output": "This is an open-ended question.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

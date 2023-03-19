@@ -1,0 +1,12 @@
+{
+  "id": "265a7f6a-14ed-4a79-9b80-a621df0c13d4",
+  "instruction": "Take this sentence and transform it into a fact-checking sentence.",
+  "input": "North Dakota is the least populated state in the United States.",
+  "output": "Is North Dakota the least populated state in the United States?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

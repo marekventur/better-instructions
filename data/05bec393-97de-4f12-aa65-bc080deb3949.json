@@ -1,0 +1,12 @@
+{
+  "id": "05bec393-97de-4f12-aa65-bc080deb3949",
+  "instruction": "You are given two names, come up with a unique name when the two names are combined.",
+  "input": "Carrie and Charles",
+  "output": "Charlotte",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

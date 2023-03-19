@@ -1,0 +1,12 @@
+{
+  "id": "c30397b9-b9ef-4039-896b-e566a46925c0",
+  "instruction": "Find the median of these numbers: 5, 6, 7, 8, 9.",
+  "input": "5, 6, 7, 8, 9",
+  "output": "The median of these numbers is 7.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

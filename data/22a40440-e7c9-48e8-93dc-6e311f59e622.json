@@ -1,0 +1,12 @@
+{
+  "id": "22a40440-e7c9-48e8-93dc-6e311f59e622",
+  "instruction": "Implement a function that returns the highest value in a given list",
+  "input": "[4, 10, 20, 12]",
+  "output": "def maxValue(array):\n    maxVal = 0\n    for i in array:\n        if i > maxVal:\n            maxVal = i \n    return maxVal \n\nmaxVal = maxValue([4, 10, 20, 12]) \nprint(maxVal)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

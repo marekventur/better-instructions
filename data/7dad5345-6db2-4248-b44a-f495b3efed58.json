@@ -1,0 +1,12 @@
+{
+  "id": "7dad5345-6db2-4248-b44a-f495b3efed58",
+  "instruction": "Edit the following sentence by changing the tense:",
+  "input": "He is helping his brother with the job application.",
+  "output": "He was helping his brother with the job application.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "78f8bb78-5040-401c-b290-9e3471191d42",
+  "instruction": "Describe how neurons transmit signals in the brain.",
+  "input": "",
+  "output": "Neurons in the brain use electrical and chemical signals to communicate with each other. Inside the cell, neurotransmitters are released from the end of one neuron to the beginning of another. The neurotransmitters cross the synaptic gap and attach to receptors on the postsynaptic neuron. When enough neurotransmitters accumulate on the receptors, it triggers a nerve impulse, resulting in the postsynaptic neuron to fire. This sends an electrical signal down the neuron, which relays information to other neurons in the network.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

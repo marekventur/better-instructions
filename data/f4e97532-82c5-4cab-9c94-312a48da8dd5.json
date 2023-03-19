@@ -1,0 +1,12 @@
+{
+  "id": "f4e97532-82c5-4cab-9c94-312a48da8dd5",
+  "instruction": "Given a set of instructions and an input, create a list of verbs that could complete the instructions.",
+  "input": "Create a spreadsheet chart that displays the comparison between apples and oranges.",
+  "output": "Make, create, develop, construct, generate, compile, formulate, assemble, prepare, produce, organize, arrange, compile, develop, draw up.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2f791b1a-420e-48cf-960c-289fdfb74b7c",
+  "instruction": "Output the US state for the following zip code.",
+  "input": "85368",
+  "output": "Arizona",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

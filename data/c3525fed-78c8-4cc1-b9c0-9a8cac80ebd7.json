@@ -1,0 +1,12 @@
+{
+  "id": "c3525fed-78c8-4cc1-b9c0-9a8cac80ebd7",
+  "instruction": "Given a list of attributes, come up with an original character.",
+  "input": "Adventurous, clumsy, artistic",
+  "output": "Alexandra is an adventurous yet clumsy artist from Russia. She loves to explore new places and take take on new challenges, but sometimes gets lost along the way due to her clumsiness. Despite this, Alexandra is determined to make the most of every moment and loves to document her adventures through her art. She is a fearless and daring individual who is always ready to take on the next big challenge.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

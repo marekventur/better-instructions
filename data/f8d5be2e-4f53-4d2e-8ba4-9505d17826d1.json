@@ -1,0 +1,12 @@
+{
+  "id": "f8d5be2e-4f53-4d2e-8ba4-9505d17826d1",
+  "instruction": "Generate three questions from the given input.",
+  "input": "The Galaxy Note10 is equipped with a 6.3-inch Dynamic AMOLED display and a long-lasting 4300mAh battery.",
+  "output": "- What is the size of the Galaxy Note10's display?\n- How long does the battery of the Galaxy Note10 last?\n- What type of display does the Galaxy Note10 use?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

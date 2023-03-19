@@ -1,0 +1,12 @@
+{
+  "id": "3f4c7e18-5956-49d0-ae51-88aa84e6fb7e",
+  "instruction": "Change the words with similar meanings.",
+  "input": "The climber began the ascent of the mountain",
+  "output": "The climber began the climb of the mountain",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e777ab47-5b06-4496-82dd-b6d743d8ad05",
+  "instruction": "Given the following two figures, decide which one is closer in shape to a circle.",
+  "input": "Figure 1:    \n\\[\n\\begin{array}{l}\n\\text { } \\\\ \n \\text { }\n\\end{array} \n\\begin{array}{c}\n\\text {      } \\\\ \n \\text { | \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ | } \\\\\n \\text { \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ } \\\\\n \\text { |--| }\n\\end{array} \\\\\n\\text { }\n\\]\n\nFigure 2:   \n\\[\n\\begin{array}{l}\n\\text{ } \\\\ \n \\text{ }\n\\end{array} \n\\begin{array}{c}\n\\text {      } \\\\ \n \\text { | \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ | } \\\\\n \\text { \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ } \\\\\n \\text { |--|--| }\n\\end{array} \\\\\n\\text { }\n\\]",
+  "output": "Figure 1 is closer in shape to a circle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

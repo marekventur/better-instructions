@@ -1,0 +1,12 @@
+{
+  "id": "76a35513-dfde-48ad-8996-d875aac836d1",
+  "instruction": "Analyze the strengths and weaknesses of the given product.",
+  "input": "This new e-bike promises powerful performance and intuitive controls.",
+  "output": "The new e-bike offers powerful performance, with a motor that is capable of taking you up steep slopes and over difficult terrain. The intuitive control scheme means that riders of all levels can use the bike with ease. However, the bike is quite expensive and the battery life is short, making it a less than ideal choice for longer rides.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

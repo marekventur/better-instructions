@@ -1,0 +1,12 @@
+{
+  "id": "69858f39-9188-45c3-806b-ce7040f2f043",
+  "instruction": "Calculate the full price.",
+  "input": "Product price is $5. Quanity is 2.",
+  "output": "The full price is $10.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

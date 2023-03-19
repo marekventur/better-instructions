@@ -1,0 +1,12 @@
+{
+  "id": "25f395b6-1fd6-4e56-858d-97e447087243",
+  "instruction": "Create a sample input for the task: Given a list of numbers, find the largest number",
+  "input": "[4, 12, 8, 14, 10]",
+  "output": "14",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

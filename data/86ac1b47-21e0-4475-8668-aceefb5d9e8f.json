@@ -1,0 +1,12 @@
+{
+  "id": "86ac1b47-21e0-4475-8668-aceefb5d9e8f",
+  "instruction": "Given a text, generate a series of facts related to the text.",
+  "input": "Abraham Lincoln was the 16th President of the United States.",
+  "output": "He assumed office on March 4th, 1861 and served until his assassination in April 1865. He was the first Republican President of the United States and led the country through its deadliest conflict - The American Civil War. He signed the Emancipation Proclamation which declared all enslaved people in the Confederacy to be forever free. He was also a highly skilled orator and a noted lawyer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

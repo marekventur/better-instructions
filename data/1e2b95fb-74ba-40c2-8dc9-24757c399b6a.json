@@ -1,0 +1,12 @@
+{
+  "id": "1e2b95fb-74ba-40c2-8dc9-24757c399b6a",
+  "instruction": "Create a data structure for keeping track of customer orders.",
+  "input": "",
+  "output": "The customer orders data structure can consist of a customer record containing the customer's name, address, contact information and a list of orders associated with that customer. An Order record can contain the order id, product id, product description, quantity and other related information.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

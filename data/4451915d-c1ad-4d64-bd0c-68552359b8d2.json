@@ -1,0 +1,12 @@
+{
+  "id": "4451915d-c1ad-4d64-bd0c-68552359b8d2",
+  "instruction": "Add appropriate punctuation to the sentence given below.",
+  "input": "Mitchell told me he was late",
+  "output": "Mitchell told me, \"He was late.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

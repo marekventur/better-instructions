@@ -1,0 +1,12 @@
+{
+  "id": "52ba8c7b-5be4-464f-851b-c0c16b37816c",
+  "instruction": "Identify the antecedent for the given pronoun\nHe played catch with it.",
+  "input": "",
+  "output": "He played catch with it. \n\nThe antecedent for the pronoun \"it\" is \"catch\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

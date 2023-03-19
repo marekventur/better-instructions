@@ -1,0 +1,12 @@
+{
+  "id": "541c26a4-5376-421c-9068-9121d6bce38b",
+  "instruction": "Relate the given text to the topic of Artificial Intelligence",
+  "input": "The human brain is composed of billions of neurons, each of which are connected to thousands of other neurons.",
+  "output": "Artificial Intelligence aims to replicate the complexity of the human brain by utilizing algorithms and neural networks that are composed of millions or even billions of interconnected nodes. These nodes are designed to simulate the behavior of neurons and enable AI systems to learn from large amounts of data in order to make decisions and complete complex tasks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

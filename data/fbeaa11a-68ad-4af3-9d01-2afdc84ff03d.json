@@ -1,0 +1,12 @@
+{
+  "id": "fbeaa11a-68ad-4af3-9d01-2afdc84ff03d",
+  "instruction": "Given the table, extract the number shown in the PORTIA column",
+  "input": "TUXA      | PORTIA |\n12187     | 225    |\n16922     | 238    |\n12899     | 440    |",
+  "output": "225, 238, 440",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

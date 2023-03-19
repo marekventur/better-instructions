@@ -1,0 +1,12 @@
+{
+  "id": "041e545f-4939-4594-8953-669d4dcf97ab",
+  "instruction": "Generate a valid JSON object for the following data expressed in natural language.",
+  "input": "The article contains three parts. Part 1 is about the history of the subject, Part 2 is about its present applications, and Part 3 is about its future potential.",
+  "output": "{\n \"article\": {\n   \"parts\": [\n     {\"name\": \"Part 1\", \"content\": \"History\"},\n     {\"name\": \"Part 2\", \"content\": \"Present Applications\"}, \n     {\"name\": \"Part 3\", \"content\": \"Future Potential\"}\n   ] \n }\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

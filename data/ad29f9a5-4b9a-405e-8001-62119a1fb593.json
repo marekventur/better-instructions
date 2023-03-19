@@ -1,0 +1,12 @@
+{
+  "id": "ad29f9a5-4b9a-405e-8001-62119a1fb593",
+  "instruction": "Given a set of survey results, make a data visualization that summarizes the results.",
+  "input": "Survey results of the top 10 countries that people visit most.",
+  "output": "Create a bar graph to portray the top 10 countries that people visit the most. Have each bar represent the percentage of people that visit a particular country. Include a legend to label which each bar represents.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

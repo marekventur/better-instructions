@@ -1,0 +1,12 @@
+{
+  "id": "f182477b-1471-4f35-a124-d59c9311078f",
+  "instruction": "What is the most common shopping cart abandonment reason?",
+  "input": "",
+  "output": "The most common reason for shopping cart abandonment is the cost of a product. Studies show that 63% of shoppers abandon their carts due to the total cost being higher than expected. Other common reasons for abandonment include slow website speed, a lack of payment options, site design and user experience issues, shipping costs that are too high, customers being asked to create an account, and problems with checkout security.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

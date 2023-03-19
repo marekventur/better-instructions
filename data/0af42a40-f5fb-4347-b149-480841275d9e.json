@@ -1,0 +1,12 @@
+{
+  "id": "0af42a40-f5fb-4347-b149-480841275d9e",
+  "instruction": "Given two strings, output a string that combines the two strings into one sentence.",
+  "input": "This house\noverlooking the lake",
+  "output": "This house is overlooking the lake.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

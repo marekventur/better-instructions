@@ -1,0 +1,12 @@
+{
+  "id": "1f1845d5-041e-449a-9ed0-384475b7dfbe",
+  "instruction": "Analyze the given statement to identify the author's opinion.",
+  "input": "I think that students should be responsible for their own learning.",
+  "output": "The author believes that students should take responsibility for the process of their own learning.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

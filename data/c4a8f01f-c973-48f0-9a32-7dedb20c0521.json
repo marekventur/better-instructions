@@ -1,0 +1,12 @@
+{
+  "id": "c4a8f01f-c973-48f0-9a32-7dedb20c0521",
+  "instruction": "Check this text for spelling mistakes and correct them.",
+  "input": "My frends and I are going on a beach vacation togehter this summer.",
+  "output": "My friends and I are going on a beach vacation together this summer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ab07b31c-48e6-4405-ada6-d6f5bac0d46e",
+  "instruction": "Classify whether the content is appropriate for Children or not.",
+  "input": "They say Monica needs to grow up. She's 18 and probably thinks she's too cool for school. She dresses provocatively and talks back to her family.",
+  "output": "Not appropriate for children",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

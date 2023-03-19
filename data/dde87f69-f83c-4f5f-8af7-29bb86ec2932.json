@@ -1,0 +1,12 @@
+{
+  "id": "dde87f69-f83c-4f5f-8af7-29bb86ec2932",
+  "instruction": "Describe a process of using a GPT model to generate natural language text.",
+  "input": "",
+  "output": "A GPT model can be used to generate natural language text by feeding it a sequence of tokens and asking it to complete the sequence. The model will take the input tokens and use them to generate new tokens based on the current context of the sequence. This process is repeated for a certain number of tokens or until the model reaches a certain confidence threshold. The output of the model will be a sequence of tokens which can be combined to form natural language text.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

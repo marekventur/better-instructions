@@ -1,0 +1,12 @@
+{
+  "id": "3ba8a053-1b77-461f-aa95-7a7d68ea5f67",
+  "instruction": "Generate a sentence that is grammatical and meaningful using the following 8 words",
+  "input": "Healthy, Animals, Use, Outdoor, Areas, Year, Carefully, Monitor",
+  "output": "Carefully monitoring outdoor areas throughout the year can help ensure the health of animals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

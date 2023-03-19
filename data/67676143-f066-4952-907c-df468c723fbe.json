@@ -1,0 +1,12 @@
+{
+  "id": "67676143-f066-4952-907c-df468c723fbe",
+  "instruction": "Given a word, classify it as a noun, verb, adjective, or adverb.",
+  "input": "Quick",
+  "output": "Adjective",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

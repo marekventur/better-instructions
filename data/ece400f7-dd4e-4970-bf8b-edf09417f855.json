@@ -1,0 +1,12 @@
+{
+  "id": "ece400f7-dd4e-4970-bf8b-edf09417f855",
+  "instruction": "Identify the emotion in the following line of spoken dialogue.",
+  "input": "\"I'm so angry right now!\"",
+  "output": "The emotion in this line of dialogue is anger.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b7329382-95b3-4986-aba3-0929139c5013",
+  "instruction": "Create a HTML page with a table that has five cells.",
+  "input": "",
+  "output": "<html>\n <head>\n  <title>Table</title>\n </head>\n <body>\n  <table>\n   <tr>\n    <td>Cell 1</td>\n    <td>Cell 2</td>\n    <td>Cell 3</td>\n    <td>Cell 4</td>\n    <td>Cell 5</td>\n   </tr>\n  </table>\n </body>\n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5be898cc-81be-45b3-ae55-fefaa5a0ae14",
+  "instruction": "Create a list of 5 trends in AI development.",
+  "input": "",
+  "output": "Here are 5 trends in AI development: \n1. Automated Machine Learning: Automated machine learning is the process of automating the development and deployment of AI models.\n2. Edge Computing: Edge computing is the practice of deploying AI models to the edge of the network, such as on the device or in the cloud.\n3. Hybrid AI: Hybrid AI is the combination of both classical AI (such as rule-based systems) and deep learning approaches.\n4. Explainable AI: Explainable AI is the ability to explain the logic and rules of complex model decisions.\n5. Natural Language Processing: Natural language processing is the ability to interpret and process natural language inputs, such as speech and text.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

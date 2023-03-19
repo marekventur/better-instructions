@@ -1,0 +1,12 @@
+{
+  "id": "f0a694e3-375d-4edd-baa4-7b71515fc699",
+  "instruction": "List common signs of a virus infection.",
+  "input": "",
+  "output": "Common signs of a virus infection include: \n- Sluggish or sluggishness of the device\n- Unexpected shut down or restart of the device\n- Strange or unexpected error messages\n- Slower than usual internet connection\n- Unusual activities such as elevated internet traffic\n- Unusual pop-up windows\n- New programs that have been installed without the user's knowledge\n- Reduced storage space\n- Unresponsiveness of the device\n- Change in the browser settings\n- Change in the home page\n- Artifacts and odd files in the system",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

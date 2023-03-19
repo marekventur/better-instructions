@@ -1,0 +1,12 @@
+{
+  "id": "d79fe48a-fce8-48d9-a2a5-d5f4aceb07dc",
+  "instruction": "Describe how a basic computer virus works.",
+  "input": "",
+  "output": "A computer virus is a type of malicious software designed to propagate itself from one computer to another. The virus finds vulnerable targets and then replicates itself by inserting copies of its code into the target's files or system. Some viruses are benign, displaying messages or jokes but other viruses are created to disrupt the host computer\u2019s operations. Once executed, the virus can perform destructive activities such as corrupting files, stealing sensitive information or destroying the system.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

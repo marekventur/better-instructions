@@ -1,0 +1,12 @@
+{
+  "id": "5877186d-4829-4453-a67f-60ad0e8b6e64",
+  "instruction": "Sort this list of natural disasters from least to most dangerous:\n7. Earthquake, Flood, Hurricane, Tornado.",
+  "input": "",
+  "output": "Tornado, Hurricane, Earthquake, Flood (from least to most dangerous).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

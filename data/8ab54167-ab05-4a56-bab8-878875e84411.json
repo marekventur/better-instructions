@@ -1,0 +1,12 @@
+{
+  "id": "8ab54167-ab05-4a56-bab8-878875e84411",
+  "instruction": "In the given sentence, suggest synonyms of the given word",
+  "input": "Sentence: The colour purple is a vibrant hue.\nThe word: vibrant",
+  "output": "The colour purple is a vivacious, lively, and energetic hue.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

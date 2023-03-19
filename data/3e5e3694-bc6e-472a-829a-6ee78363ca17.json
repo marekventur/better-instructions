@@ -1,0 +1,12 @@
+{
+  "id": "3e5e3694-bc6e-472a-829a-6ee78363ca17",
+  "instruction": "Explain what is the difference between a deep learning model and a traditional machine learning model.",
+  "input": "",
+  "output": "The main difference between a deep learning model and a traditional machine learning model is that deep learning models can learn complex patterns in data or relationships between inputs and outputs. Traditional machine learning models, on the other hand, generally do not take into consideration these complex patterns and are reliant on hard-coded features. Deep learning models rely on neural networks with many layers of neurons and can better identify patterns and predictive relationships in data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "698d096b-15c1-4875-9125-5912c2484639",
+  "instruction": "Combine the given sentences into one sentence.",
+  "input": "I was late for work. I had to take my kids to school.",
+  "output": "I was late for work because I had to take my kids to school.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

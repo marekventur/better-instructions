@@ -1,0 +1,12 @@
+{
+  "id": "e8700c45-2668-42e4-a332-3662f79395cc",
+  "instruction": "Given a chemical reaction, write an equation for the reaction based on the given reactants and products.",
+  "input": "Reactants: aluminum + oxygen\nProducts: aluminum oxide",
+  "output": "Al + O2 \u2192 Al2O3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c965ccbb-bcec-41d8-8a46-8d5109124dee",
+  "instruction": "Explain in 100 words the concept of deep learning.",
+  "input": "",
+  "output": "Deep learning is a subset of Machine Learning, which utilizes a hierarchical structure of layers to process data. It is an AI technique that involves learning multiple levels of abstraction over time. Each layer performs further in-depth analysis of the data, allowing the model to discover and extract more complex patterns.\n\nThe network is trained by adjusting the weights of each layer if the output of the model does not match the desired outcome. This is done by optimizing a cost function, which is a measure of the error in the model. \n\nDeep Learning is primarily used in applications such as computer vision, natural language processing, and audio processing. It has revolutionized the way algorithms are built, as it allows machines to learn and improve from data just like humans do.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

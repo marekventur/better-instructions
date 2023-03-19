@@ -1,0 +1,12 @@
+{
+  "id": "841acb60-bf4a-4434-9957-97e1cbeb6200",
+  "instruction": "Break down the concepts of the given sentence into simpler terms.",
+  "input": "The flu vaccine provides immunity to the virus.",
+  "output": "The flu vaccine gives you protection against the virus by causing your body to create antibodies to fight off the virus. These antibodies help you to fight off the virus if you come into contact with it, so you won't get the flu if you are immunized.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

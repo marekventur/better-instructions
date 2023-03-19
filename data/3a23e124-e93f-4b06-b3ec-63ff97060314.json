@@ -1,0 +1,12 @@
+{
+  "id": "3a23e124-e93f-4b06-b3ec-63ff97060314",
+  "instruction": "Categorize the ships in \"Star Trek\" by type.",
+  "input": "",
+  "output": "- Starfleet vessels: USS Enterprise, USS Voyager, Defiant-class starship, Intrepid-class starship, Sentinel-class starship, Excelsior-class starship, Nebula-class starship, Sovereign-class starship\n- Alien vessels: Romulan Warbird, Klingon Bird of Prey, Cardassian Galor-class starship, Xindi Insectoid spaceship, Ferengi Marauder\u000b- Borg vessels: Borg cube, Borg sphere, Borg cylinder",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

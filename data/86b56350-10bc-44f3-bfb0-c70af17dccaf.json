@@ -1,0 +1,12 @@
+{
+  "id": "86b56350-10bc-44f3-bfb0-c70af17dccaf",
+  "instruction": "First categorize the following products as entry level, mid-level, or high-end.",
+  "input": "Apple watch series 5",
+  "output": "The Apple watch series 5 is a high-end product.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f58602ec-517a-496c-be1c-2c7f342d8524",
+  "instruction": "Reorder the sentences below to make a logical paragraph",
+  "input": "A) This task will generate an appropriate output.\nB) It is important to properly structure the output.\nC) The output should be provided in a logical sequence.",
+  "output": "C) The output should be provided in a logical sequence.\nB) It is important to properly structure the output.\nA) This task will generate an appropriate output.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

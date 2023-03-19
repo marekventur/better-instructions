@@ -1,0 +1,12 @@
+{
+  "id": "bad597e7-bd15-47b5-b0f3-8d9b639a1c42",
+  "instruction": "Categorize this product into the correct industry.",
+  "input": "The new AppPlatform will allow developers to design and publish mobile applications in just a few clicks.",
+  "output": "Software Industry",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

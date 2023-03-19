@@ -1,0 +1,12 @@
+{
+  "id": "54b5de9d-5e45-4c0b-b7ab-cb00d021e7a1",
+  "instruction": "Create a Jupyter Notebook to explore a dataset.",
+  "input": "housing_data.csv",
+  "output": "Create a new Jupyter Notebook with the following steps:\n1. Import the housing_data.csv and other required libraries.\n2. Use functions such as head, info, describe and/or distplot to explore the data.\n3. Use data cleaning functions or methods such as fillna, dropna, and/or replace to clean and prepare the data.\n4. Use transformation functions such as map, apply, and/or groupby to create new features and data points.\n5. Use plotting functions to visualize data insights.\n6. Develop predictive models to make predictions on the data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

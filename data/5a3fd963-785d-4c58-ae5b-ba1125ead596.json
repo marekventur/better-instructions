@@ -1,0 +1,12 @@
+{
+  "id": "5a3fd963-785d-4c58-ae5b-ba1125ead596",
+  "instruction": "Given a customer's purchase history, predict what product the customer is more likely purchase in the future.",
+  "input": "Recent purchases: apples, oranges, bananas, grapes",
+  "output": "Based on the customer's past purchases, they are likely to buy grapes in the future.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

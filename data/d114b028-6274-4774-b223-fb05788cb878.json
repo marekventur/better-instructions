@@ -1,0 +1,12 @@
+{
+  "id": "d114b028-6274-4774-b223-fb05788cb878",
+  "instruction": "Create an algorithm that sorts a given array in ascending order.",
+  "input": "[4, 5, 2, 1, 3]",
+  "output": "A sorting algorithm to sort an array A[0\u2026n-1] of n elements in ascending order:\n\n1. For i = 0 to n-2\n2. Set min = i\n3. For j = i+1 to n-1\n4.  If A[j] < A[min], set min = j\n5.  Exchange elements A[i] and A[min]\n6. End loop\n7. End loop",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

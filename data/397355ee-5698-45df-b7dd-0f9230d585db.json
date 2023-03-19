@@ -1,0 +1,12 @@
+{
+  "id": "397355ee-5698-45df-b7dd-0f9230d585db",
+  "instruction": "Given a sentence, identify the verb phrase.",
+  "input": "John had been running for six hours.",
+  "output": "had been running",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

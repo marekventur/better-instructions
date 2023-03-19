@@ -1,0 +1,12 @@
+{
+  "id": "2769e3df-e0a9-497f-b857-f73a9549fb5f",
+  "instruction": "Reverse the order of the sentences in this text.",
+  "input": "We should focus on reducing emissions. We can achieve this by conserving energy.",
+  "output": "We can achieve this by conserving energy. We should focus on reducing emissions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

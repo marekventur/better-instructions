@@ -1,0 +1,12 @@
+{
+  "id": "364e7e30-8ab8-45d9-880a-58af8f2ea399",
+  "instruction": "Given two strings, find if one string is a sub-sequence of the other.",
+  "input": "String 1: abcd\nString 2: abcde",
+  "output": "Yes, String 1 is a sub-sequence of String 2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

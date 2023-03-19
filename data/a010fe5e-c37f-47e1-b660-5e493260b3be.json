@@ -1,0 +1,12 @@
+{
+  "id": "a010fe5e-c37f-47e1-b660-5e493260b3be",
+  "instruction": "Create a new headline summarizing this article.",
+  "input": "Article: Researchers have developed a new method for measuring the complexity of deep neural networks and have used it to analyze common methods used to improve accuracy such as batch normalization and dropout.",
+  "output": "New Method for Measuring the Complexity of Deep Neural Networks Reveals Best Practices.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

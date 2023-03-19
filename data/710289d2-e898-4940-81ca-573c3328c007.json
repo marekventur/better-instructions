@@ -1,0 +1,12 @@
+{
+  "id": "710289d2-e898-4940-81ca-573c3328c007",
+  "instruction": "Process the following JSON data into a list of Python dictionaries.",
+  "input": "[\n    {\n        \"name\": \"John Doe\",\n        \"age\": 25,\n        \"location\": \"New York City\"\n     },\n     {\n        \"name\": \"Jane Doe\",\n        \"age\": 28,\n        \"location\": \"Los Angeles\"\n     }\n]",
+  "output": "[\n    {\"name\": \"John Doe\", \"age\": 25, \"location\": \"New York City\"},\n    {\"name\": \"Jane Doe\", \"age\": 28, \"location\": \"Los Angeles\"}\n]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1fcee1ad-0d42-402a-bae1-3da13080e21e",
+  "instruction": "Rewrite this recipe in correct grammar",
+  "input": "In a bowl mix a cup of sugar with a cup of melted butter and three eggs and one teaspoon of baking powder and a teaspoon of baking soda",
+  "output": "In a bowl, mix together one cup of sugar, one cup of melted butter, three eggs, one teaspoon of baking powder, and one teaspoon of baking soda.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

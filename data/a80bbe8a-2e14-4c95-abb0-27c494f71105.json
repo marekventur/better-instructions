@@ -1,0 +1,12 @@
+{
+  "id": "a80bbe8a-2e14-4c95-abb0-27c494f71105",
+  "instruction": "Extract the names of the people in the sentence and provide their occupation.",
+  "input": "John, Maria, and Jack are going to the movie theater.",
+  "output": "John -> Unknown\nMaria -> Unknown\nJack -> Unknown",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

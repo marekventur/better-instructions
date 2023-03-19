@@ -1,0 +1,12 @@
+{
+  "id": "18e0a34c-d161-49cd-8160-d79b63d02d7a",
+  "instruction": "Rank the following vacation destinations in ascending order",
+  "input": "Venice, Dubai, New York",
+  "output": "New York, Venice, Dubai",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

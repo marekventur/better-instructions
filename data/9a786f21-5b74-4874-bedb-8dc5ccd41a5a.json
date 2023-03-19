@@ -1,0 +1,12 @@
+{
+  "id": "9a786f21-5b74-4874-bedb-8dc5ccd41a5a",
+  "instruction": "Group the elements into sets of two.",
+  "input": "a, b, c, d, e, f",
+  "output": "[a, b], [c, d], [e, f]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

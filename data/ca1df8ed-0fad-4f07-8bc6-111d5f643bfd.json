@@ -1,0 +1,12 @@
+{
+  "id": "ca1df8ed-0fad-4f07-8bc6-111d5f643bfd",
+  "instruction": "Point out the errors in the following sentence: \u201cHe borrowed hers pencil.\u201d",
+  "input": "",
+  "output": "The sentence should read: \"He borrowed her pencil.\" (The possessive pronoun is incorrectly written.)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

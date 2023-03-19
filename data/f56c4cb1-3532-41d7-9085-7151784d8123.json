@@ -1,0 +1,12 @@
+{
+  "id": "f56c4cb1-3532-41d7-9085-7151784d8123",
+  "instruction": "Explain what a race condition is in a computer program.",
+  "input": "",
+  "output": "A race condition is a situation in which the output or result of a program is dependent on the timing or order of execution of certain parts of the program. It occurs when two or more threads or processes are reading or writing to the same resource, and the outcome of the program depends upon which thread finishes first. For example, if Thread A reads a value from memory, updates it, and then writes it back, while Thread B also reads the same value, updates it, then writes its own updated value, then both threads may be racing to write their new value first, resulting in an unexpected outcome for the program.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

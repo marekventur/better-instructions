@@ -1,0 +1,12 @@
+{
+  "id": "b9016dcc-32d1-433e-b5e5-f139ac272b60",
+  "instruction": "parse the following text and identify the nouns.",
+  "input": "Humans are unique creatures with many amazing abilities.",
+  "output": "Nouns in the text are: Humans, creatures, abilities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

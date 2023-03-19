@@ -1,0 +1,12 @@
+{
+  "id": "15ac04fd-d247-4572-abba-b732644c7c84",
+  "instruction": "Convert the given temperature from Celsius to Kelvin.",
+  "input": "25 C",
+  "output": "298.15K",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

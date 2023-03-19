@@ -1,0 +1,12 @@
+{
+  "id": "38bd6d64-d4e5-4244-86f9-88366f27c43c",
+  "instruction": "Work out the best response to the following interaction.",
+  "input": "Person 1: \"What do you want to do this weekend?\"",
+  "output": "Person 2: \"I thought it might be nice to go for a hike and enjoy the outdoors. What do you think?\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

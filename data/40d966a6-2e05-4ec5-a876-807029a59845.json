@@ -1,0 +1,12 @@
+{
+  "id": "40d966a6-2e05-4ec5-a876-807029a59845",
+  "instruction": "Summarize the main points in this article about demand and supply.",
+  "input": "https://www.investopedia.com/terms/d/demandandsupply.asp",
+  "output": "Demand and supply are the two main forces that shape the market economy. Demand refers to the amount of a product or service that consumers are willing to purchase at a given price, while supply is the quantity of the product or service that producers are willing to provide at that price. When demand is greater than supply, higher prices will arise in order to limit the amount of product demanded. However, if supply exceeds demand the price will go down, and the product will be viewed as more available and less desirable. Changes in the availability or desirability of a product or service can cause changes in the price of the product, leading to variability in the market economy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

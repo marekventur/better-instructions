@@ -1,0 +1,12 @@
+{
+  "id": "54139ba3-b5b7-4a5d-bcf1-8dcf97c806b1",
+  "instruction": "Edit the sentence as follows - keep the same meaning but make the sentence shorter.",
+  "input": "The athlete finished the race but was nonetheless discouraged by the result.",
+  "output": "The athlete finished the race, but was disappointed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

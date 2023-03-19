@@ -1,0 +1,12 @@
+{
+  "id": "a4160b1e-fcb8-4cd1-bcd8-9d2b346b520f",
+  "instruction": "Calculate the sum of the first 100 positive integers and explain the process in 4 sentences",
+  "input": "",
+  "output": "The sum of the first 100 positive integers is 5050. This can be calculated by making use of the arithmetic sequence formula for sum of n numbers, where n=100. The formula is Sn=n/2(a1+an), where a1 is 1 and an is 100. The sum is then equal to 5050.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

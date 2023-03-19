@@ -1,0 +1,12 @@
+{
+  "id": "f34f663d-95bd-410b-a5de-8b3786ed09cb",
+  "instruction": "Guess the type of relationship between the parties given the following phrases.",
+  "input": "They met last week, but talked for hours.",
+  "output": "Friends",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

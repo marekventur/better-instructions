@@ -1,0 +1,12 @@
+{
+  "id": "396889fd-9399-432e-9589-055aac04aea6",
+  "instruction": "Separate the following sentence into its components.",
+  "input": "He went to the park to play with the dog.",
+  "output": "Subject: He\nVerb: went\nObject: to the park\nVerb: to play\nObject: with the dog.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

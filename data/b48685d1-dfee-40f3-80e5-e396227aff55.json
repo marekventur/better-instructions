@@ -1,0 +1,12 @@
+{
+  "id": "b48685d1-dfee-40f3-80e5-e396227aff55",
+  "instruction": "Recognize the named entity in the sentence and output the named entity.",
+  "input": "He is going to the store at Berkeley tonight.",
+  "output": "Berkeley",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a9d3a000-2fb3-4eab-9f86-05df7c281cc0",
+  "instruction": "Generate a 3 by 3 grid of random numbers between 0 and 9.",
+  "input": "",
+  "output": "6 5 2 \n0 7 4 \n3 8 9",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

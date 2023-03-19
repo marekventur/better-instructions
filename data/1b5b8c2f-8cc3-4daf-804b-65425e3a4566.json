@@ -1,0 +1,12 @@
+{
+  "id": "1b5b8c2f-8cc3-4daf-804b-65425e3a4566",
+  "instruction": "Assign a category to the given list of words.",
+  "input": "food, furniture, books",
+  "output": "The given list of words belong to the category of items commonly found in a retail store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

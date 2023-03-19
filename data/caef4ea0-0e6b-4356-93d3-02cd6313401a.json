@@ -1,0 +1,12 @@
+{
+  "id": "caef4ea0-0e6b-4356-93d3-02cd6313401a",
+  "instruction": "Summarize the events of a recent news article.",
+  "input": "https://www.nytimes.com/aponline/2020/10/29/us/ap-us-minneapolis-police-shooting.html",
+  "output": "Recently, the trial of a former Minneapolis police officer, Derek Chauvin, began. Chauvin is charged with second-degree murder and manslaughter for the death of George Floyd, an unarmed man who died in May after Chauvin knelt on Floyd\u2019s neck for more than nine minutes. Witnesses testified on the first day of trial. The prosecution stated that Chauvin used excessive force in violation of police policy, while the defense argued that Chauvin acted in accordance with his training.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

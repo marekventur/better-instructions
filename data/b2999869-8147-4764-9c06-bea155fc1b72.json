@@ -1,0 +1,12 @@
+{
+  "id": "b2999869-8147-4764-9c06-bea155fc1b72",
+  "instruction": "Analyze the following sentence for Parts of Speech (POS).",
+  "input": "She went to the shop.",
+  "output": "She - Pronoun \nwent - Verb \nto - Preposition \nthe - Determiner \nshop - Noun",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

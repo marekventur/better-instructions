@@ -1,0 +1,12 @@
+{
+  "id": "251ffe9e-a313-4616-a4f8-003082f09cee",
+  "instruction": "Construct an SQL query to retrieve the customer identification and first name of customers who are younger than 30.",
+  "input": "",
+  "output": "SELECT CustomerID, FirstName FROM customers WHERE Age <30;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

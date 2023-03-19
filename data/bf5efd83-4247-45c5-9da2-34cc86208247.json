@@ -1,0 +1,12 @@
+{
+  "id": "bf5efd83-4247-45c5-9da2-34cc86208247",
+  "instruction": "Given a recipe, suggest a few variations to the recipe and their ingredients.",
+  "input": "Potatoes au Gratin\nIngredients:\n- 2lbs potatoes\n- 1 onion\n- 2 cloves garlic\n- 6 tablespoons butter\n- 1 teaspoon thyme\n- 1 cup heavy cream\n- 1 cup freshly grated parmesan cheese\n- Salt and pepper",
+  "output": "Variation 1: \nReplace the potatoes with sweet potatoes, replace the onion with leeks, replace the butter with olive oil, and replace the thyme with rosemary.  \n\nVariation 2:\nReplace the potatoes with cauliflower, replace the onion with shallots, replace the butter with ghee, and replace the thyme with oregano. \n\nVariation 3:\nReplace the potatoes with butternut squash, replace the onion with scallions, replace the butter with vegan butter, and replace the thyme with sage.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

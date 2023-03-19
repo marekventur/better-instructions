@@ -1,0 +1,12 @@
+{
+  "id": "dbf5ced9-969a-45fb-b30e-1082ab581d7a",
+  "instruction": "Construct a visual timeline of the given historical events.",
+  "input": "Events: The Civil War, The Reformation, The Industrial Revolution, World War I",
+  "output": "Visual timeline: \n| Year |                                 Event                                 |\n|----:|:----------------------------------------------------------------------:|\n| 1517 |                         The Reformation                               |\n| 1750 |                      The Industrial Revolution                        |\n| 1861 |                            The Civil War                              |\n| 1914 |                           World War I                                 |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

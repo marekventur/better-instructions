@@ -1,0 +1,12 @@
+{
+  "id": "0f495545-f88e-4a93-8826-e337c9fb21e6",
+  "instruction": "Create a timeline which summarises the events mentioned in this text",
+  "input": "Explorers have been travelling to the Antarctic since the early 1900s. Shackleton was the first to cross the continent in 1914, but the colonial powers - Argentina, Chile and Great Britain - established their presence there in 1904.",
+  "output": "- 1904: Argentina, Chile and Great Britain establish their presence in the Antarctic\n- 1914: Shackleton becomes the first to cross the continent",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

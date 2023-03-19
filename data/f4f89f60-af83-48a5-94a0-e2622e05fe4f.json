@@ -1,0 +1,12 @@
+{
+  "id": "f4f89f60-af83-48a5-94a0-e2622e05fe4f",
+  "instruction": "Create a flow chart to illustrate the process for filing taxes.",
+  "input": "",
+  "output": "[Flow Chart] \nStart --> Collect documents : Income, Expenses, W2s, etc. --> Submit the documents --> Calculate the taxes --> Pay the taxes --> File the taxes --> End",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

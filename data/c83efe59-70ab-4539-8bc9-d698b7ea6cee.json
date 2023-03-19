@@ -1,0 +1,12 @@
+{
+  "id": "c83efe59-70ab-4539-8bc9-d698b7ea6cee",
+  "instruction": "Summarize the following article",
+  "input": "https://www.nytimes.com/2010/07/05/business/global/05phone.html",
+  "output": "This article discusses mobile phones and their unprecedented influence on different aspects of the global economy. After analyzing data from several countries, the article found that mobile phones have enabled economic growth, improved access to financial services, and created a platform for innovation. Mobile phones have also helped reduce poverty and corruption, and have opened the door for new business models.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

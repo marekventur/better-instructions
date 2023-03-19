@@ -1,0 +1,12 @@
+{
+  "id": "c6518b93-df5f-4ff8-b1e7-2922969c88a3",
+  "instruction": "Parse this sentence into its parts of speech.",
+  "input": "Most people travel on vacation in the summer.",
+  "output": "Most (adjective) people (noun) travel (verb) on (preposition) vacation (noun) in (preposition) the (determiner) summer (noun).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

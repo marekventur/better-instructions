@@ -1,0 +1,12 @@
+{
+  "id": "dae25661-0ac9-480f-9d2c-c37c366f4c59",
+  "instruction": "Provide an output response for the instruction \u201cIdentify the type of transportation in the following paragraph.",
+  "input": "Jack rode his bicycle to school every day. He only had to ride a few blocks, but it was a pleasant journey.",
+  "output": "The type of transportation used in the paragraph is a bicycle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

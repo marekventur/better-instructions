@@ -1,0 +1,12 @@
+{
+  "id": "4b9c2604-e7d1-4124-a511-dda4c813bcb9",
+  "instruction": "Translate a sentence from one language to another.",
+  "input": "Sentence: Je veux aller \u00e0 la plage.\nLanguage: Spanish",
+  "output": "Quiero ir a la playa.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

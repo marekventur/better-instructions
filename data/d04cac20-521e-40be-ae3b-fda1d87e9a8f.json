@@ -1,0 +1,12 @@
+{
+  "id": "d04cac20-521e-40be-ae3b-fda1d87e9a8f",
+  "instruction": "Generate a list of all the words in the sentence except the conjunctions.",
+  "input": "John and I were having lunch together.",
+  "output": "John, I, were, having, lunch, together.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "08281e74-cc8c-410d-be90-ee90b4cb72a3",
+  "instruction": "Choose what synonym best replaces the bolded word.",
+  "input": "He deliberately withheld information from his partner.\n\n(A) dismissed   (B) concealed   (C) sought   (D) examined",
+  "output": "B) concealed",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "74b67a88-d190-4fda-9622-24cfa7c39ba2",
+  "instruction": "Classify the sentiment of a conversation snippet.",
+  "input": "\"That was a great dinner. Let's do it again some time!\"",
+  "output": "Positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

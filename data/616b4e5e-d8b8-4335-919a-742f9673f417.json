@@ -1,0 +1,12 @@
+{
+  "id": "616b4e5e-d8b8-4335-919a-742f9673f417",
+  "instruction": "Classify the following immigration reforms as liberal or conservative policies.",
+  "input": "DACA",
+  "output": "DACA (Deferred Action for Childhood Arrivals) is a liberal immigration policy implemented in 2012 to protect immigrants who arrived in the United States as children from deportation. It provides temporary protection and work authorization to qualified individuals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

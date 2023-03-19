@@ -1,0 +1,12 @@
+{
+  "id": "160d959a-e827-44b9-9743-5053af362c52",
+  "instruction": "Given a list of candidate organizations, identify which one is a government agency.",
+  "input": "Red Cross, Microsoft, Central Intelligence Agency",
+  "output": "Central Intelligence Agency",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

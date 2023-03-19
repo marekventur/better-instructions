@@ -1,0 +1,12 @@
+{
+  "id": "1d4911bc-39af-482f-a65f-53b1f82c1854",
+  "instruction": "Rank the given list of countries from most populous to least populous.",
+  "input": "India, China, Mexico, Russia",
+  "output": "China, India, Russia, Mexico",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1614d911-f667-415d-8bb5-7a5c86e756c9",
+  "instruction": "Identify the shapes in the figure.",
+  "input": "![Figure](https://i.imgur.com/1YKCp9a.png)",
+  "output": "The figure contains a triangle, a rectangle, and a pentagon.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

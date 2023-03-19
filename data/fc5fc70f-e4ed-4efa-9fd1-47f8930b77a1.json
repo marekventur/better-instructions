@@ -1,0 +1,12 @@
+{
+  "id": "fc5fc70f-e4ed-4efa-9fd1-47f8930b77a1",
+  "instruction": "Given a dataset, generate a prediction about the market trend.",
+  "input": "Dataset: Sales of computer parts over the past 5 years",
+  "output": "Based on the given dataset, it is likely that the sales of computer parts will continue to increase in the next few years.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

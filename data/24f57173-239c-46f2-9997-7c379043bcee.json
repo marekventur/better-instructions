@@ -1,0 +1,12 @@
+{
+  "id": "24f57173-239c-46f2-9997-7c379043bcee",
+  "instruction": "Replace the words with synonyms to make this sentence more sophisticated.",
+  "input": "He ran quickly across the street.",
+  "output": "He sprinted hastily across the thoroughfare.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b2ce1211-6614-4633-8526-82cef855378d",
+  "instruction": "Write an algorithm to detect plagiarism.",
+  "input": "",
+  "output": "def detect_plagiarism(text):\n  # Step 1: Split text into individual words\n  text_words = text.split()\n  \n  # Step 2: Parse each word and compare to a database of words\n  for word in text_words:\n    if word in database:\n      # Step 3: If a word matches, check for a specified number of words after it\n      # Step 4: If a certain number of words are found in the same order, flag plagiarism\n      next_words = text_words[text_words.index(word)+1:text_words.index(word)+5]\n      if next_words == database[word]:\n        return \"Plagiarism detected\"\n\n  # Step 5: If no plagiarism detected, return \"No plagiarism detected\"\n  return \"No plagiarism detected\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

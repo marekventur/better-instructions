@@ -1,0 +1,12 @@
+{
+  "id": "1176c966-0f4d-4a9b-a4b6-6c892d896669",
+  "instruction": "Generate a comparison between the two given items.",
+  "input": "Lion and Tiger",
+  "output": "Both lions and tigers are members of the big cat family, and they share many similarities. However, they also have differences, such as the fact that lions live in groups called prides while tigers are solitary creatures. Tigers are also generally larger than lions and they have more powerful hind legs which they use for jumping and pouncing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a502b49f-fd11-4fdc-9a80-4d95571e3295",
+  "instruction": "Compare the following two programming languages: Java and Python.",
+  "input": "",
+  "output": "Java and Python are both object-oriented languages, but they have several key differences. Java is statically-typed, whereas Python is dynamically-typed. This means that Java requires more upfront setup with type declarations, but the compiler can enforce more restrictions on incorrect data. Python, on the other hand, requires fewer lines of code to accomplish the same tasks and offers more flexibility in code development. Java is a compiled language, whereas Python is interpreted, which affects the speed of code execution. Java is usually faster than Python but requires more storage space. In terms of readability, Java follows a more traditional coding style, whereas Python follows more of a natural language style which can make it easier to read.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

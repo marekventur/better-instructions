@@ -1,0 +1,12 @@
+{
+  "id": "d6f55a51-bccd-472e-9b4d-cecceea24a62",
+  "instruction": "Given an inspiring word, generate a poem that captures its essence.",
+  "input": "Courage",
+  "output": "The courage in our hearts lives on, \nNo matter what kind of darkness we face. \nIt gives us strength, it guides our path,  \nWe can conquer any challenge, no matter how great. \n \nCourage allows us to take leaps of faith,  \nUndaunted courage gives us our second wind,  \nWe know it won't be easy, yet we still begin, \nWe this courage in our souls, we will never waiver or bend.\n\nThrough courage, we find inner peace,  \nWe defy our doubts, we refuse to cease. \nNo matter what the cost, we won't give up,  \nEvoking courage helps us awaken, giving our faith a much needed lift.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

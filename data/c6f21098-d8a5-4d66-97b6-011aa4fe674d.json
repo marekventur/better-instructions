@@ -1,0 +1,12 @@
+{
+  "id": "c6f21098-d8a5-4d66-97b6-011aa4fe674d",
+  "instruction": "Rewrite the following group of sentences into a single sentence.",
+  "input": "Andrew was determined. He worked hard for success. He was rewarded for his efforts.",
+  "output": "Andrew was rewarded for his determination and hard work.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8e41a596-7997-42b8-8705-69b2502df443",
+  "instruction": "Change the numerical value in the sentence below.",
+  "input": "Jupiter is about 11 times the diameter of Earth.",
+  "output": "Jupiter is about 12 times the diameter of Earth.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

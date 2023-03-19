@@ -1,0 +1,12 @@
+{
+  "id": "fed30541-b68f-4def-9bdb-f644379a9ea5",
+  "instruction": "Summarize the article \"Home Automation - Benefits and Risks\".\nOutput a summary of the article in 4 sentences.",
+  "input": "",
+  "output": "Home automation is a rapidly growing technology that offers convenience and increased safety in homes. It often includes automation of temperature and lighting, surveillance, security systems and appliances. Many of the benefits include saving energy, increased safety and convenience, but there is a dark side that must be considered. Risks include vulnerability to data breaches and hacks, increased costs and an increased feeling of lack of privacy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

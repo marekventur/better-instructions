@@ -1,0 +1,12 @@
+{
+  "id": "5f96fc81-4eda-4f9a-ad0b-27ae273eabc8",
+  "instruction": "State the purpose of each of the following computer components: RAM, CPU, and Hard Drive.",
+  "input": "",
+  "output": "RAM (Random Access Memory): RAM is responsible for temporarily storing data and instructions for programs that are currently running. \n\nCPU (Central Processing Unit): The CPU is the brain of the computer and is responsible for interpreting and executing instructions from programs. \n\nHard Drive: Hard drives are responsible for storing data and information permanently.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

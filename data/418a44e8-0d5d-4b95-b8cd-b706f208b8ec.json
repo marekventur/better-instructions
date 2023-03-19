@@ -1,0 +1,12 @@
+{
+  "id": "418a44e8-0d5d-4b95-b8cd-b706f208b8ec",
+  "instruction": "Construct a regular expression that matches any date in the format of m/d/yyyy.",
+  "input": "",
+  "output": "^(0[1-9]|1[0-2])\\/(0[1-9]|[12][0-9]|3[01])\\/(19[0-9][0-9]|20[0-9][0-9])$",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

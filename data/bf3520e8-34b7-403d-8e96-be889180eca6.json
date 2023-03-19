@@ -1,0 +1,12 @@
+{
+  "id": "bf3520e8-34b7-403d-8e96-be889180eca6",
+  "instruction": "Classify this data point as either a cat or a dog.",
+  "input": "It has 4 legs and loves chasing laser pointers.",
+  "output": "This data point is a cat.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

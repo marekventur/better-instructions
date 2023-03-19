@@ -1,0 +1,12 @@
+{
+  "id": "ec835a07-7060-4ae1-89e8-1f8fc6b40900",
+  "instruction": "Choose the correct spelling from given options",
+  "input": "The correct spelling for the word 'seperate' is:\nA. seperat\nB. seperate\nC. seprate\nD. seperrate",
+  "output": "B. seperate",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

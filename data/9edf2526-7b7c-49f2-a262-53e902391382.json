@@ -1,0 +1,12 @@
+{
+  "id": "9edf2526-7b7c-49f2-a262-53e902391382",
+  "instruction": "Classify this sentence as grammatically correct or incorrect",
+  "input": "This sentence is incorrect",
+  "output": "Grammatically incorrect. The sentence should be \"This sentence is incorrect.\" with a period at the end.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

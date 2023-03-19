@@ -1,0 +1,12 @@
+{
+  "id": "9a7768fa-9ecd-4923-810f-40b4c7ec05fa",
+  "instruction": "Divide this list of sentences into two paragraphs.",
+  "input": "The sky is blue and sunny. The birds are chirping in the trees. The air is fresh and the grass is green.",
+  "output": "The sky is blue and sunny. The birds are chirping in the trees. \n\nThe air is fresh and the grass is green.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

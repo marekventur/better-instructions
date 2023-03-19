@@ -1,0 +1,12 @@
+{
+  "id": "edf3c52c-a0c0-4dac-9107-f29ffe6c32a8",
+  "instruction": "Describe how decision-making algorithms work.",
+  "input": "",
+  "output": "Decision-making algorithms are sets of instructions that a computer program uses to make decisions. These algorithms typically use data from multiple sources and then apply a specific set of instructions to process the data, such as comparing data points to predetermined parameters or using other decision-making techniques such as artificial intelligence or machine learning. The output of the decision-making algorithm is then used as input to other decision-making algorithms which are used to make higher-level decisions with increasing accuracy. Ultimately, the goal is to automate the decision-making process and provide the user with the best possible solution.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

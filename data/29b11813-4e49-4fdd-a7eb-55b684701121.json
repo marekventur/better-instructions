@@ -1,0 +1,12 @@
+{
+  "id": "29b11813-4e49-4fdd-a7eb-55b684701121",
+  "instruction": "Find five words that are related to the topic.",
+  "input": "Octopus",
+  "output": "Mollusk, Tentacle, Ink, Cephalopod, Underwater.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

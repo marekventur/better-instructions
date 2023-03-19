@@ -1,0 +1,12 @@
+{
+  "id": "77c20bf3-e8dc-4a54-bbfa-f291e7934b98",
+  "instruction": "Find the keyword in the following sentence: \"The elephant is beautiful.\"",
+  "input": "\"The elephant is beautiful.\"",
+  "output": "elephant",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

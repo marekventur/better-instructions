@@ -1,0 +1,12 @@
+{
+  "id": "cecc75be-7cc7-4147-9432-b3fd7947ba08",
+  "instruction": "Calculate the average word length in the given text.",
+  "input": "The genealogy of morality by Friedrich Nietzsche is a great book to start exploring the origins of morality.",
+  "output": "5.1429",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

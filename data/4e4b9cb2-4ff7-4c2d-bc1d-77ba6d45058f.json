@@ -1,0 +1,12 @@
+{
+  "id": "4e4b9cb2-4ff7-4c2d-bc1d-77ba6d45058f",
+  "instruction": "Create an experiment that evaluates a certain feature.",
+  "input": "The features of a new car",
+  "output": "In this experiment, five people will take a new car out for a test drive over a set course. Along the way, they will evaluate the car's features such as acceleration, speed, handling, and braking. At the end of the test, each participant will complete a survey about their experience, rating the performance of the car's various features.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

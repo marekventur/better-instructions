@@ -1,0 +1,12 @@
+{
+  "id": "06226ede-51df-4a8a-9774-86460712b712",
+  "instruction": "Given the name of a country, explain its geography.",
+  "input": "Australia",
+  "output": "Australia is a continent located in the southern hemisphere and is the world\u2019s sixth-largest country. It is bordered by the Indian and Pacific Oceans and is surrounded by the Arafura and Timor Seas. Australia is divided into six states and two territories, each of which has its own unique landscapes and ecosystems, ranging from wet tropical rainforests to snow-capped mountains and red deserts. The country is home to numerous native species, including kangaroos and koalas, as well as diverse ecosystems and natural resources.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4c9fdd12-9b3b-4b12-8a4a-2530bb5afcf3",
+  "instruction": "Given a musical artist, create a summary about their career.",
+  "input": "Beyonce",
+  "output": "Beyonc\u00e9 is a multi-platinum, Grammy Award-winning artist and entertainer. She rose to fame as the lead singer of the popular R&B group Destiny\u2019s Child, before launching her successful solo career in 2001. Her music genre is a mix of Pop, R&B, Hip-hop, Soul, and Reggae. She has released several acclaimed albums, including Dangerously in Love, B'Day, I Am... Sasha Fierce, and Lemonade. She has won 23 Grammy Awards, her most recent being Best R&B Performance for \u201cBlack Parade\u201d. Along with her music career, Beyonc\u00e9 has also been involved in acting, fashion, business, and philanthropy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

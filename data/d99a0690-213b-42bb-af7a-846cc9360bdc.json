@@ -1,0 +1,12 @@
+{
+  "id": "d99a0690-213b-42bb-af7a-846cc9360bdc",
+  "instruction": "Answer a FAQ about the product.",
+  "input": "What are the benefits/advantages of this product?",
+  "output": "This product offers many unique benefits and advantages. Firstly, it is highly customizable, allowing users to tailor its features for their specific needs and preferences. Additionally, it is extremely user-friendly and comes with an intuitive interface. It is also secure and has robust built-in security measures. Finally, this product comes with a great support team who are always available to answer any questions or concerns users might have.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "144ef44f-9e22-4b52-9ed0-fce4ed0aa42a",
+  "instruction": "Provide an appropriate response for declining the invitation.",
+  "input": "Hi [person name],\n\nI'm writing to ask you if you are happy to be a panelist of our workshop on multimodality at CVPR. The workshop will be held on June 20, 2023. \n\nBest,\n[my name]",
+  "output": "Thank you so much for considering me as panelist for your upcoming CVPR 2023 workshop on Multimodality. Unfortunately, I will be unavailable on the workshop's dates and must decline the invitation. I wish the workshop all the best.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

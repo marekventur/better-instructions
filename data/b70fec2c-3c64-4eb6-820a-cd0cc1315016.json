@@ -1,0 +1,12 @@
+{
+  "id": "b70fec2c-3c64-4eb6-820a-cd0cc1315016",
+  "instruction": "Given a quote, explain it in your own words.",
+  "input": "\"It's not what you look at that matters, it's what you see.\"",
+  "output": "This quote means that what is important is not the physical appearance of something, but rather the meaning or message behind it. It highlights the importance of having an open and aware mind when judging any situation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

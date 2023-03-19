@@ -1,0 +1,12 @@
+{
+  "id": "273538c4-5967-4d19-9fb4-d2b62a477e3d",
+  "instruction": "Compress the sentence by eliminating unnecessary words, and make it as short as possible.",
+  "input": "I have been studying English literature for the last three years.",
+  "output": "Studied English literature 3 years.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

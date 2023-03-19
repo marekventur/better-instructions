@@ -1,0 +1,12 @@
+{
+  "id": "3aa1b7a8-f50f-43ff-bc0b-b2554cdb7d60",
+  "instruction": "Describe the rules of chess.",
+  "input": "",
+  "output": "Chess is a two-player board game played on a checkered board with 64 squares arranged in an 8x8 grid. Each player has 16 pieces: one king, one queen, two rooks, two bishops, two knights, and eight pawns. The goal of the game is to checkmate the opponent's king by putting it in check and not allowing it to escape from check. A game is won when one player checkmates their opponent's king or when their opponent resigns. There are also many rules that must be followed during a game such as the rules regarding capturing pieces and the rules on castling.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

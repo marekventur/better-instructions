@@ -1,0 +1,12 @@
+{
+  "id": "0b13b73a-85f0-4818-9e69-399a32c531e9",
+  "instruction": "Convert the parameter value to a string.",
+  "input": "Parameter: 0",
+  "output": "str(0)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

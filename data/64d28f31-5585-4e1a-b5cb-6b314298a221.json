@@ -1,0 +1,12 @@
+{
+  "id": "64d28f31-5585-4e1a-b5cb-6b314298a221",
+  "instruction": "Convert this sentence into a question.",
+  "input": "I can access the website from my computer.",
+  "output": "Can I access the website from my computer?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

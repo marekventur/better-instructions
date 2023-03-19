@@ -1,0 +1,12 @@
+{
+  "id": "70550064-3187-4807-acfc-c180acbc3ce4",
+  "instruction": "Given a dialogue, identify whether the user is confused or not.",
+  "input": "- Agent: You can use this code to redeem the tickets\n- Customer: What code?",
+  "output": "Confused",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

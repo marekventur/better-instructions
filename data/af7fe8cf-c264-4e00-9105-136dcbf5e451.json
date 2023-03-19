@@ -1,0 +1,12 @@
+{
+  "id": "af7fe8cf-c264-4e00-9105-136dcbf5e451",
+  "instruction": "Normalize the date format in the sentence.",
+  "input": "The meeting is next thursday.",
+  "output": "The meeting is next Thursday, 15th April 2021.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

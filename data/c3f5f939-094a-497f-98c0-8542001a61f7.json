@@ -1,0 +1,12 @@
+{
+  "id": "c3f5f939-094a-497f-98c0-8542001a61f7",
+  "instruction": "Construct an SQL query to order customers by their first and last name.",
+  "input": "",
+  "output": "SELECT * FROM customers ORDER BY first_name, last_name",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

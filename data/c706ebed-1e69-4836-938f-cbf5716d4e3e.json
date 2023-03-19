@@ -1,0 +1,12 @@
+{
+  "id": "c706ebed-1e69-4836-938f-cbf5716d4e3e",
+  "instruction": "Transform the input text into the present perfect tense.",
+  "input": "I finish my homework",
+  "output": "I have finished my homework.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

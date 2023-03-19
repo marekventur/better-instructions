@@ -1,0 +1,12 @@
+{
+  "id": "27e12b71-13f9-4564-8fd2-b3c28fe38bc2",
+  "instruction": "Given two sentences and a connecting word, write a compound sentence.",
+  "input": "He visited his parents. He enjoyed the weekend. Connecting Word: and",
+  "output": "He visited his parents and enjoyed the weekend.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

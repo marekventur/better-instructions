@@ -1,0 +1,12 @@
+{
+  "id": "2a1a434d-4f2c-4276-87af-df9a11486b8d",
+  "instruction": "Create a trip itinerary for a weekend in Paris.",
+  "input": "",
+  "output": "Friday: \n - Arrive in the afternoon and check into a hotel\n - Visit the Louvre Museum and explore the collections\n - Enjoy a traditional French dinner in the Latin Quarter\n \nSaturday:\n - Start the day with a boat tour on the Seine River\n - Visit Notre Dame Cathedral and the surrounding area\n - Enjoy a picnic lunch at the Palais-Royal Garden\n - Take an evening walk along the Champs-\u00c9lys\u00e9es\n \nSunday:\n - Spend the morning exploring the grounds of the Eiffel Tower\n - Have lunch at a cozy cafe in the Marais district\n - Visit the Louvre Museum a second time to take another look\n - Check out of hotel in the afternoon and prepare for departure",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

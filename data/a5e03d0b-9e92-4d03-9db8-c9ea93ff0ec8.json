@@ -1,0 +1,12 @@
+{
+  "id": "a5e03d0b-9e92-4d03-9db8-c9ea93ff0ec8",
+  "instruction": "Create 4 example questions for a trivia game about space exploration",
+  "input": "",
+  "output": "1. What was the first United States spacecraft to leave earth's orbit?\n2. Which is the earliest spacecraft to travel beyond the asteroid belt?\n3. What year was the first satellite, Sputnik 1, launched into orbit?\n4. Which space exploration mission sent two rovers to explore the surface of Mars?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

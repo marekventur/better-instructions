@@ -1,0 +1,12 @@
+{
+  "id": "8cb7fccf-208c-477d-8f92-8391cd6d8fae",
+  "instruction": "Describe the difference between the terms variance and standard deviation.",
+  "input": "",
+  "output": "The difference between the terms variance and standard deviation is that variance measures the spread of data points around their mean while standard deviation measures the amount of variation or dispersion from the mean. Variance is the average of the squared difference from the mean and is represented as a squared quantity, whereas standard deviation is the square root of variance and is represented as the same unit as that of the data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

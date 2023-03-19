@@ -1,0 +1,12 @@
+{
+  "id": "0d52d228-121d-47bd-a01a-f80d4a0cabe1",
+  "instruction": "Now re-write the same sentence using fewer words.",
+  "input": "The World Wildlife Fund (WWF) is an international organization committed to conservation of the world's natural resources, wildlife and ecosystems.",
+  "output": "WWF is an international nature conservation group. It aims to protect our world's resources, wildlife, and ecosystems.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "afed440d-b9b7-4457-a85d-780437d0a989",
+  "instruction": "Write a script for a customer talking to a customer support representative.",
+  "input": "The customer needs help setting up their printer.",
+  "output": "Customer: Hi, I'm having trouble setting up my printer. Is there someone who can help me?\n\nCustomer Support Representative: Absolutely! Can you tell me what kind of printer you have? \n\nCustomer: It's a XYZ brand. \n\nCustomer Support Representative: Okay, let me see if I can help you out. Can you tell me what's happening when you try to set up your printer?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

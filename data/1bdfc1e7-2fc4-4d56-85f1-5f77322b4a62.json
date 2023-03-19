@@ -1,0 +1,12 @@
+{
+  "id": "1bdfc1e7-2fc4-4d56-85f1-5f77322b4a62",
+  "instruction": "Think of some improvement ideas for a movie review website",
+  "input": "",
+  "output": "Improvement ideas for a movie review website:\n1. Make it easier to find reviews; add search filters that allow users to think of relevant reviews based on genre, rating, and year of release.\n2. Allow reviews to be personalized; this could include allowing users to mark the reviews they liked and dislike, and then personalizing the reviews they see based on those interests.\n3. Make it easier to write reviews; create a template that prompts users to answer key questions and rate their experience with the movie.\n4. Allow users to interact with reviews; add an interactive feature that allows users to comment on reviews and give their perspective.\n5. Add an aggregate rating system; incorporate an overall user rating system to give users a sense of the general opinion of the movie.\n6. Add additional content; add photos, audios, and videos from the movie and related material to give users a more in-depth experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

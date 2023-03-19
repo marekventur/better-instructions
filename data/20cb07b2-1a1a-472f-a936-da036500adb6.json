@@ -1,0 +1,12 @@
+{
+  "id": "20cb07b2-1a1a-472f-a936-da036500adb6",
+  "instruction": "Generate 3 questions that help to decide the priority of the given task.",
+  "input": "The task is to develop a new prototype for a medical device.",
+  "output": "1. What resources do we need in order to complete the prototype development? \n2. What is the timeline for completion of the prototype development?\n3. What is the estimated budget for the development of the prototype?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

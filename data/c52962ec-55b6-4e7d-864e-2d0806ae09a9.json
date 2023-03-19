@@ -1,0 +1,12 @@
+{
+  "id": "c52962ec-55b6-4e7d-864e-2d0806ae09a9",
+  "instruction": "Take the given sentence and transform it into a haiku.",
+  "input": "The cold winds are blowing.",
+  "output": "Winter chill cuts deep,\nFreezing the bones within, \nThe cold winds are blowing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

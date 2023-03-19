@@ -1,0 +1,12 @@
+{
+  "id": "51d87afc-f40c-4d87-9b69-13d1493fed9e",
+  "instruction": "Create a function to round a number to two decimal places.",
+  "input": "14.659",
+  "output": "def round_to_two_decimal(num):\n    return round(num, 2)\n\nprint(round_to_two_decimal(14.659)) # Output: 14.66",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

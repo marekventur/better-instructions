@@ -1,0 +1,12 @@
+{
+  "id": "b3605d33-6126-455e-8f93-4cdb7da67792",
+  "instruction": "Predict the popularity of this new product",
+  "input": "New product: A watch that tracks sleep quality",
+  "output": "The popularity of this new product is likely to be high due to its ability to track sleep quality. With people becoming increasingly aware of the importance of getting enough good quality sleep, this watch offers an easy and convenient way for people to monitor and improve their sleep habits. Additionally, the watch combines tracking technology with a stylish design, which appeals to a wide range of consumers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

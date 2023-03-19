@@ -1,0 +1,12 @@
+{
+  "id": "9cfff64c-77fb-49dd-b3fa-8a699538581d",
+  "instruction": "Given the following list of numbers, sort them in ascending order: 2, 9, 5, 4",
+  "input": "",
+  "output": "2, 4, 5, 9",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

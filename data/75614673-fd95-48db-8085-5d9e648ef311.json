@@ -1,0 +1,12 @@
+{
+  "id": "75614673-fd95-48db-8085-5d9e648ef311",
+  "instruction": "Edit the given sentence to make sure it conforms to academic writing standards.",
+  "input": "I believe that internet addiction needs to be taken seriously, its very real",
+  "output": "I believe that Internet addiction needs to be taken seriously; it is very real.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

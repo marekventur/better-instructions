@@ -1,0 +1,12 @@
+{
+  "id": "44ed49a8-a453-41b7-8d7e-f08ed9182735",
+  "instruction": "List the elements of the periodic table in the order of increasing atomic number.",
+  "input": "",
+  "output": "Hydrogen, helium, lithium, beryllium, boron, carbon, nitrogen, oxygen, fluorine, neon, sodium, magnesium, aluminum, silicon, phosphorus, sulfur, chlorine, argon, potassium, calcium.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

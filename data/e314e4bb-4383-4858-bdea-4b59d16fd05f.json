@@ -1,0 +1,12 @@
+{
+  "id": "e314e4bb-4383-4858-bdea-4b59d16fd05f",
+  "instruction": "Compare and contrast two different approaches to machine learning.",
+  "input": "",
+  "output": "Supervised learning and unsupervised learning are two main approaches to machine learning.  Supervised learning requires labeled data and consists of algorithms that can learn to make predictions from the existing data set. In contrast, unsupervised learning does not require labeled data and consists of algorithms that can find patterns and insights without human intervention.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

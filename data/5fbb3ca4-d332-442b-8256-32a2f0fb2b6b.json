@@ -1,0 +1,12 @@
+{
+  "id": "5fbb3ca4-d332-442b-8256-32a2f0fb2b6b",
+  "instruction": "From the list below, find all unique integers.",
+  "input": "[3.14, 6, 2, 8, 9, 8, 2]",
+  "output": "[3.14, 6, 8, 9]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

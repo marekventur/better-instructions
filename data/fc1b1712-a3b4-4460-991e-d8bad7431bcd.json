@@ -1,0 +1,12 @@
+{
+  "id": "fc1b1712-a3b4-4460-991e-d8bad7431bcd",
+  "instruction": "Given the following input, provide the output that meets the following requirement: the output should be a description of the animal that includes 5 key traits",
+  "input": "Hippopotamus",
+  "output": "The hippopotamus is a large, semi-aquatic mammal found in Africa. It is the third-largest land mammal, weighing up to 4,500 kg. It has a bulky body, short legs, stubby tail, and large head with massive jaws. Its most recognizable feature is its thick, grayish-brown skin that is covered in white spots and blotches. The hippopotamus is an herbivore and spends most of its time in water, where it feeds on aquatic plants and grasses.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

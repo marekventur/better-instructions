@@ -1,0 +1,12 @@
+{
+  "id": "a8e419a6-180d-4e2d-ad05-a3cea9f8d73f",
+  "instruction": "Analyze the given article to identify the main points.",
+  "input": "The article is titled \"The Benefits of Working From Home\"\nThe Benefits of Working From Home\n\nWorking from home is quickly becoming the preferred option for many professionals for a wide range of reasons. For starters, not having to commute to a central office means more time for yourself, saving money as you don\u2019t have to buy food, outfits, and transportation to go to work. It\u2019s also a great way to stay home with your kids but still maintain your professional career, as well as the added convenience of the numerous digital platforms that allow for remote working.",
+  "output": "The primary points in the article \"The Benefits of Working From Home\" can be summarized as follows:\n- Working from home provides more time and may save money as there is no need to purchase food, clothes, and transportation to work. \n- It is also a great option for parents who want to stay at home with their kids and still keep their professional career.\n- Remote working is made possible by the numerous digital platforms that allow for remote working.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

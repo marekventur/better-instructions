@@ -1,0 +1,12 @@
+{
+  "id": "e5e9c266-d2ca-487b-b0d7-513d62714925",
+  "instruction": "Analyze the lyrics and explain the message of the song",
+  "input": "Lyrics of the song: \"This world can be a better place, If everyone just found their place. All of us have something to give, And it's only together we can live.\"",
+  "output": "This song is speaking to the need for cooperation and unity between people. It suggests that if everyone was able to find their place, their purpose, and contribute their individual skills, the world could be a better place. The lyrics go on to emphasize the importance of collective action and working together to achieve a better future.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

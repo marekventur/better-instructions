@@ -1,0 +1,12 @@
+{
+  "id": "436a497a-e363-4b39-83ca-66dd448a83c7",
+  "instruction": "Given a Twitter handle, identify what type of content the user is posting.",
+  "input": "@realDonaldTrump",
+  "output": "The user @realDonaldTrump is primarily posting political content.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

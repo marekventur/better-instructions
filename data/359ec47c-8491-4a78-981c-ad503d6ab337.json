@@ -1,0 +1,12 @@
+{
+  "id": "359ec47c-8491-4a78-981c-ad503d6ab337",
+  "instruction": "Describe the artistic style of the painting below.",
+  "input": "![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Monet%2C_Claud%C3%A9_-_Le_Matin_%28Banks_of_the_Seine%29.jpg/220px-Monet%2C_Claud%C3%A9_-_Le_Matin_%28Banks_of_the_Seine%29.jpg)",
+  "output": "The painting features a soft, impressionist style, with muted, light colors and a blurred focus. Visible brushstrokes give an ethereal quality to the work, with the sun's reflections on the water adding an element of light and movement. The scene is peaceful, with a sense of tranquility, and the viewer is drawn into the landscape for a calming effect.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4bbb83b8-9e5e-4564-a762-2506e5fe82d7",
+  "instruction": "Summarize the main idea of the following article in one sentence.",
+  "input": "The question of when self-driving cars will be available on the market has been up for debate. Some say as soon as next year, while others think that it may be much further off. There are several factors that will affect when self-driving cars will be available, including economic considerations, technological feasibility, and social acceptance.",
+  "output": "The availability of self-driving cars will depend on economic and technological factors, as well as the level of social acceptance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "09985461-cc14-4410-857b-c97ecafbb5b7",
+  "instruction": "Add a transition word to this sentence.",
+  "input": "She started to worry.",
+  "output": "Meanwhile, she started to worry.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d5b84dce-1461-448c-a826-3b433d05a005",
+  "instruction": "Explain the principle of Diophantine equations",
+  "input": "",
+  "output": "Diophantine equations are equations with integer solutions. The principle of Diophantine equations states that if an integer solution is found, any linear combination of the integer solutions will also give a valid solution. This means the equation has infinitely many solutions, provided that an integer solution is found. This principle is widely used in number theory, cryptography, and other disciplines.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

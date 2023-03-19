@@ -1,0 +1,12 @@
+{
+  "id": "14aa27db-4fc8-4fb3-bbf5-f989f882c31a",
+  "instruction": "Classify the following word into a category.",
+  "input": "Tractor",
+  "output": "Tractor is a piece of agricultural machinery used for performing various tasks such as harvesting, tilling, hauling, etc.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

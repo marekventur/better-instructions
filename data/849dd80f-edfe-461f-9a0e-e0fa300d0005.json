@@ -1,0 +1,12 @@
+{
+  "id": "849dd80f-edfe-461f-9a0e-e0fa300d0005",
+  "instruction": "Parse the HTML page and return the title of the page.",
+  "input": "<html>\n  <head>\n    <title>My web page</title>\n  </head>\n  <body>\n    <p>This is my web page.</p>\n  </body>\n</html>",
+  "output": "My web page",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "668a9eb5-9f8f-4be7-b592-9d4242e5c9ab",
+  "instruction": "Write a function to calculate the root mean squared error (RMSE).",
+  "input": "",
+  "output": "def rmse(actual_values, predicted_values):\n    \"\"\"\n    Function to calculate the root mean squared error (RMSE)\n    \"\"\"\n    #initializing the RMSE to 0\n    rmse = 0\n    # calculating RMSE\n    for i in range(len(actual_values)):\n        rmse += (pow(float(actual_values[i]) - float(predicted_values[i]), 2))\n    rmse /= len(actual_values)\n    rmse = pow(rmse, 0.5)\n    return rmse",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

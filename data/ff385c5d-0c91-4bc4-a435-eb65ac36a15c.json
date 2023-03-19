@@ -1,0 +1,12 @@
+{
+  "id": "ff385c5d-0c91-4bc4-a435-eb65ac36a15c",
+  "instruction": "Write some commands to enter the following directory:",
+  "input": "~/Documents/Music",
+  "output": "cd ~/Documents/Music or\n\ncd Documents/Music (if you are already in the ~/ directory)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

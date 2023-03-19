@@ -1,0 +1,12 @@
+{
+  "id": "7fa87f9d-00a3-4863-a43f-fd90e88a459c",
+  "instruction": "Given an input sentence, delete the redundant words and rewrite it.",
+  "input": "This project is the biggest single largest project ever.",
+  "output": "This project is the biggest ever.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

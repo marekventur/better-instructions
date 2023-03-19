@@ -1,0 +1,12 @@
+{
+  "id": "191f6a1e-1380-4a97-ae20-8ad22a6c99cd",
+  "instruction": "Give a solution to the following puzzle.",
+  "input": "You have three different stacks of coins. Each stack has at least one coin, and all coins in each stack are the same type.\n\nThe stacks look like this:\n\nStack 1: 1 cent \nStack 2: 5 cents\nStack 3: 11 cents\n\nYou must move only one coin to make the three stacks have the same value.",
+  "output": "Move the 1 cent coin from Stack 1 to Stack 3. That will make the three stacks have the same value (6 cents each).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

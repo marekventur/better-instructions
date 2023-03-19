@@ -1,0 +1,12 @@
+{
+  "id": "4de820dc-0ea0-4952-87f1-22c6e035c827",
+  "instruction": "Insert commas in the sentence to increase readability.",
+  "input": "The man eating the hot dog stopped to order french fries.",
+  "output": "The man, eating the hot dog, stopped to order french fries.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

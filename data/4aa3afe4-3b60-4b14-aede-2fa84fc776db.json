@@ -1,0 +1,12 @@
+{
+  "id": "4aa3afe4-3b60-4b14-aede-2fa84fc776db",
+  "instruction": "Identify the speaker's tone as positive, negative or neutral.",
+  "input": "\"This project is an important milestone for us and we should celebrate it!\"",
+  "output": "positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

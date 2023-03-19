@@ -1,0 +1,12 @@
+{
+  "id": "0bf29abf-4669-4900-a6a2-89dc8b879a4f",
+  "instruction": "Provide instructions for the assistant to generate a universal product code (UPC).",
+  "input": "",
+  "output": "Ask the assistant to generate a 12-digit unique code that is a combination of numbers and letters.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

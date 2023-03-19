@@ -1,0 +1,12 @@
+{
+  "id": "64d277bd-782a-4286-af99-5352a09e95ae",
+  "instruction": "Describe a process to deploy a web app using an Amazon EC2 instance.",
+  "input": "",
+  "output": "The process for deploying a web app on an Amazon EC2 instance involves several steps. First, you will need to create an Amazon account and set up an EC2 instance. Once the instance is created you will need to configure the instance with the necessary software and settings to run your web application. This includes installing any necessary packages, setting up the web server, and configuring the database. After the instance is ready, you can deploy your code by connecting to the EC2 instance via SSH and transferring the files. You will then need to configure the application and securely open the ports to external access. Finally, you will need to configure the DNS settings and then your web application should be ready to use.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

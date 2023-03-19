@@ -1,0 +1,12 @@
+{
+  "id": "26896a87-6811-46b0-8ba5-4b4ff029cc40",
+  "instruction": "Analyze the given text and classify according to its structure",
+  "input": "The apple is red and juicy.",
+  "output": "The given text is a simple sentence with a subject-verb-adjective structure.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

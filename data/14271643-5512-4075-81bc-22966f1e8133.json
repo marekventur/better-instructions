@@ -1,0 +1,12 @@
+{
+  "id": "14271643-5512-4075-81bc-22966f1e8133",
+  "instruction": "Classify this sentence into one of the following categories: sports, technology, food, fashion",
+  "input": "This new smartphone is equipped with a powerful processor.",
+  "output": "Technology",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

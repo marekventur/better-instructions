@@ -1,0 +1,12 @@
+{
+  "id": "404c427e-ee1e-45d0-a09b-fa79c2d3aca8",
+  "instruction": "Count the number of times a given word appears in a news article.",
+  "input": "Word: 'tech'\n\nThe tech industry has been going through a rapid growth in the past few years. Tech companies have seen tremendous success in developing innovative new products and features that have drastically changed the way people use technology.",
+  "output": "The word 'tech' appears 3 times in the article.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

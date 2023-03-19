@@ -1,0 +1,12 @@
+{
+  "id": "1c118368-109b-44ca-8550-df7fbcc0fba5",
+  "instruction": "Give me a detailed overview of the framework of a web service.",
+  "input": "",
+  "output": "A web service should be composed of several components: a client application, a set of API (application programming interface) to interact with the client, a database to store data, a server to run the service, and a client-side application to process requests. The API should be designed with RESTful architecture and the server should be built with a language like Python or Ruby. The database should be tailored to the data that needs to be stored, and the client-side application should handle the response from the API. Additionally, for security purposes, certain requests should be encrypted or secured using authentication mechanisms.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

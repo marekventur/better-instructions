@@ -1,0 +1,12 @@
+{
+  "id": "90da6086-5ad9-4be7-9889-47d4ddcb0035",
+  "instruction": "Classify each creature in the sentence as either a mammal, reptile, amphibian, or bird.",
+  "input": "The owl, armadillo and toad hopped into the pond.",
+  "output": "Bird, Mammal, Amphibian.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9bb4286a-01a7-4fc3-8434-03e1c9cb7f49",
+  "instruction": "Create a multiple-choice question based on the following statement.",
+  "input": "The European Union is a political and economic union of 27 member states.",
+  "output": "Which of the following is true about the European Union?\nA. It is a political and economic union of 27 member countries\nB. It is a political and economic union of 28 member countries\nC. It is a political and economic union of 29 member countries\nD. It is a political and economic union of 30 member countries\n\nAnswer: A. It is a political and economic union of 27 member countries.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

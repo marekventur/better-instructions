@@ -1,0 +1,12 @@
+{
+  "id": "2770369d-5b70-42b9-aab3-83fe187a5293",
+  "instruction": "Given a customer review, score the overall sentiment of the review, with 0 being very negative and 10 being very positive.",
+  "input": "I am disappointed with the delay and it ruined my plans.",
+  "output": "2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

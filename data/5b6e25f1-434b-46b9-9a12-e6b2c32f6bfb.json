@@ -1,0 +1,12 @@
+{
+  "id": "5b6e25f1-434b-46b9-9a12-e6b2c32f6bfb",
+  "instruction": "Suggest 8 topics related to the following keyword.",
+  "input": "Covid-19",
+  "output": "- Impact on the Global Economy\n- Vaccine Development\n- Testing and Diagnostics\n- Infection Prevention and Control\n- Global Travel Restrictions\n- Mental Health Effects\n- Remote Working\n- Impact on Education",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

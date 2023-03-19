@@ -1,0 +1,12 @@
+{
+  "id": "2e12b87f-905e-429c-a5ba-ba2e5e0e947c",
+  "instruction": "Classify the following sentence into one of the five primary parts of speech.",
+  "input": "The cat rubbed against my legs.",
+  "output": "This sentence contains three parts of speech - a noun (cat), a verb (rubbed), and a pronoun (my).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

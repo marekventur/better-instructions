@@ -1,0 +1,12 @@
+{
+  "id": "0268c6cc-6128-4411-8ff1-f8c962c81525",
+  "instruction": "Assign a score to the following recipe.",
+  "input": "Ingredients: 2 tablespoons of butter, 1/4 cup of sugar, 1/2 teaspoon of vanilla extract, 1 cup of all-purpose flour",
+  "output": "The recipe has a score of 7/10. It is a versatile and flavorful combination but could benefit from additional ingredients such as chocolate chips or nuts.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0ddd9a75-350c-4935-b099-610b15a50a01",
+  "instruction": "Design an experiment to test whether a drug has an effect on the body",
+  "input": "",
+  "output": "Design a double-blind randomized controlled trial. Ensure ethical considerations are met. Randomly assign participants to either a drug receiving group or a placebo group. Measure pre- and post-experiment results for each group. Utilize appropriate statistical tests to evaluate the results of the experiment. Document the results and analyze for any conclusions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

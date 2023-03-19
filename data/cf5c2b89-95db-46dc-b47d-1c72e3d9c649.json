@@ -1,0 +1,12 @@
+{
+  "id": "cf5c2b89-95db-46dc-b47d-1c72e3d9c649",
+  "instruction": "Categorize this sentence according to its parts of speech:\n\"The apple is sour.\"",
+  "input": "",
+  "output": "The (article) apple (noun) is (verb) sour (adjective).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f126993a-16c4-4e9f-9181-4847c50e6778",
+  "instruction": "What season does the following poem describe",
+  "input": "A red leaf falls from on high,\nTumbling down from the sky.\nIt lands on the ground with a sigh;\nThe season must be autumn nigh.",
+  "output": "Autumn",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

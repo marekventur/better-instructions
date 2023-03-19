@@ -1,0 +1,12 @@
+{
+  "id": "e4b89eaf-7afb-46da-85a5-5b8d0acfabac",
+  "instruction": "Given this equation, x = 2y + 4, calculate the value of x where y = 3.",
+  "input": "x = 2y + 4, y = 3.",
+  "output": "When y = 3, x = 10.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

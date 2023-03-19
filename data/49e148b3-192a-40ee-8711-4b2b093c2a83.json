@@ -1,0 +1,12 @@
+{
+  "id": "49e148b3-192a-40ee-8711-4b2b093c2a83",
+  "instruction": "given the provided list of ingredients, create an Italian dish.",
+  "input": "Tomato, garlic, onion, oregano, basil, and chicken.",
+  "output": "Chicken alla Parmigiana - a classic Italian dish made with chicken breasts, garlic, oregano, tomatoes, and fresh basil. The chicken is dredged in flour and pan-fried until golden. Then, it is layered with tomatoes, onions, and garlic in a baking dish and season with oregano and basil. Bake until the sauce is bubbly and the cheese is melted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

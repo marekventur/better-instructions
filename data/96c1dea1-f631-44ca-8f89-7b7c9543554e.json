@@ -1,0 +1,12 @@
+{
+  "id": "96c1dea1-f631-44ca-8f89-7b7c9543554e",
+  "instruction": "Construct a sentence using the provided words that conveys the given meaning.",
+  "input": "Words: Thousands of people\nMeaning: A large crowd",
+  "output": "Thousands of people had gathered, forming a massive crowd.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

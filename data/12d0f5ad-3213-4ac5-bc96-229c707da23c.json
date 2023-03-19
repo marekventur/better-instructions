@@ -1,0 +1,12 @@
+{
+  "id": "12d0f5ad-3213-4ac5-bc96-229c707da23c",
+  "instruction": "Given a list of numbers, find the difference between the largest and smallest numbers.",
+  "input": "5, 8, 2, 9",
+  "output": "7",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

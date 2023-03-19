@@ -1,0 +1,12 @@
+{
+  "id": "588234ad-24f8-494d-b37b-6bf234931a30",
+  "instruction": "Assign the appropriate mood to this excerpt.",
+  "input": "The sky was a deep pink as the sun set on the horizon.",
+  "output": "The excerpt conveys a sense of serenity and peacefulness.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

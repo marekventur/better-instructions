@@ -1,0 +1,12 @@
+{
+  "id": "3ed517fb-0fcb-4fcc-aba2-ceb55def9656",
+  "instruction": "Convert the following expression from various mathematical operations",
+  "input": "(2x + 7) \u2013 2 / 5",
+  "output": "2x + 7 - (2/5)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

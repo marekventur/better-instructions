@@ -1,0 +1,12 @@
+{
+  "id": "8a0e60a4-e8d9-4104-a7c5-bac552a188d5",
+  "instruction": "Explain what blockchain technology is.",
+  "input": "",
+  "output": "Blockchain technology is a type of distributed ledger technology (DLT) which records digital data in an immutable and secure way. The data, which can consist of cryptocurrency transactions, contracts, or any other information, is stored in a decentralized network and consists of individual \u201cblocks\u201d which are linked and secured through cryptography. This makes it impossible to alter data without detect, as each block is verified by the network before being added to the \u201cchain\u201d.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

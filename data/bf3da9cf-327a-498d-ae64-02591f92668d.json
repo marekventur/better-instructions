@@ -1,0 +1,12 @@
+{
+  "id": "bf3da9cf-327a-498d-ae64-02591f92668d",
+  "instruction": "Read the following sentence and provide the correct verb tense for the underlined phrase.\n\nHe will has been working for two hours.",
+  "input": "He will has been working",
+  "output": "He has been working for two hours.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

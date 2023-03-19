@@ -1,0 +1,12 @@
+{
+  "id": "58f7d20e-9831-4fd1-9a76-f3de0924389b",
+  "instruction": "Rearrange the sentence to change its original meaning",
+  "input": "The water was quickly frozen by the cold temperatures.",
+  "output": "The cold temperatures quickly froze the water.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

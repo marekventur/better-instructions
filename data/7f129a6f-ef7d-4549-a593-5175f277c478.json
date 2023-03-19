@@ -1,0 +1,12 @@
+{
+  "id": "7f129a6f-ef7d-4549-a593-5175f277c478",
+  "instruction": "Classify the following story as a fairy tale, urban legend, or horror story.",
+  "input": "A young couple stumbled upon a haunted house in the woods.",
+  "output": "This is a horror story.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

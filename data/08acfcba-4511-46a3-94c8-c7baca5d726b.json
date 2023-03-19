@@ -1,0 +1,12 @@
+{
+  "id": "08acfcba-4511-46a3-94c8-c7baca5d726b",
+  "instruction": "Give two suggestions to improve the performance of the model.",
+  "input": "",
+  "output": "1. Increase the training dataset size to help the model identify more patterns. \n2. Use more diverse techniques such as data augmentation and regularization to reduce overfitting.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

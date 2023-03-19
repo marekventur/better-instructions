@@ -1,0 +1,12 @@
+{
+  "id": "eed38381-2415-45ae-a3d9-2b970aa9e985",
+  "instruction": "What is the recommended method for implementing password resets?",
+  "input": "",
+  "output": "The recommended method for implementing password resets is by using a one-time token, also known as a one-time password (OTP). This token should be sent to the user via email or text message, and should be used to authenticate the user before allowing them to reset their password.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

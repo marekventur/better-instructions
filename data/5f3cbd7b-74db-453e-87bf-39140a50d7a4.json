@@ -1,0 +1,12 @@
+{
+  "id": "5f3cbd7b-74db-453e-87bf-39140a50d7a4",
+  "instruction": "Describe the concept of a \"Text-to-Speech\" system.",
+  "input": "",
+  "output": "A Text-to-Speech (TTS) system is a system that converts written language text into a sound representation, such as speech. It is commonly used in various applications, such as natural language processing, speech synthesis, and automatic speech recognition. TTS systems help computers to process and interpret written language by converting text into speech and can also be used to help people who are unable to speak for themselves. The output speech is generated in real-time, based on the input text. TTS systems use natural sounding voices or synthetic voices to produce good quality output.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

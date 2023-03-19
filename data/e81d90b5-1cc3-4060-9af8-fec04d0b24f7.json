@@ -1,0 +1,12 @@
+{
+  "id": "e81d90b5-1cc3-4060-9af8-fec04d0b24f7",
+  "instruction": "Which of these items is used to measure weight?",
+  "input": "A ruler, a stopwatch, and a scale",
+  "output": "The item used to measure weight is a scale.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

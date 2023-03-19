@@ -1,0 +1,12 @@
+{
+  "id": "2a78bc84-2790-4193-8ddd-8ba32432b855",
+  "instruction": "Classify the following sentence as follows: news, literature, formal, casual.",
+  "input": "The mouse ran around the corner.",
+  "output": "Casual",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

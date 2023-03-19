@@ -1,0 +1,12 @@
+{
+  "id": "3ebc5e69-02c9-4784-abba-a04e9fb7f4a9",
+  "instruction": "Pick out the odd word out in each sentence:",
+  "input": "Tree, Wind, Flower",
+  "output": "The odd word out is 'Wind'.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b80d32b7-e60a-40e7-a0db-cc11ef0166af",
+  "instruction": "Given a list of webpages, classify each into the following categories: blogging, news, or social media",
+  "input": "Page 1: CNN\nPage 2: Twitter\nPage 3: Wordpress",
+  "output": "Page 1: News\nPage 2: Social Media\nPage 3: Blogging",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2f46a6ea-588f-414f-90f1-131f22911bf7",
+  "instruction": "Transform the sentence using a synonym to replace the underlined word.",
+  "input": "The cat's fur is soft and fluffy.",
+  "output": "The cat's fur is smooth and downy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3e4fe3f9-89a8-4898-9555-428c0f3577bb",
+  "instruction": "Summarize the main arguments in a given article",
+  "input": "Article: The Benefits of Investing in Education",
+  "output": "This article discusses the four main benefits of investing in education. First, education can help reduce inequality and poverty by providing access to opportunities that are not available to those without education. Second, educated citizens are more productive, with higher economic growth and higher wages. Third, educated citizens can help drive innovation and technological advancement. Finally, investing in education can help foster social cohesion and create a more peaceful society.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

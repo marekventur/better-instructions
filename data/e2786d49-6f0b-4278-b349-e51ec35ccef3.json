@@ -1,0 +1,12 @@
+{
+  "id": "e2786d49-6f0b-4278-b349-e51ec35ccef3",
+  "instruction": "Given a dataset, predict the sales of product X in the next 5 years",
+  "input": "A dataset containing product prices and sales trends over the past 10 years",
+  "output": "Using the given dataset, a predictive model can be created to forecast the sales of product X in the next 5 years. The model should take into account the historical prices, sales trends, seasonality, and other features of the dataset when making predictions. The predictions can then be used to inform future decisions regarding the sales strategy for the product.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "189c9c3f-8fa4-4a18-9d16-b339e5d48285",
+  "instruction": "Given the following input, provide the name of an appropriate hairstyle for a person.",
+  "input": "A person with short, thin hair",
+  "output": "Crew cut.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

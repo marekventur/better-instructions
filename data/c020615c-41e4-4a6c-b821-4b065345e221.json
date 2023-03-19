@@ -1,0 +1,12 @@
+{
+  "id": "c020615c-41e4-4a6c-b821-4b065345e221",
+  "instruction": "Identify the cause of this issue",
+  "input": "The computer is not working.",
+  "output": "The cause of this issue is unknown and needs to be investigated.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

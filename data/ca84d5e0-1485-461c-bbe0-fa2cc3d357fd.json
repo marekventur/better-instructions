@@ -1,0 +1,12 @@
+{
+  "id": "ca84d5e0-1485-461c-bbe0-fa2cc3d357fd",
+  "instruction": "Categorize the following movie genres into two categories: comedy and drama.",
+  "input": "Romance, Sci-fi, Musical",
+  "output": "Comedy: Romance, Musical\nDrama: Sci-fi",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

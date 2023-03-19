@@ -1,0 +1,12 @@
+{
+  "id": "222c1db4-3fc3-45e6-ba09-7dd07a99e2f4",
+  "instruction": "Suggest two methods of finding the area of a triangle.",
+  "input": "",
+  "output": "Two methods of finding the area of a triangle are using Heron's formula or the formula A = 1/2 x b x h, where b is the base of the triangle and h is the height of the triangle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

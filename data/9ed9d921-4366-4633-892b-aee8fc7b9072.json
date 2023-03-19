@@ -1,0 +1,12 @@
+{
+  "id": "9ed9d921-4366-4633-892b-aee8fc7b9072",
+  "instruction": "Given the output of a service, classify it into different categories.",
+  "input": "\"The service has an output of A and B\"",
+  "output": "This output can be classified into two categories: \"category A\" and \"category B\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

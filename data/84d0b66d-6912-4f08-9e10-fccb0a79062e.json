@@ -1,0 +1,12 @@
+{
+  "id": "84d0b66d-6912-4f08-9e10-fccb0a79062e",
+  "instruction": "Divide the following text into two parts and write a conclusion.",
+  "input": "The new program has brought a lot of success to the company. We are seeing results in terms of increased customer satisfaction and improved customer retention.",
+  "output": "Part 1: The new program has brought a lot of success to the company. We are seeing results in terms of increased customer satisfaction.\n\nPart 2: We have also seen an improvement in customer retention. \n\nConclusion: The new program has proved to be effective in both improving customer satisfaction and increasing customer retention, demonstrating its success within the company.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

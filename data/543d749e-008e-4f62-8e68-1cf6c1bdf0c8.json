@@ -1,0 +1,12 @@
+{
+  "id": "543d749e-008e-4f62-8e68-1cf6c1bdf0c8",
+  "instruction": "Generate a criteria chart to evaluate different types of headphones.",
+  "input": "Noinput",
+  "output": "| Criteria | Categories | Low | Medium | High |\n|----------|------------|-----|--------|------|\n| Comfort  |            |     |        |      |\n|          | Weight      | Light | Medium | Heavy |\n|          | Size        | Small | Medium | Large |\n|          | Adjustability| Low  | Medium | High  |\n| Sound    |             |     |        |      |\n|          | Bass        | Low  | Medium | High  |\n|          | Treble      | Low  | Medium | High  |\n|          | Noise Canceling  | None | Medium | High  |\n| Features |             |     |        |      |\n|          | Connectivity| Wired | Wireless | Both |\n|          | Durability  | Poor | Average | Good |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

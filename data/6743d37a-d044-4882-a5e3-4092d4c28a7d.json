@@ -1,0 +1,12 @@
+{
+  "id": "6743d37a-d044-4882-a5e3-4092d4c28a7d",
+  "instruction": "Order the following animals according to their size.",
+  "input": "Marmot, Elephant, Wolf, Gorilla",
+  "output": "Marmot, Wolf, Gorilla, Elephant",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

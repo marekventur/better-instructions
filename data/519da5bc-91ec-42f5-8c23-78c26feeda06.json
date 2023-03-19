@@ -1,0 +1,12 @@
+{
+  "id": "519da5bc-91ec-42f5-8c23-78c26feeda06",
+  "instruction": "Come up with an encryption method that encrypts the following message.",
+  "input": "My name is John",
+  "output": "We can use a substitution cipher to encrypt the message. For example, each letter in the message can be substituted with the letter that is three places further down the alphabet. In this case, the encrypted message would be: \"Pb odcb nb Lqpl\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

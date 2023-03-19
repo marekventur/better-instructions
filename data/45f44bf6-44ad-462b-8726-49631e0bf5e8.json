@@ -1,0 +1,12 @@
+{
+  "id": "45f44bf6-44ad-462b-8726-49631e0bf5e8",
+  "instruction": "Choose the best answer from the given list of choices.",
+  "input": "Question: Which of the following is a benefit of cloud computing?\nA. Lower cost\nB. Reliability\nC. Increased scalability\nD. All of the above",
+  "output": "D. All of the above",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

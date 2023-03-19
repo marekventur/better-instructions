@@ -1,0 +1,12 @@
+{
+  "id": "c4294d85-03f4-471d-afb7-e2e2d878e087",
+  "instruction": "In the following passage, indicate which sentences use a transitive verb.",
+  "input": "He opened the box carefully. Inside, he found a watch from his grandmother.\nHe smiled and put it on his wrist.",
+  "output": "He opened the box carefully. Inside, he found a watch from his grandmother.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

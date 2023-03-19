@@ -1,0 +1,12 @@
+{
+  "id": "f17dadad-fb91-414d-a021-51dd8329d093",
+  "instruction": "A robbery has been reported at a local store. Describe the thief based on the witness' accounts.",
+  "input": "Clothing: long black trenchcoat, blue jeans, | Height: 5'11\" | Build: medium | Hair Color: dark brown",
+  "output": "The robber was described by witnesses to be a 5'11\" tall man with a medium build and dark brown hair. He was wearing a long black trenchcoat and blue jeans.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

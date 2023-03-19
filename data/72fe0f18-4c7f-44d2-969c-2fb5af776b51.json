@@ -1,0 +1,12 @@
+{
+  "id": "72fe0f18-4c7f-44d2-969c-2fb5af776b51",
+  "instruction": "Give a detailed description on why the suspect committed the crime.",
+  "input": "The suspect, John Smith, was accused of killing his neighbor.",
+  "output": "John Smith was motivated to commit the crime out of a deep-seated hatred of his neighbor. He felt that his neighbor had wronged him in some way, and the powerful emotions of resentment and anger were unleashed when his neighbor crossed his path. When the opportunity presented itself, John took advantage of it and committed the crime, feeling satisfied that he had finally gotten back at the person he felt had wronged him.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

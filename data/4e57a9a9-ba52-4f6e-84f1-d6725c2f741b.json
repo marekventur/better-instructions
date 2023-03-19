@@ -1,0 +1,12 @@
+{
+  "id": "4e57a9a9-ba52-4f6e-84f1-d6725c2f741b",
+  "instruction": "Describe a use case for depth first search.",
+  "input": "",
+  "output": "Depth First Search (DFS) is an algorithm used for graph traversal and search. It is used to explore a graph or a tree from one node to the next in a depth-first manner, meaning the node being explored is fully explored before moving on to the next one. This algorithm is useful to solve various problems such as finding the shortest path between two nodes in a graph or finding all the nodes connected to a given node. It can also be used for solving mazes or finding connected components.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

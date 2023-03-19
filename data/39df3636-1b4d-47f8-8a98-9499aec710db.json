@@ -1,0 +1,12 @@
+{
+  "id": "39df3636-1b4d-47f8-8a98-9499aec710db",
+  "instruction": "Given a String \u201cABCDEEF\u201d, remove duplicate characters from the String",
+  "input": "ABCDEEF",
+  "output": "ABCDEF",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

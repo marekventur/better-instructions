@@ -1,0 +1,12 @@
+{
+  "id": "4cd95734-0d5d-42e8-9bec-4a0580c2732f",
+  "instruction": "Create 3 sample HTTP requests to add a new user to a database.",
+  "input": "",
+  "output": "Request 1:\nPOST /user HTTP/1.1 \nHost: example.com\nContent-Type: application/json\n{\n  \"username\": \"newuser_123\", \n  \"email\": \"newuser_123@example.com\",\n  \"password\": \"pa$$w0rd\"\n}\n\nRequest 2:\nPUT /user HTTP/1.1 \nHost: example.com\nContent-Type: application/json\n{\n  \"username\": \"newuser_123\", \n  \"email\": \"newuser_123@example.com\",\n  \"password\": \"pa$$w0rd\"\n}\n\nRequest 3:\nPOST /user/add HTTP/1.1 \nHost: example.com\nContent-Type: application/json\n{\n  \"username\": \"newuser_123\", \n  \"email\": \"newuser_123@example.com\",\n  \"password\": \"pa$$w0rd\"\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

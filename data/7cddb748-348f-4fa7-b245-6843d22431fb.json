@@ -1,0 +1,12 @@
+{
+  "id": "7cddb748-348f-4fa7-b245-6843d22431fb",
+  "instruction": "Given a sentence, output the Future Perfect Tense of the verb in the sentence.",
+  "input": "He will read the book.",
+  "output": "He will have read the book.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

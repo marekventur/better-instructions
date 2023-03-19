@@ -1,0 +1,12 @@
+{
+  "id": "5b6ac89c-5e87-4a30-a037-67a923b88398",
+  "instruction": "Divide a string of text into three paragraphs, with each paragraph having \nat least five sentences.",
+  "input": "She was always looking for adventure. She found it in the form of sailing the seven seas. There were dangerous storms and treacherous creatures, but she never gave up.",
+  "output": "Paragraph 1: \nShe was always looking for adventure, something to excite her and make her feel alive. She found it in the form of sailing the seven seas, a journey of exploration and discovery. She set off with determination and enthusiasm, never knowing what she would find. Her courage was strong and her heart was courageous, and as she explored each new horizon, she was determined to never give up.\n\nParagraph 2:\nThe seas presented some dangerous storms and treacherous creatures, but she never once wavered in her courage and determination. She kept her eyes focused on her goal and kept going, even when things got tough. Throughout the storms and the raging sea, she was able to keep her boat steady and remain true to her purpose.\n\nParagraph 3:\nShe embraced every moment of her adventure, and she reveled in the unknown. The curiosity and excitement of each day kept her going, and she was never daunted by the unknown. She was able to use each obstacle as a learning experience and as a way to grow. When the voyage ended, she had gained experience, confidence, and perseverance that would stay with her for the rest of her life.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6a830e65-18dc-4589-9c51-e5f2a2c11426",
+  "instruction": "How would you solve this math problem?",
+  "input": "8x + 6 = 52",
+  "output": "x = 6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

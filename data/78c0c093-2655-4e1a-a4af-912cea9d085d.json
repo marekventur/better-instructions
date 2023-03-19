@@ -1,0 +1,12 @@
+{
+  "id": "78c0c093-2655-4e1a-a4af-912cea9d085d",
+  "instruction": "Generate a conversation between a teacher and student about a late assignment",
+  "input": "",
+  "output": "Teacher: \"Good morning, Sarah. I noticed that your assignment from last week is late. What happened?\"\n\nSarah: \"I'm sorry, I had a few last minute things to do that took up more time than I expected.\"\n\nTeacher: \"I understand that life is busy, but it's important to submit your assignments on time. Is there anything I can do to help you stay organized moving forward?\"\n\nSarah: \"Yes, I could use some tips on how to better manage my time. Do you have any suggestions?\"\n\nTeacher: \"One way I suggest is to prioritize your tasks and set realistic goals. You should also break up big tasks into smaller pieces, so they don't seem so intimidating.\"\n\nSarah: \"That sounds like a great plan. I'll keep it in mind for next time.\"\n\nTeacher: \"Sounds like a plan. Good luck!\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

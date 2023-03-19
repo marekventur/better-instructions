@@ -1,0 +1,12 @@
+{
+  "id": "88ee37b9-83e2-4813-bbf0-26862551aa19",
+  "instruction": "Identify a fact in the sentence that is not accurate.",
+  "input": "Mount Everest is the highest mountain peak on Earth.",
+  "output": "Mount Everest is not the highest mountain peak on Earth; Mauna Kea is, as it is taller when measured from base to peak.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

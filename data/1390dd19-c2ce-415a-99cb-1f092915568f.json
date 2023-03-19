@@ -1,0 +1,12 @@
+{
+  "id": "1390dd19-c2ce-415a-99cb-1f092915568f",
+  "instruction": "Separate the nouns from the rest of the words in the following sentence.",
+  "input": "The house was painted blue and has a large garden.",
+  "output": "Nouns: house, garden.\nRest of the words: was, painted, blue, and, has, a, large.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

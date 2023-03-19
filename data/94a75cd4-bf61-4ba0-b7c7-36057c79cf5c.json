@@ -1,0 +1,12 @@
+{
+  "id": "94a75cd4-bf61-4ba0-b7c7-36057c79cf5c",
+  "instruction": "How would you explain the concept of a blockchain to someone who has not heard of it before?",
+  "input": "",
+  "output": "A blockchain is a decentralized digital ledger that records transactional data in a secure, trustless and immutable manner. It is a decentralized system that allows multiple different parties to transact, store data and keep track of the ledgers without relying on a third-party intermediary like a bank. It utilizes a network of nodes (computers) to reach consensus on the validity of past transactions, ensuring that once data is entered into a block, it can no longer be tampered with. As such, it provides a secure, reliable and efficient way to record and store data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

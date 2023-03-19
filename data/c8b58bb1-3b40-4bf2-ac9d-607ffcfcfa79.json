@@ -1,0 +1,12 @@
+{
+  "id": "c8b58bb1-3b40-4bf2-ac9d-607ffcfcfa79",
+  "instruction": "Create a set of questions to ask in an interview for a programmer role.",
+  "input": "",
+  "output": "1. Describe your experience as a programmer and the technologies you have used.\n2. What have been some of the most interesting projects you've worked on?\n3. How do you handle debugging and troubleshooting?\n4. What coding principles, processes, and best practices have you incorporated in your work?\n5. Describe a time when you had to learn a new technology.\n6. What design and architectural approaches have you taken when tackling programming challenges?\n7. Describe a challenge you faced while working in a team environment and how you managed to resolve it.\n8. What strategies do you use to ensure code quality and readability?\n9. What areas do you think you could improve on as a programmer?\n10. How comfortable are you doing front-end development?\n11. How do you stay up to date with the latest development trends?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

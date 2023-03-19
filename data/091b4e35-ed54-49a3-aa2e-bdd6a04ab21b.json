@@ -1,0 +1,12 @@
+{
+  "id": "091b4e35-ed54-49a3-aa2e-bdd6a04ab21b",
+  "instruction": "Write a PHP function that accepts two strings and returns the number of characters in common between the two strings.",
+  "input": "String 1: \"hello world\"\nString 2: \"goodbye world\"",
+  "output": "function commonCharCount($str1, $str2) {\n    $str1_arr = str_split($str1);\n    $str2_arr = str_split($str2);\n    $intersect = array_intersect($str1_arr, $str2_arr);\n    return count($intersect);\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

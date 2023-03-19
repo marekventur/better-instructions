@@ -1,0 +1,12 @@
+{
+  "id": "69adccdd-4ff1-4265-a9c0-ef730f9b6495",
+  "instruction": "Take a screenshot of the website and annotate it with 5 useful insights.",
+  "input": "<link website>",
+  "output": "[Screenshot of the Website annotated with insights]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

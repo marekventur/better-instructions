@@ -1,0 +1,12 @@
+{
+  "id": "49fcafa4-14b6-4d3f-89f7-2e596b12b6b1",
+  "instruction": "Classify this as an article or a blog post",
+  "input": "This is a short article about the importance of exercise.",
+  "output": "article",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

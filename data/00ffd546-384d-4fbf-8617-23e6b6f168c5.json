@@ -1,0 +1,12 @@
+{
+  "id": "00ffd546-384d-4fbf-8617-23e6b6f168c5",
+  "instruction": "Read this text, then write a summary of its main points",
+  "input": "Robotic process automation (RPA) is a form of technology that uses software bots to automate repetitive and mundane tasks. RPA is advantageous because it helps to reduce errors, increases accuracy and boosts efficiency.",
+  "output": "Robotic process automation (RPA) is a form of technology that uses software bots to automate repetitive, monotonous tasks, resulting in greater accuracy, efficiency, and fewer errors.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

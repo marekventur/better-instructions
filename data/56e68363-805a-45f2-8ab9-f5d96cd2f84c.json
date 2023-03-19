@@ -1,0 +1,12 @@
+{
+  "id": "56e68363-805a-45f2-8ab9-f5d96cd2f84c",
+  "instruction": "Find the area of a triangle with side lengths of 5, 10, and 12.",
+  "input": "",
+  "output": "The area of a triangle with side lengths of 5, 10, and 12 is 30 units squared. This can be found by using Heron's formula, which is A = sqrt(s(s-a)(s-b)(s-c)) where s = (a+b+c)/2. In this case, s = (5+10+12)/2 = 17.5, A = sqrt(17.5(7.5)(4.5)(2.5)) = 30 units squared.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

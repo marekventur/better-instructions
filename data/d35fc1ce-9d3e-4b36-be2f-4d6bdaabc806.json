@@ -1,0 +1,12 @@
+{
+  "id": "d35fc1ce-9d3e-4b36-be2f-4d6bdaabc806",
+  "instruction": "Identify the type of conflict from the passage.",
+  "input": "John and Jane had a disagreement over the best way to complete the project. They could not come to an agreement, each believing what they were suggesting was the best approach.",
+  "output": "This is a interpersonal conflict.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

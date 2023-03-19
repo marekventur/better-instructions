@@ -1,0 +1,12 @@
+{
+  "id": "80fe4b89-f86f-420c-b3c9-b387cf34595a",
+  "instruction": "Evaluate the web page for accessibility.",
+  "input": "https://www.gucci.com/",
+  "output": "The website has some accessibility issues, such as poor color contrast, low contrast text, inaccessible form fields, and no keyboard control.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

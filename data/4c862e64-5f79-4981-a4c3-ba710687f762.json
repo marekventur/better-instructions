@@ -1,0 +1,12 @@
+{
+  "id": "4c862e64-5f79-4981-a4c3-ba710687f762",
+  "instruction": "Re-arrange the following sentences to make a complete, cohesive paragraph.",
+  "input": "The fuel ran low. The car stopped on the side of the road. It was dark outside.",
+  "output": "It was dark outside when the car stopped on the side of the road due to the fuel running low.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

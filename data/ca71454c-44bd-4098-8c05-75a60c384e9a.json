@@ -1,0 +1,12 @@
+{
+  "id": "ca71454c-44bd-4098-8c05-75a60c384e9a",
+  "instruction": "Create a custom greeting for a visitor.",
+  "input": "The visitor's name is John.",
+  "output": "Hello John! Welcome to our website! It's great to have you here!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

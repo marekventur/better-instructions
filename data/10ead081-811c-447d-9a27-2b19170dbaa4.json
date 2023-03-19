@@ -1,0 +1,12 @@
+{
+  "id": "10ead081-811c-447d-9a27-2b19170dbaa4",
+  "instruction": "Does the following sentence contain a run-on?",
+  "input": "I walked to the park and I ordered a hotdog.",
+  "output": "No, the sentence does not contain a run-on.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

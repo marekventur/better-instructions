@@ -1,0 +1,12 @@
+{
+  "id": "4ae43ff9-f844-4c5c-a39f-83a60c685b39",
+  "instruction": "Given the input sentence, determine whether it is an example of parallel structure.",
+  "input": "He loves to run, to jump, and bicycling.",
+  "output": "No. This is not an example of parallel structure since the verbs are not in the same form. It should have been \"He loves to run, to jump, and to bicycle.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "59f99b83-f3e9-41a6-86ed-2b097f387fec",
+  "instruction": "Classify each word in the sentence as a noun, verb, adjective, adverb, or other.",
+  "input": "The lazy cat quickly ran to catch the mouse.",
+  "output": "The - Other \nlazy - Adjective\ncat - Noun\nquickly - Adverb\nran - Verb\nto - Other\ncatch - Verb\nthe - Other \nmouse - Noun",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

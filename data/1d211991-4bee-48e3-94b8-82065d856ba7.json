@@ -1,0 +1,12 @@
+{
+  "id": "1d211991-4bee-48e3-94b8-82065d856ba7",
+  "instruction": "Generate a question, based on the passage, that tests user\u2019s comprehension of the material.",
+  "input": "Having a diverse staff makes businesses more innovative and engaging. They are also better equipped to reach and serve customers.",
+  "output": "How does having a diverse staff make businesses better equipped to reach and serve customers?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

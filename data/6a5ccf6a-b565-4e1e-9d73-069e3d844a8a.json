@@ -1,0 +1,12 @@
+{
+  "id": "6a5ccf6a-b565-4e1e-9d73-069e3d844a8a",
+  "instruction": "Give an example of a classification problem that requires continuous input values?",
+  "input": "",
+  "output": "One example of a classification problem that requires continuous input values is house price prediction. Houses are usually priced based on factors such as square footage, location, number of bedrooms and bathrooms, and features like a backyard or garage. To accurately predict the house price, these criteria must be fed into the classification model as continuous input values.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

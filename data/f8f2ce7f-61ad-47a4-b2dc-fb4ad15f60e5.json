@@ -1,0 +1,12 @@
+{
+  "id": "f8f2ce7f-61ad-47a4-b2dc-fb4ad15f60e5",
+  "instruction": "Generate a 100-word statement summarizing an article about the potential consequences of reduced global emissions.",
+  "input": "https://www.nytimes.com/2020/06/21/climate/global-emissions-summit.html",
+  "output": "The world\u2019s leading economies met virtually to discuss the issue of global emissions, and their decision could shape the future of climate change. There were two main goals of the summit - to introduce a 40-50% cut in global emissions by 2030 and to develop a just transition package to enable developing countries to reduce their emissions. While a successful resolution to the summit could reduce global temperatures by as much as 1.5 degrees Celsius, failure could lead to even more severe climate changes such as extreme weather events and mass species extinction. To facilitate a successful resolution, wealthy countries must make additional contributions to assist in reducing emissions and increasing renewable energy technologies. The countries have realized the importance of this summit and have already agreed to a commitment of halfway to the 2030 goal. While it\u2019s a start, a successful resolution will require sustained commitment from all countries. It\u2019s up to all of us to make sure the global emissions summit does not end in failure.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

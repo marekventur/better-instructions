@@ -1,0 +1,12 @@
+{
+  "id": "bf13f3af-95ec-4683-8707-948682220611",
+  "instruction": "Classify the following animal into one of seven classes",
+  "input": "Bat",
+  "output": "Mammal",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "446312a7-9bf5-4f25-bc88-38b37eee34f9",
+  "instruction": "Generate a c++ program to print the square of a number.",
+  "input": "",
+  "output": "#include <iostream>\nusing namespace std; \n\nint main() \n{ \n    int num; \n    cout << \"Enter a number: \"; \n    cin >> num; \n    cout << \"Square of \" << num << \" is \" << num * num << endl; \n  \n    return 0; \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

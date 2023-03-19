@@ -1,0 +1,12 @@
+{
+  "id": "a3698d53-c7fe-4b86-9b22-a43f6a59c545",
+  "instruction": "Design a conversation tree that leads to an actionable item by the end.",
+  "input": "A conversation tree that leads to planning a trip",
+  "output": "Root: Hi! How can I help you? \nA: I was thinking about taking a trip. \nA1: Do you know where you want to go? \nA1a: Yes, I want to go to ____. \nA1a1: What date would you like to leave? \nA1a2: How long do you want to stay? \nA1b: No, I'm not sure yet. \nA1b1: What kind of trip did you have in mind? \nA1b2: What location do you think would make a good trip? \nA2: I need to make some plans. \nA2a: What kind of plans do you need to make? \nA2a1: What activities do you want to do? \nA2a2: Where do you want to stay? \nA2a3: What transportation do you need to arrange? \nActionable Item: Once you have answered these questions, you can begin booking your trip.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

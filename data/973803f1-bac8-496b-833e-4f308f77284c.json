@@ -1,0 +1,12 @@
+{
+  "id": "973803f1-bac8-496b-833e-4f308f77284c",
+  "instruction": "Design a survey to assess the attitude of high school students towards the internet.",
+  "input": "",
+  "output": "Please answer the following questions to the best of your ability:\n\n1. How much do you rely on the internet for educational resources?\n2. How often do you use the internet for leisure?\n3. How safe do you feel when using the internet?\n4. Do you think the internet has positively or negatively impacted your schoolwork?\n5. Do you think the internet has changed your life for the better or the worse?\n6. How do you rate the overall usefulness of the internet?\n7. Do you have any positive or negative feelings towards the use of the internet?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

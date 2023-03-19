@@ -1,0 +1,12 @@
+{
+  "id": "cb5f55d0-3855-4eab-ad93-6a19bf1391dc",
+  "instruction": "Recognize the type of the given bird.",
+  "input": "The Eurasian Jay (Garrulus glandarius)",
+  "output": "Passerine, Corvid",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

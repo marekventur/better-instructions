@@ -1,0 +1,12 @@
+{
+  "id": "2cfe2de4-d9ef-4840-abc6-4333d26fb73e",
+  "instruction": "Use the given data to generate a unique phrase.",
+  "input": "snow, sun",
+  "output": "The sun peeks out from behind the snow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

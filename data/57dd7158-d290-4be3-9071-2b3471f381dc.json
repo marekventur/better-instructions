@@ -1,0 +1,12 @@
+{
+  "id": "57dd7158-d290-4be3-9071-2b3471f381dc",
+  "instruction": "Generate two sentences summarizing the content of the article.",
+  "input": "Article: In 2020, cities throughout the world experienced lockdowns, travel restrictions and the suspension of many services and operations. People struggled to make their livings, find ways to socialize, and learn to manage their fear among other difficulties.",
+  "output": "In 2020, cities around the world experienced a shutdown of many services, leading to changes in how people socialize, make money, and cope with fear. Travel restrictions, along with the suspension of operations, have caused people to find innovative ways to make ends meet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "eb30f2a9-2718-4476-a696-503e9b884bd7",
+  "instruction": "Sort the animals into their respective classes.",
+  "input": "Cat, Fish, Tiger, Hawk",
+  "output": "Mammal: Cat, Tiger\nFish: Fish\nBird: Hawk",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

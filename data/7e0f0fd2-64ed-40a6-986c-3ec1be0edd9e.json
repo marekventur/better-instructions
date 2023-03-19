@@ -1,0 +1,12 @@
+{
+  "id": "7e0f0fd2-64ed-40a6-986c-3ec1be0edd9e",
+  "instruction": "Find the 25th term of the sequence x_n = (3)^n",
+  "input": "",
+  "output": "The 25th term of the sequence x_n = (3)^n is 3^25, which is equal to 3,417,555,984.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

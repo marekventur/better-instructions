@@ -1,0 +1,12 @@
+{
+  "id": "81f9198b-88a6-49b4-b158-881d1c665307",
+  "instruction": "You are given an English paragraph and you need to translate it into French.",
+  "input": "The most important thing for a successful business is good customer service.",
+  "output": "La chose la plus importante pour une entreprise r\u00e9ussie est un bon service \u00e0 la client\u00e8le.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "20b3868b-f2e4-4b69-988a-89481393a6ad",
+  "instruction": "Design a technical procedure for replacing a part in a machine.",
+  "input": "Part: Propeller",
+  "output": "The procedure for replacing a propeller in a machine is as follows: \n1. Locate the mounting screws and loosen them. \n2. Disconnect any wiring associated with the propeller.\n3. Carefully remove the propeller. \n4. Insert the new propeller, lining up the mounting screws before tightening them.\n5. Reconnect any wiring to the propeller as necessary. \n6. Test the machine to ensure that the new propeller is functioning properly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

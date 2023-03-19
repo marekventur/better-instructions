@@ -1,0 +1,12 @@
+{
+  "id": "2fde8195-b29a-4e9a-8213-f2d0994d6aab",
+  "instruction": "Analyze the following book excerpt and explain how irony is used.",
+  "input": "He was only trying to help his family, but instead he caused more harm than good.",
+  "output": "The irony in this sentence is that the character's intention was to help his family, but instead, his actions resulted in negative consequences. This type of irony is called situational irony, which occurs when the outcome of a situation is markedly different than what is expected. The unexpected outcome creates a sense of irony or humor, and often leads to a revelation of some kind.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

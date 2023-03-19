@@ -1,0 +1,12 @@
+{
+  "id": "694b0671-e27f-4946-9168-dfbf3d928703",
+  "instruction": "Generate a response for a customer's complaint.",
+  "input": "Complaint: The product did not work as described.",
+  "output": "We are sorry to hear that the product did not work as expected. We strive to provide quality products and guarantee satisfaction. We will investigate the issue and get back to you with a solution.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

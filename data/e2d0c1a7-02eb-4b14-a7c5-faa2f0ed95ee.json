@@ -1,0 +1,12 @@
+{
+  "id": "e2d0c1a7-02eb-4b14-a7c5-faa2f0ed95ee",
+  "instruction": "Create an outline for a five minute presentation on your favorite book.",
+  "input": "My favorite book is To Kill a Mockingbird by Harper Lee.",
+  "output": "Outline for five minute presentation about To Kill a Mockingbird: \nI. Introduction \nA. Introduce author, Harper Lee \nB. Overview of book \n\nII. Setting \nA. Small Town Alabama \nB. 1930s \n\nIII. Main Characters \nA. Scout \nB. Atticus \nC. Jem \n\nIV. Themes \nA. Morality \nB. Innocence \nC. Racism \n\nV. Resolution \nA. Tom Robinson\u2019s trial \nB. Impact \n\nVI. Conclusion \nA. Summary of book \nB. Thanks and questions",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

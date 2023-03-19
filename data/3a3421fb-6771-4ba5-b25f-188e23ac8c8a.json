@@ -1,0 +1,12 @@
+{
+  "id": "3a3421fb-6771-4ba5-b25f-188e23ac8c8a",
+  "instruction": "Create a three-column table that displays the advantages and disadvantages of online shopping.",
+  "input": "",
+  "output": "| Advantages                                                        | Disadvantages                                               |\n| ---------------------------------------------------------------- | ----------------------------------------------------------- |\n| Convenient and time saving                                       | Risk of credit card fraud                                   |\n| Wider selection of products and services                         | Higher cost of shipping and handling                        |\n| Comparison of different offers across different vendors          | Issues with returns and customer service                    |\n| Lower prices due to low overhead costs                           | Uncertainty due to insufficient product description or photo |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "99d98378-c3e0-4d56-9d5b-0f214e58f8bc",
+  "instruction": "Given this data set, summarize the key insights.",
+  "input": "The data set contains information about the demographic composition of visitors to a museum, broken down by type of visitors.",
+  "output": "The data reveals that most of the museum's visitors are adults (aged 18-64), with a smaller percentage of seniors (65+) and even fewer children (under 18). The ratio of males to females is roughly equal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0a151bfc-7e89-4ca9-8b35-9ae088940a06",
+  "instruction": "Summarize the given haiku poem.",
+  "input": "The petals shimmer\nA bee carries away the pollen\nHow sweet of her",
+  "output": "A bee has compassionately collected pollen from a flower's shimmering petals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

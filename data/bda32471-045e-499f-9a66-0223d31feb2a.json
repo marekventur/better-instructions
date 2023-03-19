@@ -1,0 +1,12 @@
+{
+  "id": "bda32471-045e-499f-9a66-0223d31feb2a",
+  "instruction": "Generate a correct C++ program to compute the sum of N numbers. Output the code directly.",
+  "input": "No input",
+  "output": "#include <iostream> \n  \nusing namespace std; \n  \nint main() \n{ \n    int sum = 0, N; \n  \n    cout << \"Enter the value of N: \"; \n    cin >> N; \n  \n    for (int i = 1; i <= N; i++) \n    { \n        sum += i; \n    } \n  \n    cout << \"Sum = \" << sum; \n  \n    return 0; \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

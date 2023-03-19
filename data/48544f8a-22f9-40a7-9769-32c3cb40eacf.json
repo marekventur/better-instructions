@@ -1,0 +1,12 @@
+{
+  "id": "48544f8a-22f9-40a7-9769-32c3cb40eacf",
+  "instruction": "Construct a conclusion from the provided evidence",
+  "input": "Evidence: It has been proven that climate change is caused by human activities",
+  "output": "In conclusion, it is clear that human activities are the primary cause of climate change and that it is urgent that we take steps to mitigate its effects. We must reduce our emissions and implement sustainable practices if we hope to reduce the rate of global warming and prevent further disaster.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c87286d5-8c49-4c1f-a941-39c1a380e1f0",
+  "instruction": "Change all the adjectives to past-tense verbs in the following sentence.",
+  "input": "The pretty girl was walking down the street.",
+  "output": "The prettied girl was walking down the street.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

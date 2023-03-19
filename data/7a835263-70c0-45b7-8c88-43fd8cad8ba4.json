@@ -1,0 +1,12 @@
+{
+  "id": "7a835263-70c0-45b7-8c88-43fd8cad8ba4",
+  "instruction": "Generate a simplified version of the given sentence. You should avoid using verbose words or phrases.",
+  "input": "Jane was not willing to accept negative feedback from her teammates.",
+  "output": "Jane refused her teammates' negative feedback.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

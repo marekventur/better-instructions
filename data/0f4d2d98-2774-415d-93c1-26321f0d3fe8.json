@@ -1,0 +1,12 @@
+{
+  "id": "0f4d2d98-2774-415d-93c1-26321f0d3fe8",
+  "instruction": "Develop an algorithm to detect faulty code.",
+  "input": "",
+  "output": "My algorithm to detect faulty code consists of the following steps: \n1. Preprocessing: Extract desired source code metrics like lines of code, program structure, and static analysis of the code. \n2. Define criteria for flagging faulty code: Analyze and define appropriate thresholds for each metric.\n3. Identify and classify faulty code: Compare code metrics to established thresholds and assign to classes of problem code.\n4. Report on problem code: Generate a report summarizing the problem code found and provide suggestions on how to fix the issues.  \n5. Post-processing: Automatically or manually refactor or update faulty code.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bf28472d-f099-40d5-a1b6-68bee156c3b3",
+  "instruction": "Given a sentence, replace all the nouns with synonyms.",
+  "input": "John drove to the store to buy milk.",
+  "output": "John motored to the shop to procure milk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

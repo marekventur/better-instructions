@@ -1,0 +1,12 @@
+{
+  "id": "33bcbc73-3fad-45df-9178-56e5ec19eee9",
+  "instruction": "Create a string grid with the given input.",
+  "input": "XOXXOOXX",
+  "output": "X|O|X|X\nO|O|X|X",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

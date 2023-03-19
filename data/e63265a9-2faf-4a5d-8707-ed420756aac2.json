@@ -1,0 +1,12 @@
+{
+  "id": "e63265a9-2faf-4a5d-8707-ed420756aac2",
+  "instruction": "Find the hidden meaning in the following proverb",
+  "input": "A stitch in time saves nine.",
+  "output": "This proverb means that prevention is better than cure, and that it is better to take action now rather than waiting for the problem to get worse. Taking the necessary steps early can save time, stress, and money in the long run.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4901946b-f44e-4122-836b-f11899930df3",
+  "instruction": "Given a hotel profile, classify its overall rating",
+  "input": "This hotel has modern facilities, great customer service and is in a convenient location.",
+  "output": "Excellent",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f78f6a89-2a21-457b-8763-2b5faa18217b",
+  "instruction": "Given the following list of ingredients, choose one to substitute for the others: butter, shortening, cream cheese.",
+  "input": "",
+  "output": "Butter can be substituted for shortening or cream cheese. Shortening can be substituted for butter or cream cheese, and cream cheese can be substituted for butter or shortening.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

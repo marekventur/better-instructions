@@ -1,0 +1,12 @@
+{
+  "id": "57ecee42-1bab-4996-909b-902f1b6d3d73",
+  "instruction": "Create an algorithm to categorize a given set of clothes.",
+  "input": "Clothes = {raincoat, sweater, jacket, jogging pants, umbrella}",
+  "output": "Algorithm: \n\n1. Assign each item to either the 'outerwear' or 'underwear' category \n2. For 'outerwear': \n  a. Raincoat = 'Rain Gear' \n  b. Sweater = 'Coats & Jackets' \n  c. Jacket = 'Coats & Jackets'\n  d. Jogging Pants = 'Activewear'\n  e. Umbrella = 'Rain Gear'\n3. For 'underwear':\n  a. All items will be categorized as 'None'",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

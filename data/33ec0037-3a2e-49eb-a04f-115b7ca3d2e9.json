@@ -1,0 +1,12 @@
+{
+  "id": "33ec0037-3a2e-49eb-a04f-115b7ca3d2e9",
+  "instruction": "Edit this sentence so that it conveys the same meaning but is more concise",
+  "input": "When I was young, I really enjoyed playing around in the park",
+  "output": "As a child, I loved playing in the park.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

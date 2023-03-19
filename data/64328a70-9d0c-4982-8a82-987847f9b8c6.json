@@ -1,0 +1,12 @@
+{
+  "id": "64328a70-9d0c-4982-8a82-987847f9b8c6",
+  "instruction": "Classify the following text as either constructive or unconstructive feedback.",
+  "input": "Your last project was a complete failure and you should have prepared better.",
+  "output": "Unconstructive feedback",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

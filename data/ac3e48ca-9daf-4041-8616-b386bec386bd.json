@@ -1,0 +1,12 @@
+{
+  "id": "ac3e48ca-9daf-4041-8616-b386bec386bd",
+  "instruction": "Compare the products of the two given companies.",
+  "input": "Apple and Samsung",
+  "output": "Apple and Samsung both offer a variety of consumer products, including smartphone, tablets, and laptops. Apple products tend to be more expensive, but feature a higher level of build quality and better durability. Apple's Integrated software and hardware are also more synced, allowing for tighter integration and smoother performance. Samsung products, on the other hand, tend to be less expensive and feature a wide variety of features, configurations and sizes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

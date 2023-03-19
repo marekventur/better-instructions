@@ -1,0 +1,12 @@
+{
+  "id": "6c56b462-5e6b-47e9-b210-ff83ab206935",
+  "instruction": "Edit the provided sentence to make the sentence clearly express an opinion about the given topic.",
+  "input": "Social media can have a great influence on our lives.",
+  "output": "I believe that social media can have a deep and lasting impact in our lives.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

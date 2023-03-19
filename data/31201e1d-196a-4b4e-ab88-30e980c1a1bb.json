@@ -1,0 +1,12 @@
+{
+  "id": "31201e1d-196a-4b4e-ab88-30e980c1a1bb",
+  "instruction": "Explain two differences between the HTTP GET and POST methods",
+  "input": "",
+  "output": "Two differences between the HTTP GET and POST methods are the way data is transferred and the way data is stored. The HTTP GET method uses the URL to transfer data and does not allow for the transfer of large amounts of data. The HTTP POST method sends data in the message body and allows for larger amounts of data to be transferred. Additionally, the HTTP GET method stores the data in the URL, while the HTTP POST method stores data in the message body.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

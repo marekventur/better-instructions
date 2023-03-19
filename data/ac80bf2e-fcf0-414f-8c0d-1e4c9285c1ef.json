@@ -1,0 +1,12 @@
+{
+  "id": "ac80bf2e-fcf0-414f-8c0d-1e4c9285c1ef",
+  "instruction": "Generate an appropriate response to the given statement.",
+  "input": "\"I don't agree with your idea.\"",
+  "output": "Can you explain why you disagree?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

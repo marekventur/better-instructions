@@ -1,0 +1,12 @@
+{
+  "id": "561839b1-8636-4f37-8dac-7a7f8df6af67",
+  "instruction": "From the input list, identify all odd numbers.",
+  "input": "2, 15, 7, 3, 8",
+  "output": "15, 7, 3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

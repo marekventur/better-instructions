@@ -1,0 +1,12 @@
+{
+  "id": "be6da11a-3ace-4c12-8dc1-1119cbd80e3b",
+  "instruction": "How is a blockchain different from a database?",
+  "input": "",
+  "output": "A blockchain is different from a database in that it is a distributed, immutable ledger of records. Whereas a database is stored centrally and managed by a single entity, a blockchain is owned by multiple entities. Additionally, data stored on a blockchain is encrypted and verified by a network of computers, ensuring its authenticity and integrity, which is not the case for a database.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

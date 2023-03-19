@@ -1,0 +1,12 @@
+{
+  "id": "730fa660-5a5b-445e-bccf-e1f2937f9060",
+  "instruction": "In the paragraph, find a fact that can be verified.",
+  "input": "The giant panda is an endangered species in China and lives mainly in the mountains.",
+  "output": "The giant panda is an endangered species in China.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

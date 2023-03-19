@@ -1,0 +1,12 @@
+{
+  "id": "7869d45c-4475-4e9c-9a86-a105ff3834b1",
+  "instruction": "Classify this statement according to the five-point scale below",
+  "input": "The Prime Minister is incompetent and should resign",
+  "output": "Strongly agree.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

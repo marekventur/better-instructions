@@ -1,0 +1,12 @@
+{
+  "id": "004aca49-523c-4372-ae91-f137a7ec5e18",
+  "instruction": "Select the best answer",
+  "input": "Geoffrey and Everett both want to order a pizza. Who should pay?\n(A) Geoffrey\n(B) Everett\n(C) Both\n(D) Neither",
+  "output": "C - Both",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "60003a82-38e1-4ca6-ac26-2cd40bfcf575",
+  "instruction": "Find out any typos in the sentence.",
+  "input": "She was behaving eraticly.",
+  "output": "This sentence contains a typo - \"eraticly\" should be \"erratically\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

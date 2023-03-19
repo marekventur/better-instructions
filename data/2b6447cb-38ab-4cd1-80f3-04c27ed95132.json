@@ -1,0 +1,12 @@
+{
+  "id": "2b6447cb-38ab-4cd1-80f3-04c27ed95132",
+  "instruction": "There are two grammatical errors in the sentence. Find and correct them.",
+  "input": "He was just laying down on his bed.",
+  "output": "He was just lying down on his bed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

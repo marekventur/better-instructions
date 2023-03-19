@@ -1,0 +1,12 @@
+{
+  "id": "ec044638-99fa-4a14-a492-36087e12cf55",
+  "instruction": "Given a product, generate 3 humorous slogans for it.",
+  "input": "Toothpaste",
+  "output": "1. Don't wait for your smile to be perfect - Paste it Now! \n2. Don't put up with a dull grin - Get your Toothpaste in! \n3. If you're looking for something minty, turn to the Toothpaste, it's definitely the right treat!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

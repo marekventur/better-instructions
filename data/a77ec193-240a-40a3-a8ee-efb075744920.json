@@ -1,0 +1,12 @@
+{
+  "id": "a77ec193-240a-40a3-a8ee-efb075744920",
+  "instruction": "We have a dataset containing US zip codes and county names. Classify each record based on the given data.",
+  "input": "11040 | Nassau \n75034 | Collin",
+  "output": "Record 1: Nassau County, NY (zip code 11040) \nRecord 2: Collin County, TX (zip code 75034)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

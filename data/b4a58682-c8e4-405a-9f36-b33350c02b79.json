@@ -1,0 +1,12 @@
+{
+  "id": "b4a58682-c8e4-405a-9f36-b33350c02b79",
+  "instruction": "Generate 2 words that are related to the given word.",
+  "input": "Industry",
+  "output": "Manufacturing, Technology",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

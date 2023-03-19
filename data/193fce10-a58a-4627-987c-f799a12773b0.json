@@ -1,0 +1,12 @@
+{
+  "id": "193fce10-a58a-4627-987c-f799a12773b0",
+  "instruction": "Using a given dataset, create a machine learning model for predicting a given outcome.",
+  "input": "Data set: temperature and heights of people in a given population\nOutcome: BMI",
+  "output": "\"\"\"\nCreate a machine learning model for predicting BMI (Body Mass Index) using temperature and heights of people in a given population\n\"\"\"\n\nimport pandas as pd\nimport numpy as np\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.linear_model import LinearRegression\n\n# Load the data\ndata = pd.read_csv('temperature_height_data.csv')\n\n# Split into features (temperature and height) and label (BMI)\nX = data.iloc[:, :2]\ny = data.iloc[:, 2]\n\n# Split into train and test sets\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 0)\n\n# Train the model\nregressor = LinearRegression()\nregressor.fit(X_train, y_train)\n\n# Make predictions\ny_pred = regressor.predict(X_test)\n\n# Evaluate predictions\nscore = regressor.score(X_test, y_test)\nprint('R-squared score:', score)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

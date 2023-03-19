@@ -1,0 +1,12 @@
+{
+  "id": "d29c92af-abd4-4f4a-a0db-d80cb019de13",
+  "instruction": "Find a Maths equation to calculate the area of an equilateral triangle.",
+  "input": "",
+  "output": "The equation to calculate the area of an equilateral triangle is A = (\u221a3/4)a2 where a is the side length of the triangle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

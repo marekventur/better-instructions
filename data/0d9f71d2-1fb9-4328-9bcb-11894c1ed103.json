@@ -1,0 +1,12 @@
+{
+  "id": "0d9f71d2-1fb9-4328-9bcb-11894c1ed103",
+  "instruction": "Generate a CSS rule that displays the following font color",
+  "input": "Yellow",
+  "output": "color: #FFFF00;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

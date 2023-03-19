@@ -1,0 +1,12 @@
+{
+  "id": "4afd6a75-ef13-4b0e-a002-879a0c4bd6e0",
+  "instruction": "Explain the use of reinforcement learning in text-based games.",
+  "input": "",
+  "output": "Reinforcement learning can be used in text-based games to allow the computer to learn from its experiences. Through trial and error, the agent can attempt to maximize its rewards by taking the best actions in different situations. This can enable the agent to become increasingly skillful in playing the game.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5976411b-35e7-4a0e-8db5-8a19b0f0dfa6",
+  "instruction": "Generate a new sentence based on the given sentence, so that the output sentence conveys the same meaning as the input sentence, but with different words.",
+  "input": "Stan has a pet fish.",
+  "output": "Stan is the owner of a fish companion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

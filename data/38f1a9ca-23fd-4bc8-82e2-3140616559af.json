@@ -1,0 +1,12 @@
+{
+  "id": "38f1a9ca-23fd-4bc8-82e2-3140616559af",
+  "instruction": "Read the following sentence and identify whether it belongs to the style of fiction, nonfiction, or other.",
+  "input": "The two sides of the city were divided by a large river.",
+  "output": "Other (Neither fiction nor nonfiction)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

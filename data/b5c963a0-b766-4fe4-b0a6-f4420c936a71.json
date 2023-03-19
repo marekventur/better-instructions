@@ -1,0 +1,12 @@
+{
+  "id": "b5c963a0-b766-4fe4-b0a6-f4420c936a71",
+  "instruction": "Summarize the main themes of this novel in 3 sentences.",
+  "input": "Harry Potter and the Philosopher\u2019s Stone",
+  "output": "Harry Potter and the Philosopher\u2019s Stone tells the story of a young wizard's journey to becoming the Boy Who Lived. Along the way, he discovers that courage and friendship are the keys to overcoming evil and embracing a world of possibilities. This novel focuses on themes of family, loyalty, and acceptance, ultimately illustrating the power of the human spirit.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

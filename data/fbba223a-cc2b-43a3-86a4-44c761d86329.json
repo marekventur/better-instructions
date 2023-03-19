@@ -1,0 +1,12 @@
+{
+  "id": "fbba223a-cc2b-43a3-86a4-44c761d86329",
+  "instruction": "Describe the main characteristics of a fair coin.",
+  "input": "",
+  "output": "The main characteristics of a fair coin are that it has an equal probability of coming up heads or tails when flipped. This means that over a large number of flips, the result of each flip is independent of the previous one, so that each flip has the same chance of being heads or tails. In other words, the coin is unbiased and the probability of it landing heads versus tails is the same.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

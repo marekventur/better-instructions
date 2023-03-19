@@ -1,0 +1,12 @@
+{
+  "id": "b376807c-775d-4990-85a6-85b4ba4c93e6",
+  "instruction": "Classify these four musical instruments.",
+  "input": "Violin, Saxophone, Trumpet, Clarinet",
+  "output": "-String instruments: Violin\n-Woodwind instruments: Saxophone, Clarinet\n-Brass instruments: Trumpet",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

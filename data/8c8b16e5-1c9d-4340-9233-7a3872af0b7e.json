@@ -1,0 +1,12 @@
+{
+  "id": "8c8b16e5-1c9d-4340-9233-7a3872af0b7e",
+  "instruction": "Provide a list of the 7 closest star systems to the sun.",
+  "input": "<no input>",
+  "output": "The 7 closest star systems to the Sun are Alpha Centauri, Barnard's Star, Ross 154, Luyten 726-8, Sirius, Procyon, and Ross 248. Alpha Centauri, Barnard's Star, and Ross 154 are all located within just 4.24 light-years of the Sun, making them the closest star systems. Luyten 726-8 is located at a distance of 8.7 light-years, while Sirius, Procyon, and Ross 248 are located at a distance of 8.58, 11.41, and 10.3 light-years, respectively.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

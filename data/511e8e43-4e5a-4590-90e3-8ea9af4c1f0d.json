@@ -1,0 +1,12 @@
+{
+  "id": "511e8e43-4e5a-4590-90e3-8ea9af4c1f0d",
+  "instruction": "Design a database schema that stores user details for an online store",
+  "input": "",
+  "output": "The database schema should include tables for users, products, orders, and payment gateways. The users table should include fields for user details like name, email address, contact details, etc. The products table should include fields for product details like name, price, category, etc. The orders table should include fields for order details including order number, product id, purchase date, etc. The payment gateways table should include fields for payment details such as payment method and transaction id.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

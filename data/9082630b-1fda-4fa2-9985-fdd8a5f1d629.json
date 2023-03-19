@@ -1,0 +1,12 @@
+{
+  "id": "9082630b-1fda-4fa2-9985-fdd8a5f1d629",
+  "instruction": "Given the following sentence, suggest two alternate words for the word 'hello'.",
+  "input": "Hello",
+  "output": "Hi, Hey",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

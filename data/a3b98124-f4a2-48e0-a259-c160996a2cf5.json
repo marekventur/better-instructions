@@ -1,0 +1,12 @@
+{
+  "id": "a3b98124-f4a2-48e0-a259-c160996a2cf5",
+  "instruction": "Summarize the provided text in 3 sentences with a maximum of 40 words each.",
+  "input": "Thomas Edison was an American inventor and businessman. He developed many devices that greatly influenced life around the world, including the phonograph, the motion picture camera, and the long-lasting, practical electric light bulb.",
+  "output": "Thomas Edison was an important American inventor and businessman. He created multiple devices that had significant impacts on the world, such as the phonograph and the electric light bulb. He also made the motion picture camera, enabling the rise of cinema as an art form.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

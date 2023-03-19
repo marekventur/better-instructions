@@ -1,0 +1,12 @@
+{
+  "id": "4dfcbaf3-c3e5-483b-adb9-9f2330ec1c77",
+  "instruction": "Analyze the given poem and provide a 2 sentence conclusion.",
+  "input": "The great sky stretches over me,\nTrapped by its vastness, I cannot flee.",
+  "output": "This poem reflects the daunting nature of life's uncertainties and how they can leave us feeling helpless and defeated. Despite feeling entangled by life's complexities, the poem also ties in a sense of hope and courage to keep going.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

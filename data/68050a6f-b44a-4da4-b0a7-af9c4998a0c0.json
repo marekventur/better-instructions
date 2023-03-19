@@ -1,0 +1,12 @@
+{
+  "id": "68050a6f-b44a-4da4-b0a7-af9c4998a0c0",
+  "instruction": "Classify these dogs as toy, small, medium, and large.",
+  "input": "Chihuahua, Poodle, Beagle, Husky",
+  "output": "Chihuahua: Toy\nPoodle: Small\nBeagle: Medium\nHusky: Large",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

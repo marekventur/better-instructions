@@ -1,0 +1,12 @@
+{
+  "id": "0056c751-73c9-42ca-a248-c1134f59f483",
+  "instruction": "Explain why the given definition is wrong.",
+  "input": "A mole is an animal that lives underground.",
+  "output": "The definition is wrong because a mole is actually a small mammal that lives above ground and feeds on insects. It is most distinguishable by its long snout and wide, paddle-like feet. It does, however, often dig burrows in which it lives and shelters.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

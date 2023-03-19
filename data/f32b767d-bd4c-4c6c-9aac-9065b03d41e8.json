@@ -1,0 +1,12 @@
+{
+  "id": "f32b767d-bd4c-4c6c-9aac-9065b03d41e8",
+  "instruction": "Arrange the given sentence in the most logical order.",
+  "input": "Tom sang the song however Lisa danced",
+  "output": "Lisa danced however Tom sang the song.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "10c2196b-70e3-4d08-9aa7-8575d8b83818",
+  "instruction": "Construct a conversation between a customer service representative and a customer who would like to purchase a product.",
+  "input": "Customer: I'd like to buy [product].",
+  "output": "Customer Service Representative: Hi there, I'm glad you're interested in [product]! Are you familiar with the product's features and benefits?\n\nCustomer: Yes, I am.\n\nCustomer Service Representative: Great! Do you have any questions before I set you up with the purchase?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

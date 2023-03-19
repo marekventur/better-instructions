@@ -1,0 +1,12 @@
+{
+  "id": "ce6e638f-9aa4-4247-aefd-f78c594223be",
+  "instruction": "Summarize the text without changing or deleting the facts.",
+  "input": "The technology sector is a collection of industries that produce a range of products and services based on technology. It includes consumer-oriented tech companies such as Apple, Google and Microsoft, as well as industrial and consumer products and services such as transportation, aerospace, energy and defense. It also includes software, hardware and semiconductors developed by tech companies, as well as services and products related to these industries.",
+  "output": "The technology sector consists of industries that develop products and services revolving around technology. This sector includes consumer-oriented tech firms, industrial and consumer products and services, software, hardware and semiconductor talents, and service development related to those industries. Popular tech companies include Apple, Google and Microsoft.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

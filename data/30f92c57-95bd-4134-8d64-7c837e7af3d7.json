@@ -1,0 +1,12 @@
+{
+  "id": "30f92c57-95bd-4134-8d64-7c837e7af3d7",
+  "instruction": "Explain why access control is important for web security.",
+  "input": "",
+  "output": "Access control is an important part of web security because it restricts user access to resources and prevents unauthorized access to sensitive data. By setting up access control measures, it is possible to control who has access to the server and data, allowing for the implementation of security protocols such as authentication, authorization, and encryption.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

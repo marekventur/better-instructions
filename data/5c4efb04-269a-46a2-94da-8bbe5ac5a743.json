@@ -1,0 +1,12 @@
+{
+  "id": "5c4efb04-269a-46a2-94da-8bbe5ac5a743",
+  "instruction": "Provide a sensible response to a customer's service inquiry.",
+  "input": "Customer Inquiry: \"I just received my order and it didn't have the item I was promised in the description. What do I do?\"",
+  "output": "We\u2019re sorry to hear that. We apologize for the inconvenience caused. Please let us know the details of your order, and we'll do our best to ensure that you receive the item as soon as possible.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

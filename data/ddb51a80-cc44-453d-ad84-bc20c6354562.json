@@ -1,0 +1,12 @@
+{
+  "id": "ddb51a80-cc44-453d-ad84-bc20c6354562",
+  "instruction": "Write a resignation letter",
+  "input": "I am writing to inform you of my resignation from my position with your company, effective two weeks from today.",
+  "output": "Dear [Name], \n\nI am writing to inform you of my resignation from my position as [position], effective two weeks from today. I have enjoyed my time working with your company and am thankful for the opportunities I have been given over the past [time period]. \n\nI wish your company much success in the future, and I am confident that the hard work and dedication of the team will ensure its prosperity. \n\nSincerely,\n[Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

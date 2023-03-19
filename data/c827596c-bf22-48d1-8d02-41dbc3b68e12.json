@@ -1,0 +1,12 @@
+{
+  "id": "c827596c-bf22-48d1-8d02-41dbc3b68e12",
+  "instruction": "Convert this sentence into its past tense.",
+  "input": "She walks to the store",
+  "output": "She walked to the store",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

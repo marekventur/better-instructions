@@ -1,0 +1,12 @@
+{
+  "id": "e48c0ec1-5b89-40de-a68b-b81102a500ef",
+  "instruction": "Rewrite this sentence in a way that conveys the same meaning but does not contain the same words.",
+  "input": "I cannot stand the heat.",
+  "output": "The heat is unbearable for me.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

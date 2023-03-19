@@ -1,0 +1,12 @@
+{
+  "id": "b80f26b0-441a-4692-863b-b01c5d1aa28a",
+  "instruction": "Given a Python dictionary, print out the keys in it.",
+  "input": "{\"apple\": \"fruit\", \"carrot\": \"vegetable\"}",
+  "output": "print(list(dictionary.keys()))\n# Output: ['apple', 'carrot']",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

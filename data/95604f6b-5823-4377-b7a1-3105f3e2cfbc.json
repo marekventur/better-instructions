@@ -1,0 +1,12 @@
+{
+  "id": "95604f6b-5823-4377-b7a1-3105f3e2cfbc",
+  "instruction": "Write a JavaScript function for changing the background color of a website.",
+  "input": "",
+  "output": "function changeBackgroundColor(color) {\n    document.body.style.backgroundColor = color;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

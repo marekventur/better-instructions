@@ -1,0 +1,12 @@
+{
+  "id": "25567b1e-b6f3-4c89-9777-f053a28a0374",
+  "instruction": "Evaluate the following sentence for sentiment:",
+  "input": "The pizza was terrible.",
+  "output": "Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

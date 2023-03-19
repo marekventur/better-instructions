@@ -1,0 +1,12 @@
+{
+  "id": "ea473aa2-4252-4639-8f9a-c731aceaf77d",
+  "instruction": "Develop a survey question targeted to a specific audience",
+  "input": "Audience: Elderly",
+  "output": "What activities do you enjoy engaging in the most to stay active and healthy?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

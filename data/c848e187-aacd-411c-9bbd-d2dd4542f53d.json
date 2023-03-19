@@ -1,0 +1,12 @@
+{
+  "id": "c848e187-aacd-411c-9bbd-d2dd4542f53d",
+  "instruction": "Grade the following essay with a score between 1-10.",
+  "input": "The environment is something we all rely on, yet many take it for granted. The rapid population growth is leading to an unsustainable number of resources. Climate change is a major concern, with many creatures becoming extinct due to the effects of global warming. We need to start making more of an effort now to protect our environment.",
+  "output": "9",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

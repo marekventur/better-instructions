@@ -1,0 +1,12 @@
+{
+  "id": "d1572475-48af-4960-a27d-c5b41104ba02",
+  "instruction": "Identify the incorrect English usage in the sentence",
+  "input": "She asked him to take him to the store.",
+  "output": "She asked him to take her to the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

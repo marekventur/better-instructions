@@ -1,0 +1,12 @@
+{
+  "id": "ad4bf711-4542-4995-b65d-ee64a0798040",
+  "instruction": "Construct a questionnaire to measure customer loyalty.",
+  "input": "",
+  "output": "A customer loyalty questionnaire should collect information about the customer's overall experience with the company, their feelings about the products/services offered, their willingness to recommend the company to others, and their future plans with the company. It should also ask customers to rate the importance of various aspects of their experience, such as customer service, product quality and ease of use. Additionally, the questionnaire should ask open-ended questions to give customers an opportunity to provide additional feedback.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

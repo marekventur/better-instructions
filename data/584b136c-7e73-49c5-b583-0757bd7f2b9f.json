@@ -1,0 +1,12 @@
+{
+  "id": "584b136c-7e73-49c5-b583-0757bd7f2b9f",
+  "instruction": "Generate a valid JSON schema for a customer profile.",
+  "input": "",
+  "output": "{\n  \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n  \"title\": \"Customer Profile\",\n  \"description\": \"A customer profile contains information about an individual customer\",\n  \"type\": \"object\",\n  \"properties\": {\n    \"firstName\": {\n      \"type\": \"string\",\n      \"minLength\": 1\n    },\n    \"lastName\": {\n      \"type\": \"string\",\n      \"minLength\": 1\n    },\n    \"address\": {\n      \"type\": \"object\",\n      \"properties\": {\n        \"street\": {\n          \"type\": \"string\"\n        },\n        \"city\": {\n          \"type\": \"string\"\n        },\n        \"state\": {\n          \"type\": \"string\"\n        },\n        \"zip\": {\n          \"type\": \"string\"\n        }\n      },\n      \"required\": [\"street\", \"city\", \"state\", \"zip\"]\n    },\n    \"phoneNumber\": {\n      \"type\": \"string\"\n    },\n    \"email\": {\n      \"type\": \"string\"\n    }\n  },\n  \"required\": [\"firstName\", \"lastName\", \"address\", \"phoneNumber\", \"email\"]\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

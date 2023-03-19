@@ -1,0 +1,12 @@
+{
+  "id": "ed05aec1-3975-49cd-a5af-6c5f82a7693d",
+  "instruction": "Classify the consumer sentiment toward a particular brand of car.",
+  "input": "Brand of car: Tesla",
+  "output": "The consumer sentiment towards Tesla cars is generally very positive. Tesla is viewed as a leader in the industry with cutting-edge technology and sustainability standards. Many praise the cars for their stylish designs and efficient performance, while others enjoy the convenience offered by the automaker\u2019s self-driving and autopilot features. Additionally, Tesla's vehicles have a reputation for being relatively affordable compared to other luxury car models.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

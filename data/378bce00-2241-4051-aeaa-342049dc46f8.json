@@ -1,0 +1,12 @@
+{
+  "id": "378bce00-2241-4051-aeaa-342049dc46f8",
+  "instruction": "Outline the main characteristics of a web service.",
+  "input": "",
+  "output": "The main characteristics of a web service include a service-oriented architecture, platform independence, loosely coupled systems, and messaging services. Additionally, web services support communication protocols such as HTTP, SOAP, and XML for communication between components, and use the Representational State Transfer (REST) architecture for implementation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

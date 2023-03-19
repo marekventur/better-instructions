@@ -1,0 +1,12 @@
+{
+  "id": "2b296de1-1fb5-4c68-a04b-5d5647a153ea",
+  "instruction": "Design a GPT model to generate commands for a robot to pick up red cubes.",
+  "input": "",
+  "output": "A GPT model that generates commands for a robot to pick up red cubes. This model should generate commands that can be used to instruct the robot to exactly position its grippers around the red cube. It should also be able to dynamically adjust the grip strength depending on the size of the cube.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

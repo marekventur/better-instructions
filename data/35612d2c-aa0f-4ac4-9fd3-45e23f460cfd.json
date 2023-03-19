@@ -1,0 +1,12 @@
+{
+  "id": "35612d2c-aa0f-4ac4-9fd3-45e23f460cfd",
+  "instruction": "Fill in the blank using a verb in the past tense.",
+  "input": "After a long day of work, I _______ home.",
+  "output": "After a long day of work, I went home.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

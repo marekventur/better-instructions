@@ -1,0 +1,12 @@
+{
+  "id": "11b69b4c-463a-41cc-98cd-d0b00a6c7ddd",
+  "instruction": "Write a wedding announcement of the given couple.",
+  "input": "John and Sarah Smith",
+  "output": "John Smith and Sarah Smith are pleased to announce their marriage on Saturday, November 13th. The ceremony was held at the beautiful Redbud Chapel and the reception followed at the Forest View Ballroom. Friends and family are invited to join them in celebrating their love and commitment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d21b697f-6b93-4164-b994-5d2953a55875",
+  "instruction": "Rewrite the following sentence omitting the pronouns.",
+  "input": "She told us she was busy.",
+  "output": "Told busy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

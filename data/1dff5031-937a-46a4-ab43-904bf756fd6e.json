@@ -1,0 +1,12 @@
+{
+  "id": "1dff5031-937a-46a4-ab43-904bf756fd6e",
+  "instruction": "Let's write a persuasive email to one of our prospect customers.",
+  "input": "Company A specializes in providing top-notch marketing and analytics for small businesses.",
+  "output": "Dear Prospect, \n\nWe at Company A understand the importance of successful marketing and analytics for small businesses, which is why we are dedicated to providing top-notch results. Our team is comprised of experienced professionals with years of industry experience and the latest tools to help your business succeed. We are confident our services will help your business take its marketing and analytics to the next level.\n\nThank you for your time and consideration. We look forward to hearing from you soon.\n\nSincerely,  \nCompany A",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

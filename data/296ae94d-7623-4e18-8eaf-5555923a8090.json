@@ -1,0 +1,12 @@
+{
+  "id": "296ae94d-7623-4e18-8eaf-5555923a8090",
+  "instruction": "Divide the following group of numbers into odds and evens:  4, 8, 6, 9, 3",
+  "input": "",
+  "output": "Odds: 4, 9, 3\nEvens: 8, 6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

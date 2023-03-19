@@ -1,0 +1,12 @@
+{
+  "id": "de1c1250-e0d0-4275-9930-c6d7efe09bd2",
+  "instruction": "Generate a JSON object that describes a person",
+  "input": "",
+  "output": "{\n  \"name\": \"John Doe\",\n  \"age\": 28,\n  \"location\": \"New York, NY\",\n  \"occupation\": \"Software Engineer\",\n  \"hobbies\": [\"Gardening\",\"Reading\",\"Swimming\"],\n  \"languages\": [\"English\",\"Spanish\"]\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4cb0fcb9-1766-4f13-8809-fc40c5295811",
+  "instruction": "Develop a system to monitor gaming servers.",
+  "input": "",
+  "output": "A system to monitor gaming servers should include the following components: \n- Network performance monitoring for latency and bottlenecks\n- Monitoring of resource usage to identify high utilization\n- WAN, SAN, and Internet traffic monitoring\n- Analysis of user activity statistics\n- Real-time alerts in case of security threats\n- Monitoring of user access logs\n- Server load balancing\n- Database and application performance monitoring\n- Automated maintenance and recovery actions",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

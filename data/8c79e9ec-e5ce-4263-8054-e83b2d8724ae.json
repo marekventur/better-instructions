@@ -1,0 +1,12 @@
+{
+  "id": "8c79e9ec-e5ce-4263-8054-e83b2d8724ae",
+  "instruction": "Divide the given amount by the given number.",
+  "input": "Amount: 82, Number: 9",
+  "output": "82 divided by 9 is 9.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

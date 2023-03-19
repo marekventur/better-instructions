@@ -1,0 +1,12 @@
+{
+  "id": "43e9c41f-dd17-4484-95dc-348f9929a720",
+  "instruction": "Classify whether the object is animal, plant, or mineral.",
+  "input": "Iron",
+  "output": "mineral",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

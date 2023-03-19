@@ -1,0 +1,12 @@
+{
+  "id": "e5bb51df-7e0a-47ee-8581-8124e496f2fe",
+  "instruction": "Compose two tweets (240 characters max each) about a given movie.",
+  "input": "movie title: \"The Matrix\"",
+  "output": "1. Rewatch The Matrix and experience the phenomena that changed the sci-fi action movie genre forever! #TheMatrix \n2. Red pill or blue pill? There's only one way to find out what awaits in the remarkable world of The Matrix. #Matrixrules",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

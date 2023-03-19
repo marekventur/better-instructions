@@ -1,0 +1,12 @@
+{
+  "id": "a7363c4f-28d5-4811-ba74-a0295aa5b62d",
+  "instruction": "Reverse the following string.",
+  "input": "Hello World!",
+  "output": "!dlroW olleH",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

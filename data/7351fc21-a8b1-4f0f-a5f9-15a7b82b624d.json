@@ -1,0 +1,12 @@
+{
+  "id": "7351fc21-a8b1-4f0f-a5f9-15a7b82b624d",
+  "instruction": "Given a list of integers, find the pair of elements with the maximum sum.",
+  "input": "1, 2, -8, 9, 5",
+  "output": "Found the pair of elements with the maximum sum for the list of integers 1, 2, -8, 9, 5 to be (9, 5) with a sum of 14.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

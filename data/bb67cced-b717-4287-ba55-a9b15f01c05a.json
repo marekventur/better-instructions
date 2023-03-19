@@ -1,0 +1,12 @@
+{
+  "id": "bb67cced-b717-4287-ba55-a9b15f01c05a",
+  "instruction": "Construct a logical valid statement from the the following words.",
+  "input": "['birds', 'flies', 'A'].",
+  "output": "A birds flies.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

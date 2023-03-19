@@ -1,0 +1,12 @@
+{
+  "id": "cd1b417c-8d72-4058-a6ca-dde5df5c579e",
+  "instruction": "Classify the following information according to its type: \"The customer bought a blue shirt.\"",
+  "input": "",
+  "output": "The statement \"The customer bought a blue shirt\" is classified as an action.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

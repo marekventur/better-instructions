@@ -1,0 +1,12 @@
+{
+  "id": "6a4d0bb2-cf44-4238-acf3-1b94dbe71559",
+  "instruction": "Design a simple hello world program.",
+  "input": "",
+  "output": "A simple hello world program can be written in any programming language. Here's a sample program written in Python:\n\nprint(\"Hello, World!\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

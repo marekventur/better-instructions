@@ -1,0 +1,12 @@
+{
+  "id": "d604f38e-a079-4250-9423-60f8f68f951b",
+  "instruction": "Group the following vegetables into two categories based on color: broccoli, carrot, bell pepper, squash.",
+  "input": "broccoli, carrot, bell pepper, squash",
+  "output": "Group 1: broccoli, carrot\nGroup 2: bell pepper, squash",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

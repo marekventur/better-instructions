@@ -1,0 +1,12 @@
+{
+  "id": "f16c0c26-b863-4204-9797-d001a6b4a3eb",
+  "instruction": "Given two numerical values, calculate the percentage increase.",
+  "input": "Original value: 200\nNew Value: 300",
+  "output": "The percentage increase is 50%.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

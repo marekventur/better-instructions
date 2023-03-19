@@ -1,0 +1,12 @@
+{
+  "id": "7bec9210-8d51-4d8e-a48c-fa0b5e6631ae",
+  "instruction": "Change the verb tense of the sentence to simple past.",
+  "input": "I am studying at the library.",
+  "output": "I studied at the library.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

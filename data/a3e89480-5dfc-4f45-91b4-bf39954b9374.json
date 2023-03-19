@@ -1,0 +1,12 @@
+{
+  "id": "a3e89480-5dfc-4f45-91b4-bf39954b9374",
+  "instruction": "Write a weather forecast for next two days.",
+  "input": "",
+  "output": "Tomorrow, temperatures will range from mid-to-high 60s across the city. There is a chance of scattered rain showers in the afternoon.\n\nFor the next day, a slight increase in temperatures is expected, but temperatures will remain below 70 degrees. There is a low chance of rain in the morning, with sunny skies in the afternoon.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

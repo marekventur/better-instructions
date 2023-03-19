@@ -1,0 +1,12 @@
+{
+  "id": "be87fc5f-932b-477c-af95-a21a903e237c",
+  "instruction": "Create a poem of 5 lines with the provided word.",
+  "input": "Word: Dreams",
+  "output": "Dreams are what keep our spirits high,\nTo never become ash, gray, and dry.\nA dream to sleep and a dream to rise,\nTo keep on dreaming with our eyes.\nDreams are here with us all the way;\nAll our wondrous dreams will never stay.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

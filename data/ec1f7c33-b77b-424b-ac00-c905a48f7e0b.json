@@ -1,0 +1,12 @@
+{
+  "id": "ec1f7c33-b77b-424b-ac00-c905a48f7e0b",
+  "instruction": "Assign an appropriate numerical value of \"Yes\" or \"No\" to the following statement.",
+  "input": "Do you like apple pie?",
+  "output": "Yes = 1, No = 0.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bc5f755f-c993-4c3a-a7be-c07258531b6b",
+  "instruction": "Tell me the difference between a hard fork and a soft fork.",
+  "input": "",
+  "output": "The main difference between a hard fork and a soft fork is the level of disruption that occurs when changes are made to a blockchain. A hard fork requires all nodes on the network to upgrade to the new protocol or software in order for it to be adopted. This can be a major disruption if there is an old version of the protocol still running on the network. A soft fork, on the other hand, is backward compatible and does not require existing nodes to upgrade to the new protocol in order for it to be adopted.  This makes a soft fork less disruptive than a hard fork.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

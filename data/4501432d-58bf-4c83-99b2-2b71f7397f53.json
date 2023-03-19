@@ -1,0 +1,12 @@
+{
+  "id": "4501432d-58bf-4c83-99b2-2b71f7397f53",
+  "instruction": "Classify this sentence as declarative, imperative, interrogative, or exclamatory.\n\nThe salesman made an impressive pitch.",
+  "input": "",
+  "output": "Declarative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

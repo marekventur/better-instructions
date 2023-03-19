@@ -1,0 +1,12 @@
+{
+  "id": "b1e68375-6adf-4873-a643-f3d2fa3abd0a",
+  "instruction": "Categorize the sentence according to the following labels: Positive, Neutral, Negative",
+  "input": "The weather forecast is unclear.",
+  "output": "Neutral",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

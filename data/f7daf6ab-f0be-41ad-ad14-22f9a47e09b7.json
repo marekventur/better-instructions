@@ -1,0 +1,12 @@
+{
+  "id": "f7daf6ab-f0be-41ad-ad14-22f9a47e09b7",
+  "instruction": "Identify whether this sentence is written in active or passive voice.",
+  "input": "The ball was thrown by John.",
+  "output": "The sentence is written in passive voice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9b25d812-68cb-4c8b-a4e6-fda74e488c11",
+  "instruction": "Reorganize the text so that the topic sentences are at the end of the paragraph.",
+  "input": "Rainy days not only contribute to a relaxing atmosphere but also bring with them a sense of peace and perspective. The soft, muffling sound of raindrops fills a room in a way nothing else can. Watching the rain can also be calming and a reminder of life\u2019s small but special moments.",
+  "output": "The soft, muffling sound of raindrops fills a room in a way nothing else can. Watching the rain can also be calming and a reminder of life\u2019s small but special moments. Rainy days not only contribute to a relaxing atmosphere but also bring with them a sense of peace and perspective.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

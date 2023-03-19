@@ -1,0 +1,12 @@
+{
+  "id": "232b4ed0-3996-4d14-9085-e35eb9b7fd46",
+  "instruction": "Find a definition for the given definition in a dictionary.",
+  "input": "Friendship",
+  "output": "The state of being friends; the relationship between friends: \"The friendship of two people is based on mutual trust and respect.\" (Oxford English Dictionary)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

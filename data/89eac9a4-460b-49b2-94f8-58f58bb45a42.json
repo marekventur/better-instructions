@@ -1,0 +1,12 @@
+{
+  "id": "89eac9a4-460b-49b2-94f8-58f58bb45a42",
+  "instruction": "Identify the type of sentence structure used.",
+  "input": "The birds are singing, but the sun is hidden.",
+  "output": "Compound-complex sentence",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

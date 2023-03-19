@@ -1,0 +1,12 @@
+{
+  "id": "4bdc4dbe-baf5-45b2-bf3b-98fad03ec1a0",
+  "instruction": "Form a project plan based on the given objectives.",
+  "input": "Objective 1: Increase customer satisfaction by 15%.\nObjective 2: Decrease customer complaints by 20%.",
+  "output": "Project Plan:\n1. Analyze customer complaints to identify areas of dissatisfaction.\n2. Integrate customer feedback into existing processes to improve customer satisfaction.\n3. Monitor customer satisfaction metrics such as Net Promoter Score (NPS) to track progress towards the objectives.\n4. Develop strategies to reduce customer complaints.\n5. Measure results and adjust strategies if needed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

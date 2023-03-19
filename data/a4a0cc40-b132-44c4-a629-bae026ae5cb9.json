@@ -1,0 +1,12 @@
+{
+  "id": "a4a0cc40-b132-44c4-a629-bae026ae5cb9",
+  "instruction": "Analyze the essay and suggest grammar & style improvements.",
+  "input": "Today's generation of youth are becoming more and more undisciplined.",
+  "output": "Today's generation of youth is becoming more and more undisciplined.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

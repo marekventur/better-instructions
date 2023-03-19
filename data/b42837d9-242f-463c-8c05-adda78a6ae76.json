@@ -1,0 +1,12 @@
+{
+  "id": "b42837d9-242f-463c-8c05-adda78a6ae76",
+  "instruction": "Classify whether this text is opinion or fact.",
+  "input": "Barcelona is the capital of Spain.",
+  "output": "Fact",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

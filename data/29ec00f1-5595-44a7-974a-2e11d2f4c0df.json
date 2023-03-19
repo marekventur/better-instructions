@@ -1,0 +1,12 @@
+{
+  "id": "29ec00f1-5595-44a7-974a-2e11d2f4c0df",
+  "instruction": "Generate a numerical fact about the number 12.",
+  "input": "",
+  "output": "12 is the smallest abundant number, which means that the sum of its divisors is greater than the number itself.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

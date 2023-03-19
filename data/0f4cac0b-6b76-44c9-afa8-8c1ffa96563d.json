@@ -1,0 +1,12 @@
+{
+  "id": "0f4cac0b-6b76-44c9-afa8-8c1ffa96563d",
+  "instruction": "Compute the total cost, given the following information.",
+  "input": "3 TVs at $149 each",
+  "output": "The total cost is $447.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f2519286-66cc-4e61-962f-6bb089af9951",
+  "instruction": "Given the facts provided, construct an informative sentence.",
+  "input": "Anomaly: power shortage\nLocation: California",
+  "output": "California is currently dealing with a power shortage due to an unexpected anomaly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

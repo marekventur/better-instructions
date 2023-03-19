@@ -1,0 +1,12 @@
+{
+  "id": "db20b5d6-8788-4fd0-b568-5eaed8034fe5",
+  "instruction": "Rewrite the following sentence so that it is in active voice.",
+  "input": "The problem is being solved by her.",
+  "output": "She is solving the problem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

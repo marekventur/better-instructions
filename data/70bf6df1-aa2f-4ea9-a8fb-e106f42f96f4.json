@@ -1,0 +1,12 @@
+{
+  "id": "70bf6df1-aa2f-4ea9-a8fb-e106f42f96f4",
+  "instruction": "Compare the two given pieces of prose below, explain the main difference between them.",
+  "input": "\"The storm is raging over the sea while the sun is shining in the horizon.\"\n\"Rain is pouring over the ocean while the sun is beaming in the distance.\"",
+  "output": "The main difference between the two pieces of prose is in the type of precipitation mentioned. The first passage describes a storm while the second mentions rain. Additionally, the first passage uses the expression \"raging\" to show the strength of the storm while the second passage describes the sun as \"beaming\" to show its brightness.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4a662a37-0a13-4791-8ec3-87ca7c2dfea2",
+  "instruction": "Greet the host of a party using a personalized statement.",
+  "input": "Name: Jane",
+  "output": "Hi Jane, nice to meet you! It's great to see you again - I'm so excited for this party!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

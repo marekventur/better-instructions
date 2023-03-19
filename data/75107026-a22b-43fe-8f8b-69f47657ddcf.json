@@ -1,0 +1,12 @@
+{
+  "id": "75107026-a22b-43fe-8f8b-69f47657ddcf",
+  "instruction": "Summarize a given document.",
+  "input": "According to UNICEF, over the last decade, the number of out-of-school children of primary school age has decreased from 106 million to 70 million. However, the progress has been uneven, in part due to major population growth in sub-Saharan Africa. As a result, the gap between the number of children who finish primary school and those who do not is widening.",
+  "output": "Unicef reported that the number of out-of-school children aged approximately 6-11 has decreased from 106 million to 70 million over the past decade, but the progress is inconsistent and population growth in some regions, such as sub-Saharan Africa, is making the gap between educated and uneducated kids larger.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

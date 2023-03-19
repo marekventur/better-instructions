@@ -1,0 +1,12 @@
+{
+  "id": "f30dc2b1-cb1c-4e3a-9664-8cd3e079db30",
+  "instruction": "Suggest two ways to improve the given code.",
+  "input": "const a = 3;\nconst b = 5;\nconst c = a * b;",
+  "output": "Two ways to improve the code are to add descriptive variable names to the constants and to use a Math function instead of multiplication:\n\nconst num_a = 3;\nconst num_b = 5;\nconst product = Math.multiply(num_a, num_b);",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f6305b48-9f95-42de-a192-fb38766f2187",
+  "instruction": "Describe a method for solving the following equation: 2x - y + 7 = 0",
+  "input": "",
+  "output": "One method for solving the equation is to first add 7 to both sides of the equation, so that y is isolated on the left-hand side. Then, divide both sides by 2, including the y-term, to cancel out the coefficient of 2. The resulting equation will have a single variable equal to the solution of the original equation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

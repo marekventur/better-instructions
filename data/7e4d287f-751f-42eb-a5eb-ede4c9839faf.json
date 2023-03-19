@@ -1,0 +1,12 @@
+{
+  "id": "7e4d287f-751f-42eb-a5eb-ede4c9839faf",
+  "instruction": "Given a list of tasks, identify which ones are open-ended and which ones are closed-ended.",
+  "input": "- Write an essay about your favorite books\n- Rate your level of satisfaction with a product on a scale from 1 to 10",
+  "output": "The task \"Write an essay about your favorite books\" is an open-ended task, as there are no set parameters for how the essay should be written or what information it should include. \n\nThe task \"Rate your level of satisfaction with a product on a scale from 1 to 10\" is a closed-ended task, as there are specific parameters for how it should be completed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4d8fdc74-40a3-458f-84b8-3d3dc9a96a5e",
+  "instruction": "Add a comma in the appropriate place.",
+  "input": "The dog chased the cat across the yard",
+  "output": "The dog, chased the cat across the yard.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

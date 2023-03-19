@@ -1,0 +1,12 @@
+{
+  "id": "22733d2c-1dac-4aef-add4-2b3e0451f92c",
+  "instruction": "Replace the words in bold with synonms",
+  "input": "She arrived late for the meeting and it made me apprehensive.",
+  "output": "She arrived tardy for the meeting and it made me uneasy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

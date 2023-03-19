@@ -1,0 +1,12 @@
+{
+  "id": "31570888-b745-4e54-8555-ad52e2f4146a",
+  "instruction": "Classify the given task as a text classification or text generation task.",
+  "input": "Generating descriptions of objects in images.",
+  "output": "Text generation task.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

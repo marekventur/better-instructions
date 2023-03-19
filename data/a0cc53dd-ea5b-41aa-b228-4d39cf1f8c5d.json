@@ -1,0 +1,12 @@
+{
+  "id": "a0cc53dd-ea5b-41aa-b228-4d39cf1f8c5d",
+  "instruction": "Arrange the given pieces of information into a logical sequence.",
+  "input": "i. Verify the user's identity\nii. Process the payment\niii. Offer customer support\niv. Display order confirmation",
+  "output": "i. Verify the user's identity\nii. Process the payment\niii. Display order confirmation\niv. Offer customer support",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

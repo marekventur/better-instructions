@@ -1,0 +1,12 @@
+{
+  "id": "a003bd28-d422-4d50-86f9-23f7afa32f71",
+  "instruction": "Classify the following animal as either extinct or endangered.",
+  "input": "Pygmy three-toed sloth",
+  "output": "The Pygmy three-toed sloth is classified as an endangered species. It is endemic to Ecuador's Isla Escudo de Veraguas, a small island off the coast of Panama. It is threatened by the destruction of its habitat, mostly due to human activities such as deforestation, hunting, and fishing. It is estimated that only about 300 individuals are left in the wild.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

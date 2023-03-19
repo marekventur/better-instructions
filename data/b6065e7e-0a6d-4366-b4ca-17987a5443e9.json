@@ -1,0 +1,12 @@
+{
+  "id": "b6065e7e-0a6d-4366-b4ca-17987a5443e9",
+  "instruction": "Select the correct order for the clauses in the following sentence.",
+  "input": "In his face reflected the horror",
+  "output": "The horror was reflected in his face.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6780fa28-570c-47f9-a1bb-603a2684a156",
+  "instruction": "Find three words in the text that are antonyms of each other.",
+  "input": "The soldiers ran hastily towards the battle.",
+  "output": "run, hastily, slowly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

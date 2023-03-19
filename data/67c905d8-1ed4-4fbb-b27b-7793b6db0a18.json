@@ -1,0 +1,12 @@
+{
+  "id": "67c905d8-1ed4-4fbb-b27b-7793b6db0a18",
+  "instruction": "Construct a neural network to solve linear regression.",
+  "input": "<noinput>.",
+  "output": "The neural network for solving linear regression should have one input layer, one hidden layer, and one output layer. The input layer should have one neuron for each input variable, and the output layer should have one neuron for the output variable. The hidden layer should have an appropriate number of neurons to allow the network to learn and approximate the linear regression model. The neurons are arranged in a fully connected network, with the output of each neuron connected to the input of all neurons in the next layer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

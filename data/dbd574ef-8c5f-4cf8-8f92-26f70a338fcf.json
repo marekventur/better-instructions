@@ -1,0 +1,12 @@
+{
+  "id": "dbd574ef-8c5f-4cf8-8f92-26f70a338fcf",
+  "instruction": "Given a set of lyrics, edit it for more poetic effect.",
+  "input": "I love you and it's true",
+  "output": "My love for you is true.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

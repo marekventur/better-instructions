@@ -1,0 +1,12 @@
+{
+  "id": "ccbaec89-fb95-4dc4-aa42-ea4508340463",
+  "instruction": "Extract all the nouns from the sentence and output them in a list.",
+  "input": "The quick brown fox jumps over the lazy dog.",
+  "output": "['fox', 'dog']",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "56edf6bc-5190-485d-8921-7086f20f7c50",
+  "instruction": "Add an example to the given context.",
+  "input": "A doctor's visit can be an important part of staying healthy.",
+  "output": "For example, getting regular check-ups and screenings, such as mammograms for women over 40, can help detect health problems before they become serious.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

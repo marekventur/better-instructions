@@ -1,0 +1,12 @@
+{
+  "id": "0e892f5e-7613-4d6f-8811-9c9d89029a99",
+  "instruction": "Re-write the following sentence using correct grammar to make it grammatically correct.",
+  "input": "John and his brother was in the house",
+  "output": "John and his brother were in the house.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

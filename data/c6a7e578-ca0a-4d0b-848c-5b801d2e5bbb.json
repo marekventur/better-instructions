@@ -1,0 +1,12 @@
+{
+  "id": "c6a7e578-ca0a-4d0b-848c-5b801d2e5bbb",
+  "instruction": "Find a numeric value for the following term.",
+  "input": "Global temperature rise",
+  "output": "According to the World Meteorological Organization, the average global temperature has risen approximately 1.1 degrees Celsius (2.0 degrees Fahrenheit) since the preindustrial era.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

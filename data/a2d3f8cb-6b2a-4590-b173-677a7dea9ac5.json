@@ -1,0 +1,12 @@
+{
+  "id": "a2d3f8cb-6b2a-4590-b173-677a7dea9ac5",
+  "instruction": "Write an expression to calculate the sum of numbers in the array.",
+  "input": "[2, 5, 8, 15, 7]",
+  "output": "2 + 5 + 8 + 15 + 7 = 37",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6690841a-2f09-4e4e-a55b-dc3d9964fc4e",
+  "instruction": "Give a description of the following customer segment.",
+  "input": "Online shoppers in the US aged between 18-25",
+  "output": "This customer segment consists of online shoppers in the US aged between 18-25. They are typically young adults who are tech-savvy and prefer to shop online for convenience and variety. They often shop for a variety of items, ranging from clothing to electronics and are comfortable using different payment methods such as credit or debit cards and digital wallets.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

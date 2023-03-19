@@ -1,0 +1,12 @@
+{
+  "id": "97d099e2-0777-4f3b-bed8-eb751c7dbd0a",
+  "instruction": "Change the points in the given sentence into a single sentence.",
+  "input": "The dog barked. It wagged its tail.",
+  "output": "The dog barked and wagged its tail.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

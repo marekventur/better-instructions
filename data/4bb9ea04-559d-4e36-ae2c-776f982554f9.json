@@ -1,0 +1,12 @@
+{
+  "id": "4bb9ea04-559d-4e36-ae2c-776f982554f9",
+  "instruction": "Align the two texts.",
+  "input": "Text A: This is an important decision\n Text B: It is a very difficult one",
+  "output": "Text A: This is an important decision \nText B:              It is a very difficult one",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

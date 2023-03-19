@@ -1,0 +1,12 @@
+{
+  "id": "d9a3ff9f-9195-4b7e-82dc-9a8e7dd26a51",
+  "instruction": "Classify the following flower species as either a wild or hybrid flower.",
+  "input": "Iris germanica",
+  "output": "This is a wild flower.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

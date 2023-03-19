@@ -1,0 +1,12 @@
+{
+  "id": "06f0a19e-34ff-4236-899e-13d3506f7209",
+  "instruction": "Generate an email draft to inform customers about a product launch.",
+  "input": "Product: \"Gift Cards\"",
+  "output": "Dear valued customers,\n\nWe are delighted to announce the launch of our new gift cards. Our gift cards are the perfect way to show your appreciation to a loved one, family member or friend. Show that special someone how much you care by offering them the freedom to choose with a gift card. \n\nOur gift cards are available in a range of denominations, making them the perfect gift for any occasion. Gift cards can be redeemed in any of our stores or online, giving recipients access to an extensive array of products. \n\nThank you for choosing us! We look forward to making your shopping experience even better with our gift cards.\n\nSincerely,\n[Company Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

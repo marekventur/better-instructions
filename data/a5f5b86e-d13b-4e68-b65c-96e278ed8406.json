@@ -1,0 +1,12 @@
+{
+  "id": "a5f5b86e-d13b-4e68-b65c-96e278ed8406",
+  "instruction": "Generate an appropriate joke using the following input.",
+  "input": "A ghost and a vampire",
+  "output": "Q: What did the ghost say to the vampire? \nA: \"You can't scare me! I don't have a pulse!\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

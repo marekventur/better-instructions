@@ -1,0 +1,12 @@
+{
+  "id": "8b7a2932-2bbf-4722-90ee-0e827750824d",
+  "instruction": "Identify the metric system unit for the given unit.",
+  "input": "Inches",
+  "output": "Inches are a unit of length in the Imperial and U.S. customary systems of measurement. In the metric system, inches are represented by the unit \"centimeters\", which is equivalent to one hundredth of a meter.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

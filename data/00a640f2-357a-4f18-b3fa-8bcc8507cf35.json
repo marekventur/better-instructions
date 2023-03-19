@@ -1,0 +1,12 @@
+{
+  "id": "00a640f2-357a-4f18-b3fa-8bcc8507cf35",
+  "instruction": "Reorganize the given sentence so that it has the proper grammar.",
+  "input": "It was being followed the dog.",
+  "output": "The dog was following it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

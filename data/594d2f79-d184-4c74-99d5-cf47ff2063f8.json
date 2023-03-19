@@ -1,0 +1,12 @@
+{
+  "id": "594d2f79-d184-4c74-99d5-cf47ff2063f8",
+  "instruction": "Use provided information to answer the question.",
+  "input": "What is the total cost of three baseball caps that cost $7.99 each, four t-shirts that cost $14.99 each, and one pair of running shoes that cost $45.99?",
+  "output": "The total cost is $96.95.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

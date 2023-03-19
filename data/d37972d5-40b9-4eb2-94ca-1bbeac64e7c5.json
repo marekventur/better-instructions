@@ -1,0 +1,12 @@
+{
+  "id": "d37972d5-40b9-4eb2-94ca-1bbeac64e7c5",
+  "instruction": "Generate a unique recipe for a cold salad",
+  "input": "",
+  "output": "Veggie Quinoa Salad:\nIngredients: \n- 1 cup cooked quinoa\n- 2 cups grape tomatoes, halved\n- 1 cup cooked corn\n- 1 bell pepper, diced\n- 1 cucumber, diced\n- 1/2 cup chopped onion\n- 1/4 cup freshly chopped parsley\n- 1/4 cup freshly chopped basil\n- 1/4 cup olive oil\n- 1/4 cup freshly squeezed lemon juice\n- 2 cloves minced garlic\n- Salt and pepper to taste\n\n\nInstructions: \n1. Cook the quinoa according to package instructions. Let it cool completely.\n2. In a large bowl, mix together the cooked quinoa, tomatoes, corn, bell pepper, cucumber, onion, parsley and basil.\n3. In a small bowl, whisk together the olive oil, lemon juice, garlic and seasonings.\n4. Pour the dressing over the quinoa mixture and stir to combine.\n5. Refrigerate for 1 hour before serving.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

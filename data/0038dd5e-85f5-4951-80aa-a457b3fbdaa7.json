@@ -1,0 +1,12 @@
+{
+  "id": "0038dd5e-85f5-4951-80aa-a457b3fbdaa7",
+  "instruction": "Train a classifier for the sentence: \"I want to buy a book\".",
+  "input": "I want to buy a book",
+  "output": "The classifier predicts that the sentence is referring to a purchase intention.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

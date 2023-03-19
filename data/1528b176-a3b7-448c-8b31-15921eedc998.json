@@ -1,0 +1,12 @@
+{
+  "id": "1528b176-a3b7-448c-8b31-15921eedc998",
+  "instruction": "Given two temperature values in Fahrenheit and Celsius, convert the Fahrenheit value to Celsius.",
+  "input": "Fahrenheit: 212, Celsius: 100",
+  "output": "37.8\u00b0C",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

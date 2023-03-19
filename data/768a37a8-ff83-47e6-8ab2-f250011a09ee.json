@@ -1,0 +1,12 @@
+{
+  "id": "768a37a8-ff83-47e6-8ab2-f250011a09ee",
+  "instruction": "Create an algorithm for finding the sum of the natural numbers from 1 to n",
+  "input": "",
+  "output": "The algorithm for finding the sum of the natural numbers from 1 to n is as follows:\n\n1. Set variable 'total' equal to 0\n2. For loop through all of the numbers from 1 to n \n3. For each number, add to the variable 'total'\n4. Return the value of the variable 'total'",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

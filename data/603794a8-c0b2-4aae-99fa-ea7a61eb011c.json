@@ -1,0 +1,12 @@
+{
+  "id": "603794a8-c0b2-4aae-99fa-ea7a61eb011c",
+  "instruction": "Given two sentences, output the subject-verb-object structure of the second sentence.",
+  "input": "John is eating pizza. He is drinking beer.",
+  "output": "He is drinking beer. [Subject: He Verb: is Object: beer]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2518d9de-53db-4e5c-83b0-bed9941d2077",
+  "instruction": "Add this phrase to a response about the history of the French Revolution: \"In the end it led to the creation of the Republic.\"",
+  "input": "The French Revolution began in 1789 and lasted until 1799.",
+  "output": "The French Revolution began in 1789 and lasted until 1799. In the end it led to the creation of the Republic.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

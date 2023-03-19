@@ -1,0 +1,12 @@
+{
+  "id": "3d240a13-3c0e-459f-948c-374868a8632c",
+  "instruction": "Assuming ideal conditions, determine the maximum speed of a locomotive given it has a mass of 25 tons, a power rating of 3,000 kW and friction force of 1,500 kN.",
+  "input": "mass = 25 tons, power rating = 3000 kW, friction force = 1,500 kN",
+  "output": "Under ideal conditions, the maximum speed of the locomotive is 75 m/s.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1180ca93-d226-4d87-81a3-7d0e9b0d238a",
+  "instruction": "Given the following code, how many times will the code print \"Hello World\"?",
+  "input": "for x in range(0, 10):\n    print('Hello World')",
+  "output": "The code will print \"Hello World\" 10 times.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

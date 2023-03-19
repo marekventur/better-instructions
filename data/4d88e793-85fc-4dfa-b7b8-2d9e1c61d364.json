@@ -1,0 +1,12 @@
+{
+  "id": "4d88e793-85fc-4dfa-b7b8-2d9e1c61d364",
+  "instruction": "Add five actions verbs to the following sentence.",
+  "input": "When Jack",
+  "output": "When Jack ran, shouted, jumped, spun, and clapped.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

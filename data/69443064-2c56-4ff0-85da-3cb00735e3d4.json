@@ -1,0 +1,12 @@
+{
+  "id": "69443064-2c56-4ff0-85da-3cb00735e3d4",
+  "instruction": "Find the most significant differences in the given two documents.",
+  "input": "Doc1:\nApple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.\n\nDoc2:\nMicrosoft Corporation is an American multinational technology company with headquarters in Redmond, Washington, that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
+  "output": "The most significant differences between Apple Inc. and Microsoft Corporation are their headquarters locations, the type of products they offer and the services they provide. Apple is headquartered in Cupertino, California, and focuses on the design and development of consumer electronics, computer software, and online services while Microsoft is headquartered in Redmond, Washington and specializes in computer software, consumer electronics, and personal computers. Additionally, Microsoft provides a variety of supporting and sales services such as software training, business consulting, and technical support.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

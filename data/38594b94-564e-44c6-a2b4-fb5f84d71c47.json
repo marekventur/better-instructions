@@ -1,0 +1,12 @@
+{
+  "id": "38594b94-564e-44c6-a2b4-fb5f84d71c47",
+  "instruction": "Create an algorithm that identifies if an object is glass or metal.",
+  "input": "",
+  "output": "The algorithm can use an input image of a given object and compare it to known patterns or surface textures of glass and metal. A range of image processing techniques such as edge detection, background substraction, morphological filtering and color tracking can be utilized to identify distinguishable features of the object. The algorithm should be able to return a verdict of whether the object is glass or metal based on these features.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

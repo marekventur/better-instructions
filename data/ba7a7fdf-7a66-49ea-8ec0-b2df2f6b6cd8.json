@@ -1,0 +1,12 @@
+{
+  "id": "ba7a7fdf-7a66-49ea-8ec0-b2df2f6b6cd8",
+  "instruction": "Detect the sentiment of the given sentence. Score the sentiment on a scale of 0 - 4, where 0 is 'Negative', 1 is 'Slightly Negative', 2 is 'Neutral', 3 is 'Slightly Positive', 4 is 'Positive'.",
+  "input": "The view from the hotel room was breathtaking.",
+  "output": "4",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

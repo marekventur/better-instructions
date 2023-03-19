@@ -1,0 +1,12 @@
+{
+  "id": "9eed9c0a-4e31-4388-953a-84723b7759e4",
+  "instruction": "Compute the area of triangle from the given 3 sides",
+  "input": "side1=3, side2=4, side3=5",
+  "output": "6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

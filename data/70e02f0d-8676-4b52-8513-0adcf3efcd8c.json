@@ -1,0 +1,12 @@
+{
+  "id": "70e02f0d-8676-4b52-8513-0adcf3efcd8c",
+  "instruction": "Change the language to make the text sound more formal.",
+  "input": "It's best to finish this task before 8:00.",
+  "output": "It is advisable to complete this task by 8:00.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

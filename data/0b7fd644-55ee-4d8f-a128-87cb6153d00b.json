@@ -1,0 +1,12 @@
+{
+  "id": "0b7fd644-55ee-4d8f-a128-87cb6153d00b",
+  "instruction": "Delete a line from the following song lyric.",
+  "input": "Is this the real life, \nIs this just fantasy\nCaught in a landslide \nNo escape from reality",
+  "output": "Is this the real life, \nIs this just fantasy\nCaught in a landslide",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

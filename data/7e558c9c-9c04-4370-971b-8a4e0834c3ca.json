@@ -1,0 +1,12 @@
+{
+  "id": "7e558c9c-9c04-4370-971b-8a4e0834c3ca",
+  "instruction": "Add the missing capitalization and punctuation",
+  "input": "during the long flight my thoughts wandered",
+  "output": "During the long flight, my thoughts wandered.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

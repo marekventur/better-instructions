@@ -1,0 +1,12 @@
+{
+  "id": "c7183675-88d4-4ac7-9f74-c6d5daad8c4c",
+  "instruction": "Summarize the reading to less than 80 words.",
+  "input": "Mary walked to the park to get some fresh air. She sat on the grass and watched the children play. She heard the birds singing in the trees and the sun shining on her face.",
+  "output": "Mary journeyed to the park to escape the indoors and get some fresh air. She relaxed and watched the children play, enjoying the sound of birds singing in the trees and the warmth of the sun on her face.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

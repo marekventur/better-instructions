@@ -1,0 +1,12 @@
+{
+  "id": "23d0debe-5ea4-4b58-83bb-c939a931c966",
+  "instruction": "Delete the inappropriate words",
+  "input": "This paper clip is actually really really big",
+  "output": "This paper clip is really big.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

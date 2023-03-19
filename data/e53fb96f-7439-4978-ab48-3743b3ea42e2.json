@@ -1,0 +1,12 @@
+{
+  "id": "e53fb96f-7439-4978-ab48-3743b3ea42e2",
+  "instruction": "Categorize the following animals: snake, giraffe, bear.",
+  "input": "",
+  "output": "Snake: Reptile, Giraffe: Mammal, Bear: Mammal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

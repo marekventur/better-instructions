@@ -1,0 +1,12 @@
+{
+  "id": "e9eb54c6-1545-414d-b908-bc77c027f949",
+  "instruction": "How do you go about debugging the given program?",
+  "input": "Program:\ndef calculate_sum(numbers):\n    sum = 0\n    for n in numbers:\n        sum = n + n\n    return sum\n\nprint(calculate_sum([1, 2, 3]))\n\nExpected output: 6",
+  "output": "The first step in debugging this program is to check each line and identify any potential errors or typos. As written, the code is adding each number two times, instead of once. To correct this error, the line of code sum = n + n should be changed to sum = sum + n. \n\nThe next step is to test the program to confirm that it is functioning correctly. To do this, run the program, and check that the output is 6, as expected.\n\nIf the output is not 6, then the program should be further debugged until the correct output is achieved.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

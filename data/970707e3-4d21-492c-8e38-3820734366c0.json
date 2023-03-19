@@ -1,0 +1,12 @@
+{
+  "id": "970707e3-4d21-492c-8e38-3820734366c0",
+  "instruction": "Given a group of people and a situation, suggest an appropriate decision.",
+  "input": "A group of five friends planning a trip out of town",
+  "output": "The group should decide on a destination, budget, and timeline that works for all of them, and then make plans accordingly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

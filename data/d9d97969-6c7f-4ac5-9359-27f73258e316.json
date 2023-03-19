@@ -1,0 +1,12 @@
+{
+  "id": "d9d97969-6c7f-4ac5-9359-27f73258e316",
+  "instruction": "Classify the following fruit according to its color.",
+  "input": "Orange",
+  "output": "Orange is a yellow-orange color.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

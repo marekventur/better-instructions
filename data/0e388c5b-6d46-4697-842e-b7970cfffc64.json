@@ -1,0 +1,12 @@
+{
+  "id": "0e388c5b-6d46-4697-842e-b7970cfffc64",
+  "instruction": "Give an example of a technology that uses probabilistic thinking.",
+  "input": "",
+  "output": "One example of a technology that utilizes probabilistic thinking is a Bayesian network. Bayesian networks are graphical models of probabilistic relationships between random variables. They are used to represent and reason about uncertain knowledge, and can be used to estimate the probability of certain events or the most likely outcome of certain events. They can be used for predictive analytics and data mining.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

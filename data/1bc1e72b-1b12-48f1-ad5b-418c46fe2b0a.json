@@ -1,0 +1,12 @@
+{
+  "id": "1bc1e72b-1b12-48f1-ad5b-418c46fe2b0a",
+  "instruction": "Write a thank you email to a professor after a successful internship program.",
+  "input": "Project results:\n- Achieved target of a 10% increase in efficiency\n- Won an award for most innovative project",
+  "output": "Dear Professor ____, \n\nI would like to take this opportunity to thank you for the wonderful learning experience I have had interning under you. I have thoroughly enjoyed learning the tools and techniques you have taught me, and I am proud to have achieved the target we set of a 10% increase in efficiency. Additionally, I'm delighted to have won the award for most innovative project.\n\nYour guidance, support and encouragement has been invaluable, and it has been a privilege to work with you. I am grateful for the opportunity and I look forward to staying in contact with you. \n\nSincerely, \n____",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

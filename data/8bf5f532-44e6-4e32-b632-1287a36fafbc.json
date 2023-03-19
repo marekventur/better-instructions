@@ -1,0 +1,12 @@
+{
+  "id": "8bf5f532-44e6-4e32-b632-1287a36fafbc",
+  "instruction": "Combine these two sentences into one.",
+  "input": "She went out. She danced in the rain.",
+  "output": "She went out and danced in the rain.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

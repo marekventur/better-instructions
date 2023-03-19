@@ -1,0 +1,12 @@
+{
+  "id": "22333ddc-293d-4c92-b0a8-3e0712cd8453",
+  "instruction": "Calculate the circumference of a circle given two points A and B on the circumference.",
+  "input": "A = (2, 4), B = (6, 8).",
+  "output": "The circumference of a circle which has two points A(2, 4) and B(6, 8) on its circumference is 12.83 units.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

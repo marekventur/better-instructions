@@ -1,0 +1,12 @@
+{
+  "id": "9de9c5b5-d5f1-4e40-a4fe-7a202c808018",
+  "instruction": "Compare the voice samples and output which one is higher in pitch and which one is deeper.",
+  "input": "Voice Sample 1: \"Hello, how are you today\"\nVoice Sample 2: \"Hi, how can I help you\"",
+  "output": "Voice Sample 1 is higher in pitch, while Voice Sample 2 is deeper.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

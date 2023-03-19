@@ -1,0 +1,12 @@
+{
+  "id": "a64d898b-9ba5-44a4-bcee-0b4ba82420bb",
+  "instruction": "Remove any mistakes in the following sentence.",
+  "input": "Everyone whoing to play must sign their name.",
+  "output": "Everyone who wants to play must sign their name.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

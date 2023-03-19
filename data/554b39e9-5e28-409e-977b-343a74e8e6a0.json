@@ -1,0 +1,12 @@
+{
+  "id": "554b39e9-5e28-409e-977b-343a74e8e6a0",
+  "instruction": "Classify the following series of numbers.",
+  "input": "2, 4, 6, 8",
+  "output": "This is an even number series.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

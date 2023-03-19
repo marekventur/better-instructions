@@ -1,0 +1,12 @@
+{
+  "id": "7c2bcd24-68ca-48fb-8a72-f4dd5647e063",
+  "instruction": "Write a query for an SQL database.",
+  "input": "A movie database which has a table of 'movies' and a table of 'actors'.",
+  "output": "SELECT movies.title, actors.name\nFROM movies\nINNER JOIN actors ON movies.actor_id = actors.id;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

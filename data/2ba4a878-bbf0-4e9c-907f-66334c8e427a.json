@@ -1,0 +1,12 @@
+{
+  "id": "2ba4a878-bbf0-4e9c-907f-66334c8e427a",
+  "instruction": "Explain the difference between a neural network and an artificial neural network.",
+  "input": "",
+  "output": "A neural network is a computing system that is inspired by biological neural networks, which use neurons and synapses to process information. An artificial neural network is a type of neural network that uses artificial intelligence (AI) to learn from examples and experiences, and is able to generalize what it has learned to unseen data. Artificial neural networks can be applied to a variety of tasks, such as classification and regression, and are used as the basis for many forms of modern machine learning algorithms. They are composed of layers of neurons, which are connected together and activated by weighted sums of input values. The weights are adjusted over time using a variety of algorithms and techniques. This process allows the neural network to learn the desired behavior and results in a network with specific parameters that can be used to make predictions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

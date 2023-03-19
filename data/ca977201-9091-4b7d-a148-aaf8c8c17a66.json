@@ -1,0 +1,12 @@
+{
+  "id": "ca977201-9091-4b7d-a148-aaf8c8c17a66",
+  "instruction": "Create a technical design document for this chatbot feature.",
+  "input": "The chatbot should be able to answer questions about a company's products.",
+  "output": "The following document outlines the technical design for a chatbot feature that will enable users to ask questions about a company's products. \n\nThe chatbot will contain a library of product knowledge that it can draw from to answer users' questions. The library will be manually updated as new product information becomes available. \n\nThe chatbot will use natural language processing (NLP) technology to interpret the user's language and map it to the library of product knowledge. Algorithms will analyze the user's language and attempt to understand what type of product information is being asked for, then it will look up the corresponding data in the library.\n\nOnce a match is found, the chatbot will generate a response based on the data it has retrieved. The response can be customized by using predefined templates that allow for the insertion of product details and images.\n\nFinally, the chatbot will log all user interactions as well as feedback from users that can be used for analytics and optimization purposes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "207753c7-5485-4c93-91e3-1515a2dcdb93",
+  "instruction": "Infer what the person is feeling",
+  "input": "The man closed his eyes and closed the door",
+  "output": "The man may be feeling fatigued, defeated, or resigned.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

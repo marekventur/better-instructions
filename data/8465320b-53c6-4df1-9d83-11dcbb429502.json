@@ -1,0 +1,12 @@
+{
+  "id": "8465320b-53c6-4df1-9d83-11dcbb429502",
+  "instruction": "Design a web page with two columns and a footer.",
+  "input": "",
+  "output": "<html> \n<head> \n<style> \n  .column {\n    float: left;\n    width: 50%; \n    padding: 15px;\n  }\n  \n  .footer {\n    padding: 15px; \n  } \n\n</style> \n</head> \n<body>\n  <div class=\"column\"> \n    <!-- The content in the left column -->\n  </div>\n  <div class=\"column\"> \n    <!-- The content in the right column -->\n  </div>\n  <div class=\"footer\"> \n    <!-- Footer -->\n  </div>\n</body> \n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

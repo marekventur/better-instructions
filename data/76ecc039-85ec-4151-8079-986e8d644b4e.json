@@ -1,0 +1,12 @@
+{
+  "id": "76ecc039-85ec-4151-8079-986e8d644b4e",
+  "instruction": "Edit the following text to incorporate a counterargument paragraph.",
+  "input": "The evidence shows that gun control is effective in decreasing gun-related crimes.",
+  "output": "The evidence shows that gun control is effective in decreasing gun-related crimes. However, some opponents of gun control argue that gun control laws will not have an effect on the amount of gun-related crimes and may even lead to an increase in gun-related crime as guns will become more difficult to buy legally, contributing to the underground gun market. They further argue that the most effective way to reduce gun-related crime is to focus on the root causes of these crimes, such as poverty and lack of access to proper mental health care.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

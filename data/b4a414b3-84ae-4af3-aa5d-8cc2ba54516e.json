@@ -1,0 +1,12 @@
+{
+  "id": "b4a414b3-84ae-4af3-aa5d-8cc2ba54516e",
+  "instruction": "Given the following sentence, suggest alternative words for the underlined words",
+  "input": "The manager employed the interns.",
+  "output": "The manager hired the interns.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9dfbae27-ecc5-48e0-8509-57d1a001ff01",
+  "instruction": "Given an input sentence, suggest a creative tagline that fits the context.",
+  "input": "We are a company devoted to sustainable wellness.",
+  "output": "Choose a healthier future: sustainable wellness with us!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

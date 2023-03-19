@@ -1,0 +1,12 @@
+{
+  "id": "a241e89c-fc47-4004-89e7-ae103f44683b",
+  "instruction": "Make an antonym list for the following words.",
+  "input": "Expect, Patience, Bitter",
+  "output": "-Expect: Disbelieve \n-Patience: Impatience \n-Bitter: Sweet",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

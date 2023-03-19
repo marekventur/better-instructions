@@ -1,0 +1,12 @@
+{
+  "id": "5afdba12-050d-4a1c-abb4-60b371cdec8f",
+  "instruction": "Write a hypothesis why there is a relationship between air pollution and asthma.",
+  "input": "",
+  "output": "The hypothesis is that air pollution can cause an increase in asthma symptoms due to the inhalation of pollutants and the resulting inflammation of the airways. This inflammation can decrease the ability to take in oxygen, which can lead to breathing difficulties. Furthermore, the irritants in the air pollution can cause bronchial constriction and mucus production, which can also contribute to asthma symptoms.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

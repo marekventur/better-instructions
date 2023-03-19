@@ -1,0 +1,12 @@
+{
+  "id": "e4872ad4-9dd3-4d68-8e4d-f93a93a9d9ca",
+  "instruction": "Combine these two sentences without using any conjunctions.",
+  "input": "He slept soundly. He did not hear the thunder.",
+  "output": "He slept soundly and didn't hear the thunder.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

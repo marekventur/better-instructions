@@ -1,0 +1,12 @@
+{
+  "id": "535ee878-ba9c-4dde-b031-5a46414580f7",
+  "instruction": "Given a person's name, create a creative description of that person.",
+  "input": "John",
+  "output": "John had a passion for the extraordinary \u2014 whether it was his ability to solve any problem, his irreverent humor, or his unstoppable courage. He always marched to the beat of his own drum and never seemed to back down from any challenge. He was truly extraordinary and only he could bring such joy and life into any room.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

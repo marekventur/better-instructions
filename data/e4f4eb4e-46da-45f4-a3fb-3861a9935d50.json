@@ -1,0 +1,12 @@
+{
+  "id": "e4f4eb4e-46da-45f4-a3fb-3861a9935d50",
+  "instruction": "Classify the following sentence as either positive, negative, or neutral.\n\n\"I need to finish what I've started.\"",
+  "input": "",
+  "output": "Neutral",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

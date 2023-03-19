@@ -1,0 +1,12 @@
+{
+  "id": "17b720e6-8fa5-47aa-99cf-5f6894adabe1",
+  "instruction": "Explain what a distributed system is using an example.",
+  "input": "",
+  "output": "A distributed system is a networked system of computers that enables computing resources to be shared across multiple locations. For example, a cloud-hosted distributed system might involve a network of servers located in different countries, working together as one system to power a website or web application.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

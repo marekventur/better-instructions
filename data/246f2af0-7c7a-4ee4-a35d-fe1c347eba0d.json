@@ -1,0 +1,12 @@
+{
+  "id": "246f2af0-7c7a-4ee4-a35d-fe1c347eba0d",
+  "instruction": "Find and highlight two false statements in the following poem.",
+  "input": "The night was still and silent\nThe birds and crickets were quiet\nThe stars were gleaming",
+  "output": "The night was still and silent\nThe birds and crickets were quiet **(false, birds and crickets were making noise)**\nThe stars were gleaming **(false, stars do not gleam, they twinkle)**",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7dc462f6-036a-4af0-84b4-b99de145cd91",
+  "instruction": "Analyze how this event could impact the stock market.",
+  "input": "The uncertainty around the US Presidential elections has been increasing.",
+  "output": "Increased uncertainty around US Presidential elections can have an impact on the stock market due to market volatility. Investors may sell their stocks before the election results are announced, causing a decrease in stock prices. Additionally, if the election results are not as expected, investors may become hesitant to invest, causing further decreases in stock prices.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

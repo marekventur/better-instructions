@@ -1,0 +1,12 @@
+{
+  "id": "f186ae04-fc32-4c94-b762-8d9ff5496cce",
+  "instruction": "Create a bank statement using the following information.",
+  "input": "Deposit $6500. Withdrawal $1000.",
+  "output": "Bank Statement \nDate: XX/XX/XX \nTransaction Type\t\tAmount \nDeposit\t\t\t\t\t\t$6500.00 \nWithdrawal\t\t   \t\t$1000.00 \nBalance\t\t\t\t\t\t$5500.00",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

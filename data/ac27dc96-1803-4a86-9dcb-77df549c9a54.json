@@ -1,0 +1,12 @@
+{
+  "id": "ac27dc96-1803-4a86-9dcb-77df549c9a54",
+  "instruction": "Reorder the following ingredients to create a pancake recipe.",
+  "input": "Large egg, Flour, Milk, Baking powder, Cinnamon",
+  "output": "Flour, Baking powder, Cinnamon, Milk, Large Egg",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

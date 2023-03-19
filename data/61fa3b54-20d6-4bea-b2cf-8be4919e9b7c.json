@@ -1,0 +1,12 @@
+{
+  "id": "61fa3b54-20d6-4bea-b2cf-8be4919e9b7c",
+  "instruction": "Take the following sentence and make it past perfect tense.",
+  "input": "I ran to the store.",
+  "output": "I had run to the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

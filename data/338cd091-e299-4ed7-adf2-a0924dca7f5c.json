@@ -1,0 +1,12 @@
+{
+  "id": "338cd091-e299-4ed7-adf2-a0924dca7f5c",
+  "instruction": "Add the following words to a root word to create a new verb.",
+  "input": "Root word: Listen\nWords: around, back",
+  "output": "Listen around and listen back.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

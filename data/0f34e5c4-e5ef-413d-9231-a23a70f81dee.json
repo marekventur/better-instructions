@@ -1,0 +1,12 @@
+{
+  "id": "0f34e5c4-e5ef-413d-9231-a23a70f81dee",
+  "instruction": "Select the correct words among the given options to fill the blanks below the sentence:\n\nThe great wall of china was build __________ to keep invaders out.",
+  "input": "Options: a) strongly, b) very strongly, c) powerfully, d) formidably",
+  "output": "d) formidably",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

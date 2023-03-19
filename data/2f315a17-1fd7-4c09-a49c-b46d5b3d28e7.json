@@ -1,0 +1,12 @@
+{
+  "id": "2f315a17-1fd7-4c09-a49c-b46d5b3d28e7",
+  "instruction": "Determine the correct spelling for the following word.",
+  "input": "Reciept",
+  "output": "Receipt",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

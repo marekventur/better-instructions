@@ -1,0 +1,12 @@
+{
+  "id": "81ff7182-a249-4dde-93eb-696b19f3a409",
+  "instruction": "Create a chart displaying the US population growth throughout the years.",
+  "input": "",
+  "output": "US Population Growth Chart\n\nYear\tPopulation (in millions)\n1790\t3.9\n1800\t5.3\n1810\t7.2\n1820\t9.6\n1830\t12.9\n1840\t17.1\n1850\t23.2\n1860\t31.4\n1870\t39.8\n1880\t50.2\n1890\t62.9\n1900\t76.2\n1910\t92.2\n1920\t106.5\n1930\t122.8\n1940\t131.7\n1950\t151.3\n1960\t179.3\n1970\t203.3\n1980\t226.5\n1990\t248.7",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

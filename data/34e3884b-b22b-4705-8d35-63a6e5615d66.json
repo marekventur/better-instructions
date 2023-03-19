@@ -1,0 +1,12 @@
+{
+  "id": "34e3884b-b22b-4705-8d35-63a6e5615d66",
+  "instruction": "Take the given sentence and rearrange it in a different order.",
+  "input": "She had never seen such a beautiful sight in all her life.",
+  "output": "In all her life, she had never seen a sight so beautiful.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

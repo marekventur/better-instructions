@@ -1,0 +1,12 @@
+{
+  "id": "2be1c172-dc4b-49fd-9dec-d83cb7262eaa",
+  "instruction": "Describe the differences between Python 2 and Python 3.",
+  "input": "",
+  "output": "Python 3 is the latest version of the Python language and is not backward compatible with Python 2. The main syntax differences include the print function, integer division behavior, and function annotations. Python 3 also supports additional features such as Unicode support, new libraries, and improved exception handling. Additionally, Python 3 is more strict about certain syntax errors, meaning code needs to be more consistent and follow certain standards such as indenting. Python 2 has been deprecated and is no longer officially supported by the Python project.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

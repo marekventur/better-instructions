@@ -1,0 +1,12 @@
+{
+  "id": "d340d24d-7e74-40f3-8411-7c836d954ff7",
+  "instruction": "Postulate a realistic hypothesis about the given concept.",
+  "input": "Climate Change",
+  "output": "I hypothesize that climate change is caused by an increase in global average surface temperature due to human activities such as the burning of coal, oil, and gas, as well as deforestation and waste emissions. These activities have led to a rise in global temperatures that has disrupted the Earth's delicate climate balance. This has resulted in extreme weather events, atmospheric pollution, and ocean acidification, with far-reaching effects on humans and ecosystems.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

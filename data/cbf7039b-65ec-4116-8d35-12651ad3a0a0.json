@@ -1,0 +1,12 @@
+{
+  "id": "cbf7039b-65ec-4116-8d35-12651ad3a0a0",
+  "instruction": "Categorize the following items into one of the following categories: food, clothing, or furniture.",
+  "input": "Chair, jeans, apple",
+  "output": "Chair: Furniture\nJeans: Clothing\nApple: Food",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

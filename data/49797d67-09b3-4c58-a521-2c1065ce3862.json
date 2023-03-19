@@ -1,0 +1,12 @@
+{
+  "id": "49797d67-09b3-4c58-a521-2c1065ce3862",
+  "instruction": "You have to provide an example of an invocation of the given command.",
+  "input": "flip coin",
+  "output": "I would like to flip a coin.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fc8d54de-0cd7-42ef-84be-7eae6c3867ab",
+  "instruction": "Summarize the argument in the text.",
+  "input": "In the book \"Crime and Punishment\" by Fyodor Dostoevsky, the main character, Raskolnikov, commits a murder in hope of revealing a higher purpose.",
+  "output": "In \"Crime and Punishment\" by Fyodor Dostoevsky, the protagonist Raskolnikov commits a murder believing it will prove his Nietzschean idea that extraordinary people can rise above morality. Ultimately, however, he is not rewarded by society and instead is consumed by guilt, regret and suffering.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

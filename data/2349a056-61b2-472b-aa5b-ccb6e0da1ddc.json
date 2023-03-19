@@ -1,0 +1,12 @@
+{
+  "id": "2349a056-61b2-472b-aa5b-ccb6e0da1ddc",
+  "instruction": "Conduct sentiment analysis on the text",
+  "input": "I love this product!",
+  "output": "Sentiment: Positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

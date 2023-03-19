@@ -1,0 +1,12 @@
+{
+  "id": "a29f81de-b729-4ca6-b92c-2fa025d5da4a",
+  "instruction": "Arrange a meeting between two different people",
+  "input": "John Smith and Marc Jones",
+  "output": "John Smith and Marc Jones have agreed to meet on Tuesday, May 18th at 10am. They will be discussing project ideas. The meeting will take place via video call using Zoom.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6cf57fd1-6ebc-4a1f-8508-12421b9aa5a3",
+  "instruction": "What kind of mental health issue is the person in the given situation experiencing?",
+  "input": "He is always worried and anxious",
+  "output": "The person in the given situation is likely experiencing an anxiety disorder.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

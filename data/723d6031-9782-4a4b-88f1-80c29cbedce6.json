@@ -1,0 +1,12 @@
+{
+  "id": "723d6031-9782-4a4b-88f1-80c29cbedce6",
+  "instruction": "Rewrite the given code in a simpler form.",
+  "input": "# Declare a list of numbers\nnums = [12, 10, 32, 3, 66, 17, 42, 99, 20]\n\n# Declare new variables\nnewlist = []\n\n# Iterate nums and add numbers to newlist\nfor i in nums:\n    if i % 2 == 0:\n        newlist.append(i)\n\nprint(newlist)",
+  "output": "# Declare a list of numbers\nnums = [12, 10, 32, 3, 66, 17, 42, 99, 20]\n\n# Iterate nums and add even numbers to newlist\nnewlist = [i for i in nums if i % 2 == 0]\n\nprint(newlist)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

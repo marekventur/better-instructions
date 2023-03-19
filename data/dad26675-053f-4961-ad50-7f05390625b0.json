@@ -1,0 +1,12 @@
+{
+  "id": "dad26675-053f-4961-ad50-7f05390625b0",
+  "instruction": "Place the following items in order from the most number of people affected to the least. Output the sequence of words without spaces.",
+  "input": "Grocery Workers, Teachers, Musicians, Doctors",
+  "output": "Grocery Workers, Doctors, Teachers, Musicians",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "87359c31-521b-4f9e-8b47-4f3bba41e179",
+  "instruction": "Write an algorithm to find the product of all the elements in the given array.",
+  "input": "[1, 2, 3]",
+  "output": "\"\"\"\nFind the product of all elements in an array\n\"\"\"\n\ndef product_array(arr):\n    product = 1\n    for i in arr:\n        product *= i \n    return product\n\nif __name__ == '__main__':\n    arr = [1,2,3]\n    result = product_array(arr) \n    print(result)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

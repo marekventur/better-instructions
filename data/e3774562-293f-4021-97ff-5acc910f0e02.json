@@ -1,0 +1,12 @@
+{
+  "id": "e3774562-293f-4021-97ff-5acc910f0e02",
+  "instruction": "Given a song, come up with five original lyrics.",
+  "input": "Song: \u201cChandelier\u201d by Sia",
+  "output": "1. I'm caged in like a tightrope dancer / No balance left for the answer \n2. Glimmer of light up in the sky / Tears hiding like a butterfly \n3. Searching for a way out of the dark / Trying to find a spark \n4. Floating through the night aimlessly / Searching for my destiny \n5. Quickly slipping away my fears / Embracing all of my tears",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

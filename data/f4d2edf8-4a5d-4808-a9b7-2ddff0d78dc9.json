@@ -1,0 +1,12 @@
+{
+  "id": "f4d2edf8-4a5d-4808-a9b7-2ddff0d78dc9",
+  "instruction": "Generate a new joke by editing the following sentence",
+  "input": "Knock knock, who's there?",
+  "output": "Knock knock, the doorbell's broken so I'm using the windows! Who's there?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

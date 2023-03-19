@@ -1,0 +1,12 @@
+{
+  "id": "450653a7-dc3d-430b-9b77-08f4bf7402ea",
+  "instruction": "Using the given words, formulate a sentence that is exact, grammatical and idiomatic",
+  "input": "owl \u2013 debris \u2013 beguiled",
+  "output": "The owl was beguiled by the debris.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7497599a-f418-485a-a441-e23c0513a4b3",
+  "instruction": "Create a list of safety measures for operating machinery.",
+  "input": "",
+  "output": "-Make sure you are wearing the proper safety equipment such as goggles, gloves, protective clothing, and a hard hat.\n-Read and follow the instructions in the manual.\n-Check that all parts of the machinery are in good working order before using it.\n-Check the safety guards/barriers are in place before operating.\n-Be aware of your surroundings and ensure that no one else is in the vicinity.\n-Always keep your hands and clothing away from moving parts.\n-Turn off the machine and wait for it to come to a complete stop before leaving the area.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "be4034c2-85a4-4f55-b86d-0edee63da2a4",
+  "instruction": "Write a classified ad to advertise a job opening.",
+  "input": "Marketing Assistant",
+  "output": "We are looking for an efficient, detail-oriented and self-motivated individual to join our team as a Marketing Assistant. Candidates should have excellent organizational, planning and communication skills and possess the ability to complete projects in a timely manner. Experience in marketing and content creation is a plus but not necessary. If you think this job is for you, please apply today!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

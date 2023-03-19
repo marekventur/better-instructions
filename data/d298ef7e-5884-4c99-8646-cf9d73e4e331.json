@@ -1,0 +1,12 @@
+{
+  "id": "d298ef7e-5884-4c99-8646-cf9d73e4e331",
+  "instruction": "Construct a valid SQL query for the following scenario.",
+  "input": "You need to retrieve the customer's last name, phone number, and email from the customer table.",
+  "output": "SELECT last_name, phone_number, email FROM customer;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

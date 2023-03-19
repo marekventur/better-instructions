@@ -1,0 +1,12 @@
+{
+  "id": "058afa4b-3551-43f1-8f51-4d346e740e38",
+  "instruction": "Pick one of the below three items and explain why you chose it.",
+  "input": "- Ice cream\n- Pizza\n- Jelly",
+  "output": "I chose ice cream because it is a delicious treat that can be enjoyed anytime, regardless of the season. It has a unique flavor and creamy texture that make it irresistible. Plus, it's always a hit with people of all ages!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

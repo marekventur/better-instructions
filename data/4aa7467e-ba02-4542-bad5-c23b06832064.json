@@ -1,0 +1,12 @@
+{
+  "id": "4aa7467e-ba02-4542-bad5-c23b06832064",
+  "instruction": "Find an example of a web page that includes an account creation form.",
+  "input": "",
+  "output": "One example of a web page that includes an account creation form is the registration page for Amazon. This page includes a series of form fields that users must fill out in order to create an account, such as their name, address, email address, phone number, and a password. After completing the form, users must then agree to the company's Terms of Use before they can submit the form and create their account.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8e97e08f-3365-4483-805a-951409b1894a",
+  "instruction": "Find the area of a circle given its radius.",
+  "input": "Radius = 4",
+  "output": "The area of a circle with a radius of 4 is equal to 12.5664 square units. This is calculated by using the formula A = \u03c0r2, where A is the area, \u03c0 is roughly equal to 3.1416 and r is the radius of the circle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

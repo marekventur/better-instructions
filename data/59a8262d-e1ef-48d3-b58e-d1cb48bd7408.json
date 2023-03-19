@@ -1,0 +1,12 @@
+{
+  "id": "59a8262d-e1ef-48d3-b58e-d1cb48bd7408",
+  "instruction": "Identify which country the following flag belongs to",
+  "input": "<link to flag>",
+  "output": "The flag belongs to the People's Republic of Bangladesh.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

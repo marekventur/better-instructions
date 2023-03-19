@@ -1,0 +1,12 @@
+{
+  "id": "c88578ef-0d17-4313-8a90-ffd7fabea2a5",
+  "instruction": "Construct a valid regular expression to match any string ending with \u2018@mysite.com'.",
+  "input": "",
+  "output": "^.*@mysite\\.com$",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

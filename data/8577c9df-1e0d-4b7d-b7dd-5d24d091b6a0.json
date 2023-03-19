@@ -1,0 +1,12 @@
+{
+  "id": "8577c9df-1e0d-4b7d-b7dd-5d24d091b6a0",
+  "instruction": "Given an arithmetic expression, evaluate it and output the result.",
+  "input": "46-32",
+  "output": "14",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

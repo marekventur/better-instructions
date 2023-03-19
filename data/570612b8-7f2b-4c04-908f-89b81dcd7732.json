@@ -1,0 +1,12 @@
+{
+  "id": "570612b8-7f2b-4c04-908f-89b81dcd7732",
+  "instruction": "Formulate a hypothesis to test this statement.",
+  "input": "People with a higher education level are more likely to exercise.",
+  "output": "A hypothesis to test this statement would be: people with higher education levels will show higher levels of physical activity than people with lower levels of education.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

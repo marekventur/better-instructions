@@ -1,0 +1,12 @@
+{
+  "id": "c1a6c646-b0bd-4b29-a1ee-995ef491d30b",
+  "instruction": "Find the percent increase from the given values.",
+  "input": "Initial Value: 100\nFinal Value: 125",
+  "output": "The percent increase from 100 to 125 is 25%.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

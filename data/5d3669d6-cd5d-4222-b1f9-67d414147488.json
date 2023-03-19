@@ -1,0 +1,12 @@
+{
+  "id": "5d3669d6-cd5d-4222-b1f9-67d414147488",
+  "instruction": "Which verb tense is used in this sentence?",
+  "input": "She had been waiting for hours.",
+  "output": "The verb tense used in this sentence is the past perfect.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

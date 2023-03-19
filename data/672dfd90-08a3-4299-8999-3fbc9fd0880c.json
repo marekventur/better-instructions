@@ -1,0 +1,12 @@
+{
+  "id": "672dfd90-08a3-4299-8999-3fbc9fd0880c",
+  "instruction": "Rewrite the following sentence to focus on the main action instead of the secondary action.",
+  "input": "The students sitting in the classroom were taking the test.",
+  "output": "The students were taking the test in the classroom.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

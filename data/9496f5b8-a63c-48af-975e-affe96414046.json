@@ -1,0 +1,12 @@
+{
+  "id": "9496f5b8-a63c-48af-975e-affe96414046",
+  "instruction": "Write a function in python to find the sum of two numbers",
+  "input": "",
+  "output": "def sum_two_numbers(x, y):\n    return x + y\n\nsum = sum_two_numbers(2, 5)\nprint(sum) # Output: 7",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

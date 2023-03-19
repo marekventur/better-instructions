@@ -1,0 +1,12 @@
+{
+  "id": "cf6ec666-980f-4678-bd51-526406180b59",
+  "instruction": "Edit the given text to improve clarity.",
+  "input": "Text: Although Sarah invests a lot of money, she isn't rich.",
+  "output": "Although Sarah invests a lot of money, she is not wealthy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

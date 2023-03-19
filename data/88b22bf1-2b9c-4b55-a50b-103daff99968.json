@@ -1,0 +1,12 @@
+{
+  "id": "88b22bf1-2b9c-4b55-a50b-103daff99968",
+  "instruction": "Given a set of instructions, identify the byproducts that can be expected from the instructions.",
+  "input": "Plant a rose bush in a garden bed.",
+  "output": "Byproducts: rose buds, petals, leaves, thorns, and roots.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

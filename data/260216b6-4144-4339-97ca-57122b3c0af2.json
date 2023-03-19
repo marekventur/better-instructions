@@ -1,0 +1,12 @@
+{
+  "id": "260216b6-4144-4339-97ca-57122b3c0af2",
+  "instruction": "Compare a bacteria cell to a plant cell.",
+  "input": "",
+  "output": "Bacterial cells and plant cells have many differences. Bacterial cells are smaller, are prokaryotic, lack a true nucleus, and do not contain membrane-bound organelles. Plant cells, on the other hand, are larger, are eukaryotic, have a true nucleus, and contain membrane-bound organelles such as chloroplasts, mitochondria, and the endoplasmic reticulum. Plant cells also have a cell wall and a vacuole that bacteria cells lack.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

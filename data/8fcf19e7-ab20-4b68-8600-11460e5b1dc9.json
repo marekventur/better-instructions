@@ -1,0 +1,12 @@
+{
+  "id": "8fcf19e7-ab20-4b68-8600-11460e5b1dc9",
+  "instruction": "Given the following sentence, add appropriate punctuation to make it grammatically correct.",
+  "input": "The judge said guilty",
+  "output": "The judge said, \"Guilty.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

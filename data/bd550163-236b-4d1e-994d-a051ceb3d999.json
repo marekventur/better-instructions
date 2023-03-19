@@ -1,0 +1,12 @@
+{
+  "id": "bd550163-236b-4d1e-994d-a051ceb3d999",
+  "instruction": "Insert the words 'like' or 'as' to make a comparison.",
+  "input": "He ran the race",
+  "output": "He ran the race like a bullet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "16d4aabd-ec75-420a-9232-04d511f65ddd",
+  "instruction": "Describe the steps for changing a tire.",
+  "input": "",
+  "output": "1. Make sure the car is in park and the parking brake is engaged. \n2. Loosen the lug nuts on the flat tire, but don\u2019t remove them yet.\n3. Jack up the car and place a jack stand on the frame for additional support.\n4. Remove the lug nuts and the flat tire, then attach the spare tire. \n5. Tighten the lug nuts until they are snug, but do not over-tighten. \n6. Lower the car and remove the jack stands.\n7. Check the tire pressure and set it to the vehicle manufacturer's specifications.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

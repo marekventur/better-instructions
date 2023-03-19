@@ -1,0 +1,12 @@
+{
+  "id": "86c3875f-f82b-4e73-9552-c5c6e63fb097",
+  "instruction": "Collect the items from the following list that represent nouns",
+  "input": "blue, seven, imagine",
+  "output": "blue, seven",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

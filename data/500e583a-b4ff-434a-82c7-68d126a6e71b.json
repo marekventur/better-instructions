@@ -1,0 +1,12 @@
+{
+  "id": "500e583a-b4ff-434a-82c7-68d126a6e71b",
+  "instruction": "Find the probability of two events from the given data",
+  "input": "Event A: it will rain\nEvent B: it will snow\nData: \n- Weather forecast for tomorrow: 80% chance of rain, 20% chance of snow",
+  "output": "The probability of event A and event B occurring simultaneously is 0.16 or 16%. This is calculated by multiplying the probability of event A (0.8) and the probability of event B (0.2).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "18364182-abd0-4b2d-98cf-92aaf8b8310a",
+  "instruction": "Given a starting phrase, find a way to continue the narrative.",
+  "input": "John walked into the room and...",
+  "output": "\u2026looked around. He noticed his old friend sitting in the corner, engrossed in a book. He smiled and walked over to say hello.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

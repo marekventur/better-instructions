@@ -1,0 +1,12 @@
+{
+  "id": "8428da02-a102-4b82-bb93-44f4d573c199",
+  "instruction": "Classify this sentence as a command, statement or question: \"Please consider this offer.\"",
+  "input": "",
+  "output": "Command",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "21f40c43-3163-473e-99c2-54a1cb78267b",
+  "instruction": "Find a compound predicate in the sentence.",
+  "input": "He sang a song and played his guitar.",
+  "output": "He sang and played.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

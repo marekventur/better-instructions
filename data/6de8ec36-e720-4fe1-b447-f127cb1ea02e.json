@@ -1,0 +1,12 @@
+{
+  "id": "6de8ec36-e720-4fe1-b447-f127cb1ea02e",
+  "instruction": "List the challenges of deep learning.",
+  "input": "",
+  "output": "The challenges of deep learning include the following:\n\n1. Data processing: the need to process large amounts of data in order to accurately train deep learning models.\n2. Model capacity: limited computing resources that can lead to models with limited model capacity.\n3. Interpretability: deep models may produce results that are hard to interpret and explain.\n4. Overfitting: deep learning models may succumb to overfitting due to large datasets and complex structures.\n5. Computational costs: deep learning models require extensive computational resources that are often costly.\n6. Limited generalization ability: while deep models can achieve impressive results on specific tasks, they may lack the generalization ability to adapt to new tasks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ab47bc34-fa1e-49dc-8467-48cc040145a1",
+  "instruction": "Create an example of valid html syntax",
+  "input": "",
+  "output": "<div style=\"background-color:#eeeeee;padding:10px;\">This is an example of valid HTML syntax</div>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

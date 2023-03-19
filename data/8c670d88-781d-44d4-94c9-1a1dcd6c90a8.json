@@ -1,0 +1,12 @@
+{
+  "id": "8c670d88-781d-44d4-94c9-1a1dcd6c90a8",
+  "instruction": "Given two pieces of text, paraphrase and combine them into one text.",
+  "input": "Adversarial AI ensures machines act using real-world experience. Machine learning can assist in eliminating false positives",
+  "output": "Adversarial AI and machine learning can be used together to ensure machines act based on real-world experience, reducing false positives.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

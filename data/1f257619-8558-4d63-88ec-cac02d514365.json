@@ -1,0 +1,12 @@
+{
+  "id": "1f257619-8558-4d63-88ec-cac02d514365",
+  "instruction": "Reformulate the following sentence so that it follows the grammar rules of Active Voice.",
+  "input": "The finals were taken by me last semester.",
+  "output": "I took the finals last semester.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

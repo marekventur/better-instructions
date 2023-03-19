@@ -1,0 +1,12 @@
+{
+  "id": "395a6092-17e8-43f4-abe3-61a4d0a2fef7",
+  "instruction": "Write a script that prints a 4x4 spiral of numbers from 1 to 16.",
+  "input": "",
+  "output": "\"\"\"\nScript that prints a 4x4 spiral of numbers from 1 to 16\n\"\"\"\n\ndef printSpiral(n): \n  \n    k = 0\n\n    for i in range(n): \n  \n        for j in range(n) : \n            print(k, end=\" \") \n            k = k + 1\n  \n        print() \n\nif __name__ == '__main__':\n    n = 4\n    printSpiral(n) \n\n# Output \n# Output:\n# 0 1 2 3 \n# 11 10 9 8 \n# 12 13 14 7 \n# 15 16 5 4 \n# 17 6 3 2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

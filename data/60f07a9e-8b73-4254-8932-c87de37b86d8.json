@@ -1,0 +1,12 @@
+{
+  "id": "60f07a9e-8b73-4254-8932-c87de37b86d8",
+  "instruction": "Given the following ingredients, create a recipe for a cake.",
+  "input": "Flour, sugar, eggs, butter.",
+  "output": "Ingredients:\n- 1 cup all-purpose flour\n- 1 cup white sugar\n- 2 eggs\n- \u00bd cup butter, melted\n\nInstructions:\n1. Preheat oven to 350 degrees F (175 degrees C). Grease and flour an 8 inch round baking pan.\n2. In a medium bowl, cream together the butter and sugar until light and fluffy. Beat in eggs, one at a time.\n3. Gradually blend in the flour until well mixed.\n4. Spread the batter evenly into the prepared pan.\n5. Bake for 30 minutes in the preheated oven, or until a toothpick inserted in the center of the cake comes out clean. Let cool in the pan for 10 minutes before turning out onto a wire rack to cool completely.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fd05f66a-de57-4f75-9e54-199004a0aae3",
+  "instruction": "Categorize the following as either vegetable, fruit, or grain.",
+  "input": "Lentils",
+  "output": "Grain.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

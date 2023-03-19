@@ -1,0 +1,12 @@
+{
+  "id": "8c0d5698-e671-49b2-8c26-f937e9623808",
+  "instruction": "Calculate the total cost for the customer with the following items in the basket.\n\nItem 1: 5 T-shirts ($15 each)\nItem 2: 1 Jacket ($75)",
+  "input": "",
+  "output": "The total cost for the customer is $1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

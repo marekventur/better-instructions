@@ -1,0 +1,12 @@
+{
+  "id": "63ae0f45-cfb0-49ba-b05a-25005f365faf",
+  "instruction": "Create a general classification model to categorize the items.",
+  "input": "The items are books, chairs, and tables.",
+  "output": "The model will classify books, chairs and tables into three different categories.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

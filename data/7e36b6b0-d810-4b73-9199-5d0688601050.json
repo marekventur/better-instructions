@@ -1,0 +1,12 @@
+{
+  "id": "7e36b6b0-d810-4b73-9199-5d0688601050",
+  "instruction": "Given a scenario, generate 5 possible solutions",
+  "input": "John and Sarah are struggling to manage a team of people with varying skill levels.",
+  "output": "1. Assign tasks according to each person's skill level. \n2. Regularly provide team members with constructive feedback. \n3. Develop a comprehensive training program. \n4. Offer incentives for meeting goals.\n5. Establish clear and achievable objectives.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

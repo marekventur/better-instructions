@@ -1,0 +1,12 @@
+{
+  "id": "f52e669e-1da7-4e14-819b-83bd1710dc5d",
+  "instruction": "Given a restaurant menu, suggest an affordable dish.",
+  "input": "Chef's Specials\n\u2022 Grilled Ribeye Steak - $21.95\n\u2022 Herb-Roasted Chicken - $19.95\n\u2022 Salmon with Citrus Sauce - $22.95\n\u2022 Crispy Fried Calamari - $18.95\n\u2022 Wild Mushroom Risotto - $19.95",
+  "output": "The Crispy Fried Calamari is the most affordable dish at $18.95. It is lightly battered and fried, making it a satisfying and delicious meal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f2a310cf-7f33-4d3d-8200-73b537ac90cf",
+  "instruction": "Reorder the sentences so that the flow of the passage is logical.",
+  "input": "Mary saw a beautiful butterfly. The butterfly was fluttering around her garden.",
+  "output": "The butterfly was fluttering around Mary's garden and she saw it was beautiful.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

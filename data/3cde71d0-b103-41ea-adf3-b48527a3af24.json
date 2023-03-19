@@ -1,0 +1,12 @@
+{
+  "id": "3cde71d0-b103-41ea-adf3-b48527a3af24",
+  "instruction": "Write code to sum the given array elements.",
+  "input": "[1, 2, 3, 4, 5]",
+  "output": "let arr = [1, 2, 3, 4, 5];\nlet sum = 0;\n\nfor (let i=0; i < arr.length; i++){\n    sum += arr[i];\n}\n\nconsole.log(sum); // 15",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

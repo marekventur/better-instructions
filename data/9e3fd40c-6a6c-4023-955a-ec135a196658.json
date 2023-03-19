@@ -1,0 +1,12 @@
+{
+  "id": "9e3fd40c-6a6c-4023-955a-ec135a196658",
+  "instruction": "This is a open-ended generation task. GPT model should generate an appropriate output for the instruction",
+  "input": "How to prepare for a job interview",
+  "output": "To best prepare for a job interview, research the company you are interviewing with, prepare a list of questions to ask the interviewer, understand what you are looking for in the job, create a list of your accomplishments that can be related to the job, practice answering common interview questions, and dress appropriately. Rehearse your introduction and aim to make a positive impression on the interviewer. Be sure to thank the interviewer for their time and express your interest in the position.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

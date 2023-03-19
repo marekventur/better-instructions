@@ -1,0 +1,12 @@
+{
+  "id": "2b587d4c-6983-424b-bccc-39bdb1300ce5",
+  "instruction": "Format the given phone number to the following format: (123) 456-7890",
+  "input": "1234567890",
+  "output": "(123) 456-7890",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

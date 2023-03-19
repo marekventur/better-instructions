@@ -1,0 +1,12 @@
+{
+  "id": "7f5196e9-02c8-4031-b7cf-02640a0da358",
+  "instruction": "Write an algorithm that takes three numbers as input and returns their average.",
+  "input": "Integer A = 5, Integer B = 10, Integer C = 15",
+  "output": "def calculateAverage(a, b, c): \n  return (a + b + c) / 3 \n  \naverage = calculateAverage(5, 10, 15)\nprint(average) # Output: 10.0",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

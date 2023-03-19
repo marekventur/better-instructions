@@ -1,0 +1,12 @@
+{
+  "id": "0637a180-13e7-414b-b5ef-08e1e91fab26",
+  "instruction": "Serve the customer's order.",
+  "input": "Customer order: an espresso and a cappuccino.",
+  "output": "Here is your espresso and cappuccino. Enjoy your drinks!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

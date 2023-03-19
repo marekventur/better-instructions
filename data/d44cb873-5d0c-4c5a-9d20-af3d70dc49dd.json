@@ -1,0 +1,12 @@
+{
+  "id": "d44cb873-5d0c-4c5a-9d20-af3d70dc49dd",
+  "instruction": "You need to calculate the total cost of a purchase including taxes.\nOutput the calculated cost.",
+  "input": "Item Price: $100\nTax Rate: 5%",
+  "output": "$105.00",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

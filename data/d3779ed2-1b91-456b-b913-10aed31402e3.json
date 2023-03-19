@@ -1,0 +1,12 @@
+{
+  "id": "d3779ed2-1b91-456b-b913-10aed31402e3",
+  "instruction": "Combine these two sentences using subordinate clause",
+  "input": "The cat leapt onto the chair. It hissed at the dog.",
+  "output": "The cat leapt onto the chair and it hissed at the dog.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ebe1c782-bbd3-4bdc-b71c-cc06ca5996f5",
+  "instruction": "Replace all the usages of 'she' in the following sentence with 'he'.",
+  "input": "Mary said she was going to the store and she expected to be back soon.",
+  "output": "Mary said he was going to the store and he expected to be back soon.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a710a682-34fd-4ad5-90c5-3bc87c21b8a9",
+  "instruction": "Create a poem by filling in the blanks",
+  "input": "My heart is like a _______\n\u2013 A place only I can go\nThere is no _______ or pain\nJust a place I can go to feel whole",
+  "output": "My heart is like a sanctuary\n\u2013 A place only I can go\nThere is no suffering or pain\nJust a place I can go to feel whole",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

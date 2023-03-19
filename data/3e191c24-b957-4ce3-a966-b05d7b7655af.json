@@ -1,0 +1,12 @@
+{
+  "id": "3e191c24-b957-4ce3-a966-b05d7b7655af",
+  "instruction": "Given a text document, identify every proper noun in it",
+  "input": "Elon Musk is the founder of Tesla and SpaceX.",
+  "output": "Elon Musk, Tesla, SpaceX",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9102dff8-1e80-4285-b500-23c81a61740a",
+  "instruction": "Create a web page using HTML code",
+  "input": "",
+  "output": "<html>\n<head>\n  <title> My Web Page </title>\n</head>\n<body>\n  <h1> Welcome to my web page! </h1>\n  <p> Here you will find information about my interests and hobbies. </p>\n  <h2> Hobbies </h2>\n  <ul>\n    <li> Gardening </li>\n    <li> Cooking </li>\n    <li> Painting </li>\n  </ul>\n</body>\n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

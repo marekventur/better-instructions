@@ -1,0 +1,12 @@
+{
+  "id": "97232992-b99c-4b22-85b8-176403195bce",
+  "instruction": "Explain why the number e is considered a special number.",
+  "input": "",
+  "output": "The number e is a special number because it is an irrational number with a variety of properties in mathematics. It is the base of the natural logarithm, which is widely used in calculus and differential equations. It can be used to calculate limits of the form 1/x as x approaches 0. It is also related to compound interest and the growth of populations, since it is the rate of growth that is constant over time. It is also related to mathematical constants such as the imaginary number, the golden ratio, and pi.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

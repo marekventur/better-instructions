@@ -1,0 +1,12 @@
+{
+  "id": "07e8823f-b63d-400a-8d77-05b4fc1f29a0",
+  "instruction": "Classification the following object",
+  "input": "Wheel",
+  "output": "Object",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

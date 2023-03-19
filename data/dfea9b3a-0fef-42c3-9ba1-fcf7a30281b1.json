@@ -1,0 +1,12 @@
+{
+  "id": "dfea9b3a-0fef-42c3-9ba1-fcf7a30281b1",
+  "instruction": "Find an error in the following tweet.",
+  "input": "Just saw the greatest show! So entertating, definitely recommend it.",
+  "output": "Just saw the greatest show! So entertaining, definitely recommend it. #correction - \"entertaining\" instead of \"entertating\".  #Grammarcheck #EnglishLanguage  #spellcheck  #LearnEnglish #recommendation  #shows #Theater #Performance #Evening  #LaughOutLoud #Happy  #GoodVibes #enjoyment #Audience #experience #FridayNight  #Stage    #Worldtour  #Talent #GreatestShowOnEarth  #Broadway #NightOut  #Series  #Dazzling #Performances #Overture #Spectacular #Stunning  #Amusement  #Entertainment #Thrilling #Gig #Event  #Audience #wow #LoveIt  #YOLO  #Musical   #GoingToTheShow  #BestPlaceToBe \u2728\ud83e\udd29\u2764\ufe0f",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

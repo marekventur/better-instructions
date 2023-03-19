@@ -1,0 +1,12 @@
+{
+  "id": "9a864828-61c4-496c-985e-ce70230415ea",
+  "instruction": "Make a list of all the pets that can be kept in an apartment.",
+  "input": "",
+  "output": "- Fish \n- Turtles\n- Rabbits\n- Hamsters \n- Guinea Pigs \n- Cats \n- Dogs (small breeds) \n- Birds\n- Hedgehogs \n- Ferrets \n- Lizards \n- Snakes",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

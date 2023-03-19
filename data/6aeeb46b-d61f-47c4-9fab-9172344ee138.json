@@ -1,0 +1,12 @@
+{
+  "id": "6aeeb46b-d61f-47c4-9fab-9172344ee138",
+  "instruction": "Greedily delete every second written character from the sentence until it becomes unreadable.",
+  "input": "Humans are social animals who rely heavily on communication",
+  "output": "Hmn ao aia lmai wh el hvly o cmmnto",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

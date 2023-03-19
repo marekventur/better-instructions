@@ -1,0 +1,12 @@
+{
+  "id": "880948f7-2109-4571-8b10-8524578db2be",
+  "instruction": "Clean up the following piece of code.",
+  "input": "def count_vowel(str):\n  vowels=['a','e','i','o','u']\n  cnt=0\n  for alph in str:\n    if alph in vowels:\n        cnt+=1\nreturn cnt",
+  "output": "def count_vowels(string):\n  vowels = ['a', 'e', 'i', 'o', 'u']\n  count = 0\n  for letter in string:\n    if letter in vowels:\n      count += 1\n  return count",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

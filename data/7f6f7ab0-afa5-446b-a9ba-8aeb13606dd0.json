@@ -1,0 +1,12 @@
+{
+  "id": "7f6f7ab0-afa5-446b-a9ba-8aeb13606dd0",
+  "instruction": "Generate a headline that tells the theme of the given book.",
+  "input": "\"The Catcher in the Rye\" by J.D. Salinger",
+  "output": "A Story of Growing Up and Finding Oneself: J.D. Salinger's \"The Catcher in the Rye\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

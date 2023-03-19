@@ -1,0 +1,12 @@
+{
+  "id": "9c7e2f48-00ba-46e1-9187-0af0f775a211",
+  "instruction": "Rewrite the following sentence using a correct form of the verb \u201clay.\u201d",
+  "input": "She layed the paper on the desk.",
+  "output": "She laid the paper on the desk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

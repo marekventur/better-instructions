@@ -1,0 +1,12 @@
+{
+  "id": "b68b99c6-4387-44f8-8ccf-694c35b81b71",
+  "instruction": "Regulate the temperature based on the given input.",
+  "input": "Current Temperature: 70\u00b0F\nDesired Temperature: 70\u00b0F",
+  "output": "No action is required since the current temperature is the same as the desired temperature.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

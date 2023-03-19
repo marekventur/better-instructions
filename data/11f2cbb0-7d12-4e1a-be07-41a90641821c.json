@@ -1,0 +1,12 @@
+{
+  "id": "11f2cbb0-7d12-4e1a-be07-41a90641821c",
+  "instruction": "Describe the type of task carried out by the following algorithm.",
+  "input": "def quicksort(arr):\n    if len(arr) <= 1:\n        return arr\n    pivot = arr[len(arr) // 2]\n    left = [x for x in arr if x < pivot]\n    middle = [x for x in arr if x == pivot]\n    right = [x for x in arr if x > pivot]\n    return quicksort(left) + middle + quicksort(right)",
+  "output": "This algorithm is a sorting algorithm which sorts an array of elements in ascending order using the quicksort technique. The quicksort technique is a recursive, divide-and-conquer algorithm. It works by first selecting a pivot element from the array and then dividing the array into two sub-arrays, one containing all the elements which are less than the pivot and the other containing all the elements which are greater than the pivot. Then, the quicksort algorithm is invoked recursively on both the sub-arrays, until there are no more elements to be sorted. Finally, the two sorted sub-arrays are merged, resulting in a fully sorted array.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

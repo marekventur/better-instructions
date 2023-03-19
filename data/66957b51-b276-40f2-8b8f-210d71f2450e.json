@@ -1,0 +1,12 @@
+{
+  "id": "66957b51-b276-40f2-8b8f-210d71f2450e",
+  "instruction": "Explain the concept of multiple inheritance in an object-oriented programming language.",
+  "input": "",
+  "output": "Multiple inheritance is a feature in an object-oriented programming language that enables one class to inherit characteristics from two or more classes. This means that the class derived from multiple inheritance can access the members of all the super-classes as if they were inherited directly from a single super-class. The multiple inheritance mechanism can also enable the programmer to create objects that can inherit behaviors from existing objects.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

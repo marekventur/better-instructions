@@ -1,0 +1,12 @@
+{
+  "id": "53d9bd47-38a2-4054-997d-da32f88999eb",
+  "instruction": "What is the reasonable output for the following instruction?",
+  "input": "Make a peanut butter and jelly sandwich.",
+  "output": "Take two slices of bread and spread peanut butter on one of them and jelly on the other. Place the two slices together and cut the sandwich in half.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

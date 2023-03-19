@@ -1,0 +1,12 @@
+{
+  "id": "9cc9e3e2-50bd-415c-ae24-a47964fde605",
+  "instruction": "Write an IF-THEN statement to control the temperature in a room.",
+  "input": "",
+  "output": "If the temperature in the room is above 75 degrees, then turn on the air conditioner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

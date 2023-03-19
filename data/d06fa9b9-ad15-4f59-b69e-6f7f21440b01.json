@@ -1,0 +1,12 @@
+{
+  "id": "d06fa9b9-ad15-4f59-b69e-6f7f21440b01",
+  "instruction": "Which type of emotion is generally expressed in the following lyrics?",
+  "input": "\"We just want the good life\nNo we won't compromise\"",
+  "output": "The lyrics express a feeling of determination and optimism.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

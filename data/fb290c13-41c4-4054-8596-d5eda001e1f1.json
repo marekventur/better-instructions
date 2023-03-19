@@ -1,0 +1,12 @@
+{
+  "id": "fb290c13-41c4-4054-8596-d5eda001e1f1",
+  "instruction": "Summarize a news article about the growth of AI assistants into one or two paragraphs.",
+  "input": "Article URL: https://www.forbes.com/sites/bernardmarr/2018/12/06/how-ai-voice-assistants-are-impacting-our-daily-lives/#28bf88de6c85",
+  "output": "AI voice assistants such as Amazon Alexa, Google Assistant, Apple\u2019s Siri and Microsoft\u2019s Cortana are transforming people\u2019s daily lives. AI-enabled voice assistants can be found in a number of devices such as tablets, phones and smart home assistants. They are being used for a variety of tasks including checking the weather, playing music, making appointments and more. With the use of natural language processing, they can also conduct conversations with humans and even provide extra convenience services like making dinner reservations and booking cinema tickets. The use of AI voice assistants is only expected to grow as more people recognize their increasing potential to make everyday tasks easier.  As the capabilities of AI voice assistants grow in the future, it is likely that even more aspects of life will be impacted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

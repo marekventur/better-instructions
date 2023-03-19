@@ -1,0 +1,12 @@
+{
+  "id": "4ac6e2a1-039e-4e46-9035-aff53a1adf3e",
+  "instruction": "Summarize a passage about the causes of poverty.",
+  "input": "Poverty is the lack of basic human needs, including food, water, sanitation, health, education, and shelter. Poverty can be caused by a variety of factors, including poor infrastructure and inadequate access to public services, social inequities, insufficient job opportunities, lack of access to education or training, war or conflict, limited or non-existent access to finance, and government policies.",
+  "output": "Poverty is mainly caused by inadequate infrastructure, unequal access to public services, limited employment and educational opportunities, conflict, restricted access to finance, and government policies. All of these reasons make it difficult to obtain the basic human needs necessary for a healthy life.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

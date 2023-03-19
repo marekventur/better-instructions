@@ -1,0 +1,12 @@
+{
+  "id": "af0b9109-b246-412f-9c1b-d13621e25b3c",
+  "instruction": "Write an equation to convert Celsius to Fahrenheit.",
+  "input": "",
+  "output": "F = (C * 9/5) + 32",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

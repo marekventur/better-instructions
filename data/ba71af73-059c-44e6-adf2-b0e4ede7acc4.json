@@ -1,0 +1,12 @@
+{
+  "id": "ba71af73-059c-44e6-adf2-b0e4ede7acc4",
+  "instruction": "Given an input sentence, find and replace the adjectives with stronger adjectives.",
+  "input": "She was a happy girl.",
+  "output": "She was a jubilant girl.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

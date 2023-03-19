@@ -1,0 +1,12 @@
+{
+  "id": "5a75b9f6-24ce-4946-9892-e71143f4069b",
+  "instruction": "Explain how to design software architecture.",
+  "input": "",
+  "output": "Designing software architecture involves deciding on the structure and interaction of the various components of the software, such as modules, databases, servers, etc. It also includes identifying the components and their relationships, designing specific implementation details, evaluating the design for quality and security, and documenting the architecture.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4d7f37a7-e2fd-490d-91c1-7bbd3b9119e1",
+  "instruction": "For the given input, predict the following day's stock price.",
+  "input": "The current price of Apple is $300.",
+  "output": "The predicted stock price of Apple for the following day is $301.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

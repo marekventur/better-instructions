@@ -1,0 +1,12 @@
+{
+  "id": "84b887e2-53c6-4f88-b444-bfc5ccb005eb",
+  "instruction": "Transform these sentences into a passive voice",
+  "input": "They are singing a song.",
+  "output": "A song is being sung by them.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

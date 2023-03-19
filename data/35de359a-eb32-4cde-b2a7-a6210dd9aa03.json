@@ -1,0 +1,12 @@
+{
+  "id": "35de359a-eb32-4cde-b2a7-a6210dd9aa03",
+  "instruction": "Take the following input and generate a Wikipedia-style definition for it.",
+  "input": "AI Assistants",
+  "output": "AI Assistants are software applications that use artificial intelligence to provide users with personalized responses to requests, tasks, and queries. They use natural language processing and machine learning algorithms to detect and interpret users' intents, and respond with relevant information and automated actions. AI Assistants are widely used in a variety of digital products, such as everyday consumer devices, automated customer service agents, and digital health assistants. These digital assistants strive to provide a comfortable, conversational experience, mimicking the speech and behavior of a regular human assistant. Examples of AI assistants include Google Assistant, Amazon Alexa, Microsoft Cortana, Apple Siri, and IBM Watson.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

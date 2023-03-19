@@ -1,0 +1,12 @@
+{
+  "id": "c893e525-68ef-47ec-bf81-8e97b27d2d0e",
+  "instruction": "Describe two different techniques for debugging a computer program.",
+  "input": "",
+  "output": "Two different techniques for debugging a computer program are using print statements and using a debugging tool. Using print statements involves inserting statements into the code that will print out the variable values at that point in the code, which can help identify where the problem is occurring. Another technique is to use a debugging tool, which can provide a detailed view of the code and make it much easier to identify the source of the problem. It can also provide options to step through the code line by line and analyze each line of code.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

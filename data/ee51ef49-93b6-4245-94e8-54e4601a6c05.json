@@ -1,0 +1,12 @@
+{
+  "id": "ee51ef49-93b6-4245-94e8-54e4601a6c05",
+  "instruction": "Make an observation about the sentence.",
+  "input": "Micah was the youngest student in the class.",
+  "output": "It is remarkable that Micah was the youngest student in the class since he was able to keep up with his peers despite his age.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "96736a7f-95c6-41f9-b1fc-059da731678d",
+  "instruction": "Insert a transition word to connect \u201cHe took off his shirt\u201d and \u201cHe put on his jacket.\u201d",
+  "input": "He took off his shirt. He put on his jacket.",
+  "output": "He took off his shirt and then put on his jacket.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

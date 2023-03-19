@@ -1,0 +1,12 @@
+{
+  "id": "13db66b0-c780-4e19-b228-416fd407a826",
+  "instruction": "Write a description of the given hotel in at least 3 sentences.",
+  "input": "Radisson Blu Vienna",
+  "output": "The Radisson Blu Vienna is one of the top hotels in the city, offering luxurious rooms and amenities. Located in the heart of Vienna, it is conveniently located near popular attractions. With its 24-hour fitness centre, sauna, and swimming pool, the Radisson Blu Vienna is the perfect place for guests to relax and unwind after a day of sightseeing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

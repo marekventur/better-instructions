@@ -1,0 +1,12 @@
+{
+  "id": "c328f317-9bce-4b6e-97ee-2a6ec7306575",
+  "instruction": "Rewrite the instruction according to the structure \"Given X, Y\".",
+  "input": "Find out the highest peak in the world.",
+  "output": "Given the world, find out the highest peak.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

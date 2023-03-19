@@ -1,0 +1,12 @@
+{
+  "id": "c8f3ef1c-cd59-41d7-82d7-e0ec9626ab7d",
+  "instruction": "Create an algorithm that can detect collisions between two objects.",
+  "input": "",
+  "output": "This algorithm should use geometry to detect if two objects have collided. It should first determine the coordinates of the two objects. Depending on the shapes of the objects, the algorithm should use either a point-rectangle, point-circle, circle-circle, or rectangle-rectangle collision detection algorithm. The algorithm should first perform a bounding box/circle check and then use the appropriate method to determine its intersecting points. If the bounding boxes or circles overlap, the algorithm should use the intersecting points to calculate the object's exact collision points or areas, and then come to a conclusion whether two objects have collided or not.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

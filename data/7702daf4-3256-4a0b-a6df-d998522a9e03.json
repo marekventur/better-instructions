@@ -1,0 +1,12 @@
+{
+  "id": "7702daf4-3256-4a0b-a6df-d998522a9e03",
+  "instruction": "Does the statement provide any evidence to support the claim?",
+  "input": "The new vaccine is highly promising",
+  "output": "No, this statement does not provide any evidence to support the claim.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

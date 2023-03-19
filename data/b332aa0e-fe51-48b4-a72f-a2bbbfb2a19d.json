@@ -1,0 +1,12 @@
+{
+  "id": "b332aa0e-fe51-48b4-a72f-a2bbbfb2a19d",
+  "instruction": "Suggest a better alternative for the following adjective.",
+  "input": "The party was dry.",
+  "output": "The party was uneventful.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

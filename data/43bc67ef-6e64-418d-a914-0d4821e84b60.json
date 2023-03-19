@@ -1,0 +1,12 @@
+{
+  "id": "43bc67ef-6e64-418d-a914-0d4821e84b60",
+  "instruction": "Create an algorithm to alphabetize the following list.",
+  "input": "[\"elephant\", \"zebra\", \"monkey\", \"ant\"]",
+  "output": "# Step 1:  Define a function to sort an array\ndef alphabetize(arr):\n    # Step 2:  Sort the array in alphabetical order\n    arr.sort()\n    # Step 3:  Return the sorted array\n    return arr\n\n# Test\nif __name__ == \"__main__\":\n    animals = [\"elephant\", \"zebra\", \"monkey\", \"ant\"]\n    print(alphabetize(animals))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

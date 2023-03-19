@@ -1,0 +1,12 @@
+{
+  "id": "2a7ff133-e465-4f11-9dda-863341a8a52d",
+  "instruction": "List five unique features of the product",
+  "input": "Product: Apple iPhone 12",
+  "output": "- 5G connectivity allowing faster download speeds\n- A new A14 Bionic chip with powerful performance\n- Super Retina XDR OLED display\n- Ceramic Shield front screen for improved protection from scratches and drops\n- MagSafe attachment system for wireless charging and accessories",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

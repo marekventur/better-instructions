@@ -1,0 +1,12 @@
+{
+  "id": "80b87305-31ec-409c-bb02-e6639c918721",
+  "instruction": "Classify the following animals in the proper category.",
+  "input": "wolf, lion, jellyfish",
+  "output": "Mammals: wolf, lion \nInvertebrates: jellyfish",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

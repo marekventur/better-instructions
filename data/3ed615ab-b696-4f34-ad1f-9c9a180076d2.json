@@ -1,0 +1,12 @@
+{
+  "id": "3ed615ab-b696-4f34-ad1f-9c9a180076d2",
+  "instruction": "Edit a poorly-written sentence to make it more readable.",
+  "input": "Despite the fact that the app stores contain hundreds of thousands of apps it doesn't mean they are all necessarly good ones.",
+  "output": "Although there are hundreds of thousands of apps in the app stores, not all of them are necessarily good ones.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

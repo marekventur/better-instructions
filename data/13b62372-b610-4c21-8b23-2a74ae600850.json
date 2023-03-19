@@ -1,0 +1,12 @@
+{
+  "id": "13b62372-b610-4c21-8b23-2a74ae600850",
+  "instruction": "Compare and contrast two characters from a book.",
+  "input": "Harry Potter and Lord Voldemort",
+  "output": "Harry Potter and Lord Voldemort are both powerful wizards in the Harry Potter series. While they have a lot of similarities \u2013 such as their powerful magical abilities, their thirst for power, and their ambition \u2013 they are also very different. Voldemort was born as Tom Riddle and had a difficult childhood full of loneliness, rejection and control issues, which led to him craving power to compensate for his past. On the other hand, Harry had a much happier childhood and was loved by his family and friends, which led to him developing a strong sense of justice and the desire to protect those he loves.\n \nVoldemort is consumed by ambition and his ultimate goal is immortality, while Harry is more interested in using his powers to protect the people of the wizarding world from evil. Voldemort is focused solely on domination, while Harry is driven by kindness, loyalty and compassion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

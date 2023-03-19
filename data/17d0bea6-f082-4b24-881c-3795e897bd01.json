@@ -1,0 +1,12 @@
+{
+  "id": "17d0bea6-f082-4b24-881c-3795e897bd01",
+  "instruction": "Sort the following list of numbers from least to greatest.",
+  "input": "3, -9, 7, 4",
+  "output": "-9, 3, 4, 7",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

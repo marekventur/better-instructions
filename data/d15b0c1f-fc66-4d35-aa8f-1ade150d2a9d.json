@@ -1,0 +1,12 @@
+{
+  "id": "d15b0c1f-fc66-4d35-aa8f-1ade150d2a9d",
+  "instruction": "List three items in my grocery list.",
+  "input": "Apples, eggs, and milk",
+  "output": "Apples, eggs, milk, carrots, onions, and tomatoes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

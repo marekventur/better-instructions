@@ -1,0 +1,12 @@
+{
+  "id": "180349e5-26d1-4778-a498-a380b9be252c",
+  "instruction": "Identify five advantages of using a GPT-based natural language processing model.",
+  "input": "",
+  "output": "1. GPT-based NLU models are faster and more accurate than manual annotation.\n2. GPT-based NLU models are more easily customisable and can leverage pre-trained models. \n3. GPT-based models can be applied to a variety of tasks, including language generation, translation, summarisation, etc.\n4. GPT-based NLU models can learn from data in a more efficient manner than traditional methods.\n5. GPT-based NLU models can generate natural language responses which no other technique can reproduce.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

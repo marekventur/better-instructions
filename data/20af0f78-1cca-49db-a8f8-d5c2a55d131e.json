@@ -1,0 +1,12 @@
+{
+  "id": "20af0f78-1cca-49db-a8f8-d5c2a55d131e",
+  "instruction": "Describe one of the steps of protein synthesis.",
+  "input": "",
+  "output": "Protein synthesis is a process that takes place in cells. It involves the assembly of amino acids into proteins. One of the steps in this process is translation, in which a ribosome translates the genetic code from DNA into a string of amino acids, which form the proteins. This occurs by combining the transfer RNAs which have the specific amino acid based on codons in the mRNA. The newly formed polypeptide is then released, and the amino acids are ready to carry out their functions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

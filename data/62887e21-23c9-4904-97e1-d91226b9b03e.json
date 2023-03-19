@@ -1,0 +1,12 @@
+{
+  "id": "62887e21-23c9-4904-97e1-d91226b9b03e",
+  "instruction": "Put this set of numbers in ascending order.",
+  "input": "9, 4, 1, 5, 6",
+  "output": "1, 4, 5, 6, 9",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

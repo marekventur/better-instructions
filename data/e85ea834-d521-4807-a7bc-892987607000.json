@@ -1,0 +1,12 @@
+{
+  "id": "e85ea834-d521-4807-a7bc-892987607000",
+  "instruction": "Add three more convincing points to the following argument.",
+  "input": "Humans should not eat meat because it is not good for their health, it is filled with preservatives, and inappropriate animal treatment.",
+  "output": "Humans should not eat meat because it is not good for their health, it is filled with preservatives, inappropriate animal treatment, the production of meat requires a large amount of resources, it contributes to global warming, and it can lead to the spread of zoonotic diseases.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

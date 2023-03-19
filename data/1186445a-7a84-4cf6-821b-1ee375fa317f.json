@@ -1,0 +1,12 @@
+{
+  "id": "1186445a-7a84-4cf6-821b-1ee375fa317f",
+  "instruction": "Design a database schema for a library that tracks book lending.",
+  "input": "",
+  "output": "The database should have a Books table that contains information such as book title, author, ISBN, etc. It should also have a Borrowers table that contains borrower information such as name, address, and phone number. The main table should be a Loans table that links each book with a borrower. The Loans table should also contain information such as loan date and return date.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

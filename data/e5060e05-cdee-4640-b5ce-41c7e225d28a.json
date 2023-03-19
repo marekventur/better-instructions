@@ -1,0 +1,12 @@
+{
+  "id": "e5060e05-cdee-4640-b5ce-41c7e225d28a",
+  "instruction": "Generate an expression that evaluates to non-zero if the given number is even.",
+  "input": "5",
+  "output": "5 % 2 === 0",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

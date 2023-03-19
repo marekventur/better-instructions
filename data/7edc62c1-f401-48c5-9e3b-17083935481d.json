@@ -1,0 +1,12 @@
+{
+  "id": "7edc62c1-f401-48c5-9e3b-17083935481d",
+  "instruction": "Take this sentence and replace the nouns and verbs with synonyms:",
+  "input": "The artist selects colors for her painting.",
+  "output": "The creator decides hues for her artwork.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

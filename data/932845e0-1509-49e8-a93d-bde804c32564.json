@@ -1,0 +1,12 @@
+{
+  "id": "932845e0-1509-49e8-a93d-bde804c32564",
+  "instruction": "Create a caption that accurately describes a given photo taken of a coffee mug.",
+  "input": "![Image of Coffee Mug][1]\n\n[1]: https://i.imgur.com/V7kGjKN.jpg",
+  "output": "A hot cup of coffee, the perfect way to start the day! #coffee #mug #energyboost",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

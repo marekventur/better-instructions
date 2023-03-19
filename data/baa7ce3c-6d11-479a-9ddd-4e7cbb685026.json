@@ -1,0 +1,12 @@
+{
+  "id": "baa7ce3c-6d11-479a-9ddd-4e7cbb685026",
+  "instruction": "Given a list of facts and the topic, compose a paragraph.",
+  "input": "Topic: Artificial Intelligence\nFacts: \n- AI has become the cornerstone of business operations\n- AI is an effective tool for optimizing processes",
+  "output": "Businesses have embraced Artificial Intelligence as a powerful tool. AI has become the cornerstone of business operations, allowing companies to streamline and optimize their work processes, minimizing costs, and thus increasing profits. AI can automate mundane tasks, enhance customer experience, and drastically reduce the time taken to complete tasks. With its versatility and potential, AI is being implemented in every kind of business, from small-scale startups to massive multi-national corporations.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

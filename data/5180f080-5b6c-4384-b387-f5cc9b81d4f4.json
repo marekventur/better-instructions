@@ -1,0 +1,12 @@
+{
+  "id": "5180f080-5b6c-4384-b387-f5cc9b81d4f4",
+  "instruction": "Given a statement, use supplementary evidence to come up with a different interpretation or opinion.",
+  "input": "The price of the product has increased.",
+  "output": "The price increase may not be beneficial for consumers as it could cause them to have to pay more for the product. However, the increased price could have positive implications for the company, such as higher profits, being able to invest in higher quality materials and processes, or having more money to pay employees.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "45c1f5e9-0dd1-4fea-8284-09747acbe4a7",
+  "instruction": "Find the longest palindrome from the sentence: \"It is a sunny day today\"",
+  "input": "It is a sunny day today",
+  "output": "The longest palindrome from the sentence \"It is a sunny day today\" is \"sunsunsun\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

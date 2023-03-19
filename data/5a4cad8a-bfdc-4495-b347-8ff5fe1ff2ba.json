@@ -1,0 +1,12 @@
+{
+  "id": "5a4cad8a-bfdc-4495-b347-8ff5fe1ff2ba",
+  "instruction": "Identify if the given number is odd or even.",
+  "input": "Number: 48",
+  "output": "Even",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

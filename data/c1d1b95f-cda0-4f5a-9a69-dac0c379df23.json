@@ -1,0 +1,12 @@
+{
+  "id": "c1d1b95f-cda0-4f5a-9a69-dac0c379df23",
+  "instruction": "Rewrite the sentence \"He is not an honest person\" to emphasize the dishonesty.",
+  "input": "He is not an honest person",
+  "output": "He is an incredibly dishonest person.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

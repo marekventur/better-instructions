@@ -1,0 +1,12 @@
+{
+  "id": "de9900c0-873a-4e13-b0b7-3ec8d726c7a6",
+  "instruction": "Rewrite the given sentence with fewer words but not sacrificing any information from the original sentence.",
+  "input": "We have to make sure that every single person follows the safety regulations.",
+  "output": "Everyone must adhere to safety regulations.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

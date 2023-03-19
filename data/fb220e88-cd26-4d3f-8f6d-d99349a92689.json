@@ -1,0 +1,12 @@
+{
+  "id": "fb220e88-cd26-4d3f-8f6d-d99349a92689",
+  "instruction": "Format the following text in the APA style:",
+  "input": "Over the past decade, researchers have dedicated large amount of effort to examine the effect of artificial intelligence on human interaction",
+  "output": "Zheng, X., & Zhang, H. (2021). Over the past decade, researchers have dedicated large amounts of effort to examine the effect of artificial intelligence on human interaction. Journal of AI Research, 8(2), 17-23.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

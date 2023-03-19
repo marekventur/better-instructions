@@ -1,0 +1,12 @@
+{
+  "id": "e2fdab76-8652-43b5-b49c-d9fef64196d8",
+  "instruction": "Categorize these four items as either a mammal, bird, reptile or fish: elephant, dolphin, snake, parrot",
+  "input": "Elephant, dolphin, snake, parrot",
+  "output": "Mammal: Elephant, Dolphin\nReptile: Snake\nBird: Parrot",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

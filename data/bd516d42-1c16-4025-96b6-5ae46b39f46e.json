@@ -1,0 +1,12 @@
+{
+  "id": "bd516d42-1c16-4025-96b6-5ae46b39f46e",
+  "instruction": "Evaluate the given string of code and output the result.",
+  "input": "int x = 5;\nint y = x + 10;",
+  "output": "y = 15",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

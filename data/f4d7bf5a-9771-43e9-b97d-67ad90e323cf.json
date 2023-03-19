@@ -1,0 +1,12 @@
+{
+  "id": "f4d7bf5a-9771-43e9-b97d-67ad90e323cf",
+  "instruction": "Given a set of ingredients, come up with a recipe that produces a tasty treat.",
+  "input": "Flour, sugar, eggs, butter",
+  "output": "Chocolate chip cookies: \n\nIngredients: 1 cup of flour, 1/2 cup of sugar, 2 eggs, 1/2 cup of butter\nInstructions: Preheat oven to 375 degrees F. In a large bowl, mix together the flour and sugar.  In a separate bowl, whisk together the eggs and butter. Slowly add the egg and butter mixture to the flour and sugar, stirring until all the ingredients are fully combined. Scoop the mixture onto an ungreased baking sheet, leaving space between the cookies. Bake for 12-15 minutes, or until the edges are golden brown. Let cool before serving. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "16b0e5a0-ef84-4c3b-9854-a39d1615e174",
+  "instruction": "Guess the emotion of the conversation based on the following dialogue",
+  "input": "Person 1: I'm so tired!\nPerson 2: Don't worry, it will get better soon.",
+  "output": "The two people in the conversation are probably feeling tired and sympathetic.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

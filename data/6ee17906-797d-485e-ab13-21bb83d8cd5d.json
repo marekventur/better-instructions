@@ -1,0 +1,12 @@
+{
+  "id": "6ee17906-797d-485e-ab13-21bb83d8cd5d",
+  "instruction": "Summarize what we know about the coronavirus.",
+  "input": "",
+  "output": "The coronavirus, also known as COVID-19, is a contagious virus that affects the respiratory system and is believed to have originated in China. It has been spreading rapidly around the world and is now considered a pandemic by the World Health Organization. Symptoms include fever, cough, shortness of breath, and difficulty breathing. There is no known cure for the virus, but treatments are available to help reduce symptoms and prevent complications. Prevention measures include frequent hand-washing, wearing a face mask, avoiding close contact with people who are sick, and staying up-to-date on the latest travel advisories.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

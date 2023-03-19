@@ -1,0 +1,12 @@
+{
+  "id": "31444a9d-7dce-479d-bb37-291d1317d339",
+  "instruction": "Generate a sample of a business email.",
+  "input": "",
+  "output": "Dear [Recipient],\n\nI hope you are doing well, and staying safe during this time. I wanted to follow up with you regarding our [discussion/meeting] on [date]. As we discussed in our [meeting/discussion], I am looking to [action]. I wanted to check if there has been any progress on that, and if there is anything else I can do to support it. \n\nThanks,\n[Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

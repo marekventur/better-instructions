@@ -1,0 +1,12 @@
+{
+  "id": "f9d027e9-8fac-47e9-84e6-ecbd29324902",
+  "instruction": "Compare the features of two products and state which one is better.",
+  "input": "Product A: lightweight, easy to install, waterproof\nProduct B: durable, soundproof, energy efficient",
+  "output": "Product B is better because its features are more practical and useful. It is more durable, soundproof, and energy efficient, while product A is lightweight and easy to install but not waterproof.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

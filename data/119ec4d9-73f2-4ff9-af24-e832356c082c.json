@@ -1,0 +1,12 @@
+{
+  "id": "119ec4d9-73f2-4ff9-af24-e832356c082c",
+  "instruction": "Predict the weather for the next three days for Ottawa, Canada.",
+  "input": "",
+  "output": "The weather for the next three days for Ottawa, Canada is forecast to be mostly sunny, with a high of 25\u00b0C (77\u00b0F) on Tuesday, followed by a high of 28\u00b0C (82\u00b0F) on Wednesday and 24\u00b0C (75\u00b0F) on Thursday.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

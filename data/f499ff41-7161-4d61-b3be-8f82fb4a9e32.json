@@ -1,0 +1,12 @@
+{
+  "id": "f499ff41-7161-4d61-b3be-8f82fb4a9e32",
+  "instruction": "Create an algorithm to find the first repeating character in a string.",
+  "input": "",
+  "output": "def findTheFirstRepeatingCharacter(str): \n    char_hash = {} \n    for i in range(len(str)): \n        if str[i] in char_hash: \n            return str[i]   \n        else: \n            char_hash[str[i]] = i  \n    return 'No Repeating Character Found'",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

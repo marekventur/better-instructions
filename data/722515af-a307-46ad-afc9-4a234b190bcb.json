@@ -1,0 +1,12 @@
+{
+  "id": "722515af-a307-46ad-afc9-4a234b190bcb",
+  "instruction": "Generate five questions to ask an interviewee for the job.",
+  "input": "",
+  "output": "1. What experience do you have in this field?\n2. How have you handled difficult customer service situations in the past?\n3. What challenges have you faced in similar roles?\n4. What do you think are the most important skills for this job?\n5. How do you think your values and approach to work match with our company?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

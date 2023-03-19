@@ -1,0 +1,12 @@
+{
+  "id": "ef9b0f1a-5621-4d57-ba20-664dfeb9533b",
+  "instruction": "Create a quiz that will assess the knowledge of the student about Deep Learning.",
+  "input": "",
+  "output": "1. What is the difference between supervised and unsupervised learning?\nA. Supervised learning models are used for classification problems, whereas unsupervised learning models are used for regression problems. \nB. Supervised learning models use labeled data to make predictions, whereas unsupervised learning models use unlabeled data.\nC. Supervised learning models are used for predicting output sequences, whereas unsupervised learning models are used for clustering data. \nD. Supervised learning models are used for regression problems, whereas unsupervised learning models are used for classification problems.\n\n2. What is the purpose of convolutional neural networks?\nA. To recognize patterns in image data\nB. To predict future values in a sequence of data\nC. To generate natural language text \nD. To detect outliers in data \n\n3. How are deep learning models trained?\nA. By feeding them labeled data\nB. By feeding them unlabeled data\nC. By giving them feedback on their performance\nD. By running algorithms on the data",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

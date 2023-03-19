@@ -1,0 +1,12 @@
+{
+  "id": "b45e5726-1801-4937-b299-9f89d1a54b90",
+  "instruction": "Put two facts together to form an opinion.",
+  "input": "The weather is cold and the sky is cloudy.",
+  "output": "It looks like it might rain soon since the weather is cold and the sky is cloudy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

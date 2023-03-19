@@ -1,0 +1,12 @@
+{
+  "id": "44ca6bd2-370a-4ede-9c65-dc0dc38f74c4",
+  "instruction": "Using the given list of ingredients, come up with a unique recipe that you would suggest to the chef to try out.",
+  "input": "Ingredients: Tomatoes, Balsamic vinegar, Honey, Garlic Cloves",
+  "output": "Balsamic Honey Tomato Garlic Pasta -\nIngredients: \n- 4-6 tomatoes (cut into wedges)\n- 5 cloves of garlic (minced)\n- 1/4 cup of balsamic vinegar\n- 1/4 cup of honey\n- 1/2 teaspoon of salt\n- Pepper to taste\n- 1 pound of pasta\nInstructions: \n- In a large pan, heat the tomatoes, garlic, balsamic vinegar, honey, salt and pepper.\n- Cook for about 5 minutes and reduce the mixture until it thickens.\n- In a separate pot, cook the pasta according to the instructions on the package.\n- Once cooked, drain the pasta and add it to the tomato mixture.\n- Heat for for an additional 3-4 minutes.\n- Serve with parmesan cheese and fresh basil. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

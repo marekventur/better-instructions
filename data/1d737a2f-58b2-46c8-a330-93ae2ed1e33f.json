@@ -1,0 +1,12 @@
+{
+  "id": "1d737a2f-58b2-46c8-a330-93ae2ed1e33f",
+  "instruction": "Sort the animals into categories: land animals and sea animals.",
+  "input": "Horse, Whale, Fish, Cat",
+  "output": "Land animals: Horse, Cat. \nSea animals: Whale, Fish.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

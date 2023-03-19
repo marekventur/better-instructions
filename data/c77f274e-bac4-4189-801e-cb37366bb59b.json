@@ -1,0 +1,12 @@
+{
+  "id": "c77f274e-bac4-4189-801e-cb37366bb59b",
+  "instruction": "Create a function that takes an integer as an argument, and prints out its factorial.",
+  "input": "",
+  "output": "def factorial(num):\n    if num == 0:\n        return 1\n    else:\n        return num * factorial(num - 1)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "88bcc623-ff6f-427e-8c63-be3618fedaaa",
+  "instruction": "Given a dataset, generate three different hypothesis about what the data signifies.",
+  "input": "Student scores in a mathematics tests",
+  "output": "Three hypotheses about the data: \n1. Higher scores are correlated with increased access to tutoring and additional educational resources. \n2. Boys have significantly higher scores than girls. \n3. Students with a higher socioeconomic class have better scores on the test than those with a lower class.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

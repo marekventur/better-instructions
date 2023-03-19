@@ -1,0 +1,12 @@
+{
+  "id": "cf08823f-0f95-4af4-89d0-f4e2c0f5a9ed",
+  "instruction": "Identify the type of text structure in the following paragraph.",
+  "input": "Humans have been living on earth for hundreds of thousands of years. They have been able to build cities, develop science and technology, create literature, art, and music, and live in relative comfort. Despite this impressive track record, humans are still searching for answers to some of life's biggest mysteries.",
+  "output": "Chronological Structure",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

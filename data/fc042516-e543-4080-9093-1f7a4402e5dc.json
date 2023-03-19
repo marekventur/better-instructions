@@ -1,0 +1,12 @@
+{
+  "id": "fc042516-e543-4080-9093-1f7a4402e5dc",
+  "instruction": "Translate the given phrase into Italian",
+  "input": "My name is John",
+  "output": "Il mio nome \u00e8 John",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

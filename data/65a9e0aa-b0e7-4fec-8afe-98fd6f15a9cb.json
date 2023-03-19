@@ -1,0 +1,12 @@
+{
+  "id": "65a9e0aa-b0e7-4fec-8afe-98fd6f15a9cb",
+  "instruction": "Delete the redundant words in the following sentence:\nI went to the store for for groceries.",
+  "input": "",
+  "output": "I went to the store for groceries.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

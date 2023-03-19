@@ -1,0 +1,12 @@
+{
+  "id": "f3af2884-7fd5-42dc-83ac-25c1765af888",
+  "instruction": "Explain the main differences between HTTP and HTTPS protocols.",
+  "input": "",
+  "output": "HTTP (Hypertext Transfer Protocol) is a protocol used for transferring files and data between a client (web browser) and a server. HTTPS (Hypertext Transfer Protocol Secure) is an extension of HTTP and uses SSL/TLS (Secure Sockets Layer/Transport Layer Security) to encrypt communication between a client and a server. This encryption provides privacy and data integrity between two communicating applications. Additionally, HTTPS requires an SSL or TLS certificate to be installed on the website while HTTP does not.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

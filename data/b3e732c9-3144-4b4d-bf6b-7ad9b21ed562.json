@@ -1,0 +1,12 @@
+{
+  "id": "b3e732c9-3144-4b4d-bf6b-7ad9b21ed562",
+  "instruction": "Identify the following animal.",
+  "input": "It has thick fur, a long tail, and pointed ears.",
+  "output": "The animal is a fox.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a2ba746b-e4af-4239-8b43-59481d66eb65",
+  "instruction": "Select a reasonable example to show the output of a simple linear regression model.",
+  "input": "",
+  "output": "A reasonable example of the output of a simple linear regression model would be to predict the GDP of a certain country based on its population. For example, a linear regression model may be used to analyze the data points of different countries and determine the relationship between a country\u2019s population and its GDP. The output of the linear regression model would be the best fitting line, or \u201ctrend line,\u201d displaying the data points of the different countries and showing the relationship between population and GDP.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

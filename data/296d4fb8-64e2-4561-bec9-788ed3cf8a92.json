@@ -1,0 +1,12 @@
+{
+  "id": "296d4fb8-64e2-4561-bec9-788ed3cf8a92",
+  "instruction": "Classify the following animals as mammal, bird, fish, reptile, or insect.",
+  "input": "cat, eagle, salmon, snake, mosquito",
+  "output": "Mammal: Cat\nBird: Eagle\nFish: Salmon\nReptile: Snake\nInsect: Mosquito",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

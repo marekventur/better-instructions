@@ -1,0 +1,12 @@
+{
+  "id": "04e234bd-73ac-4cd5-ac55-84d78fa87a52",
+  "instruction": "Write an equation that describes the given relationship.",
+  "input": "The total cost of a meal is equal to the cost of its ingredients plus the cost of labour.",
+  "output": "Total Cost = Cost of Ingredients + Cost of Labour",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

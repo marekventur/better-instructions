@@ -1,0 +1,12 @@
+{
+  "id": "4442e4dd-6211-44f3-8803-cb89f246f494",
+  "instruction": "Given a sentence and an input, correct the grammar and spelling mistakes in the sentence.",
+  "input": "The dog barked loudley at it's foe.",
+  "output": "The dog barked loudly at its foe.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

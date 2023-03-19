@@ -1,0 +1,12 @@
+{
+  "id": "0257f39c-b607-4a78-8d1e-5d9dd8058536",
+  "instruction": "Edit the sentence to make it negative: \"Apple launched the new iPhone 12 Pro\"",
+  "input": "Apple launched the new iPhone 12 Pro",
+  "output": "Apple did not launch the new iPhone 12 Pro.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

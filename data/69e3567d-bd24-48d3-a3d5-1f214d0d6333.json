@@ -1,0 +1,12 @@
+{
+  "id": "69e3567d-bd24-48d3-a3d5-1f214d0d6333",
+  "instruction": "Construct a query to find an article about the economic benefits of renewable energy sources.",
+  "input": "",
+  "output": "SELECT * FROM Articles WHERE topic = 'Renewable Energy' AND content LIKE '%economic benefits%';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

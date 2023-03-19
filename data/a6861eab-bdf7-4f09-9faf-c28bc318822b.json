@@ -1,0 +1,12 @@
+{
+  "id": "a6861eab-bdf7-4f09-9faf-c28bc318822b",
+  "instruction": "Re-write the sentence using an appropriate synonym of the key keyword.",
+  "input": "The politician denied his wrong-doing.",
+  "output": "The politician refuted his misconduct.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

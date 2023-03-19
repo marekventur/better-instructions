@@ -1,0 +1,12 @@
+{
+  "id": "9b8af54f-6693-4e33-a2cc-b3efe2a1d3e7",
+  "instruction": "Given a start date and a duration, calculate the end date.",
+  "input": "Start date: 03/07/2020\nDuration: 2 months",
+  "output": "End date: May 7th, 20",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

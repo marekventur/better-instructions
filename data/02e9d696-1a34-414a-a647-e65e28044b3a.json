@@ -1,0 +1,12 @@
+{
+  "id": "02e9d696-1a34-414a-a647-e65e28044b3a",
+  "instruction": "For the following input, provide data points to represent the human population of countries A and B.",
+  "input": "Country A and Country B",
+  "output": "Country A: Human Population: 50 million\nCountry B: Human Population: 30 million",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

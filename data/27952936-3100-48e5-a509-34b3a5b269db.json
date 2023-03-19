@@ -1,0 +1,12 @@
+{
+  "id": "27952936-3100-48e5-a509-34b3a5b269db",
+  "instruction": "Given a DNA sequence, identify the start codon of the sequence.",
+  "input": "ATGCCAAGAT",
+  "output": "The start codon of the sequence is ATG.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

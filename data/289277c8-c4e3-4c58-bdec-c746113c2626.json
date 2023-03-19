@@ -1,0 +1,12 @@
+{
+  "id": "289277c8-c4e3-4c58-bdec-c746113c2626",
+  "instruction": "Given a context, complete a dialogue between two people",
+  "input": "John: I don't understand why my sales are down this month.",
+  "output": "Sandra: Maybe it's because your competitors have been expanding their products and offering lower prices? Have you taken a look at their offerings recently?\n\nJohn: Yeah, you're right. I haven't been keeping up with what they're doing and it's cost me business. I better get back on track.\n\nSandra: That's a good idea. Maybe you can find a way to differentiate your products and services, so you can stand out in the market.\n\nJohn: That's a great suggestion. I think I know what to do. Thanks for your help.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

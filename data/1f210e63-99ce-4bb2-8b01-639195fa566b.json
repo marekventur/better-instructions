@@ -1,0 +1,12 @@
+{
+  "id": "1f210e63-99ce-4bb2-8b01-639195fa566b",
+  "instruction": "Using the sentence, generate a sentence that has the same meaning.",
+  "input": "John was sent to prison.",
+  "output": "John was imprisoned.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

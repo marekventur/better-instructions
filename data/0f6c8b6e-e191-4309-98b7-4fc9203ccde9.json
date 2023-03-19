@@ -1,0 +1,12 @@
+{
+  "id": "0f6c8b6e-e191-4309-98b7-4fc9203ccde9",
+  "instruction": "Imagine you have a function 'my_func(str1, str2)'. What would be the expected output of my_func(\"Hello\", \"World\")?",
+  "input": "",
+  "output": "The expected output of my_func(\"Hello\", \"World\") is \"Hello World\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "92645d0b-3657-426b-b727-aba4236141b1",
+  "instruction": "Add two numbers together and write out the answer in words.",
+  "input": "8 + 8",
+  "output": "Sixteen.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

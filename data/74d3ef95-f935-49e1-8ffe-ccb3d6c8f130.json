@@ -1,0 +1,12 @@
+{
+  "id": "74d3ef95-f935-49e1-8ffe-ccb3d6c8f130",
+  "instruction": "Create a \u201cWhat would you do?\u201d scenario based on the following situation.",
+  "input": "Your car has run out of gas in the middle of nowhere",
+  "output": "What would you do if your car ran out of gas in the middle of nowhere? \n\nYou would have to figure out a creative way to figure out your location and find the nearest gas station. You could try to find help from local businesses, flag down passing cars, or even try to fix the car yourself. Ultimately, the best solution would depend on your resources and the amount of time available.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

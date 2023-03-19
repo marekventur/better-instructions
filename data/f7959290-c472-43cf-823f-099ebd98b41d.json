@@ -1,0 +1,12 @@
+{
+  "id": "f7959290-c472-43cf-823f-099ebd98b41d",
+  "instruction": "Classify the following cities as metropolitan or rural",
+  "input": "Berlin, Geneva, Boise",
+  "output": "Berlin: Metropolitan\nGeneva: Metropolitan\nBoise: Rural",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

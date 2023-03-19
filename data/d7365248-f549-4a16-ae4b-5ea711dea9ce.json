@@ -1,0 +1,12 @@
+{
+  "id": "d7365248-f549-4a16-ae4b-5ea711dea9ce",
+  "instruction": "Write a query to find all the hotels in Chicago.",
+  "input": "",
+  "output": "SELECT * FROM hotels WHERE city = 'Chicago';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

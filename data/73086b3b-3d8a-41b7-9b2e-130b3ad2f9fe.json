@@ -1,0 +1,12 @@
+{
+  "id": "73086b3b-3d8a-41b7-9b2e-130b3ad2f9fe",
+  "instruction": "Identify the tone being used and why.",
+  "input": "The new policy has been implemented to increase efficiency.",
+  "output": "The tone being used is neutral, as the sentence is strictly factual and does not express any emotion or opinion. The sentence is simply describing the implementation of a new policy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

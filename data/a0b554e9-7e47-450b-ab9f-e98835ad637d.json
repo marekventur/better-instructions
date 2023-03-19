@@ -1,0 +1,12 @@
+{
+  "id": "a0b554e9-7e47-450b-ab9f-e98835ad637d",
+  "instruction": "Analyse the following data and show your conclusions.",
+  "input": "A survey of 10 people were asked whether they drink coffee or tea. 7 said coffee and 3 said tea.",
+  "output": "Based on the survey, 70% of the people surveyed drink coffee while 30% drink tea.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

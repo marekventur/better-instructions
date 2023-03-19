@@ -1,0 +1,12 @@
+{
+  "id": "79e60704-2950-438f-8edc-5c253072aac2",
+  "instruction": "Change the given sentence from third person to first person",
+  "input": "She reads the book.",
+  "output": "I read the book.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

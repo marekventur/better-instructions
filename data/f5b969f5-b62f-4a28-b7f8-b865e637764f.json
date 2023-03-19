@@ -1,0 +1,12 @@
+{
+  "id": "f5b969f5-b62f-4a28-b7f8-b865e637764f",
+  "instruction": "Infer what the author is implying in this sentence.",
+  "input": "He's been busy lately",
+  "output": "The author is implying that the person has been occupied with something and has had less time for other activities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

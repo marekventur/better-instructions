@@ -1,0 +1,12 @@
+{
+  "id": "e939198d-4b0c-4dc1-82a1-d1966e6c50cb",
+  "instruction": "Create a program the calculates the distance between two points.",
+  "input": "",
+  "output": "def distance(x1, y1, x2, y2): \n    # Calculate distance using Euclidean distance \n    dist = ((x2 - x1)**2 + (y2 - y1)**2)**0.5 \n    return dist \n  \n# Driver code \n# Output should be 5.0\nx1 = 3\ny1 = 4 \nx2= 6\ny2 = 8\nprint(distance(x1, y1, x2, y2))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

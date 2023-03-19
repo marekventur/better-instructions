@@ -1,0 +1,12 @@
+{
+  "id": "77383a6a-958e-44c0-b360-ef9aa3cfc173",
+  "instruction": "Insert a suitable greeting at the beginning of the given email.",
+  "input": "Dear [Name],\n\nWe are writing to inform you that your order is ready to be shipped.",
+  "output": "Dear [Name],\n\nWe hope you are doing well. \n\nWe are writing to inform you that your order is ready to be shipped.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

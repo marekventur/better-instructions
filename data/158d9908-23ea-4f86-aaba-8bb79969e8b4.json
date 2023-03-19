@@ -1,0 +1,12 @@
+{
+  "id": "158d9908-23ea-4f86-aaba-8bb79969e8b4",
+  "instruction": "Read the following statement, and determine the hypothesis and conclusion.",
+  "input": "Too much sugar can lead to obesity.",
+  "output": "Hypothesis: Too much sugar can lead to obesity.\nConclusion: Increased sugar intake can result in obesity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

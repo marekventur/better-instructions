@@ -1,0 +1,12 @@
+{
+  "id": "d62a45c5-4c12-487e-9026-fb2819106821",
+  "instruction": "Describe a datastructure that could be used to store employee records.",
+  "input": "",
+  "output": "A Hashtable could be used to store employee records. A Hashtable is a data structure that stores key-value pair elements, which allows for fast access to records. In this case, an employee record could be stored as a key-value pair, with the employee's name being the key and the employee's other details (age, address, salary, etc) being the value. This would enable quick access to individual employee records as well as the ability to look up records by specific search criteria, such as salary or address.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

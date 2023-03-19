@@ -1,0 +1,12 @@
+{
+  "id": "fb4a99a9-213e-441b-8204-0340b9f4e62d",
+  "instruction": "Fill in the blank for these fill-in-the-blank questions.",
+  "input": "What is the capital of ________?",
+  "output": "What is the capital of China?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

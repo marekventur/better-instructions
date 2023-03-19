@@ -1,0 +1,12 @@
+{
+  "id": "4191f306-548b-477e-abbd-dda3dc3585ee",
+  "instruction": "Describe a use case for recommender systems",
+  "input": "",
+  "output": "Recommender systems are algorithm used to personalize content and product recommendations to a user based on their past behavior and preferences. A common use case for recommender systems is in e-commerce, where a user may be presented with product recommendations tailored to their tastes and interests. These systems can also be used for streaming media, such as suggesting movies or music based on previous content a user has interacted with.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

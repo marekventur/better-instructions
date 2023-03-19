@@ -1,0 +1,12 @@
+{
+  "id": "4d934138-d1a6-4e47-9c3c-0aa57f699f0d",
+  "instruction": "Generate a feature engineering pipeline.",
+  "input": "",
+  "output": "The feature engineering pipeline should include preprocessing steps such as data cleaning and normalization, followed by feature selection, transformation and construction, and finally, feature training and evaluation. Preprocessing will make sure that data is consistent and of high quality, feature selection will choose a set of features for the model, transformation and construction will create new features, and training and evaluation will be used to identify the best features for model performance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

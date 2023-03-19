@@ -1,0 +1,12 @@
+{
+  "id": "6c2cf764-7342-47bf-9862-d1fca65f0dde",
+  "instruction": "Automatically find and insert hyperlinks in the text",
+  "input": "This article talks about data mining",
+  "output": "This article talks about <a href='https://en.wikipedia.org/wiki/Data_mining'>data mining</a>.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

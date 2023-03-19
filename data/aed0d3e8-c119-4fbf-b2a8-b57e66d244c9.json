@@ -1,0 +1,12 @@
+{
+  "id": "aed0d3e8-c119-4fbf-b2a8-b57e66d244c9",
+  "instruction": "Given the string \u201ckeyword_1 keyword_2 keyword_3\u201d, output the first word only.",
+  "input": "keyword_1 keyword_2 keyword_3",
+  "output": "keyword_1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

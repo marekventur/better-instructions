@@ -1,0 +1,12 @@
+{
+  "id": "5f39b900-cb37-4908-9776-ee43dc8d0ff8",
+  "instruction": "Find the time complexity of this algorithm.",
+  "input": "def linearSearch(arr, n, x): \n    for i in range (0, n): \n        if (arr[i] == x): \n            return i \n    return -1",
+  "output": "The time complexity of this algorithm is O(n). This is because the algorithm will take a linear amount of time to run, since it has to iterate through the entire array in order to find the target item.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

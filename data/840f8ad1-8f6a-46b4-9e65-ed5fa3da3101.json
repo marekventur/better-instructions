@@ -1,0 +1,12 @@
+{
+  "id": "840f8ad1-8f6a-46b4-9e65-ed5fa3da3101",
+  "instruction": "Identify the group of words below that is a conjunction.",
+  "input": "as, as soon, although",
+  "output": "The conjunction in this group is \"although\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

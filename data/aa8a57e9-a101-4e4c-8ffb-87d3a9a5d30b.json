@@ -1,0 +1,12 @@
+{
+  "id": "aa8a57e9-a101-4e4c-8ffb-87d3a9a5d30b",
+  "instruction": "Design an algorithm to add two positive integers",
+  "input": "Integer1: 8\nInteger2: 5",
+  "output": "The algorithm should loop through the two integers and add the corresponding digits, keeping track of the carry.\n\ndef add_integers(int1, int2): \n  result = \"\" # initialize result string \n  carry = 0 # set carry to 0 \n  # loop through the two integers \n  for i in range(max(len(int1), len(int2))): \n    sum = carry \n    # loop through each digits of integer1 \n    if i < len(int1): \n      sum += int(int1[i]) \n    # loop through each digits of integer2 \n    if i < len(int2): \n      sum += int(int2[i]) \n    result += str(sum % 10) # store the result in result string \n    carry = sum // 10 # compute the carry \n \n  if carry: \n    result += str(carry) \n \n  return result",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "80692e9a-d550-44bb-a548-42e0fcba1cce",
+  "instruction": "Given the following drawing, generate an appropriate caption.",
+  "input": "![alt text](https://image.shutterstock.com/image-vector/colored-sign-nature-protect-people-260nw-746876663.jpg)",
+  "output": "Only together can we protect our planet and ensure a better future for generations to come.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

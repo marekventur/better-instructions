@@ -1,0 +1,12 @@
+{
+  "id": "e8c9fc7b-c542-4c63-a16a-b7d3c2a572a9",
+  "instruction": "Given the start of a story, finish the story in 4 sentences.",
+  "input": "Once upon a time, there was a young man who wanted to be the best dancer in the world.",
+  "output": "He signed up to dance classes and worked hard every day to learn new moves. He eventually became one of the most talented dancers in the kingdom and was invited to compete in the royal court's annual dance competition. He was determined to win and spent all of his free time polishing his routine. On the day of the competition, he wowed the crowd with his spectacular performance and was declared the winner. He had finally achieved his dream of being the best dancer in the world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

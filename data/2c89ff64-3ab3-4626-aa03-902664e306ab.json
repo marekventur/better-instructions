@@ -1,0 +1,12 @@
+{
+  "id": "2c89ff64-3ab3-4626-aa03-902664e306ab",
+  "instruction": "Identify the song given the provided lyrics.",
+  "input": "\"Don't stop takin' money out the ATM\nLookin' at the 'Gram, gettin' mad 'cause a nigga got more bands\nDon't stop, stack it up, yeah, me I'm all in\nMy money long, you can't find the end\"",
+  "output": "Cardi B - Money.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

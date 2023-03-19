@@ -1,0 +1,12 @@
+{
+  "id": "d4a6348b-13a4-45e5-b395-3b45d2b0b8a0",
+  "instruction": "Generate an algorithm for solving the given problem",
+  "input": "Given a 2D array of characters, print all valid words that can be formed in the array.",
+  "output": "Step 1: Traverse the 2D array and create a trie of all possible words.\n\nStep 2: Starting from the top-left character, perform a deep-first search for all valid words.\n\nStep 3: For each traversal, check if the current character is present in the trie.\n\nStep 4: If the character is present, mark the character as visited and add it to the current word and recursively go through all its neighbors.\n\nStep 5: If the character is not present in the trie, mark it as unvisited and return.\n\nStep 6: If the current character forms a valid word in the trie, print it.\n\nStep 7: Continue the search with other characters until the whole array is traversed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5f16a87b-7ddf-4f5b-8058-e90da368d46c",
+  "instruction": "Output a set of 5 instructions on how to fold a paper crane.",
+  "input": "",
+  "output": "1. Start with a square piece of paper. \n2. Fold the paper in half, then unfold. \n3. Fold the paper in half again so that the crease is along the length of the paper. \n4. Fold the edges of the paper in, then unfold. \n5. Make a series of folds similar to those of a fan, ensuring it is even. \n6. Flip the paper over, and fold the bottom corners up to the center crease. \n7. Make a series of small folds to form the tail of the paper crane. \n8. Open the paper up, which should reveal a paper crane.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

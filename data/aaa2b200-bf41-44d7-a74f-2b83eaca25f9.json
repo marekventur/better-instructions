@@ -1,0 +1,12 @@
+{
+  "id": "aaa2b200-bf41-44d7-a74f-2b83eaca25f9",
+  "instruction": "What is the value of item X in the cash register?",
+  "input": "Item X: Handkerchief",
+  "output": "The price of a handkerchief in the cash register is $3.99.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

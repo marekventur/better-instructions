@@ -1,0 +1,12 @@
+{
+  "id": "8bc760bb-6ba5-4dbb-91d2-3fb74c70cad8",
+  "instruction": "Identify the following musical genre.",
+  "input": "A style of music combining elements of punk rock, ska, reggae, and dub.",
+  "output": "The musical genre is Ska-Punk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

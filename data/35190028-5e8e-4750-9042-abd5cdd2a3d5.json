@@ -1,0 +1,12 @@
+{
+  "id": "35190028-5e8e-4750-9042-abd5cdd2a3d5",
+  "instruction": "Organize the given sentences in a logical order.",
+  "input": "Sentence 1: Then they progressed to a full-fledged company. \nSentence 2: A group of people started a small business.\nSentence 3: Finally, they released their first product.",
+  "output": "Sentence 2: A group of people started a small business. \nSentence 1: Then they progressed to a full-fledged company. \nSentence 3: Finally, they released their first product.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4e3876e1-aa9e-49b3-a463-ec0d252f76f8",
+  "instruction": "Make a list of three items to denote the given emotion.",
+  "input": "Excitement",
+  "output": "\u2022 Excitement can be expressed by dancing, jumping, and laughing. \n\u2022 Going on a rollercoaster, watching fireworks, and attending a fun event can cause a feeling of excitement. \n\u2022 Excitement is often accompanied by increased energy, increased breathing rate, and flushed skin.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

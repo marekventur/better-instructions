@@ -1,0 +1,12 @@
+{
+  "id": "bae5451a-0793-45ad-8928-69a30dc1a477",
+  "instruction": "Given a text, generate 10 different questions that can be asked about it.",
+  "input": "Jason is a chef in an Italian restaurant.",
+  "output": "1. What type of cuisine does Jason specialize in? \n2. How long has Jason been a chef? \n3. What type of restaurant does Jason work at? \n4. What inspired Jason to be a chef? \n5. What are some of Jason's signature dishes? \n6. How does Jason come up with unique recipes? \n7. What methods does Jason use to create flavor combinations? \n8. What are some of the challenges Jason faces as a chef? \n9. How does Jason ensure that his dishes are high-quality? \n10. Has Jason ever won any awards for his dishes?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

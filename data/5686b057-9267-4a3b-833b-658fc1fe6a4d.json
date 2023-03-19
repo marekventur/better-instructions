@@ -1,0 +1,12 @@
+{
+  "id": "5686b057-9267-4a3b-833b-658fc1fe6a4d",
+  "instruction": "Given a list of three email contacts, decide which one to contact first.",
+  "input": "Bob, Mary, and Jane.",
+  "output": "Bob.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

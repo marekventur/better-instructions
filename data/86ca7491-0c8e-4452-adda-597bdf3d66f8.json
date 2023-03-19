@@ -1,0 +1,12 @@
+{
+  "id": "86ca7491-0c8e-4452-adda-597bdf3d66f8",
+  "instruction": "Classify this website as either a blog or an e-commerce store.",
+  "input": "https://www.exampleblogstore.com/",
+  "output": "This website is an e-commerce store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

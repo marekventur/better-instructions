@@ -1,0 +1,12 @@
+{
+  "id": "14b7d344-93c0-42df-9597-0a610fd22a52",
+  "instruction": "Create an efficient route for a courier to deliver five packages.",
+  "input": "The following five packages need to be delivered in the following locations:\nPackage 1 - 400 Main Street\nPackage 2 - 850 Commerce Street\nPackage 3 - 340 Crofton Lane \nPackage 4 - 74 Lantana Drive\nPackage 5 - 871 Hilltop Road",
+  "output": "The route would start at 400 Main Street, then proceed to 850 Commerce Street, 340 Crofton Lane, 74 Lantana Drive, and end at 871 Hilltop Road. This delivers the packages in an efficient way and avoids backtracking. If the courier is driving, they should consider the fastest route using a GPS navigation system. Additionally, they should plan the route in such a way that the packages are delivered in the order in which they are listed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

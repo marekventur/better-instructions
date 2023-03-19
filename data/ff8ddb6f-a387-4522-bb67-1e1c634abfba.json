@@ -1,0 +1,12 @@
+{
+  "id": "ff8ddb6f-a387-4522-bb67-1e1c634abfba",
+  "instruction": "Name one feature that the device does not have.",
+  "input": "The device runs on the Android 8.1 operating system and has a 5.5 inch HD screen.",
+  "output": "The device does not have a waterproof rating.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

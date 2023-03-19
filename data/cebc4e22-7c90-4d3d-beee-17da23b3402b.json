@@ -1,0 +1,12 @@
+{
+  "id": "cebc4e22-7c90-4d3d-beee-17da23b3402b",
+  "instruction": "Provide the quote with proper punctuation and capitalization.",
+  "input": "the only way to achieve success is to have enthusiasm",
+  "output": "\"The only way to achieve success is to have enthusiasm.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

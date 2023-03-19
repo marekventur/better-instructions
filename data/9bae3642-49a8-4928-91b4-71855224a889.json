@@ -1,0 +1,12 @@
+{
+  "id": "9bae3642-49a8-4928-91b4-71855224a889",
+  "instruction": "Given the input, list the differences between an e-book and traditional book",
+  "input": "E-Book vs Traditional Book",
+  "output": "The main differences between an e-book and a traditional book are: \n1. An e-book is an electronic version of a book which can be accessed using an e-reader device, tablet, or computer, while a traditional book is made up of physical paper bound together. \n2. An e-book has advantages such as the ability to increase the text size, change the background color of the page, add bookmarks or notes, and search for words or phrases. Traditional books do not have these features. \n3. An e-book usually has lower cost than a traditional book due to not having physical printing and shipping costs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

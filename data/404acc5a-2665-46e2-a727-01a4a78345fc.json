@@ -1,0 +1,12 @@
+{
+  "id": "404acc5a-2665-46e2-a727-01a4a78345fc",
+  "instruction": "What challenges will an AI system face while trying to play chess?",
+  "input": "",
+  "output": "An AI system playing chess will face challenges such as recognizing patterns in the game, dealing with unknown moves, and understanding the implications of a certain strategy. It will also have to take into account the preferences of its opponent and anticipate their moves accordingly. Additionally, the AI system will have to maintain an efficient way of searching and evaluating various moves, in order to minimize its losses and maximize its success rate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4d108de2-43e1-41df-8376-68a6407fe1bd",
+  "instruction": "Come up with a data story involving the following data set.",
+  "input": "A data set on the average amount of time spent in meetings per day by people who work in the same industry",
+  "output": "The data reveals that people working in the same industry spend drastically different amounts of time in meetings on average. For example, while some industries require as much as 8.5 hours a day spent in short, frequent meetings, others require as little as 2.5 hours. This suggests that some industries are much more highly dependent on collaborative work, while others may focus more on solo tasks. Knowing this can help shape decisions about the organizational culture and communication between team members in different industries. Furthermore, the data can provide useful information to individuals looking to advance in their respective industries.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

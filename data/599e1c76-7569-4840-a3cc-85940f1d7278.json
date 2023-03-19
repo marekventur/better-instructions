@@ -1,0 +1,12 @@
+{
+  "id": "599e1c76-7569-4840-a3cc-85940f1d7278",
+  "instruction": "Classify the following statement as true or false: \"the length of the day depends on the time of the year.\"",
+  "input": "",
+  "output": "True. The length of the day varies throughout the year depending on the tilt of the Earth\u2019s axis relative to the Sun. For example, days are longer in the summer in the Northern Hemisphere and longer in the winter in the Southern Hemisphere.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

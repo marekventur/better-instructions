@@ -1,0 +1,12 @@
+{
+  "id": "4575cdc9-9334-471b-bb27-28d0aa51c949",
+  "instruction": "Evaluate a patient's health information and provide a diagnosis.",
+  "input": "Patient Name: John Doe\nAge: 18\nSymptoms: Headache, fever, body aches",
+  "output": "John Doe, age 18, may be suffering from influenza.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

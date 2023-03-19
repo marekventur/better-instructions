@@ -1,0 +1,12 @@
+{
+  "id": "fa93d7a1-6a8f-4861-9d87-92bb6477bc68",
+  "instruction": "In Java, write a code to check if two strings are anagrams.",
+  "input": "",
+  "output": "public static boolean isAnagram(String str1, String str2) {  \n    char[] charArray1 = str1.toCharArray();  \n    char[] charArray2 = str2.toCharArray();  \n    Arrays.sort(charArray1);  \n    Arrays.sort(charArray2);  \n    return Arrays.equals(charArray1, charArray2);  \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

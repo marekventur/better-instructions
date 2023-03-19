@@ -1,0 +1,12 @@
+{
+  "id": "bd0b45e5-031b-4b41-bcb0-b830d10a8e5b",
+  "instruction": "Based on the given text, what is the implied meaning?",
+  "input": "He was told to do it, but he never got around to it.",
+  "output": "The implied meaning is that he was reluctant to do it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ad9f801f-69e7-47c7-8322-c093c15442b4",
+  "instruction": "Recognize the sentence as one of the following: question, statement, or exclamation",
+  "input": "That was a brilliant idea!",
+  "output": "Exclamation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

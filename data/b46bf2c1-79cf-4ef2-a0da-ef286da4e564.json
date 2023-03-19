@@ -1,0 +1,12 @@
+{
+  "id": "b46bf2c1-79cf-4ef2-a0da-ef286da4e564",
+  "instruction": "Generate an algorithm for a sorting machine.",
+  "input": "",
+  "output": "The algorithm for a sorting machine involves first taking input, followed by organizing the objects into two or more groups depending on a certain criteria such as size or type. Then, each group can be further sorted using a variety of methods such as insertion sort, selection sort, or bubble sort. Ultimately, the sorted objects can be output to make sure the sorting process is complete.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

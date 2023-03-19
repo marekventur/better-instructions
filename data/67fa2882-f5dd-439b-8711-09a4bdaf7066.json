@@ -1,0 +1,12 @@
+{
+  "id": "67fa2882-f5dd-439b-8711-09a4bdaf7066",
+  "instruction": "Categorize the following news story as either hard news, soft news, or opinion.",
+  "input": "Spain, Europe \u2013 A wildfire that has been raging in Spain since April 2019 has caused more than 20,000 people to evacuate their homes and has consumed more than 18,000 acres of land.",
+  "output": "Hard news.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

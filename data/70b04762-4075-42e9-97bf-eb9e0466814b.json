@@ -1,0 +1,12 @@
+{
+  "id": "70b04762-4075-42e9-97bf-eb9e0466814b",
+  "instruction": "Edit this sentence to improve its grammar and make it more concise:",
+  "input": "\"The cat was so quiet that nobody noticed it was there.\"",
+  "output": "\"So quiet was the cat, it went unnoticed.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

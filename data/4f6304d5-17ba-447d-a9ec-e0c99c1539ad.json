@@ -1,0 +1,12 @@
+{
+  "id": "4f6304d5-17ba-447d-a9ec-e0c99c1539ad",
+  "instruction": "For the following sentence, identify the action being described.",
+  "input": "He made his way down the street.",
+  "output": "The action being described is walking.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

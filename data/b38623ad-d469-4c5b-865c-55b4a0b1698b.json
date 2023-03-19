@@ -1,0 +1,12 @@
+{
+  "id": "b38623ad-d469-4c5b-865c-55b4a0b1698b",
+  "instruction": "Explain the correlation between two events.",
+  "input": "Decreased precipitation and higher temperatures",
+  "output": "Decreased precipitation and higher temperatures are correlated because as temperatures rise, there is less water in the atmosphere to form clouds and precipitation, leading to less frequent and severe storms.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

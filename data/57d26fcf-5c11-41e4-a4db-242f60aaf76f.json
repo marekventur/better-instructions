@@ -1,0 +1,12 @@
+{
+  "id": "57d26fcf-5c11-41e4-a4db-242f60aaf76f",
+  "instruction": "Identify the primary emotion in the following poem.",
+  "input": "\"Casting a single flower\nInto the dark night sky.\nWatching it slowly fading away\nIn sorrowful goodbye.\"",
+  "output": "The primary emotion of the poem is sorrow. The image of the flower being cast into the night sky and slowly fading evokes the feeling of grief and sadness. The poem also has a somber tone that further highlights the emotion of sorrow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "00b22669-514f-4f37-a863-6d9f5aac4cf0",
+  "instruction": "Identify who the speaker of the following quote is.",
+  "input": "\u201cWords are, of course, the most powerful drug used by mankind.\u201d",
+  "output": "The speaker of this quote is Rudyard Kipling.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

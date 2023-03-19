@@ -1,0 +1,12 @@
+{
+  "id": "b6189644-391a-4651-b1a9-f8e68e96a3f4",
+  "instruction": "Given some text, identify any spelling mistakes and spell the incorrect words correctly.",
+  "input": "Yesterday, I went to the moive theater with my friennds.",
+  "output": "Yesterday, I went to the movie theater with my friends.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

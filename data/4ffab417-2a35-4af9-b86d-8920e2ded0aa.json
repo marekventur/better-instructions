@@ -1,0 +1,12 @@
+{
+  "id": "4ffab417-2a35-4af9-b86d-8920e2ded0aa",
+  "instruction": "Given input about a scientific experiment, suggest an appropriate conclusion.",
+  "input": "In a science laboratory, a group of students heated an iron bar for five minutes and measured its temperature.",
+  "output": "The conclusion is that heating an iron bar for five minutes increases its temperature.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

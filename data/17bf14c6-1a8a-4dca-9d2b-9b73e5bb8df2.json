@@ -1,0 +1,12 @@
+{
+  "id": "17bf14c6-1a8a-4dca-9d2b-9b73e5bb8df2",
+  "instruction": "Recommend a positive review for the given restaurant.",
+  "input": "Restaurant name: \"Tasty Treats\"",
+  "output": "I had a fantastic experience at Tasty Treats! The food was delicious and the service was efficient and friendly. I highly recommend this restaurant for anyone looking for an enjoyable meal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

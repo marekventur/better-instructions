@@ -1,0 +1,12 @@
+{
+  "id": "9e7fc37a-d82f-4a93-8517-98b3e9d95c72",
+  "instruction": "Given the symbols in the equation, identify the type of equation.",
+  "input": "2x+3y=7",
+  "output": "This is a linear equation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

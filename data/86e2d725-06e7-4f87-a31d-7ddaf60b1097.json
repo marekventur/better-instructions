@@ -1,0 +1,12 @@
+{
+  "id": "86e2d725-06e7-4f87-a31d-7ddaf60b1097",
+  "instruction": "Analyze the following conversation and suggest two improvements that should be made.",
+  "input": "Jon: Hey how's it going?\nJill: Not great, I got into a fight with my sister.",
+  "output": "Jon: Hey how are you doing? \nJill: Oh not too good, I had an argument with my sister. \nTwo improvements that should be made:\n- Use language that is more sympathetic, e.g. \"I'm so sorry to hear that\" or \"What happened?\". \n- Ask follow-up questions if appropriate, e.g. \"How are you feeling now?\" or \"Can I help in any way?\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

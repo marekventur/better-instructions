@@ -1,0 +1,12 @@
+{
+  "id": "3a84674e-8507-4564-b1f5-9997043f701a",
+  "instruction": "Clean up the sentence by removing unnecessary words and sentence fragments.",
+  "input": "I've been planning it for weeks now, and it is going to be a very fun event.",
+  "output": "I've been planning it for weeks and it will be fun.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

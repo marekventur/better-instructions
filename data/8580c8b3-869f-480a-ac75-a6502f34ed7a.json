@@ -1,0 +1,12 @@
+{
+  "id": "8580c8b3-869f-480a-ac75-a6502f34ed7a",
+  "instruction": "Given a table of data, classify the data into different categories based on its attributes.",
+  "input": "Name | Gender | Age\nJohn | Male | 30\nSara | Female | 22",
+  "output": "Name | Gender | Age | Category\nJohn | Male | 30 | Adult\nSara | Female | 22 | Young Adult",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

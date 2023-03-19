@@ -1,0 +1,12 @@
+{
+  "id": "50599cf0-75ce-40b3-8ea7-d27eb503a5e2",
+  "instruction": "Classify the following sentence as either a true or false statement.\nOutput \"true\" or \"false\".",
+  "input": "The sun is bigger than the moon.",
+  "output": "true",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

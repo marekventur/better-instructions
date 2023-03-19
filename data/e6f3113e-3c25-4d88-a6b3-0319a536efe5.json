@@ -1,0 +1,12 @@
+{
+  "id": "e6f3113e-3c25-4d88-a6b3-0319a536efe5",
+  "instruction": "Calculate the total from this bill.",
+  "input": "2 coffees @ $3.50 each\n1 pastry @ $2.00",
+  "output": "$9.00",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

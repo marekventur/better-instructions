@@ -1,0 +1,12 @@
+{
+  "id": "da1fec22-e6c9-442e-a943-21eb2c556b4d",
+  "instruction": "Create a chart to show the following monthly data:\n\nMonth, Sales\nJan, 5\nFeb, 10\nMar, 15",
+  "input": "",
+  "output": "Month | Sales \n---|--- \nJan | 5 \nFeb | 10 \nMar | 15",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

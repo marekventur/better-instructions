@@ -1,0 +1,12 @@
+{
+  "id": "0e379e9f-0956-4bd8-9032-6b5385746346",
+  "instruction": "Given a programming language, explain the syntax for a function.",
+  "input": "Python",
+  "output": "In Python, a function is written with the keyword \"def\", followed by the function name, and a set of parentheses with parameters inside. After the parentheses, the function is followed by a colon, and then the code block which defines the instructions of the function. Finally, the function ends with the keyword \"return\" to return a value.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

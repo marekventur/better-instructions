@@ -1,0 +1,12 @@
+{
+  "id": "b3dc52c8-5110-4f0d-aedd-8682ff263642",
+  "instruction": "Create a function that takes a string and a number, and reverses the given string the number of times specified.",
+  "input": "",
+  "output": "def reverse_string(string, num): \n  for _ in range(num):\n    string = string[::-1]\n  return string \n\nreverse_string(\"Hello\", 3)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e23361e9-0e98-4be8-b95c-e49017463499",
+  "instruction": "Compare and contrast subjects given in the input.",
+  "input": "Painting and sketching",
+  "output": "Painting and sketching are both forms of art that have been used to create visual works of art. Although they share some similarities such as both requiring an artist's imagination to turn a blank canvas into a work of art, there are several key differences. Painting is done with a brush, while sketching is done with either a pen or pencil. Additionally, painting typically involves the use of multiple colors and layers to create the desired effect, whereas sketching requires only one color and is usually done in a single layer with minimal detail.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b7766805-7b36-4fa0-b2e3-0187bee380a5",
+  "instruction": "Create a data modeling design for a system to track medical records.",
+  "input": "",
+  "output": "My data modeling design for a system to track medical records includes the following entities: Patients, Symptoms, Medical Procedures, Medications, Health Conditions, Doctors, Clinics, and Insurance Providers. For each entity, I have created a data model which includes attributes such as Patient ID, Patient Name, Symptoms, Medical Procedures, Medications taken, Health Conditions, Doctor Specialty, Clinic address, and Insurance Provider name. Additionally, I have created relationships between these entities to show how the data can be linked and queried.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "50586945-aaf1-42cc-ae68-88bfba497f46",
+  "instruction": "Place each set of words into the correct form of verb tense.",
+  "input": "I ( buy ) groceries yesterday. He ( write ) a letter an hour ago.",
+  "output": "I bought groceries yesterday. He wrote a letter an hour ago.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

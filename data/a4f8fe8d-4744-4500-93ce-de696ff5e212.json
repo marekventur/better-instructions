@@ -1,0 +1,12 @@
+{
+  "id": "a4f8fe8d-4744-4500-93ce-de696ff5e212",
+  "instruction": "Identify the key challenges of developing AI applications.",
+  "input": "",
+  "output": "The key challenges of developing AI applications include data collection and preparation, algorithm choice, scaling of algorithms, tuning of model parameters, and reliability. Data collection and preparation can be difficult because the dataset must be large enough and represent the data that the AI application is expected to encounter in real-world. Algorithm choice is important because different algorithms may suit different problems better. Model parameters must often be tuned for optimal performance, which can require considerable time and effort. Lastly, AI applications must be reliable and accurate to be useful.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

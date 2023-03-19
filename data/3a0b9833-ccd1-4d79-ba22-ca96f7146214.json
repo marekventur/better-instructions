@@ -1,0 +1,12 @@
+{
+  "id": "3a0b9833-ccd1-4d79-ba22-ca96f7146214",
+  "instruction": "Select the type of figure below.",
+  "input": "[Insert image of triangle]",
+  "output": "The figure is a triangle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

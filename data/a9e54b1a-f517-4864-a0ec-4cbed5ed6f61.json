@@ -1,0 +1,12 @@
+{
+  "id": "a9e54b1a-f517-4864-a0ec-4cbed5ed6f61",
+  "instruction": "Identify the underlined word type.",
+  "input": "The television show was cancelled unexpectedly.",
+  "output": "Verb",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

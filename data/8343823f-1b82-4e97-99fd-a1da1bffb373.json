@@ -1,0 +1,12 @@
+{
+  "id": "8343823f-1b82-4e97-99fd-a1da1bffb373",
+  "instruction": "Using Machine Learning, predict the body temperature of an animal based on given data.",
+  "input": "Input: weight, age, environment and activity of the animal",
+  "output": "37.2 degrees Celsius.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

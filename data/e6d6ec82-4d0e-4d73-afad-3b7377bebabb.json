@@ -1,0 +1,12 @@
+{
+  "id": "e6d6ec82-4d0e-4d73-afad-3b7377bebabb",
+  "instruction": "Find the percentage of the sentence that is made up of nouns.",
+  "input": "My family had much fun hiking at the park, riding on the rollercoaster, and swimming in the lake.",
+  "output": "Fifty percent (50%) of the sentence is made up of nouns.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

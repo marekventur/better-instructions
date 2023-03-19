@@ -1,0 +1,12 @@
+{
+  "id": "bd3839b0-70de-47cd-a9fb-d01c097d5c07",
+  "instruction": "Read the text carefully and fill in the blanks with the correct answer.",
+  "input": "The Earth's atmosphere is composed of 5 main layers: the troposphere, the stratosphere, the mesosphere, the thermosphere, and the ________.",
+  "output": "The Earth's atmosphere is composed of 5 main layers: the troposphere, the stratosphere, the mesosphere, the thermosphere, and the exosphere.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

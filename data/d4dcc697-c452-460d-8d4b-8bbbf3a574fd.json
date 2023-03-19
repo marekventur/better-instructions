@@ -1,0 +1,12 @@
+{
+  "id": "d4dcc697-c452-460d-8d4b-8bbbf3a574fd",
+  "instruction": "Generate a regex pattern for parsing a date in the format 'MM/DD/YYYY'.",
+  "input": "",
+  "output": "^([0-9]{2})/([0-9]{2})/([0-9]{4})$",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

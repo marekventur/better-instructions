@@ -1,0 +1,12 @@
+{
+  "id": "cad24074-af19-4283-991c-6111f6edecd2",
+  "instruction": "Create an algorithm to find the maximum value in an array of numbers.",
+  "input": "[3, 5, 7, 2]",
+  "output": "max = 0\nfor num in array:\n    if num > max:\n        max = num\nprint(max) # Outputs 7",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

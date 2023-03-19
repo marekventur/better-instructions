@@ -1,0 +1,12 @@
+{
+  "id": "67d50813-272d-48e4-a286-51b5ae5ddf87",
+  "instruction": "Transform the following sentence into an imperative.",
+  "input": "Please don't forget to send me the documents.",
+  "output": "Do not forget to send me the documents.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e0e7dde0-e3de-4192-ac12-e6c237235560",
+  "instruction": "Change the following sentence from the singular form to the plural form.",
+  "input": "The cat is drinking.",
+  "output": "The cats are drinking.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

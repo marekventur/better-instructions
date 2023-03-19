@@ -1,0 +1,12 @@
+{
+  "id": "f47b190a-c380-4adf-bd74-631987cc18e3",
+  "instruction": "Edit the following sentence: The weather is hot and humid.",
+  "input": "Sentence: The weather is hot and humid.",
+  "output": "The temperature is hot and muggy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ad21ff4f-56f6-43ac-b5a5-ddc7e242bc25",
+  "instruction": "Please complete the given paragarph",
+  "input": "Recent advancements in AI technology have promised to revolutionize many industries, including _",
+  "output": "the healthcare industry. AI-powered technologies are revolutionizing the way healthcare is diagnosed and administered, enabling quicker and more accurate diagnoses, personalized treatment plans, and even virtual consultations. Technologies such as deep learning and computer vision are allowing machines to detect patterns and monitor patient data in real time, automate administrative procedures, and reduce costs. These advancements are bringing us one step closer to a future in which patients can receive accurate and personalized care quickly and efficiently.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

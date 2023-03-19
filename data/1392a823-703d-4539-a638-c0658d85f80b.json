@@ -1,0 +1,12 @@
+{
+  "id": "1392a823-703d-4539-a638-c0658d85f80b",
+  "instruction": "Select an appropriate sentence from the following list to complete a sentence.",
+  "input": "He was the most successful among his peers, surpassing even his own expectations.\nOptions:\nA. He was so proud of himself\nB. He was starting to have doubts\nC. He was feeling confident",
+  "output": "He was so proud of himself.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

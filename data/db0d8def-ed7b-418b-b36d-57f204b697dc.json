@@ -1,0 +1,12 @@
+{
+  "id": "db0d8def-ed7b-418b-b36d-57f204b697dc",
+  "instruction": "Choose an invention from the 20th century and explain its impact.",
+  "input": "The internet",
+  "output": "The invention of the internet in the 20th century revolutionized the way people communicate and access information. It created a global network of information, allowing people to access a virtually unlimited and instantaneous exchange of ideas, goods, and services throughout the world. It has drastically changed the way information is shared and distributed, and allowed for the decentralization of communication. Additionally, the internet enabled new forms of digital entertainment and educational content that was not previously available.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d8c58e34-e09a-4e97-bd31-8572124c967b",
+  "instruction": "Take the given sentence and modify it so that it expresses the opposite opinion.",
+  "input": "Paper straws are better for the environment.",
+  "output": "Paper straws are worse for the environment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

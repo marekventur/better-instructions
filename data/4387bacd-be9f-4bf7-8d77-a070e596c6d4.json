@@ -1,0 +1,12 @@
+{
+  "id": "4387bacd-be9f-4bf7-8d77-a070e596c6d4",
+  "instruction": "Edit the following sentence by adding an appropriate modifier. Output the entire sentence.",
+  "input": "He walked to the bus stop.",
+  "output": "He hurriedly walked to the bus stop.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

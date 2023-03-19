@@ -1,0 +1,12 @@
+{
+  "id": "123b6bec-4cee-4f1e-be1d-f7db5d3948a3",
+  "instruction": "What is the geographic relationship between these two places?",
+  "input": "New Orleans and Dallas",
+  "output": "New Orleans and Dallas are located in the United States, approximately 765 miles apart.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

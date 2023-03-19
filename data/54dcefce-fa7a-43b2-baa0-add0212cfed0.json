@@ -1,0 +1,12 @@
+{
+  "id": "54dcefce-fa7a-43b2-baa0-add0212cfed0",
+  "instruction": "Estimate the amount of money spent by the customer in their last shopping trip.",
+  "input": "Customer's Last Shopping Trip:\nCarrots - $2.00\nCucumbers - $1.50\nTomatoes - $2.50\nCheese - $5.00",
+  "output": "The customer spent approximately $11.00 in their last shopping trip.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "389e7207-6191-4f67-b60f-f88b2dedb51f",
+  "instruction": "Explain the process of a given cooking technique.",
+  "input": "Poaching",
+  "output": "Poaching is a cooking technique in which food is submerged in a liquid, such as water, stock, or wine, and heated to a gentle simmer. It is an effective way to cook delicate foods like fish and eggs, as it does not require excessive heat or oil. Generally, the food is added to the liquid, heated to a gentle simmer, and left to cook until the desired temperature is reached.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

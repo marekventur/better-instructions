@@ -1,0 +1,12 @@
+{
+  "id": "68b5946e-7df7-44ab-87bd-3409964eb25e",
+  "instruction": "Delete the 5th line of the given code.",
+  "input": "age = 50\nif age > 70:\n    print(\"You can get a senior discount\")\nelse if age > 65:\n    print(\"You can get a discounted rate\")\nelse:\n    print(\"Full price\")",
+  "output": "age = 50\nif age > 70:\n    print(\"You can get a senior discount\")\nelse if age > 65:\n    print(\"You can get a discounted rate\")\nelse:\n    print(\"Full price\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

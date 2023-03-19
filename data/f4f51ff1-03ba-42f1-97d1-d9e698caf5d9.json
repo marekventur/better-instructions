@@ -1,0 +1,12 @@
+{
+  "id": "f4f51ff1-03ba-42f1-97d1-d9e698caf5d9",
+  "instruction": "Dialogue with a manager who is asking for an update on the status of a project",
+  "input": "Manager: \"What is the progress of the project?\"",
+  "output": "We have completed the marketing research, created prototypes, and have finished the first round of design sketches. We are currently working on the development phase and plan to have the project completed in the next two weeks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

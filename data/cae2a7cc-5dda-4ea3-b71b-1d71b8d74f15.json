@@ -1,0 +1,12 @@
+{
+  "id": "cae2a7cc-5dda-4ea3-b71b-1d71b8d74f15",
+  "instruction": "Write a JavaScript function that takes in a string and returns an object with each character of the string as a key, and the number of times that character appears in the string as the value.",
+  "input": "",
+  "output": "\"\"\"\nFunction to count character frequency in a string\n\"\"\"\n\nfunction countCharacterFrequency(string) {\n    let freqObj = {};\n    for (let c of string) {\n        if (freqObj[c]) {\n            freqObj[c]++;\n        } else {\n            freqObj[c] = 1;\n        }\n    }\n    return freqObj;\n}\n\nif __name__ == '__main__':\n    str = \"hello world\";\n    console.log(countCharacterFrequency(str)); \n    // Output: { h: 1, e: 1, l: 3, o: 2, w: 1, r: 1, d: 1 }",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

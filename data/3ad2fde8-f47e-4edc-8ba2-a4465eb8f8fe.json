@@ -1,0 +1,12 @@
+{
+  "id": "3ad2fde8-f47e-4edc-8ba2-a4465eb8f8fe",
+  "instruction": "Does the following statement contain the appropriate use of grammar?",
+  "input": "We need to speak louder so everyone can hear us.",
+  "output": "Support. The sentence follows the standard subject-verb-object structure and uses the appropriate verb tenses to indicate the appropriate time frames. Furthermore, the use of modal auxiliary verbs such as \u201cneed\u201d and \u201ccan\u201d is also grammatically correct.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

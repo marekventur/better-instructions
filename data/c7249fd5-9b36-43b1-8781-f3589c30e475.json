@@ -1,0 +1,12 @@
+{
+  "id": "c7249fd5-9b36-43b1-8781-f3589c30e475",
+  "instruction": "Design a system for processing customers' orders.",
+  "input": "",
+  "output": "The system should provide an interface for customers to input their orders and should be able to store their order details. It should also display order status updates and provide the ability to modify orders. It should be connected to the company's inventory management system, so that when customers place their order, the inventory will be updated automatically. Additionally, the system should be integrated with the company's payment gateway in order to allow customers to securely make payments.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

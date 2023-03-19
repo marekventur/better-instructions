@@ -1,0 +1,12 @@
+{
+  "id": "a48bc75b-29bc-4930-9098-c7a9e2c58bef",
+  "instruction": "Determine if the given sentence has a comma splice.",
+  "input": "He was happy, she said she was too.",
+  "output": "Yes, the sentence has a comma splice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

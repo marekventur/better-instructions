@@ -1,0 +1,12 @@
+{
+  "id": "51e75354-689b-4251-acae-d8252472c795",
+  "instruction": "Select the odd word out.",
+  "input": "Tree, Dog, Flower, Bottle",
+  "output": "Bottle",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fc276fb5-6661-4ff2-b0dc-7c331cf1ab5f",
+  "instruction": "Find the error in this code and fix it.",
+  "input": "def sumNums(a, b):\n\tsum = 0\n\twhile a < b\n\t\tsum += a\n\t\ta += 1\n\treturn sum",
+  "output": "def sumNums(a, b):\n\tsum = 0\n\twhile a < b: # colon missing\n\t\tsum += a\n\t\ta += 1\n\treturn sum",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

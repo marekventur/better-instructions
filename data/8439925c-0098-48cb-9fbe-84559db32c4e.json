@@ -1,0 +1,12 @@
+{
+  "id": "8439925c-0098-48cb-9fbe-84559db32c4e",
+  "instruction": "Given an input sentence, use the appropriate online resources to calculate the sentiment of the sentence.",
+  "input": "I am so delighted with this product.",
+  "output": "The sentiment of the sentence is positive, with a score of 0.8.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

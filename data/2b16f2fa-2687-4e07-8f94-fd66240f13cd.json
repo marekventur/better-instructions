@@ -1,0 +1,12 @@
+{
+  "id": "2b16f2fa-2687-4e07-8f94-fd66240f13cd",
+  "instruction": "Convert the time from GMT to EST",
+  "input": "3:25 p.m. GMT",
+  "output": "The time 3:25 p.m. GMT is equal to 11:25 a.m. EST.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

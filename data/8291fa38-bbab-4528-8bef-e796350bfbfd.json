@@ -1,0 +1,12 @@
+{
+  "id": "8291fa38-bbab-4528-8bef-e796350bfbfd",
+  "instruction": "Given a list, sort the list in ascending order.",
+  "input": "List: [2,8,5,9,3]",
+  "output": "[2,3,5,8,9]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

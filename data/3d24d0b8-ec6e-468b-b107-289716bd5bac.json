@@ -1,0 +1,12 @@
+{
+  "id": "3d24d0b8-ec6e-468b-b107-289716bd5bac",
+  "instruction": "Categorize this movie into one of the following genres: drama, comedy, horror.",
+  "input": "The Revenant",
+  "output": "Drama. The Revenant is a 2015 historical drama film based on the novel by Michael Punke. It stars Leonardo DiCaprio as a frontiersman on a fur trading expedition in the 1820s.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

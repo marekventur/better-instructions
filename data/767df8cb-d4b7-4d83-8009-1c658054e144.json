@@ -1,0 +1,12 @@
+{
+  "id": "767df8cb-d4b7-4d83-8009-1c658054e144",
+  "instruction": "Determine the average rating given the following reviews from users.",
+  "input": "User A: I had a wonderful experience at the restaurant. 5/5\nUser B: The food was delicious, but the service was a bit slow. 4/5",
+  "output": "4.5/5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

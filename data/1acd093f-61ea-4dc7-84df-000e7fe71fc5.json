@@ -1,0 +1,12 @@
+{
+  "id": "1acd093f-61ea-4dc7-84df-000e7fe71fc5",
+  "instruction": "Find the net price of a product given its cost price and the tax percentage.",
+  "input": "Cost Price = $150\nTax (%) = 7%",
+  "output": "The net price of the product is $159.50, calculated as follows: $150 + ($150 x 7%) = $159.50.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

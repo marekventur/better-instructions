@@ -1,0 +1,12 @@
+{
+  "id": "dbc19a85-c459-458b-9043-ebd9486247e8",
+  "instruction": "Generate a list of items a survival pack should include.",
+  "input": "",
+  "output": "1. Food and water\n2. Shelter and blankets\n3. Flashlight and batteries\n4. Radio and whistle\n5. First aid kit\n6. Matches and firestarter\n7. Knife and multitool\n8. Compass and map\n9. Rope\n10. Insect repellent",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

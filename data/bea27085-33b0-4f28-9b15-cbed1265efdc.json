@@ -1,0 +1,12 @@
+{
+  "id": "bea27085-33b0-4f28-9b15-cbed1265efdc",
+  "instruction": "Given a list of words, remove duplicate words and output the list with unique words.",
+  "input": "Elephant, Elephant, Mouse, Cat, Rat, Rat",
+  "output": "Elephant, Mouse, Cat, Rat",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

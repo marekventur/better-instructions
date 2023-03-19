@@ -1,0 +1,12 @@
+{
+  "id": "0cadf823-b8c9-4f50-ae29-d8204335f2b7",
+  "instruction": "Create a chatbot conversation about the benefits of exercise.",
+  "input": "",
+  "output": "User: Hi\nBot: Hello there! How can I help you?\n\nUser: Do you know anything about the benefits of exercise?\nBot: Yes, absolutely! Regular exercise has a plethora of health benefits. It can help improve your physical health by increasing muscle strength, reducing the risk of chronic diseases, and helping keep your weight in a healthy range. It can also boost your mental health, decreasing stress and improving your mood. Finally, exercise can help with social and academic aspects of life, such as improving academic performance and developing friendships.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f3dc9519-1534-407c-8093-91915a8a1682",
+  "instruction": "Sort the list into order of increasing magnitude.",
+  "input": "1, 64, 22, -45, -7",
+  "output": "-45, -7, 1, 22, 64",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

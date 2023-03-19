@@ -1,0 +1,12 @@
+{
+  "id": "b06bffd9-7921-49e8-afdf-662436edf3ea",
+  "instruction": "Create a step-by-step guide for installing a printer",
+  "input": "",
+  "output": "Step 1: Unbox the printer and all of its parts.\nStep 2: Connect the printer to an available power outlet.\nStep 3: Install the printer drivers and software, if required.\nStep 4: Connect the printer to the computer using either a USB cable or wireless connection.\nStep 5: Follow any further instructions provided by the software to complete the printer installation.\nStep 6: Test the printer by printing a test page.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

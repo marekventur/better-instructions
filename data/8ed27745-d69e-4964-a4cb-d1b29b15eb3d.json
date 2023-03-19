@@ -1,0 +1,12 @@
+{
+  "id": "8ed27745-d69e-4964-a4cb-d1b29b15eb3d",
+  "instruction": "Select the sentence out of the given options which best expresses the opinion about school cafeterias.",
+  "input": "Option A: School cafeterias provide nutritious and balanced meals. \nOption B: I don't think school cafeterias are the best place to eat. \nOption C: School cafeterias are often a convenient and affordable solution.",
+  "output": "I don't think school cafeterias are the best place to eat.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

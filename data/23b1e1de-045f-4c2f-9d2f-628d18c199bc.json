@@ -1,0 +1,12 @@
+{
+  "id": "23b1e1de-045f-4c2f-9d2f-628d18c199bc",
+  "instruction": "Edit the following sentence by replacing the incorrect phrase with the correct one.",
+  "input": "She use to go for a walk every day",
+  "output": "She used to go for a walk every day",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

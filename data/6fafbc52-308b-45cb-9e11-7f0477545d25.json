@@ -1,0 +1,12 @@
+{
+  "id": "6fafbc52-308b-45cb-9e11-7f0477545d25",
+  "instruction": "Build a chatbot dialogue to take customer order.",
+  "input": "",
+  "output": "Customer: Hi there, I'd like to order a pizza.\n\nChatbot: Hi there! What type of pizza would you like to order? \n\nCustomer: I'd like to order a large pepperoni pizza.\n\nChatbot: Great! Any extra toppings?\n\nCustomer: Can I add mushrooms?\n\nChatbot: Sure thing - a large pepperoni pizza with mushrooms. Anything else? \n\nCustomer: That's it.\n\nChatbot: Alright, your order for a large pepperoni pizza with mushrooms has been placed. Please confirm your address and we will deliver your order shortly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

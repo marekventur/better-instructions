@@ -1,0 +1,12 @@
+{
+  "id": "facd665d-5115-4d6c-844c-0ec10edd7e96",
+  "instruction": "Develop a strategy to win the given game.",
+  "input": "Tic-tac-toe",
+  "output": "To win at tic-tac-toe, you must create a strategy to get three in a row either vertically, horizontally, or diagonally. It's important to think ahead and block your opponent's moves. To make sure that your opponent can't make a line of three in a row, you must stay one step ahead of them by setting up your own opportunities for victory.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2b6e33e8-a81e-4709-8947-704fa9abb6f9",
+  "instruction": "Create a program to generate the Fibonacci sequence.",
+  "input": "",
+  "output": "\"\"\"\nGenerate the Fibonacci sequence\n\"\"\"\n\n# Initialize the first two elements in the Fibonacci sequence\nprev = 0\ncurr = 1\n\n# Print the first two elements\nprint(prev)\nprint(curr)\n\n# Loop from 3 to n (where n is the number of elements in the Fibonacci sequence)\nfor n in range(3, 11): # Change the value of 11 to generate more/less elements\n    # Calculate the sum of the previous two elements\n    next = prev + curr\n    \n    # Print the sum\n    print(next)\n    \n    # Update the values of prev and curr\n    prev = curr\n    curr = next\n\n# Output:\n# 0\n# 1\n# 1\n# 2\n# 3\n# 5\n# 8\n# 13\n# 21\n# 34\n# 55",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

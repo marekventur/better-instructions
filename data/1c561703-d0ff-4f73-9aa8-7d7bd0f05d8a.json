@@ -1,0 +1,12 @@
+{
+  "id": "1c561703-d0ff-4f73-9aa8-7d7bd0f05d8a",
+  "instruction": "Which service is needed for web hosting?",
+  "input": "",
+  "output": "Web hosting requires a hosting service that provides the necessary server resources and services to maintain a website. These services provide the necessary platform and infrastructure required for web hosting, including domain name registration, web server software, server administration, and web content management. Depending on the type of website, the hosting service may also provide services such as email, database management, and security. In addition, some hosting services may offer additional resources such as templates, applications, and analytics tools.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

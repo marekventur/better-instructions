@@ -1,0 +1,12 @@
+{
+  "id": "62897453-6474-432c-b44c-7fe18336d49f",
+  "instruction": "Write the title and artist of this song.",
+  "input": "[thatsong](https://www.youtube.com/watch?v=hT_nvWreIhg)",
+  "output": "The title of the song is High Hopes by Panic! At The Disco.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

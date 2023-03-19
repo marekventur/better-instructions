@@ -1,0 +1,12 @@
+{
+  "id": "47a3538a-d27d-4c1a-bdf3-fca6e9aa661f",
+  "instruction": "Generate a personalized email given the user information.",
+  "input": "Name: Mary\nLocation: New York",
+  "output": "Dear Mary,\n\nI hope this email finds you well in New York. I wanted to reach out as I believe I have an opportunity that may be of interest to you.\n\nI look forward to hearing your thoughts on this and having an opportunity to discuss it further.\n\nBest Regards,\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

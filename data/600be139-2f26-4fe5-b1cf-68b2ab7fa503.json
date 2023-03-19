@@ -1,0 +1,12 @@
+{
+  "id": "600be139-2f26-4fe5-b1cf-68b2ab7fa503",
+  "instruction": "Given a sentence, generate the next logical sentence.",
+  "input": "I received a good grade on my test.",
+  "output": "I was proud of my accomplishment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

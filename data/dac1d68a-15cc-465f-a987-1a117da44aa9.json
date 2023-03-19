@@ -1,0 +1,12 @@
+{
+  "id": "dac1d68a-15cc-465f-a987-1a117da44aa9",
+  "instruction": "Create a list of research questions for a given topic.",
+  "input": "Topic: Mental Health",
+  "output": "- What are the primary causes of mental health issues in our society?\n- How do different cultural and social contexts influence mental health outcomes?\n- What are the effects of societal stigma on mental health?\n- What are the most effective approaches to treating mental health disorders?\n- How has technology impacted mental health?\n- What are the long-term implications of untreated mental health issues?\n- What is the link between substance abuse and mental health?\n- How can we reduce the stigma surrounding mental health?\n- What socioeconomic factors have the greatest impact on the prevalence of mental health issues?\n- How can we create more effective methods for identifying and addressing mental health issues?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

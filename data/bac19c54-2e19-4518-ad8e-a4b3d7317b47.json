@@ -1,0 +1,12 @@
+{
+  "id": "bac19c54-2e19-4518-ad8e-a4b3d7317b47",
+  "instruction": "Summarize the following article about climate change in three sentences:",
+  "input": "Global warming is the long-term heating of Earth's climate system observed since preindustrial times and its predicted continuation. The main cause of the warming is increasing emissions of gases such as carbon dioxide and methane into the atmosphere.",
+  "output": "Earth's climate is warming at an alarming rate due to increased emissions of greenhouse gases. This is causing extreme weather events, which will only worsen unless drastic steps are taken to reduce emissions. Climate change is a global issue that requires collective action from all countries and individuals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f00a6019-176f-4f70-8752-977597c0a53e",
+  "instruction": "Classify the following sentence: \"The movie was a huge success and made a lot of money\".",
+  "input": "The movie was a huge success and made a lot of money.",
+  "output": "Positive sentiment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

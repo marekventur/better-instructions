@@ -1,0 +1,12 @@
+{
+  "id": "1787308e-7cb8-4b46-b1d9-354c8f64105c",
+  "instruction": "Align the given strings to determine the Levenshtein distance.",
+  "input": "string1: compute\nstring2: computer",
+  "output": "compu_te \ncomputer",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

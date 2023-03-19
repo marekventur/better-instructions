@@ -1,0 +1,12 @@
+{
+  "id": "43267f89-d64b-4c0b-8b5d-fe6f81677f91",
+  "instruction": "Identify the type of text and provide an example.",
+  "input": "A review of a restaurant",
+  "output": "This is an example of a review text:\n\nI recently visited the Indian restaurant Rasoi and I can say that it easily became one of my favorite places! The food was fragrant and full of flavor, the staff was friendly and attentive and the atmosphere was cozy. I would definitely recommend this spot to anyone looking for an amazing dining experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

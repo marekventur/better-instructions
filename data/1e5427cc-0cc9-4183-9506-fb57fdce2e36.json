@@ -1,0 +1,12 @@
+{
+  "id": "1e5427cc-0cc9-4183-9506-fb57fdce2e36",
+  "instruction": "Rewrite this sentence to use a different verb.",
+  "input": "She grabbed the pastries from the bakery.",
+  "output": "She retrieved the pastries from the bakery.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "51b950cc-1105-4654-b698-ea9be7a0234f",
+  "instruction": "Given a horror movie synopsis, predict the number it would receive on IMDB.",
+  "input": "A group of college students are terrorized at a deserted summer camp.",
+  "output": "The horror movie would likely receive an IMDB rating between 4.5 and 6.0.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

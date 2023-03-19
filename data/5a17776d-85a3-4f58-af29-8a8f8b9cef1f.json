@@ -1,0 +1,12 @@
+{
+  "id": "5a17776d-85a3-4f58-af29-8a8f8b9cef1f",
+  "instruction": "Clean the following data.",
+  "input": "Name:John\nCity:New \nState York\nZipCode- 12345",
+  "output": "Name: John\nCity: New York\nState: New York\nZip Code: 12345",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

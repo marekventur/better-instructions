@@ -1,0 +1,12 @@
+{
+  "id": "8743612e-450e-4679-be89-c38f0bb74737",
+  "instruction": "Given the sentence \"I am staying in today\" what is the predicate?",
+  "input": "",
+  "output": "The predicate of the sentence \"I am staying in today\" is \"am staying\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

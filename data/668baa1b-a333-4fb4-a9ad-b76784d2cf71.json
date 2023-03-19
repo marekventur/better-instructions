@@ -1,0 +1,12 @@
+{
+  "id": "668baa1b-a333-4fb4-a9ad-b76784d2cf71",
+  "instruction": "Compose a song using only the notes A and G",
+  "input": "",
+  "output": "Verse 1:\nA A A G\nG G A A\nG G G A\nA A G G \n\nChorus:\nA A G G A\nA A G G A \n\nVerse 2:\nA A A G\nG G G A\nG A G G\nG G G A \n\nChorus:\nA A G G A\nA A G G A \n\nBridge: \nA A G A\nA G G A\nA G A A \n\nChorus:\nA A G G A \nA A G G A",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c4dffc58-feff-4091-9404-ad4f992d8185",
+  "instruction": "Redact the given text to remove all names and addresses",
+  "input": "The address of John Doe is 1234 Main Street, Anytown, XY 12222.",
+  "output": "The address of [REDACTED] is [REDACTED], [REDACTED], [REDACTED].",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

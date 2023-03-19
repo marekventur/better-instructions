@@ -1,0 +1,12 @@
+{
+  "id": "d9ee06ed-f8ba-4f1a-a1c5-e7cf22283d8f",
+  "instruction": "Given the facts, classify the object as mammal, reptile, or bird.",
+  "input": "The object is an iguana.",
+  "output": "The object is a reptile.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

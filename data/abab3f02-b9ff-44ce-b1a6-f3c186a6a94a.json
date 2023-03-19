@@ -1,0 +1,12 @@
+{
+  "id": "abab3f02-b9ff-44ce-b1a6-f3c186a6a94a",
+  "instruction": "Upload a document to a website.",
+  "input": "Website URL: http://example.com",
+  "output": "The document has been successfully uploaded to the website http://example.com.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

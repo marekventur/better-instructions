@@ -1,0 +1,12 @@
+{
+  "id": "0295d20c-a442-4159-86fb-f850272fc489",
+  "instruction": "Research and summarize a given historical event.",
+  "input": "The Chicago Fire",
+  "output": "The Chicago Fire was a disastrous blaze that burned for two days in the city of Chicago in October 1871. The fire originated in the O'Leary family's barn in the DeKoven Street neighborhood and quickly spread due to high winds and dry conditions. The fire destroyed an estimated 17,400 buildings and killed 300 people, while leaving 90,000 homeless. The cause remains a mystery, but popular belief holds that it began when a cow kicked over a lantern. The disaster had significant implications for the city, as it accelerated the decrease of the class divide and many famous buildings, such as the Chicago Water Tower, were constructed in the aftermath.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

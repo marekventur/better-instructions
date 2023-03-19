@@ -1,0 +1,12 @@
+{
+  "id": "3f2d7f71-2b9a-4f7f-93ef-5ef3b8ca5283",
+  "instruction": "Classify the following sentences as either a rhetorical question or a declarative sentence.",
+  "input": "(1) Are we there yet?\n(2) I am almost done with my project.",
+  "output": "(1) Rhetorical Question \n(2) Declarative Sentence",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

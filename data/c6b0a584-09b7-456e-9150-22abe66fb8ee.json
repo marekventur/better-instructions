@@ -1,0 +1,12 @@
+{
+  "id": "c6b0a584-09b7-456e-9150-22abe66fb8ee",
+  "instruction": "Summarize this article in two sentences.",
+  "input": "https://www.npr.org/2019/07/08/739361030/what-you-need-to-know-about-the-climate-crisis",
+  "output": "The climate crisis is a global emergency caused by humanity's emissions of greenhouse gases that are raising the Earth's temperature. To combat the problem, it is essential to reduce emissions significantly by using less fossil fuels and transitioning to renewable sources of energy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

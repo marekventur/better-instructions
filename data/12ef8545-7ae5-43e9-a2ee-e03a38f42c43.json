@@ -1,0 +1,12 @@
+{
+  "id": "12ef8545-7ae5-43e9-a2ee-e03a38f42c43",
+  "instruction": "Generate a sentence that explains the change in the company mission",
+  "input": "Our company has shifted its mission from creating products to providing services.",
+  "output": "Our company is now committed to providing quality services instead of manufacturing products.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

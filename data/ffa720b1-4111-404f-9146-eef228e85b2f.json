@@ -1,0 +1,12 @@
+{
+  "id": "ffa720b1-4111-404f-9146-eef228e85b2f",
+  "instruction": "Create an SQL query to select all employees that have lived in California.",
+  "input": "",
+  "output": "SELECT * FROM Employees WHERE State = 'California';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

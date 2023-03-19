@@ -1,0 +1,12 @@
+{
+  "id": "b9b938d5-b023-473c-a5fa-c5f6743920bc",
+  "instruction": "Construct a function to identify the most repeated word in a given text.",
+  "input": "Text: \"the the the big fish big in the pond pond\"",
+  "output": "def most_repeated_word(text):\n    # Split the text into a list of words\n    words = text.split() \n\n    # Create an empty dictionary \n    counts = {}\n\n    # Iterate through the list of words\n    for word in words:\n        # Count the number of occurrences of each word\n        counts[word] = counts.get(word, 0) + 1\n    \n    # Set maximum count to 0\n    max_count = 0\n\n    # Set most repeated word to None\n    most_repeated_word = None\n\n    # Iterate through the dictionary\n    for k, v in counts.items():\n        # Store the word if it has the maximum count\n        if v > max_count:\n            max_count = v\n            most_repeated_word = k\n\n    # Return the most repeated word\n    return most_repeated_word\n\nmost_repeated_word(\"the the the big fish big in the pond pond\")  # returns \"the\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

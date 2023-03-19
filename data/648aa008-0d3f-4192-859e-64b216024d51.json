@@ -1,0 +1,12 @@
+{
+  "id": "648aa008-0d3f-4192-859e-64b216024d51",
+  "instruction": "Provide sample input data to the following program",
+  "input": "Create a function to calculate the area of a circle, given the radius",
+  "output": "Input: Radius = 4\nAnswer: Area = 50.26548245743669",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

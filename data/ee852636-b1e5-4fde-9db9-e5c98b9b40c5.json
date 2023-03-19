@@ -1,0 +1,12 @@
+{
+  "id": "ee852636-b1e5-4fde-9db9-e5c98b9b40c5",
+  "instruction": "Construct a statistical model to predict an outcome.",
+  "input": "The dataset contains the following characteristics: gender, age, occupation, income.",
+  "output": "A logistic regression model can be used to predict the probabilities of income levels given the gender, age and occupation of an individual.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

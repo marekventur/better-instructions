@@ -1,0 +1,12 @@
+{
+  "id": "089febde-c8f5-45e5-8c47-c9929d9ffbcb",
+  "instruction": "Design a scientific experiment that could be used to measure the volatility of a certain type of fuel.",
+  "input": "Ethanol",
+  "output": "A scientific experiment that could be used to measure the volatility of ethanol fuel is a distillation test. This test involves heating the fuel in a distillation apparatus to measure the temperature at which the fuel vaporizes and measuring the temperature at which it condenses back into liquid. The difference between the two temperatures is a measure of the fuel's volatility.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

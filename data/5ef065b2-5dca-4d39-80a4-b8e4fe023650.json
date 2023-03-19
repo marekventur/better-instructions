@@ -1,0 +1,12 @@
+{
+  "id": "5ef065b2-5dca-4d39-80a4-b8e4fe023650",
+  "instruction": "Describe how wireless networks send and receive information.",
+  "input": "",
+  "output": "Wireless networks use radio waves to send and receive information between two or more devices. When a device sends a signal, the radio waves are transmitted to a nearby receiver, which can then decode and interpret the data. Wireless networks rely on access points to act as the intermediary between the sender and receiver. Access points use antennae to broadcast the signal and measure the signal strength in order to determine the distance between the sender and receiver. When the signal is received, the receiver decodes it and transmits the data to the destination device.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

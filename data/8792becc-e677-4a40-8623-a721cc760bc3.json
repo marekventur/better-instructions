@@ -1,0 +1,12 @@
+{
+  "id": "8792becc-e677-4a40-8623-a721cc760bc3",
+  "instruction": "Detect if the input sentence contains any figurative language.",
+  "input": "She was a shining star.",
+  "output": "Yes, the sentence contains figurative language.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

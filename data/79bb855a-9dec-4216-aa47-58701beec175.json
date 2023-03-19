@@ -1,0 +1,12 @@
+{
+  "id": "79bb855a-9dec-4216-aa47-58701beec175",
+  "instruction": "Convert the duration below to minutes.",
+  "input": "1 hour and 45 minutes",
+  "output": "105 minutes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "eef315a3-f85c-4492-9dbb-63609fc04e0e",
+  "instruction": "Given a statement, write a rhetorical question that can be used to challenge the statement.",
+  "input": "Everyone should wear a face mask in public.",
+  "output": "Are face masks really the most effective way to keep everyone safe in public?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

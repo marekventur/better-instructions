@@ -1,0 +1,12 @@
+{
+  "id": "13506119-f19e-4066-9205-a92e9d84e83c",
+  "instruction": "Take the given sentence and reorder the words to form a question.",
+  "input": "We will go",
+  "output": "Will we go?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

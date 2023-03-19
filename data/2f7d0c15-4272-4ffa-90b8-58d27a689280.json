@@ -1,0 +1,12 @@
+{
+  "id": "2f7d0c15-4272-4ffa-90b8-58d27a689280",
+  "instruction": "Combine the two sentences and rewrite them in the active voice.",
+  "input": "The camping trip was cancelled. This made the family upset.",
+  "output": "The family was upset by the cancellation of the camping trip.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

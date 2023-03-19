@@ -1,0 +1,12 @@
+{
+  "id": "b325a495-5cba-4606-b701-3793d7bb56ab",
+  "instruction": "Restrict the article to within 250 words",
+  "input": "Particle Physics: An Overview",
+  "output": "Particle physics is the study of the fundamental particles of matter and their interactions. It is one of the most active fields of physics, with applications in many areas of life. This article provides an overview of the basics of particle physics, including topics such as the Standard Model, experimental investigations of particles, and particle accelerators. In recent years, particle physics has become increasingly more important for applications such as medical imaging, nuclear waste disposal, and materials science. Particle physics is also playing an increasingly important role in the development of physics-based theories that can explain the behavior of the universe.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

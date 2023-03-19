@@ -1,0 +1,12 @@
+{
+  "id": "d6926989-347a-4fea-97c8-38b5d91c3db2",
+  "instruction": "Categorize the statement \"The temperature is hot today\" into a parts of speech.",
+  "input": "",
+  "output": "The statement \"The temperature is hot today\" is composed of an article (the), an adjective (hot), and a noun (temperature).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

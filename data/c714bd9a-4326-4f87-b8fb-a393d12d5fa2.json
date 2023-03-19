@@ -1,0 +1,12 @@
+{
+  "id": "c714bd9a-4326-4f87-b8fb-a393d12d5fa2",
+  "instruction": "Select the countries mentioned in the article.",
+  "input": "More than two dozen countries in Eastern Europe, the former Soviet Union, East Asia and the Middle East are hurriedly purchasing American-made defense equipment.",
+  "output": "Eastern Europe, former Soviet Union, East Asia, Middle East.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

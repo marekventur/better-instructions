@@ -1,0 +1,12 @@
+{
+  "id": "483d80a6-6232-4164-9a7c-7221274c4e39",
+  "instruction": "Generate an example input for a GPT model that generates text summarizing an article.",
+  "input": "WASHINGTON (CNN) -- Stateside vacations may be a thing of the past as the U.S. faces a severe summer fuel shortage due to the rise in oil prices and a decrease in refining capacity.",
+  "output": "U.S. is expected to face a sharp decline in summer vacationers due to a fuel shortage caused by high oil prices and reduced refining capacity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

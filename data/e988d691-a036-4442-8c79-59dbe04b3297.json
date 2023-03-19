@@ -1,0 +1,12 @@
+{
+  "id": "e988d691-a036-4442-8c79-59dbe04b3297",
+  "instruction": "Search online and give an accurate definition to a given concept.",
+  "input": "The concept is blockchain",
+  "output": "Blockchain is an encrypted digital record of transactions that is organized in a distributed ledger system. The records or \"blocks\" are linked together using cryptography and stored on public or private networks. Each block contains the transaction data, a timestamp, and a link to the previous block in the chain, thus forming a chain of blocks and creating an immutable ledger of transactions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

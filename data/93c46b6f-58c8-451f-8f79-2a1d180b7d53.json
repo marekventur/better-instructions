@@ -1,0 +1,12 @@
+{
+  "id": "93c46b6f-58c8-451f-8f79-2a1d180b7d53",
+  "instruction": "What steps should be taken when writing a software design document?",
+  "input": "",
+  "output": "When writing a software design document, there are several steps that should be taken. First, the design team should define the overall purpose and goals of the software. Next, they should break down the feature set and consider each feature in depth. Specific tasks should be identified and user stories should be written. Additionally, the software's architecture should be outlined, including the database structure, data structures, and software components. Once that is done, the software design document should be reviewed, edited, and finalized.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

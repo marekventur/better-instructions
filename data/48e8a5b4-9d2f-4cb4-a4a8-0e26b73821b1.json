@@ -1,0 +1,12 @@
+{
+  "id": "48e8a5b4-9d2f-4cb4-a4a8-0e26b73821b1",
+  "instruction": "Change the tone of the following sentence from formal to informal.",
+  "input": "I regret to inform you that I will not be able to attend the meeting.",
+  "output": "Sorry, I won't be able to make it to the meeting.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

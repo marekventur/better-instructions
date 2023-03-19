@@ -1,0 +1,12 @@
+{
+  "id": "a9a25ea3-87b5-4ea6-a895-db3db34ad725",
+  "instruction": "Summarize the contents the of the following article in 2 sentences",
+  "input": "Deep learning models are widely used for a variety of tasks in today\u2019s world. Some of these include natural language processing, computer vision, robotics, and many more. They are based on artificial neural networks which are informed by modern biological neural networks. The idea behind them is to build a predictive mathematical model to be able to process data just like humans do.",
+  "output": "Deep learning models are based on artificial neural networks inspired by biological neural networks, that try to replicate human processing of data for a variety of tasks such as natural language processing and computer vision. They are widely used in today's world, providing predictive mathematical models to make decisions and produce results.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

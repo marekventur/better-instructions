@@ -1,0 +1,12 @@
+{
+  "id": "d868e6af-707e-46cb-a8f6-6debb71df4ef",
+  "instruction": "What are some ways to improve cybersecurity for businesses?",
+  "input": "",
+  "output": "There are several steps businesses can take to improve cybersecurity. Implementing a strong password policy and regular authentication procedures is important to ensure privacy, as well as the use of two-factor authentication, data encryption and virtual private networks (VPNs). Businesses should also keep their systems and software updated, institute policies that limit user access on a need-to-know basis and use a presence detection system to monitor user activity. Additionally, they should regularly backup their data and deploy rigorous penetration testing, vulnerability scanning and malware prevention measures.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

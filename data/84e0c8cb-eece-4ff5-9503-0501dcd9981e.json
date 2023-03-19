@@ -1,0 +1,12 @@
+{
+  "id": "84e0c8cb-eece-4ff5-9503-0501dcd9981e",
+  "instruction": "Change all occurrences of \"America/USA\" to \"United States of America\"",
+  "input": "Back in the 90s, America was the leading manufacturer of cars.",
+  "output": "Back in the 90s, United States of America was the leading manufacturer of cars.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

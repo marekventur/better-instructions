@@ -1,0 +1,12 @@
+{
+  "id": "7f4ca930-0c66-4f02-a6ac-00d9001b32a5",
+  "instruction": "Send an email to an employer apologizing for not providing the promised service.",
+  "input": "Reason: Unexpected delay in delivery.",
+  "output": "Dear [Employer],\n\nI apologize for not being able to provide the promised service in the expected timeline. Unfortunately, there was an unexpected delay in delivery that I was unable to predict. I understand that this may have caused you inconvenience, and I apologize for the same. I would like to assure you that I will make all efforts to meet the expected timelines in the future. \n\nThank you for your patience,\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

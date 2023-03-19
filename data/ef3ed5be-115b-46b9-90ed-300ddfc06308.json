@@ -1,0 +1,12 @@
+{
+  "id": "ef3ed5be-115b-46b9-90ed-300ddfc06308",
+  "instruction": "Suggest three improvement strategies to increase the performance of a website.",
+  "input": "",
+  "output": "1. Optimize file sizes - Minimize the size of website files (JS, CSS, HTML) to improve loading and rendering speeds.\n2. Implement a Content Delivery Network (CDN) - Distribute website content geographically to reduce latency for users around the world.\n3. Implement server-side caching - Store frequently accessed website content on the server side to minimize trips to the server.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

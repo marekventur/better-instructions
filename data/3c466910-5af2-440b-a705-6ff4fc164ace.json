@@ -1,0 +1,12 @@
+{
+  "id": "3c466910-5af2-440b-a705-6ff4fc164ace",
+  "instruction": "Generate an explanation for why a particular piece of software is not working.",
+  "input": "",
+  "output": "The software may not be working because the system requirements are not being met, the software is outdated, or there could be a conflict with other software running on the system. The best way to troubleshoot this issue is to check the system requirements, update the software, and make sure there are no other programs running that could be causing a conflict.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

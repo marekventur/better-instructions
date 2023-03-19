@@ -1,0 +1,12 @@
+{
+  "id": "aa5800b2-a9c6-4733-8ea0-c71e394b2972",
+  "instruction": "For the given company name, find its current stock price",
+  "input": "Amazon",
+  "output": "$3,293.66 (as of November 15, 2020)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

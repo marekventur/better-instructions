@@ -1,0 +1,12 @@
+{
+  "id": "27d9bb6a-2946-4fba-a06f-e28e1bff5c91",
+  "instruction": "Compute the average temperature from the given list of temperatures.",
+  "input": "50\u00b0F, 55\u00b0F, 70\u00b0F, 62\u00b0F",
+  "output": "59\u00b0F",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

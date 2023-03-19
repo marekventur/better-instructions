@@ -1,0 +1,12 @@
+{
+  "id": "b24955fb-cb22-41b0-a558-4917df17a135",
+  "instruction": "Create a Gantt chart showing tasks and their timelines.",
+  "input": "Task: Create a website, Build a mobile app, Release a press statement",
+  "output": "Gantt Chart: \n\nTask | Start Date | End Date \n---- | ---------- | --------- \nCreate a website | 1/1/2021 | 2/28/2021 \nBuild a mobile app | 3/1/2021 | 5/3/2021 \nRelease a press statement | 5/1/2021 | 5/14/2021",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

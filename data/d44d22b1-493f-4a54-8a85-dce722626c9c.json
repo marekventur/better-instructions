@@ -1,0 +1,12 @@
+{
+  "id": "d44d22b1-493f-4a54-8a85-dce722626c9c",
+  "instruction": "Construct an artificial dialogue between two characters using the given sentence.",
+  "input": "She had been in a difficult situation.",
+  "output": "Person 1: Hey, what happened?\nPerson 2: I was in a really tough spot earlier.\nPerson 1: What happened?\nPerson 2: It was difficult to handle. I can't go into the details now, but I'm ok.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3a28bb99-c7b2-4f12-bab0-8a1a7ccbcbeb",
+  "instruction": "Find the options for a change in the given sentence",
+  "input": "I am going to the store to buy some apples.",
+  "output": "Options for a change: store \u2192 supermarket, market, mall; apples \u2192 oranges, bananas, grapes",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "145abcc3-5673-4cfa-98bf-a01946c03fe6",
+  "instruction": "List five features of a GPT-3 language model.",
+  "input": "",
+  "output": "1. Leveraging large-scale datasets: A GPT-3 language model is able to generate novel content from existing datasets without being exposed to those datasets.\n2. Automatically generating text: GPT-3 language models can generate coherent text from a given prompt, without requiring manual input.\n3. Capturing long-term dependencies: GPT-3 language models are able to capture and use knowledge from the context surrounding a given text to complete a task.\n4. Transfer learning capabilities: GPT-3 language models can transfer knowledge across tasks and fields, allowing an AI system to learn new tasks more easily.\n5. Improved efficiency: GPT-3 language models can be trained more efficiently than previous versions, reducing both training and inference time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

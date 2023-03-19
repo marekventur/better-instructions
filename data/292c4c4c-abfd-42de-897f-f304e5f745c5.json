@@ -1,0 +1,12 @@
+{
+  "id": "292c4c4c-abfd-42de-897f-f304e5f745c5",
+  "instruction": "Speaking of a recent news headline, can you write a brief summarization?",
+  "input": "The European Commission announced a 6-month delay in the Brexit deadline.",
+  "output": "The European Commission recently announced that the Brexit deadline is being extended for six months. This means that the United Kingdom now has until October 31, 2021 to reach a deal with the EU in regards to their future relationship. This decision was made in order to give both parties more time to reach a mutually beneficial agreement.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

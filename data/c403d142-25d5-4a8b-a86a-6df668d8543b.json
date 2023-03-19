@@ -1,0 +1,12 @@
+{
+  "id": "c403d142-25d5-4a8b-a86a-6df668d8543b",
+  "instruction": "Explain how voice search technology works.",
+  "input": "",
+  "output": "Voice search technology uses natural language processing and speech recognition to interpret spoken queries and respond with relevant answers. It works by first understanding the voice query by converting it into text, then searching through databases to retrieve the most relevant results.\u00a0The technology also uses machine learning algorithms to continuously learn from past queries and deliver more accurate responses over time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

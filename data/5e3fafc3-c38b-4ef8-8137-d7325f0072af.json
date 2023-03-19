@@ -1,0 +1,12 @@
+{
+  "id": "5e3fafc3-c38b-4ef8-8137-d7325f0072af",
+  "instruction": "Name the type of poem that the given words are used in.",
+  "input": "Words: Roses are red, violets are blue",
+  "output": "The type of poem that the given words are used in is a rhyming couplet. A rhyming couplet is a two-line poem that rhymes, with each line containing the same number of syllables.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

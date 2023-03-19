@@ -1,0 +1,12 @@
+{
+  "id": "ba393891-9f5c-4c6d-824c-34ef784e576a",
+  "instruction": "Can you please provide a detailed answer for this question : Why is the price of goods higher in the market than on the internet?",
+  "input": "",
+  "output": "The prices of goods are usually higher in the market than on the internet because of a variety of factors. Firstly, brick and mortar stores must factor in the cost of staffing and maintaining the storefront, which adds to the price of the goods they sell. Secondly, they must consider the cost of pay rent and utilities, which also adds to the overall cost. Thirdly, they must factor in the cost of transporting goods to the store, as well as potential losses due to product expiry. Finally, stores must also factor in their profit margin when setting their prices. \n\nIn comparison, online stores do not need to factor in these costs when setting their prices. They are typically more efficient when transporting goods, as well as having access to larger warehouses where products can be stored for longer periods of time, reducing the chances of product expiry. They also do not need to pay rent or utilities, which reduces the cost of their goods. Therefore, this difference in overhead costs allows online stores to offer their goods at cheaper prices compared to brick and mortar stores.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

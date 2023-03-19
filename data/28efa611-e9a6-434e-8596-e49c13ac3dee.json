@@ -1,0 +1,12 @@
+{
+  "id": "28efa611-e9a6-434e-8596-e49c13ac3dee",
+  "instruction": "Create a Python function to classify books according to genre.",
+  "input": "def classify_books(book):",
+  "output": "def classify_books(book):\n    if book.genre == \"Fiction\":\n        return \"Fiction\"\n    elif book.genre == \"Mystery\":\n        return \"Mystery\"\n    elif book.genre == \"Science Fiction\":\n        return \"Science Fiction\"\n    elif book.genre == \"Romance\":\n        return \"Romance\"\n    elif book.genre == \"Fantasy\":\n        return \"Fantasy\"\n    else:\n        return \"Other\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "741dfdd0-484b-4271-abb2-a6beabe602ba",
+  "instruction": "Classify the input as a praise or criticism",
+  "input": "\"You should have asked for help from your colleagues.\"",
+  "output": "Criticism",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

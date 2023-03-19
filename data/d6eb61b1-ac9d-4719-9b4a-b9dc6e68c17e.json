@@ -1,0 +1,12 @@
+{
+  "id": "d6eb61b1-ac9d-4719-9b4a-b9dc6e68c17e",
+  "instruction": "Edit this sentence \"I playing piano\"",
+  "input": "I playing piano",
+  "output": "I am playing the piano.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

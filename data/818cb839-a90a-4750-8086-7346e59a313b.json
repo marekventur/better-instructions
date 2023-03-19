@@ -1,0 +1,12 @@
+{
+  "id": "818cb839-a90a-4750-8086-7346e59a313b",
+  "instruction": "Create a table with five columns and five rows",
+  "input": "",
+  "output": "|Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | \n|-------- | -------- | -------- | -------- | -------- | \n|  |  |  |  |  | \n|  |  |  |  |  | \n|  |  |  |  |  | \n|  |  |  |  |  | \n|  |  |  |  |  |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

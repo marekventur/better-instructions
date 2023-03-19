@@ -1,0 +1,12 @@
+{
+  "id": "bb386ede-c6ba-4e55-9e8b-1c9e73a52d79",
+  "instruction": "Consider the following sentence: \"John was so excited about his new car that he bought it on a whim.\" Rewrite it to capture the same sentiment and make it more descriptive.",
+  "input": "John was so excited about his new car that he bought it on a whim.",
+  "output": "John was elated at the prospect of getting a new car, and impulsively decided to purchase it without further thought.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

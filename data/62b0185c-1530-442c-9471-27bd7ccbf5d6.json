@@ -1,0 +1,12 @@
+{
+  "id": "62b0185c-1530-442c-9471-27bd7ccbf5d6",
+  "instruction": "Given the following data set, identify the independent and dependent variables.",
+  "input": "Number of hours studied and grade received for a math exam",
+  "output": "Independent Variable: Number of hours studied\n\nDependent Variable: Grade received for math exam",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

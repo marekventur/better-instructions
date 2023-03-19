@@ -1,0 +1,12 @@
+{
+  "id": "a41701f2-1afc-4c38-8fa3-3a07687c4a28",
+  "instruction": "Generate a new sentence which follows the given one.",
+  "input": "Alice was late for the appointment.",
+  "output": "She had no choice but to take a taxi to get there on time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

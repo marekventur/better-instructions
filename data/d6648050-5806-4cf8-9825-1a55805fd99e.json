@@ -1,0 +1,12 @@
+{
+  "id": "d6648050-5806-4cf8-9825-1a55805fd99e",
+  "instruction": "Write a query to find the number of products sold in a given month.",
+  "input": "",
+  "output": "SELECT COUNT(*) FROM Products WHERE DateSold BETWEEN 'MonthStart' AND 'MonthEnd';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

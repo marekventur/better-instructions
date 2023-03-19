@@ -1,0 +1,12 @@
+{
+  "id": "2123014b-47fc-4836-a103-d3fc5352bac7",
+  "instruction": "Classify these examples as either a fruit or vegetable: banana, carrot",
+  "input": "",
+  "output": "Banana: Fruit\nCarrot: Vegetable",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

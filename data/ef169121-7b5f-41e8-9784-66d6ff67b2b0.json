@@ -1,0 +1,12 @@
+{
+  "id": "ef169121-7b5f-41e8-9784-66d6ff67b2b0",
+  "instruction": "Predict what would happen if the sentence changes according to the given replacement.",
+  "input": "The board of directors has approved the new policy. \nReplacement: investors",
+  "output": "If the sentence was changed to \"The board of investors has approved the new policy,\" it would imply that a group of investors, instead of the board of directors, has approved the policy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

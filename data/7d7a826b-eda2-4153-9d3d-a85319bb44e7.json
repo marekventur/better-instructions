@@ -1,0 +1,12 @@
+{
+  "id": "7d7a826b-eda2-4153-9d3d-a85319bb44e7",
+  "instruction": "Add a comma after the introductory element in this sentence.",
+  "input": "After a long day I was exhausted.",
+  "output": "After a long day, I was exhausted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

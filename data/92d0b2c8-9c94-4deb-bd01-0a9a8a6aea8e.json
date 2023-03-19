@@ -1,0 +1,12 @@
+{
+  "id": "92d0b2c8-9c94-4deb-bd01-0a9a8a6aea8e",
+  "instruction": "Explain why React is a popular JavaScript library for building user interfaces.",
+  "input": "",
+  "output": "React is a popular JavaScript library for building user interfaces because it makes it easy to create and maintain complex user interfaces. React uses a declarative, component-based approach, making it easier to create, maintain, and reason about user interfaces. It also utilizes the concept of reusable components, allowing developers to easily break down complex user interfaces into small, easily managed components. React is also fast and scalable, utilizing virtual DOMs to isolate changes and improve performance. Finally, React can also be used in tandem with other libraries and frameworks, making it a powerful and flexible choice for creating user interfaces.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

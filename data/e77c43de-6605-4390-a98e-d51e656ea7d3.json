@@ -1,0 +1,12 @@
+{
+  "id": "e77c43de-6605-4390-a98e-d51e656ea7d3",
+  "instruction": "How is a liquid chromatography differs from gas chromatography?",
+  "input": "",
+  "output": "Liquid chromatography and gas chromatography are both techniques used to separate compounds in a sample. The main difference between them is the type of mobile phase employed. In liquid chromatography, the mobile phase is a liquid and components of the mixture to be separated are dissolved in the liquid, while in gas chromatography the mobile phase is a gas. Additionally, liquid chromatography has smaller particles so it can retain more components than gas chromatography.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "104aeb6b-0e23-4b70-bede-9e73466ab7cc",
+  "instruction": "Given some text, find the place of origin",
+  "input": "The Eiffel Tower is a famous landmark located in Paris, France.",
+  "output": "Paris, France",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

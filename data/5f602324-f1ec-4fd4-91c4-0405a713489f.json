@@ -1,0 +1,12 @@
+{
+  "id": "5f602324-f1ec-4fd4-91c4-0405a713489f",
+  "instruction": "Summarize this article about the causes of global warming.",
+  "input": "Global warming is the current observed rise in Earth's mean surface temperature, which has been linked to the release of greenhouse gases into the atmosphere by human activities.",
+  "output": "Global warming is caused by human activities, such as the release of greenhouse gases into the atmosphere, that trap heat and cause the Earth's mean surface temperature to increase.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

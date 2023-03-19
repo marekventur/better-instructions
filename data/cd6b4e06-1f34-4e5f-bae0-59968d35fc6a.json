@@ -1,0 +1,12 @@
+{
+  "id": "cd6b4e06-1f34-4e5f-bae0-59968d35fc6a",
+  "instruction": "Research what machine learning frameworks are available for GPT tasks.",
+  "input": "",
+  "output": "There are numerous machine learning frameworks available for tasks related to GPT. Some popular choices include Google's TensorFlow and Baidu's PaddlePaddle. Additionally, PyTorch and OpenAI's GPT-3 are also widely used. For languages like Python, Scikit-Learn is another useful ML framework. Other frameworks such as MXNet, Chainer, and Dynet are also gaining popularity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

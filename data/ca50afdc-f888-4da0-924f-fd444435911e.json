@@ -1,0 +1,12 @@
+{
+  "id": "ca50afdc-f888-4da0-924f-fd444435911e",
+  "instruction": "Given the following sentence, create a more concise sentence with the same meaning.",
+  "input": "Everyone in the class had their eyes glued to the speaker.",
+  "output": "The entire class was captivated by the speaker.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

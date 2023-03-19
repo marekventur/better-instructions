@@ -1,0 +1,12 @@
+{
+  "id": "d1199161-2e80-411b-91f0-3ddb5250064f",
+  "instruction": "Suggest three ways to use the given technology.",
+  "input": "Robotics",
+  "output": "1. Robotics can be used for automating manual tasks such as manufacturing, assembly and packaging.\n2. Robotics can be used in hazardous and dangerous operations such as in rescues, military operations, and space exploration. \n3. Robotics can be used in healthcare, such as in surgeries, diagnostics and healthcare delivery.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

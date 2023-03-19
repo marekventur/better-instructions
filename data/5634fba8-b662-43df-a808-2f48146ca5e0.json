@@ -1,0 +1,12 @@
+{
+  "id": "5634fba8-b662-43df-a808-2f48146ca5e0",
+  "instruction": "Correct the following sentence in online English grammar.",
+  "input": "She need help.",
+  "output": "She needs help.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

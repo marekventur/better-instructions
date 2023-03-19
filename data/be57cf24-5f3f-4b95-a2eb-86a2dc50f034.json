@@ -1,0 +1,12 @@
+{
+  "id": "be57cf24-5f3f-4b95-a2eb-86a2dc50f034",
+  "instruction": "Rewrite the statement to form a question",
+  "input": "One of the most famous authors of all time was William Shakespeare",
+  "output": "Who was one of the most famous authors of all time?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

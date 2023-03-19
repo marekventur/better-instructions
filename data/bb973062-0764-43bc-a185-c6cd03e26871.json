@@ -1,0 +1,12 @@
+{
+  "id": "bb973062-0764-43bc-a185-c6cd03e26871",
+  "instruction": "Explain a concept of linear algebra.",
+  "input": "",
+  "output": "Linear algebra is the study of linear equations and linear transformations. Linear equations are equations where the variables have a linear relationship with each other, and linear transformations are processes in which a vector or a matrix is transformed into another vector or matrix in a linear fashion. Linear algebra is used to solve systems of linear equations, which have applications in various fields such as engineering and economics.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

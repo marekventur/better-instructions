@@ -1,0 +1,12 @@
+{
+  "id": "817fc2d9-867e-4703-acc9-76180bf7e7f5",
+  "instruction": "Select the most suitable word from the following list to fill the blank.\n\nHe was ______ when he heard the news.",
+  "input": "startled",
+  "output": "He was startled when he heard the news.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

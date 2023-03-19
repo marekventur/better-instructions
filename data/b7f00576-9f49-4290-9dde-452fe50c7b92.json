@@ -1,0 +1,12 @@
+{
+  "id": "b7f00576-9f49-4290-9dde-452fe50c7b92",
+  "instruction": "What techniques should be used for text summarization?",
+  "input": "",
+  "output": "Text summarization techniques typically involve methods such as extracting key phrases, sentence compression, frequency-based extraction, and semantic analysis. Key phrase extraction involves extracting phrases which best represent the whole text, while sentence compression involves transforming longer sentences into shorter ones while still retaining their primary meaning. Frequency-based extraction involves selecting important words from the text based on frequency, while semantic analysis involves using natural language processing techniques to extract the core meaning from the text and generate a summary.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

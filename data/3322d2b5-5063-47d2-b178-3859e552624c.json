@@ -1,0 +1,12 @@
+{
+  "id": "3322d2b5-5063-47d2-b178-3859e552624c",
+  "instruction": "Given the below list of strings, remove the duplicates and sort the list in descending order.",
+  "input": "[\u201cApple\u201d, \u201cOrange\u201d, \u201cApple\u201d, \u201cBanana\u201d]",
+  "output": "The list should return [\u201cOrange\u201d, \u201cBanana\u201d, \u201cApple\u201d]\n\ndef remove_duplicates(lst): \n    unique_list = [] \n  \n    for x in lst: \n        if x not in unique_list: \n            unique_list.append(x) \n  \n    unique_list.sort(reverse=True) # sort in descending order\n  \n    return unique_list",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "15b0f55f-8abe-4351-ab55-1c34391fe0d2",
+  "instruction": "Fix the errors and make the sentence grammatically correct.",
+  "input": "They gave everybody some advices.",
+  "output": "They gave everybody some advice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

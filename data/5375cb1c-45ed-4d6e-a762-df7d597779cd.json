@@ -1,0 +1,12 @@
+{
+  "id": "5375cb1c-45ed-4d6e-a762-df7d597779cd",
+  "instruction": "Compute the average of five numbers.",
+  "input": "3, 5, 10, 12, 17",
+  "output": "Average = (3 + 5 + 10 + 12 + 17) / 5 = 9.6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

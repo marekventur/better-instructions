@@ -1,0 +1,12 @@
+{
+  "id": "67039729-e5e6-4925-a9e2-915626efbf34",
+  "instruction": "Analyze the given poem and analyze its themes.",
+  "input": "\"Daisies smell-less, yet most quaint,\nAnd sweet thyme true,\nPrimrose, first born child of Ver,\nMerry Springtime's harbinger.\nBird or butterfly on the wing,\nIn the balmy air of the Spring\"",
+  "output": "The poem is filled with references to the arrival of spring and the rejuvenation of nature. Themes explored in the poem include new beginnings, the fragility and beauty of nature, and the joy of springtime. These themes are highlighted through the images of daisies, primroses, and birds and butterflies, which represent the beauty and fragility of nature and the joy of it being reawakened in the spring.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

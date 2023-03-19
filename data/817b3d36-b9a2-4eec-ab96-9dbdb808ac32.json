@@ -1,0 +1,12 @@
+{
+  "id": "817b3d36-b9a2-4eec-ab96-9dbdb808ac32",
+  "instruction": "Classify the following words by their syllables.",
+  "input": "anomaly, calamity, soliloquy",
+  "output": "Anomaly: 3 syllables\nCalamity: 3 syllables \nSoliloquy: 4 syllables",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b06d06f3-0349-4ec7-aa8f-c5e48243d7df",
+  "instruction": "Based on the given 3 numbers, calculate their average.",
+  "input": "50, 80, 90",
+  "output": "The average of 50, 80, and 90 is 73.33.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

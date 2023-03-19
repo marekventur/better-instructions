@@ -1,0 +1,12 @@
+{
+  "id": "23be4a72-7cc0-4de5-b068-b58b9ce17f44",
+  "instruction": "Describe the steps of the saliency detection algorithm.",
+  "input": "",
+  "output": "Saliency detection is a computer vision algorithm used to identify which parts of an image are most salient or eye-catching. It typically consists of five steps: (1) feature extraction, (2) segmentation, (3) spatial normalization, (4) saliency map generation, and (5) postprocessing. \n\nIn the first step, features are extracted from the input image, such as color, texture, edges, and shapes. In the second step, the image is segmented into regions, such as objects and background. In the third step, the regions are normalized so that they cover the same spatial size in the image. In the fourth step, a saliency map is generated, which highlights the regions that are most salient. Finally, in the fifth step, post-processing steps may be taken, such as smoothing the saliency map.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

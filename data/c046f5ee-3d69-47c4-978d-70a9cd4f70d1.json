@@ -1,0 +1,12 @@
+{
+  "id": "c046f5ee-3d69-47c4-978d-70a9cd4f70d1",
+  "instruction": "Choose the right verb to finish this sentence",
+  "input": "The boss always",
+  "output": "The boss always expects.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

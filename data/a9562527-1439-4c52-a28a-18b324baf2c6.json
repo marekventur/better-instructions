@@ -1,0 +1,12 @@
+{
+  "id": "a9562527-1439-4c52-a28a-18b324baf2c6",
+  "instruction": "Identify the emotions expressed in the poem.",
+  "input": "My heart is like a singing bird\nWhose heart is full of song,\nThat gazed upon a fire of spring\nAnd still sings all day long.",
+  "output": "Joy, contentment, delight.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

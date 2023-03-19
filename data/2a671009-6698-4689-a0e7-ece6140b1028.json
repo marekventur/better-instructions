@@ -1,0 +1,12 @@
+{
+  "id": "2a671009-6698-4689-a0e7-ece6140b1028",
+  "instruction": "What is the difference between a \u201cvariable\u201d and a \u201cconstant\u201d in computer programming?",
+  "input": "",
+  "output": "In computer programming, a variable is a piece of information that can change. The value of a variable can be modified throughout the course of a program, and the value may vary depending on the input given to the program. In contrast, a constant is a piece of information that remains the same throughout the course of a program. The value of a constant cannot be changed by the program, and must remain the same at all times. Constants are often used to represent fixed values, such as mathematical constants or physical constants.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

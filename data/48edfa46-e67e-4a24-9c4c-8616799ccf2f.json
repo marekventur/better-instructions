@@ -1,0 +1,12 @@
+{
+  "id": "48edfa46-e67e-4a24-9c4c-8616799ccf2f",
+  "instruction": "Generate a list of questions that could be used to survey a customer\u2019s satisfaction level.",
+  "input": "",
+  "output": "- How satisfied are you with our product/service?\n- How likely are you to recommend our product/service to your family and friends?\n- How would you rate the overall quality of our product/service?\n- Was our product/service delivered on time? \n- Was our customer service helpful and friendly?\n- Was the purchasing process easy and convenient?\n- What features of our product/service do you like the most? \n- How can we improve our product/service?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cc8c94b9-0f3d-4c3a-95cb-69bdd3022d72",
+  "instruction": "Pick the right word in the list that completes the sentence, output the word.",
+  "input": "The _____ between the two parties was deep-seated\na. feud\nb. clash\nc. link\nd. alliance",
+  "output": "a",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

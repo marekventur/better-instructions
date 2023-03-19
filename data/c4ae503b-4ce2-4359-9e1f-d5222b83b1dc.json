@@ -1,0 +1,12 @@
+{
+  "id": "c4ae503b-4ce2-4359-9e1f-d5222b83b1dc",
+  "instruction": "Given a set of numbers, find the maximum value.",
+  "input": "Set: {10, 3, 25, 6, 16}",
+  "output": "The maximum value is 25.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

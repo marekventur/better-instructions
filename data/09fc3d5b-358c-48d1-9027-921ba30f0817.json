@@ -1,0 +1,12 @@
+{
+  "id": "09fc3d5b-358c-48d1-9027-921ba30f0817",
+  "instruction": "Classify the following as either a geologic event or a tectonic event.",
+  "input": "Volcanic Eruption",
+  "output": "Volcanic Eruption is a geologic event.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

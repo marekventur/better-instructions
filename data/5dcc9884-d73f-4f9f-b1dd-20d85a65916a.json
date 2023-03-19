@@ -1,0 +1,12 @@
+{
+  "id": "5dcc9884-d73f-4f9f-b1dd-20d85a65916a",
+  "instruction": "Explain what a reciprocal function is.",
+  "input": "",
+  "output": "A reciprocal function is a mathematical function that represents the inverse of a given function. It has the property that when it is evaluated at a particular value, the result is the reciprocal of the original function evaluated at that same value. For example, the reciprocal of the function y=2x is y=1/2x, which can be represented as y=x\u22121.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

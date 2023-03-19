@@ -1,0 +1,12 @@
+{
+  "id": "69573b0e-5a76-42bf-b6a5-b19cc203ddce",
+  "instruction": "Make a comparison between the given countries.",
+  "input": "Australia and China",
+  "output": "Australia is roughly the same size as China in terms of landmass, but China's population is over four times larger than Australia's. Furthermore, China had a total Gross Domestic Product of $13.62 trillion in 2019 as compared to Australia's $1.39 trillion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

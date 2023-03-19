@@ -1,0 +1,12 @@
+{
+  "id": "97b3d67e-c7d1-4f97-aca5-a4c2b7800b50",
+  "instruction": "Interpret the tone of the text.",
+  "input": "Today was a dreadful day. I had a hectic morning, followed by a grueling afternoon.",
+  "output": "The tone of the text is one of frustration and exhaustion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

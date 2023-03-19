@@ -1,0 +1,12 @@
+{
+  "id": "e949489b-97f8-47b5-8bfa-0d53932b9bef",
+  "instruction": "Categorize the list into three categories.",
+  "input": "Carrots, oranges, apples, spinach",
+  "output": "Category 1: Carrots, spinach\nCategory 2: Oranges, apples\nCategory 3: None.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

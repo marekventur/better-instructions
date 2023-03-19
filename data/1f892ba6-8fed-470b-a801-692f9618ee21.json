@@ -1,0 +1,12 @@
+{
+  "id": "1f892ba6-8fed-470b-a801-692f9618ee21",
+  "instruction": "Construct an algorithm that finds all prime numbers up to a given upper limit.",
+  "input": "Upper limit = 20",
+  "output": "Step 1: Set a counter equal to 2 (the first prime number).\nStep 2: Check if the number is divisible by any other number between 2 and the counter (inclusively).\nStep 3: If not, print out the number as it is a prime number.\nStep 4: Increment the counter by 1 and go back to Step 2.\nStep 5: When the counter reaches the upper limit (20), then stop the algorithm. Output: 2, 3, 5, 7, 11, 13, 17, 19.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

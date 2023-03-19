@@ -1,0 +1,12 @@
+{
+  "id": "dd6fef04-efb4-464e-a23c-5355ecd56b25",
+  "instruction": "Match each sentence with the corresponding definition.",
+  "input": "A. Encyclopedia\nB. Thesaurus\nC. Dictionary\n1. A collection of words and their definitions \n2. A reference work with information about a particular subject\n3. A book of synonyms and antonyms",
+  "output": "A.2\nB.3\nC.1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

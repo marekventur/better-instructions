@@ -1,0 +1,12 @@
+{
+  "id": "add21b0e-8944-480b-a458-70c7fbcccc53",
+  "instruction": "In the following sentence, edit it to make it sound more professional.",
+  "input": "The server ate up all the power it had, it was a malfunction.",
+  "output": "The server consumed all its available power, likely due to a malfunction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "24e48f92-9ecc-4a2c-a49a-733f04bfa39f",
+  "instruction": "Convert the given sentence from direct speech to indirect speech.",
+  "input": "He said, \"I'm not doing that.\"",
+  "output": "He said he wasn't doing that.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

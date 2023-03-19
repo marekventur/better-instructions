@@ -1,0 +1,12 @@
+{
+  "id": "98a4f2cf-a389-445c-841f-bcdccfe4cd9c",
+  "instruction": "Rewrite the given sentence so it uses a different verb and maintains the same meaning.",
+  "input": "The cat ate the food.",
+  "output": "The cat devoured the food.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

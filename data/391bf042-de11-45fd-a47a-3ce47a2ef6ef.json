@@ -1,0 +1,12 @@
+{
+  "id": "391bf042-de11-45fd-a47a-3ce47a2ef6ef",
+  "instruction": "Two circles of the same size intersect at right angles. What is the area of the shaded region?",
+  "input": "",
+  "output": "The area of the shaded region is half of the area of the circles, meaning it is equal to the area of one of the circles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

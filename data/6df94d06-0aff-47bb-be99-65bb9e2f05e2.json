@@ -1,0 +1,12 @@
+{
+  "id": "6df94d06-0aff-47bb-be99-65bb9e2f05e2",
+  "instruction": "Write a classification task for an AI assistant.",
+  "input": "The AI assistant will receive comments from customers.",
+  "output": "The AI assistant should classify each customer comment into one of the following categories:\n- Positive comments \n- Neutral comments \n- Negative comments \n- Questions/Concerns \n- Suggestions \n- Off-topic comments \n- Other",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

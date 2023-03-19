@@ -1,0 +1,12 @@
+{
+  "id": "682602f7-3569-4fbc-b4ee-5fab7ff0b48f",
+  "instruction": "Provide an example of using the enumerate() function in Python.",
+  "input": "",
+  "output": "For example, the following code uses the enumerate() function to loop over a list and print (index, element) tuples, so that the index and the corresponding element can be retrieved:\n\nfor index, element in enumerate(my_list): \n    print(index, element)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

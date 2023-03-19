@@ -1,0 +1,12 @@
+{
+  "id": "3016a11d-b917-4308-b66a-1d5a84cb0bba",
+  "instruction": "Edit the following code block and make it shorter.",
+  "input": "for (i=0; i<10; i++) {\n    console.log(\"Hello World\");\n}",
+  "output": "for (i=0; i<10; i++) console.log(\"Hello World\");",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

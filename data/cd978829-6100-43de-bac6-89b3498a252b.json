@@ -1,0 +1,12 @@
+{
+  "id": "cd978829-6100-43de-bac6-89b3498a252b",
+  "instruction": "Use the K-nearest neighbors algorithm to classify data points.",
+  "input": "Data points: [[1,2],[2,4],[2,3],[3,5],[3,1],[5,5],[5,3],[6,1],[6,2],[6,4]]",
+  "output": "\"\"\"\nALgorithm to classify data points using K-nearest neighbors\n\"\"\"\n\ndef knn(data_points, k):\n    labels = []\n\n    for point in data_points:\n        distances = []\n        for other_point in data_points:\n            if point != other_point:\n                distances.append(((point[0] - other_point[0]) ** 2 + (point[1] - other_point[1]) ** 2) ** 0.5)\n        #sort the distances \n        sorted_distances = sorted(distances)\n        #find the k-nearest neighbours\n        k_nearest = sorted_distances[:k]\n        #determine label using majority vote \n        labels.append(majority_vote(k_nearest))\n        \n    return labels \n\ndef majority_vote(k_nearest):\n    #code to find majority vote\n    pass \n\nif __name__ == '__main__':\n    data_points = [[1,2],[2,4],[2,3],[3,5],[3,1],[5,5],[5,3],[6,1],[6,2],[6,4]]\n    k = 3\n    print(knn(data_points, k))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

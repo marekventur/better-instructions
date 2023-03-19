@@ -1,0 +1,12 @@
+{
+  "id": "e2d3ebcb-c057-4645-8ee1-6d213d8a1ad5",
+  "instruction": "Generate a new summary of the passage below.",
+  "input": "Basketball is a team sport in which two teams, usually consisting of five players on each team, play against each other on a rectangular court. The objective is to score by shooting the ball through a hoop 18 inches in diameter affixed to a backboard at each end of the court.",
+  "output": "Basketball is a competitive sport in which two teams of five players each compete against each other on a court, aiming to score points by shooting a basketball through a hoop 18 inches in diameter attached to a backboard at both ends of the court. The team with the highest score by the end of the game wins.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

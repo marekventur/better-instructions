@@ -1,0 +1,12 @@
+{
+  "id": "74f0a29d-5976-4368-9855-682316599073",
+  "instruction": "Identify where a given item is located.",
+  "input": "Location: The Louvre\nItem: The Mona Lisa",
+  "output": "The Mona Lisa is located in the Salle des \u00c9tats section of the Louvre Museum in Paris, France.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

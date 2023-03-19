@@ -1,0 +1,12 @@
+{
+  "id": "f95cdd7d-038d-4325-8474-4b0590e72953",
+  "instruction": "Write a news article that discusses two recent events",
+  "input": "IBM announcement of new Quantum Computing initiative | new YouTube Music feature",
+  "output": "IBM recently announced their ambitious initiative to develop the world's first universal quantum computing system. The announcement promises groundbreaking new capabilities that would create a world of computing possibilities not seen before. \n\nIn addition, YouTube Music recently announced a new feature that would allow users to have access to recordings from the world's most renowned artists and labels. This new feature provides users with a new way to create enjoyable playlists tailored to their tastes.\n\nThese two announcements demonstrate the world's innovation and advancements in the fields of computing and music. By collaborating and pushing the boundaries of current technology, these companies are creating a more enjoyable and convenient digital world for all.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

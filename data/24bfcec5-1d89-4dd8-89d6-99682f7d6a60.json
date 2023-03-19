@@ -1,0 +1,12 @@
+{
+  "id": "24bfcec5-1d89-4dd8-89d6-99682f7d6a60",
+  "instruction": "Read the following text and identify which grammar rules were violated.",
+  "input": "I saw two dog and a cat.",
+  "output": "In this sentence, the grammar rules that were violated are the plural subject-verb agreement and the indefinite article usage. The subject of the sentence is \"two dog\", which should be \"two dogs\". Additionally, the indefinite article \"a\" should be used before a word beginning with a consonant, whereas in this case the subject is a word beginning with a vowel (\"cat\"), and so the article should be \"an\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

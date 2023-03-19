@@ -1,0 +1,12 @@
+{
+  "id": "fb2de59e-407a-43ae-a033-24293bbe9040",
+  "instruction": "Construct a query for a given database to join two tables.",
+  "input": "Tables: Products, Inventory",
+  "output": "SELECT p.*, i.*\nFROM Products p\nINNER JOIN Inventory i\nON p.product_id = i.product_id",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

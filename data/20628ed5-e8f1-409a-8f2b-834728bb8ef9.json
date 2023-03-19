@@ -1,0 +1,12 @@
+{
+  "id": "20628ed5-e8f1-409a-8f2b-834728bb8ef9",
+  "instruction": "Design an interactive interface that can help a child get familiar with the U.S. states",
+  "input": "",
+  "output": "The design of the interactive interface should be intuitive and engaging. It should feature an interactive map of the United States with each state's name and flag highlighted. When the user hovers the cursor over a state, the name of the state should be displayed on the screen. Additionally, when the user clicks on a state, a slide-out box should be displayed that contains facts such as its capital, population, landmarks, and other interesting facts about the state. In another section, the user should be able to take quizzes on the state's history, geography, and culture. There should also be a rewards system for completing tasks, in order to keep the user engaged and motivated.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

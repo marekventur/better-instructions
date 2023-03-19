@@ -1,0 +1,12 @@
+{
+  "id": "a7a53b8e-16ee-44a4-80ea-7db60baf2fa4",
+  "instruction": "Read this sentence and find the grammatical mistake.",
+  "input": "I went to the store to buy some supplies.",
+  "output": "No grammatical mistakes detected.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

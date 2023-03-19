@@ -1,0 +1,12 @@
+{
+  "id": "2deb9b25-7153-4e62-a46d-7bda8c347da0",
+  "instruction": "Create a timetable for your day.",
+  "input": "",
+  "output": "6:00 AM: Wake up, get ready, and have breakfast\n7:00 AM: Commute to work\n8:00 AM: Start working\n11:00 AM: Have lunch\n1:00 PM: Work\n5:00 PM: Finish work and commute back home\n6:00 PM: Have dinner\n7:00 PM: Relax or do some hobbies\n10:00 PM: Wind down and go to sleep",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

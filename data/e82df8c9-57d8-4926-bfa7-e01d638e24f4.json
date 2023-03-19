@@ -1,0 +1,12 @@
+{
+  "id": "e82df8c9-57d8-4926-bfa7-e01d638e24f4",
+  "instruction": "Classify the type of triangle given the length of its sides.",
+  "input": "The sides of the triangle have length 3, 4, and 5.",
+  "output": "The triangle is a right triangle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

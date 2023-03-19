@@ -1,0 +1,12 @@
+{
+  "id": "a97770d4-568f-49cb-ad3d-34a5c3bcfc9b",
+  "instruction": "Provide two pieces of advice related to the given topic.",
+  "input": "Email etiquette",
+  "output": "1. Keep emails clear and concise. \n2. Avoid using aggressive and argumentative language.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

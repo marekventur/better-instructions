@@ -1,0 +1,12 @@
+{
+  "id": "e5307269-2b3a-45e3-a52e-7803ba6adae1",
+  "instruction": "Reformat the given passage using active voice.",
+  "input": "The show was watched by millions.",
+  "output": "Millions watched the show.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

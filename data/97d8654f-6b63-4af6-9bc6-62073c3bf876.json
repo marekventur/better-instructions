@@ -1,0 +1,12 @@
+{
+  "id": "97d8654f-6b63-4af6-9bc6-62073c3bf876",
+  "instruction": "Rewrite the sentence using gender-neutral language.\nOutput should be a single sentence.",
+  "input": "A salesman is giving a presentation.",
+  "output": "A salesperson is giving a presentation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "36bc31b5-7189-4060-ab7f-2feb73a27293",
+  "instruction": "Identify at least 5 distinct emotions in the following sentence.",
+  "input": "He laughed with joy when he saw the surprise.",
+  "output": "He felt happiness, excitement, surprise, joy, and relief.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

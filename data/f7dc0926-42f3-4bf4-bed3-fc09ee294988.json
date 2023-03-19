@@ -1,0 +1,12 @@
+{
+  "id": "f7dc0926-42f3-4bf4-bed3-fc09ee294988",
+  "instruction": "Construct an English sentence using the following phrase in Spanish",
+  "input": "ser muy educado",
+  "output": "He was very polite.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

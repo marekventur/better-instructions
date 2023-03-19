@@ -1,0 +1,12 @@
+{
+  "id": "6bb4710b-5e3f-40eb-8618-9625e34eef2b",
+  "instruction": "Select an appropriate Machine Learning algorithm for this problem.",
+  "input": "We would like to predict if someone is a regular customer of a restaurant based on their visit history and demographic information.",
+  "output": "The appropriate Machine Learning algorithm for this problem is logistic regression.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

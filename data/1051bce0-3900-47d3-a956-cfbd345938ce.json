@@ -1,0 +1,12 @@
+{
+  "id": "1051bce0-3900-47d3-a956-cfbd345938ce",
+  "instruction": "Deduce the meaning of the following word by using the context.",
+  "input": "He walked jauntily.",
+  "output": "Jauntily means in an energetic and confident manner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

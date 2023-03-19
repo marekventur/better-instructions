@@ -1,0 +1,12 @@
+{
+  "id": "829d0f5d-999e-406d-8efe-7ed3cb01934e",
+  "instruction": "Create a script to generate an array of random numbers.",
+  "input": "",
+  "output": "import random\ndef random_array(n):\n    arr = []\n    for i in range(n):\n        arr.append(random.randint(0, 100))\n    return arr",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

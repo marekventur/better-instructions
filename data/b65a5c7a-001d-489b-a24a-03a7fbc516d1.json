@@ -1,0 +1,12 @@
+{
+  "id": "b65a5c7a-001d-489b-a24a-03a7fbc516d1",
+  "instruction": "Divide the equation below and simplify.",
+  "input": "3x + 6y = 15",
+  "output": "x = 5 - 2y",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

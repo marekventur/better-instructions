@@ -1,0 +1,12 @@
+{
+  "id": "5d4956eb-b512-46d2-bc9f-d4106d315f92",
+  "instruction": "Identify the main clause in this sentence.\nOutput should be a single sentence.",
+  "input": "A busy morning, interrupted by a phone call from a friend, made John late for school.",
+  "output": "A phone call from a friend made John late for school.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

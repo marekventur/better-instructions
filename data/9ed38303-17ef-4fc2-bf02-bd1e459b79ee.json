@@ -1,0 +1,12 @@
+{
+  "id": "9ed38303-17ef-4fc2-bf02-bd1e459b79ee",
+  "instruction": "Identify the fallacy in the given argument.",
+  "input": "Politicians are all corrupt, so it is not worth voting.",
+  "output": "This is an example of the \"fallacy of the sweeping generalization\". This fallacy occurs when a statement is made that applies to all members of a certain category without exception, when in reality, there may be some members that do not fit the generalization.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

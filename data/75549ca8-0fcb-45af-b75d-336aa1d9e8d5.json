@@ -1,0 +1,12 @@
+{
+  "id": "75549ca8-0fcb-45af-b75d-336aa1d9e8d5",
+  "instruction": "Create an array of numbers from 1 to 10 using the Java syntax",
+  "input": "",
+  "output": "int[] array = {1,2,3,4,5,6,7,8,9,10};",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

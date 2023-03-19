@@ -1,0 +1,12 @@
+{
+  "id": "f643cfc3-738b-46b7-b114-f8447f5312c3",
+  "instruction": "Select the sentence in the text which best reflects the theme of the text.",
+  "input": "It is estimated that the Earth is getting warmer in recent decades because of increasing levels of gases such as carbon dioxide and methane in the atmosphere. These gases are produced mainly by human activity, such as burning fossil fuels and cutting down forests.",
+  "output": "It is estimated that the Earth is getting warmer in recent decades because of increasing levels of gases such as carbon dioxide and methane in the atmosphere produced mainly by human activity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

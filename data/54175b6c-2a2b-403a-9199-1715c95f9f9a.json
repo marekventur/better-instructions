@@ -1,0 +1,12 @@
+{
+  "id": "54175b6c-2a2b-403a-9199-1715c95f9f9a",
+  "instruction": "Given a satirical news article, write a 1 sentence summary of the article.",
+  "input": "Article: A new study finds that eating pop tarts can help children score higher grades in school",
+  "output": "A new study suggests that an unhealthy diet of pop tarts could be the key to academic excellence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

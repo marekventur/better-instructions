@@ -1,0 +1,12 @@
+{
+  "id": "ec3975a6-61b7-4da2-a1ea-9d0b90236c0a",
+  "instruction": "Which type of literary device is being used in this sentence?",
+  "input": "His eyes twinkled with joy.",
+  "output": "The literary device used in the sentence is a metaphor.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e73017cb-e619-4018-8bc8-5ab40f9209f6",
+  "instruction": "Explain a book in less than 3 sentences.",
+  "input": "The Catcher in the Rye by J.D. Salinger",
+  "output": "The Catcher in the Rye is a 1951 novel by J.D. Salinger. It follows protagonist Holden Caulfield as he struggles with feelings of alienation and loss of innocence. The novel has become a classic of post-World War II literature and has been cited as an influence on subsequent generations of writers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

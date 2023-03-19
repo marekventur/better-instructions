@@ -1,0 +1,12 @@
+{
+  "id": "a918260d-a6fe-4188-80c5-7a68dd2f350c",
+  "instruction": "Given an essay topic, generate a thesis statement that outlines the main argument of the essay.",
+  "input": "Topic: The impact of social media on society",
+  "output": "The use of social media has a profound impact on society both positively and negatively, with its applications ranging from facilitating communication to creating divisions within communities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

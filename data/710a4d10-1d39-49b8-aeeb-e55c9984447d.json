@@ -1,0 +1,12 @@
+{
+  "id": "710a4d10-1d39-49b8-aeeb-e55c9984447d",
+  "instruction": "Suggest the next move in this game of chess.",
+  "input": "White pawn is located at E2 and Black King is located at G7.",
+  "output": "White should move the pawn to E3, putting it right in the path of the Black King on G7.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

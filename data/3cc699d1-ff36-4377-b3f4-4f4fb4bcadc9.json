@@ -1,0 +1,12 @@
+{
+  "id": "3cc699d1-ff36-4377-b3f4-4f4fb4bcadc9",
+  "instruction": "For the given employee data, work out their total salary from the salary grade and yearly salary information.",
+  "input": "Employee1: Grade: 1, YearlySalary: 80000\nEmployee2: Grade: 5, YearlySalary: 120000",
+  "output": "Employee1: Total salary: 80,000\nEmployee2: Total salary: 120,000",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

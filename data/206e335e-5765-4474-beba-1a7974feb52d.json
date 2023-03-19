@@ -1,0 +1,12 @@
+{
+  "id": "206e335e-5765-4474-beba-1a7974feb52d",
+  "instruction": "Given a list of ingredients, suggest one or more ways to use them in a dish.",
+  "input": "Egg, Cheese, Mushroom",
+  "output": "Suggestions: \n1. Scramble the eggs with the cheese and mushrooms. \n2. Make an omelette with the eggs, cheese, and mushrooms. \n3. Make a frittata with the eggs, cheese, and mushrooms.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

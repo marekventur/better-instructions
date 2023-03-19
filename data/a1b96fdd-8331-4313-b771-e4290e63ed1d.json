@@ -1,0 +1,12 @@
+{
+  "id": "a1b96fdd-8331-4313-b771-e4290e63ed1d",
+  "instruction": "Given the following sentence,suggest an appropriate title.",
+  "input": "Sentence: Astronomers observed a new star in the sky.",
+  "output": "A New Star in the Sky Observed by Astronomers",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

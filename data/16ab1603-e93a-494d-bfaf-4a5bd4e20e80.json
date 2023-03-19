@@ -1,0 +1,12 @@
+{
+  "id": "16ab1603-e93a-494d-bfaf-4a5bd4e20e80",
+  "instruction": "Build a gaming system with Unity that runs smoothly on mobile phones.",
+  "input": "",
+  "output": "In order to build a gaming system with Unity that runs smoothly on mobile phones, the game must be optimized for both the hardware and software of mobile phones. This includes enabling certain features and settings, creating low-poly models and reducing animation complexity, testing performance on various devices, and optimizing the UI. It is also important to include compression and other optimization techniques to reduce the size of the game and make it run more efficiently on mobile phones. Finally, adopting a mobile-friendly approach to game design, such as using touch and tilt controls, can help make the game more enjoyable on mobile phones.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

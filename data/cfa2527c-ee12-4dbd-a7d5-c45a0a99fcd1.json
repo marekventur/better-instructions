@@ -1,0 +1,12 @@
+{
+  "id": "cfa2527c-ee12-4dbd-a7d5-c45a0a99fcd1",
+  "instruction": "Describe the trajectory of a rocket given the following information.",
+  "input": "The rocket was launched vertically with an initial velocity of 120 m/s.",
+  "output": "The rocket was launched vertically with an initial velocity of 120 m/s, propelling the rocket upwards in an arc before reaching a peak height and then falling back down to the ground.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1e530fb1-12ff-44d2-b8cc-1d2ab4f90624",
+  "instruction": "Offer an example of when an algorithm was wrong",
+  "input": "",
+  "output": "One example of when an algorithm was wrong is when an online advertisement system misclassified an African female doctor as a kitchen worker, based on her image. The algorithm incorrectly identified her as being a lower class worker than she was, since she was wearing a lab coat and medical mask in the photo.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

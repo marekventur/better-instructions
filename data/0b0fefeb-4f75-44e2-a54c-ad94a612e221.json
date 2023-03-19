@@ -1,0 +1,12 @@
+{
+  "id": "0b0fefeb-4f75-44e2-a54c-ad94a612e221",
+  "instruction": "Compose an email for the given context.",
+  "input": "You need to send an email to your client to follow up on the project.",
+  "output": "Dear [client's name],\n\nI hope this message finds you well. I wanted to follow up on the project we discussed a few weeks ago. How is it progressing? Are there any updates I should know?\n\nI am ready to provide any help and support that you may need. Please don't hesitate to let me know if you have any questions.\n\nThank you for your time and I look forward to hearing from you.\n\nSincerely,\n[Your name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

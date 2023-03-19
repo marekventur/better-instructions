@@ -1,0 +1,12 @@
+{
+  "id": "413e60cf-081c-495c-bd15-bc11473f089a",
+  "instruction": "Create a quiz about the elements for a fourth-grade classroom.",
+  "input": "",
+  "output": "1. What is the atomic symbol for oxygen?\nA. O\nB. H\nC. C\nD. N\n\n2. What element is used to make the wires in light bulbs?\nA. Silver\nB. Aluminum\nC. Iron\nD. Copper\n\n3. What is the atomic symbol for carbon?\nA. C\nB. N\nC. O\nD. H\n\n4. Which element is used to make light bulbs bright?\nA. Helium\nB. Oxygen\nC. Carbon\nD. Xenon\n\n5. What is the lightest element?\nA. Helium\nB. Oxygen\nC. Carbon\nD. Xenon",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a88da655-1273-42c9-8149-e30539029d50",
+  "instruction": "Rate the customer service provided by the hotel you stayed in on a scale of 1 to 5 (1 being the worst and 5 being the best).",
+  "input": "My stay in the Westwood Hotel was great. The staff was friendly and helpful. The rooms were always kept clean. I also got free breakfast.",
+  "output": "5 (Best)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

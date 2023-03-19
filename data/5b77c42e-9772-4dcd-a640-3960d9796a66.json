@@ -1,0 +1,12 @@
+{
+  "id": "5b77c42e-9772-4dcd-a640-3960d9796a66",
+  "instruction": "Generate a list of 10 computer science terms which are useful in everyday conversation.",
+  "input": "",
+  "output": "1. Algorithm - A step-by-step procedure for solving a problem or accomplishing a task. \n2. Programming language - A set of instructions used to create software. \n3. Data structure - Any specific way of organising data for easy retrieval. \n4. Cryptography - A method of secure communication through encoding and decoding information. \n5. Machine learning - A process of teaching a computer to act or react like a human. \n6. Artificial intelligence - Applications intended to mimic human behaviour or thinking. \n7. VPN - A virtual private network which can be used to access secure metworks. \n8. Cloud computing - The use of distributed computing resources over a network. \n9. Debugging - The process of locating and removing errors in a program. \n10. Protocol - Formal rules governing the exchange of data over a network.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

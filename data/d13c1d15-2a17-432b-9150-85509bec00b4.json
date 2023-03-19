@@ -1,0 +1,12 @@
+{
+  "id": "d13c1d15-2a17-432b-9150-85509bec00b4",
+  "instruction": "Assassess the validity of the given statement.",
+  "input": "Humans have the largest brains amongst all living organisms.",
+  "output": "This statement is valid. According to research, human brains have the largest mass compared to other living organisms.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

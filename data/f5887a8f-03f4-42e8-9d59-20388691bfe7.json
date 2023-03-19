@@ -1,0 +1,12 @@
+{
+  "id": "f5887a8f-03f4-42e8-9d59-20388691bfe7",
+  "instruction": "Generate a sample of valid HTML code.",
+  "input": "",
+  "output": "<html>\n  <head>\n    <title>Sample HTML Page</title>\n  </head>\n  <body>\n    <h1>Sample HTML Page</h1>\n    <p>This is an example of valid HTML code.</p>\n  </body>\n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

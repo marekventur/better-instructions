@@ -1,0 +1,12 @@
+{
+  "id": "69832a5e-3724-499a-b9d0-4a160a58d9f3",
+  "instruction": "Is the following sentence a complete thought? Output true or false.",
+  "input": "My friends arrived.",
+  "output": "true",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

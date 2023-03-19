@@ -1,0 +1,12 @@
+{
+  "id": "9b993819-916c-490b-8665-a8befa18623f",
+  "instruction": "Design a board game, featuring natural disasters, that can be played by up to 5 players.",
+  "input": "",
+  "output": "I present to you Disasteroids, a board game for up to 5 players. In Disasteroids, players explore and survive an unpredictable natural disaster-filled world by dominating resources, building weather shelters, and racing for the highest score. The game board consists of a 9x9 grid with special squares representing natural disasters such as floods, earthquakes, and storms. Before the game starts, each player chooses a pawn and receives a certain amount of resources. During each turn, the players need to decide which resource they want to focus on to obtain. When a player's pawn lands on a disaster square, they will face a natural disaster or challenge. If they can survive the disaster, they will receive rewards and points. The player who survives the longest and obtains the highest score wins the game.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

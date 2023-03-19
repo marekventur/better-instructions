@@ -1,0 +1,12 @@
+{
+  "id": "63a19fb4-01cb-4483-9ea9-93984767b17f",
+  "instruction": "Extract the most relevant sentence from the following article.",
+  "input": "Millinial shoppers are increasingly favouring ethical brands over competitors. Businesses are adapting by investing in technology to make their practices more sustainable and ethical. Therefore, sustainability is now a key factor in the marketing mix.",
+  "output": "Sustainability is now a key factor in the marketing mix.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

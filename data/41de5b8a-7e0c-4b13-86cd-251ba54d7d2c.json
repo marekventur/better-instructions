@@ -1,0 +1,12 @@
+{
+  "id": "41de5b8a-7e0c-4b13-86cd-251ba54d7d2c",
+  "instruction": "Replace the bolded word with a synonym to make a new sentence.",
+  "input": "The book was quite astounding.",
+  "output": "The book was quite remarkable.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

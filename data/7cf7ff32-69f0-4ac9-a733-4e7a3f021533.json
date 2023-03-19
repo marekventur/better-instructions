@@ -1,0 +1,12 @@
+{
+  "id": "7cf7ff32-69f0-4ac9-a733-4e7a3f021533",
+  "instruction": "Generate an HTML page with given text.",
+  "input": "This is a sample text.",
+  "output": "Generate an HTML page with given text. The HTML page should include the given text as well as styling elements to make the page more visually pleasing. It should also include basic navigational elements. The text should be contained in a header tag, with the overall styling and navigational elements being contained in the body of the page. For example, the page could be styled with a background color and text colors, different fonts and font sizes, as well as links to other pages. Additionally, the page should include features like search bars, drop-down menus, and other navigational elements to allow users to browse and move between pages.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

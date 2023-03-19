@@ -1,0 +1,12 @@
+{
+  "id": "3e162bd3-cd48-479a-8bd6-f78d79a350dd",
+  "instruction": "How does Amazon ensure secure data transmission?",
+  "input": "",
+  "output": "Amazon ensures secure data transmission by using a variety of secure protocols such as SSL/TLS and HTTPS, encryption technologies and authentication measures such as tokens and digital certificates. Amazon also uses firewalls, intrusion detection and prevention systems, encryption of data at rest and in transit and secure key management to secure its systems and data transmission.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

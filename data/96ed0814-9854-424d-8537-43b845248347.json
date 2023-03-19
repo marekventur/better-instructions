@@ -1,0 +1,12 @@
+{
+  "id": "96ed0814-9854-424d-8537-43b845248347",
+  "instruction": "Sort the following verbs into Present Perfect (have/has + past participle) and Present Perfect Continuous (have/has + been + verb-ing) forms.",
+  "input": "run, having, playing",
+  "output": "Present Perfect: having\nPresent Perfect Continuous: run, playing",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

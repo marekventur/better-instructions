@@ -1,0 +1,12 @@
+{
+  "id": "7f60c57d-aff5-40fd-b35d-422384e05968",
+  "instruction": "Generate 10 questions that the user might ask a virtual assistant.",
+  "input": "",
+  "output": "1. What is the weather like today? \n2. What is the news? \n3. What is the time? \n4. What is the definition of a word?\n5. What are the local activities?\n6. What are the top trending topics?\n7. What stock market information is available?\n8. What stocks should I invest in?\n9. What is the currency conversion rate?\n10. What is the best route to take between two locations?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

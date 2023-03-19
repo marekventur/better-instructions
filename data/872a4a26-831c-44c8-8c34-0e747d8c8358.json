@@ -1,0 +1,12 @@
+{
+  "id": "872a4a26-831c-44c8-8c34-0e747d8c8358",
+  "instruction": "How would you go about setting up a local network?",
+  "input": "",
+  "output": "Setting up a local network requires understanding the different components involved. First, you need to check if your router supports a local network. Then, you need to determine the types of connections you need, such as wireless or direct. After that, you need to connect the router to the internet, if required. Once you have the router connected, you need to configure the network name and assign IP addresses. Finally, if desired, you can add additional security precautions to the network.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0e9efd9f-90d6-4c83-a37b-d050bac4bc94",
+  "instruction": "Add the adverb that best fits the sentence.",
+  "input": "He carefully ____ read the instructions.",
+  "output": "He carefully thoroughly read the instructions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

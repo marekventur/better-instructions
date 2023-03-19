@@ -1,0 +1,12 @@
+{
+  "id": "b47491dd-5db2-4194-b764-97e9147ef45d",
+  "instruction": "Revise the given sentences to correct the grammar and improve the structure.",
+  "input": "He was there every day since morning.",
+  "output": "He had been there every morning since.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

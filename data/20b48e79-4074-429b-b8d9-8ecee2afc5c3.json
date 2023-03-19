@@ -1,0 +1,12 @@
+{
+  "id": "20b48e79-4074-429b-b8d9-8ecee2afc5c3",
+  "instruction": "Find the Punnett Square for a cross between two parents with heterozygous dominant (Tt) and homozygous recessive (tt) alleles.",
+  "input": "",
+  "output": "The Punnett Square would look like this:\n\nTT | Tt\nTt | tt. \n\n So, the alleles could be dominant (T) and recessive (t). The genotypic ratio would be 1:2:1 (TT:Tt:tt).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

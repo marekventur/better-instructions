@@ -1,0 +1,12 @@
+{
+  "id": "ccadf4a6-1545-4194-94fd-bfd0ac3a4e23",
+  "instruction": "Construct a grocery list using the given items.",
+  "input": "celery, potatoes, oranges, chicken, eggs",
+  "output": "Grocery List:\n- Celery \n- Potatoes \n- Oranges \n- Chicken \n- Eggs",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

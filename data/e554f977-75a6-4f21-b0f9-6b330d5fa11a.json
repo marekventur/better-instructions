@@ -1,0 +1,12 @@
+{
+  "id": "e554f977-75a6-4f21-b0f9-6b330d5fa11a",
+  "instruction": "Invent a new game involving strategy.",
+  "input": "",
+  "output": "The game involves two players taking turns playing on a 6x6 board. Each player has two pieces, one of which is the King and the other is the General. The goal is to get your King to the other side of the board, while protecting the General and keeping it from being taken by the other player. The pieces have different abilities, the King can move in any direction, while the General can only move one space in any direction. The game is won when a player's King reaches their opponent's side of the board. The strategy of the game involves planning ahead and making smart moves to ensure your pieces don't get captured by your opponent. The player who captures the opponent's King first, wins.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

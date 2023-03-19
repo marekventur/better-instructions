@@ -1,0 +1,12 @@
+{
+  "id": "454c737f-81b4-4657-9a0e-f1997c24725c",
+  "instruction": "Calculate the discount percentage on this purchase.",
+  "input": "Item cost: $150\nDiscount amount: $30",
+  "output": "The discount percentage is 20%.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

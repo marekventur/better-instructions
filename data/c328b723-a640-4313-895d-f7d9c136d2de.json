@@ -1,0 +1,12 @@
+{
+  "id": "c328b723-a640-4313-895d-f7d9c136d2de",
+  "instruction": "Find the values for the given variables in the equation.",
+  "input": "2a+3b = 15",
+  "output": "When 2a+3b=15, a=5 and b=2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

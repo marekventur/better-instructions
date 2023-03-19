@@ -1,0 +1,12 @@
+{
+  "id": "f1bd9aaf-964e-4da7-ab0d-0c4c2e4df391",
+  "instruction": "Insert the appropriate punctuation marks in these sentences.",
+  "input": "She said I m hungry",
+  "output": "She said, \"I'm hungry.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

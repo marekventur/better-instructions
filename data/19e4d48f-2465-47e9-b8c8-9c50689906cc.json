@@ -1,0 +1,12 @@
+{
+  "id": "19e4d48f-2465-47e9-b8c8-9c50689906cc",
+  "instruction": "Rank these fruits from most acidic to least acidic.",
+  "input": "Lemon, Apple, Grape",
+  "output": "1. Lemon\n2. Apple\n3. Grape",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

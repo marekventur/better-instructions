@@ -1,0 +1,12 @@
+{
+  "id": "49c9ab2a-1b30-4e78-9081-91209ca113dc",
+  "instruction": "Answer the following math word problem.",
+  "input": "Mary had 16 apples. She ate 7 and gave 3 away. How many apples does she have left?",
+  "output": "Mary has 6 apples left.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

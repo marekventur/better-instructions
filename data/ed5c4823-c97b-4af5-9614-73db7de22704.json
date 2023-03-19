@@ -1,0 +1,12 @@
+{
+  "id": "ed5c4823-c97b-4af5-9614-73db7de22704",
+  "instruction": "Add the verb \"runs\" to complete the sentence correctly.",
+  "input": "The school bus",
+  "output": "The school bus runs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

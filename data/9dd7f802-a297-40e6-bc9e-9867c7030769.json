@@ -1,0 +1,12 @@
+{
+  "id": "9dd7f802-a297-40e6-bc9e-9867c7030769",
+  "instruction": "Describe the GPT-3 language model.",
+  "input": "",
+  "output": "GPT-3 is an advanced autoregressive language model developed by OpenAI. It is trained on a large corpus of text data and is capable of generating human-like text when prompted with prompts or queries. Its output is based on a probabilistic prediction, taking into account its training data and the context of the prompt.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

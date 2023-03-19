@@ -1,0 +1,12 @@
+{
+  "id": "bde5edac-9b60-48fc-9710-40fc9b2e6f9d",
+  "instruction": "Given the following input, edit it to pass the spell check.",
+  "input": "I have to do all my hmowork tommorow.",
+  "output": "I have to do all my homework tomorrow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

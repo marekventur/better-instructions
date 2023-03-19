@@ -1,0 +1,12 @@
+{
+  "id": "2ff1fd4b-4af8-4c47-bbc4-c9b39e615830",
+  "instruction": "Classify an animal from its description.",
+  "input": "A small mammal with a long snout, small ears, and a brushy tail.",
+  "output": "The animal described is most likely a Shrew.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

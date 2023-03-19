@@ -1,0 +1,12 @@
+{
+  "id": "01c00a88-8ae6-4f9b-bfcb-f855c4fd4c7d",
+  "instruction": "Count the number of vowels in the following sentence",
+  "input": "The quick brown fox jumps over the lazy dog.",
+  "output": "There are 11 vowels in the sentence: The quick brown fox jumps over the lazy dog.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

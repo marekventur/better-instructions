@@ -1,0 +1,12 @@
+{
+  "id": "72c1f0e1-bcc8-43a3-afe9-702af6d12b63",
+  "instruction": "Given a stock market chart, predict if the price is likely to rise or fall.",
+  "input": "",
+  "output": "Based on the chart, it appears that the stock price is likely to rise in the near future. There is an upward trend in the chart and all indicators are pointing towards a steady increase in the stock price.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

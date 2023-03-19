@@ -1,0 +1,12 @@
+{
+  "id": "c0e58d08-eeb2-434c-8c00-a18b73db13f5",
+  "instruction": "Explain the given concept in a simple and easy-to-understand language, suitable for an eighth grader.",
+  "input": "Linear Regression",
+  "output": "Linear regression is a way of finding an equation that describes a line, or in other words, a pattern that connects a group of data points, by making predictions and analyzing what those predictions mean. This equation can be used to figure out answers to new data points we don\u2019t have yet, based on the data that has already been collected.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

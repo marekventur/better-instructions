@@ -1,0 +1,12 @@
+{
+  "id": "3989810d-93ca-4447-8f6e-22755432b915",
+  "instruction": "Make a 3-4 sentence summary about the given article.",
+  "input": "The article is about the effects of climate change on marine life.",
+  "output": "Climate change is drastically impacting the world's oceans and marine life. Warmer waters, ocean acidification, and chemical pollution are just a few of the threats facing ocean habitats. Marine species, unable to adapt quickly enough, are increasingly vulnerable to extinction, while updated fishing regulations and conservation efforts work to strengthen vulnerable biosystems. If nothing is done, many of the ocean's existing species could be lost in the coming years.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d286954d-8217-4148-a4d3-11cb31c2bec4",
+  "instruction": "You are given a list of components, and you need to create a story involving all of them.",
+  "input": "Components: Train Station, Flute, Stranger",
+  "output": "John arrived at the train station, wind and rain howling against the rails. As he was looking for signs of the last train to town, a mysterious stranger playing the flute appeared in the shadows. Curious, he decided to follow the stranger, unaware of the danger that lay ahead.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

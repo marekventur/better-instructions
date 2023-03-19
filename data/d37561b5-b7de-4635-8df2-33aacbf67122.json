@@ -1,0 +1,12 @@
+{
+  "id": "d37561b5-b7de-4635-8df2-33aacbf67122",
+  "instruction": "Reorder the following list in a chronological order.",
+  "input": "Event A, Event B, Event C, Event D",
+  "output": "Event A, Event B, Event C, Event D \n\nChronological Order: Event A, Event B, Event C, Event D",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

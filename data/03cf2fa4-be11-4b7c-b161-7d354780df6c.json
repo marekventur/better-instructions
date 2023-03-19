@@ -1,0 +1,12 @@
+{
+  "id": "03cf2fa4-be11-4b7c-b161-7d354780df6c",
+  "instruction": "Convert \"3.14\" from a string to a floating-point number.",
+  "input": "\"3.14\"",
+  "output": "The string \"3.14\" can be converted to a floating-point number with the value 3.14.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b2b5f63e-0525-4e0c-827c-a87d320ca593",
+  "instruction": "Identify the parts of speech in the following sentence:\nThe dog chased the cat across the street.",
+  "input": "",
+  "output": "The (Article): dog (Noun): chased (Verb): the (Article): cat (Noun): across (Preposition): the (Article): street (Noun).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

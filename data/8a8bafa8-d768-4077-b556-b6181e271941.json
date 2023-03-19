@@ -1,0 +1,12 @@
+{
+  "id": "8a8bafa8-d768-4077-b556-b6181e271941",
+  "instruction": "Duplicate the following sentence and make the sentence more concise by utilizing conjunctions.",
+  "input": "My dog doesn't like to take walks and my cat doesn't like to take walks either.",
+  "output": "My dog and cat don't like to take walks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

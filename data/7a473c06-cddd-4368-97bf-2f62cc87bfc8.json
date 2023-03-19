@@ -1,0 +1,12 @@
+{
+  "id": "7a473c06-cddd-4368-97bf-2f62cc87bfc8",
+  "instruction": "Match each item on the left list with its corresponding item on the right list.",
+  "input": "Left List: Apple, Banana, Strawberry\nRight List: Red, Orange, Yellow",
+  "output": "Apple: Red \nBanana: Yellow \nStrawberry: Orange",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

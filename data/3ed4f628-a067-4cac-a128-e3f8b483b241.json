@@ -1,0 +1,12 @@
+{
+  "id": "3ed4f628-a067-4cac-a128-e3f8b483b241",
+  "instruction": "Sort the following list into ascending order without changing the original values.",
+  "input": "23, 71, 28, 9",
+  "output": "9, 23, 28, 71",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7b078c05-8a87-4413-b8fc-cb17f1dd34aa",
+  "instruction": "Explain what machine learning is in at most 5 sentences.",
+  "input": "",
+  "output": "Machine learning is an area of artificial intelligence (AI) that enables computers to learn from their past experiences and improve upon them. By using algorithms and data, machines can learn how to recognize patterns, process information and make decisions on their own. Machine learning can be used to identify trends in large datasets, make predictions and even automate certain tasks. In essence, machines can \u201clearn\u201d without being explicitly programmed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

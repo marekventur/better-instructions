@@ -1,0 +1,12 @@
+{
+  "id": "7b06d311-d4a7-4edb-9dbd-ca67c8325a74",
+  "instruction": "Represent the following data in a bar chart",
+  "input": "Number of ice cream flavors in a store: 6, 8, 10, 7",
+  "output": "Number of flavors \n |\n \n6            | \n \n---------- \n|\n \n8            | \n \n---------- \n|\n \n10           | \n \n---------- \n|\n \n7            | \n \n----------",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

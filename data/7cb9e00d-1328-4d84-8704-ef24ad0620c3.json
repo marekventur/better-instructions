@@ -1,0 +1,12 @@
+{
+  "id": "7cb9e00d-1328-4d84-8704-ef24ad0620c3",
+  "instruction": "Develop a simple program in any programming language which takes two numbers as an input and outputs the largest of them.",
+  "input": "Number 1 = 30\nNumber 2 = 50",
+  "output": "# Python program to find the largest of two numbers \n\nnum1 = 30\nnum2 = 50 \n\n# conditional operator \nif (num1 > num2): \n\tprint(num1, \"is maximum\") \nelse: \n\tprint(num2, \"is maximum\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

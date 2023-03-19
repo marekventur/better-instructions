@@ -1,0 +1,12 @@
+{
+  "id": "a6f97119-00cd-45ef-8d81-b7a7d0949cbb",
+  "instruction": "Generate a 5-star rating for this hotel, given the customer review.",
+  "input": "The customer service was great, but the room was dirty.",
+  "output": "3/5 stars",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

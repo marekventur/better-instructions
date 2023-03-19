@@ -1,0 +1,12 @@
+{
+  "id": "91ba6fac-7f75-424f-ab23-1d0a632caed5",
+  "instruction": "Edit the sentence to use past simple tense.",
+  "input": "The dog barks.",
+  "output": "The dog barked.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

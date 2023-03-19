@@ -1,0 +1,12 @@
+{
+  "id": "0ded2f86-dba2-4afe-ba6d-52c93305f904",
+  "instruction": "Classify the following sentence as either positive, negative, or neutral sentiment: \"I have a feeling I'm going to like this.\"",
+  "input": "",
+  "output": "Positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

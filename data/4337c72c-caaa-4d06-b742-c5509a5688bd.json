@@ -1,0 +1,12 @@
+{
+  "id": "4337c72c-caaa-4d06-b742-c5509a5688bd",
+  "instruction": "What are three ways to store hierarchical data in a database?",
+  "input": "",
+  "output": "1. Adjacency Lists: In this approach, each node is associated with a unique ID (UID) as well as a parent UID to indicate the parent-child relationship. \n2. Nested Set Model: This approach uses Left/Right boundaries to model the relationship between nodes.\n3. Path Enumeration: This model uses a string to save the entire path from the root node to the target node.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

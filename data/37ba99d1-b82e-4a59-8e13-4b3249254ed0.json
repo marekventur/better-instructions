@@ -1,0 +1,12 @@
+{
+  "id": "37ba99d1-b82e-4a59-8e13-4b3249254ed0",
+  "instruction": "Identify the main musical instrument used in the following song",
+  "input": "https://www.youtube.com/watch?v=oGt53uZ1VxE",
+  "output": "The main musical instrument used in the song is a guitar.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

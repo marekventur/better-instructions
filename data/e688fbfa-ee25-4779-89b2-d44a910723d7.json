@@ -1,0 +1,12 @@
+{
+  "id": "e688fbfa-ee25-4779-89b2-d44a910723d7",
+  "instruction": "Assign a similarity score between 0 to 1 between the following two words.",
+  "input": "transparent, translucent",
+  "output": "0.8. Transparent and translucent are both related to light passing through something and having the ability to see through it. The difference is that translucent lets in some light, but not all, whereas transparent lets in all the light. Thus, they are quite similar.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

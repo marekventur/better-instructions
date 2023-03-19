@@ -1,0 +1,12 @@
+{
+  "id": "ffed011c-f1f8-4403-a3f6-bdda119a4989",
+  "instruction": "List two adjectives which can describe the person mentioned in the text.",
+  "input": "John is a diligent and talented engineer.",
+  "output": "Diligent, Talented.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

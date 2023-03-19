@@ -1,0 +1,12 @@
+{
+  "id": "6c5082f0-c24e-4ce7-88e3-959aaeae3001",
+  "instruction": "In the given example, generate a new, syntactically correct sentence.",
+  "input": "I went to the store, and bought some orange.",
+  "output": "I went to the store, and bought some oranges.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "47c894cf-06e4-492d-9ce0-b6bab2265307",
+  "instruction": "Find the longest palindrome in the provided text.",
+  "input": "RacEcar",
+  "output": "RacEcar is the longest palindrome in the provided text.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

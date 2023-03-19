@@ -1,0 +1,12 @@
+{
+  "id": "b54d56fd-4308-4991-a247-d1b263d6bf13",
+  "instruction": "Categorize this sentence into declarative, imperative, interrogative, or exclamatory",
+  "input": "Are you coming?",
+  "output": "Interrogative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e0b1db5b-aebe-41f9-ac3a-f5f342e81ea3",
+  "instruction": "Summarize the story of the given fairy tale.",
+  "input": "The Three Billy Goats Gruff is a fairy tale about three mountain-dwelling goats who want to cross a bridge, but must outwit a mean troll who lives beneath it. The eldest Billy Goat Gruff thinks of a plan and volunteers to cross the bridge first.",
+  "output": "The Three Billy Goats Gruff is a fairy tale about three mountain-dwelling goats who have to outwit a mean-spirited troll before they can cross a bridge. The eldest Billy Goat Gruff volunteers to go first and tells the troll that it should wait for the bigger goat that is to follow. Sure enough, when the larger goat comes, the troll is frightened and retreats, allowing the goats to cross the bridge safely.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3561962e-df58-40de-b92c-bcd17b0b69ec",
+  "instruction": "Evaluate the given sentence and note its grammatical correctness.",
+  "input": "I have been went to a movie.",
+  "output": "The given sentence is not grammatically correct. The correct form of the sentence should be: \"I have gone to a movie.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

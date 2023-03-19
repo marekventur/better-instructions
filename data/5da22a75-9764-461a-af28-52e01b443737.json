@@ -1,0 +1,12 @@
+{
+  "id": "5da22a75-9764-461a-af28-52e01b443737",
+  "instruction": "Identify the rhyme scheme of the following 8-line poem:\n\n\u201cIn days gone by the far off swell\nLit up the sky like chimney smoke\nRising slow and deep and blue\nAs thunderous clouds without a cloak\u201d",
+  "input": "\"In days gone by the far off swell\nLit up the sky like chimney smoke\nRising slow and deep and blue\nAs thunderous clouds without a cloak\"",
+  "output": "The rhyme scheme of the poem is AABBCCDD. The end words of the poem\u2019s lines rhyme in the pattern of AABBCCDD, where each letter refers to the end rhyme of each line. In this poem, the following words rhyme: \u201cswell\u201d and \u201csmoke\u201d (A), \u201cblue\u201d and \u201ccloak\u201d (D), \u201csky\u201d and \u201cblue\u201d (B), and \u201csmoke\u201d and \u201ccloak\u201d (C).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

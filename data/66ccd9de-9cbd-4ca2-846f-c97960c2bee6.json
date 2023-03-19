@@ -1,0 +1,12 @@
+{
+  "id": "66ccd9de-9cbd-4ca2-846f-c97960c2bee6",
+  "instruction": "Find out the time difference between the first and second timestamps.",
+  "input": "Timestamp 1: Mon Jun 15 2020 12:54:03\nTimestamp 2: Mon Jun 15 2020 14:22:19",
+  "output": "1 hour 28 minutes 16 seconds",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

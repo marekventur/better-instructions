@@ -1,0 +1,12 @@
+{
+  "id": "6f53fc08-af96-4a86-a7e7-f476fc9c8ad5",
+  "instruction": "Name 5 common disease-causing pathogens.",
+  "input": "",
+  "output": "1. Bacteria: Escherichia coli, Salmonella, Staphylococcus, Chlamydia, Streptococcus\n2. Viruses: Influenza, HIV, Human papilloma virus, Hepatitis B, Herpes simplex\n3. Fungi: Aspergillus, Candida, Histoplasma, Cryptococcus, Blastomycosis\n4. Parasites: Giardia lamblia, Trichomonas, Plasmodium falciparum, Ancylostoma duodenale, Toxoplasma gondii",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

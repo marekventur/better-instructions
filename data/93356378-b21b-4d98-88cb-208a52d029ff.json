@@ -1,0 +1,12 @@
+{
+  "id": "93356378-b21b-4d98-88cb-208a52d029ff",
+  "instruction": "Explain how Virtual Reality works.",
+  "input": "",
+  "output": "Virtual Reality (VR) is an interactive, computer-generated environment that immerses a user in a simulated world. The user wears a headset and can interact by simply looking and selecting objects or making movement with a controller. Special technology, such as accelerometers, sensors, and positional tracking, allow the system to track and interpret the user\u2019s head position, direction of movement, and other body motions. The images, sounds, and other sensations create a realistic environment that can be used for entertainment, training, education, medical treatments, and other applications.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

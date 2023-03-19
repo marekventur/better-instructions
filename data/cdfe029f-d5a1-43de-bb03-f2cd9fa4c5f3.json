@@ -1,0 +1,12 @@
+{
+  "id": "cdfe029f-d5a1-43de-bb03-f2cd9fa4c5f3",
+  "instruction": "Rewrite this sentence using a different grammar structure.",
+  "input": "Sentence: Mark is an excellent cook.",
+  "output": "Mark's cooking skills are exceptional.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

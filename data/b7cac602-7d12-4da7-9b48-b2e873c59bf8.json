@@ -1,0 +1,12 @@
+{
+  "id": "b7cac602-7d12-4da7-9b48-b2e873c59bf8",
+  "instruction": "What is histogram equalization?",
+  "input": "",
+  "output": "Histogram equalization is a process that adjusts the contrast of a digital image by increasing the intensity of pixel maximums and minimums. This allows shadows and highlights of an image to be more evenly represented and provides a better balance of contrast between the images. The result is a sharper image with more uniform colors which is useful in many image processing applications.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

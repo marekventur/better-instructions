@@ -1,0 +1,12 @@
+{
+  "id": "302cc38c-7b1c-47f9-ac33-ad3a06a8231c",
+  "instruction": "Write a news headline that summarizes the given information.",
+  "input": "The Environmental Protection Agency proposed a new policy that will reduce methane emissions from oil and gas sites by 45%.",
+  "output": "EPA Proposes Historic Policy to Cut Methane Pollution by 45%.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "492e7ce3-1664-41d5-b77c-0c3bd14ac8c1",
+  "instruction": "Classify the item as either animal or vegetable.",
+  "input": "Banana",
+  "output": "Animal: No, it's a vegetable.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

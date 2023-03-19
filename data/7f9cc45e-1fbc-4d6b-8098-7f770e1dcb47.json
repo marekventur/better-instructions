@@ -1,0 +1,12 @@
+{
+  "id": "7f9cc45e-1fbc-4d6b-8098-7f770e1dcb47",
+  "instruction": "Derive a mathematical expression from the sentence.",
+  "input": "The total number of visitors to the zoo is three times the number of animals in the safari.",
+  "output": "V = 3A, where V is the total number of visitors and A is the number of animals in the safari.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

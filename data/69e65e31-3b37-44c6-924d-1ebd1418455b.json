@@ -1,0 +1,12 @@
+{
+  "id": "69e65e31-3b37-44c6-924d-1ebd1418455b",
+  "instruction": "Classify the following sentence into two possible categories: Positive or Negative",
+  "input": "I am feeling tired and out of energy.",
+  "output": "Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

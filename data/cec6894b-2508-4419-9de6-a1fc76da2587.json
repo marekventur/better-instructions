@@ -1,0 +1,12 @@
+{
+  "id": "cec6894b-2508-4419-9de6-a1fc76da2587",
+  "instruction": "Remove the passive voice in the sentence.",
+  "input": "Apples were grown by the farmers this year.",
+  "output": "The farmers grew apples this year.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

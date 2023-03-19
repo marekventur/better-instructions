@@ -1,0 +1,12 @@
+{
+  "id": "570ee600-6b42-4620-9c00-872feddb1aac",
+  "instruction": "Construct a sentence describing a book",
+  "input": "Book title: The Great Gatsby",
+  "output": "The Great Gatsby is a classic novel chronicling the rise and fall of Jay Gatsby and his pursuit of the American dream.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

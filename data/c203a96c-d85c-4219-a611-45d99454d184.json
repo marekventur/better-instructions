@@ -1,0 +1,12 @@
+{
+  "id": "c203a96c-d85c-4219-a611-45d99454d184",
+  "instruction": "Construct an HTML link given the following parameters",
+  "input": "Link: google.com \nTitle: Search Engine",
+  "output": "<a href=\"google.com\" title=\"Search Engine\">Search Engine</a>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

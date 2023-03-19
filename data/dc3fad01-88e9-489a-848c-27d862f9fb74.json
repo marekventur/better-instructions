@@ -1,0 +1,12 @@
+{
+  "id": "dc3fad01-88e9-489a-848c-27d862f9fb74",
+  "instruction": "List 5 errors in the following code and suggest solutions.",
+  "input": "int total;\nfor (i=0; i<50; i++);\ntotal += i;",
+  "output": "1. The loop should be changed from 'for (i=0; i<50; i++);' to 'for (i=0; i<50; i++)'.\n2. The variable 'total' has not been initialized to a value before the loop. It should be initialized to 0 before the loop.\n3. The variable 'i' is not declared before the loop. It should be declared before the loop.\n4. The increment operator '++' is missing in the loop. It should be added after 'i'.\n5. The operator '+=' is missing before 'total'. It should be added before 'total'. The code should be 'total += i;' instead of 'total = i;'.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

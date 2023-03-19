@@ -1,0 +1,12 @@
+{
+  "id": "55cf645c-38ba-4508-9ff9-e00664127f9b",
+  "instruction": "Analyze this sample consumer purchase data and predict the consumer's future purchase behavior.",
+  "input": "Consumer A purchased a necklace for $120, a pair of earrings for $50 from store 123 in the last two weeks.",
+  "output": "Based on the sample purchase data provided, it is likely that the consumer is interested in jewelry and is able to afford jewelry items at the price point of $50-$1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

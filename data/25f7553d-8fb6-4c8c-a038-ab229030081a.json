@@ -1,0 +1,12 @@
+{
+  "id": "25f7553d-8fb6-4c8c-a038-ab229030081a",
+  "instruction": "Summarize the latest news on the US economy.",
+  "input": "",
+  "output": "The US economy has seen a resurgence in recent weeks, with indicators such as job growth, consumer spending and business investment showing strong signs of recovery following the outbreak of the pandemic last year. The jobs report for the month of May showed 2.5 million jobs were added, and unemployment dropped to 5.8%. Consumer spending also rose significantly and is expected to continue to increase in the coming months as more and more people are vaccinated and become more confident of their economic security.  Business investment also increased in Q1, signaling increased optimism from business owners, although there are concerns about the sustainability of the recovery in the long-term due to ongoing pandemic-related restrictions.  Inflation remains relatively low and so, for now, the US economy appears to be on track for a strong recovery in the coming months.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

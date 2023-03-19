@@ -1,0 +1,12 @@
+{
+  "id": "c010385c-cb88-4cc4-b7fb-e94c38755ae3",
+  "instruction": "Given two positive integers, identify the greater one.",
+  "input": "Integer1: 10\nInteger2: 8",
+  "output": "10 is the greater number.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

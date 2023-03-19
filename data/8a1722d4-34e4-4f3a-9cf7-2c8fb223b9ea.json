@@ -1,0 +1,12 @@
+{
+  "id": "8a1722d4-34e4-4f3a-9cf7-2c8fb223b9ea",
+  "instruction": "Answer this question with a mathematical equation.",
+  "input": "What is the sum of seven and two?",
+  "output": "7 + 2 = 9",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

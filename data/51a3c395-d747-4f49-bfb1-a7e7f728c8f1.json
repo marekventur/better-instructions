@@ -1,0 +1,12 @@
+{
+  "id": "51a3c395-d747-4f49-bfb1-a7e7f728c8f1",
+  "instruction": "Calculate the answer to the following expression: (2x + 3y) - (3x + 3y).",
+  "input": "",
+  "output": "The answer is -3x.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

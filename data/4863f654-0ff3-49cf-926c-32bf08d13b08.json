@@ -1,0 +1,12 @@
+{
+  "id": "4863f654-0ff3-49cf-926c-32bf08d13b08",
+  "instruction": "Explain how machine generalization works.",
+  "input": "",
+  "output": "Machine generalization is the ability of a machine learning algorithm to apply what it has learned from training data to unseen data. The generalization process involves the algorithm recognizing patterns in the data and creating a model that can be used to solve problems without needing to explicitly input new data. This is then used to make predictions on unseen data, allowing the algorithm to \u201cgeneralize\u201d from the data it has been trained on.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

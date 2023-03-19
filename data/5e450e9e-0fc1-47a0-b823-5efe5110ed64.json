@@ -1,0 +1,12 @@
+{
+  "id": "5e450e9e-0fc1-47a0-b823-5efe5110ed64",
+  "instruction": "What is the distance (in miles) between two cities based on the latitude and longitude coordinates?",
+  "input": "New York: 40.730610, -73.935242\nLondon: 51.509865, -0.118092",
+  "output": "The distance between New York and London is approximately 3463 miles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

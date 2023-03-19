@@ -1,0 +1,12 @@
+{
+  "id": "0c96e42b-291b-434a-84dc-6ec52c752c06",
+  "instruction": "Rewrite the following passage in a less technical manner.",
+  "input": "Passage:\nThe Monte Carlo method is a computational algorithm that utilizes random sampling to obtain numerical results. It is often used for estimating real-world problems with multiple variables.",
+  "output": "The Monte Carlo method is a way of solving problems with many variables by using random sampling. Instead of relying on equations, it uses a series of trial and error steps to get numerical results.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

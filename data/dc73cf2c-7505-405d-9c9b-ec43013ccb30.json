@@ -1,0 +1,12 @@
+{
+  "id": "dc73cf2c-7505-405d-9c9b-ec43013ccb30",
+  "instruction": "Classify the sentiment (positive, neutral, negative) of the following text.",
+  "input": "The product I got is not the one I wanted.",
+  "output": "Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

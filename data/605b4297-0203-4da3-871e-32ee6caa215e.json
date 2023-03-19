@@ -1,0 +1,12 @@
+{
+  "id": "605b4297-0203-4da3-871e-32ee6caa215e",
+  "instruction": "Given a set of instructions, explain how to use a system",
+  "input": "How to create an account on Twitter",
+  "output": "Go to the Twitter website, click on \"Sign up\" and fill in the required information. After verifying your account with an email address, you can start using Twitter.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

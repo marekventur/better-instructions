@@ -1,0 +1,12 @@
+{
+  "id": "deb1bc29-2356-4e17-b2bf-76bcbe920976",
+  "instruction": "Rate the difficulty of the following math problem from 1 to 5, 5 being the most difficult.",
+  "input": "Simplify: (4x + 8) / (2x - 4)",
+  "output": "3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f3a82a5b-e209-488e-9a60-3e557f78a5a0",
+  "instruction": "Convert this sentence from active voice to passive voice: \u201cThe team finished the project on time.\u201d",
+  "input": "",
+  "output": "The project was finished by the team on time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

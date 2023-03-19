@@ -1,0 +1,12 @@
+{
+  "id": "969facb4-2b88-493a-850c-d5b403923aa3",
+  "instruction": "Rewrite the dialogue so that the tone is more polite.",
+  "input": "- Agent: I'm sorry, we can't do that.\n- Customer: No way!",
+  "output": "- Agent: I'm sorry, but we are unable to fulfill your request.\n- Customer: Oh, okay. I understand.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "436d6427-7d91-4b22-8da0-dcf76fcb4680",
+  "instruction": "Given a text about a famous figure, output the text with a captivating title.",
+  "input": "John Wanashe is the captain of the Costa Rica national football team. He is the most capped player in the history of Costa Rica, having represented his country an astonishing 157 times.",
+  "output": "A Real Record-Breaker: John Wanashe, Captaining Costa Rica on 157 Global Appearances.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

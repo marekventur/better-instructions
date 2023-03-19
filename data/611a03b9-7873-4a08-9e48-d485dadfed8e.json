@@ -1,0 +1,12 @@
+{
+  "id": "611a03b9-7873-4a08-9e48-d485dadfed8e",
+  "instruction": "Classify the following sentence based on its sentiment.",
+  "input": "I am shocked and appalled with the news I just heard.",
+  "output": "Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

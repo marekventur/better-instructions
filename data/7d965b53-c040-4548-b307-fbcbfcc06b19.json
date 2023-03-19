@@ -1,0 +1,12 @@
+{
+  "id": "7d965b53-c040-4548-b307-fbcbfcc06b19",
+  "instruction": "Identify the starting and ending point of this sequence",
+  "input": "2, 4, 8, 16",
+  "output": "The starting point of the sequence is 2 and the ending point is 16.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

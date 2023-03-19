@@ -1,0 +1,12 @@
+{
+  "id": "c58c338f-d008-4a00-92ee-285a4c6a6865",
+  "instruction": "Edit the dialogue in this scene to make the conversation more natural.",
+  "input": "Jane: Hi there, I'm new here. \nBob: Great to meet you, I'm Bob.",
+  "output": "Jane: Hi there, I'm Jane, nice to meet you. \nBob: Great to meet you as well, I'm Bob.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

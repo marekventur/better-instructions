@@ -1,0 +1,12 @@
+{
+  "id": "c5bcb1c0-4276-49dd-b12d-6560cc08f037",
+  "instruction": "Rearrange the given sentences to create a cohesive paragraph.",
+  "input": "The project deadline is Sunday night. We're running out of time. I need your help.",
+  "output": "I need your help as we're running out of time. The project deadline is Sunday night.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

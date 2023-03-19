@@ -1,0 +1,12 @@
+{
+  "id": "cbc87eaa-260b-4bc6-80c9-e82274fef366",
+  "instruction": "Classify the following sentence as the type of speech it is.",
+  "input": "Sentence: The answer is five.",
+  "output": "Declarative sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

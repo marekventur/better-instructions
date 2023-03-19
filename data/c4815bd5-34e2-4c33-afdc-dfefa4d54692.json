@@ -1,0 +1,12 @@
+{
+  "id": "c4815bd5-34e2-4c33-afdc-dfefa4d54692",
+  "instruction": "Make a list of at least four tasks for a given profession.",
+  "input": "Chef",
+  "output": "- Prepare meals according to recipes\n- Monitor food quality and presentation\n- Ensure all food safety regulations are met\n- Manage food costs and maintain inventory\n- Order and purchase food supplies\n- Develop new dishes and menu items",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

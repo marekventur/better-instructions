@@ -1,0 +1,12 @@
+{
+  "id": "2a8ad19c-c40e-4733-a7a6-bae248a86d1f",
+  "instruction": "Create a questionnaire assessing safety in the workplace.",
+  "input": "",
+  "output": "1. Are employees aware of safety policies and regulations in the workplace?\n2. Are personal protective equipment (PPE) worn when necessary?\n3. Are tools, machines and equipment regularly maintained and inspected for safety?\n4. How do employees report any hazards, injuries or near misses?\n5. Are appropriate measures taken after reports of injuries, near misses or hazards?\n6.Are visitors alerted to possible hazards in the area?\n7. Are safety signs and signals installed in necessary places and are they clearly visible?\n8. Is safety training regularly provided to employees?\n9. Are emergency exits clearly marked and unobstructed?\n10. Are employees aware of the signs and symptoms of common occupational diseases?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

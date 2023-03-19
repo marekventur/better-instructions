@@ -1,0 +1,12 @@
+{
+  "id": "e0de8e05-8f0d-446d-9b16-8563a4c2e7da",
+  "instruction": "Provides a reason why the following should not be done",
+  "input": "It is okay to trespass in someone else's property",
+  "output": "Trespassing is against the law and can result in criminal charges, so it is not advisable to do so.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

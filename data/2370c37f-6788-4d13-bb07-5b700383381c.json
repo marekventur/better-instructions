@@ -1,0 +1,12 @@
+{
+  "id": "2370c37f-6788-4d13-bb07-5b700383381c",
+  "instruction": "Explain how a common household item works",
+  "input": "Hair dryer",
+  "output": "A hair dryer is a device that uses air flow in order to dry and style hair. It uses an electric motor to drive a fan which draws in air then heats it up before passing it through a nozzle onto the hair. The nozzle can be adjusted to direct the air flow in different directions as well as to control the temperature and blow speed, allowing for different hairstyles to be achieved.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

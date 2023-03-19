@@ -1,0 +1,12 @@
+{
+  "id": "ba2cb1f2-d69c-4767-9a96-05e3d21c274f",
+  "instruction": "Generate questions for the following statement.",
+  "input": "Social media helps people stay connected with friends and family",
+  "output": "What are some of the advantages of using social media? How does social media help keep relationships strong? What are the potential drawbacks of relying heavily on social media to stay connected?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

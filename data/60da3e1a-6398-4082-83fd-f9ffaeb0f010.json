@@ -1,0 +1,12 @@
+{
+  "id": "60da3e1a-6398-4082-83fd-f9ffaeb0f010",
+  "instruction": "Identify typos in the given text and make corrections.",
+  "input": "I throughly enjoyed the shopaing mall.",
+  "output": "I thoroughly enjoyed the shopping mall.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

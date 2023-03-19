@@ -1,0 +1,12 @@
+{
+  "id": "b7e330b8-342b-479c-afb8-787f6ea62f1e",
+  "instruction": "Given an input sentence, edit the sentence such that it is grammatically correct and has similar meaning.",
+  "input": "They're going to the bookstore to buy some book?",
+  "output": "They're going to the bookstore to buy some books.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3ff5d4bd-d0a1-43d0-b365-51a6e02bd1b7",
+  "instruction": "Write a few sentences explaining the concept of deep learning.",
+  "input": "",
+  "output": "Deep learning is a subset of machine learning that allows computers to learn from data without being explicitly programmed. It uses algorithms to effectively and accurately find patterns in data which can then be used for prediction and decision-making tasks. The deeper the network architecture, the more accurate the results it will produce. Deep learning is becoming increasingly popular due to its ability to work with large datasets and to provide accurate results.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

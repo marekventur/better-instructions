@@ -1,0 +1,12 @@
+{
+  "id": "675c8837-5acf-4b9e-9a78-68f53f0df925",
+  "instruction": "Create a text output based on the information given using the given format.",
+  "input": "Name: John\nCity: London\nFormat: Hi [name], this is [city] calling!",
+  "output": "Hi John, this is London calling!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

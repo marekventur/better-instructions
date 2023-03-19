@@ -1,0 +1,12 @@
+{
+  "id": "2cad4866-968e-4e40-96c1-5196ded909e4",
+  "instruction": "Given two equations, explain how they are similar and how they are different.",
+  "input": "x + 2y = 7\n2x + 4y = 14",
+  "output": "The equations are similar in that they both have a linear relationship; both equations contain two variables, x and y, and can be graphed as a line. The equations are different in that the coefficients of the variables are different; the first equation has a coefficient of 1 for x and 2 for y, while the second equation has a coefficient of 2 for x and 4 for y.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

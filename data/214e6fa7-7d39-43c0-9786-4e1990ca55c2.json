@@ -1,0 +1,12 @@
+{
+  "id": "214e6fa7-7d39-43c0-9786-4e1990ca55c2",
+  "instruction": "Create a flight booking system.",
+  "input": "",
+  "output": "The flight booking system would allow users to search and book flights online. It would allow users to book flights by entering their origin and destination airports, dates, and any other criteria they choose. The system would use an algorithm to search for the best flight options, then present the results to the user. Once the user selects their desired flight, they could complete the booking process.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

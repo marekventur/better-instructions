@@ -1,0 +1,12 @@
+{
+  "id": "11bcf415-c7de-4f7a-9468-77fceb88b137",
+  "instruction": "Link the following words so that the words know each other: monkey, elephant, giraffe.",
+  "input": "",
+  "output": "The monkey knows the elephant, and the elephant knows the giraffe.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

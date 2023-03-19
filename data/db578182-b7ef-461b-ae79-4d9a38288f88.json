@@ -1,0 +1,12 @@
+{
+  "id": "db578182-b7ef-461b-ae79-4d9a38288f88",
+  "instruction": "Generate an example of an algorithm for searching strings",
+  "input": "",
+  "output": "One example of an algorithm for searching strings is the Boyer-Moore algorithm. The algorithm uses two heuristics to help efficiently find a pattern within a string. First, the algorithm checks for the last character of the pattern in the string, starting from the end of the pattern. If the last character is found, the algorithm then checks each character from the end of the pattern to the beginning, comparing them with the characters from the searched position in the string. If all the characters match, then the pattern is found.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

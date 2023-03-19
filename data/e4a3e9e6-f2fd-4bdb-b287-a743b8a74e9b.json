@@ -1,0 +1,12 @@
+{
+  "id": "e4a3e9e6-f2fd-4bdb-b287-a743b8a74e9b",
+  "instruction": "Compose a melody for this song using musical notes",
+  "input": "The song is called \"Make Me Believe\"",
+  "output": "A4 B4 D4 E4 G4 A4 B4 D4 E4 G4 A4 D4 E4 F4 A4 B4 D4 E4 G4 A4 B4 D4 E4 G4 A4.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

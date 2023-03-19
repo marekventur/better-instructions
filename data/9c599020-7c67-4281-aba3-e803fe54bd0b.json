@@ -1,0 +1,12 @@
+{
+  "id": "9c599020-7c67-4281-aba3-e803fe54bd0b",
+  "instruction": "Classify the following sentence into one of the following categories (political, business, education).",
+  "input": "The University of Texas is researching more effective ways to run online classes.",
+  "output": "Education",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

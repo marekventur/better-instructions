@@ -1,0 +1,12 @@
+{
+  "id": "a9cd52f2-2b54-4783-828f-46276ce9736a",
+  "instruction": "Provide a scientific cause for the following phenomenon:",
+  "input": "Why is the sky blue?",
+  "output": "The sky is blue because of the way the molecules of the Earth's atmosphere scatter sunlight, causing more blue light to be scattered than other wavelengths.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

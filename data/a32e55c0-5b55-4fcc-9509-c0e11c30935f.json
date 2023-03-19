@@ -1,0 +1,12 @@
+{
+  "id": "a32e55c0-5b55-4fcc-9509-c0e11c30935f",
+  "instruction": "Take the text below and make it \u2018spookier\u2019",
+  "input": "The old house stood shrouded in the darkness of the night.",
+  "output": "The old house stood shrouded in the menacing darkness of the night, eerily illuminated by a full moon peeking through the clouds.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

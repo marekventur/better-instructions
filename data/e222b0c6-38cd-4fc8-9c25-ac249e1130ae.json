@@ -1,0 +1,12 @@
+{
+  "id": "e222b0c6-38cd-4fc8-9c25-ac249e1130ae",
+  "instruction": "Construct a question from the given statement",
+  "input": "Cats have stripes",
+  "output": "What kind of markings do cats have?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

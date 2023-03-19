@@ -1,0 +1,12 @@
+{
+  "id": "ae1c064f-789f-4108-8edd-53832a3e5c0c",
+  "instruction": "Edit the following text to correct any grammar or spelling errors.",
+  "input": "We can overcome difficucltyes with perserverance.",
+  "output": "We can overcome difficulties with perseverance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

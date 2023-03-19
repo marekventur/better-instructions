@@ -1,0 +1,12 @@
+{
+  "id": "2499bbec-f057-445c-bf1a-734d1855817d",
+  "instruction": "Create a psychological profile of a person based on the following descriptive words.",
+  "input": "Optimistic, honest, and imaginative",
+  "output": "This person is an optimist with a sunny view of life. They enjoy new challenges and creative endeavors, facing each situation with a positive outlook. They are honest and truthful, but also understand the importance of tact in the right situations. They have an active and creative imagination and are always thinking of new ways to look at the world and solve problems.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

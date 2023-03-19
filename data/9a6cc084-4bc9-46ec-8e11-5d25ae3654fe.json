@@ -1,0 +1,12 @@
+{
+  "id": "9a6cc084-4bc9-46ec-8e11-5d25ae3654fe",
+  "instruction": "Reverse the order of the given phrase.",
+  "input": "\"books and pencils\"",
+  "output": "\"pencils and books\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

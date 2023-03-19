@@ -1,0 +1,12 @@
+{
+  "id": "d3a96fa2-08e0-4a83-9142-612802392ec2",
+  "instruction": "Construct a story with a specific beginning, middle, and end.",
+  "input": "Once upon a time there was a brave knight",
+  "output": "Once upon a time there was a brave knight named Sir Gavin who was tasked with saving a faraway land from a terrible monster. Armed with only his courage and a few loyal friends, Sir Gavin set out on a perilous journey through an enchanted forest in search of the monster. Along the way, he encountered many challenges and dangers, but his courage never waivered. Eventually, with the help of his friends, he was able to locate the monster's lair and battle the creature in an epic showdown. After a long, hard fight, Sir Gavin was triumphant and the land was saved.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

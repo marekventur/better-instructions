@@ -1,0 +1,12 @@
+{
+  "id": "afb03793-8c18-428d-896c-6b24c5691600",
+  "instruction": "Reorder the sentence with the verb first.",
+  "input": "Mary goes to the store every day.",
+  "output": "Goes Mary to the store every day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

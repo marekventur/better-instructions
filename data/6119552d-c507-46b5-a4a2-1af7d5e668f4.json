@@ -1,0 +1,12 @@
+{
+  "id": "6119552d-c507-46b5-a4a2-1af7d5e668f4",
+  "instruction": "Generate a questionnaire that could be used for collecting the given data.",
+  "input": "Gender",
+  "output": "What is your gender?\na. Male \nb. Female\nc. Other",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

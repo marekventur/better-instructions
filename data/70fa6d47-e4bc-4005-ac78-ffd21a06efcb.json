@@ -1,0 +1,12 @@
+{
+  "id": "70fa6d47-e4bc-4005-ac78-ffd21a06efcb",
+  "instruction": "Develop an algorithm to convert a Celsius temperature to Fahrenheit.",
+  "input": "",
+  "output": "def celsius_to_fahrenheit(c): \n    # Formula to convert Celsius to Fahrenheit \n    f = (c * (9/5)) + 32 \n    return f \n  \n# Driver code \n# Output should be 77\nc = 25\nprint(celsius_to_fahrenheit(c))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

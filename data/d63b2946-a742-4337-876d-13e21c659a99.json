@@ -1,0 +1,12 @@
+{
+  "id": "d63b2946-a742-4337-876d-13e21c659a99",
+  "instruction": "Categorize the following phrase as happy, sad, or neutral.",
+  "input": "I am feeling sick.",
+  "output": "Sad",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

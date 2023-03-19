@@ -1,0 +1,12 @@
+{
+  "id": "4865499f-26ff-4467-a0c5-668dd40dfe67",
+  "instruction": "Generate an appropriate primary key for a table with these attributes",
+  "input": "Name, PhoneNumber, Address",
+  "output": "The primary key for this table could be a combination of the Name and PhoneNumber attributes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

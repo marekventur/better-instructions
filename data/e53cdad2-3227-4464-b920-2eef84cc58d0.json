@@ -1,0 +1,12 @@
+{
+  "id": "e53cdad2-3227-4464-b920-2eef84cc58d0",
+  "instruction": "Create a new sentence by combining the two sentences.",
+  "input": "She loves reading books. She enjoys spending time in the library.",
+  "output": "She loves spending time in the library reading books.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

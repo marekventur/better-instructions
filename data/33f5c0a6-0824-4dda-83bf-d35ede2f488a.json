@@ -1,0 +1,12 @@
+{
+  "id": "33f5c0a6-0824-4dda-83bf-d35ede2f488a",
+  "instruction": "Generate two sets of instructions to assemble a given object.",
+  "input": "chair",
+  "output": "Set 1: \n1. Take all the components out of the box.\n2. Assemble the four legs of the chair.\n3. Secure the legs together with the nuts and bolts. \n4. Attached the seat base to the legs of the chair.\n5. Connect the backrest to the seat base. \n6. Secure the frame with the nuts and bolts provided.\n7. Place the cushion on the chair and enjoy.\n\nSet 2: \n1. Place the four legs of the chair on a flat surface.\n2. Secure each of the legs with the nuts and bolts provided.\n3. Attach the seat base onto the legs. \n4. Connect the backrest to the base. \n5. Bolster the frame with additional nuts and bolts.\n6. Place the cushion on the chair and fit it snugly.\n7. Congrats, your chair is now assembled!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

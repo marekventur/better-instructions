@@ -1,0 +1,12 @@
+{
+  "id": "4ab89307-b7e6-4d76-b2ee-0d5e88c93a2e",
+  "instruction": "Generate a creative horror story summary with given themes and characters.",
+  "input": "Themes: Fear, Darkness, Children\nCharacters: Sarah, John",
+  "output": "When Sarah and John set off to explore the abandoned house, they had no idea it would lead to a night of fear and terror. As the two wander the halls, they come face to face with the darkness that lies within - something that no child should ever see. The duo must fight off the shadows and find their way to the changing light of the morning, all while keeping their fears at bay. Will Sarah and John make it out alive, or will they succumb to the horrific darkness?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

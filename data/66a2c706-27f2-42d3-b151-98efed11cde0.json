@@ -1,0 +1,12 @@
+{
+  "id": "66a2c706-27f2-42d3-b151-98efed11cde0",
+  "instruction": "Create a job description for the following role",
+  "input": "Data Analytics Consultant",
+  "output": "We are looking for a data analytics consultant to support our operations. The consultant will develop strategies to understand, interpret, and act on data insights. The consultant should have experience in data visualization and dashboard development, machine learning, and communication of data insights to internal and external stakeholders. The ideal candidate will have excellent problem-solving skills, be detail-oriented, and be able to work confidently with stakeholders of varying levels.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

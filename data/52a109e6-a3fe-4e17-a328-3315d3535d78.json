@@ -1,0 +1,12 @@
+{
+  "id": "52a109e6-a3fe-4e17-a328-3315d3535d78",
+  "instruction": "Choose two colors from the list [red, green, blue] and explain what their color wheel combination would look like.",
+  "input": "[red, green]",
+  "output": "A color wheel combination of red and green would create a yellow hue. Red and green are complementary colors, which means that when mixed together, they create a color that stands out from both of the original colors.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

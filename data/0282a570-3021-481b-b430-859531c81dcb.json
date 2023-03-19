@@ -1,0 +1,12 @@
+{
+  "id": "0282a570-3021-481b-b430-859531c81dcb",
+  "instruction": "Describe the conventions used in MLA style for in-text citations.",
+  "input": "",
+  "output": "According to MLA style, in-text citations should follow the author-page format. This means that when referring to a source within the text of a document, the author's last name and the page number of the source should be included. For example, if the author's name is Smith and the page number is \u201815\u2019, then the in-text citation should appear as \u2018(Smith 15)\u2019. Additionally, when citing sources in the bibliography, the author's last name, title of the book, publication information, and page numbers should be listed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "482cd5b0-e55f-4982-9264-d754a0533dba",
+  "instruction": "Arrange each of the software components to create a correct sentence.",
+  "input": "data/storage, access and/or, provides",
+  "output": "This software provides access and/or storage of data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

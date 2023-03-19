@@ -1,0 +1,12 @@
+{
+  "id": "ba7d5d47-8d80-4e30-b279-2ca4f9a667f9",
+  "instruction": "Convert the given HTML code into valid CSS.",
+  "input": "<ul style=\"list-style-type:circle;\">\n   <li>Milk</li>\n   <li>Cheese</li>\n   <li>Yogurt</li>\n</ul>",
+  "output": "ul {\n   list-style-type: circle;\n}\n\nli {\n   padding: 0.5em;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

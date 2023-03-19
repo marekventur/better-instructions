@@ -1,0 +1,12 @@
+{
+  "id": "a4319f34-0da5-4a00-945d-e26b6d3a4611",
+  "instruction": "This time you are provided with a sentence and a corresponding pos tag. For each word of the sentence, give an example of a word with the same pos tag.\nYou should provide at least two examples.",
+  "input": "The opinion piece cleverly argues its point.\nPOS tagging:\nThe (Determiner) opinion (Noun) piece (Noun) cleverly (Adverb) argues (Verb) its (Pronoun) point (Noun).",
+  "output": "The: that, those\nOpinion: idea, notion \nPiece: article, fragment\nCleverly: artfully, intelligently\nArgues: reasons, expounds\nIts: his, her\nPoint: aim, purpose",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

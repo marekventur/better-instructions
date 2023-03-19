@@ -1,0 +1,12 @@
+{
+  "id": "086d44c3-f8ee-4453-8610-555cb2d130f5",
+  "instruction": "Sort the following animal groups into vertebrates and invertebrates",
+  "input": "Fish, Spider, Snake, Bat",
+  "output": "Vertebrates: Fish, Snake, Bat\nInvertebrates: Spider",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

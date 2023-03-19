@@ -1,0 +1,12 @@
+{
+  "id": "8d20ed78-7171-4e0b-8b14-aa7d62e5c314",
+  "instruction": "Write a Python program to check if a given string is a palindrome or not.",
+  "input": "",
+  "output": "def is_palindrome(string):\n    # remove punctuation and whitespace\n    cleaned_string = \"\".join(filter(str.isalnum, string)).lower() \n    # check if the string is the same in reverse\n    return cleaned_string == cleaned_string[::-1]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

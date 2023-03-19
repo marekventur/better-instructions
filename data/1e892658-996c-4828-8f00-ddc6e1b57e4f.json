@@ -1,0 +1,12 @@
+{
+  "id": "1e892658-996c-4828-8f00-ddc6e1b57e4f",
+  "instruction": "Find three articles related to the topic of \"AI and healthcare\".",
+  "input": "",
+  "output": "1. \"AI in Healthcare: Benefits, Risks, and Ethical Issues\" by Deloitte (https://www2.deloitte.com/insights/us/en/focus/artificial-intelligence/artificial-intelligence-healthcare-benefits.html)\n2. \"How AI Is Changing Healthcare for the Better\" by Forbes (https://www.forbes.com/sites/bernardmarr/2018/11/15/how-ai-is-changing-healthcare-for-the-better/#e45f355914f2)\n3. \"AI in Healthcare: How Artificial Intelligence Is Transforming Medicine\" by Stanford Medicine (https://med.stanford.edu/news/all-news/2020/09/ai-in-healthcare-how-artificial-intelligence-is-transforming.html)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

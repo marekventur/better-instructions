@@ -1,0 +1,12 @@
+{
+  "id": "efc6739f-0232-47be-ad8a-509f83383e65",
+  "instruction": "Edit this script to make the dialogue more natural",
+  "input": "Person1: So, what do you do?\nPerson2: I work in the tech industry",
+  "output": "Person1: So, what do you do for a living?\nPerson2: I work in the tech industry as a software engineer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

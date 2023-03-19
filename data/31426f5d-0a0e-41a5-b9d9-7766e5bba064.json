@@ -1,0 +1,12 @@
+{
+  "id": "31426f5d-0a0e-41a5-b9d9-7766e5bba064",
+  "instruction": "Take the given input and turn it into proper prose.",
+  "input": "restaurant/family-run/seafood",
+  "output": "The family-run seafood restaurant is one of a kind. A true gem nestled on a quiet street serving fresh and delicious seafood dishes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

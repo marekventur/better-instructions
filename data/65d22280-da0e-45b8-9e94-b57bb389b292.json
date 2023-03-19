@@ -1,0 +1,12 @@
+{
+  "id": "65d22280-da0e-45b8-9e94-b57bb389b292",
+  "instruction": "Open the following link and edit the first sentence",
+  "input": "https://en.wikipedia.org/wiki/The_Great_Gatsby",
+  "output": "The Great Gatsby is a novel by American author F. Scott Fitzgerald, first published on April 10, 1925. It is set in the wintry New York of 1922\u201323 and tells the story of an affluent young man, Jay Gatsby, who attempts to rekindle his love affair with Daisy Buchanan.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

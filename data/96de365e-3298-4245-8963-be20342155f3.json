@@ -1,0 +1,12 @@
+{
+  "id": "96de365e-3298-4245-8963-be20342155f3",
+  "instruction": "Create an example input for the following task - Summarize the following document with several bullet points.",
+  "input": "An article published on October 10th, 2019 titled \"Women Move Closer to Majority on Corporate Boards\"",
+  "output": "Mitt Romney leads spending on TV advertising among presidential contenders. \nLower TV production costs allow more candidates to advertise.\nInterest groups have spent $6.2 million on TV ads for state and local ballot measures in the first nine months of this year. \nIssue-advocacy television ad spending totals $270 million this year. \nRomney used TV ads to introduce himself to Republican voters as a social and fiscal conservative. \nRichardson's humorous TV ads introduced him as a solid second-tier candidate. \nUp to $639 million could be spent on television advertising in the fight for Congress. \nCuts through the clutter of ads are a challenge for contenders and interest groups.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

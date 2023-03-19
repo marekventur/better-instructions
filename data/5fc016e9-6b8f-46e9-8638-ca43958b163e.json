@@ -1,0 +1,12 @@
+{
+  "id": "5fc016e9-6b8f-46e9-8638-ca43958b163e",
+  "instruction": "Identify a con for this product.",
+  "input": "The new iPhone has the latest technology.",
+  "output": "One con for the new iPhone is the price. The latest technology comes at a premium and many consumers may not be able to afford the cost.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

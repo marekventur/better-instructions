@@ -1,0 +1,12 @@
+{
+  "id": "bb53fbd0-7f78-4221-aacc-401dca01e400",
+  "instruction": "Create a prototype of a mobile application for tracking medication compliance.",
+  "input": "",
+  "output": "The prototype of the mobile application should include the following features: \n1. A medication list with current prescriptions, details, and expiration dates. \n2. Automated reminders for taking medications.\n3. A tracking feature to monitor compliance with prescriptions. \n4. An alert system to notify medical professionals when a patient is not compliant with their medication regimen.\n5. A rewards system to motivate users.\n6. Integration with healthcare professionals and facilities to share relevant data.\n7. A dashboard to quickly monitor user progress.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

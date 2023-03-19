@@ -1,0 +1,12 @@
+{
+  "id": "8e08ea47-e3bb-45a8-b1f8-00f412f267b2",
+  "instruction": "Generate a conversation between two characters by explaining the following statement.",
+  "input": "Sam was feeling very guilty because he knew he was wrong.",
+  "output": "Sam: \"I know I was wrong. I feel so guilty.\"\n\nEmily: \"Why do you feel guilty? What happened?\"\n\nSam: \"I did something that I knew was wrong and now I'm feeling really bad about it.\"\n\nEmily: \"It's ok. We all make mistakes sometimes. You just have to learn from it and move on.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

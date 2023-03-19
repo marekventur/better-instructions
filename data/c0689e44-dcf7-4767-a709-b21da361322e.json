@@ -1,0 +1,12 @@
+{
+  "id": "c0689e44-dcf7-4767-a709-b21da361322e",
+  "instruction": "Generate a customer service response given customer feedback.",
+  "input": "I was really disappointed by the customer service.",
+  "output": "We apologize for the experience you had with our customer service. We take customer satisfaction very seriously and are committed to providing the best possible customer service. We would like to know more about your experience so we can continue to improve. Could you please let us know in more detail why you were disappointed with the customer service you received and what changes you would like us to make? Thank you for your feedback and we look forward to hearing your thoughts.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

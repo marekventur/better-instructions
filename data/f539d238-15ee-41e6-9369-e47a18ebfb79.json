@@ -1,0 +1,12 @@
+{
+  "id": "f539d238-15ee-41e6-9369-e47a18ebfb79",
+  "instruction": "Given a sentence, delete the unnecessary words that make the sentence too long.",
+  "input": "The acerbity of his actions have been met with widespread criticism.",
+  "output": "His actions have been met with widespread criticism.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

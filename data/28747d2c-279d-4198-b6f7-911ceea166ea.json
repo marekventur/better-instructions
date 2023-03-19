@@ -1,0 +1,12 @@
+{
+  "id": "28747d2c-279d-4198-b6f7-911ceea166ea",
+  "instruction": "Normalize the following URL.",
+  "input": "https://www.google.com/search?q=google+search&oq=google+search",
+  "output": "The normalized URL is: https://www.google.com/search?q=google+search",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

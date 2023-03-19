@@ -1,0 +1,12 @@
+{
+  "id": "02908b63-5d58-46a5-b459-50e735651ce4",
+  "instruction": "Given a sentence, translate it into a mathematical equation.",
+  "input": "The sum of two numbers is five.",
+  "output": "x + y = 5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

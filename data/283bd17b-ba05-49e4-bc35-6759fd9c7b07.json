@@ -1,0 +1,12 @@
+{
+  "id": "283bd17b-ba05-49e4-bc35-6759fd9c7b07",
+  "instruction": "Interpret the following song lyrics",
+  "input": "I searched from sea to sea, and found no place to rest",
+  "output": "The lyrics imply that the person has been searching for a place to find solace and peace, but so far has been unable to find it. They have looked everywhere, but their search has been in vain. The lack of success in this quest has left them weary and exhausted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

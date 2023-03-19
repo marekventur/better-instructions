@@ -1,0 +1,12 @@
+{
+  "id": "f4f04361-f6cd-45f0-9c2f-7a3e7041140f",
+  "instruction": "Given a phrase, find synonyms that make the phrase more interesting.",
+  "input": "Phrase: \"Strong desire\"",
+  "output": "Intense yearning, deep longing, resolute fervor, vehement passion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

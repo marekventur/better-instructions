@@ -1,0 +1,12 @@
+{
+  "id": "75d98b56-b958-45bc-8e16-a207349d3085",
+  "instruction": "Find the area of triangle ABC, given the coordinates A(2,5), B(5,1) and C(7,7).",
+  "input": "A(2,5), B(5,1), C(7,7)",
+  "output": "The area of triangle ABC is 6 square units.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

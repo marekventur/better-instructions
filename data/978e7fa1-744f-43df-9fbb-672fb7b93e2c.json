@@ -1,0 +1,12 @@
+{
+  "id": "978e7fa1-744f-43df-9fbb-672fb7b93e2c",
+  "instruction": "Create an SMS conversation between two friends discussing a recent event.",
+  "input": "Alice and Bob | discussing | a concert they attended",
+  "output": "Alice: Hey, how was the concert last night?\n\nBob: It was great! I especially enjoyed the encore performance.\n\nAlice: Yeah, me too. It was definitely worth the wait.\n\nBob: Yeah, it was definitely my favorite part!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

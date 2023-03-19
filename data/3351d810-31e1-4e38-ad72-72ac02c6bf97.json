@@ -1,0 +1,12 @@
+{
+  "id": "3351d810-31e1-4e38-ad72-72ac02c6bf97",
+  "instruction": "Create a classification algorithm for a given dataset.",
+  "input": "Dataset of medical images",
+  "output": "We can use a convolutional neural network (CNN) for classifying medical images. We can use the CNN model to extract features from each image in the dataset and then use these features to classify the images into the appropriate classes. The CNN can be trained on a variety of layers and will be able to recognize different types of features and patterns in the images. After the model is trained, it can be used to classify new medical images that have been previously unseen by the model.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

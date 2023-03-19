@@ -1,0 +1,12 @@
+{
+  "id": "98d51987-1068-4c68-9604-750d0f0bd02f",
+  "instruction": "Identify the entry point of this piece of code.",
+  "input": "int main(int argc, char **argv) \n{\n    int a;\n    a = 5;\n    printf(\"a is %d\\n\", a);\n    return 0;\n}",
+  "output": "The entry point of this code is the main() function.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

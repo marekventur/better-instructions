@@ -1,0 +1,12 @@
+{
+  "id": "97709035-6f67-4add-904c-d03b53846b5b",
+  "instruction": "Organize the following sentence into a meaningful paragraph.\n\nHe decided to take a break. He looked at the scenery. He was amazed.",
+  "input": "He decided to take a break. He looked at the scenery. He was amazed.",
+  "output": "He decided to take a break, and as he looked around, he was amazed by the scenery. Everywhere he looked there were vibrant colors, and a feeling of peacefulness washed over him. He felt refreshed and refocused.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

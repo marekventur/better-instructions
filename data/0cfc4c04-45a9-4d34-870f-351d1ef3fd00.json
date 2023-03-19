@@ -1,0 +1,12 @@
+{
+  "id": "0cfc4c04-45a9-4d34-870f-351d1ef3fd00",
+  "instruction": "What is the difference between a supervised learning algorithm and an unsupervised learning algorithm?",
+  "input": "",
+  "output": "Supervised learning algorithms require a labeled dataset, in which the input data has already been categorized in some way, which is used to train the model and make predictions about new data. Unsupervised learning algorithms, on the other hand, do not require a labeled dataset and instead use the input data to discover patterns and trends in the data itself. Unsupervised learning is used to uncover hidden insights which can be used in a variety of applications.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

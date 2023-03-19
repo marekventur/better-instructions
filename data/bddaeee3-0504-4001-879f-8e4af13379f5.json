@@ -1,0 +1,12 @@
+{
+  "id": "bddaeee3-0504-4001-879f-8e4af13379f5",
+  "instruction": "Design a data model for a restaurant review site.",
+  "input": "",
+  "output": "The data model should store information about users, restaurants, and reviews. The user table should store basic info about the users such as their username, email address, and other profile details. The restaurant table should store information about the restaurants such as name, address, category, and other details. The reviews table should store ratings and reviews given by the users for different restaurants. It should also store the user ID and the restaurant ID to keep track of which review belongs to which user and restaurant. Additionally, the data model should also store user preferences and recommendations, as well as different types of filters that can be used to narrow down the search results.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

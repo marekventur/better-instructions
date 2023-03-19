@@ -1,0 +1,12 @@
+{
+  "id": "e39e599d-c555-4693-8b14-ecb60f10f3c3",
+  "instruction": "Explain a mathematical concept",
+  "input": "Derivative",
+  "output": "A derivative is a concept from calculus that measures the rate of change of a function with respect to its input value. It is represented by a derivative function and is defined as the slope of the tangent line at a point on a graph. It is an important concept in calculus and can be used to solve various problems.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

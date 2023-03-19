@@ -1,0 +1,12 @@
+{
+  "id": "f2404bd1-8878-401b-b38f-0bb26f98f36b",
+  "instruction": "Find the range of numbers 25, 28, 30, 33",
+  "input": "",
+  "output": "The range of numbers 25, 28, 30 and 33 is 8, as it is the difference between the highest and lowest numbers in the set (33-25= 8).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

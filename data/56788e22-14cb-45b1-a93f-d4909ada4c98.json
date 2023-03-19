@@ -1,0 +1,12 @@
+{
+  "id": "56788e22-14cb-45b1-a93f-d4909ada4c98",
+  "instruction": "Generate questions that can be used to evaluate the given task.",
+  "input": "Designing a logo",
+  "output": "Questions that can be used to evaluate a design logo task include: \n1. Does the logo accurately reflect the company's brand identity? \n2. Is the logo visually appealing and easy to understand? \n3. Is the logo versatile and effective in different applications? \n4. Is the logo recognizable and memorable? \n5. Is the logo consistent with the company's existing branding and design guidelines?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

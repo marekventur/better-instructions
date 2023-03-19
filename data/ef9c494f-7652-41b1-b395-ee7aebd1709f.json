@@ -1,0 +1,12 @@
+{
+  "id": "ef9c494f-7652-41b1-b395-ee7aebd1709f",
+  "instruction": "Generate an epigram for a specific person.",
+  "input": "Person's name: Jane",
+  "output": "Jane's heart was pure and strong-\nA beacon that forever shone.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

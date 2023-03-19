@@ -1,0 +1,12 @@
+{
+  "id": "714f8b41-3ed3-412b-baaa-56121720d2ba",
+  "instruction": "Tell me the order of operations for the following equation.",
+  "input": "2 + 3 \u00d7 5 = ?",
+  "output": "2 + (3 \u00d7 5) = 17.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

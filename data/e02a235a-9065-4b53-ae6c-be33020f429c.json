@@ -1,0 +1,12 @@
+{
+  "id": "e02a235a-9065-4b53-ae6c-be33020f429c",
+  "instruction": "Identify the major flaws in the following code snippet.",
+  "input": "def add_numbers(x,y):\n    return x+y\n\nadd_numbers(2)",
+  "output": "The major flaw in the code snippet is that the function add_numbers requires two arguments, but only one argument is provided when the function is called. This will cause a runtime error.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

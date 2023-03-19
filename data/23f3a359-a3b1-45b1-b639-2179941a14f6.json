@@ -1,0 +1,12 @@
+{
+  "id": "23f3a359-a3b1-45b1-b639-2179941a14f6",
+  "instruction": "Write a formal letter to the manager in response to the following complaint:",
+  "input": "I recently purchased a product from your store. Unfortunately, the product was defective and I would like my money back.",
+  "output": "Dear Manager,\n\nI recently purchased a product from your store and I am writing to express my dissatisfaction. It has come to my attention that the product is defective and I would like to request a refund.\n\nI am confident that you will share my concern and rectify the situation. I look forward to hearing from you soon.\n\nSincerely,\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

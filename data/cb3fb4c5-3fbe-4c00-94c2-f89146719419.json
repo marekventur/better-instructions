@@ -1,0 +1,12 @@
+{
+  "id": "cb3fb4c5-3fbe-4c00-94c2-f89146719419",
+  "instruction": "Classify this object as a mammal, reptile or insect.",
+  "input": "Armadillo",
+  "output": "Mammal",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9ac07b17-0040-40cd-a96f-184dd698017a",
+  "instruction": "Create an algorithm to convert decimal numbers to binary numbers.",
+  "input": "",
+  "output": "The algorithm can be written as follows: \n1. Starting from the rightmost digit, divide the decimal number by 2 and take the remainder. \n2. The remainder is the current bit of the binary number.\n3. Divide the decimal number by 2 and take the remainder again.\n4. This remainder will be the second rightmost bit of the binary number.\n5. Continue the above steps until the quotient is 0. \n6. The current bit(s) of the binary number should be reversed in order to obtain the final binary number.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

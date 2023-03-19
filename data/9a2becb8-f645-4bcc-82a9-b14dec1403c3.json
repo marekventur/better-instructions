@@ -1,0 +1,12 @@
+{
+  "id": "9a2becb8-f645-4bcc-82a9-b14dec1403c3",
+  "instruction": "Find the words in the sentence which suggest a positive attitude",
+  "input": "I think I can do this!",
+  "output": "\"I think\", \"can do\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

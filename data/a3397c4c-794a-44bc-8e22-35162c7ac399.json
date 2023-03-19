@@ -1,0 +1,12 @@
+{
+  "id": "a3397c4c-794a-44bc-8e22-35162c7ac399",
+  "instruction": "Construct an SQL query",
+  "input": "Request all records from the \"Users\" table",
+  "output": "SELECT * FROM Users;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

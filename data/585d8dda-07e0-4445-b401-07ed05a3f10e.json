@@ -1,0 +1,12 @@
+{
+  "id": "585d8dda-07e0-4445-b401-07ed05a3f10e",
+  "instruction": "Correct the given code by fixing the syntax errors",
+  "input": "def sum_squares(num: int)\n    total = 0\n    For i in num\n        total = total + i * i\n    return total",
+  "output": "def sum_squares(num: int):\n    total = 0\n    for i in num:\n        total = total + i * i\n    return total",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

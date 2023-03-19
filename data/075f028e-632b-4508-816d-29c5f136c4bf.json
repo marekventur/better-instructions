@@ -1,0 +1,12 @@
+{
+  "id": "075f028e-632b-4508-816d-29c5f136c4bf",
+  "instruction": "Categorize the following news article into one of the labels 'sports','politics','entertainment','technology','finance'.",
+  "input": "Apple Holds Launch Event For Iphone 11",
+  "output": "Technology.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

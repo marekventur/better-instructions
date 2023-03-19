@@ -1,0 +1,12 @@
+{
+  "id": "65476fd0-d149-4950-926f-3c6f001693eb",
+  "instruction": "Read the code and explain what will this code do?",
+  "input": "for i in range(50): \n    print(i)",
+  "output": "This code will print the numbers 0 to 49 on separate lines. The first line printed will be 0 and the last line printed will be 49.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

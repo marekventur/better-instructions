@@ -1,0 +1,12 @@
+{
+  "id": "fcf553d4-77b2-4c3e-b1b6-86888643d961",
+  "instruction": "Classify the following statement into one of the six following categories: Political, Social, Economic, Technological, Legal, Environmental",
+  "input": "The development of autonomous vehicles will lead to fewer traffic accidents.",
+  "output": "Technological",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

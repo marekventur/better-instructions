@@ -1,0 +1,12 @@
+{
+  "id": "fbf1f5d2-3cba-4183-bb11-18b0c58f6da2",
+  "instruction": "Find the total price of the items below",
+  "input": "iPad Pro 11-inch - $849\nApple Pencil - $129\nSmart Keyboard Folio - $179",
+  "output": "$1157",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

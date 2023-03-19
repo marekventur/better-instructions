@@ -1,0 +1,12 @@
+{
+  "id": "ee0cf48a-095c-4a36-b956-c99727e24624",
+  "instruction": "Identify the type of the following musical chord.",
+  "input": "D minor",
+  "output": "The chord is a D Minor chord.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

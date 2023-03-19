@@ -1,0 +1,12 @@
+{
+  "id": "9d9565d8-fbd2-4bf8-a28e-750abd8106e3",
+  "instruction": "Create a response that demonstrates an understanding of the given input and generates a question.",
+  "input": "My mom is a nurse and she works at a hospital.",
+  "output": "Wow, that's really impressive. What inspired your mom to become a nurse?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

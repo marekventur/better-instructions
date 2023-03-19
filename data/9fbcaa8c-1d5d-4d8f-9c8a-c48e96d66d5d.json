@@ -1,0 +1,12 @@
+{
+  "id": "9fbcaa8c-1d5d-4d8f-9c8a-c48e96d66d5d",
+  "instruction": "Calculate the ratio of males to females in a student population.",
+  "input": "400 males and 300 females",
+  "output": "1.33:1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

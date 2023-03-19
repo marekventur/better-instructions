@@ -1,0 +1,12 @@
+{
+  "id": "aff1dfed-bca2-452b-a5fe-2e8a4ed4485e",
+  "instruction": "In a few sentences, explain how the given technology works.",
+  "input": "Augmented Reality",
+  "output": "Augmented Reality (AR) is a technology that combines real-world and virtual elements to create an enhanced user experience. AR works by tracking the motion of a user's device, such as a smartphone or tablet, and using that data to overlay virtual objects into the environment. For example, the device's camera can track the user's physical surroundings and display virtual objects that respond to the movement of the device. AR also enables users to interact with virtual objects, such as by playing a game or annotating a map.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

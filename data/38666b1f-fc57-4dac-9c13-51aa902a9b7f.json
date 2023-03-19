@@ -1,0 +1,12 @@
+{
+  "id": "38666b1f-fc57-4dac-9c13-51aa902a9b7f",
+  "instruction": "Detect if the following sentence is written in passive or active voice.",
+  "input": "I should have taken the exam.",
+  "output": "Active",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

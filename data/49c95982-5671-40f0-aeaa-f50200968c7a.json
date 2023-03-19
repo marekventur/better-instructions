@@ -1,0 +1,12 @@
+{
+  "id": "49c95982-5671-40f0-aeaa-f50200968c7a",
+  "instruction": "Design an app for the given purpose and list its features.",
+  "input": "An app to help seniors learn tech basics",
+  "output": "The app will be targeted to seniors and will feature step-by-step tutorials for navigating and using a variety of technology devices. It will feature interactive, task-based video tutorials for basic tech skills such as setting up wireless networks, using streaming services, installing new software updates, and more. The app will also feature a helpful search bar to easily access tutorials, educational articles and more.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

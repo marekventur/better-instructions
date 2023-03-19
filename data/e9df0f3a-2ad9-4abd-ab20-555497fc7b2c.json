@@ -1,0 +1,12 @@
+{
+  "id": "e9df0f3a-2ad9-4abd-ab20-555497fc7b2c",
+  "instruction": "Classify the following sentence as referring to the past, present or future.",
+  "input": "I will go to the store tomorrow.",
+  "output": "Future",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

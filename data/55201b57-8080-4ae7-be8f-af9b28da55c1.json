@@ -1,0 +1,12 @@
+{
+  "id": "55201b57-8080-4ae7-be8f-af9b28da55c1",
+  "instruction": "Categorize each of the items below into either a plant or an animal.",
+  "input": "Turtle, Wheat, Dog, Apple Tree",
+  "output": "Turtle - Animal, Wheat - Plant, Dog - Animal, Apple Tree - Plant",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

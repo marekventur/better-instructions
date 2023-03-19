@@ -1,0 +1,12 @@
+{
+  "id": "51c19e97-078a-447d-9db6-ab747b4fa23f",
+  "instruction": "For the following open-ended task, create a context-specific input.",
+  "input": "Task: Generate a response to a customer's complaint.",
+  "output": "Input:\nCustomer complaint: I received the wrong item in my shipment and I am very unhappy with the service.\n\nOutput:\nWe apologize for the mistake with your shipment. We take customer satisfaction very seriously and are working to resolve the issue as quickly as possible. We will be sending you a replacement item as soon as we can. Please let us know if there is anything else we can do to make this right and ensure that you are happy with our service.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

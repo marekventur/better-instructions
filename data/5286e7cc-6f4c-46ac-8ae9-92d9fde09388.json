@@ -1,0 +1,12 @@
+{
+  "id": "5286e7cc-6f4c-46ac-8ae9-92d9fde09388",
+  "instruction": "Suppose a patient has a high fever. Outline the steps for treatment.",
+  "input": "",
+  "output": "The steps for treating a high fever include: \n1. Determine the cause of the fever by taking a patient history and performing a physical examination. \n2. Administer appropriate medication or fluids to bring down the patient's fever. \n3. Monitor the patient's temperature and other vitals to ensure that the fever is within the safe ranges. \n4. Offer supportive care, such as rest and nutrition, to help the patient recover. \n5. If the fever persists for more than a few days, refer the patient to a specialist for further evaluation and treatment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

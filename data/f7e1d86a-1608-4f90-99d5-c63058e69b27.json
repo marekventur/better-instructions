@@ -1,0 +1,12 @@
+{
+  "id": "f7e1d86a-1608-4f90-99d5-c63058e69b27",
+  "instruction": "Estimate how much time is needed to complete a given task.",
+  "input": "The task is to create 10 iPhone applications.",
+  "output": "This task will likely take several weeks to complete. Depending on the complexity of the applications and the experience level of the developer, the task could take between 2-4 weeks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

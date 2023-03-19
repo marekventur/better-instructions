@@ -1,0 +1,12 @@
+{
+  "id": "5087f61d-52cd-4c9b-a821-9d1f02a67878",
+  "instruction": "Convert the list of numbers to Fahrenheit.",
+  "input": "[-10, 0, 10, 20]",
+  "output": "[14, 32, 50, 68]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

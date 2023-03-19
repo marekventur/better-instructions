@@ -1,0 +1,12 @@
+{
+  "id": "a285df21-46b4-40a3-80cd-12464cee110d",
+  "instruction": "Generate a list of steps to follow when troubleshooting a printer issue.",
+  "input": "",
+  "output": "When troubleshooting a printer issue, the following steps should be followed:\n1. Make sure the printer is turned on and all cables are securely connected.\n2. Check the paper tray to remove any obstructions or paper jams.\n3. Make sure that the printer has enough ink or toner.\n4. Ensure that the printer is being selected as the default device in the computer\u2019s or device\u2019s settings.\n5. Update the printer driver to the latest version.\n6. Check the printing preferences and make sure that the correct paper size and orientation is selected.\n7. Clean the printer rollers.\n8. Try to print a test page.\n9. If none of the steps above have solved the issue, contact a printer technician for assistance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

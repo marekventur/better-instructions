@@ -1,0 +1,12 @@
+{
+  "id": "196f0ba2-856b-4159-9a8d-13eae02c477f",
+  "instruction": "Find the present value of the following future cash flow",
+  "input": "$4,000 received in 3 years, 8% annual rate",
+  "output": "The present value of the given future cash flow is $3,224.83.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

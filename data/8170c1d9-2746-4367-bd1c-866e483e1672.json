@@ -1,0 +1,12 @@
+{
+  "id": "8170c1d9-2746-4367-bd1c-866e483e1672",
+  "instruction": "Classify these movies as comedy, drama, or action.",
+  "input": "Toy Story, Casablanca, Avengers",
+  "output": "Toy Story: Comedy\nCasablanca: Drama\nAvengers: Action",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

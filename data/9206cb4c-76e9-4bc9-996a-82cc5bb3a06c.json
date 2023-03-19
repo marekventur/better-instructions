@@ -1,0 +1,12 @@
+{
+  "id": "9206cb4c-76e9-4bc9-996a-82cc5bb3a06c",
+  "instruction": "Sort the following list using insertion sort.",
+  "input": "[40, 33, 21, 92, 3, 68, 10]",
+  "output": "[3, 10, 21, 33, 40, 68, 92]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

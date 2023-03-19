@@ -1,0 +1,12 @@
+{
+  "id": "77992a75-462b-44a8-b652-e2c452df539b",
+  "instruction": "Compare two historical figures.",
+  "input": "Martin Luther King, Jr. and Malcolm X",
+  "output": "Martin Luther King, Jr. and Malcolm X were two key figures in the Civil Rights Movement. While both had a shared goal of achieving equality for marginalized communities, they had different approaches to achieving it. Martin Luther King, Jr. was known for advocating for nonviolence, while Malcolm X was a proponent of self-defense and retaliation. King believed in organizations like the Southern Christian Leadership Conference, while Malcolm X embraced Pan-Africanism and Islam.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

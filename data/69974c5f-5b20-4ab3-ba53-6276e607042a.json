@@ -1,0 +1,12 @@
+{
+  "id": "69974c5f-5b20-4ab3-ba53-6276e607042a",
+  "instruction": "Generate an email to the customer service team of a product delivery app outlining a user experience issue.",
+  "input": "A user had problems with the product delivery.",
+  "output": "Dear Customer Service Team, \n\nI recently used your product delivery app and had an issue with it that I wanted to report. When I placed my order, the estimated delivery time was 2 hours, but the product did not arrive until 4 hours later. I understand that there could have been delays due to external factors, but I wanted to make you aware of the issue. \n\nI also wanted to note that the product itself was of excellent quality and I am very pleased with it. However, I believe it is important to stay true to our delivery estimations so as to ensure customer satisfaction.\n\nThank you for your help and for taking my feedback into consideration. I look forward to using your app again in the future.\n\nSincerely, \n[Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

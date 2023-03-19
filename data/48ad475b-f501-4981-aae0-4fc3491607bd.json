@@ -1,0 +1,12 @@
+{
+  "id": "48ad475b-f501-4981-aae0-4fc3491607bd",
+  "instruction": "Generate 5 questions relevant to the following topic",
+  "input": "Men's fashion",
+  "output": "1. What are the most popular men's fashion trends right now? \n2. How can men determine which styles are most flattering? \n3. What materials are considered to be the most fashionable for menswear?\n4. How do men accessorize their outfits to make them stand out? \n5. What fashion tips should men keep in mind when dressing for special occasions?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

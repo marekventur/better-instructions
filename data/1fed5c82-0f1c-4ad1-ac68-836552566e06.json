@@ -1,0 +1,12 @@
+{
+  "id": "1fed5c82-0f1c-4ad1-ac68-836552566e06",
+  "instruction": "Determine the area of a regular pentagon with a side length of 10 cm.",
+  "input": "10 cm",
+  "output": "The area of a regular pentagon with a side length of 10 cm is 247.26 square centimeters.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

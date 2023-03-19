@@ -1,0 +1,12 @@
+{
+  "id": "867b1ea0-b8e1-4c0d-a5b6-e2ee8fc8ba3e",
+  "instruction": "Is the following sentence written in the active or passive voice?",
+  "input": "The sculpture was crafted by the artist.",
+  "output": "The sentence is written in the passive voice. It is formed by combining the past participle of the verb with a form of the verb \"to be\", as in \"was crafted\". The subject of the sentence is \"sculpture\", but it is the object of the sentence and is not performing the action.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

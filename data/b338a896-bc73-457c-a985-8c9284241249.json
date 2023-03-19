@@ -1,0 +1,12 @@
+{
+  "id": "b338a896-bc73-457c-a985-8c9284241249",
+  "instruction": "Create a list of possible outcomes given the following input and output.",
+  "input": "Input: \"What is the weather in Tokyo tomorrow?\"\nOutput: \"It will be sunny with a high of 25 degrees Celsius.\"",
+  "output": "- It will be partly cloudy\n- It will be rainy\n- It will be snowing\n- It will be windy\n- It will be foggy\n- It will be cloudy\n- Temperature will be lower than 25 degrees Celsius\n- Temperature will be higher than 25 degrees Celsius",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

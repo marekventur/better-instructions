@@ -1,0 +1,12 @@
+{
+  "id": "9751aca9-7798-4157-a207-75badebb244f",
+  "instruction": "Calculate the total cost of a product with the given price and tax rate.",
+  "input": "Price: $20, Tax rate: 10%",
+  "output": "The total cost is $22.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

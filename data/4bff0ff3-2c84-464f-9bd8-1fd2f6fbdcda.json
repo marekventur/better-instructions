@@ -1,0 +1,12 @@
+{
+  "id": "4bff0ff3-2c84-464f-9bd8-1fd2f6fbdcda",
+  "instruction": "Suggest a guestlist for a birthday party based on the given preferences.",
+  "input": "A group of 10 people including 4 couples and their friends",
+  "output": "Guestlist:\n1. Daisy and Tom\n2. Mary and John\n3. Emma and Joe\n4. Sally and Frank\n5. Ashley\n6. Christopher\n7. Matthew\n8. Jessica\n9. David\n10. Sarah",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

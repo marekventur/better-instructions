@@ -1,0 +1,12 @@
+{
+  "id": "6f96019a-e7d2-434c-8d4d-9c71a7f078f2",
+  "instruction": "Given a fact about the population of a country, determine the GDP of the country.",
+  "input": "The population of France is 66,991,000.",
+  "output": "According to World Bank Data, the GDP of France in 2019 was 2.72 trillion USD.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

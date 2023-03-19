@@ -1,0 +1,12 @@
+{
+  "id": "6f99dfe6-2a6f-45d7-963c-5a9157ec72f5",
+  "instruction": "Sort the following words into two groups, nouns and verbs.",
+  "input": "Dance, Walk, Smile",
+  "output": "Nouns: Dance, Smile\nVerbs: Walk",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

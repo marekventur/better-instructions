@@ -1,0 +1,12 @@
+{
+  "id": "6e93b89b-e791-464b-8921-279a618d18e5",
+  "instruction": "Given a list of numbers, find all pairs of numbers whose difference is equal to a given target number.",
+  "input": "List: {7, 4, 2, 1, 9, 8}\nTarget number: 4",
+  "output": "{7, 3}, {9, 5}, {8, 4}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

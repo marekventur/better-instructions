@@ -1,0 +1,12 @@
+{
+  "id": "5c5521f6-3d66-4f73-a0d5-ccd3d52977db",
+  "instruction": "Summarize this article, highlighting the main points using no more than 100 words",
+  "input": "https://www.exploratorium.edu/science-of-music/what-sound",
+  "output": "Sound is created when an object moves back and forth quickly, vibrates, and causes the air around it to move back and forth, creating a pressure wave. Human ears detect sound through the vibrations of waves in the air and the vibrating eardrum. The frequency of sound waves affects the pitch, while the amplitude determines the loudness, or volume. Humans can hear sound frequencies within a range of 20 Hertz to 20,000 Hertz. Instruments, such as guitars and trumpets, create sound through vibrations and can be tuned and manipulated to create different notes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

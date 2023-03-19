@@ -1,0 +1,12 @@
+{
+  "id": "8e7b7d01-25ac-4e32-972c-e88d29ac0b4a",
+  "instruction": "Make corrections to the following sentence.",
+  "input": "We went shopping buy some new clothes.",
+  "output": "We went shopping to buy some new clothes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

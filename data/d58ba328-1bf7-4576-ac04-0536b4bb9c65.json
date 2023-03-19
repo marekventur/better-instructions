@@ -1,0 +1,12 @@
+{
+  "id": "d58ba328-1bf7-4576-ac04-0536b4bb9c65",
+  "instruction": "Count the number of occurrences of the letter \"A\" in the given sentence.",
+  "input": "The quick brown fox jumps over the lazy dog.",
+  "output": "3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fa2aa760-167e-4f54-a5ba-d415061745a8",
+  "instruction": "Given a piece of text, identify the types of figurative language used in the text.",
+  "input": "Life is like a roller coaster, with its highs and lows",
+  "output": "The text uses the metaphor to describe life. A metaphor is a figure of speech that compares two things to emphasize their similarities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

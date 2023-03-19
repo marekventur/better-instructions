@@ -1,0 +1,12 @@
+{
+  "id": "c7271333-4a8c-4dae-8918-db9f0d1b6a42",
+  "instruction": "Identify which of the following materials are insulators.",
+  "input": "wood, rubber, metal",
+  "output": "Wood and rubber are insulators, while metal is a conductor.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

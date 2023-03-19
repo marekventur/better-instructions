@@ -1,0 +1,12 @@
+{
+  "id": "d98e7af4-2c0f-441c-a9d9-db2e8a4d32f4",
+  "instruction": "List down how the given sentence should be paraphrased.",
+  "input": "The river was raging.",
+  "output": "The river was raging furiously, churning wildly, seething, in a frenzy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

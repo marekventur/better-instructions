@@ -1,0 +1,12 @@
+{
+  "id": "686af6d3-b3f5-4c5e-baef-077cca3f9a12",
+  "instruction": "Classify the following statement: \"This coffee is too hot to drink.\"",
+  "input": "",
+  "output": "This statement is an opinion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

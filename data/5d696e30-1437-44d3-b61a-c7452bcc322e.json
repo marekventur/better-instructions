@@ -1,0 +1,12 @@
+{
+  "id": "5d696e30-1437-44d3-b61a-c7452bcc322e",
+  "instruction": "Name the given object according to its function.",
+  "input": "Object: A mechanical pencil",
+  "output": "A mechanical pencil is a writing instrument that uses lead, typically encased in plastic, to create precise lines on paper.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

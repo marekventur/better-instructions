@@ -1,0 +1,12 @@
+{
+  "id": "7c1ab80f-df20-41c9-9578-1baaf2c617c0",
+  "instruction": "Suggest a nutrition plan that meets the given dietary requirements.",
+  "input": "vegan, gluten-free",
+  "output": "A vegan, gluten-free nutrition plan would include a wide variety of fruits and vegetables, beans, nuts and seeds, gluten-free whole grains and pseudo-grains (quinoa, amaranth, sorghum, millet, and buckwheat), plant-based protein sources (tofu, tempeh, and seitan), as well as healthy fats like olive oil, avocado and nut butter.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

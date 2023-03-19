@@ -1,0 +1,12 @@
+{
+  "id": "6ca1f8a0-426b-4eaa-9de0-036056d3483f",
+  "instruction": "Explain what kind of output a recommendation system can provide.",
+  "input": "",
+  "output": "A recommendation system provides personalized product recommendations to users based on their behavior, tastes, or preferences. This system can output a variety of different recommendation types, such as a list of recommended products, a set of ratings for similar products, or a set of suggested related queries for further exploration. Recommendation systems can also be used to suggest content (such as movies, articles, or music) to users.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f5dbaf02-0809-454e-9cf6-d6ce53981afe",
+  "instruction": "Given the following sentence, delete all the unnecessary words.",
+  "input": "I have traveled to faraway places in search of knowledge.",
+  "output": "I travelled places search knowledge.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

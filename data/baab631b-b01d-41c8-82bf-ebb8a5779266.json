@@ -1,0 +1,12 @@
+{
+  "id": "baab631b-b01d-41c8-82bf-ebb8a5779266",
+  "instruction": "Compare between deep learning and shallow learning",
+  "input": "",
+  "output": "Deep learning and shallow learning are two types of learning algorithms used in artificial intelligence (AI). Deep learning algorithms are composed of multiple layers of non-linear processing units, each of which consists of many nodes. This type of architecture allows for higher levels of abstraction and hidden representation which allows for more complex tasks to be accomplished compared to shallow learning algorithms which have a single layer of processing units. Deep learning has been used to solve complex tasks such as image recognition and object detection, while shallow learning is used to solve simpler tasks such as categorization or classification.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

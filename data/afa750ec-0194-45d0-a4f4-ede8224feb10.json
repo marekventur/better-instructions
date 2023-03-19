@@ -1,0 +1,12 @@
+{
+  "id": "afa750ec-0194-45d0-a4f4-ede8224feb10",
+  "instruction": "Given the following instructions, create a plan for completing them.",
+  "input": "- Take out the garbage\n- Fetch groceries",
+  "output": "1. Take out the garbage and put it in the garbage can outside \n2. Go to the grocery store and get the necessary groceries \n3. Drive back home with the groceries \n4. Put the groceries away in the kitchen",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

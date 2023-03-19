@@ -1,0 +1,12 @@
+{
+  "id": "4f8b3545-c0e4-4a87-929c-fcc6b656a99f",
+  "instruction": "What is dynamic programming?",
+  "input": "",
+  "output": "Dynamic programming is an algorithm design technique used for solving complex problems by breaking them down into smaller, simpler sub-problems. This technique uses incremental solutions to help compute the optimal solution to the problem and can be applied to problems such as optimization, game theory, and resource allocation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

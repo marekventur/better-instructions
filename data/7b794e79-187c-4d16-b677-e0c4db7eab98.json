@@ -1,0 +1,12 @@
+{
+  "id": "7b794e79-187c-4d16-b677-e0c4db7eab98",
+  "instruction": "Which nautical terms would fit in this sentence?",
+  "input": "The boat weaved its way ___.",
+  "output": "The boat weaved its way through the waves.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

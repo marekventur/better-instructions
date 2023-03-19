@@ -1,0 +1,12 @@
+{
+  "id": "c0ad3eec-47cb-4365-8743-c7f52918f107",
+  "instruction": "Generate a list of popular cities on the east coast of the US.",
+  "input": "",
+  "output": "Popular cities on the East Coast of the US include: \n- New York City, New York\n- Boston, Massachusetts\n- Philadelphia, Pennsylvania\n- Washington D.C.\n- Miami, Florida\n- Orlando, Florida\n- Savannah, Georgia\n- Charleston, South Carolina\n- Atlanta, Georgia\n- Raleigh, North Carolina\n- Baltimore, Maryland\n- Richmond, Virginia\n- Portsmouth, Virginia \n- Richmond Hill, Georgia \n- Jacksonville, Florida\n- Hartford, Connecticut \n- Wilmington, Delaware\n- Portland, Maine\n- Manchester, New Hampshire",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

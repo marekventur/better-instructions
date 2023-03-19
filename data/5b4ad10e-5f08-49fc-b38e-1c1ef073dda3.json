@@ -1,0 +1,12 @@
+{
+  "id": "5b4ad10e-5f08-49fc-b38e-1c1ef073dda3",
+  "instruction": "Suggest one thing that the following customer should do to improve the security of his password.",
+  "input": "The customer currently uses a four-digit pin as a password.",
+  "output": "He should use a longer password with a combination of letters, numbers, and special characters.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

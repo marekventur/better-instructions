@@ -1,0 +1,12 @@
+{
+  "id": "2090a7c1-e06c-4fe2-9980-9f8e112b42e4",
+  "instruction": "Define a Node object as follows:",
+  "input": "",
+  "output": "class Node:\n    \"\"\"A Node object containing a data, pointer and other related information.\"\"\"\n\n    def __init__(self, data):\n        \"\"\"Initializes a Node object with its data.\n\n        Attributes:\n            data: A value that this node holds.\n            next: A pointer to the next node in the data structure.\n            previous: A pointer to the previous node in the data structure.\n        \"\"\"\n        self.data = data\n        self.next = None\n        self.previous = None",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

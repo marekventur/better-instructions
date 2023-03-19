@@ -1,0 +1,12 @@
+{
+  "id": "b9a1d567-d443-4581-9b3e-eb9cddfd208c",
+  "instruction": "Generate the product reviews for the following product.",
+  "input": "Apple AirPods Pro",
+  "output": "I just bought the Apple AirPods Pro and I'm so happy with them. The noise cancellation works really well and the sound quality is great. They also fit comfortably in my ears and the charging case is very convenient. I highly recommend these to anyone looking for a reliable pair of wireless earbuds.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

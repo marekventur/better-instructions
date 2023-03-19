@@ -1,0 +1,12 @@
+{
+  "id": "938ba194-42d3-4b61-be7b-3c2fc04ec63f",
+  "instruction": "Find a solution to passing a large data set between two computers.",
+  "input": "",
+  "output": "One solution to passing large data sets between two computers is to use a secure file transfer protocol (SFTP). This protocol allows for secure data transfers between computers, including the ability to authenticate the sender and receiver. Additionally, it provides data encryption and compression to ensure that the data remains secure and efficient during the transfer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

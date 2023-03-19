@@ -1,0 +1,12 @@
+{
+  "id": "29367e59-35a9-4991-9303-7a41b5cb7266",
+  "instruction": "Explain the functionality of an Object-Relational Mapping (ORM)",
+  "input": "",
+  "output": "An Object-Relational Mapping (ORM) is a programming technique that allows developers to work with relational databases using an object-oriented programming language. ORMs provide an easy-to-use layer of abstraction when developing database-driven applications, allowing developers to more easily query and manipulate data from a database. ORMs also eliminate the need for many lines of repetitive SQL code and help to maintain a consistent API for interacting with a database, no matter the underlying database type.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

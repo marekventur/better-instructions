@@ -1,0 +1,12 @@
+{
+  "id": "7fa45f78-882e-40fb-af36-d57641c373cf",
+  "instruction": "Create a class that implements the following interface: Person",
+  "input": "",
+  "output": "class Person implements Person {\n  private String name;  \n  private int age;  \n\n  public Person(String name, int age) {\n    this.name = name;\n    this.age = age;\n  }\n\n  public String getName() {\n    return name;\n  }\n\n  public int getAge() {\n    return age;\n  }\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

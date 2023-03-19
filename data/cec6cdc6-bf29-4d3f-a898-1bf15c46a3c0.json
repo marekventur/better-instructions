@@ -1,0 +1,12 @@
+{
+  "id": "cec6cdc6-bf29-4d3f-a898-1bf15c46a3c0",
+  "instruction": "Suppose you are given a news story. Summarize the story in no more than 7-10 sentences.",
+  "input": "A new species of frog was discovered in the Amazon rainforest last month.",
+  "output": "Researchers have discovered a new species of frog in the Amazon rainforest. The species, which has yet to be named, is the first of its kind to be discovered in the Amazon in nearly two decades. It has a colorful mottled brown and yellow checkered pattern on its back and is roughly 8 cm long. It lives in humid forests and is nocturnal, hunting for insects and snails at night. The species was first spotted by a group of scientists who were exploring the area. After careful observation, the team was able to determine its characteristics and classify it as a new species. It is hoped that this new discovery will lead to more understanding of the Amazon's diverse wildlife and ecosystems.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

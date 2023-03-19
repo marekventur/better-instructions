@@ -1,0 +1,12 @@
+{
+  "id": "5d610c12-d42a-461d-acd3-15fc6b2fe013",
+  "instruction": "Reformulate the given sentence without changing its meaning.",
+  "input": "Whenever I go to the store, I buy some chocolate.",
+  "output": "I always purchase chocolate whenever I visit the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

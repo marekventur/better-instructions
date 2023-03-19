@@ -1,0 +1,12 @@
+{
+  "id": "60060f38-1c25-4387-a2bd-6ccd56fe6642",
+  "instruction": "Given a list of inventory items, output the price of each item.",
+  "input": "Inventory items: apples, oranges, bananas",
+  "output": "The price of apples is $1.50, oranges is $2.00, and bananas is $2.50.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

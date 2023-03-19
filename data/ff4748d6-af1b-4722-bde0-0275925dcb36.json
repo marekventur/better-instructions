@@ -1,0 +1,12 @@
+{
+  "id": "ff4748d6-af1b-4722-bde0-0275925dcb36",
+  "instruction": "Given a list of words, identify the words with similar meanings.",
+  "input": "Destruction, devastation",
+  "output": "Destruction and devastation are words with similar meanings.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9125c44b-b14e-4fed-ba42-1310e59c88ef",
+  "instruction": "Classify whether the following sentence follows the structure of active voice or not. Output 1 for active voice, and 0 for not.",
+  "input": "The cat was hidden by the dog.",
+  "output": "0",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

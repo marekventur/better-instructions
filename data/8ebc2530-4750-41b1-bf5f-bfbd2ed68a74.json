@@ -1,0 +1,12 @@
+{
+  "id": "8ebc2530-4750-41b1-bf5f-bfbd2ed68a74",
+  "instruction": "Rank the US states based on the highest percentage of elderly population. Output a list of states with the state name and corresponding percentage.",
+  "input": "",
+  "output": "Florida is the state with the highest percentage of elderly population at 21.7%, followed by Maine at 19.7%, West Virginia at 18.2%, Pennsylvania at 17.8%, Iowa at 17.2%, and so on.The other states in the top 10 include: Rhode Island, Vermont, South Dakota, New Hampshire, and Minnesota.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

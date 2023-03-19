@@ -1,0 +1,12 @@
+{
+  "id": "1de055e4-2f47-4529-bffc-3a2180d6a026",
+  "instruction": "Rewrite the following sentence two times, using two different figurative expressions.",
+  "input": "He is cooking up a storm.",
+  "output": "1. He is whipping up a typhoon. \n2. He is stirring up a hurricane.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

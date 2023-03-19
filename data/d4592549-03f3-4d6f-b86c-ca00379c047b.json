@@ -1,0 +1,12 @@
+{
+  "id": "d4592549-03f3-4d6f-b86c-ca00379c047b",
+  "instruction": "Determine whether the given two words are synonyms or antonyms",
+  "input": "Life - Death",
+  "output": "Antonyms",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

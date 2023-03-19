@@ -1,0 +1,12 @@
+{
+  "id": "8ca780a4-8c20-4cb7-a4b1-ede9a7770905",
+  "instruction": "Classify the following text into one of the following categories: travel & tourism, health & fitness, culinary, tech & gadgets.",
+  "input": "I was looking into buying a new laptop.",
+  "output": "Tech & Gadgets",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

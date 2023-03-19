@@ -1,0 +1,12 @@
+{
+  "id": "840312f8-4aba-4b80-9af6-f6c07e20c2fc",
+  "instruction": "Determine a price point for the item.",
+  "input": "Widget",
+  "output": "The price point for the widget should be $19.99. This is an affordable and competitive price point, while also giving the company a good margin.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

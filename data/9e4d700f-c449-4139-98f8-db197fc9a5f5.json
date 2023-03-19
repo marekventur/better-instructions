@@ -1,0 +1,12 @@
+{
+  "id": "9e4d700f-c449-4139-98f8-db197fc9a5f5",
+  "instruction": "Generate an algorithm for sorting an array of integers in descending order.",
+  "input": "",
+  "output": "A sorting algorithm for an array of integers in descending order is as follows:\n\n1. Set a pointer to the first element in the array.\n2. Compare the element currently pointed at with the rest of the elements in the array.\n3. Swap the elements if a larger element is encountered. \n4. Repeat steps 2-3 until the end of the array is reached.\n5. Move the pointer to the next element and repeat steps 2-4 until the array is sorted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

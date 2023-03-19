@@ -1,0 +1,12 @@
+{
+  "id": "ac85a566-6cbc-49b5-ad72-f6e6397f42c0",
+  "instruction": "Given a word, give an example of an antonym.",
+  "input": "Word: Hot",
+  "output": "Cold",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

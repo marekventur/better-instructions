@@ -1,0 +1,12 @@
+{
+  "id": "2f146b3a-98d7-4c05-9329-b50d95276df7",
+  "instruction": "Create an example for the given data structure.",
+  "input": "Heap",
+  "output": "A heap can be used to store a sequence of values in a tree-like structure. For example, a heap might be used to store a sequence of exam scores so that the largest score can be pulled out easily. The heap would contain the scores in order, with the largest value at the top of the heap, and the smaller values below it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

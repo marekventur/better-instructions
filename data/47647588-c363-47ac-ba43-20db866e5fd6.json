@@ -1,0 +1,12 @@
+{
+  "id": "47647588-c363-47ac-ba43-20db866e5fd6",
+  "instruction": "Suggest a list of books for someone beginning to explore a given topic.",
+  "input": "Topic: Astronomy",
+  "output": "1. Astronomy: A Visual Guide by Mark A. Garlick \n2. The Night Sky Companion by Tammy Plotner \n3. The Cosmos: A Visual Journey by Mario Acuna\n4. Astronomy for Dummies by Stephen P. Maran \n5. The Cosmic Perspective by Megan Donahue, Mark Voit and Nick Goldman\n6. An Introduction to Astronomy and Cosmology by J. N. Hughes\n7. The Illustrated Guide to Astronomy by Someeran Kunwar \n8. Looking Up: A Journey Through the Cosmos by Roy A. Gallant",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

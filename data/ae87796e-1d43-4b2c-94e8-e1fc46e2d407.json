@@ -1,0 +1,12 @@
+{
+  "id": "ae87796e-1d43-4b2c-94e8-e1fc46e2d407",
+  "instruction": "Classify this article into either Political Science, Economics, or History.",
+  "input": "This article aims to provide an overview of the latest French government initiatives in terms of reforming taxes and public spending.",
+  "output": "Economics",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

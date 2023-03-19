@@ -1,0 +1,12 @@
+{
+  "id": "4a8e50b4-a92b-44f1-9af2-a75655a7373b",
+  "instruction": "Find the 6th result of the list",
+  "input": "Apple, Banana, Orange, Strawberry, Grapes, Pineapple, Mango",
+  "output": "Pineapple",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

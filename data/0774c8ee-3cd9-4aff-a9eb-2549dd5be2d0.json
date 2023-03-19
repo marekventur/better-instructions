@@ -1,0 +1,12 @@
+{
+  "id": "0774c8ee-3cd9-4aff-a9eb-2549dd5be2d0",
+  "instruction": "From the facts, construct a multiple-choice quiz.",
+  "input": "Fact: The longest river in the world is the Nile River.",
+  "output": "Q. What is the longest river in the world? \nA. Yangtze River \nB. Mississippi River \nC. Nile River \nD. Yellow River \n\nAnswer: C. Nile River",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "45fba188-2de7-488b-855c-4ca1d6a535b7",
+  "instruction": "Make a word cloud on the given topic.",
+  "input": "Artificial Intelligence",
+  "output": "<Word Cloud Output>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

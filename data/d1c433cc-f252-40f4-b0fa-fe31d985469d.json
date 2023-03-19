@@ -1,0 +1,12 @@
+{
+  "id": "d1c433cc-f252-40f4-b0fa-fe31d985469d",
+  "instruction": "Rank the following products from best to worst.",
+  "input": "Samsung TV, Sony TV, LG TV",
+  "output": "Sony TV, Samsung TV, LG TV",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

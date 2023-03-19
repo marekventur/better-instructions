@@ -1,0 +1,12 @@
+{
+  "id": "8072346f-e365-452a-8ced-cfdc2dfb26d1",
+  "instruction": "Create a Java program for calculating the factorial of a number",
+  "input": "",
+  "output": "public class Factorial {\n    public static void main(String[] args) {\n        int num = 5;\n        int factorial = 1;\n        for(int i = 1; i <= num; i++) {\n            factorial = factorial * i;\n        }\n        System.out.println(\"The factorial of \" + num + \" is: \" + factorial);\n    }\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

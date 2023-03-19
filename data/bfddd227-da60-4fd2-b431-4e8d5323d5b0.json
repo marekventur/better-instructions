@@ -1,0 +1,12 @@
+{
+  "id": "bfddd227-da60-4fd2-b431-4e8d5323d5b0",
+  "instruction": "Given a piece of product description, come up with three interesting adjectives to describe the product.",
+  "input": "Ankle boots",
+  "output": "Stylish, Comfortable, Versatile.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

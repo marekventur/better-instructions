@@ -1,0 +1,12 @@
+{
+  "id": "5bdd4296-4cec-485b-a57f-a2a15c6b3bb3",
+  "instruction": "Summarize the latest research paper on Machine Learning.",
+  "input": "Recent Advances in [Bayesian Optimization](http://www.jmlr.org/papers/v18/17-529.html)",
+  "output": "This paper reviews the recent advances in Bayesian optimization, a branch of machine learning that uses probabilistic models to make decisions in dynamic environments. It provides an overview of the theory and methodology of Bayesian optimization, and discusses its use in complex real-world applications such as robotics. The paper also analyses the advantages and limitations of Bayesian optimization, before providing future research opportunities and concluding with a summary of the current state of development in this area.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

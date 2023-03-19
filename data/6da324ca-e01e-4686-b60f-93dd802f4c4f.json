@@ -1,0 +1,12 @@
+{
+  "id": "6da324ca-e01e-4686-b60f-93dd802f4c4f",
+  "instruction": "Detect if the sentence contains any similar words. If yes, indicate these words.",
+  "input": "The answer to the question is right.",
+  "output": "Similar words detected: answer, right.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

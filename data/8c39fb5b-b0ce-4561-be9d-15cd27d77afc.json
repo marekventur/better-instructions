@@ -1,0 +1,12 @@
+{
+  "id": "8c39fb5b-b0ce-4561-be9d-15cd27d77afc",
+  "instruction": "Design a generic trading card game.",
+  "input": "",
+  "output": "This is a generic trading card game that uses decks of 60 cards where players take turns drawing cards from a shared deck, playing cards from their hand, and using special abilities. The goal of the game is to reduce the other players' points to 0 by using card abilities, trading cards, and strategic decision-making. Each card contains a value, a type (attack, defense, special ability, etc.), and an ability description. Players can use combinations of cards to create an effective strategy and win the game.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

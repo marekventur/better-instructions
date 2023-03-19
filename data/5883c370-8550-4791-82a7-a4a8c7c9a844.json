@@ -1,0 +1,12 @@
+{
+  "id": "5883c370-8550-4791-82a7-a4a8c7c9a844",
+  "instruction": "Group the words according to their part of speech.",
+  "input": "Strong, long, apple",
+  "output": "Adjective: Strong, long\nNoun: Apple",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

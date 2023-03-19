@@ -1,0 +1,12 @@
+{
+  "id": "1dfec4c9-d1b7-46f5-840a-33593132c6ea",
+  "instruction": "Generate a list of 10 restaurants in Montreal with a rating of 4.5 stars or higher on Google.",
+  "input": "",
+  "output": "1. Joe Beef \n2. L'Express \n3. Les 400 Coups \n4. Festival Saveurs et Saisons\n5. Restaurant Toque!\n6. La Chronique \n7. Plats du Chef\n8. La Banquise \n9. La Habanera \n10. La Taqueria tacos et Burritos",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

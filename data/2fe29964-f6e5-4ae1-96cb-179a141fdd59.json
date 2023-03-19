@@ -1,0 +1,12 @@
+{
+  "id": "2fe29964-f6e5-4ae1-96cb-179a141fdd59",
+  "instruction": "Guide a user to find the version of an application",
+  "input": "Microsoft Office",
+  "output": "To find the version of Microsoft Office, go to the program's About menu. This is typically found in the File menu, the Help menu, or within the program itself. Once you open the menu, you should see the exact version number listed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

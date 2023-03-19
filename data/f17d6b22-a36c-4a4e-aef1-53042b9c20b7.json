@@ -1,0 +1,12 @@
+{
+  "id": "f17d6b22-a36c-4a4e-aef1-53042b9c20b7",
+  "instruction": "Analyze the data and summarize your findings.",
+  "input": "A recent survey was conducted across 10 college campuses to study the impact of the government-mandated COVID-19 protocol.",
+  "output": "The survey revealed that the majority of students had mixed responses toward the government-mandated COVID-19 protocol. Most respondents reported feeling safer with the protocol in place, but many also said that it had hindered their academic and social lives. Of those surveyed, 64% reported that the protocol had reduced their academic performance, while 40% said that it had diminished their social life. Additionally, 52% said that they were more anxious as a result of the protocol. In conclusion, the survey suggests that while the majority of respondents felt that the protocol has helped make campuses safer, it has also had a negative impact on social relationships and academic performance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

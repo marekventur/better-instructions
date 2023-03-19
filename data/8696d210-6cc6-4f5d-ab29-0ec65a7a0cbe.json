@@ -1,0 +1,12 @@
+{
+  "id": "8696d210-6cc6-4f5d-ab29-0ec65a7a0cbe",
+  "instruction": "Suggest movie titles based on this quotation.",
+  "input": "When a storm arrives, some people run away, while others make their stand.",
+  "output": "1. Running to the Storm\n2. Facing the Winds Of Change\n3. Stronger Together\n4. Standing Together in the Rain\n5. The Courage to Weather the Storm\n6. Beyond the Storm\n7. Making it Through the Storm\n8. Defying the Storm\n9. Converging Storms\n10. Gathering the Storm",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

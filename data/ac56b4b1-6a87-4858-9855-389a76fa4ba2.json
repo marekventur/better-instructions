@@ -1,0 +1,12 @@
+{
+  "id": "ac56b4b1-6a87-4858-9855-389a76fa4ba2",
+  "instruction": "Generate a list of medical equipment items.",
+  "input": "",
+  "output": "- Sphygmomanometers \n- Stethoscope \n- Otoscope \n- Ultrasound Machine \n- X-ray Machine \n- CT Scanner \n- MRI Machine \n- Defibrillator \n- Endoscope \n- Microscope \n- ECG Machine \n- Resuscitator \n- Infusion Pump \n- Suction Machine \n- Syringe \n- Dialysis Machine  \n- Surgical Knife \n- Autoclave",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

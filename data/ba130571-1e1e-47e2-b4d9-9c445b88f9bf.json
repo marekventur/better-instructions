@@ -1,0 +1,12 @@
+{
+  "id": "ba130571-1e1e-47e2-b4d9-9c445b88f9bf",
+  "instruction": "Given the following sentence, find out all the verbs used in it.",
+  "input": "He ran quickly to the store to buy groceries.",
+  "output": "ran, buy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

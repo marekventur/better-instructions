@@ -1,0 +1,12 @@
+{
+  "id": "df19e783-4137-4e39-bcd8-fb93db87bdbf",
+  "instruction": "Detect if the following statement is true or false.\nStatement: The sun rises in the west.",
+  "input": "",
+  "output": "False. The sun rises in the east.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

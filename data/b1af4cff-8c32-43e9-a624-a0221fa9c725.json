@@ -1,0 +1,12 @@
+{
+  "id": "b1af4cff-8c32-43e9-a624-a0221fa9c725",
+  "instruction": "Describe the following place. Output the description.",
+  "input": "The Grand Canyon",
+  "output": "The Grand Canyon is one of the most incredible natural wonders in the world. The canyon spans 277 miles in length and can be up to 18 miles wide in certain places. With towering cliff walls, evergreen forests, and the mighty Colorado River running its length, it truly is an awe-inspiring sight. The area around the canyon is home to diverse wildlife, including endangered species like the California condor and the desert tortoise. Visiting the Grand Canyon is an unforgettable experience that is sure to take your breath away.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

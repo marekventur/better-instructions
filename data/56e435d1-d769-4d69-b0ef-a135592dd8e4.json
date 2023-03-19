@@ -1,0 +1,12 @@
+{
+  "id": "56e435d1-d769-4d69-b0ef-a135592dd8e4",
+  "instruction": "Given two strings, identify the string with the longest common substring.",
+  "input": "hello = hallo",
+  "output": "hallo",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

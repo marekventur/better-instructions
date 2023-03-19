@@ -1,0 +1,12 @@
+{
+  "id": "71cf6382-ee6a-4846-9cc5-4fb69722582b",
+  "instruction": "Provide an example of a code written in Java that prints out the current date and time.",
+  "input": "",
+  "output": "import java.time.LocalDateTime;\n \npublic class DateTimeExample {\n   public static void main(String[] args) {\n      LocalDateTime currentTime = LocalDateTime.now();\n      System.out.println(currentTime);\n   }\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

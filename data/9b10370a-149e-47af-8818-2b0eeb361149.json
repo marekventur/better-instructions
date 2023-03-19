@@ -1,0 +1,12 @@
+{
+  "id": "9b10370a-149e-47af-8818-2b0eeb361149",
+  "instruction": "Describe some of the applications of natural language algorithms.",
+  "input": "",
+  "output": "Natural language algorithms are used in a variety of applications, such as automatic machine translation, image captioning, text summarization, question answering, and dialogue system. Natural language algorithms can also be used for text classification problems such as sentiment analysis, text categorization, intent recognition and document classification. Natural language algorithms are also used in conversational AI and chatbots to process natural language and generate context-aware dialogue with users. Other applications include text-to-speech, voice recognition, and handwritten text digitization.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

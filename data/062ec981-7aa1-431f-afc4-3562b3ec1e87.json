@@ -1,0 +1,12 @@
+{
+  "id": "062ec981-7aa1-431f-afc4-3562b3ec1e87",
+  "instruction": "Rewrite the sentence by changing the verb into its past tense",
+  "input": "He takes the bus to work everyday.",
+  "output": "He took the bus to work everyday.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

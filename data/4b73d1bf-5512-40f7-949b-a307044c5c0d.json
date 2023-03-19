@@ -1,0 +1,12 @@
+{
+  "id": "4b73d1bf-5512-40f7-949b-a307044c5c0d",
+  "instruction": "Cite three common techniques in deep learning.",
+  "input": "",
+  "output": "Three common techniques in deep learning are convolutional neural networks (CNNs), recurrent neural networks (RNNs), and reinforcement learning. CNNs are used for image processing, such as for recognizing faces or objects in an image. RNNs are used for natural language processing, such as for recognizing words in text. Reinforcement learning is used in complex tasks such as playing video games, where it is used to choose the most optimal series of moves.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

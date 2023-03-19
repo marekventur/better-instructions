@@ -1,0 +1,12 @@
+{
+  "id": "dc2dfc18-96f7-4351-b3f1-74e60f338f6b",
+  "instruction": "Construct a suitable SQL query to fetch some data from a given table",
+  "input": "Table: Inventory",
+  "output": "SELECT * FROM Inventory WHERE quantity > 0;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

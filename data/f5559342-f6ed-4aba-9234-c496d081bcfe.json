@@ -1,0 +1,12 @@
+{
+  "id": "f5559342-f6ed-4aba-9234-c496d081bcfe",
+  "instruction": "Complete this sentence by selecting an adjective that could describe a cat:",
+  "input": "The cat looked <mask>",
+  "output": "The cat looked sly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

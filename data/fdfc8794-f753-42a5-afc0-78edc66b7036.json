@@ -1,0 +1,12 @@
+{
+  "id": "fdfc8794-f753-42a5-afc0-78edc66b7036",
+  "instruction": "Provide the English to Spanish translation for the following phrase",
+  "input": "\"I love you\"",
+  "output": "\"Te quiero\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

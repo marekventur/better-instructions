@@ -1,0 +1,12 @@
+{
+  "id": "254a1604-7782-49fa-8ce3-d23115d47df6",
+  "instruction": "Find a word in the dictionary that is spelled correctly and has the same meaning as the given one.",
+  "input": "caire",
+  "output": "cairn",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

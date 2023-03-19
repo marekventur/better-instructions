@@ -1,0 +1,12 @@
+{
+  "id": "c588a12d-350e-4f33-9373-724d704ad348",
+  "instruction": "Using the given sentence, remove all the characters except 0 and 1.",
+  "input": "a8,bu}z$3h21",
+  "output": "810101",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

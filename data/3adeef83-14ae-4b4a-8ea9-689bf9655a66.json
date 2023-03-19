@@ -1,0 +1,12 @@
+{
+  "id": "3adeef83-14ae-4b4a-8ea9-689bf9655a66",
+  "instruction": "Create an algorithm to detect malicious activity from a website.",
+  "input": "",
+  "output": "The algorithm should look for suspicious activities, such as unusual network requests or unexpected behavior on the website. It should also keep track of past activities by users and compare them with current ones. Additionally, it should analyze the source code of the website and search for malicious code or detectable patterns. Moreover, it should monitor outbound network connections and detect any attempts to send malicious data. Finally, it should employ machine learning techniques to recognize any unusual activity that is not flagged by existing rules.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

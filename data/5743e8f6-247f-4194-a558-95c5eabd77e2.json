@@ -1,0 +1,12 @@
+{
+  "id": "5743e8f6-247f-4194-a558-95c5eabd77e2",
+  "instruction": "Given a set of survey responses, determine the average response to each question.",
+  "input": "1. How satisfied are you with the service? \n* Very satisfied \n* Satisfied \n* Neutral \n* Unsatisfied \n* Very Unsatisfied \n2. How likely are you to recommend the service to a friend? \n* Very likely \n* Somewhat likely \n* Neutral \n* Somewhat unlikely \n* Very unlikely",
+  "output": "Average response to question 1: Satisfied \nAverage response to question 2: Somewhat likely",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

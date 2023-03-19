@@ -1,0 +1,12 @@
+{
+  "id": "ed4c77e8-c171-4141-9f72-78e7391cd503",
+  "instruction": "List 8 characteristics of cloud computing.",
+  "input": "",
+  "output": "1. scalability: the ability to increase or decrease storage, computing power and other computing resources to meet demand\n2. elasticity: the ability to use resources flexibly and to pay for only what is used\n3. on-demand self-service: resources can be provisioned and released with minimal intervention \n4. pay-per-use: costs are based on usage and are often metered\n5. resource pooling: resources are pooled from multiple users and accessed over the internet\n6. rapid provisioning: services become available quickly, without downtime\n7. metering and billing transparency: costs, usage and other information is made available through accurate billing \n8. automated resource management: services are automatically provisioned, managed and released to meet the user's needs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

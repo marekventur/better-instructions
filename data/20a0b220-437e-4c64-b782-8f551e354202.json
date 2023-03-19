@@ -1,0 +1,12 @@
+{
+  "id": "20a0b220-437e-4c64-b782-8f551e354202",
+  "instruction": "What is the probability of getting exactly three heads when flipping a coin four times?",
+  "input": "",
+  "output": "The probability of getting exactly three heads when flipping a coin four times is 1/4 or 25%. This is because there is only one combination of three heads out of a possible 4 combinations when flipping the coin four times. The other combinations consist of two heads, one head and four heads. So the probability of getting exactly three heads is 1/4 (or 25%).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

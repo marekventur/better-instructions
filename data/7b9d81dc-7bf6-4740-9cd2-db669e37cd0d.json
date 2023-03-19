@@ -1,0 +1,12 @@
+{
+  "id": "7b9d81dc-7bf6-4740-9cd2-db669e37cd0d",
+  "instruction": "Arrange the following countries in descending order of population size.",
+  "input": "Australia, China, Brazil",
+  "output": "China, Brazil, Australia",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

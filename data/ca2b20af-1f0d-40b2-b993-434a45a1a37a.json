@@ -1,0 +1,12 @@
+{
+  "id": "ca2b20af-1f0d-40b2-b993-434a45a1a37a",
+  "instruction": "Describe what makes a valid password.",
+  "input": "",
+  "output": "A valid password should be at least 8 characters long and contain at least one uppercase letter, one lowercase letter, one number, and one special character. Additionally, passwords should not contain any personal information such as names, addresses, or dates of birth.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

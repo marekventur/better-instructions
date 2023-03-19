@@ -1,0 +1,12 @@
+{
+  "id": "0cef5f47-5793-4ad0-a666-221f371107eb",
+  "instruction": "Predict the future price of a specific stock.",
+  "input": "Tesla TSLA",
+  "output": "The future price of Tesla (TSLA) will depend on several factors such as the company's performance, its competitors, as well as the overall market trends. It is difficult to predict the exact price of a specific stock at a future time, but analysts provide an estimated range of where the stock price might be.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

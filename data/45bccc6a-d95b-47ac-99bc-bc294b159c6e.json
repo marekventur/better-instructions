@@ -1,0 +1,12 @@
+{
+  "id": "45bccc6a-d95b-47ac-99bc-bc294b159c6e",
+  "instruction": "Configure a wireless router.",
+  "input": "",
+  "output": "The first step to configuring a wireless router is to connect it to your broadband modem. After that, you need to connect to the router's web-based interface. Once logged into the router\u2019s interface, you will be able to configure the router's wireless settings, such as the network name and security settings, as well as set up port forwarding or enable features such as Universal Plug and Play. After configuring the router, you should always test the connection to make sure that it is secure and working as expected.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

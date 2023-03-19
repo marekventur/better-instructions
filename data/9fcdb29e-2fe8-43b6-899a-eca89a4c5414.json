@@ -1,0 +1,12 @@
+{
+  "id": "9fcdb29e-2fe8-43b6-899a-eca89a4c5414",
+  "instruction": "Convert the following steps into a Python program.",
+  "input": "1. Ask the user to enter a positive number\n2. Calculate the logarithm (base 10) of the given number\n3. Print the calculated value",
+  "output": "num = float(input('Please enter a positive number: '))\n \nlog10 = math.log10(num)\n \nprint('The logarithm (base 10) of the given number is', log10)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

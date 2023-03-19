@@ -1,0 +1,12 @@
+{
+  "id": "6c274c29-a5ce-4803-bf6b-b6141d914acf",
+  "instruction": "Write a code snippet to output the sum of two variables:",
+  "input": "num1 = 3\nnum2 = 4",
+  "output": "int sum = num1 + num2;\nSystem.out.println(\"Sum of numbers: \" + sum); // Outputs: Sum of numbers: 7",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

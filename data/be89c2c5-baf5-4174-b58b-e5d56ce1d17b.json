@@ -1,0 +1,12 @@
+{
+  "id": "be89c2c5-baf5-4174-b58b-e5d56ce1d17b",
+  "instruction": "Identify the theme in the following passage about a family reunion",
+  "input": "The Smith family had been planning their reunion for months, and when the day arrived, it was a happy, boisterous occasion. The youngest members of the family ran around laughing and playing. The older members reminisced about past reunions and laughed at the stories they shared. Everyone cherished the time they had together and wanted it to last as long as possible.",
+  "output": "The theme of the passage is cherishing family togetherness.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

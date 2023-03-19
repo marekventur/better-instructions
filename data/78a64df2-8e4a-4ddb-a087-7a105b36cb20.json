@@ -1,0 +1,12 @@
+{
+  "id": "78a64df2-8e4a-4ddb-a087-7a105b36cb20",
+  "instruction": "Create 4 categories for an article about a city",
+  "input": "",
+  "output": "The article about the city could be divided into 4 categories: 1) History; 2) Culture; 3) Local Attractions; and 4) Special Events. \n\nThe History category would provide information about the development of the city, when it was founded, any momentous occasions or battles that occurred in the area, and any notable leaders or individuals from the region.\n\nThe Culture category would cover the traditions and customs of the local people, as well as any ethnic minorities in the area. It could also include any noteworthy landmarks, architecture, or cuisine. \n\nThe Local Attractions category would introduce important attractions within the city such as parks, museums, theatres, and monuments. \n\nThe Special Events category would provide information about annual or semi-annual events within the city such as festivals, parades, or weekly occasions like farmer's markets.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

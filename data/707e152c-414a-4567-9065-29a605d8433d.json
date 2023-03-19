@@ -1,0 +1,12 @@
+{
+  "id": "707e152c-414a-4567-9065-29a605d8433d",
+  "instruction": "Group the following ingredients into savory and sweet dishes.",
+  "input": "Egg, Olive Oil, Flour, Sugar",
+  "output": "Savory: Egg, Olive Oil, Flour\nSweet: Sugar",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

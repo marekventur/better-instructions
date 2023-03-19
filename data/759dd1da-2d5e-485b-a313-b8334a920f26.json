@@ -1,0 +1,12 @@
+{
+  "id": "759dd1da-2d5e-485b-a313-b8334a920f26",
+  "instruction": "Determine the winning side in this game.",
+  "input": "Player A: 6\nPlayer B: 5",
+  "output": "Player A is the winner of the game with 6 points.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

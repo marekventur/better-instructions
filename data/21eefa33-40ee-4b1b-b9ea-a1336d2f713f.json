@@ -1,0 +1,12 @@
+{
+  "id": "21eefa33-40ee-4b1b-b9ea-a1336d2f713f",
+  "instruction": "Create a filler conversation using the given keywords.",
+  "input": "Keywords: dog, coffee, running",
+  "output": "Person A: I just adopted a new dog! I'm so excited. \nPerson B: Wow, that's great! What kind of puppy did you get? \nPerson A: A golden retriever! I'm going to need lots of coffee to keep up with her energy levels. \nPerson B: Coffee and running might be a better solution. \nPerson A: Ha, you're right. She's already out of control!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

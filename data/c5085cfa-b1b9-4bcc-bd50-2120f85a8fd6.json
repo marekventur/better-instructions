@@ -1,0 +1,12 @@
+{
+  "id": "c5085cfa-b1b9-4bcc-bd50-2120f85a8fd6",
+  "instruction": "Describe the differences between two types of programming languages.",
+  "input": "Low-level languages and high-level languages",
+  "output": "Low-level languages interact directly with the computer's hardware, allowing for optimized runtime and memory usage. Low level languages are closer to machine language and provide more control over the computer\u2019s execution of instructions. In contrast, high-level languages are easier to read and understand. They use a more abstract language which is close to natural language and are used for general programming tasks. High-level languages are easier to debug and require less coding compared to low-level languages.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

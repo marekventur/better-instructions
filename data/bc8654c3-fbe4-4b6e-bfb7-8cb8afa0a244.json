@@ -1,0 +1,12 @@
+{
+  "id": "bc8654c3-fbe4-4b6e-bfb7-8cb8afa0a244",
+  "instruction": "Reverse this array: [1, 2, 3, 4, 5]",
+  "input": "[1, 2, 3, 4, 5]",
+  "output": "[5, 4, 3, 2, 1]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

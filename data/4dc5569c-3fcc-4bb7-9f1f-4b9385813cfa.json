@@ -1,0 +1,12 @@
+{
+  "id": "4dc5569c-3fcc-4bb7-9f1f-4b9385813cfa",
+  "instruction": "Given two strings, find out if one is a substring of another. Output 1 for yes, 0 for no.",
+  "input": "String 1: food\nString 2: wrongdoing",
+  "output": "0",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ccdd1001-c8a9-4f5a-88e0-664767c1be29",
+  "instruction": "Choose either \"true\" or \"false\"",
+  "input": "A rhombus has four equal sides.",
+  "output": "True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

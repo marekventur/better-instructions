@@ -1,0 +1,12 @@
+{
+  "id": "17b97652-3688-4004-ba0c-86e03ce86f5e",
+  "instruction": "Summarize the key points of the following scenario",
+  "input": "Scenario: A car accident in a busy intersection",
+  "output": "A car accident occurred at a busy intersection, resulting in property damage and potentially injuries. The cause of the accident is being investigated and traffic is currently blocked at the intersection. Police and emergency medical services have been called to the scene and the situation is ongoing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

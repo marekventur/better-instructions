@@ -1,0 +1,12 @@
+{
+  "id": "06640472-0a29-4a55-8f31-e690b2b315f8",
+  "instruction": "Construct an algorithm to solve the given problem.",
+  "input": "Problem: Calculate the sum of all multiples of 3 and 5 between 1 and 100",
+  "output": "Algorithm:\n1. Initialize Sum as 0.\n2. Set a variable i to 0.\n3. While i is less than or equal to 100, do the following: \n  a. If i is divisible by 5 or 3, add the value of i to Sum.\n  b. Increment i by 1.\n4. Return the value of Sum.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

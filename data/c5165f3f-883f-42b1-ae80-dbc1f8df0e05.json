@@ -1,0 +1,12 @@
+{
+  "id": "c5165f3f-883f-42b1-ae80-dbc1f8df0e05",
+  "instruction": "Sort a list of vegetables in alphabetical order.",
+  "input": "Radish, Carrot, Cucumber, Potato",
+  "output": "Carrot, Cucumber, Potato, Radish",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

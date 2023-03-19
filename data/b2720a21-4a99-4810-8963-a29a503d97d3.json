@@ -1,0 +1,12 @@
+{
+  "id": "b2720a21-4a99-4810-8963-a29a503d97d3",
+  "instruction": "Generate a CSS code that horizontally centers an iframe.",
+  "input": "",
+  "output": "iframe {\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    transform: translate(-50%, -50%);\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

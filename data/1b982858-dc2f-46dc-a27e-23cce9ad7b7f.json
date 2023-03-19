@@ -1,0 +1,12 @@
+{
+  "id": "1b982858-dc2f-46dc-a27e-23cce9ad7b7f",
+  "instruction": "Generate a new sentence by changing the verb-ing form to its base form.",
+  "input": "She was running around in circles.",
+  "output": "She ran around in circles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

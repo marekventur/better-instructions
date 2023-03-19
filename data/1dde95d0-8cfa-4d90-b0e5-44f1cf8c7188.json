@@ -1,0 +1,12 @@
+{
+  "id": "1dde95d0-8cfa-4d90-b0e5-44f1cf8c7188",
+  "instruction": "Find out how much time the below statement would take to read aloud.",
+  "input": "\"In the land of small business, profits trump all.\"",
+  "output": "2.4 seconds.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

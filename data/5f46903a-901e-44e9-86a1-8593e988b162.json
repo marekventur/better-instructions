@@ -1,0 +1,12 @@
+{
+  "id": "5f46903a-901e-44e9-86a1-8593e988b162",
+  "instruction": "Detect errors in a procedure or algorithm",
+  "input": "If there is a number greater than five, subtract one from it.",
+  "output": "No errors detected.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

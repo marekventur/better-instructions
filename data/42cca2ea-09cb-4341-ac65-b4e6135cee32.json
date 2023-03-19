@@ -1,0 +1,12 @@
+{
+  "id": "42cca2ea-09cb-4341-ac65-b4e6135cee32",
+  "instruction": "What does an embedding layer do in a neural network?",
+  "input": "",
+  "output": "An embedding layer in a neural network is used to learn a dense low dimensional representation of a sparse high dimensional input. This allows the representation of categorical data such as words, phrases, etc. to become a part of a neural network and be used in making predictions. Embeddings also allow we to reduce the dimensionality of the problem, which can speed up training and improve the model's performance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

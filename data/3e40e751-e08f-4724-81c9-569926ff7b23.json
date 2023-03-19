@@ -1,0 +1,12 @@
+{
+  "id": "3e40e751-e08f-4724-81c9-569926ff7b23",
+  "instruction": "Given a sentence, produce the plural form of given nouns.",
+  "input": "She ate an apple.",
+  "output": "She ate apples.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

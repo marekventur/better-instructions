@@ -1,0 +1,12 @@
+{
+  "id": "4cd54791-857e-4449-9d75-6ef1b7b64865",
+  "instruction": "Create an app to track travel expenses",
+  "input": "",
+  "output": "The app should have functions to allow the user to record and track travel expenses including lodging, transport, food and entertainment expenses. The app should have the ability to add expenses to a list, categorize each expense, assign them to a specific trip, add pictures of receipts and generate reports.  The app should also be able to sync data across devices, calculate total expenses and expenses in each category, set budget goals and track progress.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

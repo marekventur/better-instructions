@@ -1,0 +1,12 @@
+{
+  "id": "d3263adb-1fd0-4109-9e51-ca827cba63ef",
+  "instruction": "Write an email to the manager requesting a change in the meeting time.",
+  "input": "There is a meeting scheduled on Tuesday at 11am and two team members are unable to attend it due to a conflict in their work hours.",
+  "output": "Dear [manager], \n\nWe regret to inform you that two of our team members will not be able to attend the meeting which is scheduled for Tuesday at 11am. This is due to a conflict in their work hours.\nWe kindly request your approval for changing the meeting time to another time that is more suitable for the team. \n\nThank you for your understanding and we look forward to your reply.\n\nSincerely,\n[Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

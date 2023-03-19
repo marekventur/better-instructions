@@ -1,0 +1,12 @@
+{
+  "id": "74b8e86e-be58-4017-81db-b7cf1fcf18bd",
+  "instruction": "Calculate the sum of each column in the following table.",
+  "input": "2   |  3  |  4\n   5   |  6  |  7",
+  "output": "2+3+4 = 9\n5+6+7 = 18",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

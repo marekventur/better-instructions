@@ -1,0 +1,12 @@
+{
+  "id": "281a7f96-6dfe-4f2e-8da4-220e105cfd2f",
+  "instruction": "Create a data structure that contains [name, age, height] of two people.",
+  "input": "",
+  "output": "data_struct = [\n    {'name': 'John', 'age': 25, 'height': 180.5}, \n    {'name': 'Alice', 'age': 27, 'height': 165.5}\n]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

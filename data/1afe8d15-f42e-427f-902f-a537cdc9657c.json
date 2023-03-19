@@ -1,0 +1,12 @@
+{
+  "id": "1afe8d15-f42e-427f-902f-a537cdc9657c",
+  "instruction": "Identify the differences between two text messages.",
+  "input": "Message 1: I want to watch movies with you.\nMessage 2: I want to watch a movie with you.",
+  "output": "The main difference between these two messages is the number of movies being referred to. The first message is referring to multiple movies, while the second message is referring to just one movie.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e4bdac5c-1a54-4126-adf2-85c20e1a94cd",
+  "instruction": "Write an algorithm that sorts an array of integers",
+  "input": "",
+  "output": "def sort_array(arr)\n  sorted = false\n  \n  while !sorted\n    sorted = true\n    \n    (0...arr.length - 1).each do |i|\n      if arr[i] > arr[i + 1]\n        arr[i], arr[i + 1] = arr[i + 1], arr[i]\n        sorted = false\n      end\n    end\n  end\n  \n  arr\nend",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

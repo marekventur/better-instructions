@@ -1,0 +1,12 @@
+{
+  "id": "a8c614af-a636-4e90-a2ae-e51425d44445",
+  "instruction": "Find the maximum speed of the vehicle given an acceleration rate, initial speed and time passed.",
+  "input": "Acceleration rate = 4 m/s^2, initial speed = 10 m/s, time passed = 5 seconds",
+  "output": "50 m/s",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

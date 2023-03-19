@@ -1,0 +1,12 @@
+{
+  "id": "4af3f8db-16a2-496b-9c50-8bbd2c0266c2",
+  "instruction": "Organize the given list alphabetically.",
+  "input": "Cake, Coffee, Bread, Milk",
+  "output": "Bread, Cake, Coffee, Milk",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

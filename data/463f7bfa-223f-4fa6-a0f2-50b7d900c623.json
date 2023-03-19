@@ -1,0 +1,12 @@
+{
+  "id": "463f7bfa-223f-4fa6-a0f2-50b7d900c623",
+  "instruction": "Rewrite the following sentence (using the same words) to correct the use of punctuation",
+  "input": "She said, \"How are you,",
+  "output": "She said, \"How are you?\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

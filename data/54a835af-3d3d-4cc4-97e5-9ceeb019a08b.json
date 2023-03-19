@@ -1,0 +1,12 @@
+{
+  "id": "54a835af-3d3d-4cc4-97e5-9ceeb019a08b",
+  "instruction": "Describe a cloud-computing system.",
+  "input": "",
+  "output": "A cloud-computing system is a distributed computing architecture that enables users to access computational resources from remote servers over the internet. Such systems are hosted on physical or virtual servers located in the cloud, allowing for scalability, redundancy, and reliability. It allows for storage, management and computing of data, applications, and services which can be accessed remotely, typically via an application programming interface (API). Cloud-computing systems are often used for large-scale applications that require remote access to massive amounts of data, such as machine learning and AI. It also offers a range of cost savings and allows users to avoid high upfront costs associated with hardware, software and maintenance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

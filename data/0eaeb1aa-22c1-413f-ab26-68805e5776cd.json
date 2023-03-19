@@ -1,0 +1,12 @@
+{
+  "id": "0eaeb1aa-22c1-413f-ab26-68805e5776cd",
+  "instruction": "Generate a list of 10 items one would need to prepare a simple sandwich",
+  "input": "",
+  "output": "1. Bread\n2. Meat\n3. Cheese\n4. Condiments (ketchup, mustard, etc)\n5. Vegetables (lettuce, tomato, onion, etc)\n6. Utensils (knife, cutting board, etc)\n7. Plate\n8. Napkins\n9. Mayonnaise\n10. Butter or margarine",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "efb26ff9-0caf-47c8-81de-670c2fad59cc",
+  "instruction": "Identiy if the following statement is true or false: Adolf Hitler was Austrian.",
+  "input": "",
+  "output": "False, Adolf Hitler was German.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

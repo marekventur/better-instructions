@@ -1,0 +1,12 @@
+{
+  "id": "9ff39b1c-a7a9-40e4-b5bb-04095f9495a0",
+  "instruction": "Design a web page to show the bio of a famous artist.",
+  "input": "Vincent Van Gogh",
+  "output": "The web page should include a brief introduction of Vincent Van Gogh, such as his accomplishments, the background of his major work, his style and the influence he had. It should also include a selection of his major works, some of his quotes, information about his exhibitions and a biography of his life. Furthermore, the page should also include information about his death, as well as relevant links about him, such as his art galleries, museums and websites.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

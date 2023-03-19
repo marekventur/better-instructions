@@ -1,0 +1,12 @@
+{
+  "id": "4e17a1f8-ef63-4528-9b58-cb4be867b67b",
+  "instruction": "Identify the types of literary devices used in the sentence.",
+  "input": "The flowers were as bright as the sun.",
+  "output": "Simile - The comparison of the flowers to the sun.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

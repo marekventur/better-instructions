@@ -1,0 +1,12 @@
+{
+  "id": "012d3453-d862-4b12-aa55-2436fdde0b48",
+  "instruction": "Create a rule to detect misspelled words",
+  "input": "",
+  "output": "A rule to detect misspelled words could include checking for words that do not appear in a dictionary or that do not match any known rules for spelling. Additionally, words which are not found in a thesaurus could indicate that they are misspelled.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

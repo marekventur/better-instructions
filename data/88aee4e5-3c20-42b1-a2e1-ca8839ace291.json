@@ -1,0 +1,12 @@
+{
+  "id": "88aee4e5-3c20-42b1-a2e1-ca8839ace291",
+  "instruction": "Write a touristic description for the given place.",
+  "input": "Grand Canyon",
+  "output": "The Grand Canyon is a stunning natural wonder located in northern Arizona. With an average of 18 miles in width and 1 mile in depth, it is one of the most impressive landscapes in America. It is home to a variety of plant and animal species and offers endless opportunities for exploration, from hiking and camping to rafting and scenic drives.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

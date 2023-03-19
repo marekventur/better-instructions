@@ -1,0 +1,12 @@
+{
+  "id": "bbeec425-eb17-416c-8484-f105a968f92c",
+  "instruction": "Automatically insert a semicolon at the end of this line of code",
+  "input": "print(\"Hello World!\")",
+  "output": "print(\"Hello World!\");",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

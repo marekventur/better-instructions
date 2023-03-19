@@ -1,0 +1,12 @@
+{
+  "id": "57b2b1cb-039e-48ea-909b-09491656ca2b",
+  "instruction": "Compare the two objects and explain why one is better than the other.",
+  "input": "Object 1: Apple TV\nObject 2: Google Chromecast",
+  "output": "Apple TV and Google Chromecast are two popular streaming devices. Apple TV offers a large selection of apps, a better user interface, and is compatible with Siri, allowing it to be controlled by voice. Google Chromecast is less expensive, has a simpler user interface, and can mirror content from your phone to your TV. While both devices offer streaming capabilities, Apple TV provides the better overall experience, making it the better choice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

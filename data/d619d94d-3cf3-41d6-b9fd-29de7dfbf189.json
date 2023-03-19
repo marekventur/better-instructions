@@ -1,0 +1,12 @@
+{
+  "id": "d619d94d-3cf3-41d6-b9fd-29de7dfbf189",
+  "instruction": "Identify which species of animal is pictured.",
+  "input": "[image of an ocelot]",
+  "output": "The species of animal in the picture is an ocelot (Leopardus pardalis).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

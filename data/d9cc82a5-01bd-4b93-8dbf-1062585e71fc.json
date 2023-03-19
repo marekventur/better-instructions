@@ -1,0 +1,12 @@
+{
+  "id": "d9cc82a5-01bd-4b93-8dbf-1062585e71fc",
+  "instruction": "Generate a theme for a party based on the following facts.",
+  "input": "Location: Beach Town\nTime of year: Spring",
+  "output": "A Spring Break Beach Bonanza is the perfect way to celebrate the arrival of the warmer months! Grab your swimsuits and come to the beach for some fun in the sun with all your friends.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e17b18a3-211e-4e66-a02a-edcc6fdee2ff",
+  "instruction": "Given the following chart, explain the trend it is showing",
+  "input": "<image of a chart showing a trend>",
+  "output": "The chart is showing an increasing trend in the number of people using public transport - the numbers steadily rise from 2005 to 2020, with a slight dip in 2017. This indicates an overall upward trend in public transport usage.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

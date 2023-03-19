@@ -1,0 +1,12 @@
+{
+  "id": "4b7b36a4-d0d5-46c6-ad7b-d0041e8a26f7",
+  "instruction": "Match these words with their synonyms:",
+  "input": "* Admirable - \n* Revolutionary - \n* Celebrated -",
+  "output": "Admirable - Praiseworthy, Exemplary \nRevolutionary - Radical, Innovative \nCelebrated - Famed, Notable",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

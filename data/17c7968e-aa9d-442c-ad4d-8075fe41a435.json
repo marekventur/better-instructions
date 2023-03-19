@@ -1,0 +1,12 @@
+{
+  "id": "17c7968e-aa9d-442c-ad4d-8075fe41a435",
+  "instruction": "Count all the vowels in the given string.",
+  "input": "String: \"apples\"",
+  "output": "The string \"apples\" has 3 vowels: a, e, and another a.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

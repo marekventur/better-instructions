@@ -1,0 +1,12 @@
+{
+  "id": "1c09cedc-2e4f-420c-bfcc-4bbc89d413f4",
+  "instruction": "Write a few sentences about a given historical figure.",
+  "input": "Amelia Earhart",
+  "output": "Amelia Earhart was an American aviation pioneer and a renowned aviation figure. She was the first female aviator to fly solo across the Atlantic Ocean. Despite tragic circumstances, she is remembered as an inspiring role model and a symbol of courage, adventure, and determination. Her groundbreaking achievements pushed the boundaries of gender roles and inspired many.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

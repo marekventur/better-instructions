@@ -1,0 +1,12 @@
+{
+  "id": "817c59ff-d73a-421b-8d2c-06f987ffb9fe",
+  "instruction": "Given the following equation, solve for x : 4x^2+9x+1 = 0",
+  "input": "",
+  "output": "x = -1/2 \u00b1 sqrt(-43/4) = -0.5 \u00b1 approximately 2.4.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

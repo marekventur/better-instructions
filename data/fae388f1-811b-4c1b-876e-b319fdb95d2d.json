@@ -1,0 +1,12 @@
+{
+  "id": "fae388f1-811b-4c1b-876e-b319fdb95d2d",
+  "instruction": "Determine the relevance of a search query to a given topic.",
+  "input": "Search query: \"Data Science\"\nTopic: Machine Learning",
+  "output": "Highly relevant - Data Science is a field of study related to Machine Learning, and the two are often used together in researching and creating Artificial Intelligence systems.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

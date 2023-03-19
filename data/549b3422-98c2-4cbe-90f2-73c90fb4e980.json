@@ -1,0 +1,12 @@
+{
+  "id": "549b3422-98c2-4cbe-90f2-73c90fb4e980",
+  "instruction": "Convert the following basic math equation into another equivalent equation: 8 + 5 = x",
+  "input": "",
+  "output": "x = 8 + 5 \nor \nx - 5 = 8 \nor \n13 - x = 8 \nor \nx - 8 = 5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

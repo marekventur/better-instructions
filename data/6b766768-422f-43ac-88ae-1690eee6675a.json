@@ -1,0 +1,12 @@
+{
+  "id": "6b766768-422f-43ac-88ae-1690eee6675a",
+  "instruction": "Classify the following sentence into an iOS accessibility feature from the following list: Speech Synthesis, Visual Analysis, Hearing Aid Compatibility, Physical Sensors. Output should be one of the four corresponding numbers.",
+  "input": "The iPhone can read text aloud.",
+  "output": "1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9086edee-911d-45aa-9cfb-658dc02659af",
+  "instruction": "Summarize the book in four sentences.",
+  "input": "Harry Potter and the Sorcerer's Stone by J.K. Rowling",
+  "output": "Harry Potter is an orphan living with cruel relatives and discovers that he is a wizard. He attends Hogwarts School of Witchcraft and Wizardry and quickly makes friends with Ron and Hermione. There, he embarks on a mission to find a powerful, mystical stone that can grant wishes. Despite treacherous obstacles and dangerous battles, Harry is determined to protect the stone from evil forces.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

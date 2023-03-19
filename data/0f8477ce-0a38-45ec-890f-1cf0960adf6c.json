@@ -1,0 +1,12 @@
+{
+  "id": "0f8477ce-0a38-45ec-890f-1cf0960adf6c",
+  "instruction": "Generate an appropriate summary to the following blog post",
+  "input": "Google's AI Duplex technology has made its way into the public eye, showing off its impressive natural-sounding conversations and capabilities. But what most people don't understand is the underlying tech powering Duplex. In this blog post, we'll discuss what makes Duplex so incredible and the potential implications of this type of AI.",
+  "output": "Google's Duplex technology has completely revolutionized the way AI can interact with humans. This remarkable technology can understand and generate natural-sounding conversations to fulfill tasks, making it an incredibly powerful tool. However, it also raises questions about the potential implications of this technology, and the ethical considerations that need to be made.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

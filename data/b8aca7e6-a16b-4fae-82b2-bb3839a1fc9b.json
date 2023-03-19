@@ -1,0 +1,12 @@
+{
+  "id": "b8aca7e6-a16b-4fae-82b2-bb3839a1fc9b",
+  "instruction": "Categorize this text into one of the following labels: Education, Entertainment, Technology.",
+  "input": "Facebook is a social networking site.",
+  "output": "Technology",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

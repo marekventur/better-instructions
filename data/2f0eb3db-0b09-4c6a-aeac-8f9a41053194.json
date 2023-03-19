@@ -1,0 +1,12 @@
+{
+  "id": "2f0eb3db-0b09-4c6a-aeac-8f9a41053194",
+  "instruction": "Here is a list of words, construct a sentence using them.",
+  "input": "strictly, necessary, are, rules",
+  "output": "Rules are strictly necessary.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

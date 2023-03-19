@@ -1,0 +1,12 @@
+{
+  "id": "77625cee-c08f-4915-835d-33739217af03",
+  "instruction": "Which geographical feature is mentioned in this sentence?",
+  "input": "We drove down the mountain pass.",
+  "output": "Mountain pass.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

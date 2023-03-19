@@ -1,0 +1,12 @@
+{
+  "id": "e5ec7b32-f9b0-4a59-ba55-e42e06a8228a",
+  "instruction": "Given two people's names (Alice and Bob), write a dialogue between them.",
+  "input": "Alice and Bob",
+  "output": "Alice: Hi Bob, what's new? \n\nBob: Not much, just catching up on some work. How about you?\n\nAlice: Oh, just the same. I was thinking of going out for a walk, do you want to come?\n\nBob: Sure, why not? Let's go!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

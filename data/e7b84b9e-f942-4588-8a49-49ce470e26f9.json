@@ -1,0 +1,12 @@
+{
+  "id": "e7b84b9e-f942-4588-8a49-49ce470e26f9",
+  "instruction": "Categorize the given task into one of the three given classes: Classification, Regression, or Clustering",
+  "input": "Finding similarities between customers based on past purchase data.",
+  "output": "Clustering.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

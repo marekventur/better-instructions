@@ -1,0 +1,12 @@
+{
+  "id": "c7ebd279-ba13-43f8-9a05-5760ed47551c",
+  "instruction": "Generate creative instructions for a game involving dice.",
+  "input": "",
+  "output": "Objective: The goal of the game is to accumulate the most points by rolling three 6-sided dice. \n\nGame Play: \n1. Each player takes turns rolling three 6-sided dice. \n2. The points are tallied according to the following: \n\u2022 A triple (all dice with the same number being rolled) earns a bonus of 25 points and the player can roll again.\n\u2022 A single (one die rolled with the same number) earns 10 points.\n\u2022 Two pairs (two dice with the same number being rolled) earns 15 points.\n\u2022 Any other roll earns 5 points.\n3. The dice are passed around the table until all players reach the given point goal. \n4. The player with the most points at the end of the round is the winner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

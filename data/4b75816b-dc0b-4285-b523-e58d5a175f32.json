@@ -1,0 +1,12 @@
+{
+  "id": "4b75816b-dc0b-4285-b523-e58d5a175f32",
+  "instruction": "Calculate the intersection of two lines.",
+  "input": "Line 1: y=2x+1; Line 2:y=3x+2",
+  "output": "The intersection of the two lines is (1,3).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

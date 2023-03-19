@@ -1,0 +1,12 @@
+{
+  "id": "cd8bcb03-83ea-4b34-b68a-a34de260b64e",
+  "instruction": "From the given lyrics, create a haiku poem.",
+  "input": "Lyrics: \"As the sun sets in the sky, my love for you grows more high\"",
+  "output": "My heart soars with love \nAs the sun sets in the sky \nLove will never die",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

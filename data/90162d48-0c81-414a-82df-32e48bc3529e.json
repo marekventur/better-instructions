@@ -1,0 +1,12 @@
+{
+  "id": "90162d48-0c81-414a-82df-32e48bc3529e",
+  "instruction": "Generate a crossword puzzle using the following words",
+  "input": "House, Pen, Ink",
+  "output": "Across:\n4. A writing implement\n5. Where one lives\n\nDown:\n3. A writing fluid",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

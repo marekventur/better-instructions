@@ -1,0 +1,12 @@
+{
+  "id": "4dfce524-093c-49ca-b2b7-f4275d881beb",
+  "instruction": "given the sentence, derive a sentence with the opposite meaning.",
+  "input": "This decision has been welcomed by many people.",
+  "output": "This decision has been opposed by many people.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

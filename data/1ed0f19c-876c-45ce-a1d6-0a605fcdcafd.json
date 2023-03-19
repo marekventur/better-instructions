@@ -1,0 +1,12 @@
+{
+  "id": "1ed0f19c-876c-45ce-a1d6-0a605fcdcafd",
+  "instruction": "Create a multiple choice quiz based on the provided information.",
+  "input": "Topic: Space Exploration",
+  "output": "Q: What is the furthest spacecraft to have left the Solar System? \nA. Voyager 1 \nB. Apollo 11 \nC. Mars Rover \nD. Voyager 2\n\nAnswer: A. Voyager 1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

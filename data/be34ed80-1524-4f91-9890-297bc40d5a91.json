@@ -1,0 +1,12 @@
+{
+  "id": "be34ed80-1524-4f91-9890-297bc40d5a91",
+  "instruction": "Compose an email to your customer regarding the status of their customer order.",
+  "input": "Dear Customer,\n\nWe would like to inform you that your order of XYZ product has been shipped from our warehouse. It will be arriving to you within the next two days.",
+  "output": "Dear Customer,\n\nWe are pleased to inform you that your order of XYZ product has been sent and is on its way to you. Our shipment tracking system indicates that you can expect delivery within the next 48 hours.\n\nThank you for your order and your patronage. We value your business, and we look forward to seeing you back soon!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8ff41210-2816-4d2e-8be3-97c2196b2322",
+  "instruction": "Summarize the article I just read.",
+  "input": "<LINK TO ARTICLE>",
+  "output": "The article focuses on the effects of climate change on Mexico, a country where temperatures are predicted to increase, leading to droughts and other serious consequences for the environment, economy and people of the country. As the temperatures increase, the agricultural sector will be most affected. Mexico is also faced with coastal flooding and displacement of coastal populations due to sea level rise. The article concludes that climate change is one of the main challenges Mexico is facing and it will likely continue to be an issue in the future.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

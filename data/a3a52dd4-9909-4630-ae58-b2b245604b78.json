@@ -1,0 +1,12 @@
+{
+  "id": "a3a52dd4-9909-4630-ae58-b2b245604b78",
+  "instruction": "Refer to the excel sheet and enter the minimum salary for the \"Marketing Manager\" job.",
+  "input": "Marketing Manager",
+  "output": "The minimum salary for the \"Marketing Manager\" job is $68,000.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

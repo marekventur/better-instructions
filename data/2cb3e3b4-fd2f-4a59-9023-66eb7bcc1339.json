@@ -1,0 +1,12 @@
+{
+  "id": "2cb3e3b4-fd2f-4a59-9023-66eb7bcc1339",
+  "instruction": "Come up with a computer program that would generate a list of randomly shuffled numbers.",
+  "input": "",
+  "output": "def shuffled_list(arr): \n \n    # Shuffling the array\n    random.shuffle(arr) \n   \n    # Print shuffled array \n    for i in arr: \n        print(i, end=' ') \n   \n# Driver Code \narr = [5, 1, 8, 7, 4, 8, 10] \n\nshuffled_list(arr)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

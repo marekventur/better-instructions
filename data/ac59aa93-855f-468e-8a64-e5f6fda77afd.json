@@ -1,0 +1,12 @@
+{
+  "id": "ac59aa93-855f-468e-8a64-e5f6fda77afd",
+  "instruction": "Explain why the following product has poor reviews.",
+  "input": "Apple Airpods Pro",
+  "output": "The Apple Airpods Pro have poor reviews because they have a lower sound quality than expected and are expensive compared to other products with similar features. Additionally, they have limited noise cancellation, have problems with connectivity, and have a shorter battery life than advertised.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

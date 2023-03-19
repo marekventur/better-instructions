@@ -1,0 +1,12 @@
+{
+  "id": "491678f7-7152-4b55-a80e-ef6767b81fe5",
+  "instruction": "Design a job application form",
+  "input": "",
+  "output": "This job application form collects basic demographic information such as name, address, phone number, email, and date of birth. It also contains questions about educational background, work experience, and skills that are relevant to the job. Lastly, there are questions about why the applicant is interested in this job and what they bring to the team.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

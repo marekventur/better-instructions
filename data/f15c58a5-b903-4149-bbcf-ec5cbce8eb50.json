@@ -1,0 +1,12 @@
+{
+  "id": "f15c58a5-b903-4149-bbcf-ec5cbce8eb50",
+  "instruction": "Create a game for young children to practice identifying colors.",
+  "input": "",
+  "output": "This game is designed to help young children practice identifying colors. The goal of the game is to match the color of the objects on the screen with the correct color name. The game starts with the player selecting a color from a given set of colors. Then, various objects will appear on the screen, one at a time. The player must select the name of the color that each object is. The game will keep track of the number of correct and incorrect answers. After each round, the player will be given feedback on their performance. The game continues until the player has answered all of the objects correctly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

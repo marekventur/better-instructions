@@ -1,0 +1,12 @@
+{
+  "id": "cb07e98e-129c-48ce-8143-8cb38df96b98",
+  "instruction": "Explain what the Big-O notation means in computer science.",
+  "input": "",
+  "output": "In computer science, Big-O notation is used to describe the performance of an algorithm\u2014 specifically the worst case number of operations required to execute the algorithm. Big-O notation assigns a letter \"O\" to a function that describes the growth rate of its execution time. The number of operations is then classified according to how quickly it grows in terms of the input size. Big-O notation is often used to compare different algorithms to see which one is faster.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

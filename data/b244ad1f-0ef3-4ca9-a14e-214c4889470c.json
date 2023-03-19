@@ -1,0 +1,12 @@
+{
+  "id": "b244ad1f-0ef3-4ca9-a14e-214c4889470c",
+  "instruction": "Sort the following list of elements by a given criterion.",
+  "input": "apple, banana, mango, grapefruit\nCriterion: Alphabetical order",
+  "output": "apple, banana, grapefruit, mango",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

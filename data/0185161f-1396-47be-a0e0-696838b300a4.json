@@ -1,0 +1,12 @@
+{
+  "id": "0185161f-1396-47be-a0e0-696838b300a4",
+  "instruction": "Transform the following sentence from negative to positive.",
+  "input": "No one will be able to solve this difficult problem.",
+  "output": "Someone will be able to solve this difficult problem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

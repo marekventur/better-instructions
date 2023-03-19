@@ -1,0 +1,12 @@
+{
+  "id": "091576bb-bdf1-4c21-842e-020791d9d538",
+  "instruction": "Give me five examples of artificial intelligence technologies and how they are being used in the world today.",
+  "input": "",
+  "output": "1. Machine Learning: a branch of AI that enables systems to learn from data and improve their capabilities without being explicitly programmed. Machine Learning is used to analyse data, recognize patterns, and make predictions.\n\n2. Natural Language Processing: a branch of AI that focuses on understanding and generating human languages. NLP is used by many businesses to automate customer service and automated chat bots.\n\n3. Computer Vision: a branch of AI which enables systems to interpret, analyse and understand images. Computer Vision is used to detect and recognise objects, facial recognition, as well as for security and surveillance.\n\n4. Robotics: a branch of AI that enables machines to autonomously sense and interact with the environment. Robotics technology is being used in warehouses and manufacturing facilities, as well as for home automation and companion robots.\n\n5. Autonomous Vehicles: a branch of AI that enables cars, drones, and other vehicles to operate without human input. Autonomous vehicles are being used in many cities to provide ridesharing, delivery, and other services.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

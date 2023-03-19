@@ -1,0 +1,12 @@
+{
+  "id": "8f45867a-49b5-4f06-b141-fee430bd46ae",
+  "instruction": "Manually merge the two datasets",
+  "input": "Dataset 1:\nName\t  Age\t  Gender\nJohn\t   24\t   Male\n\nDataset 2:\nName\t  City\t    Country\nJohn\t   Miami\t  USA",
+  "output": "Name\tAge\tGender\tCity\tCountry\nJohn\t24\tMale\tMiami\tUSA",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

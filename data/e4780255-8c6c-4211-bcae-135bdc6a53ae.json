@@ -1,0 +1,12 @@
+{
+  "id": "e4780255-8c6c-4211-bcae-135bdc6a53ae",
+  "instruction": "Generate an example of a class inheritance hierarchy.",
+  "input": "",
+  "output": "An example of a class inheritance hierarchy is a car class, with a sub-class of the sedan class, which has sub-classes of a sedan, a coupe, and a convertible. The sedan class could have any number of sub-classes, such as a sports sedan, luxury sedan, or compact sedan. The coupe class could have any number of sub-classes such as a sports coupe, luxury coupe, or compact coupe. The convertible class could have any number of sub-classes such as a sports convertible, luxury convertible, or compact convertible.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

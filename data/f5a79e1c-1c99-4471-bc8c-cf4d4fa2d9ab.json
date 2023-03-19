@@ -1,0 +1,12 @@
+{
+  "id": "f5a79e1c-1c99-4471-bc8c-cf4d4fa2d9ab",
+  "instruction": "Rewrite the following sentence so it contains correct grammar and is precise.",
+  "input": "At the age of 8, I started singing in the church choir",
+  "output": "When I was 8 years old, I began singing in the church choir.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

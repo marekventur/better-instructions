@@ -1,0 +1,12 @@
+{
+  "id": "e095115e-1ff1-4d8e-b1e2-e5c86b642771",
+  "instruction": "List the director's credits for this movie.",
+  "input": "The Godfather",
+  "output": "Francis Ford Coppola is the director of \"The Godfather\". He has a number of other directing credits including \"The Conversation\", \"Apocalypse Now\", and \"The Outsiders\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

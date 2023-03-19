@@ -1,0 +1,12 @@
+{
+  "id": "a55c0915-835a-4ef2-85c7-e3e092672d2f",
+  "instruction": "Generate a short description of the rules for playing the game of chess.",
+  "input": "",
+  "output": "Chess is a board game for two players. The aim is to checkmate the opponent's king by placing it in a position where it can't move. Each player starts with 16 pieces: 8 pawns, 2 rooks, 2 knights, 2 bishops, a queen, and a king. Pawns can only move forward, and can be used to take out enemy pieces. Rooks can move in any direction and can take out enemy pieces. Knights can make an L-shaped movement on the board, and can take out enemy pieces. Bishops can move in any diagonal direction and can take out enemy pieces. The queen has the most mobility, able to move any distance in any straight line, and is considered the player's most powerful piece. The king is the most important piece, and must not be put in check or checkmate. The game is won when the opponent\u2019s king is checkmated.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

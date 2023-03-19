@@ -1,0 +1,12 @@
+{
+  "id": "2612fda9-2873-498c-8019-e29639d5c687",
+  "instruction": "Retrieve the last two lines from the given poem.",
+  "input": "I wander away in search of a sight\nNot seeing any man in the night",
+  "output": "Although it is night, I must remain \nEver in search for a dream.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

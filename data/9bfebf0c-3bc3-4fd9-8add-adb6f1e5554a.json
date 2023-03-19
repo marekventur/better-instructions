@@ -1,0 +1,12 @@
+{
+  "id": "9bfebf0c-3bc3-4fd9-8add-adb6f1e5554a",
+  "instruction": "Create a program to collect data from a web page.",
+  "input": "URL of the web page: https://www.example.com",
+  "output": "Program code to collect the data:\n\nimport requests\n \nurl = \u2018https://www.example.com\u2019\nr = requests.get(url)\ndata = r.text\nprint(data)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

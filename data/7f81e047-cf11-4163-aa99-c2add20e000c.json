@@ -1,0 +1,12 @@
+{
+  "id": "7f81e047-cf11-4163-aa99-c2add20e000c",
+  "instruction": "Remove the extra consonants in the following word",
+  "input": "Snnake",
+  "output": "Snake.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "54002551-bf05-425c-a30a-122640431776",
+  "instruction": "Classify 'X' as either a mammal, a bird, or an amphibian.",
+  "input": "X: Frog",
+  "output": "Amphibian.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

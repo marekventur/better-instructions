@@ -1,0 +1,12 @@
+{
+  "id": "24fb0959-a3cf-449d-817a-bd69f0627277",
+  "instruction": "Categorize the following juice blend as either \"fruity\" or \"vegetable\".",
+  "input": "Apple-Spinach",
+  "output": "Vegetable",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

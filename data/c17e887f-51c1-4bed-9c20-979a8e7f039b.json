@@ -1,0 +1,12 @@
+{
+  "id": "c17e887f-51c1-4bed-9c20-979a8e7f039b",
+  "instruction": "Convert the given number from base 10 to base 16.",
+  "input": "Number: 110",
+  "output": "6E",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

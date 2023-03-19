@@ -1,0 +1,12 @@
+{
+  "id": "caf0fe63-ca84-44cb-967f-96452a2cd4a1",
+  "instruction": "Provide a summary of the document",
+  "input": "Document:  During its long history, the German language has been associated with three different countries: Germany, Austria and Switzerland. It was the official language of Germany since 1871 and it is still one of the official languages in each of the three countries. German is also among the 23 official languages of the European Union.",
+  "output": "German is a language associated with Germany, Austria, and Switzerland and has been the official language of Germany since 1871. It is also one of the 23 official languages of the European Union.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

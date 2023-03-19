@@ -1,0 +1,12 @@
+{
+  "id": "e9a7cb52-cf4f-4ffb-b521-088bae219911",
+  "instruction": "Select all the words that start with a capital letter from the sentence below.",
+  "input": "This is a Sentence with Several Capitals.",
+  "output": "This, Sentence, Several, Capitals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

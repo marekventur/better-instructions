@@ -1,0 +1,12 @@
+{
+  "id": "5c3aed93-dce5-402a-b842-2babc94a0326",
+  "instruction": "Replace the single quote (') to double quote (\") in the given sentence.",
+  "input": "In the U.S., KIPP is a 'public-private partnership'.",
+  "output": "In the U.S., KIPP is a \"public-private partnership\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

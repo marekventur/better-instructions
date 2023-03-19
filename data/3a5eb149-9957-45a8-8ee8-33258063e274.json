@@ -1,0 +1,12 @@
+{
+  "id": "3a5eb149-9957-45a8-8ee8-33258063e274",
+  "instruction": "Explain what the term 'burden of proof' means.",
+  "input": "",
+  "output": "The term \u201cburden of proof\u201d is used in legal proceedings to describe the requirement of a party to provide sufficient evidence to make a favorable outcome likely. In a criminal court case, for example, the burden of proof is placed on the prosecution to prove beyond a reasonable doubt that an accused person is guilty, while the defense is only required to challenge and weaken the prosecution's argument. In civil court, the burden of proof is usually shared between both parties. The party bringing the case must present evidence to prove their case, while the charged party must present counterarguments or evidence that suggests the initial case is unfounded.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

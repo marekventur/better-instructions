@@ -1,0 +1,12 @@
+{
+  "id": "40d1f264-91ca-4234-84bd-c7aec7a87f83",
+  "instruction": "Identify places in the article where the author demonstrates bias.",
+  "input": "In a recent study published by Northwestern University, researchers found that single mothers face several unique challenges when it comes to inadequate housing. They found instances of mothers being unable to pay utility bills because of the insufficient quality of their housing units.",
+  "output": "The article demonstrates bias by focusing on single mothers and implying that they are more likely than other households to face problems with inadequate housing. The article also demonstrates bias by implying that single mothers are solely responsible for any financial hardship they may face due to their housing situation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

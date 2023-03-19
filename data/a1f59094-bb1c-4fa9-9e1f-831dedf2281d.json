@@ -1,0 +1,12 @@
+{
+  "id": "a1f59094-bb1c-4fa9-9e1f-831dedf2281d",
+  "instruction": "Create a conversation between two characters about going to the movies.",
+  "input": "",
+  "output": "Character 1: Hey, do you feel like going to the movies tonight? \n\nCharacter 2: Sure, what do you want to watch?\n\nCharacter 1: I don't know. What do you feel like seeing?\n\nCharacter 2: I heard there's a good action movie out. Maybe we could check that out?\n\nCharacter 1: Sounds great, let's do it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

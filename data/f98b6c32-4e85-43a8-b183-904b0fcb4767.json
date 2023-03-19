@@ -1,0 +1,12 @@
+{
+  "id": "f98b6c32-4e85-43a8-b183-904b0fcb4767",
+  "instruction": "Categorize the following animals into mammals and birds: Tiger, Bee, Parrot, Bat",
+  "input": "",
+  "output": "Mammals: Tiger, Bee, Bat \nBirds: Parrot",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

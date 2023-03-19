@@ -1,0 +1,12 @@
+{
+  "id": "5e2968e7-3c8e-4e9f-b441-f686c967c2ef",
+  "instruction": "Determine the probability of two events occurring together.",
+  "input": "Events A and B both have a 0.2 probability of occurring",
+  "output": "The probability of both events A and B occurring together is (0.2 x 0.2) = 0.04.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

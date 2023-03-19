@@ -1,0 +1,12 @@
+{
+  "id": "2c52fa56-82ac-4771-bf31-78a813e9c5bb",
+  "instruction": "Determine the proper form of the verb for the following sentence.",
+  "input": "The students _____ the exam before the deadline.",
+  "output": "The students took the exam before the deadline.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "572c913d-263a-4304-b4a9-dae494f6331f",
+  "instruction": "Create a dialogue between two people who just met at a party.",
+  "input": "",
+  "output": "Person 1: Hi there, I haven't seen you here before.\nPerson 2: Hi! Yeah, this is my first time at this party. What brought you here?\nPerson 1: Oh, a friend invited me! What about you?\nPerson 2: Same here! It's nice to meet you.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

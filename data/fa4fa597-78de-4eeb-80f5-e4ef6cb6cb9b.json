@@ -1,0 +1,12 @@
+{
+  "id": "fa4fa597-78de-4eeb-80f5-e4ef6cb6cb9b",
+  "instruction": "Predict what will happen next if a particular action is taken.",
+  "input": "If the government provides tax incentives to renewable energy companies",
+  "output": "If the government provides tax incentives to renewable energy companies, it would likely result in an increase in the development and implementation of renewable energy projects. This would create many green jobs, reduce emissions, and help the environment. Additionally, it would lead to lower electricity costs for consumers in the long run.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

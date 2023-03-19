@@ -1,0 +1,12 @@
+{
+  "id": "80013c64-ba5d-4c96-9ab3-93fb177d5b81",
+  "instruction": "Describe the Mechanism of Enzymes.",
+  "input": "",
+  "output": "Enzymes are specialized proteins that catalyze biochemical reactions. They work by binding to substrates and temporarily changing their shape in order to enable the reaction. This change in shape is referred to as the enzyme's active site. The active site works like a lock and key, allowing only specific substrates to fit into it. When the right substrates are present, the enzyme catalyzes a reaction by lowering the activation energy required for the reaction to occur. After the reaction, the enzyme returns to its original shape and can be used again.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

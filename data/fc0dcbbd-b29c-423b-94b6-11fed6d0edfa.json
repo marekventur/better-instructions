@@ -1,0 +1,12 @@
+{
+  "id": "fc0dcbbd-b29c-423b-94b6-11fed6d0edfa",
+  "instruction": "Write an email given the following context.",
+  "input": "You need to ask your professor for an extension on an upcoming homework assignment.",
+  "output": "Dear Professor,\n\nI am writing to request an extension on my upcoming homework assignment. Due to personal circumstances, I haven't been able to dedicate as much time and focus to this course as I had hoped. I am confident that with a bit more time, I will be able to complete the assignment to the best of my abilities.\n\nI would greatly appreciate it if you could grant me an extension of 1 week. I understand if this is not possible and I am happy to discuss other alternatives.\n \nThank you for your time,\n[Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

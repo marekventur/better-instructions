@@ -1,0 +1,12 @@
+{
+  "id": "c74260cd-3627-4afe-a0ce-88ac4a0ba059",
+  "instruction": "Group the given set of numbers such that all the negative numbers are together and all the positive numbers are together.",
+  "input": "Set: [5, -2, 3, 0, -4, 8].",
+  "output": "The set of numbers grouped such that all the negative numbers are together and all the positive numbers are together is [-2, -4, 0, 5, 3, 8].",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

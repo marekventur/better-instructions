@@ -1,0 +1,12 @@
+{
+  "id": "51407dfe-5aab-4ad1-b6b4-84a06b9b9d8e",
+  "instruction": "Given the following facts, generate a story riddle.",
+  "input": "- The protagonist had a secret fear. \n- He found a magical cloak.\n- He had a special purpose to fulfill.",
+  "output": "Once upon a time there was a brave, yet fearful boy. He had a secret fear that he refused to talk about with anyone. One day, he stumbled upon a mysterious magical cloak in a dark corner of the woods. When he put it on, he was astonished to discover he had the power to make his dreams come true. \n\nLittle did he know that he was chosen for a special purpose and the cloak was a symbol of his destiny - to save the world from an evil force that was systematically destroying every kingdom and every person in its wake. What will the brave boy do when he discovers his secret fear and how can he use the cloak to fulfill his special purpose?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

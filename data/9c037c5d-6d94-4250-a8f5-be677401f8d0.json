@@ -1,0 +1,12 @@
+{
+  "id": "9c037c5d-6d94-4250-a8f5-be677401f8d0",
+  "instruction": "Generate a summary of the article. Your output should be less than 100 words.",
+  "input": "Overusing antibiotics continues to be a major global public health concern.",
+  "output": "Overuse of antibiotics is a major global public health issue due to the emergence of antibiotic-resistant bacteria. Antibiotics are routinely prescribed for illnesses, even when not needed and this has lead to the evolution of resistant strains of bacteria that no longer respond to drugs. This is leading to a dire situation, with the WHO and other health authorities warning that the world is on an irreversable path to a post-antibiotic era. To combat this, they urge doctors, pharmacies, and governments to curb over-prescription of antibiotics and ensure they are only used when necessary.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

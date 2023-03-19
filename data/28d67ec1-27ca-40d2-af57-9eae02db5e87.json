@@ -1,0 +1,12 @@
+{
+  "id": "28d67ec1-27ca-40d2-af57-9eae02db5e87",
+  "instruction": "Write a list of questions that can help a customer diagnose a technical problem they're experiencing.",
+  "input": "The customer is having trouble with their printer.",
+  "output": "Are the printer cables connected securely? Is the printer receiving power? Is the printer has adequate ink and/or toner? Are there any error messages showing on the printer\u2019s LCD display? What is the exact make and model of the printer? Is the printer driver software installed and up to date? Have you tried a hard reset of the printer? Have you tried printing a test page? Are there any obstructions to the paper feed tray? Have you tried a different print job? Does the issue happen with only certain types of printer media? Are the printer settings correct for the job you\u2019re trying to print? Does the issue happen with both wired and wireless connections? Is there an issue with the network or device connection to the printer? Have you tested for any software conflicts on your device? Are you experiencing similar printing issues with another printer on the same network?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

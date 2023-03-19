@@ -1,0 +1,12 @@
+{
+  "id": "79cc0f5d-3f97-49a7-ac67-3a39bb3560e2",
+  "instruction": "Write a SQL query to find the average salary of employees from department \u2018Sales\u2019.",
+  "input": "",
+  "output": "SELECT AVG(salary) from employees WHERE department = 'Sales';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

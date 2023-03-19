@@ -1,0 +1,12 @@
+{
+  "id": "64b78c75-f0cd-42a1-83b7-c91ac5d656d2",
+  "instruction": "Given the following input, suggest a suitable response.",
+  "input": "I'm feeling stressed and overwhelmed.",
+  "output": "It is normal to feel stressed and overwhelmed in times of adversity. What can I do to help you manage your stress?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

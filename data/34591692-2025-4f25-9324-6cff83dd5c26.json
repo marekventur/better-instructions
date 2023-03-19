@@ -1,0 +1,12 @@
+{
+  "id": "34591692-2025-4f25-9324-6cff83dd5c26",
+  "instruction": "You are playing a game. Calculate your final score after taking the following into account: starting score is 50, earned 4 points and lost 2 points.",
+  "input": "",
+  "output": "52.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

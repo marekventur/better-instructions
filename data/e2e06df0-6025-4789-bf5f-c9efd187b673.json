@@ -1,0 +1,12 @@
+{
+  "id": "e2e06df0-6025-4789-bf5f-c9efd187b673",
+  "instruction": "Analyze the given natural language text and summarize the sentiment it carries.",
+  "input": "I am very disappointed with this product.",
+  "output": "The sentiment of the given natural language text is negative.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

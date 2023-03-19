@@ -1,0 +1,12 @@
+{
+  "id": "86a5040d-483a-4dc1-b04d-e10b68de66a7",
+  "instruction": "Link the items below to their corresponding categories.",
+  "input": "Snickers \u2013 Chocolate \nXbox \u2013 Console",
+  "output": "Snickers \u2013 Confectionery \nXbox \u2013 Gaming",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

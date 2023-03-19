@@ -1,0 +1,12 @@
+{
+  "id": "7849622b-b49c-45d5-885d-757e8cb8fd6d",
+  "instruction": "Describe a tool or technique you used to solve a seemingly intractable problem.",
+  "input": "",
+  "output": "I faced an intractable problem when creating a software program that needed to be compatible across all devices. To solve the problem, I used a abstraction tool that allowed me to easily set up and test a library of code so that the program could be quickly adapted to any device or platform. This tool provided the flexibility and scalability needed to not only make the program compatible across all platforms but also to easily add new features and updates as needed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

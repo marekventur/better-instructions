@@ -1,0 +1,12 @@
+{
+  "id": "221ea7bf-5f86-44ac-aa48-9132d6158361",
+  "instruction": "Create a meal plan",
+  "input": "Weekly budget: $50",
+  "output": "Weekly Meal Plan: \n\nBreakfast:\nMonday: Home-made muffins and hard-boiled eggs. \nTuesday: Toast with peanut butter, yogurt and fruit. \nWednesday: Omelette and whole-grain toast. \nThursday: Overnight oats with fresh fruit.\nFriday: Protein smoothie with nut butter.\n\nLunch:\nMonday: Quinoa and chickpea salad. \nTuesday: Sandwich wrap with hummus. \nWednesday: Burrito bowl with beans and vegetables. \nThursday: Veggie stir-fry with brown rice.\nFriday: Grilled turkey and cheese sandwich. \n\nDinner: \nMonday: Spaghetti with marinara sauce. \nTuesday: Sloppy Joe's over whole grain buns. \nWednesday: Vegetable fajitas with grilled chicken. \nThursday: Baked salmon with roasted potatoes and spinach. \nFriday: Bean burritos with guacamole.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

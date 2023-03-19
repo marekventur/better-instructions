@@ -1,0 +1,12 @@
+{
+  "id": "343bc03b-2d43-46d9-b51c-a36d7f95a9c4",
+  "instruction": "Based on the provided information, generate a sentence that concisely summarizes the content.",
+  "input": "The new iPhone 12 Pro is waterproof up to a depth of 6 meters and comes with triple rear cameras.",
+  "output": "The iPhone 12 Pro is waterproof up to 6 meters and has three rear cameras.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

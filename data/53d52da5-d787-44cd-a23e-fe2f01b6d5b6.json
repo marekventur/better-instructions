@@ -1,0 +1,12 @@
+{
+  "id": "53d52da5-d787-44cd-a23e-fe2f01b6d5b6",
+  "instruction": "Classify the following animals according to the type of organism they belong to: elephant, rabbit, snake.",
+  "input": "",
+  "output": "The following animals can be classified according to their type of organism: \n- Elephant - Mammal \n- Rabbit - Mammal \n- Snake - Reptile",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

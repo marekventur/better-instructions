@@ -1,0 +1,12 @@
+{
+  "id": "26210643-4947-4641-aa68-5bf8fc7016f8",
+  "instruction": "Construct a formula to calculate the total cost, given a base cost, number of items, and a tax rate.",
+  "input": "Base cost: $100, Number of items: 8, Tax rate: 6.5%",
+  "output": "Total cost = Base cost x (1 + (Tax rate / 100)) x Number of items\n\nTotal cost = $100 x (1 + (6.5 / 100)) x 8\n\nTotal cost = $100 x 1.065 x 8\n\nTotal cost = $852",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

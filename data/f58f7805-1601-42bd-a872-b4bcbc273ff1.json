@@ -1,0 +1,12 @@
+{
+  "id": "f58f7805-1601-42bd-a872-b4bcbc273ff1",
+  "instruction": "Add 10 valid words to the following list",
+  "input": "Horse, dog, cat",
+  "output": "Horse, dog, cat, cow, sheep, goat, rabbit, parrot, fish, turtle, duck.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

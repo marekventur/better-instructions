@@ -1,0 +1,12 @@
+{
+  "id": "163f402b-d56a-46e6-9c28-bf5becf63f38",
+  "instruction": "Design the table for the following database",
+  "input": "Employee management database",
+  "output": "The employee management database table should include fields for the following data: Employee ID, Name, Job Title, Date of Hire, Salary, and Benefits.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3ba129ef-1d12-4633-a95a-aeb2e556b73b",
+  "instruction": "Suggest a vegetarian dish using the ingredients provided.",
+  "input": "rice, beans, onions, peppers",
+  "output": "Vegetarian burrito bowls. Cook the rice according to package instructions. Heat oil in a skillet and add the onions, peppers, and beans. Cook until the vegetables are tender. Serve the vegetables and rice in separate bowls, and let everyone assemble their own burrito bowl.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

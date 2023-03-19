@@ -1,0 +1,12 @@
+{
+  "id": "248b0c2f-5c15-4be7-8005-45752d3dd2e5",
+  "instruction": "Print the first 10 elements of this list.",
+  "input": "[\"Apple\", \"Banana\", \"Cherry\", \"Date\", \"Eggplant\", \"Fig\", \"Grape\", \"Honeydew\", \"Ice cream\", \"Juice\", \"Kiwi\", \"Lemon\"]",
+  "output": "Apple, Banana, Cherry, Date, Eggplant, Fig, Grape, Honeydew, Ice cream, Juice",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

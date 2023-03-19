@@ -1,0 +1,12 @@
+{
+  "id": "b7da9198-b27f-4616-b1e1-f714160aad8d",
+  "instruction": "Create a mental model that explains how the internet works.",
+  "input": "",
+  "output": "The internet can be thought of as a giant interconnected network of computers, servers, and networks that communicate with each other. To access the internet, a user's device must be able to send and receive data via the internet by connecting to a local network. This can be done by either plugging in a physical connection into the device or connecting to a local Wi-Fi network. Then, the data travels between the user's device and the internet service provider, which is then routed to the correct destination by routers. Data is then sent back in a similar manner. This chain of events occurs in a matter of milliseconds, allowing us to access information almost instantaneously.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

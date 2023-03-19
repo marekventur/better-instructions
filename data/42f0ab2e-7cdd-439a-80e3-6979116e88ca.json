@@ -1,0 +1,12 @@
+{
+  "id": "42f0ab2e-7cdd-439a-80e3-6979116e88ca",
+  "instruction": "Generate an algebraic expression to represent the following equation: 4x + 6 = 10",
+  "input": "",
+  "output": "4x + 6 = 10\n\n4x = 10 - 6\n\n4x = 4\n\nx = 1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

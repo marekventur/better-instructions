@@ -1,0 +1,12 @@
+{
+  "id": "c99dedf5-b66b-4651-8e13-89ea09e61139",
+  "instruction": "Generate a script for a 3-minute conversation.",
+  "input": "Topic: Architecture",
+  "output": "Person A: Hi, so what kind of architecture do you like?\n\nPerson B: Hi, I'm actually a fan of minimalism. I love the simplicity of buildings with clean lines and uses of light. What about you?\n\nPerson A: I'm a fan of art nouveau. I think the intricacies and curves of the style are beautiful. I think it adds a unique touch to any building.\n\nPerson B: Yeah, absolutely. I think the impossible shapes and organic details give the space a certain sense of beauty compared to the simplicity of minimalism. \n\nPerson A: Definitely. Have you ever visited some of the historical architecture? \n\nPerson B: Yes, I've been lucky enough to visit some parts of Europe and experience the grandeur of old and modern architecture. \n\nPerson A: That sounds amazing. Which places did you visit?\n\nPerson B: I visited Paris, Brussels, and Vienna. I marveled over the beauty of the Eifiel Tower, the Grand Place, and the Vienna Opera House. \n\nPerson A: Wow, sounds like an amazing trip!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

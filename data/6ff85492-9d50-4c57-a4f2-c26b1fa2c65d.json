@@ -1,0 +1,12 @@
+{
+  "id": "6ff85492-9d50-4c57-a4f2-c26b1fa2c65d",
+  "instruction": "Compose an email to the customer complaining about a product.",
+  "input": "Customer name: John Smith\nProduct name: TV\nProblem: Display is flickering",
+  "output": "Dear Mr. Smith,\n\nWe apologize for the issue with your TV. Your display has been flickering, and we understand how frustrating this can be. We would like to ensure that you get the quality product that you purchased, and will be sending you a new TV. \n\nThank you for your patience. \n\nSincerely, \nCustomer Service Team",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

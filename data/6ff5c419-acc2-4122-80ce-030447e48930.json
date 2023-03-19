@@ -1,0 +1,12 @@
+{
+  "id": "6ff5c419-acc2-4122-80ce-030447e48930",
+  "instruction": "Develop a survey to survey the opinions of customers on a new product.",
+  "input": "Product: Home security system",
+  "output": "Thank you for taking the time to fill out this survey about our new home security system. We value your feedback and appreciate your input.\n\nPlease rate the following on a scale from 1 (Not Satisfied) to 5 (Very Satisfied):\n\n1. How satisfied are you with the setup process for the home security system? \n2. How satisfied are you with the user interface of the security system? \n3. How well does the system meet your security needs? \n4. Was the customer service team helpful in answering your questions? \n5. Would you recommend the home security system to others? \n6. How satisfied are you overall with the home security system? \n7. Is there any feature you would like to add to the system? \n\nThank you again for taking the time to provide us with your feedback.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

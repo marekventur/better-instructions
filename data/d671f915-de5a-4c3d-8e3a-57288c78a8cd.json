@@ -1,0 +1,12 @@
+{
+  "id": "d671f915-de5a-4c3d-8e3a-57288c78a8cd",
+  "instruction": "Construct a query to search for books about the Roman Empire.",
+  "input": "",
+  "output": "The query to search for books about the Roman Empire should be: \"Roman Empire\" AND \"Books\" OR \"Roman history\" OR \"Ancient Rome\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

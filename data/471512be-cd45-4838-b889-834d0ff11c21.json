@@ -1,0 +1,12 @@
+{
+  "id": "471512be-cd45-4838-b889-834d0ff11c21",
+  "instruction": "Determine the most probable molecule structure of the input compound.",
+  "input": "C3H7N",
+  "output": "The most probable molecule structure of the compound C3H7N is a linear chain with three carbons, seven hydrogens and one nitrogen.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bed5209a-b5d8-4acd-b6c9-61e9c45fa6f5",
+  "instruction": "Edit the code to remove errors.",
+  "input": "// Code to print Hello World// \nfunction print() { \n\treturn Hello World;\n}",
+  "output": "// Code to print Hello World// \nfunction print() { \n\tconsole.log(\"Hello World\");\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

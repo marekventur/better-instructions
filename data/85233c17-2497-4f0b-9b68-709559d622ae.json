@@ -1,0 +1,12 @@
+{
+  "id": "85233c17-2497-4f0b-9b68-709559d622ae",
+  "instruction": "Find out the word used to describe the action in the following sentence.",
+  "input": "She jumped off the roof.",
+  "output": "Jumped",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

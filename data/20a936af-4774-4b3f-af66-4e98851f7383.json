@@ -1,0 +1,12 @@
+{
+  "id": "20a936af-4774-4b3f-af66-4e98851f7383",
+  "instruction": "Detect if the given text contains any profanity.",
+  "input": "That was really stupid.",
+  "output": "No, the text does not contain any profanity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

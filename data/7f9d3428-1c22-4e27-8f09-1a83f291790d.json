@@ -1,0 +1,12 @@
+{
+  "id": "7f9d3428-1c22-4e27-8f09-1a83f291790d",
+  "instruction": "Group the following countries into EU (European Union) and non-EU countries.",
+  "input": "Germany, Russia, France, Poland",
+  "output": "EU Countries: Germany, France, Poland\nNon-EU Countries: Russia",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

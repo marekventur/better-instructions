@@ -1,0 +1,12 @@
+{
+  "id": "55fc9da3-7e3c-437a-bb81-0df4b853856c",
+  "instruction": "From the given list, select 4 countries current top exports.",
+  "input": "countries: Japan, France, Brazil, India",
+  "output": "Japan: automobiles, electronic equipment, machinery, chemicals\nFrance: machinery,communication tools, chemicals, optical and medical instruments \nBrazil: aircraft, electronic equipment, soybeans, iron ore \nIndia: pharmaceuticals, textiles and garments, machinery, minerals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

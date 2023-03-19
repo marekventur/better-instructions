@@ -1,0 +1,12 @@
+{
+  "id": "b850f2be-793b-4e81-9980-12799c15213b",
+  "instruction": "Add six adjectives to give a positive description of the character.",
+  "input": "Serena is a hardworking and confident young woman.",
+  "output": "Serena is a hardworking, confident, ambitious, passionate, inspirational, and resilient young woman.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

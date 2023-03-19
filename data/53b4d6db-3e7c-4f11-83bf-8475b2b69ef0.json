@@ -1,0 +1,12 @@
+{
+  "id": "53b4d6db-3e7c-4f11-83bf-8475b2b69ef0",
+  "instruction": "Find the fourth element of the following array",
+  "input": "[1, 2, 3, 4, 5]",
+  "output": "4",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

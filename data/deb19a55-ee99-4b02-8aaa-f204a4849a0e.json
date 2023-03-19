@@ -1,0 +1,12 @@
+{
+  "id": "deb19a55-ee99-4b02-8aaa-f204a4849a0e",
+  "instruction": "Describe the predominant emotion in the given text",
+  "input": "The big cat lay in the grass, intently observing the mesmerizing beauty of the meadow beneath him, feeling the cool and gentle breeze caressing him.",
+  "output": "The predominant emotion in the text is peacefulness and contentment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d5009e08-ebdf-4028-ac10-a03660bedecc",
+  "instruction": "Write a function that calculates the sum of the numbers in a given array",
+  "input": "[1, 7, 4, -2, 9]",
+  "output": "def sum_array(array):\n    total_sum = 0\n    for num in array:\n        total_sum += num\n    return total_sum",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

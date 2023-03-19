@@ -1,0 +1,12 @@
+{
+  "id": "0ed7d167-4aab-416c-972c-8e81e838de15",
+  "instruction": "In the given sentence, identify the underlined words as an example of an adjective or adverb.",
+  "input": "He sang beautifully.",
+  "output": "Adverb",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

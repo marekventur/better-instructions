@@ -1,0 +1,12 @@
+{
+  "id": "04ecdc49-0043-4cfa-9f7b-8d529ddbeeac",
+  "instruction": "Given a word and its definition, write a sentence that shows mastery over the word.",
+  "input": "Word : Invective \nDefinition : Abusive or venomous language used to express blame or censure.",
+  "output": "The abusive invective spewed from his mouth was like a poison seeping into the cracks of her soul.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3d235039-8c71-4dfb-923c-7b2f04db7906",
+  "instruction": "Evaluate whether the following claim is logical or illogical.",
+  "input": "You should always trust strangers.",
+  "output": "This claim is illogical. It is unwise to trust strangers without verifying the reliability of their claims first.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

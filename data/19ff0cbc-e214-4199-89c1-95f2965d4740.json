@@ -1,0 +1,12 @@
+{
+  "id": "19ff0cbc-e214-4199-89c1-95f2965d4740",
+  "instruction": "Categorize the following news article as 'work' or 'non-work'.",
+  "input": "Apple Inc. announced a new version of its iPhone today. The iPhone 12 comes with a new super retina display and 5G wireless technology.",
+  "output": "\"Work\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

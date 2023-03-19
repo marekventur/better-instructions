@@ -1,0 +1,12 @@
+{
+  "id": "ec30aa4a-4b9f-4e01-a3dc-1dda69655684",
+  "instruction": "Generate some questions related to the text.",
+  "input": "The development of fintech has lead to new ways of making financial transactions more efficient, secure, and accessible.",
+  "output": "1. What are some of the major trends in fintech?\n2. How is fintech making financial transactions more efficient?\n3. What types of security measures are in place to protect fintech transactions?\n4. What are the benefits of fintech for consumers?\n5. How has fintech impacted traditional banking services?\n6. What types of risks should be taken into consideration when using fintech services?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

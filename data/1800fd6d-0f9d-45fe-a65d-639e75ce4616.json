@@ -1,0 +1,12 @@
+{
+  "id": "1800fd6d-0f9d-45fe-a65d-639e75ce4616",
+  "instruction": "Take the existing sentence and rephrase it",
+  "input": "We should avoid sugary snacks",
+  "output": "We should resist eating sugary snacks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e7771b3f-d2f3-4bb0-856c-cd1bc2fcabe4",
+  "instruction": "Replace the punctuation with a semicolon.",
+  "input": "She was exhausted she had been working all day",
+  "output": "She was exhausted; she had been working all day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

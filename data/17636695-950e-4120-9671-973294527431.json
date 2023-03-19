@@ -1,0 +1,12 @@
+{
+  "id": "17636695-950e-4120-9671-973294527431",
+  "instruction": "Given the following input, can you output the initial of each word?",
+  "input": "John Apple Smith",
+  "output": "JAS",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

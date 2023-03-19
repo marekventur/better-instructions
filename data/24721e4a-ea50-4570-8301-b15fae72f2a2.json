@@ -1,0 +1,12 @@
+{
+  "id": "24721e4a-ea50-4570-8301-b15fae72f2a2",
+  "instruction": "Given the input, state the relationship between the two objects.",
+  "input": "PersonX - Scientist\nPersonY - Doctor",
+  "output": "PersonX and PersonY are both professionals in the healthcare field, with PersonX being a scientist and PersonY being a doctor.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

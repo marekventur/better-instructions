@@ -1,0 +1,12 @@
+{
+  "id": "25050119-6ad8-4c24-aaef-e21421a7419b",
+  "instruction": "Reorganize the poem for a better rhyme scheme.",
+  "input": "Roses are red, violets are blue\nMy love for you is ever so true\nWhen the morning comes, at sunrise\nMy love for you will never die",
+  "output": "Roses are red, violets are blue\nMy love for you will never die\nWhen the morning comes, at sunrise\nMy feelings for you will never subside.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d9950802-e0c6-4375-a7a6-a8e591787ff7",
+  "instruction": "Categorize this musical group.",
+  "input": "Queen",
+  "output": "Queen is a rock band from the United Kingdom.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

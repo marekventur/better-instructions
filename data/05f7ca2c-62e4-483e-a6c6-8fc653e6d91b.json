@@ -1,0 +1,12 @@
+{
+  "id": "05f7ca2c-62e4-483e-a6c6-8fc653e6d91b",
+  "instruction": "You are provided a design and asked to rewrite it such that it is more effective",
+  "input": "Content: \nCreate a project outline to help organize and plan your project\n\nDesign:\n\n1. Brainstorm ideas\n2. Choose project goal\n3. Choose resources and time-frame\n4. Define steps necessary to complete",
+  "output": "Create a project plan to help you stay organized and on track.\n\n1. Brainstorm other resources and considerations that can help you reach your goal\n2. Set a definite goal, timeline, and scope for your project\n3. Identify need-to-have and want-to-have resources, as well as necessary skills\n4. List measurable steps that will help you achieve your goal within the timeline and scope set forth in the previous step \n5. Allocate the necessary time and resources for each step\n6. Break down those steps, if necessary, into subtasks\n7. Measure each task's progress, and adjust plan if necessary",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

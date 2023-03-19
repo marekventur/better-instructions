@@ -1,0 +1,12 @@
+{
+  "id": "3facbebf-786c-47dd-93db-14e4145d71ca",
+  "instruction": "Create an easy recipe with pasta as the main ingredient.",
+  "input": "",
+  "output": "Spaghetti Carbonara:\n\nIngredients:\n- 8 ounces of spaghetti\n- 4 slices of bacon\n- 2 eggs\n- 1/4 cup grated parmesan\n- Salt and pepper to taste\n\nDirections:\n1. Cook spaghetti according to package instructions.\n2. Fry bacon in a skillet over medium heat until crispy.\n3. In a bowl, whisk together eggs and parmesan.\n4. Once spaghetti is done cooking, drain and add to the skillet with the bacon.\n5. Pour the egg and parmesan mixture over the spaghetti and mix until everything is evenly coated.\n6. Add salt and pepper to taste.\n7. Serve and enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

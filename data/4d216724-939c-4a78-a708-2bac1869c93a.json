@@ -1,0 +1,12 @@
+{
+  "id": "4d216724-939c-4a78-a708-2bac1869c93a",
+  "instruction": "Identify and correct the subject verb agreement error in the sentence.",
+  "input": "The box of tools are in the garage.",
+  "output": "The box of tools is in the garage.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

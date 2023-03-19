@@ -1,0 +1,12 @@
+{
+  "id": "1e54b9ed-5f00-47da-92bf-a447443b3f9c",
+  "instruction": "Given the following input, classify the sentiment of the text as either positive, negative, or neutral.",
+  "input": "The weather is cloudy and the temperature is cool.",
+  "output": "Neutral",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

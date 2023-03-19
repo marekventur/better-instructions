@@ -1,0 +1,12 @@
+{
+  "id": "81e75a69-d497-43d4-ac77-378c012f8ba9",
+  "instruction": "Rewrite a sentence without changing the meaning and removing all adjectives",
+  "input": "This incredible shirt has a beautiful design.",
+  "output": "The shirt has a design.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

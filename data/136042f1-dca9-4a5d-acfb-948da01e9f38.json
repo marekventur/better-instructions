@@ -1,0 +1,12 @@
+{
+  "id": "136042f1-dca9-4a5d-acfb-948da01e9f38",
+  "instruction": "Create a CSS rule that changes the background color of a link when the mouse is over it.",
+  "input": "",
+  "output": "a:hover { background-color: #000000; }",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

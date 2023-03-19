@@ -1,0 +1,12 @@
+{
+  "id": "074fb5d5-b70a-4394-935c-cd4d44ac2319",
+  "instruction": "Calculate the average age of the members of the \u201cPiano Lesson Group\u201d",
+  "input": "The members of the \u201cPiano Lesson Group\u201d are Maria (8 years old), Tyler (9 years old), Jessica (7 years old), and John (11 years old).",
+  "output": "The average age of the members of the \u2018Piano Lesson Group\u2019 is 8.75 years, calculated by adding the ages of each member and then dividing the result by 4.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

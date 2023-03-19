@@ -1,0 +1,12 @@
+{
+  "id": "29880324-bf25-46b3-94cf-7b2e1935fad9",
+  "instruction": "Diagnose the problem given a medical history.",
+  "input": "Patient has a sore throat, body aches, and a fever.",
+  "output": "The symptoms suggest that the patient may have a viral infection such as the flu or a cold. A medical professional should be consulted for further diagnosis and treatment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

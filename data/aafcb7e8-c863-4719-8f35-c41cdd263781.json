@@ -1,0 +1,12 @@
+{
+  "id": "aafcb7e8-c863-4719-8f35-c41cdd263781",
+  "instruction": "Write a Python program to insert an element into a sorted list.",
+  "input": "",
+  "output": "def insert_element(lst, element):\n    if not lst:\n        lst.append(element)\n    else:\n        for i in range(len(lst)):\n            if lst[i] > element:\n                lst.insert(i, element)\n                break\n        else:\n            lst.append(element)\n    return lst",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

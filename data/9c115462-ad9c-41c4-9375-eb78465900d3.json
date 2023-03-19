@@ -1,0 +1,12 @@
+{
+  "id": "9c115462-ad9c-41c4-9375-eb78465900d3",
+  "instruction": "Analyze the current financial state of the given company.",
+  "input": "Amazon",
+  "output": "Amazon is in a very strong financial position. It reported total revenues of over $280 billion for 2019, a 21% increase from the prior year. Its net income for 2019 was over $11 billion, a 61% increase from the prior year. Its cash reserves grew to $37 billion, a 42% increase from 2018, and its free cash flow was $",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

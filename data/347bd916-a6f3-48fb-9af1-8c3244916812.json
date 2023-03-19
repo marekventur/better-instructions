@@ -1,0 +1,12 @@
+{
+  "id": "347bd916-a6f3-48fb-9af1-8c3244916812",
+  "instruction": "Identify if the following sentence has a run-on sentence or not. Output 1 for run-on sentence and 0 for not.",
+  "input": "She wanted to go to the store and buy some candy.",
+  "output": "0",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

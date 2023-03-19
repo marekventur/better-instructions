@@ -1,0 +1,12 @@
+{
+  "id": "a4622f87-20fc-4841-ac94-60db6285755d",
+  "instruction": "Rewrite this sentence in an active voice:\n\nThe party was attended by everyone",
+  "input": "The party everyone attended",
+  "output": "Everyone attended the party.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

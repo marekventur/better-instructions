@@ -1,0 +1,12 @@
+{
+  "id": "a9a1f85f-2e18-4543-acf0-fd2bc0ad4277",
+  "instruction": "Categorize the following sentence as suitable for a child or an adult.",
+  "input": "The happy family of five went to the beach.",
+  "output": "Child",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

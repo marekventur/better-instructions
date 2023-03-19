@@ -1,0 +1,12 @@
+{
+  "id": "feaa84d0-6f39-4634-abae-987fcb8d757a",
+  "instruction": "Given two options, provide an opinion",
+  "input": "Apple or Android",
+  "output": "I prefer Apple devices because of their intuitive design and reliable performance. Android phones have more variety in terms of price and features, but I have had positive experiences with Apple's customer service.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

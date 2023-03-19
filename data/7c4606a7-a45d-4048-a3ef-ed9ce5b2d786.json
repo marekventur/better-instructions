@@ -1,0 +1,12 @@
+{
+  "id": "7c4606a7-a45d-4048-a3ef-ed9ce5b2d786",
+  "instruction": "Discuss the relationship between entropy and reversibility.",
+  "input": "",
+  "output": "Entropy is a measure of disorder in a system. It is a measure of the amount of energy that is unavailable to do work. Reversibility is the ability of a system to return to its original state after it has undergone some change. A reversible system is one in which the entropy of the system can be completely restored to its original state after undergoing a change. Entropy and reversibility are related in that a system with a lower entropy is more likely to be reversible.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

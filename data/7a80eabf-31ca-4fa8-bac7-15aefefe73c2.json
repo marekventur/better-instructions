@@ -1,0 +1,12 @@
+{
+  "id": "7a80eabf-31ca-4fa8-bac7-15aefefe73c2",
+  "instruction": "Classify the text according to its primary purpose (e.g., to describe, to persuade, to inform, etc.)",
+  "input": "This article will explain why space exploration is important for humanity.",
+  "output": "Inform",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "65a881a1-d661-4acf-8b21-58960587a7f7",
+  "instruction": "Explain the concept of relativity in 100 words.",
+  "input": "",
+  "output": "Relativity is a theory developed by Albert Einstein which suggests that physical laws are the same in all inertial frames of reference. In other words, no matter how fast an observer moves, the laws of physics remain unchanged.\n\nRelativity includes two theories: the Special Theory of Relativity and the General Theory of Relativity.\nThe Special Theory of Relativity applies to objects with uniform motion, while the General Theory of Relativity applies to objects with varying speeds in different directions.\n\nThe main ideas of special relativity are that the speed of light is always the same and never changes relative to the observer, and that space and time are elastic and can be altered depending on an observer's motion. The two notions of time dilation and length contraction demonstrate these ideas. \n\nGeneral relativity, on the other hand, takes into account the structure of space, gravity, and curvature of space-time.   It further specified that gravity is the result of a distortion in the structure of space-time caused by the presence of mass.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

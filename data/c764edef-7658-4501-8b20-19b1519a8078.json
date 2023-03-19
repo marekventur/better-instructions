@@ -1,0 +1,12 @@
+{
+  "id": "c764edef-7658-4501-8b20-19b1519a8078",
+  "instruction": "Given a sentence containing a grammar mistake, correct the sentence.",
+  "input": "The library was visit by hundreds of students",
+  "output": "The library was visited by hundreds of students.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

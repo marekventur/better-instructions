@@ -1,0 +1,12 @@
+{
+  "id": "ca2ad6c8-5b46-4654-a856-4b635fc918fc",
+  "instruction": "Prepare a presentation that compares two versions of a product.",
+  "input": "The two versions of the product are an Apple iPhone 11 and an Apple iPhone 12.",
+  "output": "I will present a comparison between the Apple iPhone 11 and the Apple iPhone 12. The iPhone 11 was released in 2019 and has the A13 Bionic chip from Apple. It has a 6.1 inch Liquid Retina HD display and a dual 12MP Ultra Wide and Wide camera. It features Face ID for security and has a battery life of up to 17 hours. \n\nThe iPhone 12 was released in 20",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

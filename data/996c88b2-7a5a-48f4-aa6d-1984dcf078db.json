@@ -1,0 +1,12 @@
+{
+  "id": "996c88b2-7a5a-48f4-aa6d-1984dcf078db",
+  "instruction": "Design an experiment to test the following hypothesis",
+  "input": "Adding music to an educational video can increase student engagement",
+  "output": "The experiment would involve two groups of student volunteers. The first group would watch a video about a given topic with accompanying music, while the second group would watch the same video without accompanying music. The experiment could observe engagement levels of the students throughout the videos and collect data on the time and effort students put into engaging with the material. Data about students' understanding of the material and their overall satisfaction with the educational video experience could then be collected and compared.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

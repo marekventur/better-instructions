@@ -1,0 +1,12 @@
+{
+  "id": "87834a7f-3e68-4ca2-8d5c-3d097ff4ce18",
+  "instruction": "Determine the probability of rolling a total of 8 given 3 fair dice.",
+  "input": "",
+  "output": "The probability of rolling a total of 8 given 3 fair dice is 1/12 or 0.083. This is because the possible combinations that add up to 8 include (5,1,2), (4,2,2), (3,3,2), (2,4,2) and (1,5,2). Since there are a total of 6x6x6=216 possible combinations, the probability of rolling a total of 8 is 1/216.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

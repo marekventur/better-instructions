@@ -1,0 +1,12 @@
+{
+  "id": "db9a0387-35ab-4a62-82aa-79ad93ee856e",
+  "instruction": "Estimate the cost of producing 1000 copies of a 400-page book.",
+  "input": "",
+  "output": "Assuming that the 400-page book is printed on A4 size paper, the estimated cost of producing 1000 copies would be around $600-$800. This estimate includes the cost of printing, binding, and shipping. Additionally, the cost of the books could vary depending on the complexity of the design and the number of colors used in the illustrations.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

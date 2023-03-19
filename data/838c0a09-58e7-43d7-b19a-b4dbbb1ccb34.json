@@ -1,0 +1,12 @@
+{
+  "id": "838c0a09-58e7-43d7-b19a-b4dbbb1ccb34",
+  "instruction": "Identify the type of pun in given sentence.",
+  "input": "His cooking was so bad it tastes like a sad song.",
+  "output": "The sentence is an example of a musical pun.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "df4d4e17-4d68-4798-9a8d-b43b24de89d9",
+  "instruction": "Find the coefficient of determination (r-squared value) of the linear regression model below.\n\ny = 0.5x + 0.1",
+  "input": "x = [0, 1, 2, 3, 4, 5]\ny = [0.1, 0.6, 1.1, 1.6, 2.1, 2.6]",
+  "output": "0.98",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

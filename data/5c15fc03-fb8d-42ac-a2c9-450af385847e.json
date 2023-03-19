@@ -1,0 +1,12 @@
+{
+  "id": "5c15fc03-fb8d-42ac-a2c9-450af385847e",
+  "instruction": "Write instructions for how to play Rock, Paper, Scissors",
+  "input": "",
+  "output": "Rock Paper Scissors is a two-player game that is played with the hands. To begin, both players extend their hand with the clenched fist of rock, paper, or scissors. The players then simultaneously reveal their choices. Rock beats scissors, paper beats rock, and scissors beats paper. If both players choose the same shape, it is a draw. The winner is the person who chooses the shape that defeats their opponent's choice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

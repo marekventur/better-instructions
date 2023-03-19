@@ -1,0 +1,12 @@
+{
+  "id": "da7730b8-99bc-48fa-9e78-d0ab34a8d9bd",
+  "instruction": "Shape the following sentence into a question:\n\nThe Houston Rockets are an American professional basketball team",
+  "input": "",
+  "output": "Which American professional basketball team is the Houston Rockets?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

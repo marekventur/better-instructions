@@ -1,0 +1,12 @@
+{
+  "id": "86a1c766-2d8e-4085-ba21-07a4cbf9d089",
+  "instruction": "Rewrite this news article to make it more concise.",
+  "input": "More tech companies are turning to quantum computing as a potential solution to their needs.\n\nQuantum computing has been gaining increasing traction in the tech industry for some years now as it promises unprecedented computing power compared to current systems.\n\nQuantum computing works by taking advantage of the fact that particles on the subatomic level can exist in multiple states at the same time, meaning far more complex calculations can be done in much less time than is currently possible.",
+  "output": "Tech companies have been investing in quantum computing, which can carry out complex calculations faster than traditional computers. This is due to the ability of particles on the subatomic level to exist in multiple states simultaneously.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "98078f71-f35a-4990-aad2-b6ce0d195465",
+  "instruction": "Choose two out of the three words given to form a new phrase.",
+  "input": "light, music, energy",
+  "output": "Light energy",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

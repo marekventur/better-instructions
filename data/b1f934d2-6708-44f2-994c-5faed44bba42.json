@@ -1,0 +1,12 @@
+{
+  "id": "b1f934d2-6708-44f2-994c-5faed44bba42",
+  "instruction": "Compare the given two items on a given characteriistic.",
+  "input": "Grocery shopping online vs. Grocery shopping in person\nCharacteristic: Convenience",
+  "output": "Grocery shopping online is generally more convenient than grocery shopping in person, as it eliminates the need to physically visit a store and take time out of your schedule to shop. However, shopping in person can also be convenient for certain items that are hard to find on online stores or that require extra care in selecting.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

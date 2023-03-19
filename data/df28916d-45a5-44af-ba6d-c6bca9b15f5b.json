@@ -1,0 +1,12 @@
+{
+  "id": "df28916d-45a5-44af-ba6d-c6bca9b15f5b",
+  "instruction": "Reorganize the sentence for better readability.",
+  "input": "Using this new tactic, the Company improved their sales significantly.",
+  "output": "The Company significantly improved their sales using this new tactic.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

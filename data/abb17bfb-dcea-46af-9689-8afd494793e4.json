@@ -1,0 +1,12 @@
+{
+  "id": "abb17bfb-dcea-46af-9689-8afd494793e4",
+  "instruction": "Compare and contrast the different characteristics of the two given products.",
+  "input": "Products: iPhone 8 and iPhone 10",
+  "output": "The iPhone 8 and iPhone 10 are both designed for the Apple smartphone user. The most notable difference between the two is that the iPhone 8 is equipped with an A11 Bionic chipset and runs the iOS 11 operating system, while the iPhone 10 has an A12 Bionic chipset and runs the iOS 12 operating system. Other differences include the iPhone 8's 4.7-inch LCD display and single camera on the back, while the iPhone X has a 5.8-inch OLED display and dual camera on the back. The iPhone 10 also has facial recognition technology, which is not available on the iPhone 8. Additionally, the iPhone 10 is more durable as it is IP67 water-resistant and dust-resistant, while the iPhone 8 is not.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d6bd1cfe-3bbe-4cbe-a5c1-62db5e616808",
+  "instruction": "Classify the following flower as an annual or a perennial.",
+  "input": "Marigold",
+  "output": "The marigold is an annual flower.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

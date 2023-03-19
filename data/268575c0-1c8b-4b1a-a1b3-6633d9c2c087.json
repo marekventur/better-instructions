@@ -1,0 +1,12 @@
+{
+  "id": "268575c0-1c8b-4b1a-a1b3-6633d9c2c087",
+  "instruction": "Name the different emotions inferred from the sentence.",
+  "input": "He was so angry that he slammed the door.",
+  "output": "Anger.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

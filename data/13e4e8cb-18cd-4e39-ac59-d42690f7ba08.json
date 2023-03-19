@@ -1,0 +1,12 @@
+{
+  "id": "13e4e8cb-18cd-4e39-ac59-d42690f7ba08",
+  "instruction": "Change the misspelled word.",
+  "input": "The centipede had a hundread feet.",
+  "output": "The centipede had a hundred feet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

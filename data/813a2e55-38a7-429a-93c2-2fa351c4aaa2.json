@@ -1,0 +1,12 @@
+{
+  "id": "813a2e55-38a7-429a-93c2-2fa351c4aaa2",
+  "instruction": "Identify the mood of this sentence.",
+  "input": "He felt so ecstatic when he saw the results of the experiment.",
+  "output": "The mood of the sentence is joyful.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

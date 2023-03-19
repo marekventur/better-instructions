@@ -1,0 +1,12 @@
+{
+  "id": "8ff2ca2d-f343-43d8-b3b6-9a7f7e1f230f",
+  "instruction": "Add some lines to complete the given poem.",
+  "input": "Rain pours down \nSoaks the ground",
+  "output": "Rain pours down \nSoaks the ground\nCleanses air, provides a sound\nSplashes on the rooftop's crown\nMakes the world feel so alive \nNurtures plants and creatures' strife \nRain against window casements \nBringing blessings for us all",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

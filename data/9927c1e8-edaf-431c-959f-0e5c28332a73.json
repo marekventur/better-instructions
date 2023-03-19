@@ -1,0 +1,12 @@
+{
+  "id": "9927c1e8-edaf-431c-959f-0e5c28332a73",
+  "instruction": "Assess the following argument as valid or invalid.",
+  "input": "Plants need sunlight to grow, so they should be placed near a window.",
+  "output": "Valid.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5b8a71ee-f0e7-4f09-a6e8-782b1de22971",
+  "instruction": "Design an experiment to test the ability of GPT models to natural language understanding.",
+  "input": "",
+  "output": "The experiment should involve giving GPT models a set of natural language tasks and evaluating their performance. These tasks can involve classification, open-ended generation, comprehension, and editing. The tasks should involve a mix of short-answer and essay-style questions with varying levels of complexity. Examples of possible tasks could include: translating a sentence, rewriting a sentence to make it grammatically correct, generating a description for a picture, or answering a multiple-choice question about a given passage. The tasks should be designed so that the output of GPT models is easily determinable. The evaluation should also consider other aspects like fluency, readability, and grammatical correctness.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

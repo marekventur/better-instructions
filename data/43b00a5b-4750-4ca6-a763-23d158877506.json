@@ -1,0 +1,12 @@
+{
+  "id": "43b00a5b-4750-4ca6-a763-23d158877506",
+  "instruction": "Convert the following sentence from the imperative mood to indicative mood.",
+  "input": "Do not forget to complete your assignment.",
+  "output": "You should not forget to complete your assignment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

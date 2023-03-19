@@ -1,0 +1,12 @@
+{
+  "id": "c59187d9-f76c-4636-9814-b9ffe62fae0d",
+  "instruction": "Fill in the quiz form based on the given information.",
+  "input": "Name: Emma Smith\nGenre: Action Movie\nFavorite Movie: The Dark Knight",
+  "output": "Name: Emma Smith\nGenre: Action Movie\nFavorite Movie: The Dark Knight",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

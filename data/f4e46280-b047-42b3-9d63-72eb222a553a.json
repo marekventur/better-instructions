@@ -1,0 +1,12 @@
+{
+  "id": "f4e46280-b047-42b3-9d63-72eb222a553a",
+  "instruction": "Convert the following imperial units to the corresponding metric units.",
+  "input": "10 feet and 20 pounds",
+  "output": "3.05 meters and 9.07 kilograms",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

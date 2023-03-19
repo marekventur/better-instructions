@@ -1,0 +1,12 @@
+{
+  "id": "5f178059-a3ff-436a-bbc0-8daca8aafa9b",
+  "instruction": "Recognize the given emotion.",
+  "input": "Rising voice tone, clenched fists",
+  "output": "Anger",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

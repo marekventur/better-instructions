@@ -1,0 +1,12 @@
+{
+  "id": "b877a939-a763-4819-a7bc-ab6a6c40363c",
+  "instruction": "Deleted the second-to-last sentence of this paragraph.",
+  "input": "I wanted to take a break from all the bad news in the world, so I decided to get away for a bit. I went to the beach and enjoyed the sun, sand and waves. I met some new people and had some great conversations. It was a great time to get away from the worries of the world.",
+  "output": "I wanted to take a break from all the bad news in the world, so I decided to get away for a bit. I went to the beach and enjoyed the sun, sand and waves. I met some new people and had some great conversations. It was a great time to get away from the worries of the world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

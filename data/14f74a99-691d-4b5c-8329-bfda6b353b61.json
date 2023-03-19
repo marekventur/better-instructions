@@ -1,0 +1,12 @@
+{
+  "id": "14f74a99-691d-4b5c-8329-bfda6b353b61",
+  "instruction": "You are given a sentence, \"The boy walked down the street\", detect if it is in the past tense.",
+  "input": "The boy walked down the street",
+  "output": "true",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

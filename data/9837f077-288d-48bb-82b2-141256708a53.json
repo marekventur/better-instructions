@@ -1,0 +1,12 @@
+{
+  "id": "9837f077-288d-48bb-82b2-141256708a53",
+  "instruction": "Classify the following using parts of speech.",
+  "input": "The blustery wind was howling in the night.",
+  "output": "The: article\nblustery: adjective\nwind: noun\nwas: verb\nhowling: verb\nin: preposition\nthe: article\nnight: noun",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

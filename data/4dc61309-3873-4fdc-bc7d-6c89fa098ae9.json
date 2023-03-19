@@ -1,0 +1,12 @@
+{
+  "id": "4dc61309-3873-4fdc-bc7d-6c89fa098ae9",
+  "instruction": "Classify the given sentence as either representative of Democratic or Republican views.",
+  "input": "The federal government should provide universal healthcare coverage.",
+  "output": "Democratic views",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

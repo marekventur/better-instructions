@@ -1,0 +1,12 @@
+{
+  "id": "c5572fed-1849-41e2-b655-7b624a6d840c",
+  "instruction": "Judge the quality of a customer review about a restaurant. You should respond with \"Positive\" or \"Negative\".",
+  "input": "The service was incredibly slow and the food was not well-prepared.",
+  "output": "Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

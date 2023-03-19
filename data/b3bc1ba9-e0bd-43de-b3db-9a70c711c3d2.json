@@ -1,0 +1,12 @@
+{
+  "id": "b3bc1ba9-e0bd-43de-b3db-9a70c711c3d2",
+  "instruction": "Find the list of ingredients for the given recipe.",
+  "input": "Grilled Asparagus",
+  "output": "Ingredients:\n- 1 pound asparagus, trimmed\n- 2 tablespoons extra-virgin olive oil\n- 1/2 teaspoon kosher salt\n- 1/4 teaspoon freshly ground black pepper\n- 2 cloves garlic, minced\n- 1 tablespoon freshly squeezed lemon juice",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

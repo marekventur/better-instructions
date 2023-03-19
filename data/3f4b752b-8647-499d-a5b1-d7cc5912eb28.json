@@ -1,0 +1,12 @@
+{
+  "id": "3f4b752b-8647-499d-a5b1-d7cc5912eb28",
+  "instruction": "Find the sentence containing the highest information density.",
+  "input": "(1)Women have equal rights in our society. (2) This principle is enshrined in our nation's laws. (3) It is one of the great accomplishments of our civilisation.",
+  "output": "2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

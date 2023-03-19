@@ -1,0 +1,12 @@
+{
+  "id": "bf9e0b45-93de-4141-90e3-6f9985b2333a",
+  "instruction": "Develop an algorithm to find the maximum number in a list.",
+  "input": "",
+  "output": "def find_max(lst):\n    max_num = 0\n    for num in lst:\n        if num > max_num:\n            max_num = num\n    return max_num",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

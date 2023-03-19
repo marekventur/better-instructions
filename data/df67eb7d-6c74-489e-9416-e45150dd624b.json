@@ -1,0 +1,12 @@
+{
+  "id": "df67eb7d-6c74-489e-9416-e45150dd624b",
+  "instruction": "Select the most suitable word from the two given to complete this sentence.",
+  "input": "The book is one of the ____ in the library.\nOptions: rarest, fewest",
+  "output": "rarest",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5aaa16e2-77cd-46fe-b3a4-761b738e8049",
+  "instruction": "Find the type of flower referenced in the text below.",
+  "input": "The house was surrounded by colorful roses.",
+  "output": "Roses.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

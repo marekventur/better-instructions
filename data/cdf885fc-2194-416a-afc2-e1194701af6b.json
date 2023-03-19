@@ -1,0 +1,12 @@
+{
+  "id": "cdf885fc-2194-416a-afc2-e1194701af6b",
+  "instruction": "SInce the sentence has odd length number of words, select the middle two words of the sentence.",
+  "input": "Due to the recent pandemic, the economy has been significantly affected.",
+  "output": "recent pandemic",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

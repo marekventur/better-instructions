@@ -1,0 +1,12 @@
+{
+  "id": "c8d5676b-a5db-4b23-8eeb-c9cc6084387d",
+  "instruction": "Create a dialogue between two colleagues discussing a project they are working on.",
+  "input": "",
+  "output": "Colleague 1: Hey, how's the project going?\n\nColleague 2: Hey there! It's going well. I've finished the first two drafts and I'm now doing some small tweaks. What about you?\n\nColleague 1: I'm almost done too. Just have to make sure all the contents are organized. Should be done in a few days.\n\nColleague 2: Alright, that sounds great! I'll check my work with you when you're done and make any final changes.\n\nColleague 1: Sounds like a plan. We should get this project finished in no time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

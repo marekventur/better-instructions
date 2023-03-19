@@ -1,0 +1,12 @@
+{
+  "id": "a3f4db59-c96f-410f-996f-4bfe6af6f24e",
+  "instruction": "Classify the animal in the following sentence as either mammal, bird, reptile or fish.\nOutput the correct category of the animal.",
+  "input": "The shark swam in the sea.",
+  "output": "Fish",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

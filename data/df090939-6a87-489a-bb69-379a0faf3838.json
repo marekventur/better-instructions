@@ -1,0 +1,12 @@
+{
+  "id": "df090939-6a87-489a-bb69-379a0faf3838",
+  "instruction": "Given a geopolitical issue, write a short opinion piece on it.",
+  "input": "U.S.-China Trade War",
+  "output": "The U.S.-China trade war has been escalating for months now, and it's unlikely to end soon. Both countries are introducing tariffs and sanctions against each other, and we're already starting to see effects on the global economy. While making sure that American companies and workers are treated fairly, we should also try to find ways to cooperate with China in order to reduce the impact of this conflict on the rest of the world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

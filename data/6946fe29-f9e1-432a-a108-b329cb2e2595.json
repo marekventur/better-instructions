@@ -1,0 +1,12 @@
+{
+  "id": "6946fe29-f9e1-432a-a108-b329cb2e2595",
+  "instruction": "Given three numbers (x, y, z), find the greatest common factor.",
+  "input": "2, 4, 8",
+  "output": "The greatest common factor of 2, 4, and 8 is 2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

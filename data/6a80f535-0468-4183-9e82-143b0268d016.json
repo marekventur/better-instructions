@@ -1,0 +1,12 @@
+{
+  "id": "6a80f535-0468-4183-9e82-143b0268d016",
+  "instruction": "Identify the main theme in the below given movie review",
+  "input": "The movie is filled with moments of surprise, suspense and horror.",
+  "output": "The main theme of the movie is suspense and horror.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d1d1f6d9-5271-4d6b-a570-f0acd032e329",
+  "instruction": "Generate a funny joke with the following setup.",
+  "input": "Setup: A horse walks into a bar",
+  "output": "The horse says to the bartender: \"Why the long face?\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

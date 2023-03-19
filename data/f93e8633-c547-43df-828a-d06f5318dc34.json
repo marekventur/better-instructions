@@ -1,0 +1,12 @@
+{
+  "id": "f93e8633-c547-43df-828a-d06f5318dc34",
+  "instruction": "Rearrange the words in the sentence to create a new sentence with the same meaning.",
+  "input": "The house was painted yellow and blue.",
+  "output": "Yellow and blue were the colors of the house that was painted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

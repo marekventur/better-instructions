@@ -1,0 +1,12 @@
+{
+  "id": "216cff03-baef-492d-bb23-b258389e7644",
+  "instruction": "Generate a dialogue between a customer and a salesperson in a department store.",
+  "input": "",
+  "output": "Customer: Hi, do you have any shoes in my size?\n\nSalesperson: Let me take a look. What size are you looking for?\n\nCustomer: Size 9.\n\nSalesperson: Yes, I have some great options for you. We have several styles and colors available in your size. Which one are you interested in? \n\nCustomer: I'm looking for something comfortable and stylish. Do you have any recommendations?\n\nSalesperson: Absolutely. I just got in a shipment of running shoes with a very breathable fabric. Or if you're looking for something more formal, we also have some great leather dress shoes. Which one would you like to try on first? \n\nCustomer: Ooh I like the sound of those running shoes. Can I see them?\n\nSalesperson: Sure, let me get them for you. Here they are! What do you think?\n\nCustomer: They look really good! I'll take them.\n\nSalesperson: Great! Let me ring them up for you.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

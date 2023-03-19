@@ -1,0 +1,12 @@
+{
+  "id": "a3c0edfb-2be9-49ee-9121-87c393fdc9d9",
+  "instruction": "Shorten this sentence to 8 words.",
+  "input": "He was running at a speed of 25 mph.",
+  "output": "He ran 25 mph.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

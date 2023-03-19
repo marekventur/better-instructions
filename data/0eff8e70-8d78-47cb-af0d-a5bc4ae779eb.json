@@ -1,0 +1,12 @@
+{
+  "id": "0eff8e70-8d78-47cb-af0d-a5bc4ae779eb",
+  "instruction": "Describe a process to power a light bulb using a battery",
+  "input": "",
+  "output": "To power a light bulb using a battery, you will need a DC power source such as a battery, a wire, and a light bulb. First, attach one end of the wire to the positive terminal of the battery, and connect the other end of the wire to the base of the light bulb. Next, attach the other end of the wire to the negative terminal of the battery. Once the connections are made, the light bulb should turn on.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

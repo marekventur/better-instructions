@@ -1,0 +1,12 @@
+{
+  "id": "6c36acd8-c442-4e05-9c6d-724c261ddf95",
+  "instruction": "Take two unrelated pieces of text and create a transition sentence to bridge them.",
+  "input": "The sun is scorching hot and the birds are singing in the trees.",
+  "output": "As the bright sunlight illuminated the land, the melodic chirps of birds echoed among the trees.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

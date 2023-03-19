@@ -1,0 +1,12 @@
+{
+  "id": "2ea8e775-9936-4481-bbb9-9f63e3f36222",
+  "instruction": "Add five entries to a list of US states.",
+  "input": "California, Florida, Texas, New York,",
+  "output": "- Arizona \n- Pennsylvania\n- Illinois \n- Ohio \n- Georgia",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

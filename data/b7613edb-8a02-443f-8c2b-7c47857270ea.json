@@ -1,0 +1,12 @@
+{
+  "id": "b7613edb-8a02-443f-8c2b-7c47857270ea",
+  "instruction": "Categorize the given list of animals.",
+  "input": "Elephant, Spider, Cow",
+  "output": "Mammal (Elephant, Cow), Arachnid (Spider)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

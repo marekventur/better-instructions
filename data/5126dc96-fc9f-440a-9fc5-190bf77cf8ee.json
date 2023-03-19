@@ -1,0 +1,12 @@
+{
+  "id": "5126dc96-fc9f-440a-9fc5-190bf77cf8ee",
+  "instruction": "Make a guess about the outcome based on the following facts.",
+  "input": "The currency exchange rate for US dollars and Euros is currently 1:0.9",
+  "output": "It is likely that the value of the US dollar will decrease in relation to the Euro in the near future.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

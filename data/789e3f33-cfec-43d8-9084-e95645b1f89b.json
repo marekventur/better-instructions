@@ -1,0 +1,12 @@
+{
+  "id": "789e3f33-cfec-43d8-9084-e95645b1f89b",
+  "instruction": "Generate a fantasy story using the characters and settings given in the input.",
+  "input": "Characters: Elves, Dwarves, Wizard\nLocation: Forest",
+  "output": "Once upon a time there lived a group of elves, dwarves and a wizard deep in a majestic forest. The wizard had bound the creatures of the forest to his will, protecting the elves and dwarves from harm. But the peace did not last long as a powerful dragon descended from the sky to wreak havoc on the kingdom.\nThe wizard acted quickly and called on the elves and dwarves to help him in a mighty battle against the dragon. Despite their courage and strength, the dragon proved to be too powerful for the creatures and began raining fire from the sky. In desperation, the wizard used the last of his magic to transport the elves and dwarves away from the dragon, saving them from certain destruction.\nThe elves and dwarves later returned to the forest, this time wiser and stronger. But the wizard had been killed in battle and the creatures of the forest no longer had a protector. The elves and dwarves decided to band together to protect the forest and all its inhabitants, determined to recapture the peace they once knew.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

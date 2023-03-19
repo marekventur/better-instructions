@@ -1,0 +1,12 @@
+{
+  "id": "882565ba-f6b9-443d-baff-9f33a51a289b",
+  "instruction": "Create a computer program to generate a multiplication table of the given number.",
+  "input": "7",
+  "output": "function generateMultiplicationTable (number) {\n  for (let i = 1; i <= 10; i++) {\n    console.log(`${number} X ${i} = ${number * i}`);\n  }\n}\n\ngenerateMultiplicationTable(7);",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

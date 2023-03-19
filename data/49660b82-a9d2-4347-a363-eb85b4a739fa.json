@@ -1,0 +1,12 @@
+{
+  "id": "49660b82-a9d2-4347-a363-eb85b4a739fa",
+  "instruction": "Edit the given text to make sure all plural nouns are spelled correctly.",
+  "input": "The bunnies showed signs of tirednes.",
+  "output": "The bunnies showed signs of tiredness.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

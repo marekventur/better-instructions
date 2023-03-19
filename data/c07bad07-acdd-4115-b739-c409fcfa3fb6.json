@@ -1,0 +1,12 @@
+{
+  "id": "c07bad07-acdd-4115-b739-c409fcfa3fb6",
+  "instruction": "Given a set of parameters, classify a song.",
+  "input": "Genre: Rock\nTempo: Slow\nInstrumentation: Piano",
+  "output": "A slow tempo rock song featuring piano instrumentation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

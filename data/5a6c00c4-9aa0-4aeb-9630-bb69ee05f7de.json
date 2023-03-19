@@ -1,0 +1,12 @@
+{
+  "id": "5a6c00c4-9aa0-4aeb-9630-bb69ee05f7de",
+  "instruction": "Construct an HTTP request that retrieves information from an API.",
+  "input": "Example API endpoint: https://example.com/api/v1",
+  "output": "GET https://example.com/api/v1 HTTP/1.1\nHost: example.com\nContent-Type: application/json",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

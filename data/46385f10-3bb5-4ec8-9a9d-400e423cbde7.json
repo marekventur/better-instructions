@@ -1,0 +1,12 @@
+{
+  "id": "46385f10-3bb5-4ec8-9a9d-400e423cbde7",
+  "instruction": "Rewrite the sentence using a verb in the infinitive form.",
+  "input": "The teacher tries to explain the new material.",
+  "output": "The teacher  attempts to  explain  the new material.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

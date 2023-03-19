@@ -1,0 +1,12 @@
+{
+  "id": "5fde471c-5041-44fc-be32-d0a46bd483ee",
+  "instruction": "Given a list of components, come up with a single sentence that describes the purpose of the components.",
+  "input": "- Transistor \n- Resistor \n- Capacitor",
+  "output": "Transistors, resistors, and capacitors are electronic components used to control and shape electrical currents.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

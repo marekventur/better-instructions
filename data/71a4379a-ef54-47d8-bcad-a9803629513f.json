@@ -1,0 +1,12 @@
+{
+  "id": "71a4379a-ef54-47d8-bcad-a9803629513f",
+  "instruction": "Pick two stocks to invest in based on the following criteria.",
+  "input": "Looking for stocks with a growing dividend yield and moderate levels of risk.",
+  "output": "Based on the criteria, two good stocks to invest in would be Microsoft and Apple, as these have growing dividend yields, as well as moderate levels of risk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

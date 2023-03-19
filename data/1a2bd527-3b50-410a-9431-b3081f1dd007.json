@@ -1,0 +1,12 @@
+{
+  "id": "1a2bd527-3b50-410a-9431-b3081f1dd007",
+  "instruction": "Retrieve the last three transactions from the customer's account.",
+  "input": "Customer ID: 12333",
+  "output": "Transaction 1: USD",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

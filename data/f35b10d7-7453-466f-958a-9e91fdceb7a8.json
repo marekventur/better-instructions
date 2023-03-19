@@ -1,0 +1,12 @@
+{
+  "id": "f35b10d7-7453-466f-958a-9e91fdceb7a8",
+  "instruction": "Train a classification model to classify emails as \"spam\" or \"not-spam\", using the given dataset.",
+  "input": "csv dataset containing 200 emails.",
+  "output": "Input Dataset:\n\nEmail Content, Spam/Not-Spam\n\nThe cat sat on the mat, Not-Spam\nEarning extra money is easy, Spam \nMake sure to check your emails, Not-Spam\n...\nOutput Model:\n\nTrained classification model, with accuracy score of at least 95%.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

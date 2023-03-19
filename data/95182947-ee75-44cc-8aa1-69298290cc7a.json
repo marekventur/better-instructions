@@ -1,0 +1,12 @@
+{
+  "id": "95182947-ee75-44cc-8aa1-69298290cc7a",
+  "instruction": "Find the most efficient way to sort the following array using a single line of code. \n\n[6, 8, 12, 4, 7]",
+  "input": "[6, 8, 12, 4, 7]",
+  "output": "[4, 6, 7, 8, 12]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4a8c6080-e389-4948-aa20-bae31df4ef4b",
+  "instruction": "Retrieve weather information of the given city",
+  "input": "City: Dallas",
+  "output": "The current temperature in Dallas is 78\u00b0F (26\u00b0C) with a humidity of 34%. Winds are from the South at 6 miles per hour with a few clouds in the sky.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

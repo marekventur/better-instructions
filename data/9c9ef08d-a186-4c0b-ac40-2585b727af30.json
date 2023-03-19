@@ -1,0 +1,12 @@
+{
+  "id": "9c9ef08d-a186-4c0b-ac40-2585b727af30",
+  "instruction": "Create a program to check if the parenthesis of a string are balanced.",
+  "input": "",
+  "output": "def balanced_parenthesis(string):\n    stack = []\n    for i in string:\n        if i=='(':\n            stack.append(i)\n        elif i == ')':\n            if len(stack) == 0:\n                return False\n            else:\n                stack.pop()\n    if len(stack) == 0:\n        return True\n    else:\n        return False",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

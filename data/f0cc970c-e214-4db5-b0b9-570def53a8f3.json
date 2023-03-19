@@ -1,0 +1,12 @@
+{
+  "id": "f0cc970c-e214-4db5-b0b9-570def53a8f3",
+  "instruction": "Classify the character of the following excerpt as righteous or evil?",
+  "input": "The royal ruler set a precedent of justice and fairness among all people in the kingdom, no matter their social status.",
+  "output": "righteous",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

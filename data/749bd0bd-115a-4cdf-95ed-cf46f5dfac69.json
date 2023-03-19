@@ -1,0 +1,12 @@
+{
+  "id": "749bd0bd-115a-4cdf-95ed-cf46f5dfac69",
+  "instruction": "Re-write the following sentence with the same subject and verb, but changing the tense.",
+  "input": "I  ate  breakfast.",
+  "output": "I have eaten breakfast.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

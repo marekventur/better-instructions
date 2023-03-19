@@ -1,0 +1,12 @@
+{
+  "id": "dcd5a740-2c79-4a3b-a623-7bb748a3b04a",
+  "instruction": "Given the following example of a data set, outline a plan for making predictions.",
+  "input": "The dataset includes housing prices for neighbourhoods in a given city.",
+  "output": "The plan for making predictions would involve analysing the data set to identify patterns in the data. This could be done by examining correlations between various data points such as crime rate, population density, average income level, location and so on. Using this information, the model could then be trained to learn the patterns and make predictions based on the data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dc90468c-e0c4-4786-b45f-4d563780c4ff",
+  "instruction": "Combine the sentences in a way that its logical.",
+  "input": "Jill closed the shop. Everyone went out.",
+  "output": "Jill closed the shop and everyone went out.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

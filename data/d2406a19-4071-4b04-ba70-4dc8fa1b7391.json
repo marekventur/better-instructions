@@ -1,0 +1,12 @@
+{
+  "id": "d2406a19-4071-4b04-ba70-4dc8fa1b7391",
+  "instruction": "We have a data set of products and reviews. Based on the given reviews, rate each product on a scale of 1 to 5.",
+  "input": "Product A | review | \"This is a great product\" \nProduct B | review | \"It is not that great\"",
+  "output": "Product A: 5\nProduct B: 2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

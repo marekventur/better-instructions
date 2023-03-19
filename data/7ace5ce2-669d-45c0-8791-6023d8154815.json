@@ -1,0 +1,12 @@
+{
+  "id": "7ace5ce2-669d-45c0-8791-6023d8154815",
+  "instruction": "Edit the following sentence so that it is written in the active voice. Output should be 1 sentence.",
+  "input": "The dog was taken for a walk by the boy.",
+  "output": "The boy took the dog for a walk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

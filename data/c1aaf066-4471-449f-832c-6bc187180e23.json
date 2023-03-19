@@ -1,0 +1,12 @@
+{
+  "id": "c1aaf066-4471-449f-832c-6bc187180e23",
+  "instruction": "Write a script to determine whether the given number is even or odd.",
+  "input": "23",
+  "output": "if (number % 2 == 0) {\n    System.out.println(\"The number is even\");\n} else {\n    System.out.println(\"The number is odd\");\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e0e843b2-a928-486e-a03a-8eab3b58bf5f",
+  "instruction": "Generate an email to a friend, asking them to join you in taking an online course.",
+  "input": "Course Name: Introduction to Machine Learning",
+  "output": "Hey [Friend],\n\nI'm taking an amazing online course called \"Introduction to Machine Learning\". It's a great way to learn about machine learning and its various applications. I think it would be awesome if you joined me!\n\nThe course is taught by Professor Craig, who is an expert in the field and highly experienced in teaching beginners. He walks us through every concept and provides plenty of opportunities for asking questions if something is unclear. There are also interactive code exercises where I can apply the concepts I'm learning.\n\nWe can catch up with each other and study together through video calls. We can even try the course projects together \u2013 it will be fun!\n\nLet me know if you're interested in joining me.\n\nCheers,\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

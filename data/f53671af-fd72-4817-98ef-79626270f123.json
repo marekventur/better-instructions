@@ -1,0 +1,12 @@
+{
+  "id": "f53671af-fd72-4817-98ef-79626270f123",
+  "instruction": "Suggest a dessert name based on the provided ingredients",
+  "input": "Chocolate, strawberries, macadamia nuts",
+  "output": "Chocolate Macadamia Strawberry Delight.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

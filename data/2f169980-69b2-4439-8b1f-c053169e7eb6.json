@@ -1,0 +1,12 @@
+{
+  "id": "2f169980-69b2-4439-8b1f-c053169e7eb6",
+  "instruction": "Summarize the following article about facial recognition technology in 100 words or less.",
+  "input": "Facial recognition technology is becoming increasingly commonplace in the modern world. Companies are using it to verify customers, law enforcement is using it to investigate suspects, and even our phones can now unlock with just a glance. While there is no doubt that facial recognition could have positive applications, there is also the potential for misuse. Privacy advocates have raised concerns with regard to the accuracy of the technology and the potential for it to be used by governments to track their citizens.",
+  "output": "Facial recognition technology is becoming increasingly ubiquitous, allowing companies to verify customers, law enforcement to investigate suspects, and even our phones to unlock with only a glance. While it has potential positive uses, there are also risks, such as inaccuracy, a lack of transparency, and potential misuse by governments to track citizens. Privacy advocates have raised these concerns, emphasizing the need for security measures and greater oversight to ensure the technology is used responsibly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

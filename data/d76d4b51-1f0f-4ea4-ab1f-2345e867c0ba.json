@@ -1,0 +1,12 @@
+{
+  "id": "d76d4b51-1f0f-4ea4-ab1f-2345e867c0ba",
+  "instruction": "Research the population of Singapore and present it in a chart.",
+  "input": "",
+  "output": "The population of Singapore is approximately 5.78 million as of 2019. This accounts for about 0.075% of the total global population. The population growth rate stands at 0.8%. The population is mainly composed of Chinese (74.2%), Malay (13.3%), Indian (9.2%), and other ethnic groups (3.3%). Below is a table with the breakdown of the population according to ethnic groups.\n\nEthnic Group | Population\n--- | ---\nChinese | 4,313,100\nMalay | 767,100\nIndian | 535,700\nOthers | 192,100\nTotal | 5,807,900",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

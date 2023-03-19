@@ -1,0 +1,12 @@
+{
+  "id": "52f542ee-8a88-4c1a-8a2f-a83e3502a7a9",
+  "instruction": "Convert this sentence into a valid for loop in Python",
+  "input": "multiply each element of the list by two",
+  "output": "for element in list:\n    element = element * 2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

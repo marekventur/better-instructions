@@ -1,0 +1,12 @@
+{
+  "id": "95cb7d78-eae4-4f97-9614-58841f579753",
+  "instruction": "Determine whether the following argument is credible.",
+  "input": "Rising ocean levels are caused by global warming. Therefore, if we reduce our carbon emissions, we can prevent the rising of the ocean levels.",
+  "output": "Credible. Reducing carbon emissions can help decrease the global warming effects and slow down the rise of ocean levels.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

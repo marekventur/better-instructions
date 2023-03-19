@@ -1,0 +1,12 @@
+{
+  "id": "330c92f2-89b9-40b7-b475-3c74c58bfe5d",
+  "instruction": "Summarize the contents of the below article",
+  "input": "The Amazon Rainforest is a huge zone of immense biodiversity. It covers 9 countries in South America, spanning an area of over 5 million square kilometres. Containing around 390 billion individual trees and 15,000 species of higher plants, it is often referred to as the lungs of the world. It also sustains many human settlements, hosting an estimated 2.5 million Indigenous Peoples and providing a home to countless animal and plant species.",
+  "output": "The Amazon Rainforest is the largest rainforest in the world, covering 5 million square kilometres of land in South America. It contains 390 billion trees and 15,000 plant species, providing oxygen for much of the world and providing a home for numerous Indigenous Peoples and a vast array of animal and plant species.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

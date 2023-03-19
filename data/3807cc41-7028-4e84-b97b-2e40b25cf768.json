@@ -1,0 +1,12 @@
+{
+  "id": "3807cc41-7028-4e84-b97b-2e40b25cf768",
+  "instruction": "Find the index of the given substring from the sentence.",
+  "input": "Substring: \u201capplication\u201d\nSentence: She felt so excited that her application got approval.",
+  "output": "15",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

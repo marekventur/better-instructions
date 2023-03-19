@@ -1,0 +1,12 @@
+{
+  "id": "553777ae-13fb-474a-a836-117f56457fff",
+  "instruction": "Format this data as a chart.",
+  "input": "Name   | Age | Address\n------ | ----|-----------\nJohn   | 32  | 123 Main St.\nKate   | 25  | 456 Moon Ave.\nAlice  | 19  | 789 Sun Rd.",
+  "output": "Name | Age | Address\n-----|-----| --------\nJohn | 32  | 123 Main St.\nKate | 25  | 456 Moon Ave.\nAlice| 19  | 789 Sun Rd.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

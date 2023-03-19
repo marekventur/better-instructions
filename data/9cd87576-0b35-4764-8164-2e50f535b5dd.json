@@ -1,0 +1,12 @@
+{
+  "id": "9cd87576-0b35-4764-8164-2e50f535b5dd",
+  "instruction": "Given a set of data points, create a linear regression model to predict an output variable.",
+  "input": "Y = {6, 8, 9, 10, 12, 13, 15}\nX = {1, 2, 3, 4, 5, 6, 7}",
+  "output": "The linear regression equation is y = 1.857x + 4.714",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

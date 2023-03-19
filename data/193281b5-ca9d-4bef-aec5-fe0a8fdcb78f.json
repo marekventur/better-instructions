@@ -1,0 +1,12 @@
+{
+  "id": "193281b5-ca9d-4bef-aec5-fe0a8fdcb78f",
+  "instruction": "Identify the object of a sentence.",
+  "input": "The cat caught a mouse.",
+  "output": "The object of the sentence is \"mouse\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

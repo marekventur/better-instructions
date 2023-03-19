@@ -1,0 +1,12 @@
+{
+  "id": "dc5b1bcf-04dd-4182-b712-c47fbbf4e7b6",
+  "instruction": "Design a voice assistant command to schedule an appointment.",
+  "input": "",
+  "output": "To schedule an appointment, say \"Hey, [voice assistant name], please schedule an appointment for me\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

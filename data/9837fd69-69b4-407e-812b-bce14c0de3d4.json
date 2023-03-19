@@ -1,0 +1,12 @@
+{
+  "id": "9837fd69-69b4-407e-812b-bce14c0de3d4",
+  "instruction": "Given two documents, compare and contrast the topic they talk about.",
+  "input": "Document One - Soft Skills\nDocument Two - Hard Skills",
+  "output": "Document one focuses on interpersonal skills, such as communication, problem-solving, and collaboration, that can be applied to different areas. Document two focuses on technical skills, such as computer programming, data analysis and optimization, that are usually associated with specific professional fields. While the two sets of skills are complementary, indicating a well rounded individual, hard skills tend to be more concrete and measurable, responding better to learning from texts and courses. Soft skills, on the other hand, are more subjective and rely on experiences.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "922f4423-b14d-452e-9c03-c21b6290e869",
+  "instruction": "Analyze the following research paper and write an executive summary.",
+  "input": "An example research paper on self-driving cars",
+  "output": "This research paper examines the effects of self-driving cars on the environment and society. The authors conducted a study which found that the introduction of these vehicles will result in a decrease in air pollution and fuel consumption, as well as an increase in the efficiency of driving, with potential cost savings to individuals and businesses. The authors also point out that there are potential social impacts that must be considered, such as job losses and disruption to existing infrastructure. In conclusion, the authors state that self-driving cars should be introduced cautiously, with appropriate safety and legal regulations in place.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

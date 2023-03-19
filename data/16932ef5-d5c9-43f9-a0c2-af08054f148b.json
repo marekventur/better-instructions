@@ -1,0 +1,12 @@
+{
+  "id": "16932ef5-d5c9-43f9-a0c2-af08054f148b",
+  "instruction": "Summarize the text and make it more concise.",
+  "input": "Sai Suriya is an Indian actor active in Tamil films. He is best known for his roles in films such as Anniyan and Thuppakki. He has also worked in Telugu and Hindi films, often playing roles with negative connotations and remakes.",
+  "output": "Sai Suriya is an Indian actor best known for his roles in Tamil films such as Anniyan and Thuppakki. He has also appeared in a number of Telugu and Hindi films, often playing roles with negative connotations or appearing in remakes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ad61f015-4aaf-4b27-b802-daebd0c764ca",
+  "instruction": "Can you detect any biases in the following article?",
+  "input": "In baseball, the pitcher is usually the most dependable player on the team. They can be relied on to make big plays and lead the team to victory.",
+  "output": "Yes, this article implies that baseball pitchers are always dependable and can be relied upon to make big plays and lead the team to victory, which ignores the fact that pitchers can also make mistakes and fail to lead the team to victory. It also implies that other players on the team are not as dependable as pitchers, which is not true.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

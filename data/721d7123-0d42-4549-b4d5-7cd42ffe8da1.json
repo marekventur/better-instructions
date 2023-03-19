@@ -1,0 +1,12 @@
+{
+  "id": "721d7123-0d42-4549-b4d5-7cd42ffe8da1",
+  "instruction": "Generate code to prompt a user to enter their name",
+  "input": "",
+  "output": "print(\"Please enter your name: \")\nname = input()",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

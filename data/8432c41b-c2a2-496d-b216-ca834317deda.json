@@ -1,0 +1,12 @@
+{
+  "id": "8432c41b-c2a2-496d-b216-ca834317deda",
+  "instruction": "Determine what type of quadrilateral this would be based on the given information.",
+  "input": "All sides measure equal length and all angles measure equal.",
+  "output": "This is a rhombus.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

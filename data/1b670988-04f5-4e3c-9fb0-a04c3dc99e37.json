@@ -1,0 +1,12 @@
+{
+  "id": "1b670988-04f5-4e3c-9fb0-a04c3dc99e37",
+  "instruction": "Given the prompt \u201ccat\u201d and a random seed, generate a new sentence using GPT-3.",
+  "input": "Cat",
+  "output": "The cat jumped onto the windowsill, looking out the window with curiosity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

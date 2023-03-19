@@ -1,0 +1,12 @@
+{
+  "id": "fb489190-8ede-459e-a7a3-a7637502d213",
+  "instruction": "Create a bird species profile",
+  "input": "Great Tit",
+  "output": "The Great Tit (Parus major) is a species of passerine bird native to Europe and the Palearctic. They are 14\u201315 centimeters in length and have grey, white, and yellow plumage with black accents. Great Tits feed mainly on insects but also eat small mammals, fruits, nectar, and oil-rich seeds. They are found in scrub and woodland habitats, usually near human settlements, and are sometimes known to enter birdhouses or nest boxes. Great Tits mate for life, and they aggressively defend their nests and territories, often driving much larger birds away.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

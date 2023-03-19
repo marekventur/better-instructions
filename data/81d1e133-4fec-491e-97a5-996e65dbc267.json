@@ -1,0 +1,12 @@
+{
+  "id": "81d1e133-4fec-491e-97a5-996e65dbc267",
+  "instruction": "Given the following input, classify the verb as transitive or intransitive.",
+  "input": "improve",
+  "output": "Transitive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

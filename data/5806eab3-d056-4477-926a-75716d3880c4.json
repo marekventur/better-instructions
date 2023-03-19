@@ -1,0 +1,12 @@
+{
+  "id": "5806eab3-d056-4477-926a-75716d3880c4",
+  "instruction": "Compose a short song of 8 bars that follows a particular key.",
+  "input": "Key: G Major",
+  "output": "[Verse 1] \nG        G7      C         D\nOh, I'm livin' on the beach and it feels just right \nG        G7      G\nThe waves come in and all the stress fades away \n[Chorus] \nG          G7       C          D\nForget all my worries, take a breath and just sing \nG          G7       Em          D\nCuz this is the moment I'm really livin' in \n[Verse 2] \nG        G7       C          D\nThe sun's shinning through the clouds and I'm feeling alright \nG         G7      G \nJust let the sand between my toes give me a peaceful feeling \n[Chorus] \nG           G7       C          D\nForget all my worries, take a breath and just sing \nG           G7       Em          D\nCuz this is the moment I'm really livin' in \n[Outro] \nG        G7      C        D\nOh, I'm livin' on the beach and it feels just right \nG        G7       G\nThe waves come in and all the stress fades away.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

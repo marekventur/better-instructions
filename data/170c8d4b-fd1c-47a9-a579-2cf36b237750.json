@@ -1,0 +1,12 @@
+{
+  "id": "170c8d4b-fd1c-47a9-a579-2cf36b237750",
+  "instruction": "Find the head noun of the following sentence",
+  "input": "The boy read a book",
+  "output": "Boy",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

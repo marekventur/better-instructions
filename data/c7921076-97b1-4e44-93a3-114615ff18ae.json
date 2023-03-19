@@ -1,0 +1,12 @@
+{
+  "id": "c7921076-97b1-4e44-93a3-114615ff18ae",
+  "instruction": "Summarize the New York Times article about the rise of AI.",
+  "input": "https://www.nytimes.com/2020/06/16/opinion/artificial-intelligence-growth-development.html",
+  "output": "The New York Times article titled \"The Rise of Artificial Intelligence\" looks at the growing impact of AI on the world today. It highlights the positive potential of AI, such as helping with healthcare, developing workplace automation, and enabling predictive analytics, as well as the potential pitfalls, such as unemployment and privacy concerns. The article goes on to look at the current state of development of AI, and the steps being taken by governments and companies to promote responsible development and deployment of AI. Finally, it explores possible regulatory measures to ensure proper development of AI is achieved.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

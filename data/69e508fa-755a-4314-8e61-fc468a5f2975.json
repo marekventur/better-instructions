@@ -1,0 +1,12 @@
+{
+  "id": "69e508fa-755a-4314-8e61-fc468a5f2975",
+  "instruction": "Write a query for the following search engine:",
+  "input": "Search engine: Google\nTopic: AI Research",
+  "output": "\"AI research\" site:google.com",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

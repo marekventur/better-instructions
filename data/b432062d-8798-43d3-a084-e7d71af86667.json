@@ -1,0 +1,12 @@
+{
+  "id": "b432062d-8798-43d3-a084-e7d71af86667",
+  "instruction": "Given a text, determine how many words it contains.",
+  "input": "This is an example sentence.",
+  "output": "This text contains 6 words.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

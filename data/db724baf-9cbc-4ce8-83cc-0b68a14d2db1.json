@@ -1,0 +1,12 @@
+{
+  "id": "db724baf-9cbc-4ce8-83cc-0b68a14d2db1",
+  "instruction": "Select the best option given the choices.",
+  "input": "Which type of currency is used in India?\nA. USD\nB. Yen\nC. Rupee\nD. Euro",
+  "output": "C. Rupee",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

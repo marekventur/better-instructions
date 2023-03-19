@@ -1,0 +1,12 @@
+{
+  "id": "108c10b3-eced-496b-a142-77f9539f3b44",
+  "instruction": "Design a web page to display data in table format.",
+  "input": "The table contains 3 columns: Name, Age, Country",
+  "output": "A web page containing a table with three columns: Name, Age, and Country. The table should be responsive and mobile friendly, allowing the user to sort and filter the table data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

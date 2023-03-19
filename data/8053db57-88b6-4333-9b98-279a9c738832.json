@@ -1,0 +1,12 @@
+{
+  "id": "8053db57-88b6-4333-9b98-279a9c738832",
+  "instruction": "Given a sentence and a number, edit the sentence to make it shorter by removing the word at the given location index.",
+  "input": "This is another random sentence. 7",
+  "output": "This is another random.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

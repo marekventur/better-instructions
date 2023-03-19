@@ -1,0 +1,12 @@
+{
+  "id": "ff026327-af27-4ce3-a36b-c88c6275d295",
+  "instruction": "Provide a realistic example of how you would use the given tool.",
+  "input": "Git",
+  "output": "I would use Git to track changes in my software development projects. For example, when working on a new feature I could commit the code changes to the repository and periodically create branches for testing. I could also use Git's version control system to manage collaboration with my team and easily view all the changes that have been made.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

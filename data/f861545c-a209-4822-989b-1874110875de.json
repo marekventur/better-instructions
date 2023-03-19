@@ -1,0 +1,12 @@
+{
+  "id": "f861545c-a209-4822-989b-1874110875de",
+  "instruction": "Classify the following as either a natural or man-made object.",
+  "input": "A bridge",
+  "output": "Man-made object.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

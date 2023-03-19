@@ -1,0 +1,12 @@
+{
+  "id": "f50ed448-dbae-461e-90a7-a0fb5906ff03",
+  "instruction": "Explain what the magnitude of an earthquake is",
+  "input": "",
+  "output": "The magnitude of an earthquake is a measure of the energy released during the event and is based on the amplitude of the waves recorded on a seismograph. It is usually measured on the Richter or Moment Magnitude scale and is usually expressed as a number with up to two decimal places. The higher the magnitude of an earthquake, the more intense the shaking will be and the greater the potential for damage.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

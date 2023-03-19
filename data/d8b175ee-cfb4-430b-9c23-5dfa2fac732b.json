@@ -1,0 +1,12 @@
+{
+  "id": "d8b175ee-cfb4-430b-9c23-5dfa2fac732b",
+  "instruction": "Identify the main points from the following paragraph:",
+  "input": "At the beginning of my experiment, I was uncertain whether it would be successful. I knew the general theory upon which the experiment was based and had designed it very carefully. After performing the experiment, my results confirmed that the theory was correct and that it could be used to help make decisions.",
+  "output": "Main points:\n1. Experiment was based on a general theory.\n2. Experiment was designed carefully\n3. Results confirmed the theory was correct\n4. Theory can be used to make decisions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

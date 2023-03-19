@@ -1,0 +1,12 @@
+{
+  "id": "c006b9a5-6b17-4bcb-9e19-e29437401ad5",
+  "instruction": "Assign an appropriate part of speech to the bolded word below:",
+  "input": "I don't want to forget my passport.",
+  "output": "forget - verb",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

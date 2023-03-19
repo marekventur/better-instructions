@@ -1,0 +1,12 @@
+{
+  "id": "4608351a-abbf-45f7-b5f5-ca43856fcc98",
+  "instruction": "Design a drinking game",
+  "input": "",
+  "output": "Create a drinking game that involves a deck of cards! Start by giving each player five cards. The first player picks a card and reads it out loud, players must drink the amount of sips corresponding to the numerical value of the card. If the card is a picture card, the player must pick another player who must drink double the usual amount. If a player picks a joker, the entire group must drink. The last player standing is the winner!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

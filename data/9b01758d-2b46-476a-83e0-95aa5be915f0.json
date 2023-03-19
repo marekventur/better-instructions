@@ -1,0 +1,12 @@
+{
+  "id": "9b01758d-2b46-476a-83e0-95aa5be915f0",
+  "instruction": "Suggest a product to a customer given their budget and their needs.",
+  "input": "The customer has a budget of $200 and needs a good laptop.",
+  "output": "You could get the Dell Inspiron 15 3000 (~$200) for a good laptop with your budget. It has a decent processor, 8GB RAM, and 1TB HDD.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

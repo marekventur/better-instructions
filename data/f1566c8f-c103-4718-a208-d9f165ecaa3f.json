@@ -1,0 +1,12 @@
+{
+  "id": "f1566c8f-c103-4718-a208-d9f165ecaa3f",
+  "instruction": "Take the provided statement and rewrite it using the third person point of view.",
+  "input": "I felt sad and disappointed.",
+  "output": "She felt sad and disappointed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

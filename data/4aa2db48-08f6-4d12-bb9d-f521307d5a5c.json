@@ -1,0 +1,12 @@
+{
+  "id": "4aa2db48-08f6-4d12-bb9d-f521307d5a5c",
+  "instruction": "Write a conversation between two characters discussing a problem.",
+  "input": "",
+  "output": "John: We have a problem.\n\nJane: What's wrong?\n\nJohn: We don't have the resources we need to finish this project on time.\n\nJane: We can look for more help or ask for an extension from the client.\n\nJohn: That might work. We could also try streamlining some of our processes.\n\nJane: Good idea. In the meantime, I'll contact the client and let them know our situation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

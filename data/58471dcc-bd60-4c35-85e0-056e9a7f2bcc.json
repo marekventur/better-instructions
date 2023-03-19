@@ -1,0 +1,12 @@
+{
+  "id": "58471dcc-bd60-4c35-85e0-056e9a7f2bcc",
+  "instruction": "Explain the process for reversing a linked-list in Java.",
+  "input": "",
+  "output": "The process for reversing a linked-list in Java involves traversing the linked-list from head to tail and storing the values in a temporary variable. Then, beginning from the head of the list, each node's \"next\" pointer is set to the previously visited node, and the \"previous\" pointer is set to the next node in the list. When the end of the list is reached, the head of the list is set to the last node, which has its \"previous\" pointer set to null. Finally, the list is ready to be reversed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

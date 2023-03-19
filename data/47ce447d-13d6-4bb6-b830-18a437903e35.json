@@ -1,0 +1,12 @@
+{
+  "id": "47ce447d-13d6-4bb6-b830-18a437903e35",
+  "instruction": "Determine the name of the compound given the following chemical formula",
+  "input": "C6H12O6",
+  "output": "Glucose",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

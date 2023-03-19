@@ -1,0 +1,12 @@
+{
+  "id": "fc7ac033-9341-4a9e-b736-8dcfb850fdfc",
+  "instruction": "Look at the following sentence, output the sentence in past tense.",
+  "input": "He is walking quickly.",
+  "output": "He was walking quickly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7137c532-eb5b-49da-8b46-e18a2fb92c64",
+  "instruction": "Given the following book title and author, provide a book review.",
+  "input": "\"The Catcher in the Rye\" by J.D. Salinger",
+  "output": "J.D. Salinger's \"The Catcher in the Rye\" is a timeless classic. It tells the story of a troubled teenager struggling to find his place in the world. Salinger manages to portray a realistic, relatable, and often heartbreaking coming-of-age narrative. His writing style is both engaging and thought-provoking, and his characters are unforgettable. All in all, this book is a must-read for anyone looking for a meaningful read.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

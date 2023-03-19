@@ -1,0 +1,12 @@
+{
+  "id": "daa3b6af-13dd-4871-81c9-8a783b098136",
+  "instruction": "Compose a postcard from a given location.",
+  "input": "Miami",
+  "output": "Dear Friends,\n\nI'm having an incredible time in Miami. The weather is perfect, the beaches are stunning, and the night life is a blast. I'm so glad I had the chance to visit! \n\nTake care,\n[Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4a22081a-4259-47be-a3b0-57c2829f3e9f",
+  "instruction": "Enter the mathematical solution for the given equation.",
+  "input": "7x + 4 = 38",
+  "output": "x = 5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

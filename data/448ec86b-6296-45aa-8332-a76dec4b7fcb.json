@@ -1,0 +1,12 @@
+{
+  "id": "448ec86b-6296-45aa-8332-a76dec4b7fcb",
+  "instruction": "Analyze and classify the reviewed customer feedback.",
+  "input": "Customer Feedback:\nThe product is great but the customer service is terrible.",
+  "output": "This customer feedback can be classified as negative as it suggests that the customer service is bad despite them liking the product.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "22c50bf6-91dc-4848-8fe6-b67eb04b6c1f",
+  "instruction": "Categorize the following passage into one of the five stages of the customer journey.",
+  "input": "A customer is writing a review of a product they recently purchased.",
+  "output": "The passage is categoried into the fifth stage of the customer journey: Advocacy. This stage is when customers become brand advocates and are willing to share their opinions and experiences with their friends and family.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

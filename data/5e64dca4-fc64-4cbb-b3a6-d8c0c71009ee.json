@@ -1,0 +1,12 @@
+{
+  "id": "5e64dca4-fc64-4cbb-b3a6-d8c0c71009ee",
+  "instruction": "Modify the sentence to make an exclusive statement",
+  "input": "Everyone should be careful when handling sharp knives.",
+  "output": "Only those who are experienced with handling sharp knives should exercise caution.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

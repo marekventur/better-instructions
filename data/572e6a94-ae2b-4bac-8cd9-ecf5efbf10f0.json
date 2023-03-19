@@ -1,0 +1,12 @@
+{
+  "id": "572e6a94-ae2b-4bac-8cd9-ecf5efbf10f0",
+  "instruction": "Translate the sentence 'I am very happy' from Spanish to English.",
+  "input": "Estoy muy feliz.",
+  "output": "I am very happy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

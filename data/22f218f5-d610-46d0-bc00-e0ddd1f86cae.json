@@ -1,0 +1,12 @@
+{
+  "id": "22f218f5-d610-46d0-bc00-e0ddd1f86cae",
+  "instruction": "Is it possible to create a GPT model without a GPU?",
+  "input": "",
+  "output": "Yes, it is possible to create a GPT model without a GPU. GPUs are used to improve the speed at which a model runs, however it is possible to use a lower-end processor or a much slower CPU to run a GPT model.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "079f27c5-4344-4505-825a-d5763ce9d3e7",
+  "instruction": "Classify the document as either marketing material or an informative article.",
+  "input": "This article discusses the latest trends in web design and provides detailed instructions on how to create a functional website.",
+  "output": "The document is an informative article.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

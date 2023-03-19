@@ -1,0 +1,12 @@
+{
+  "id": "71e497da-e365-4871-8528-40d6d44133eb",
+  "instruction": "Find the maximum value in the given dataset.",
+  "input": "Data: Salary of 10 Employees\nEmployee A: $24,000  Employee B: $21,000 Employee C: $27,000  \nEmployee D: $19,000  Employee E: $20,000 Employee F: $25,000 \nEmployee G: $22,000  Employee H: $18,000 Employee I: $26,000 \nEmployee J: $23,000",
+  "output": "The maximum value in the given dataset is $27,000, which is the salary of Employee C.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "16fe57cf-0d72-485f-9dde-2469fdf66b05",
+  "instruction": "Categorize the following sentence into one of the following categories - declarative, interrogative, exclamatory, or imperative.",
+  "input": "Do put on your coat!",
+  "output": "Imperative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

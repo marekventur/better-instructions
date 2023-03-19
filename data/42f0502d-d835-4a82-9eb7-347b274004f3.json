@@ -1,0 +1,12 @@
+{
+  "id": "42f0502d-d835-4a82-9eb7-347b274004f3",
+  "instruction": "Guess the person's age based on the following description.",
+  "input": "A mature woman, who is comfortable speaking as a leader and has achieved success in her career, but still enjoys having dinner out and trips to the beach.",
+  "output": "45-60",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c99cbfe9-55fe-4488-ac1e-915b8f58895f",
+  "instruction": "Write an apology letter.",
+  "input": "Reason: You canceled a plan at the last minute due to illness.",
+  "output": "Dear [Name],\n\nI wanted to apologize for canceling our plans at the last minute. I was feeling quite ill, and felt it would not have been considerate to bring that into your home. I understand it was inconvenient, and I deeply regret that I put you in this position.\n\nI hope you will accept my apologies. I'm available to discuss other plans and hopefully fix any inconveniences I have caused.\n\nSincerely,\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b5c5d344-d37f-46d7-8f4e-d24dd60172dd",
+  "instruction": "Calculate the average grade for the following list of scores.",
+  "input": "List of scores: 50, 75, 80, 95",
+  "output": "The average grade is 78.75.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

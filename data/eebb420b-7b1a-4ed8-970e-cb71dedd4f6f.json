@@ -1,0 +1,12 @@
+{
+  "id": "eebb420b-7b1a-4ed8-970e-cb71dedd4f6f",
+  "instruction": "Resolve the following problem",
+  "input": "A tank has 3 liters of water. There are two pipes. The first pipe can fill the tank with 9 liters of water in 5 minutes while the second pipe can empty it in 7 minutes.",
+  "output": "It will take the tank approximately 9 minutes to fill with water because the rate of the first pipe (9 liters per 5 minutes) is greater than the rate of the second pipe (3 liters per 7 minutes).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

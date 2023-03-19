@@ -1,0 +1,12 @@
+{
+  "id": "eed8fd8f-e1b5-4b9a-830a-5fbbf046cfb4",
+  "instruction": "Identify the main differences between the two concepts.",
+  "input": "The concepts of artificial intelligence and machine learning",
+  "output": "The main difference between artificial intelligence (AI) and machine learning (ML) is that AI is an umbrella term for various technologies that enable machines to exhibit human-like performance, while ML is a type of AI which focuses on the development of algorithms that enable machines to learn from data and improve its performance.  AI is the broader concept, while ML is the technique used to enable AI to achieve its objectives.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "705c08ef-8635-4396-9b22-bd1ddbcfb1ec",
+  "instruction": "Calculate the sum of the following integer array",
+  "input": "[3, 4, 9, 11]",
+  "output": "27",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

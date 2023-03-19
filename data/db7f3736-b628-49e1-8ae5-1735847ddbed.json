@@ -1,0 +1,12 @@
+{
+  "id": "db7f3736-b628-49e1-8ae5-1735847ddbed",
+  "instruction": "classify the following data point.",
+  "input": "Text: This is the most influential novel ever written.",
+  "output": "The data point is classified as \"Novel\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

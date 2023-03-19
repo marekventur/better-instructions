@@ -1,0 +1,12 @@
+{
+  "id": "134e371d-2597-4c84-aaf9-58fdb3491a4e",
+  "instruction": "Generate a review of a restaurant given its name.",
+  "input": "McDonald's",
+  "output": "I recently had the chance to go to McDonald's and I was pleasantly surprised. The food was tasty, the staff were friendly and the restaurant was clean and inviting. The prices were very reasonable, and I left feeling like I had gotten my money's worth. All in all, I highly recommend McDonald's if you're looking for a quick and tasty meal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b7c7d6ea-e129-41ba-98d5-07225063c984",
+  "instruction": "Change the word 'annoying' to 'irritating'.",
+  "input": "The sound of the alarm was really annoying.",
+  "output": "The sound of the alarm was really irritating.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7e9fbf38-dd0a-4175-ad54-97606ece6c08",
+  "instruction": "Parse the following JSON object.",
+  "input": "{\n  \"items\": [\n    {\n      \"name\": \"iPhone\",\n      \"price\": 500\n    },\n    {\n      \"name\": \"iPad\",\n      \"price\": 800\n    }\n  ]\n}",
+  "output": "The input is a dictionary containing an array of dictionaries, each containing a name and price.\n \n names = [item['name'] for item in json_object['items']] \n prices = [item['price'] for item in json_object['items']]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

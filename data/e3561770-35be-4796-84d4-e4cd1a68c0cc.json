@@ -1,0 +1,12 @@
+{
+  "id": "e3561770-35be-4796-84d4-e4cd1a68c0cc",
+  "instruction": "Remove the spelling mistakes from the given text.",
+  "input": "Yesterday, I ate a deelicous burguer.",
+  "output": "Yesterday, I ate a delicious burger.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "653b85e3-4a4d-4cd6-86a8-5bdd72fbdd5f",
+  "instruction": "Expand the given sentence using the phrase.",
+  "input": "Sentence: He studied hard\nPhrase: in order to",
+  "output": "He studied hard in order to achieve success.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

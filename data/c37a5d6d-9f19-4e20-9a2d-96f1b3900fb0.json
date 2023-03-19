@@ -1,0 +1,12 @@
+{
+  "id": "c37a5d6d-9f19-4e20-9a2d-96f1b3900fb0",
+  "instruction": "Given a list of topics, devise a category-based comparison.",
+  "input": "Cats, Dogs, Horses",
+  "output": "Cats are usually the smallest of the three animals, and tend to be more independent and solitary. Dogs are usually the most loyal and friendly animals and often make better companions than cats. Horses are the largest of the three and are considered the most graceful. They can also be used as a means of transportation, while cats and dogs cannot.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

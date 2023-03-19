@@ -1,0 +1,12 @@
+{
+  "id": "7f76c976-b18f-4b1e-b119-fe116a917529",
+  "instruction": "Replace these two words \"sporty car\" with a single word",
+  "input": "sporty car",
+  "output": "sportscar",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

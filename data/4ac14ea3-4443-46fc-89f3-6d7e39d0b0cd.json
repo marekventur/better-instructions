@@ -1,0 +1,12 @@
+{
+  "id": "4ac14ea3-4443-46fc-89f3-6d7e39d0b0cd",
+  "instruction": "Generate sample code using the given variables.",
+  "input": "variables: num1, num2",
+  "output": "if (num1 > num2) {\n  console.log(num1 + \" is greater than \" + num2);\n} else {\n  console.log(num1 + \" is not greater than \" + num2);\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

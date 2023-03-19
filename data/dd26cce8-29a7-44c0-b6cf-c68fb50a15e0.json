@@ -1,0 +1,12 @@
+{
+  "id": "dd26cce8-29a7-44c0-b6cf-c68fb50a15e0",
+  "instruction": "Compare the given objects and list out their differences.",
+  "input": "Dogs vs Cats",
+  "output": "Dogs and cats are both popular pets, however, they differ in many ways. Dogs are typically more energetic and friendly while cats tend to be more independent and aloof. Dogs need daily exercise such as walking or playing fetch while cats can remain content with a simple scratching post and a toy. Dogs often require more in terms of maintenance and grooming, while cats need only occasional brushing. Dogs are usually submissive and can be trained to perform a range of tasks and tricks, whereas cats are more independent and tend to resist being trained. Furthermore, cats tend to live longer than dogs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

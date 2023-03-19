@@ -1,0 +1,12 @@
+{
+  "id": "3f677b06-9266-4b59-98f0-1d1a38b6166e",
+  "instruction": "Find the total number of employees working in the company",
+  "input": "The company ABC has 100 employees in its main office, 75 employees in its satellite office and 25 employees working remotely.",
+  "output": "The total number of employees working in the company ABC is 200.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

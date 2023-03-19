@@ -1,0 +1,12 @@
+{
+  "id": "a215140a-10e7-40e0-9483-77c1cf670be2",
+  "instruction": "Predict the next best word given a sentence.",
+  "input": "Everybody loves the",
+  "output": "sunshine",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

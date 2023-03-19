@@ -1,0 +1,12 @@
+{
+  "id": "6b975a97-9a22-4d63-a771-e73b3cf7715a",
+  "instruction": "For the following sentence, edit the spelling mistakes:",
+  "input": "The concersion was very intens",
+  "output": "The conversation was very intense.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

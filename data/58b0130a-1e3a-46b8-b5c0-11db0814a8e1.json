@@ -1,0 +1,12 @@
+{
+  "id": "58b0130a-1e3a-46b8-b5c0-11db0814a8e1",
+  "instruction": "Convert the given text in the input to a JSON format.",
+  "input": "This is a string of text",
+  "output": "{\"text\":\"This is a string of text\"}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

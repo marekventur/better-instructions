@@ -1,0 +1,12 @@
+{
+  "id": "df75e028-a69b-49db-a3dc-0b8a2f1ca2d1",
+  "instruction": "Construct a website navigation bar containing the product categories.",
+  "input": "Shoes, Clothing, Accessories",
+  "output": "Home | Shoes | Clothing | Accessories",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

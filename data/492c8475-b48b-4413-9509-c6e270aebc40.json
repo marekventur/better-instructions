@@ -1,0 +1,12 @@
+{
+  "id": "492c8475-b48b-4413-9509-c6e270aebc40",
+  "instruction": "Write a function to get the average temperature of a given city in celsius using OpenWeatherMap API.",
+  "input": "city: Tokyo",
+  "output": "\"\"\"\nWrite a function to get the average temperature of a given city in celsius using OpenWeatherMap API.\n\"\"\"\n\nimport requests\nimport json \n\ndef get_average_temp(city):\n    key = 'Your OpenWeatherMap API key'\n    url = 'http://api.openweathermap.org/data/2.5/weather?q={}&appid={}'.format(city, key)\n    response = requests.get(url)\n    data = json.loads(response.text)\n    temperature = data['main']['temp']\n    celsius = temperature - 273.15\n    return celsius\n    \nif __name__ == '__main__':\n    print(get_average_temp('Tokyo'))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

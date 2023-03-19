@@ -1,0 +1,12 @@
+{
+  "id": "a4a92aea-1291-40f6-898c-d05577da3471",
+  "instruction": "Make an algorithm to identify the longest common subsequence in two strings.",
+  "input": "String A: ABCDGH\nString B: AEDFHR",
+  "output": "A simple solution to this problem will involve creating a two-dimensional array of size (length of String A + 1) x (length of String B + 1). We then incrementally fill the array with values by iterating over the two strings. At position (i,j) of the array, we store the length of the longest subsequence of String A[0...i] and String B[0...j]. The longest subsequence of the two strings is then the value stored at position (length of String A, length of String B) in the array.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

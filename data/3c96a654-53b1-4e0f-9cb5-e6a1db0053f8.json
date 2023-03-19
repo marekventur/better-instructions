@@ -1,0 +1,12 @@
+{
+  "id": "3c96a654-53b1-4e0f-9cb5-e6a1db0053f8",
+  "instruction": "Given a sentence, remove any unnecessary filler words and shorten it to 4 words",
+  "input": "I like to go for leisurely walks whenever it's nice out",
+  "output": "I go for walks when nice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

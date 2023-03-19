@@ -1,0 +1,12 @@
+{
+  "id": "c305852a-5c3a-4c48-a93b-6a3067649a7b",
+  "instruction": "Suggest a machine learning algorithm that could be used for predicting customer churn.",
+  "input": "",
+  "output": "A suitable machine learning algorithm for predicting customer churn would be a random forest. Random forest algorithms use an ensemble of decision-trees to classify or predict data, and have been found to be effective in predicting customer churn.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

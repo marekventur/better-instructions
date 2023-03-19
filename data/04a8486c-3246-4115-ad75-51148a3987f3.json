@@ -1,0 +1,12 @@
+{
+  "id": "04a8486c-3246-4115-ad75-51148a3987f3",
+  "instruction": "Describe the \u201clive parameter update\u201d feature of GPT-3.",
+  "input": "",
+  "output": "Live parameter updates in GPT-3 allow the model to adjust its parameters to dynamically adapt to different tasks and contexts. This enables the model to better understand and make use of the context when making predictions. For example, the model can learn to adjust the emphasis on certain types of words after it receives feedback on what words are important for a particular task. This allows the model to be more accurate and efficient in its predictions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

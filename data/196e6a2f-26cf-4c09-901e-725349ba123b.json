@@ -1,0 +1,12 @@
+{
+  "id": "196e6a2f-26cf-4c09-901e-725349ba123b",
+  "instruction": "Create a text editor command to search for words that start with the letter 't'",
+  "input": "",
+  "output": "/^t[\\w]*",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

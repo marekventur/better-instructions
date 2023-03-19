@@ -1,0 +1,12 @@
+{
+  "id": "2349726d-bdfd-4004-bcc5-ec6a3cd0c75e",
+  "instruction": "Convert the following to a fact in the present tense.",
+  "input": "The company reorganised restructuring their teams",
+  "output": "The company has reorganized its teams.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

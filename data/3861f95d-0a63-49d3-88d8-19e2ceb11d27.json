@@ -1,0 +1,12 @@
+{
+  "id": "3861f95d-0a63-49d3-88d8-19e2ceb11d27",
+  "instruction": "State the difference between a vector and a matrix.",
+  "input": "",
+  "output": "The main difference between a vector and a matrix is the number of dimensions they have. A vector is a one dimensional array of numbers, while a matrix is a two dimensional array of numbers. Additionally, vectors can only store a single type of data, while matrices can store multiple fields.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

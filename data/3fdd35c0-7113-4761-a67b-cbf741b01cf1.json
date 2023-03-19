@@ -1,0 +1,12 @@
+{
+  "id": "3fdd35c0-7113-4761-a67b-cbf741b01cf1",
+  "instruction": "Refute the following statement with evidence.",
+  "input": "We should focus on nuclear energy production because it is the cleanest form of energy.",
+  "output": "Although nuclear energy production does not generate any carbon emissions, it does come with a considerable amount of risk. In addition to having the potential to cause widespread damage in the event of nuclear reactor malfunction or meltdown, nuclear energy production also leaves behind large amounts of radioactive waste, which can be hazardous and difficult to dispose of.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

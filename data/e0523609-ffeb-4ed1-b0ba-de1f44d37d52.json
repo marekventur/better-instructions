@@ -1,0 +1,12 @@
+{
+  "id": "e0523609-ffeb-4ed1-b0ba-de1f44d37d52",
+  "instruction": "Change the adverb in the following sentence to create a different meaning.",
+  "input": "He quietly walked to the store.",
+  "output": "He rapidly walked to the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

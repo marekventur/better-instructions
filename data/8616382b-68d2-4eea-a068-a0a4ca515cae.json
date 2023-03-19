@@ -1,0 +1,12 @@
+{
+  "id": "8616382b-68d2-4eea-a068-a0a4ca515cae",
+  "instruction": "Convert the given statement into a question",
+  "input": "It is important to listen to customer feedback",
+  "output": "Why is it important to listen to customer feedback?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dc8b4920-e77f-4444-802a-234280943579",
+  "instruction": "Design a web page showing the temperature of a city.",
+  "input": "",
+  "output": "The design should contain a banner showing the name of the city and its current temperature, as well as a graph depicting the temperature of the city over the past 24 hours. The user should also be able to select different cities to view their temperature. Additionally, there should be an area showing a seven-day forecast with icons representing the expected weather.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

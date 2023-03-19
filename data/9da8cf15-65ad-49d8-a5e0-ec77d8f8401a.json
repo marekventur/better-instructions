@@ -1,0 +1,12 @@
+{
+  "id": "9da8cf15-65ad-49d8-a5e0-ec77d8f8401a",
+  "instruction": "Help me classify the following animals.",
+  "input": "Pig, Chicken, Cow",
+  "output": "Pig - Mammal\nChicken - Bird\nCow - Mammal",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

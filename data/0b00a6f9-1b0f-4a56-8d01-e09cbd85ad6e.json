@@ -1,0 +1,12 @@
+{
+  "id": "0b00a6f9-1b0f-4a56-8d01-e09cbd85ad6e",
+  "instruction": "Suppose you have 10 minutes remaining to finish a task. How do you prioritize your remaining tasks?",
+  "input": "",
+  "output": "I would prioritize my remaining tasks by urgency, complexity and scope. If the task has a fast approach, I will make sure to finish it as quickly as possible. If the task is complicated and requires more effort, I will try to do it as efficiently as possible within the 10 minutes limit. Lastly, if the task involves a wide scope, I will focus on completing the most important parts first.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

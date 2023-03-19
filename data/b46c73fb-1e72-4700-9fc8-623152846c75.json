@@ -1,0 +1,12 @@
+{
+  "id": "b46c73fb-1e72-4700-9fc8-623152846c75",
+  "instruction": "Explain the theme of the book based on the given information.",
+  "input": "Book: \"Gone with the Wind\", Genre: Romantic Fiction",
+  "output": "The theme of \"Gone with the Wind\" is survival in the face of suffering and destruction. It tells the story of Scarlett O'Hara, a woman in the American South who must face the destruction of the American Civil War and the death of her loved ones before ultimately rising above her sorrows to achieve the security she knows she deserves.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

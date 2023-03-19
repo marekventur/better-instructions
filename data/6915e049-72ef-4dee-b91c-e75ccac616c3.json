@@ -1,0 +1,12 @@
+{
+  "id": "6915e049-72ef-4dee-b91c-e75ccac616c3",
+  "instruction": "Given a program in Python, find the errors in the program and suggest corrections.",
+  "input": "for n in range(10)\n  print(n)",
+  "output": "Error: Missing colon after range(10). \nSuggested correction: \nfor n in range(10):\n    print(n)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

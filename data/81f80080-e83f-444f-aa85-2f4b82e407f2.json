@@ -1,0 +1,12 @@
+{
+  "id": "81f80080-e83f-444f-aa85-2f4b82e407f2",
+  "instruction": "Describe an example of when machine learning could be used to solve a problem.",
+  "input": "",
+  "output": "Machine learning could be used to identify objects in images. For example, a machine learning algorithm could be used to detect pedestrians in an image taken from a car's camera. The algorithm would take an image as input and output a classification for each object in the image, such as a car or a pedestrian.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

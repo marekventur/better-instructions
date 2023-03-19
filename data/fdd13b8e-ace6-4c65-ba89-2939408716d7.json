@@ -1,0 +1,12 @@
+{
+  "id": "fdd13b8e-ace6-4c65-ba89-2939408716d7",
+  "instruction": "Find information about a specific person",
+  "input": "Annie Leibovitz",
+  "output": "Annie Leibovitz is an American portrait photographer who has been photographing for over 35 years. She is most known for her work with Rolling Stone magazine, Vanity Fair and Vogue. She has worked with celebrities such as John Lennon and Mick Jagger. She was awarded two Lambda Literary Awards, two National Magazine Awards, and the Kodak Motorsport Hall of Fame Award. She was also inducted into the American Academy of Arts and Sciences.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

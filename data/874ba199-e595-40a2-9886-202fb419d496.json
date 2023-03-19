@@ -1,0 +1,12 @@
+{
+  "id": "874ba199-e595-40a2-9886-202fb419d496",
+  "instruction": "Personalize an automated email given an input data.",
+  "input": "Subject: Welcome to ABC Industries!\nDear [Name],",
+  "output": "Subject: Welcome to ABC Industries, John!\nDear John, \n\nThank you for joining ABC Industries. We are happy to have you onboard and hope you enjoy the experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

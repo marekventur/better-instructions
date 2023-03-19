@@ -1,0 +1,12 @@
+{
+  "id": "8dd17edf-3126-4f0d-a425-ee066eafd60d",
+  "instruction": "Given a description of a product, determine its category.",
+  "input": "This computer monitor features a 34\" curved display, Quad HD resolution, and support for HDR 10.",
+  "output": "The given product is a Computer Monitor.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

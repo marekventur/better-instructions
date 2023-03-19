@@ -1,0 +1,12 @@
+{
+  "id": "7e3c38f6-8222-45dd-b01e-db8c3d3e7387",
+  "instruction": "Given a string, find the minimum number of deletions needed to make it a palindrome.",
+  "input": "GTACAT",
+  "output": "2 deletions are needed to make the string \"GTACAT\" a palindrome.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

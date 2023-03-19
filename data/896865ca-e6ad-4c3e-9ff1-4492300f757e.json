@@ -1,0 +1,12 @@
+{
+  "id": "896865ca-e6ad-4c3e-9ff1-4492300f757e",
+  "instruction": "Convert the following odometer reading into miles.",
+  "input": "21335 km",
+  "output": "21335 km is equal to 13263.1 miles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

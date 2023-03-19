@@ -1,0 +1,12 @@
+{
+  "id": "afeedfad-7aba-4cf4-81d1-290441de32ff",
+  "instruction": "Detect if the sentence contains any cliche expressions, if so, replace them.",
+  "input": "You don't know if you don't try.",
+  "output": "It's not possible to succeed without taking a risk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

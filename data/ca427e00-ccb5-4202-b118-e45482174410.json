@@ -1,0 +1,12 @@
+{
+  "id": "ca427e00-ccb5-4202-b118-e45482174410",
+  "instruction": "Given a description of a medical condition, create an appropriate medical diagnosis.",
+  "input": "Patient complains of severe abdominal pain and nausea.",
+  "output": "A possible diagnosis is abdmoninal pain caused by gastritis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

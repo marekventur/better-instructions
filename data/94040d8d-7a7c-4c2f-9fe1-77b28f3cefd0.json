@@ -1,0 +1,12 @@
+{
+  "id": "94040d8d-7a7c-4c2f-9fe1-77b28f3cefd0",
+  "instruction": "Create a list of books home-schooled children should read in 4th grade.",
+  "input": "",
+  "output": "1. The Boxcar Children Series, by Gertrude Chandler Warner\n2. Charlotte's Web, by E.B. White\n3. The BFG, by Roald Dahl\n4. Little House on the Prairie, by Laura Ingalls Wilder\n5. The Wind in the Willows, by Kenneth Grahame\n6. Number the Stars, by Lois Lowry\n7. Stuart Little, by E.B. White\n8. Tales of a Fourth Grade Nothing, by Judy Blume\n9. Holes, by Louis Sachar\n10. The Lion, the Witch and the Wardrobe, by C.S. Lewis\n11. The Indian in the Cupboard, by Lynne Reid Banks\n12. Mr. Popper's Penguins, by Richard and Florence Atwater\n13. Diary of a Wimpy Kid, by Jeff Kinney \n14. Bridge to Terabithia, by Katherine Paterson\n15. Where the Red Fern Grows, by Wilson Rawls\n16. My Side of the Mountain, by Jean Craighead George\n17. The Secret Garden, by Frances Hodgson Burnett\n18. The Giver, by Lois Lowry\n19. The Witches, by Roald Dahl",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

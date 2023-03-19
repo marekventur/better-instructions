@@ -1,0 +1,12 @@
+{
+  "id": "c89d7a90-b33b-4b24-b5bf-2fbc70a3fa06",
+  "instruction": "Give an advice to the following patient",
+  "input": "A 17-years-old who is showing symptoms of anxiety",
+  "output": "It is normal to feel anxiety at age 17, and it is important to take steps to manage it. You should take breaks from your studies or other obligations when needed and focus on activities that help to reduce your stress levels, such as engaging in physical activities and spending time with trusted friends and family. Additionally, talking to a counsellor or therapist could help you find more effective ways of dealing with your anxiety.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bb034f86-b173-4008-ba2b-6e0a41f0b084",
+  "instruction": "Summarize the article about the American healthcare system.",
+  "input": "https://www.brookings.edu/blog/up-front/2020/09/11/americas-health-care-cost-crisis-and-covid-19/",
+  "output": "This article examines the state of the American healthcare system in the wake of the novel coronavirus pandemic. It looks at the high costs of healthcare, which have been an issue before the pandemic and are now more pronounced due to the economic effects of the pandemic. It discusses the pressing need to address the high cost of healthcare to protect Americans\u2019 access to quality care. It concludes by noting that while no single solution exists to fix the healthcare system in the U.S., reforms to reduce health care costs, increase affordability and improve access should be made a priority.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

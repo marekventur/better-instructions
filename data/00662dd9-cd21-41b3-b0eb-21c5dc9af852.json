@@ -1,0 +1,12 @@
+{
+  "id": "00662dd9-cd21-41b3-b0eb-21c5dc9af852",
+  "instruction": "Given a list of grocery items, create a grocery list for a family of four.",
+  "input": "Cheese, tomato, cucumber, potatoes, yogurt, eggs, apple.",
+  "output": "Grocery List: \n- 4 blocks of cheese\n- 4 tomatoes\n- 4 cucumbers\n- 4 potatoes\n- 4 yogurts\n- 12 eggs\n- 8 apples",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

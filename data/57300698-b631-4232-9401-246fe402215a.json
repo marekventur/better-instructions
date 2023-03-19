@@ -1,0 +1,12 @@
+{
+  "id": "57300698-b631-4232-9401-246fe402215a",
+  "instruction": "Provide a set of instructions for a user to determine the area of a trapezoid.",
+  "input": "",
+  "output": "Instructions for determining the area of a trapezoid:\n\n1. Measure the lengths of the parallel sides of the trapezoid (B1, B2).\n2. Calculate the difference between the two parallel sides (B2-B1).\n3. Measure the height of the trapezoid (H).\n4. Multiply the difference with the height (H x (B2-B1)).\n5. Divide the result by two (H x (B2-B1))/2.\n6. The result is the area of the trapezoid.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "00d2f676-ec97-46d0-9048-deba6af2c642",
+  "instruction": "Suggest the next step in a given problem-solving task.",
+  "input": "A person is trying to break a code but is stuck.",
+  "output": "The next step would be to look for patterns in the code and analyze the data to try and identify a possible solution.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

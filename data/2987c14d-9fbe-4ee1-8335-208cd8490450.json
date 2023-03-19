@@ -1,0 +1,12 @@
+{
+  "id": "2987c14d-9fbe-4ee1-8335-208cd8490450",
+  "instruction": "Summarize the ethical implications of using facial recognition technology.",
+  "input": "",
+  "output": "The ethical implications of using facial recognition technology include issues of privacy, accuracy, and potential misuse. Facial recognition technology can infringe on privacy rights by collecting personal biometric data and potentially being used to surveil citizens. It can also be inaccurate, leading to false positives and misunderstandings in its identification of individuals. Additionally, there are concerns that it could be used for purposes other than for security, such as for tracking or profiling people, leading to potential misuse and discrimination.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

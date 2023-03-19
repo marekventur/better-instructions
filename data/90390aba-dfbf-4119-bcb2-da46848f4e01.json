@@ -1,0 +1,12 @@
+{
+  "id": "90390aba-dfbf-4119-bcb2-da46848f4e01",
+  "instruction": "Make the following sentence grammatically correct: the cat was in the basket of the dog.",
+  "input": "The cat was in the basket of the dog",
+  "output": "The cat was in the dog's basket.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

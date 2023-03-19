@@ -1,0 +1,12 @@
+{
+  "id": "74f2a9bd-5a47-4f21-9930-45cf12eee003",
+  "instruction": "What is the primary function of a router in a computer network?",
+  "input": "",
+  "output": "The primary function of a router in a computer network is to receive and forward data packets along networks. Routers connect multiple networks together, sending data packets between different computer networks in order to enable communication between computers. Routers also help in managing the internet traffic and traffic flow of the data packets. Additionally, routers can also be used to provide network security.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

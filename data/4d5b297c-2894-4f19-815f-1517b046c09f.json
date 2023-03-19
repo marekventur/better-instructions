@@ -1,0 +1,12 @@
+{
+  "id": "4d5b297c-2894-4f19-815f-1517b046c09f",
+  "instruction": "Read the followingwiki article and provide a short summary.",
+  "input": "https://en.wikipedia.org/wiki/Ford_Mustang",
+  "output": "The Ford Mustang is an American car manufactured by Ford Motor Company. It was first released in 1964 and has since become a symbol of American muscle cars. Its classic design has been updated over the years and today the Mustang stands alone as a model of modern performance and style. It is currently offered in several models with various engine and trim options, allowing buyers to customize the Mustang to their own preferences.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

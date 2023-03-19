@@ -1,0 +1,12 @@
+{
+  "id": "619f03a7-d26e-4fac-8512-6826018890c7",
+  "instruction": "Given an article, summarize the content in one sentence.",
+  "input": "This article talks about the causes, symptoms, and treatment of depression.",
+  "output": "Depression is a mental health condition that is characterized by persistent sadness, a feeling of worthlessness, and fatigue, and it is treated with psychotherapy and antidepressant medications.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "838d3cf2-d604-4fc7-8e05-a0cf97aae376",
+  "instruction": "Given a piece of text, suggest an appropriate title.",
+  "input": "\"She was a kind hearted woman who always had a smile on her face.\"",
+  "output": "\"A Smile that Warmed Hearts\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

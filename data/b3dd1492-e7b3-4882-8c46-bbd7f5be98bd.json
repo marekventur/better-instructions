@@ -1,0 +1,12 @@
+{
+  "id": "b3dd1492-e7b3-4882-8c46-bbd7f5be98bd",
+  "instruction": "Analyse the text and classify it into different genres",
+  "input": "He opened the window and looked out at the vast expanse of blue sky, framed by the gentle rolling hills",
+  "output": "Genre: Nature/Landscape description",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "033dd780-974a-43e5-820a-5b00cf17d4c6",
+  "instruction": "Insert the name of a fictional character to the following text.",
+  "input": "Once upon a time there was a valiant knight named ____, who set off on a noble quest to save the kingdom.",
+  "output": "Once upon a time there was a valiant knight named Lancelot, who set off on a noble quest to save the kingdom.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

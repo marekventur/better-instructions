@@ -1,0 +1,12 @@
+{
+  "id": "68571543-2851-46ea-a4b4-7b3f06c472a2",
+  "instruction": "Given a sample of financial data, calculate the total monthly expenses.",
+  "input": "Housing: $1,500, Food: $600, Transportation: $250, Entertainment: $400",
+  "output": "The total monthly expenses are $2,650.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

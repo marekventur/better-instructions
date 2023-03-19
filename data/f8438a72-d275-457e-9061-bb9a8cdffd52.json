@@ -1,0 +1,12 @@
+{
+  "id": "f8438a72-d275-457e-9061-bb9a8cdffd52",
+  "instruction": "Given a context, determine if the action is legally allowed or not.",
+  "input": "A man is driving with a BAC level of 0.15",
+  "output": "No, the action is not legally allowed as it is against the law to drive with a BAC level of 0.15.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

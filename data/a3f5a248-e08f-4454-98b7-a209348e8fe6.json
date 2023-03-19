@@ -1,0 +1,12 @@
+{
+  "id": "a3f5a248-e08f-4454-98b7-a209348e8fe6",
+  "instruction": "Find a definition for the term 'big O notation'",
+  "input": "",
+  "output": "Big O notation is a mathematical notation that describes the limitation of an algorithm in relation to the input size. It measures the time complexity of an algorithm, i.e. the amount of time taken to execute it, and the space complexity, i.e. the amount of memory required. It is often used to compare different algorithms to determine which one is more efficient in terms of time and space.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

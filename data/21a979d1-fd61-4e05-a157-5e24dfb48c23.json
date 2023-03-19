@@ -1,0 +1,12 @@
+{
+  "id": "21a979d1-fd61-4e05-a157-5e24dfb48c23",
+  "instruction": "Find the sum of 10 numbers",
+  "input": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
+  "output": "The sum of these 10 numbers is 55.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

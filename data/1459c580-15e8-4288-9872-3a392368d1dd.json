@@ -1,0 +1,12 @@
+{
+  "id": "1459c580-15e8-4288-9872-3a392368d1dd",
+  "instruction": "Outline the steps to assess an organization's vulnerability to cyber attacks.",
+  "input": "",
+  "output": "There are several steps to assess an organization's vulnerability to cyber attacks. The first step is to identify the organization's digital systems and assets and the associated risk levels. The next step is to determine the organization's capacity for adequately protecting its digital infrastructure, including through access permissions and data encryption. This includes assessing external vulnerabilities, such as weak passwords or outdated anti-virus software, as well as internal vulnerabilities, such as outdated operating systems or lack of security awareness in employees. The next step is to evaluate the organization's ability to respond quickly and effectively to a cyber attack, including contingency plans and resilience efforts. Finally, the organization should regularly audit and test its security measures, such as conducting penetration testing or developing a cybersecurity policy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

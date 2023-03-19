@@ -1,0 +1,12 @@
+{
+  "id": "95625890-5943-41a8-ab20-90f007d57045",
+  "instruction": "Output a list of safety guidelines for going outdoors during the pandemic.",
+  "input": "",
+  "output": "1. Before going outdoors, make sure that a face mask is worn at all times, and ensure that it covers both the nose and mouth.\n2. Practice physical distancing, keeping at least 6 feet away from others at all times.\n3. Avoid crowded places and large gatherings.\n4. Make sure that all proper sanitary and hygiene routines are practiced, including regularly washing hands with soap and water or using hand sanitizer.\n5. Make sure that all personal items, such as cell phones, wallets, and keys, are adequately sanitized before and after going outdoors.\n6. Avoid touching your face or any other surfaces that may be contaminated.\n7. Stay home if you are feeling unwell or are displaying any symptoms of COVID-19.\n8. Check with local health guidelines to make sure that all activities are considered safe and allowed in the area.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

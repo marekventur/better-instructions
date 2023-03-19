@@ -1,0 +1,12 @@
+{
+  "id": "0081f5ca-b8c7-4c25-ad2d-13fe37fa3367",
+  "instruction": "Describe the different aspects of a programming language.",
+  "input": "",
+  "output": "A programming language is composed of several components which together make up a complete language. These components include elements such as syntax, data types, variables, expressions, loops, control structures, functions, classes, libraries, and frameworks. Syntax refers to the set of rules that govern how the programming language is written and structured. Data types provide the structure for the data being used in the program. Variables help to store, manipulate and use data. Expressions are composed of variables, literals and operators. Loops allow a particular section of code to be repeated multiple times. Control structures provide the ability to control the flow of the program based on certain conditions. Functions are reusable blocks of code. Classes are used to create types in the language. Libraries are collections of pre-existing code which can be leveraged to develop a program. Frameworks provide structure and API\u2019s to simplify the development of programs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

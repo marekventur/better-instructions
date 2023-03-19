@@ -1,0 +1,12 @@
+{
+  "id": "09a6a0c8-64c8-406a-b4cc-2f4589690da4",
+  "instruction": "Find the most important phrase in this text.",
+  "input": "Four hundred and thirty-one members of the United Nations have signed a resolution condemning the actions of the Peoples\u2019 Republic of China in the South China Sea.",
+  "output": "\"condemning the actions of the Peoples' Republic of China in the South China Sea\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

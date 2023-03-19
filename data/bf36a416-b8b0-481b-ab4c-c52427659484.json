@@ -1,0 +1,12 @@
+{
+  "id": "bf36a416-b8b0-481b-ab4c-c52427659484",
+  "instruction": "Explain the main principle of the given algorithm.",
+  "input": "Gradient Descent",
+  "output": "Gradient Descent is an optimization algorithm that finds the values of parameters that minimize the cost function. This algorithm works by iteratively taking a small step in the direction of the negative gradient of the cost function, which indicates the direction in which the cost function decreases the fastest.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

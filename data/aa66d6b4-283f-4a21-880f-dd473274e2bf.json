@@ -1,0 +1,12 @@
+{
+  "id": "aa66d6b4-283f-4a21-880f-dd473274e2bf",
+  "instruction": "Reverse engineer a long phrase into a shorter one.",
+  "input": "One should always strive for excellence in their career.",
+  "output": "Strive for excellence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

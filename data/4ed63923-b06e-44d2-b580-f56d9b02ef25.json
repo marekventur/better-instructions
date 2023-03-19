@@ -1,0 +1,12 @@
+{
+  "id": "4ed63923-b06e-44d2-b580-f56d9b02ef25",
+  "instruction": "Rewrite this sentence with fewer words and yet having the same meaning.",
+  "input": "Three students decided not to go to the library",
+  "output": "Students 3 skipped the library.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "db3b9d0b-9c8e-4bf5-a340-c7b4f09de2c7",
+  "instruction": "Identify the type of pun used in the following joke.",
+  "input": "Q: What did the grape say when it was stepped on?\nA: Nothing - it just let out a little whine.",
+  "output": "The joke is an example of a pun based on homophones. The joke is using the homophones \"wine\" and \"whine\" for comedic effect.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

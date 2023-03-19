@@ -1,0 +1,12 @@
+{
+  "id": "7ee1944e-b932-485c-abe0-b4a38f7565e3",
+  "instruction": "Compute the volume of a sphere",
+  "input": "Radius = 3",
+  "output": "The volume of a sphere with radius 3 is 113.097 cubic centimeters.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

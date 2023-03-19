@@ -1,0 +1,12 @@
+{
+  "id": "da5c55c0-ce23-4e81-8279-5a1d85bd7311",
+  "instruction": "Determine whether the following statement is true or false: \"Light travels faster than sound.\"",
+  "input": "",
+  "output": "True. Light travels at the speed of 299,792,458 meters per second, while sound travels at 343 meters per second.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f5b586c7-f045-48e9-a206-26e952eb65d8",
+  "instruction": "Generate a chessboard with the given size and with pieces at the specified positions.",
+  "input": "Size: 8x8 \nPiece positions:\nWhite Rook at H8\nWhite Pawn at B3\nBlack Pawn at A3\nBlack Rook at H2",
+  "output": "![Image of 8x8 chessboard](https://i.imgur.com/G8HyAoo.png)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

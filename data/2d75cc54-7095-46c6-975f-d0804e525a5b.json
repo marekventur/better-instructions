@@ -1,0 +1,12 @@
+{
+  "id": "2d75cc54-7095-46c6-975f-d0804e525a5b",
+  "instruction": "Create a function that takes two strings and returns the number of common characters between them.",
+  "input": "String 1 = 'Hello world!'\nString 2 = 'Good bye!'",
+  "output": "def common_chars(str1,str2):\n    common_count = 0\n    \n    # Create a dictionary of characters counting \n    # the number of occurrences in both strings\n    str1_dict = {}\n    for char in str1:\n        if char in str1_dict:\n            str1_dict[char] += 1\n        else:\n            str1_dict[char] = 1\n    \n    # Do the same for str2 \n    str2_dict = {}\n    for char in str2:\n        if char in str2_dict:\n            str2_dict[char] += 1\n        else:\n            str2_dict[char] = 1\n    \n    # Check for common characters\n    for char in str1_dict:\n        if char in str2_dict:\n            common_count += 1\n    \n    return common_count",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

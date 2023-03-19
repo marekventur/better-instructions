@@ -1,0 +1,12 @@
+{
+  "id": "79cf6637-5dd5-4f2e-87be-180ad939d466",
+  "instruction": "Outline the content of a book by providing a summary.",
+  "input": "Harry Potter and the Sorcerer's Stone by J.K. Rowling",
+  "output": "Harry Potter and the Sorcerer's Stone is a fantasy novel about a young wizard named Harry Potter who finds out he is a wizard and is whisked away to the wizarding school Hogwarts. During his time at Hogwarts, he battles the forces of evil led by the dark wizard Voldemort. Along the way, Harry makes friends, learns powerful spells and ways of thinking, and discovers many secrets about the wizarding world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

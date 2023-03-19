@@ -1,0 +1,12 @@
+{
+  "id": "d453de2b-97d9-45e7-9010-79a5b985f3d5",
+  "instruction": "Create a SQL query to find the name of the employee who was hired last.",
+  "input": "Table: Employee\nFields: Employee ID, Employee Name, Hire Date",
+  "output": "SELECT EmployeeName \nFROM Employee \nORDER BY HireDate DESC \nLIMIT 1;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

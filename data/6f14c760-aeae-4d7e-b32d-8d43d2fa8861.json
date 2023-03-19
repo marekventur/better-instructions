@@ -1,0 +1,12 @@
+{
+  "id": "6f14c760-aeae-4d7e-b32d-8d43d2fa8861",
+  "instruction": "On a scale from 1 to 5, rate the sentiment of the sentence.",
+  "input": "I had a great time at the beach today.",
+  "output": "5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

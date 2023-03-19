@@ -1,0 +1,12 @@
+{
+  "id": "bf44a6c5-7dd9-4134-afd5-30b3a99b225f",
+  "instruction": "Given a string of text, generate three random sentences that sum up the main idea.",
+  "input": "Data science is the practice of discovering meaningful insights from large datasets and leveraging them to create new opportunities and improve business outcomes.",
+  "output": "1. By analyzing vast amounts of data, data science allows us to gain valuable insights and create new opportunities.\n2. Data science techniques help businesses identify new strategies to improve their performance.\n3. Data science provides the tools necessary to derive valuable insights from large datasets.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

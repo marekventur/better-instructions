@@ -1,0 +1,12 @@
+{
+  "id": "23b4a989-79b2-4069-8a6e-b8bc1e609c66",
+  "instruction": "Generate an example of a data set with 100 records of customers and their corresponding occupations.",
+  "input": "",
+  "output": "ID | Name | Occupation\n1 | John | Software Engineer\n2 | Jane | Nurse\n3 | Carl | Lawyer \n4 | Jessica | Artist \n5 | Matthew | Accountant\n6 | Sarah | Teacher \n7 | Daniel | Librarian\n8 | Lucy | Pilot\n9 | Isabella | Doctor\n10 | Ryan | Law Enforcement \n11 | Eric | Veterinarian \n12 | Joseph | Firefighter\n13 | Claire | Chef\n14 | Mark | Postman\n15 | Amy | Hair Stylist\n16 | Patrick |Janitor \n17 | Ashley | Secretary\n18 | David | Mechanic\n19 | Natalie | Tax Preparer",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

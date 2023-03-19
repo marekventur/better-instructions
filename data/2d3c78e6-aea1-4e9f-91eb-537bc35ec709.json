@@ -1,0 +1,12 @@
+{
+  "id": "2d3c78e6-aea1-4e9f-91eb-537bc35ec709",
+  "instruction": "Provide a detailed explanation of the Euler's formula.",
+  "input": "",
+  "output": "Euler's formula is an important mathematical formula named after the Swiss mathematician, Leonhard Euler. This formula expresses the relationship between a polyhedron's number of faces (F), vertices (V) and edges (E). This formula states that the number of faces (F) plus the number of vertices (V), subtracted by the number of edges (E), is equal to 2. This relationship is expressed as: F + V - E = 2. This formula can also be used to prove the existence of certain types of polyhedrons, such as the Platonic solids.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f06fca65-b9cf-46f1-a01f-d4482097e695",
+  "instruction": "Describe the customer service process.",
+  "input": "",
+  "output": "The customer service process typically involves five steps. \n\n1. Greeting the customer \u2013 this involves establishing a friendly rapport with the customer and finding out their needs. \n2. Understanding the problem \u2013 the customer service agent will assess the customer\u2019s problem and determine the best way to solve it. \n3. Providing an answer \u2013 once the agent has identified the problem, they will provide the customer with the best answer or solution, tailoring it to their unique situation. \n4. Following up \u2013 once the customer has been provided with the answer, the customer service agent will work to ensure that their needs were met by following up and confirming that the issue was resolved. \n5. Closing \u2013 this involves thanking the customer for their business, wishing them a good day, and encouraging them to contact the company again in the future if needed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

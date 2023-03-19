@@ -1,0 +1,12 @@
+{
+  "id": "a64c23aa-b551-4365-82b4-2e453ce36a83",
+  "instruction": "Given a customer review, label it according to sentiment.",
+  "input": "Customer Review: This product is terrible",
+  "output": "Negative sentiment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

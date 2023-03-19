@@ -1,0 +1,12 @@
+{
+  "id": "6ab79bcf-3247-44fa-9c33-168cac469648",
+  "instruction": "Reverse engineer a web page design of a forum page where users can post questions and answers.",
+  "input": "",
+  "output": "The Forum page should have a header section that displays the logo/title of the forum, a search bar to allow users to search for posts, and navigation links to different sections of the forum. Below the header should be sections for posting questions and answers. The main content area should contain threads for each post or question. The threads should be sorted by most recent activity or by topic. Each thread should show the original post and any comments or replies added. Users should be able to upvote and downvote posts, as well as leave comments or answers. Users should also be able to directly reply to other comments. The forum should also include a footer section with a copyright notice, contact information, and other relevant links.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

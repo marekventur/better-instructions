@@ -1,0 +1,12 @@
+{
+  "id": "fc336ca2-f3d8-421e-a778-35bc6525bcde",
+  "instruction": "Write a letter to the editor of a local newspaper expressing your opinion on a current issue.",
+  "input": "",
+  "output": "Dear Editor,\n\nI am writing to express my opinion on the current issue of [insert issue]. I believe [insert opinion]. I feel that [insert reason]. Furthermore, [insert additional reason]. \n\nI believe that it is important for [insert audience] to be aware of this issue and take action. [Provide a solution/call to action].\n\nSincerely,\n[Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

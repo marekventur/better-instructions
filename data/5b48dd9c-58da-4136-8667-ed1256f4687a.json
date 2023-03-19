@@ -1,0 +1,12 @@
+{
+  "id": "5b48dd9c-58da-4136-8667-ed1256f4687a",
+  "instruction": "Given a tweet, change its tone from negative to positive.",
+  "input": "The customer service here is terrible",
+  "output": "I'm so impressed with the customer service here!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "436eb502-76e7-4ee1-a994-a142d496f646",
+  "instruction": "Given a recipe, suggest an alternate ingredient.",
+  "input": "Banana split ice cream recipe: 3 bananas, 3-4 scoops of vanilla ice cream, chocolate syrup, nuts, and whipped cream",
+  "output": "Banana split ice cream recipe: 3 bananas, 3-4 scoops of chocolate ice cream, caramel syrup, granola, and coconut cream.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

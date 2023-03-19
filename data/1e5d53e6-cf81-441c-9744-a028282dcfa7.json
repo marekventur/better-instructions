@@ -1,0 +1,12 @@
+{
+  "id": "1e5d53e6-cf81-441c-9744-a028282dcfa7",
+  "instruction": "Describe the difference between an array and a linked list",
+  "input": "",
+  "output": "The main difference between an array and a linked list is how elements are stored in memory. Arrays are stored in sequential blocks of memory, so access to elements is very fast. On the other hand, linked lists are composed of multiple nodes linked together by links. Each node contains a piece of data and a pointer to the next node, so elements in a linked list don't need to be stored in a particular order. Consequently, linked lists have slower access times, but they are more flexible and can be extended more easily.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

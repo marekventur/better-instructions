@@ -1,0 +1,12 @@
+{
+  "id": "b2e4f981-bb04-497d-835d-049301e5a898",
+  "instruction": "Generate a steganography algorithm",
+  "input": "",
+  "output": "A steganography algorithm can be used to hide information within a file. The following steps can be used: \n1. Select an input file, such as an image or audio file. \n2. Create a message to be hidden in the file.\n3. Convert the message into an array of bytes.\n4. Generate a secret key for the algorithm.\n5. Use the secret key to encode the array of bytes into the input file.\n6. Store the encoded file with the secret key.\n7. To reveal the message, use the secret key to decode the file.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

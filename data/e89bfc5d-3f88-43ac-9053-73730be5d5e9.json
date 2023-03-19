@@ -1,0 +1,12 @@
+{
+  "id": "e89bfc5d-3f88-43ac-9053-73730be5d5e9",
+  "instruction": "Given the play title, generate a scene using the provided characters.",
+  "input": "Play title: \"The Catastrophe of King Midas\"\nCharacters: King Midas, a wise man, messenger",
+  "output": "The scene opens with King Midas in his throne room, with a wise man and a messenger by his side. The messenger is delivering news of a famine and says to the King, \"Great King Midas, the people are suffering greatly and please, I beg of you to do something!\" The wise man then says to Midas, \"My king, if you do not act quickly, this could be the catastrophe of which I have been warning.\" King Midas then gets up from his throne, clearly filled with shame and regret for not listening sooner, and says \"Let us go to the people and see what must be done\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d04d5f36-b34c-4cb4-a93b-bbeedfb962ec",
+  "instruction": "Given a string, delete all instances of the character '@' and output the result.",
+  "input": "H@ello",
+  "output": "Hello",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

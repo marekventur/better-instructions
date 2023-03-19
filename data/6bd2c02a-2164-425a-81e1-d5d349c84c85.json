@@ -1,0 +1,12 @@
+{
+  "id": "6bd2c02a-2164-425a-81e1-d5d349c84c85",
+  "instruction": "Explain how the game of chess is played.",
+  "input": "",
+  "output": "Chess is a two-player strategy game played on a game board that consists of 64 squares and 32 pieces (16 per side). The game is played in turns, with each player moving one piece at a time. The goal of the game is to capture the opponent's King. To do this, pieces can move in different ways, such as forward and backward, diagonally, and one or two squares in any direction. Pieces can also capture opposing pieces by jumping over them with a Knight piece. There are a number of other rules and strategies that must be employed in order to win the game of Chess.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

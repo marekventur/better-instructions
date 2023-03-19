@@ -1,0 +1,12 @@
+{
+  "id": "9dc04ed0-17cf-4b80-90e2-c726954743fe",
+  "instruction": "Suggest a dialogue to resolve the given situation.",
+  "input": "Characters: Alex and Nancy\nSituation: Nancy wants to lend Alex her book but Alex does not want to read it.",
+  "output": "Alex: Hey Nancy, I don't think I'm really interested in reading your book.\nNancy: That's okay, I'm sure there's something else I can help you with. What else do you need? \nAlex: Actually, I'm looking for something else to read. Do you have any suggestions?\nNancy: Sure. I think this other book might be interesting for you. Would you like to borrow it? \nAlex: That sounds great! Thanks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

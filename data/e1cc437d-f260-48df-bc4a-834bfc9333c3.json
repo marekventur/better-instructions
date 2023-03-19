@@ -1,0 +1,12 @@
+{
+  "id": "e1cc437d-f260-48df-bc4a-834bfc9333c3",
+  "instruction": "Create a report on the current political situation in the given country",
+  "input": "Thailand",
+  "output": "The current political situation in Thailand is highly unstable. The Prime Minister, Prayut Chan-o-cha, was re-elected after the 2014 coup. His government has been met with staunch opposition from the youth and pro-democracy activists who are calling for greater transparency and accountability. It remains to be seen whether the government will make any further efforts to move the country towards a democracy. The recent anti-government protests have been met with violent suppression from the police, leading to dozens of injuries and arrests. There has been a demand for international intervention to move Thailand towards a democratic system.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

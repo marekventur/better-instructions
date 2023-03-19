@@ -1,0 +1,12 @@
+{
+  "id": "f4aa4080-e0b8-4240-bf46-8d8a939271e2",
+  "instruction": "Determine what type of triangle will be formed by the following coordinates: (4, 2), (7, 9), (4, 11).",
+  "input": "",
+  "output": "The triangle formed by these three points is an acute triangle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

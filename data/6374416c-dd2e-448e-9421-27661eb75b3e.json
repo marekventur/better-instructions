@@ -1,0 +1,12 @@
+{
+  "id": "6374416c-dd2e-448e-9421-27661eb75b3e",
+  "instruction": "Write a function that takes in a string and returns the number of 'a' characters in it.",
+  "input": "",
+  "output": "def count_a(input_string):\n    count = 0\n    for char in input_string:\n        if char == 'a':\n            count += 1\n    return count",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

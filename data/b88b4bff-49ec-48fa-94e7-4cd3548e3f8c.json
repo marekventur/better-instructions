@@ -1,0 +1,12 @@
+{
+  "id": "b88b4bff-49ec-48fa-94e7-4cd3548e3f8c",
+  "instruction": "Write an algorithm for finding the three largest integers in an array.",
+  "input": "An array of integers",
+  "output": "This algorithm will find the three largest integers in an array: \n1. Create a variable to store the largest three integers. \n2. Loop through the array and compare each element with the largest integers stored in the variable. \n3. If the current element is larger than any of the three largest integers stored in the variable, update the variable with the current element.\n4. At the end of the loop, the variable will contain the three largest integers in the array.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

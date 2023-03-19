@@ -1,0 +1,12 @@
+{
+  "id": "174709af-49d3-45ab-b183-7f6b9c38630e",
+  "instruction": "Given an input sentence, create a metaphor.",
+  "input": "The sky is beautiful",
+  "output": "The sky was a blanket of stars.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

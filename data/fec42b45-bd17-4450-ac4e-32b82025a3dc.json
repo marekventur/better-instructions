@@ -1,0 +1,12 @@
+{
+  "id": "fec42b45-bd17-4450-ac4e-32b82025a3dc",
+  "instruction": "Classify the genre of a given song",
+  "input": "Song: \"Gangsta's Paradise\" by Coolio",
+  "output": "Hip Hop/Rap",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

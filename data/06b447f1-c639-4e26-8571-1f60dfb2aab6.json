@@ -1,0 +1,12 @@
+{
+  "id": "06b447f1-c639-4e26-8571-1f60dfb2aab6",
+  "instruction": "Identify the lowest number in the list.",
+  "input": "[90, 23, 2, 1000, -50]",
+  "output": "-50",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

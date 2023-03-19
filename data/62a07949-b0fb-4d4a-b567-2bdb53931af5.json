@@ -1,0 +1,12 @@
+{
+  "id": "62a07949-b0fb-4d4a-b567-2bdb53931af5",
+  "instruction": "Generate a list of questions to ask when you are researching a topic",
+  "input": "No Input",
+  "output": "Questions to ask when researching a topic:\n1. What is the history of this subject?\n2. What are the current challenges around the topic?\n3. What are the different perspectives on the topic?\n4. What are the implications for the future?\n5. What is the expert opinion on the subject?\n6. How does the topic vary by regional, cultural, political, or economic context? \n7. What potential solutions have been proposed to address the issue?\n8. What are the financial, legal, or ethical considerations related to the topic?\n9. What technological advances are relevant to understanding the topic?\n10. What fundamental truths can be ascertained from research on the topic?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

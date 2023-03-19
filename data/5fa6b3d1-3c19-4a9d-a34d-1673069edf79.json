@@ -1,0 +1,12 @@
+{
+  "id": "5fa6b3d1-3c19-4a9d-a34d-1673069edf79",
+  "instruction": "Apply the changes requested in the comment for the following piece of code.",
+  "input": "def buy_book(bookID, shippingAddress, paymentMethod):\n    \"\"\"Purchase a book with given ID and ship it to the address provided\"\"\"\n    # TODO: Reject payment if the payment method is \"cash\"\n    # TODO: Calculate shipping cost using the shipping address\n    print(\"Book purchased\")",
+  "output": "def buy_book(bookID, shippingAddress, paymentMethod):\n    \"\"\"Purchase a book with given ID and ship it to the address provided\"\"\"\n    # Reject payment if the payment method is \"cash\"\n    if paymentMethod == \"cash\":\n      return \"Payment not accepted\"\n    # Calculate shipping cost using the shipping address\n    shippingCost = calculate_shipping_cost(shippingAddress)\n    print(\"Book purchased\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ef87fc12-831e-4954-a5b4-1771ba5ed728",
+  "instruction": "Write a feature for the given data structure.",
+  "input": "Data Structure:\n- Two classes: Student and Course\n- Student class contains name, age, list of courses\n- Course class contains name, duration",
+  "output": "I would like to develop a feature for the given data structure which allows for students to be recommended relevant courses based on their interests. The feature should use the student's name, age, and list of courses to recommend new courses that might be of interest. The feature should also take into account the duration of the courses and should only recommend courses that fit within the student's available time constraints. This feature would enable students to quickly and efficiently discover courses to further their academic pursuits.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ebe1acdc-4992-4469-a0d6-7a418cf6a664",
+  "instruction": "Automatically generate a design given the following description and color palette.",
+  "input": "Description: An abstract flower pattern\nColor Palette: #f61900, #d24000, #a4ae01, #78c706, #0168f4",
+  "output": "![Image of abstract flower pattern](https://i.imgur.com/OVsu7ei.png)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

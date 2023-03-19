@@ -1,0 +1,12 @@
+{
+  "id": "6607f9b8-77c3-41ce-8cf5-f6e2dd9247ad",
+  "instruction": "Identify which of the following type of speech is legal in a courtroom?",
+  "input": "Direct examination, cross-examination, evidence, opinion.",
+  "output": "Direct examination and cross-examination are legal in a courtroom, while evidence and opinion are not.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

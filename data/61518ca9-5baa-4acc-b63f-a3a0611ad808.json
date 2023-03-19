@@ -1,0 +1,12 @@
+{
+  "id": "61518ca9-5baa-4acc-b63f-a3a0611ad808",
+  "instruction": "Generate a list of five values which can be found in the given dataset.",
+  "input": "A housing dataset with property types, square footage, address, number of bedrooms, bathrooms, pool, and associated taxes.",
+  "output": "The following list contains five values from the given dataset:\n1. Property Type\n2. Square Footage\n3. Number of Bedrooms \n4. Number of Bathrooms\n5. Pool",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

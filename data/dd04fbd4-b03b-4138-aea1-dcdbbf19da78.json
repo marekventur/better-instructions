@@ -1,0 +1,12 @@
+{
+  "id": "dd04fbd4-b03b-4138-aea1-dcdbbf19da78",
+  "instruction": "Make a list of at least 5 unique ways to simplify the given sentence.",
+  "input": "She kept on eating until the plate was empty.",
+  "output": "1. She ate until the plate was clear. \n2. She ate until the plate was vacant. \n3. She ate until there was nothing left on the plate.\n4. She kept eating until there was no food on the plate. \n5. She ate until there was no trace of food on the plate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "72828867-f96b-4026-9f9c-fb3b6aa94354",
+  "instruction": "Create a css class that sets the font style to Times New Roman",
+  "input": "",
+  "output": ".times-new-roman {\n    font-family: 'Times New Roman', Times, serif;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

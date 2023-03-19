@@ -1,0 +1,12 @@
+{
+  "id": "d1d08025-bf55-4f61-acec-54cc25fc9cc3",
+  "instruction": "Determine if the report supports the findings or not.",
+  "input": "Report: The survey indicates that 45% of people prefer to buy online instead of going to the store. \nFindings: Over half of people prefer to buy online.",
+  "output": "Unsupport",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "be24d7fa-5ebb-4527-8889-f3f88fad9f9f",
+  "instruction": "Add two sentences to the following story about a bank robbery.",
+  "input": "The bank robbers had been planning the robbery for weeks, using their ill-gotten gains to buy guns and masks.",
+  "output": "They waited until after closing time to make their move, and entered the building carrying the weapons. The staff were quickly subdued, and the robbers swiftly took whatever money they could find. They made off with hundreds of thousands of dollars, but the bank manager was able to activate the silent alarm and alert the police.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

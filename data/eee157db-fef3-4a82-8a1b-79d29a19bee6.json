@@ -1,0 +1,12 @@
+{
+  "id": "eee157db-fef3-4a82-8a1b-79d29a19bee6",
+  "instruction": "Explain two ways that you could keep your computer secure.",
+  "input": "",
+  "output": "Two ways to keep your computer secure are using antivirus and anti-malware software and enabling two-factor authentication for your accounts. Antivirus and anti-malware software protect your computer from malicious software and malware that can steal your personal data. Two-factor authentication requires two levels of authentication, like a password plus a verification code sent to your phone, to gain access to an account, making it much harder for someone to gain unauthorized access.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

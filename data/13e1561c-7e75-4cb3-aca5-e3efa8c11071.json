@@ -1,0 +1,12 @@
+{
+  "id": "13e1561c-7e75-4cb3-aca5-e3efa8c11071",
+  "instruction": "Develop a list of possible outcomes of the given scenario",
+  "input": "A fire has broken out in an old abandoned factory.",
+  "output": "1. Firefighters put out the fire.\n2. The fire consumes the factory and spreads to nearby buildings.\n3. People nearby try to contain the fire by themselves.\n4. The fire leads to an explosion.\n5. The fire department is alerted and they arrive to contain the fire.\n6. The factory collapses due to the fire.\n7. The fire department is too late and the fire destroys the factory.\n8. The factory is left in ruins after the fire is put out.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

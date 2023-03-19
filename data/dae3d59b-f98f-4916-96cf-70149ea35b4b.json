@@ -1,0 +1,12 @@
+{
+  "id": "dae3d59b-f98f-4916-96cf-70149ea35b4b",
+  "instruction": "Suggest a grammar rule to distinguish between the two given words.",
+  "input": "Words: Than and Then",
+  "output": "Then is used to establish a timeline and/or sequence of events: \"We watched the movie and then had dinner\".\nThan is used to compare two things: \"He is better at basketball than football\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9e2e24de-254c-407d-8692-a846ea5c72df",
+  "instruction": "Verify the accuracy of the data.",
+  "input": "The 16th President of the United States was Abraham Lincoln.",
+  "output": "Correct. Abraham Lincoln was the 16th President of the United States.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "50327289-aed1-4a3b-95d9-c74215cc9dcf",
+  "instruction": "Edit the following sentence: \u201cTo build the bridge we need construction equipment, including drills and jackhammers\u201d",
+  "input": "\"To build the bridge we need construction equipment, including drills and jackhammers\"",
+  "output": "\"To construct the bridge, we require construction equipment, such as drills and jackhammers.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

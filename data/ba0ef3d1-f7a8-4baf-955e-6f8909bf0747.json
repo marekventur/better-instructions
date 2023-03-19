@@ -1,0 +1,12 @@
+{
+  "id": "ba0ef3d1-f7a8-4baf-955e-6f8909bf0747",
+  "instruction": "Given a list of unique strings, find the longest string",
+  "input": "['thirty-nine', 'forty-one', 'five', 'seventeen']",
+  "output": "\"thirty-nine\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "18ad055f-7be8-4e9a-92c7-1f240c56d6e4",
+  "instruction": "Find and explain the fallacy in the following argument.",
+  "input": "All birds can fly, so all mammals must be able to fly as well.",
+  "output": "This argument is a false analogy because it assumes a causative relationship between two unrelated categories (birds and mammals). It is fallacious because birds and mammals have different physical and behavioral attributes, and the fact that birds have the ability to fly does not necessarily mean that all mammals have the same ability. Therefore, the conclusion - all mammals must be able to fly - does not logically follow from the premise.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

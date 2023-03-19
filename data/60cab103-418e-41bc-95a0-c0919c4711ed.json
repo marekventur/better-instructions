@@ -1,0 +1,12 @@
+{
+  "id": "60cab103-418e-41bc-95a0-c0919c4711ed",
+  "instruction": "Write a function in any programming language to check if two words are anagrams of each other.",
+  "input": "",
+  "output": "Python code\n\ndef isAnagram(x, y): \n  \n    # Get lengths of both strings \n    x_len = len(x) \n    y_len = len(y)\n  \n    # If length of both strings is not same, then they  \n    # are not anagram \n    if x_len != y_len: \n        return False\n  \n    x = sorted(x) \n    y = sorted(y) \n  \n    for i in range(0, x_len):\n        char1 = x[i] \n        char2 = y[i]\n  \n    # Compare sorted strings \n    if char1 != char2: \n        return False\n  \n    return True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

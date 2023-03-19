@@ -1,0 +1,12 @@
+{
+  "id": "1cb82784-002b-4adb-9e2f-dd03944633e4",
+  "instruction": "Generate a report summarizing the information given in the table below.",
+  "input": "Category|Value1|Value2\n--------|--------|--------\nMachines|100|300\nAnimals|50|450",
+  "output": "This report summarizes the information found in the provided table. It contains two categories, Machines and Animals. For Machines, there are 100 values in Value1 and 300 values in Value2. For Animals, there are 50 values in Value1 and 450 values in Value2. In conclusion, the highest number of values is found in the Animals category, with 450 values in Value2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

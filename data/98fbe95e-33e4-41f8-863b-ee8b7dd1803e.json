@@ -1,0 +1,12 @@
+{
+  "id": "98fbe95e-33e4-41f8-863b-ee8b7dd1803e",
+  "instruction": "Develop a conversation flow and give answer options for the given topic.",
+  "input": "Topic: Travel",
+  "output": "Question: Where would you like to travel to?\nAnswer Options: \n1. I want to go to Europe.\n2. I want to go to Central America.\n3. I want to go to Asia.\n4. I want to go to Africa.\n5. I'm not sure yet.\n\nQuestion: What do you plan to do in your destination?\nAnswer Options: \n1. I want to go sightseeing.\n2. I want to explore nature.\n3. I want to go shopping.\n4. I want to try local cuisine.\n5. Other.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

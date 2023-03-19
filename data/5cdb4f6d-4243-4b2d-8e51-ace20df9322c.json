@@ -1,0 +1,12 @@
+{
+  "id": "5cdb4f6d-4243-4b2d-8e51-ace20df9322c",
+  "instruction": "Create a consumer evaluation document for a product.",
+  "input": "The product is a software that helps people manage their finances.",
+  "output": "Consumer Evaluation Document for Finances Manager Software\n\nOverall Evaluation: \nThis software is an excellent tool for managing finances. It provides a comprehensive set of features for tracking and analyzing income and expenses, budgeting, and categorizing transactions. It also offers customizable user options, allowing users to tailor the application to suit their individual needs.\n\nProduct Strengths: \n- Easy to navigate and use \n- Multiple budgeting tools \n- Comprehensive financial analysis capabilities \n- Can customize for individual needs \n\nProduct Weaknesses: \n- No support for investments \n- Upfront investment in the software is higher than other competitors \n\nCompatibility: \nThe software is available for PC, Mac, and mobile devices.\n\nOverall Recommendation: \nOverall this software is an excellent choice for those looking to manage and analyze their finances. The features and customization options offer a great value and make this software a good investment. The only downside is the lack of support for investments.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

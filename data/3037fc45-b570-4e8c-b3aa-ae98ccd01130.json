@@ -1,0 +1,12 @@
+{
+  "id": "3037fc45-b570-4e8c-b3aa-ae98ccd01130",
+  "instruction": "You are given a code snippet and you need to detect a bug in it.",
+  "input": "mystring = \"Hello World\" \nmystring.strip(\"H\")",
+  "output": "The bug in this code snippet is that the string is not assigned from the result of the strip function. This means that 'mystring' will remain \"Hello World\". The correct code should be mystring = mystring.strip(\"H\").",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

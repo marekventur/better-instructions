@@ -1,0 +1,12 @@
+{
+  "id": "cdb82aff-5f9b-4be5-9e3f-b601f0d09d6d",
+  "instruction": "Merge these two sentences.",
+  "input": "The cat is playing. The dog is sleeping.",
+  "output": "The cat is playing while the dog is sleeping.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

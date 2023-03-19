@@ -1,0 +1,12 @@
+{
+  "id": "79c11077-3fb9-46f2-be34-a7662030630d",
+  "instruction": "Given a theme, write a research-based article.",
+  "input": "Fire safety in universities",
+  "output": "Universities across the country are taking steps to increase fire safety on their campuses in order to protect their students and staff. With the rise of residential housing, universities are now more prone to fires given the close living quarters and wide range of combustible materials. To combat this, universities are investing in fire prevention technology, fire alarms and sprinkler systems, and fire drills, as well as creating emergency response plans. Furthermore, universities are also educating their students on the importance of fire safety and providing access to fire safety resources. Universities are placing greater emphasis on fire safety as they strive to create a safer environment for students.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e29f59ad-a0ef-4955-9b90-bbf0705286f3",
+  "instruction": "Merge the following two text documents\n\nInput 1:\nThe ocean is a deep and foreboding place, filled with mysterious creatures and wild attractions.\n\nInput 2:\nIt is a source of fascination and inspiration, home to a great many stories and legends.",
+  "input": "The ocean is a deep and foreboding place, filled with mysterious creatures and wild attractions. It is a source of fascination and inspiration, home to a great many stories and legends.",
+  "output": "The ocean is a deep and foreboding place, filled with mysterious creatures and wild attractions. It is a source of fascination and inspiration, with a great many stories and legends emerging from its depths.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "97e0677b-aa52-4e1e-b44c-b93ec5ff6c30",
+  "instruction": "Create a SQL query to display all the fields in a table called \"employees\".",
+  "input": "",
+  "output": "SELECT * FROM employees;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

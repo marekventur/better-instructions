@@ -1,0 +1,12 @@
+{
+  "id": "5dfe4a84-5f19-4ba6-90ff-479ded994cf6",
+  "instruction": "Describe What is a GPT Model",
+  "input": "",
+  "output": "A GPT (Generative Pre-trained Transformer) model is a type of language modeling approach which uses a transformer-based neural network architecture to generate natural language from a given input. GPT models are trained using large amounts of data and a variety of natural language processing (NLP) tasks such as language modeling, machine translation, summarization, and more. GPT models can generate text for different tasks such as open-ended generation, classification, question-answering, and more.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

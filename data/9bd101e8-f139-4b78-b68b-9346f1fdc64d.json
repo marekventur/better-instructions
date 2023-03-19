@@ -1,0 +1,12 @@
+{
+  "id": "9bd101e8-f139-4b78-b68b-9346f1fdc64d",
+  "instruction": "Take the following book title and create a summary for it.",
+  "input": "The Fault in our Stars",
+  "output": "The Fault in our Stars is a young adult novel about two teenagers, Hazel and Augustus, who meet and fall in love at a cancer support group. Throughout their short-lived but passionate relationship, the two explore the fragility of life and love, and ultimately face the challenge of death together. This heartbreaking love story is interwoven with elements of humor, faith, and hope.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

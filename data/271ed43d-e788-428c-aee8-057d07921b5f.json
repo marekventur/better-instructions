@@ -1,0 +1,12 @@
+{
+  "id": "271ed43d-e788-428c-aee8-057d07921b5f",
+  "instruction": "Given a phrase, write its antonym",
+  "input": "Gain",
+  "output": "Loss",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

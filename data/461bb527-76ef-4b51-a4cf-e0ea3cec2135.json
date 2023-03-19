@@ -1,0 +1,12 @@
+{
+  "id": "461bb527-76ef-4b51-a4cf-e0ea3cec2135",
+  "instruction": "Print the following sentence in all capitals.",
+  "input": "The cat jumped on the bed.",
+  "output": "THE CAT JUMPED ON THE BED.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

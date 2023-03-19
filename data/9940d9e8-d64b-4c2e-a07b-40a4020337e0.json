@@ -1,0 +1,12 @@
+{
+  "id": "9940d9e8-d64b-4c2e-a07b-40a4020337e0",
+  "instruction": "Generate a shopping list for the given menu.",
+  "input": "Salad of romaine lettuce, goat cheese, and roasted almonds\nGrilled salmon\nSteamed green beans\nRice pilaf",
+  "output": "Shopping List \n\n- Romaine lettuce \n- Goat cheese \n- Roasted almonds \n- Salmon \n- Green beans \n- Rice \n- Olive oil \n- Butter \n- Salt \n- Pepper \n- Lemon juice",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

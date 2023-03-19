@@ -1,0 +1,12 @@
+{
+  "id": "eec07e70-9b58-44b6-b8fa-caba5d29d622",
+  "instruction": "Find the area of a parallelogram with the given height and base length.",
+  "input": "Height: 7m, Base Length: 10m",
+  "output": "The area of the parallelogram is 70 m<sup>2</sup>.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

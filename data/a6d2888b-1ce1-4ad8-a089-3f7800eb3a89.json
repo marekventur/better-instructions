@@ -1,0 +1,12 @@
+{
+  "id": "a6d2888b-1ce1-4ad8-a089-3f7800eb3a89",
+  "instruction": "Divide this list into two groups to make valid anagrams.",
+  "input": "wrench, nickels, broom, folder",
+  "output": "Group 1: wrench, nickels, folder\nGroup 2: broom",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "beba4c6a-5c3b-4069-9710-3a77de218879",
+  "instruction": "Describe the components of an electric car.",
+  "input": "",
+  "output": "The components of an electric car include a battery, motor, motor controller, power electronics, gearing system, and auxiliary parts like the headlights, air conditioning, heating, and audio system. The battery is the most important component as it provides the power for the vehicle. The motor and motor controller control and convert the electrical energy from the battery into the power needed to move the car. The power electronics and the gearing system are responsible for distributing the power from the motor to the wheels.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

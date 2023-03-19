@@ -1,0 +1,12 @@
+{
+  "id": "612725a4-c3b5-43d4-8369-f170ae37246d",
+  "instruction": "Identify the grammatically correct sentence among the following two.",
+  "input": "The house have three rooms.\nThe house has three rooms.",
+  "output": "The house has three rooms.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c6bc9d2a-72b5-4035-b806-f5231631c8ca",
+  "instruction": "Differentiate between a wavefunction and a wave packet.",
+  "input": "",
+  "output": "A wavefunction is a mathematical expression that describes the behavior of a wave. It can be used to analyze the wave's properties at all points in space, such as its amplitude, frequency, and phase. On the other hand, a wave packet is a waveform made up of multiple wavefunctions. It is a localized waveform that moves as a single unit, and its size and shape determine how it interacts with its surroundings. Wave packets can represent both light and matter waves.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

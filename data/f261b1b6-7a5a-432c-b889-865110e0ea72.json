@@ -1,0 +1,12 @@
+{
+  "id": "f261b1b6-7a5a-432c-b889-865110e0ea72",
+  "instruction": "Predict whether the given review is positive or negative. Output 'positive' or 'negative'.",
+  "input": "This restaurant has great service and delicious food.",
+  "output": "positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

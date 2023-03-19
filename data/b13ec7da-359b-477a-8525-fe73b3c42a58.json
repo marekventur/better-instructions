@@ -1,0 +1,12 @@
+{
+  "id": "b13ec7da-359b-477a-8525-fe73b3c42a58",
+  "instruction": "Provide an explanation of the Turing test.",
+  "input": "",
+  "output": "The Turing test is a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. It is a method of inquiry used in artificial intelligence research to determine whether a computer is able to think like a human being. The test was proposed by Alan Turing in 1950 and is used as a benchmark for determining whether a given task is considered \"intelligent.\" The Turing test involves a human judge conversing with a machine and another human via text both the judge and the other human are unaware of the identity of each respondent. If the judge is unable to tell which respondent is the machine, the machine is considered to have passed the Turing test.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

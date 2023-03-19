@@ -1,0 +1,12 @@
+{
+  "id": "2c71a83f-835a-4fe5-8c7a-26ed69401d12",
+  "instruction": "Create a data visualization that shows the COVID cases in all states in the US over the last two weeks.",
+  "input": "",
+  "output": "The data visualization will show the number of COVID cases in each US state for the two-week period starting from November 22nd. The data visualization will have a line graph showing the number of cases in each state over time. The total number of cases will be indicated in the legend beside the graph.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8da15472-3fe9-4952-80b5-edbef97ec3e7",
+  "instruction": "Create the HTML code necessary to display the following text.",
+  "input": "",
+  "output": "<html>\n    <head>\n    </head>\n    <body>\n        <p>Hello, world!</p>\n    </body>\n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

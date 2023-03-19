@@ -1,0 +1,12 @@
+{
+  "id": "6d17a8c4-7762-411b-9c83-f148faffb4d0",
+  "instruction": "Compute the average of a set of 3 numbers. Output the result directly.",
+  "input": "41, 29, 71",
+  "output": "51",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

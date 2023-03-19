@@ -1,0 +1,12 @@
+{
+  "id": "953ce584-0b1d-4340-867b-710c00a3cbe5",
+  "instruction": "Report the temperature of the following city - Dallas.",
+  "input": "",
+  "output": "The current temperature in Dallas, TX is 78\u00b0F (25.56\u00b0C).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

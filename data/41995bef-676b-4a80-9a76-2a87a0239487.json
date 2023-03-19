@@ -1,0 +1,12 @@
+{
+  "id": "41995bef-676b-4a80-9a76-2a87a0239487",
+  "instruction": "Write an algorithm with pseudocode for searching through a list of numbers for a particular value.",
+  "input": "",
+  "output": "Algorithm SearchList (list, target_number): \n\nSet index = 0\nSet found = False\n\nWhile index < length of list and found = False:\n    If list at index = target_number\n        Set found = True\n    Else\n        Increment index\n    \nIf found = True\n    Print \"Number was found at index \" + index\nElse\n    Print \"Number was not found\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

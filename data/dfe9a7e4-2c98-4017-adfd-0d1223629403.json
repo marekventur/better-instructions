@@ -1,0 +1,12 @@
+{
+  "id": "dfe9a7e4-2c98-4017-adfd-0d1223629403",
+  "instruction": "Given a fashion outfit, suggest a suitable accessory.",
+  "input": "Fashion Outfit: Jeans, White T-shirt, Red Heels",
+  "output": "A silver bracelet or watch would be a great addition to the outfit.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

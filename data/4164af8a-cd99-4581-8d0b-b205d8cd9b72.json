@@ -1,0 +1,12 @@
+{
+  "id": "4164af8a-cd99-4581-8d0b-b205d8cd9b72",
+  "instruction": "Identify the faulty grammar this sentence.",
+  "input": "She wants visit her family.",
+  "output": "The faulty grammar in this sentence is \"wants visit\". It should be \"wants to visit\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

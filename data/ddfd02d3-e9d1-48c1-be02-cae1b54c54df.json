@@ -1,0 +1,12 @@
+{
+  "id": "ddfd02d3-e9d1-48c1-be02-cae1b54c54df",
+  "instruction": "Translate a piece of text from English to German.",
+  "input": "\"The sky is above.\"",
+  "output": "Der Himmel ist oben.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

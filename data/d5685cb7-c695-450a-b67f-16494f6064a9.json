@@ -1,0 +1,12 @@
+{
+  "id": "d5685cb7-c695-450a-b67f-16494f6064a9",
+  "instruction": "Create a list of questions to ask a patient during a medical consultation.",
+  "input": "",
+  "output": "1. What are your symptoms?\n2. How long have you been experiencing these symptoms?\n3. Have you taken any medications or tried any home remedies for these symptoms?\n4. Are there any activities that make the symptoms worse?\n5. Are there any activities that make the symptoms better?\n6. Do you have a family history of any medical conditions?\n7. Are you taking any medications or supplements?\n8. How often do you have regular physical checkups?\n9. How often do you exercise?\n10. Do you have any allergies?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

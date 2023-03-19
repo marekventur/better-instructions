@@ -1,0 +1,12 @@
+{
+  "id": "2ae45979-1eb8-4420-bb89-34ed98302d0f",
+  "instruction": "Rate the relevance of the given keyword to the given text.",
+  "input": "Keyword: gun control\nText: Gun control is a matter of great controversy in the United States. Scholars, politicians, and others have argued for many years about the effectiveness of gun control measures. Despite continuing debates, one thing is for certain: gun violence is still a major problem in the United States.",
+  "output": "The relevance of the keyword \"gun control\" to the given text is 8/10.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

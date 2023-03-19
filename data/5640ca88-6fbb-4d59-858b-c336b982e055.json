@@ -1,0 +1,12 @@
+{
+  "id": "5640ca88-6fbb-4d59-858b-c336b982e055",
+  "instruction": "Describe the behavior of a monkey for the following situation.",
+  "input": "It is lunchtime, and the monkey is hungry.",
+  "output": "The monkey will look for food, or other sources of nourishment. It may search for food or cupboard doors it knows are likely to provide food. It may also become agitated if it cannot find food quickly and start to look for it more intently.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

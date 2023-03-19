@@ -1,0 +1,12 @@
+{
+  "id": "55ee17ac-262e-4b7c-95ba-398b5826cbf1",
+  "instruction": "Identify the nouns in the sentence: \"The small purple mushroom grew over the hill.\"",
+  "input": "The small purple mushroom grew over the hill.",
+  "output": "Nouns: The, small, mushroom, hill.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

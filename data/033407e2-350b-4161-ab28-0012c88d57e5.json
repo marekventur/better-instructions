@@ -1,0 +1,12 @@
+{
+  "id": "033407e2-350b-4161-ab28-0012c88d57e5",
+  "instruction": "What features should be taken care of while training a language model?",
+  "input": "",
+  "output": "When training a language model, some important features to take into consideration include the quality of training data, model architecture, the size and type of dataset, the model's hyperparameters, the type of language task, vocabulary size and complexity, and the optimizers used for training. Additionally, ensuring models are consistently evaluated on held-out data can provide useful insights into the model's performance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

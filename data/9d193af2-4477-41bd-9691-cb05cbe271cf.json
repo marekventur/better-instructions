@@ -1,0 +1,12 @@
+{
+  "id": "9d193af2-4477-41bd-9691-cb05cbe271cf",
+  "instruction": "Add 5 new facts to the article.",
+  "input": "In the United States, the number of workers age 65 and above is projected to double by 2040.",
+  "output": "In the United States, the number of workers age 65 and above is projected to double by 2040. Additionally, in 2020, older workers represent one quarter of the country's employed labor force, with their participation in the labor force rising from 12.7% in 1979 to 25.3%. By 2040, older workers are expected to make up nearly one-third of the U.S. labor force. Moreover, according to Bureau of Labor Statistics (BLS) estimates, the labor force participation rate for those aged 65 and above is expected to rise from its 2020 level of 25% to 32.7% by 2040. Further, older workers are projected to account for 10.6% of the overall labor force growth in the next decade. Additionally, the growth rate of older workers is expected to be more than 3 times that of workers aged 25 to 54.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

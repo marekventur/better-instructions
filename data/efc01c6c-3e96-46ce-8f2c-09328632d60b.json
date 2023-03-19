@@ -1,0 +1,12 @@
+{
+  "id": "efc01c6c-3e96-46ce-8f2c-09328632d60b",
+  "instruction": "Edit the given sentence by removing all unnecessary words.",
+  "input": "The important fact is that the meeting starts at 3pm",
+  "output": "Meeting starts at 3pm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

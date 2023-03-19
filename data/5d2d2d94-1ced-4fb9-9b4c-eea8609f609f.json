@@ -1,0 +1,12 @@
+{
+  "id": "5d2d2d94-1ced-4fb9-9b4c-eea8609f609f",
+  "instruction": "For the provided stock market data, predict its price at the end of the day",
+  "input": "Apple (AAPL) opened today at $135.14 and is currently trading at $135.56",
+  "output": "The predicted price of Apple (AAPL) at the end of the day is $135.56.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

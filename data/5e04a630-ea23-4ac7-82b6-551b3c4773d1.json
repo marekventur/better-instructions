@@ -1,0 +1,12 @@
+{
+  "id": "5e04a630-ea23-4ac7-82b6-551b3c4773d1",
+  "instruction": "Recognize the sentiment in the following tweet.",
+  "input": "I love my job.",
+  "output": "Positive sentiment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

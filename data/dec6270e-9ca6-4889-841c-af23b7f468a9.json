@@ -1,0 +1,12 @@
+{
+  "id": "dec6270e-9ca6-4889-841c-af23b7f468a9",
+  "instruction": "Given a news article headline, identify the topic it is discussing.",
+  "input": "A four-year trade war between two global powers ends",
+  "output": "The topic of this news article is the end of a trade war between two global powers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3935a99b-db7a-4f74-9525-79d5980cced1",
+  "instruction": "Identify whether the given sentence is a command or a question.",
+  "input": "Would you like to come with me?",
+  "output": "This is a question.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

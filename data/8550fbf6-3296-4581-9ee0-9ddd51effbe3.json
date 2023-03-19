@@ -1,0 +1,12 @@
+{
+  "id": "8550fbf6-3296-4581-9ee0-9ddd51effbe3",
+  "instruction": "Given two lyrics, create a new melodic line that fits both.",
+  "input": "The sky is dark and wild\nIt's a long journey home",
+  "output": "And the wind's blowing free,\nWe'll take it mile by mile",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

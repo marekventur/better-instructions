@@ -1,0 +1,12 @@
+{
+  "id": "28f20864-ef1c-4eab-b83e-7e25b9814523",
+  "instruction": "List the two main types of reinforcement learning.",
+  "input": "",
+  "output": "The two main types of reinforcement learning are model-based and model-free learning. Model-based learning involves learning from a model that predicts the optimal action and rewards for a given state. Model-free learning involves learning directly from experience and does not use a model.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

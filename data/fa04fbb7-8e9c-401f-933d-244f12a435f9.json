@@ -1,0 +1,12 @@
+{
+  "id": "fa04fbb7-8e9c-401f-933d-244f12a435f9",
+  "instruction": "Given the following example sentence, construct the dependency tree and output it.",
+  "input": "The cat ran across the street.",
+  "output": "The cat (nsubj) ran (ROOT) across (prep) the street (pobj).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

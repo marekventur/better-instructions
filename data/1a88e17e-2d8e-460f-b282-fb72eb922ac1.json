@@ -1,0 +1,12 @@
+{
+  "id": "1a88e17e-2d8e-460f-b282-fb72eb922ac1",
+  "instruction": "Eliminate the double negative in the following sentence",
+  "input": "I can't not go",
+  "output": "I must go.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8a1b071f-fbe9-4ffe-a0e1-382b5ea91430",
+  "instruction": "Generate definitions for the given nouns.",
+  "input": "Book",
+  "output": "Book: an object consisting of pages made of paper, parchment, or other material, usually fastened together to hinge at one side, containing text or other information. Also, a literary or other intellectual work which can be published in a printed or electronic form. It can contain fictional or factual information.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

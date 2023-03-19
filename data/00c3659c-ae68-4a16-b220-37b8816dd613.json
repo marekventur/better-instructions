@@ -1,0 +1,12 @@
+{
+  "id": "00c3659c-ae68-4a16-b220-37b8816dd613",
+  "instruction": "Categorize the following blog post according to the topics they cover.",
+  "input": "This blog post covers the latest news about the US-China trade war. It covers the latest developments in the negotiations, opinions of the parties involved, and potential impacts on the economy.",
+  "output": "Topics Covered: US-China Trade War, Negotiations, Opinions of Parties, Impacts on Economy",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

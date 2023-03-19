@@ -1,0 +1,12 @@
+{
+  "id": "752d50cf-1ec0-4c7f-911d-109473c60703",
+  "instruction": "Take a string and print the number of occurrences of each character in it.",
+  "input": "hello",
+  "output": "h: 1\ne: 1\nl: 2\no: 1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

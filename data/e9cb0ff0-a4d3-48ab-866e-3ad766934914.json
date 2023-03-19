@@ -1,0 +1,12 @@
+{
+  "id": "e9cb0ff0-a4d3-48ab-866e-3ad766934914",
+  "instruction": "Generate a story while preserving the given facts.",
+  "input": "The setting is a small, remote town; the protagonist is a small child.",
+  "output": "The small, remote town was a quaint and peaceful place until one day a mysterious, small child appeared and began to create a stir. No one knew who this child was or where they had come from, but they were filled with mischieviousness and daring. As the child began to explore, they uncovered many secrets the small town had been keeping, and began to make changes that would have a lasting impact on the town.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

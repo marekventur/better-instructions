@@ -1,0 +1,12 @@
+{
+  "id": "3440fc09-28e0-4fac-8290-80c3ed9b367a",
+  "instruction": "Select the correct letter in the parentheses.",
+  "input": "My favorite color is (A) red, (B) purple, (C) yellow.",
+  "output": "My favorite color is (A) red, (B) purple, (C) yellow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

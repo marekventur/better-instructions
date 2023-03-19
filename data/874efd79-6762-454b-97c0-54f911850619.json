@@ -1,0 +1,12 @@
+{
+  "id": "874efd79-6762-454b-97c0-54f911850619",
+  "instruction": "Classify the following text as coming from either a book or a magazine.",
+  "input": "The Economist is a renowned publication that covers a wide range of topics such as politics, science, and technology with analysis that is respected all over the world.",
+  "output": "Magazine",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

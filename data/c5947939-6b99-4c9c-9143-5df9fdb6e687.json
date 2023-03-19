@@ -1,0 +1,12 @@
+{
+  "id": "c5947939-6b99-4c9c-9143-5df9fdb6e687",
+  "instruction": "Join the two sentences with an appropriate transition word.",
+  "input": "She had finished the work. She was delighted.",
+  "output": "She had finished the work, so she was delighted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

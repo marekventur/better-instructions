@@ -1,0 +1,12 @@
+{
+  "id": "8a0b2df7-e67c-486a-a5a2-ebe3a6bd7483",
+  "instruction": "Input a sentence and remove any redundancy in it.",
+  "input": "The process of data input inputting data into a system",
+  "output": "The process of inputting data into a system.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

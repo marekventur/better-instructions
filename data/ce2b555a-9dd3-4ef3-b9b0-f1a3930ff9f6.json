@@ -1,0 +1,12 @@
+{
+  "id": "ce2b555a-9dd3-4ef3-b9b0-f1a3930ff9f6",
+  "instruction": "Compare and contrast hydraulic and electrical brakes.",
+  "input": "",
+  "output": "Hydraulic brakes and electrical brakes are both used to stop or slow down a vehicle, but they function differently. Hydraulic brakes use hydraulic pressure to stop the vehicle, with pressure being generated when the driver presses the brakes on the pedal. Electrical brakes, on the other hand, use an electric motor to stop a vehicle. They are typically found in electric vehicles, where the motor is used to slow or stop the car, as opposed to the internal combustion engine of a normal vehicle. Hydraulic brakes are more efficient and require less maintenance, while electrical brakes are quieter and require less force from the driver to activate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

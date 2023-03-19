@@ -1,0 +1,12 @@
+{
+  "id": "a64ffc1a-5ccd-40ab-92cd-39c16f14d3ad",
+  "instruction": "Convert the given XML code to JSON code.",
+  "input": "<root>\n    <data>\n        <item id=\"1\">\n            <name>Sample data</name>\n            <type>Text</type>\n            <value>123</value>\n        </item>\n    </data>\n</root>",
+  "output": "{\n    \"root\": {\n        \"data\": {\n            \"item\": {\n                \"id\": \"1\",\n                \"name\": \"Sample data\",\n                \"type\": \"Text\",\n                \"value\": \"123\"\n            }\n        }\n    }\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

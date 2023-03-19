@@ -1,0 +1,12 @@
+{
+  "id": "3910a764-7f1c-4fb2-9652-1484cf8f35ce",
+  "instruction": "Evaluate if the input statement can be generalized to all cases.",
+  "input": "Fish cannot climb trees.",
+  "output": "No, this statement cannot be generalized to all cases.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

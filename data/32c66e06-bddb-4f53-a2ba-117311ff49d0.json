@@ -1,0 +1,12 @@
+{
+  "id": "32c66e06-bddb-4f53-a2ba-117311ff49d0",
+  "instruction": "How would you group these four colors into two complementary colors?",
+  "input": "Red, Blue, Green, Yellow",
+  "output": "Red and Green, Blue and Yellow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

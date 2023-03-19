@@ -1,0 +1,12 @@
+{
+  "id": "1ac2909a-8ad5-44af-9dc6-d94f356672cd",
+  "instruction": "Given two people, generate a few sentences of dialogue that convey how they feel.",
+  "input": "John and Sue",
+  "output": "John: \"Hey Sue, how are you doing today?\" \nSue: \"I'm doing alright. How about you?\"\nJohn: \"Yeah, I'm doing great. I feel pretty good!\"\nSue: \"That's great to hear. I'm glad you're doing well.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

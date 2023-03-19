@@ -1,0 +1,12 @@
+{
+  "id": "e3060f71-5d71-45c1-9df3-99d9d2083bea",
+  "instruction": "Classify how the word \"dog\" is used in this sentence.",
+  "input": "I had to train a dog for a few weeks in order to get it to obey.",
+  "output": "Noun.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

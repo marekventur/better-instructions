@@ -1,0 +1,12 @@
+{
+  "id": "ef3f0726-3eed-4189-a135-a126f985c6d4",
+  "instruction": "Design an algorithm to identify a palindrome",
+  "input": "",
+  "output": "This algorithm utilizes a stack in order to identify a palindrome. First, the input string is pushed onto a stack. Then, each character is popped from the stack and appended to a new string. Finally, the original string and the reverse string are compared. If the strings are identical, the initial string is a palindrome.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

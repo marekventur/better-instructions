@@ -1,0 +1,12 @@
+{
+  "id": "0b20a822-ce45-4ce3-95f2-47fe3c7e8c2a",
+  "instruction": "Given the following input, name 3 countries that speak the language",
+  "input": "Spanish",
+  "output": "The three countries that speak Spanish are Spain, Mexico, and Colombia.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ee9cecf5-84a5-4cd0-8376-df3748906269",
+  "instruction": "Make a prediction about a stock.",
+  "input": "Tesla stock (TSLA)",
+  "output": "Tesla stock (TSLA) is likely to continue to appreciate in value as it continues to add new features and develops new technologies.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

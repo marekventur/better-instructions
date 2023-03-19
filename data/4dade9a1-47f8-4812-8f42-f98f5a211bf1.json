@@ -1,0 +1,12 @@
+{
+  "id": "4dade9a1-47f8-4812-8f42-f98f5a211bf1",
+  "instruction": "Compare digestion in humans and in cats.",
+  "input": "",
+  "output": "Digestion in humans and cats involve similar processes, such as ingestion, mechanical digestion, chemical digestion, absorption, and elimination.  Ingestion for both species involves taking in food and consuming it. Mechanical digestion, which involves chewing and breaking down of food, is much more pronounced in cats due to sharp incisors and tough molars, as well as rough tongues that help cats break down food. Chemical digestion, or the break down of compounds through enzyme action, is also similar for both species.  But the process of absorption differs in humans, who absorb nutrients along their entire gastrointestinal tract, while cats absorb nutrients mostly in their small intestine. Additionally, the way in which they eliminate indigestible material differs, as humans eliminate through defecation while cats eliminate through urination.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

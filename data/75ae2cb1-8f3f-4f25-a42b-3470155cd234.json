@@ -1,0 +1,12 @@
+{
+  "id": "75ae2cb1-8f3f-4f25-a42b-3470155cd234",
+  "instruction": "Generate a single sentence that summarizes the effects of the given policy.",
+  "input": "Policy: Tax credits for businesses investing in renewable energy",
+  "output": "Tax credits for businesses investing in renewable energy have encouraged companies to shift to more sustainable energy sources, resulting in a decrease in emission levels and other environmental impacts.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

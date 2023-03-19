@@ -1,0 +1,12 @@
+{
+  "id": "3d5760d8-31da-44b5-80bd-c1f74710985f",
+  "instruction": "Is this sentence a question or an imperative?",
+  "input": "Turn up the thermostat",
+  "output": "Imperative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

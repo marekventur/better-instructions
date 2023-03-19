@@ -1,0 +1,12 @@
+{
+  "id": "00b3a4f7-42fb-4547-953b-d463b1d1bce3",
+  "instruction": "Edit the sentence: \"The lovely day spent by the lake.\"",
+  "input": "The lovely day spent by the lake.",
+  "output": "The beautiful day spent by the lake was a wonderful experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

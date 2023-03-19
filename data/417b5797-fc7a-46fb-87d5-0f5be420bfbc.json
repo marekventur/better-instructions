@@ -1,0 +1,12 @@
+{
+  "id": "417b5797-fc7a-46fb-87d5-0f5be420bfbc",
+  "instruction": "Take the given number and write a multiplication equation using consecutive numbers",
+  "input": "14",
+  "output": "7 x 8 = 14",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

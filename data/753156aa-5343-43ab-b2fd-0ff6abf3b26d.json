@@ -1,0 +1,12 @@
+{
+  "id": "753156aa-5343-43ab-b2fd-0ff6abf3b26d",
+  "instruction": "Given a sample of text, identify all the nouns present.",
+  "input": "The majestic eagle flew fiercely across the sky.",
+  "output": "Nouns: eagle, sky.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

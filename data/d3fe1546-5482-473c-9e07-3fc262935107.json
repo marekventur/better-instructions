@@ -1,0 +1,12 @@
+{
+  "id": "d3fe1546-5482-473c-9e07-3fc262935107",
+  "instruction": "Transform the sentence: \"George needs to arrive at the airport by 7am\"",
+  "input": "<no input>",
+  "output": "George has to get to the airport by 7am.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

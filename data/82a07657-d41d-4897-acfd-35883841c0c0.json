@@ -1,0 +1,12 @@
+{
+  "id": "82a07657-d41d-4897-acfd-35883841c0c0",
+  "instruction": "Convert the message into a secret code.",
+  "input": "The meeting has been moved to 10 o'clock",
+  "output": "th3 m33ting h4s b33n m0vd 70 10 0'cl0ck",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

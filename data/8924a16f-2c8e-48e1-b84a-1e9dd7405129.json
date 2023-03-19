@@ -1,0 +1,12 @@
+{
+  "id": "8924a16f-2c8e-48e1-b84a-1e9dd7405129",
+  "instruction": "Classify the following sentence according to its part of speech: \"The bright moon shined above the sea.\"",
+  "input": "",
+  "output": "The - article \nbright - adjective \nmoon - noun \nshined - verb \nabove - preposition \nthe - article \nsea - noun",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

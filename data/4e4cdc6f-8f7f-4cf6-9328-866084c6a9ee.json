@@ -1,0 +1,12 @@
+{
+  "id": "4e4cdc6f-8f7f-4cf6-9328-866084c6a9ee",
+  "instruction": "Generate an appropriate reply when a client cancels an appointment",
+  "input": "",
+  "output": "We're sorry to see that you have decided to cancel your appointment. Please let us know if there is anything we can do to change your mind. We hope to have the opportunity to serve you at another time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

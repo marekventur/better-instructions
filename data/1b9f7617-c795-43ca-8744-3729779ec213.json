@@ -1,0 +1,12 @@
+{
+  "id": "1b9f7617-c795-43ca-8744-3729779ec213",
+  "instruction": "Construct a query to find all the records in a given database that match a certain criteria.",
+  "input": "table name: users; criteria: status = \"active\"",
+  "output": "SELECT * FROM users WHERE status = 'active';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

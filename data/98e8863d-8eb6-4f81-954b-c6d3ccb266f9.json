@@ -1,0 +1,12 @@
+{
+  "id": "98e8863d-8eb6-4f81-954b-c6d3ccb266f9",
+  "instruction": "Analyze the given poem and explain why the poet chose certain words or metaphors.",
+  "input": "The waves curl gently like a mother's hand",
+  "output": "The poet chose this metaphor to express the caring and protective nature of the ocean. The gentle curling of the waves, like the mother's hand cradling a child, evokes a sense of safety and tenderness. The metaphor conveys both the power and the calming presence of the ocean at the same time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

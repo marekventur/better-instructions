@@ -1,0 +1,12 @@
+{
+  "id": "047a136d-e37c-48f3-adda-10c6d509e9f6",
+  "instruction": "Delete words to make a concise sentence without changing its meaning.",
+  "input": "I wanted to find a way to make my life simpler and easier.",
+  "output": "I wanted to simplify my life.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2f4bb07e-fc0b-4044-a44b-9846bf3dcc12",
+  "instruction": "Describe a data structure that is suitable for storing a large set of integers.",
+  "input": "",
+  "output": "A hash table would be an appropriate data structure for storing a large set of integers. A hash table is a data structure that utilizes key/value pairs and allows for O(1) lookup time. A hash table is also space efficient, so it is capable of storing a large number of items without taking up too much space. Its quick lookup time and efficient storage make it an ideal data structure for storing large sets of integers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

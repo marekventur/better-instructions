@@ -1,0 +1,12 @@
+{
+  "id": "e5c14286-8303-4546-a984-1f64500275e8",
+  "instruction": "Create an animal sound dictionary.",
+  "input": "",
+  "output": "Dog: Bark\nCat: Meow\nCow: Moo\nDonkey: Hee-Haw\nHorse: Neigh \nSheep: Baa\nDuck: Quack\nGoose: Honk\nCrow: Caw\nFrog: Ribbit\nelephant: Trumpet\nmonkey: Chatter",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

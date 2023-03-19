@@ -1,0 +1,12 @@
+{
+  "id": "6850c1fb-d5f9-4d15-bacb-5023175cc30c",
+  "instruction": "Write five lines of dialogue based on the given scenario.",
+  "input": "Two friends catching up at a caf\u00e9",
+  "output": "Friend 1: Long time no see! How have you been? \nFriend 2: Pretty good, it's nice to see you again. How about you? \nFriend 1: I'm doing well! It's great to finally get to catch up with you. \nFriend 2: Yeah, it's been a while. What have you been up to lately? \nFriend 1: Oh, just the usual. Working and chilling at home. What about you?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

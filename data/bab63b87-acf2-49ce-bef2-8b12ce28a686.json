@@ -1,0 +1,12 @@
+{
+  "id": "bab63b87-acf2-49ce-bef2-8b12ce28a686",
+  "instruction": "Generate a list of 5 questions to ask a user when they first sign up for an online service.",
+  "input": "",
+  "output": "1. What is your name?\n2. What is your email address? \n3. What is your preferred username? \n4. What is your age? \n5. What country are you from?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

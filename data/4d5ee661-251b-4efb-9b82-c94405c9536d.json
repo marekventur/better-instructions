@@ -1,0 +1,12 @@
+{
+  "id": "4d5ee661-251b-4efb-9b82-c94405c9536d",
+  "instruction": "Given a sentence, break it down into its syntactic components such as noun phrase, verb phrase, and noun phrase.",
+  "input": "John saw the big dog bark.",
+  "output": "Noun Phrase: John, the big dog \nVerb Phrase: saw, bark \nAdjective Phrase: big",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

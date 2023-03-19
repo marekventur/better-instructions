@@ -1,0 +1,12 @@
+{
+  "id": "40afcc20-3f81-4824-8846-a7ada159a6b4",
+  "instruction": "Compare and contrast the features of two different ML algorithms",
+  "input": "K-means clustering and Decision Tree",
+  "output": "K-means clustering is a form of unsupervised learning which uses a dataset and finds structures or clusters in it. It works by making clusters with the groups of data that are most similar based on the features of the dataset. Decision trees are used in supervised learning and they build a decision tree by making decisions based on certain features. They work by going through a series of questions until the outcome is defined. Decision trees can be used for classification tasks while K-means clustering is suited for clustering tasks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

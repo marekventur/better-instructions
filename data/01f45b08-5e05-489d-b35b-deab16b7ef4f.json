@@ -1,0 +1,12 @@
+{
+  "id": "01f45b08-5e05-489d-b35b-deab16b7ef4f",
+  "instruction": "Calculate the total cost.",
+  "input": "There are 6 items with the cost of 4.95 each.",
+  "output": "The total cost is 6 x 4.95 = 29.70.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a8f400ad-5e39-4b28-a07f-eca06270e1f5",
+  "instruction": "Categorize the following sentence: \"The teacher wrote on the board.\"",
+  "input": "",
+  "output": "Verb: wrote\nNoun: teacher, board.\nObject: board.\nAction: writing.\nSetting: classroom.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

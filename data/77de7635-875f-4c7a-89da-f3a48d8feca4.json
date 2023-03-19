@@ -1,0 +1,12 @@
+{
+  "id": "77de7635-875f-4c7a-89da-f3a48d8feca4",
+  "instruction": "Construct a database table that stores user profiles.",
+  "input": "",
+  "output": "CREATE TABLE users(\n    id INT NOT NULL AUTO_INCREMENT,\n    name VARCHAR(255) NOT NULL,\n    email VARCHAR(255) NOT NULL,\n    age INT NOT NULL,\n    gender VARCHAR(255) NULL,\n    country VARCHAR(255) NULL,\n    phone_number VARCHAR(20) NULL,\n    PRIMARY KEY (id)\n);",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

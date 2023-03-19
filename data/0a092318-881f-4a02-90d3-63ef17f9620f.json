@@ -1,0 +1,12 @@
+{
+  "id": "0a092318-881f-4a02-90d3-63ef17f9620f",
+  "instruction": "Describe what an antivirus does.",
+  "input": "",
+  "output": "An antivirus is a type of software that scans a computer's files and data for malicious software (malware), such as computer viruses, worms, Trojan horses, spyware, ransomware, and other potentially harmful programs. The antivirus then attempts to quarantine or delete the infected files, as well as alert the user of the threat.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

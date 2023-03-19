@@ -1,0 +1,12 @@
+{
+  "id": "ba16c96c-2528-4aae-832a-ccbc6bb963a6",
+  "instruction": "Create four true-false statements about the given topic.",
+  "input": "General Data Protection Regulations (GDPR)",
+  "output": "1. The General Data Protection Regulations (GDPR) applies to all companies in the EU. (True) \n2. The GDPR requires companies to employ a Data Protection Officer (DPO). (False)\n3. All companies must present the data subject's right to access, correct, delete and transfer their own data. (True)\n4. The GDPR allows the processing of data without the consent of the data subject. (False)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

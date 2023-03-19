@@ -1,0 +1,12 @@
+{
+  "id": "aa6e3e6a-305b-48de-a74c-2039236ed69c",
+  "instruction": "Is the following equation true?",
+  "input": "3 + 3 = 7",
+  "output": "No.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

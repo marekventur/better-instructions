@@ -1,0 +1,12 @@
+{
+  "id": "ff6ca0a0-471c-4811-8d98-001276efaf92",
+  "instruction": "Redact the text in the input with 5 black boxes.\nInput:\nPrivate medical information should not be shared widely.",
+  "input": "Private medical information should not be shared widely.",
+  "output": ".........................",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

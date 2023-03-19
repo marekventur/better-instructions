@@ -1,0 +1,12 @@
+{
+  "id": "94cdb124-e5f6-4d93-b97e-5e67105cb91f",
+  "instruction": "Write a function that takes two strings and returns True if one is a substring of the other.",
+  "input": "\"Hello\" and \"World\"",
+  "output": "def is_substring(s1, s2): \n    if s1 in s2 or s2 in s1: \n        return True\n    else: \n        return False",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

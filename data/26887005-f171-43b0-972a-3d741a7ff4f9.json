@@ -1,0 +1,12 @@
+{
+  "id": "26887005-f171-43b0-972a-3d741a7ff4f9",
+  "instruction": "Recognize the phrase in quotes as a idiom.",
+  "input": "Hold your horses.",
+  "output": "This is an idiom which means to wait and think before you act.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

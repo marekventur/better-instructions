@@ -1,0 +1,12 @@
+{
+  "id": "cf28c8af-f197-4ecb-89aa-6404e0902d24",
+  "instruction": "Describe the function and output of the following code:",
+  "input": "def fizz_buzz(n):\n    for i in range(1, n+1):\n        if i % 3 == 0 and i % 5 == 0:\n            print(\"FizzBuzz\")\n        elif i % 3 == 0:\n            print(\"Fizz\")\n        elif i % 5 == 0:\n            print(\"Buzz\")\n        else:\n            print(i)",
+  "output": "The function 'fizz_buzz' takes in a number n as the input and prints out all numbers from 1 to n, but when a number is a multiple of 3, it prints \"Fizz\"; when the number is a multiple of 5, it prints \"Buzz\"; when the number is both a multiple of 3 and 5, it prints \"FizzBuzz\". The output of this code would be a sequence of numbers from 1 to n with the substitution according to the criteria described above. For example, if n = 15, the output would be 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

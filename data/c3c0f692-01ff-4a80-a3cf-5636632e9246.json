@@ -1,0 +1,12 @@
+{
+  "id": "c3c0f692-01ff-4a80-a3cf-5636632e9246",
+  "instruction": "Analyze the given example sentence and determine if the verb is active or passive.",
+  "input": "The cat was chased by the dog.",
+  "output": "The verb \"was chased\" is in the passive voice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2fba094b-d570-443e-b071-98cb80f1fba7",
+  "instruction": "Summarize the pros and cons of a particular blogging platform.",
+  "input": "Platform: WordPress",
+  "output": "WordPress is a popular blogging platform, used by millions of people around the world. It has a range of advantages, including its ease of use, its wide range of free and premium themes, and its flexibility when it comes to customizing and adding features. Additionally, it is supported by a wide range of third-party services and plugins which make it easy to extend its capabilities. \n\nHowever, there are some drawbacks to using WordPress, such as its lack of security features and the frequent need to update it. Additionally, the platform can be slow on certain types of hosting. Finally, due to its popularity, it is a common target for hackers, making it important to install security features such as an SSL certificate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

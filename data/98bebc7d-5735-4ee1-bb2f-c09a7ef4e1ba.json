@@ -1,0 +1,12 @@
+{
+  "id": "98bebc7d-5735-4ee1-bb2f-c09a7ef4e1ba",
+  "instruction": "Given a sentence and an adjective, replace the adjective in the sentence with the given adjective and output the sentence.",
+  "input": "She lives in a old house.\nAdjective: modern",
+  "output": "She lives in a modern house.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

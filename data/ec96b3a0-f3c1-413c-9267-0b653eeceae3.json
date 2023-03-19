@@ -1,0 +1,12 @@
+{
+  "id": "ec96b3a0-f3c1-413c-9267-0b653eeceae3",
+  "instruction": "Generate a set of instructions for a task requiring the assistant to compile a list of all known facts about a given issue.",
+  "input": "",
+  "output": "Step 1: Research the issue you are given and make sure you have a clear and robust understanding of it.\nStep 2: Gather all existing data and resources related to the issue.\nStep 3: Extract all known facts from the gathered information and compile them in a list.\nStep 4: Categorize the facts according to their relevance and importance.\nStep 5: Check and review the list of facts to make sure that they are all accurate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

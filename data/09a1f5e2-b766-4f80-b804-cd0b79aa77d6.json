@@ -1,0 +1,12 @@
+{
+  "id": "09a1f5e2-b766-4f80-b804-cd0b79aa77d6",
+  "instruction": "What is the main challenge with using deep learning for natural language processing?",
+  "input": "",
+  "output": "The main challenge with using deep learning for natural language processing is that it requires a large amount of labeled data in order to train the models, which can be expensive and time-consuming to acquire. Additionally, deep learning models can be prone to overfitting, meaning they may be able to achieve high accuracy on the training set but then perform poorly on unseen data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

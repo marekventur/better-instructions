@@ -1,0 +1,12 @@
+{
+  "id": "44f19fe8-b858-4d45-82e2-0b52fa20a63d",
+  "instruction": "Sort the following words into two groups according to their meaning: chat, whisper, shout",
+  "input": "chat, whisper, shout",
+  "output": "Soft Sounds: Whisper, Chat\nLoud Sounds: Shout",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

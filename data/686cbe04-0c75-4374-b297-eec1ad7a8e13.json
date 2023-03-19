@@ -1,0 +1,12 @@
+{
+  "id": "686cbe04-0c75-4374-b297-eec1ad7a8e13",
+  "instruction": "Rewrite this sentence using the third person point of view.",
+  "input": "I went to the store.",
+  "output": "He/She went to the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f2bbfef5-78fd-4ff4-92da-344c6895f578",
+  "instruction": "Generate an English sentence for the given French words.",
+  "input": "le th\u00e9",
+  "output": "I'm drinking a cup of tea.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

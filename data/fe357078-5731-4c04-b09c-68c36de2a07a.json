@@ -1,0 +1,12 @@
+{
+  "id": "fe357078-5731-4c04-b09c-68c36de2a07a",
+  "instruction": "Identify the different types of input using the following sentence.",
+  "input": "The robot used a video camera for input.",
+  "output": "The type of input in this sentence is visual.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

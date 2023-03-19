@@ -1,0 +1,12 @@
+{
+  "id": "49539333-f3c8-4854-b21b-c7c9dab468ee",
+  "instruction": "Given the following text, detect any spelling errors and correct them.",
+  "input": "I recieved a new phone yesterday",
+  "output": "I received a new phone yesterday",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d6c6c6dc-7918-4cd7-a18b-4dea3f20f8b2",
+  "instruction": "Translate the 1000-word paragraph in French.",
+  "input": "This is a 1000-word paragraph in English.",
+  "output": "Ceci est un paragraphe de 1000 mots en anglais.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

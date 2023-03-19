@@ -1,0 +1,12 @@
+{
+  "id": "a5f5edbd-a134-4c06-a2ab-f8e3c7083b96",
+  "instruction": "Identify the difference between statistical modeling and machine learning.",
+  "input": "",
+  "output": "The main difference between statistical modeling and machine learning is that statistical modeling is based on manual feature engineering, while machine learning is focused on automated feature engineering. In addition, statistical models are typically reliant on assumptions that are imported by a human, while machine learning emphasizes learning from data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

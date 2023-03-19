@@ -1,0 +1,12 @@
+{
+  "id": "9e97c772-0433-43bc-965d-5eb44b2d46e7",
+  "instruction": "Given a list of people, make a decision about who should be invited to the conference.",
+  "input": "John, Bob, Sarah, Alice",
+  "output": "John, Bob, Sarah, and Alice should be invited to the conference.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

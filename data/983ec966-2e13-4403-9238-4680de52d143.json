@@ -1,0 +1,12 @@
+{
+  "id": "983ec966-2e13-4403-9238-4680de52d143",
+  "instruction": "Create a function which can compress a string of text.",
+  "input": "String of text: \"This is a random string. It has no purpose other than to test this function.\"",
+  "output": "def compress_string(string):\n    \"\"\"Compresses a string of text by replacing repeated characters with a single character and a count\"\"\"\n    \n    compressed_string = \"\"\n    current_char = string[0]\n    count = 1\n    for char in string[1:]:\n        if char == current_char: # If the character is a repeat\n            count += 1\n        else: # If the character is not a repeat\n            compressed_string += current_char + str(count)\n            current_char = char\n            count = 1\n    # Add the last set of repeated characters\n    compressed_string += current_char + str(count)\n    return compressed_string\n\ncompress_string(\"This is a random string. It has no purpose other than to test this function.\")\n\"T1h1i1s1 1i1s1 1a1 1r1a1n1d1o1m1 1s1t1r1i1n1g1.1 1I1t1 1h1a1s1 1n1o1 1p1u1r1p1o1s1e1 1o1t1h1e1r1 1t1h1a1n1 1t1o1 1t1e1s1t1 1t1h1s1 1f1u1n1c1t1i1o1n1.1\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

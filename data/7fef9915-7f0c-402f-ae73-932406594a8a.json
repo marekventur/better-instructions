@@ -1,0 +1,12 @@
+{
+  "id": "7fef9915-7f0c-402f-ae73-932406594a8a",
+  "instruction": "Construct a function that sorts a given array of numbers in descending order.",
+  "input": "[4, 8, 2, 3, 0, 10]",
+  "output": "def descending_sort(arr):\n    arr.sort(reverse = True)\n    return arr",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

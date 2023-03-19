@@ -1,0 +1,12 @@
+{
+  "id": "262044f7-094d-42d1-9f64-1da78463f6f5",
+  "instruction": "Assign an integer value between 1 and 10 according to the given statement.",
+  "input": "The accuracy of the result is fair.",
+  "output": "6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

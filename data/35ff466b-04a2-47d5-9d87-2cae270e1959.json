@@ -1,0 +1,12 @@
+{
+  "id": "35ff466b-04a2-47d5-9d87-2cae270e1959",
+  "instruction": "Create a quiz question and answer.",
+  "input": "Topic: World War II",
+  "output": "Question: Which country was the first to declare war on Nazi Germany?\nAnswer: The United Kingdom was the first to declare war on Nazi Germany on September 3rd, 1939.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

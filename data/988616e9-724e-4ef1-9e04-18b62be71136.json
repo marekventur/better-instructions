@@ -1,0 +1,12 @@
+{
+  "id": "988616e9-724e-4ef1-9e04-18b62be71136",
+  "instruction": "Identify the closest matching words for each given word.",
+  "input": "Word 1: Play \nWord 2: Laugh",
+  "output": "The closest matching words for the given words are \"act\" for \"play\" and \"giggle\" for \"laugh\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

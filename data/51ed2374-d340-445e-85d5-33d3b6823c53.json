@@ -1,0 +1,12 @@
+{
+  "id": "51ed2374-d340-445e-85d5-33d3b6823c53",
+  "instruction": "Given a list of cities, determine the closest one to the equator.",
+  "input": "Madrid, Cairo, Beijing, Tokyo",
+  "output": "Cairo.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ea784b8d-1cf3-4141-8bda-0d47e55106a7",
+  "instruction": "Find the salary of a given job in a given city.",
+  "input": "Job title = Software engineer \nCity = Seattle",
+  "output": "The median salary for a software engineer in Seattle is $118,323.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

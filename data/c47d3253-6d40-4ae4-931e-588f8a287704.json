@@ -1,0 +1,12 @@
+{
+  "id": "c47d3253-6d40-4ae4-931e-588f8a287704",
+  "instruction": "Describe a movie using this quote.",
+  "input": "\"The only way to have a friend is to be one.\"",
+  "output": "This quote encapsulates the theme of a dramatic comedy about friendship. It tells the story of two best friends who must figure out how to maintain their bond during difficult times. As they navigate through life, they realize that being a good friend involves understanding and accepting each other, as well as fostering well-meaning trust. With touching moments and humorous dialogue, this movie reminds us of the value of being a true friend amidst trying circumstances.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

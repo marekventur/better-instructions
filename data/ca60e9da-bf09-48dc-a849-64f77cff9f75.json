@@ -1,0 +1,12 @@
+{
+  "id": "ca60e9da-bf09-48dc-a849-64f77cff9f75",
+  "instruction": "Explain the difference between a relational database and a non-relational database.",
+  "input": "",
+  "output": "A relational database is a type of database that models data as tables of related information with rows and columns. It uses Structured Query Language (SQL) to manipulate data and establish relationships between tables. A non-relational database, or NoSQL database, is a type of database that models data as documents, instead of tables, and stores it in a non-tabular format. It is designed to be more flexible and scalable than a relational database.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

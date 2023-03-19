@@ -1,0 +1,12 @@
+{
+  "id": "105a81b9-5b8d-42b1-a47f-d880d0e2328e",
+  "instruction": "Take the following data and classify whether it refers to a healthy or unhealthy meal.",
+  "input": "Fried chicken, fries, and a coke",
+  "output": "Unhealthy",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "eebaea2d-f4b1-4f19-b620-d54e9f600f64",
+  "instruction": "Find the main argument for the following article.",
+  "input": "https://www.nytimes.com/2020/07/02/opinion/sunday/police-reform-defund.html",
+  "output": "The main argument of the article is that police reform is not enough - the only way to address systemic injustices in policing is to defund police departments and put that money toward resources that better benefit a community.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

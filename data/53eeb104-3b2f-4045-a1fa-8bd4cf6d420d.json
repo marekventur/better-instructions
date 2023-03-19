@@ -1,0 +1,12 @@
+{
+  "id": "53eeb104-3b2f-4045-a1fa-8bd4cf6d420d",
+  "instruction": "Given a sentence, restructure it to indicate the passive voice.",
+  "input": "He asked her to leave.",
+  "output": "She was asked to leave by him.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

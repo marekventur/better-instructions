@@ -1,0 +1,12 @@
+{
+  "id": "b1162ff5-9d59-4108-901d-658757aacf14",
+  "instruction": "Classify the following sentence: \u201cI have a lot of work to do.\u201d",
+  "input": "",
+  "output": "The sentence \u201cI have a lot of work to do.\u201d describes a state of busyness.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d5c63f9e-38e7-4522-b94e-1bb843096c77",
+  "instruction": "Insert a transition word into the following sentence.",
+  "input": "We were late for the meeting the traffic was terrible.",
+  "output": "We were late for the meeting, since the traffic was terrible.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

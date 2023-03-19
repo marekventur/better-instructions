@@ -1,0 +1,12 @@
+{
+  "id": "b830322c-7521-440a-856a-aea3575396b5",
+  "instruction": "Calculate the amount of money John paid for the books.",
+  "input": "John bought 8 classic books. Each book cost $7.45.",
+  "output": "John paid a total of $59.60 for the 8 books ($7.45 x 8 = $59.60).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

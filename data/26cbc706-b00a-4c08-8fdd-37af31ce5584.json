@@ -1,0 +1,12 @@
+{
+  "id": "26cbc706-b00a-4c08-8fdd-37af31ce5584",
+  "instruction": "Compose a signup form for a newsletter.",
+  "input": "",
+  "output": "Welcome to our newsletter! Please sign up to stay up to date with our news and promotions.\n \nName: \nEmail: \nCountry: \nAge (optional):",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "12db7ee3-5915-4121-b611-96edbb7f933b",
+  "instruction": "Partition this list of numbers into 3 equal parts: 1, 2, 3, 4, 5, 6, 7",
+  "input": "",
+  "output": "Part one: 1 2 3, Part two: 4 5 6, Part three: 7.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

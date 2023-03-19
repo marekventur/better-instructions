@@ -1,0 +1,12 @@
+{
+  "id": "a32da559-9d2b-4c74-b4db-e34b82142d33",
+  "instruction": "Find and replace the incorrect word in the following sentence:",
+  "input": "I taking a class on web designing.",
+  "output": "I am taking a class on web designing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

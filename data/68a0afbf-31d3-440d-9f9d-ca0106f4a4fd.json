@@ -1,0 +1,12 @@
+{
+  "id": "68a0afbf-31d3-440d-9f9d-ca0106f4a4fd",
+  "instruction": "Suppose you are given a large collection of text. Generate a 3-word summary of the text collection.",
+  "input": "Depression has adverse effects on the mental and physical health of a person.",
+  "output": "Mental health issue.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

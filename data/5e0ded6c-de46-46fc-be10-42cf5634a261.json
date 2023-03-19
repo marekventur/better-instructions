@@ -1,0 +1,12 @@
+{
+  "id": "5e0ded6c-de46-46fc-be10-42cf5634a261",
+  "instruction": "Which two shapes make a right angle triangle?",
+  "input": "",
+  "output": "A right angle triangle can be formed with two sides of different lengths and a 90 degree angle. This means that any triangle with a side length of 3, 4, and 5 (which forms a 90 degree angle) will be a right angle triangle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

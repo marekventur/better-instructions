@@ -1,0 +1,12 @@
+{
+  "id": "92b063b3-a4e5-4088-a63c-8f3de02d5077",
+  "instruction": "Analyze this statement, and tell me if it is logically sound or not.",
+  "input": "My father is the best father in the world.",
+  "output": "This statement is not logically sound because it cannot be proven or disproved. It is a subjective statement that depends on each person's opinion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

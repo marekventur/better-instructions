@@ -1,0 +1,12 @@
+{
+  "id": "68f26a12-3929-4052-9e4b-42a580c51c6d",
+  "instruction": "Document the following algorithm into pseudo-code.",
+  "input": "1. Start\n2. Read in a list of numbers\n3. Calculate the sum of all the numbers\n4. Print out the result\n5. End",
+  "output": "Start\nfor each number in list\n   add number to sum\nend for\nprint sum\nEnd",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

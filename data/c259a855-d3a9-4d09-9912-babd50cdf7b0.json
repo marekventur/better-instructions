@@ -1,0 +1,12 @@
+{
+  "id": "c259a855-d3a9-4d09-9912-babd50cdf7b0",
+  "instruction": "Given the product description, write a convincing elevator pitch for the product.",
+  "input": "This product is a computer service that helps you manage and store your files in the cloud for easy access.",
+  "output": "This product is designed to help you streamline your file management process and make it more efficient. By utilizing the cloud, our computer service helps you store and access your digital files in an organized way, anytime and from anywhere. With a single click, you can access all your files with the utmost ease and convenience. Get rid of your cluttered files and simplify your life!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

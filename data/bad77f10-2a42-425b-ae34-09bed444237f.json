@@ -1,0 +1,12 @@
+{
+  "id": "bad77f10-2a42-425b-ae34-09bed444237f",
+  "instruction": "Analyze a given text and tell how the author's feelings are communicated.",
+  "input": "The sun peeked through the clouds, and the birds sang out loud.",
+  "output": "The author is conveying a feeling of optimism, as the sun is associated with hope and joy, and the birds signify happiness. The author may also be implying that the difficult times have passed, as indicated by the sun peeking through the clouds.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

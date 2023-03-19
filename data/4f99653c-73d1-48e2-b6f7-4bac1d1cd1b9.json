@@ -1,0 +1,12 @@
+{
+  "id": "4f99653c-73d1-48e2-b6f7-4bac1d1cd1b9",
+  "instruction": "Return the following sentence with the words in reverse order.",
+  "input": "I always keep trying",
+  "output": "Trying keep always I",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

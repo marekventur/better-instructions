@@ -1,0 +1,12 @@
+{
+  "id": "53141924-ac69-4ae7-9fb2-3ae29f3ac4fe",
+  "instruction": "Create an encryption key and decipher this message.",
+  "input": "Kjgk yhjy yudt trgf",
+  "output": "Encryption Key: ABCDEFGHIJKLMNOPQRSTUVWXYZ\nDeciphered Message: Hello World!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

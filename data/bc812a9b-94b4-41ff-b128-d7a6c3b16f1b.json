@@ -1,0 +1,12 @@
+{
+  "id": "bc812a9b-94b4-41ff-b128-d7a6c3b16f1b",
+  "instruction": "Given a pair of numbers, generate an equation that will produce an output as close to 50 as possible.",
+  "input": "5 and 8",
+  "output": "5 x 8 = 40, so the equation would be (5 x 8) + 10 = 50.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

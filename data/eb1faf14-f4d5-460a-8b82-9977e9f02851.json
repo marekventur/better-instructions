@@ -1,0 +1,12 @@
+{
+  "id": "eb1faf14-f4d5-460a-8b82-9977e9f02851",
+  "instruction": "Process the following restaurant review and classify it in terms of quality and output the value in a number from 1 to 5.",
+  "input": "This restaurant had great food but terrible service.",
+  "output": "3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c7964c83-d0eb-4779-88bf-db97b55f414a",
+  "instruction": "Transform this sentence into \u201cif-then\u201d statements",
+  "input": "Animals depend on humans for survival",
+  "output": "If animals exist, then humans must be present for them to survive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

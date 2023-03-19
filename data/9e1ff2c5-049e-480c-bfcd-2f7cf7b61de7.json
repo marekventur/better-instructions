@@ -1,0 +1,12 @@
+{
+  "id": "9e1ff2c5-049e-480c-bfcd-2f7cf7b61de7",
+  "instruction": "Edit this sentence to make sure verbs agree with the subject.",
+  "input": "The actors both has their lines memorized.",
+  "output": "The actors both have their lines memorized.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a0dce339-5f12-4d0a-a35e-efadc5113e2b",
+  "instruction": "Write a 50-word summary about the following blog article:",
+  "input": "https://www.nytimes.com/2018/04/12/books/review/sapiens-a-graphic-novel.html",
+  "output": "Sapiens: A Graphic Novel, by Yuval Noah Harari, is an adaptation of his international bestseller of the same name. The graphic novel simplifies complex topics in an accessible way to present the massive expanse of our human history and evolutionary journey. It is visually stunning, humorous, and informative, giving readers a unique understanding of the biological, cultural and technological forces that have shaped the world we live in today.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

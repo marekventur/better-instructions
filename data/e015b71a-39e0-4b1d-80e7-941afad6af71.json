@@ -1,0 +1,12 @@
+{
+  "id": "e015b71a-39e0-4b1d-80e7-941afad6af71",
+  "instruction": "Generate 5 questions from the following essay.",
+  "input": "The pandemic has created a wave of unprecedented challenges for us as a global community, from a medical crisis and health risks to economic and social impacts.",
+  "output": "1. What are the medical, economic and social impacts of the pandemic?\n2. How has the pandemic created unprecedented challenges for global communities?\n3. What steps can be taken to enable citizens to cope with the pandemic?\n4. How can governments and global organizations work together to combat the pandemic?\n5. What can we do to help each other deal with the consequences of the pandemic?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

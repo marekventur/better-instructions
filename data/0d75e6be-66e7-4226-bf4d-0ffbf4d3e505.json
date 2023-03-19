@@ -1,0 +1,12 @@
+{
+  "id": "0d75e6be-66e7-4226-bf4d-0ffbf4d3e505",
+  "instruction": "Categorize the following data points.",
+  "input": "Lion, Tiger, Leopard",
+  "output": "Mammals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "500c7c45-e7c8-4450-864d-0a0d148433f5",
+  "instruction": "Look through the following list of names and detect which ones are not real people.",
+  "input": "Julie Jones, Victor Johnson, Terrence Smith, Michelangelo Pickle, Shana Washington",
+  "output": "Michelangelo Pickle is not a real person.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

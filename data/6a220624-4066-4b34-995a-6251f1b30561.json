@@ -1,0 +1,12 @@
+{
+  "id": "6a220624-4066-4b34-995a-6251f1b30561",
+  "instruction": "What is an abstract data type?",
+  "input": "",
+  "output": "An abstract data type (ADT) is a type of data structure that specifies a set of operations that can act upon a specific data set. In some ways it is similar to a structured data type, but it does not define a particular implementation, instead abstracting away the details and allowing for the possibility of different implementations. ADT does, however, require that all implementations of the same type of data abide by the same rules and regulations. Examples of Abstract Data Types include sets, queues, and binary trees.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

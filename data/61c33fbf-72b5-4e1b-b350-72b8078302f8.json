@@ -1,0 +1,12 @@
+{
+  "id": "61c33fbf-72b5-4e1b-b350-72b8078302f8",
+  "instruction": "Given the following user query \"how much does a gallon of milk cost\", list 3 phrases that could be used to provide an answer.",
+  "input": "",
+  "output": "- The average price of a gallon of milk is ___. \n- A gallon of milk costs approximately ___.\n- A gallon of milk will set you back around ___.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

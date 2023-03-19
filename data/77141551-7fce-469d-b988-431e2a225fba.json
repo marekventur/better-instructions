@@ -1,0 +1,12 @@
+{
+  "id": "77141551-7fce-469d-b988-431e2a225fba",
+  "instruction": "Rewrite the code so that it is more efficient.",
+  "input": "for i in range(10):\n    x += 1",
+  "output": "x = 0\n\nfor i in range(10):\n    x += 1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

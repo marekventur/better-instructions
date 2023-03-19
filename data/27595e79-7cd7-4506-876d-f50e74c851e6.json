@@ -1,0 +1,12 @@
+{
+  "id": "27595e79-7cd7-4506-876d-f50e74c851e6",
+  "instruction": "Name three types of network security protocols.",
+  "input": "",
+  "output": "Three types of network security protocols are Authentication Protocols, Encryption Protocols, and Access Control Protocols. Authentication protocols, such as Kerberos and NTLM, are used to establish the identity of the user attempting to connect to the network. Encryption protocols, such as IPsec and SSH, are used to protect data from unauthorized access, while access control protocols, such as RADIUS and TACACS, limit the access of various users to specific parts of the network.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

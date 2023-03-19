@@ -1,0 +1,12 @@
+{
+  "id": "bf423ab1-5415-4a31-9c35-4b72a2c56dd1",
+  "instruction": "Edit the sentence so that it contains the adverb phrase \u201ccalmly and confidently\".",
+  "input": "She spoke to the crowd.",
+  "output": "She spoke calmly and confidently to the crowd.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

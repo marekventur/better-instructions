@@ -1,0 +1,12 @@
+{
+  "id": "baa9b751-3fe5-42ce-8b12-150d9c12cb86",
+  "instruction": "Choose the correct phrase based on the context.",
+  "input": "I am going to ____ a new car soon.\nA. bought \nB. buy",
+  "output": "B. buy",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

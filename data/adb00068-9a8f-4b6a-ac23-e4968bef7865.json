@@ -1,0 +1,12 @@
+{
+  "id": "adb00068-9a8f-4b6a-ac23-e4968bef7865",
+  "instruction": "Analyze the given quote and explain why it's meaningful.",
+  "input": "\"We can do no great things, only small things with great love.\" - Mother Teresa",
+  "output": "This quote by Mother Teresa is meaningful because it serves as an important reminder that we do not need to do extraordinary things to make the world a better place. We can choose to do simple acts of kindness with an open heart, and this love can have an immense impact on people's lives. In this way, we can all make a difference even in small ways.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

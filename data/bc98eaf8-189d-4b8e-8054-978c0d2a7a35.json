@@ -1,0 +1,12 @@
+{
+  "id": "bc98eaf8-189d-4b8e-8054-978c0d2a7a35",
+  "instruction": "Generate a list of questions to ask participants before a free web design workshop.",
+  "input": "",
+  "output": "- What prompted you to sign up for this free web design workshop?\n- What experience do you have with web design?\n- What are your primary goals for attending this workshop?\n- What do you hope to learn from this workshop?\n- What topics would you like to be covered in more detail?\n- Do you have any specific questions you would like to ask the instructor?\n- Are there any areas of web design that you are particularly interested in?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

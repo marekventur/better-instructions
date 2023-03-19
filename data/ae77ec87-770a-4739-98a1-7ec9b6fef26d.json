@@ -1,0 +1,12 @@
+{
+  "id": "ae77ec87-770a-4739-98a1-7ec9b6fef26d",
+  "instruction": "Summarize this text in your words.",
+  "input": "The Sphinx is a large sandstone sculpture in Giza, Egypt. It is the largest and most famous of all sphinx statues, known for its human head and lion body. It stands 73.5 m in height and 19.3 m in width.",
+  "output": "The Sphinx is a monumental sculpture located in Giza, Egypt. It features a head resembling a human and a body of a lion, standing at around 73.5 meters tall and 19.3 meters wide. It is the most famous of all sphinxes and one of the largest.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

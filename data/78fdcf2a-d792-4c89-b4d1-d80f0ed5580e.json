@@ -1,0 +1,12 @@
+{
+  "id": "78fdcf2a-d792-4c89-b4d1-d80f0ed5580e",
+  "instruction": "Search the internet and find a definition of \"recursion\".",
+  "input": "",
+  "output": "Recursion is a process in which a function calls itself repeatedly in order to solve a given problem. The original problem is divided into smaller subproblems and each subproblem is solved using the same function. Once the smaller problem is solved, the solution is combined and the full solution is derived.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

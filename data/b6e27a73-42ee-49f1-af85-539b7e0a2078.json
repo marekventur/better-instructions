@@ -1,0 +1,12 @@
+{
+  "id": "b6e27a73-42ee-49f1-af85-539b7e0a2078",
+  "instruction": "Sort the following animals in order from smallest to largest.",
+  "input": "Frog, Elephant, Giraffe, Cat",
+  "output": "Cat, Frog, Elephant, Giraffe",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

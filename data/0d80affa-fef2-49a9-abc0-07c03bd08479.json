@@ -1,0 +1,12 @@
+{
+  "id": "0d80affa-fef2-49a9-abc0-07c03bd08479",
+  "instruction": "Identify the verb in the sentence and tell the past form of it.",
+  "input": "He visits his cousin every weekend.",
+  "output": "Verb: visit, Past form: visited",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fc3cf7f4-8acb-4260-933d-69432dff52da",
+  "instruction": "Categorize the following weather into wet and dry seasons.",
+  "input": "Hot and humid summers",
+  "output": "Wet season",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

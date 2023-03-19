@@ -1,0 +1,12 @@
+{
+  "id": "f44a14db-9a2b-4e0b-9f47-6a2fe5cf347f",
+  "instruction": "Create a grocery list based on the ingredients mentioned below:",
+  "input": "flour, eggs, sugar, butter, parsley",
+  "output": "1. Flour\n2. Eggs\n3. Sugar\n4. Butter\n5. Parsley",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

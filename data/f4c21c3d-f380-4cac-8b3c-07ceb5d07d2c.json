@@ -1,0 +1,12 @@
+{
+  "id": "f4c21c3d-f380-4cac-8b3c-07ceb5d07d2c",
+  "instruction": "Identify the category of the following phrase Output 1 for food and 2 for animals.",
+  "input": "Serengeti",
+  "output": "2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

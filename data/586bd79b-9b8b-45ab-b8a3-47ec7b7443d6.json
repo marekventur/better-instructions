@@ -1,0 +1,12 @@
+{
+  "id": "586bd79b-9b8b-45ab-b8a3-47ec7b7443d6",
+  "instruction": "Convert the following Celsius temperature to Fahrenheit and round the answer to two decimal places.",
+  "input": "29\u00b0C",
+  "output": "84.2\u00b0F",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

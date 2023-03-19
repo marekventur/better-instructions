@@ -1,0 +1,12 @@
+{
+  "id": "ae562e22-6e62-4703-9e71-713ff1c5618c",
+  "instruction": "Classify the given input into one of the following categories: appliance, furniture, electronics.",
+  "input": "Ceiling fan",
+  "output": "electronics",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b5cdef82-6d11-4f0a-b61d-89c3cb51c3b9",
+  "instruction": "Write a script for a 30-second advertisement about a new product",
+  "input": "",
+  "output": "[FADE IN: A busy city street. A group of people are walking towards a store.]\n\n[CUT TO: Inside the store. A man is scanning the shelves, picking up products and examining them.]\n\n\n[SPEAKER: A vibrant female voice begins to narrate]\n\nIntroducing the new [PRODUCT NAME], the newest product to revolutionize the way you shop! [PRODUCT NAME] is an all-in-one solution that allows you to search for and compare prices on hundreds of thousands of products, helping you make informed purchasing decisions in a matter of minutes. [PRODUCT NAME] is easy to use and designed for maximum convenience. And with its sleek and intuitive design, you won\u2019t even know it\u2019s there.\n\n[FADE TO: A smiling customer, walking away from the store with a bag in their hand.]\n\n[SPEAKER: The narration continues]\n\nTry [PRODUCT NAME] today and see the difference.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

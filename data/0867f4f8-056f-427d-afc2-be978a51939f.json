@@ -1,0 +1,12 @@
+{
+  "id": "0867f4f8-056f-427d-afc2-be978a51939f",
+  "instruction": "State the purpose of feature engineering.",
+  "input": "",
+  "output": "The purpose of feature engineering is to create new features that are useful for a machine learning model in order to better understand the underlying data. By creating relevant features, a machine learning model can be applied to the data with greater accuracy. Feature engineering involves transforming existing features, extracting features from text data, or engineering features from other sources. All of these techniques are used to better represent the data and give the model more useful information.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

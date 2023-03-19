@@ -1,0 +1,12 @@
+{
+  "id": "bc008746-2f65-4a53-a6f8-f45dae2db643",
+  "instruction": "List three steps to train a GPT-3 model.",
+  "input": "",
+  "output": "1. Collect data from a suitable source and pre-process it to make it suitable for the GPT-3 model.\n2. Feed the data into GPT-3 model and tune the parameters to achieve the desired performance.\n3. Evaluate the model using metrics such as accuracy, precision, recall, and F1 scores.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

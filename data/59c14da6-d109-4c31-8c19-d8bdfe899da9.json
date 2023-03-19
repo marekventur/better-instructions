@@ -1,0 +1,12 @@
+{
+  "id": "59c14da6-d109-4c31-8c19-d8bdfe899da9",
+  "instruction": "Create a new recipe using spinach, tomatoes, bell peppers and quinoa.",
+  "input": "spinach, tomatoes, bell peppers, quinoa",
+  "output": "This recipe makes a savory and healthy entr\u00e9e. Start by saut\u00e9ing a chopped bell pepper and a diced tomato in olive oil. When the vegetables are softened and beginning to brown, add a cup of washed and drained quinoa, 2 cups of vegetable broth, and a large handful of spinach that\u2019s been rinsed and trimmed. Bring to a boil, reduce heat to low and simmer until the quinoa has absorbed the liquid, about 15-20 minutes. Transfer to a bowl and serve warm. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

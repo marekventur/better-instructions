@@ -1,0 +1,12 @@
+{
+  "id": "ca9bbbe5-7d1e-4a93-a701-54361a84b016",
+  "instruction": "After reading the given news article mention two main points that are highlighted in the given article.",
+  "input": "The article is about how companies are increasingly investing in carbon offset initiatives to meet their sustainability goals.",
+  "output": "Two main points highlighted in the article include: \n1. Companies are showing an increased focus on sustainability by investing in carbon offset initiatives. \n2. Carbon offset initiatives can help companies reduce their emissions and meet their sustainability goals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

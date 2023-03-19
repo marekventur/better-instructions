@@ -1,0 +1,12 @@
+{
+  "id": "5940d918-e069-4486-a4e6-7c617c972786",
+  "instruction": "Come up with a list of common problems in AI research.",
+  "input": "",
+  "output": "Common problems in AI research include: \n1. Unstable results due to lack of robustness.\n2. Overfitting caused by excessive data and complex models.\n3. Difficulty in replicating results due to data and algorithmic complexity.\n4. Lack of interpretability due to opaque models. \n5. Limited generalization performance due to data scarcity and domain shifts.\n6. Difficulty in capturing uncertainty due to lack of data.\n7. Efficiency issues due to lack of scalability.\n8. Difficulty in verifying and validating models.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

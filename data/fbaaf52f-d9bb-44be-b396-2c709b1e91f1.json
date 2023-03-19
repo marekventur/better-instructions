@@ -1,0 +1,12 @@
+{
+  "id": "fbaaf52f-d9bb-44be-b396-2c709b1e91f1",
+  "instruction": "Given a sentence, reduce the length of the sentence using proper grammar.",
+  "input": "She went to the store, which she had never been to before.",
+  "output": "She had never been to the store before.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

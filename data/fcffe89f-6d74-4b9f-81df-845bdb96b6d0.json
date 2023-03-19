@@ -1,0 +1,12 @@
+{
+  "id": "fcffe89f-6d74-4b9f-81df-845bdb96b6d0",
+  "instruction": "Provide the output of code that completes the given matrix with the sum of each row.",
+  "input": "matrix = [[1, 2, 3], \n          [2, 3, 4], \n          [3, 4, 5]]",
+  "output": "updated_matrix = [[6, 9, 12], \n                  [7, 11, 15], \n                  [9, 13, 18]]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

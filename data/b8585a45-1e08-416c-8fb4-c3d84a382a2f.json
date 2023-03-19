@@ -1,0 +1,12 @@
+{
+  "id": "b8585a45-1e08-416c-8fb4-c3d84a382a2f",
+  "instruction": "Given some information about a disease, explain what type of disease it is",
+  "input": "It is a contagious disease that can be caused by bacteria or viruses. Symptoms include fever, coughing, shortness of breath, and fatigue.",
+  "output": "This is likely a respiratory infection, which can be caused by either bacterial or viral pathogens. The most common symptoms of respiratory infections are fever, coughing, shortness of breath, and fatigue. These symptoms can vary depending on the severity of the infection, and some may require medical attention.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

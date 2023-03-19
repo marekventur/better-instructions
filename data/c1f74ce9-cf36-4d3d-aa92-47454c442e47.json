@@ -1,0 +1,12 @@
+{
+  "id": "c1f74ce9-cf36-4d3d-aa92-47454c442e47",
+  "instruction": "Reword the sentence and make it easier to understand.",
+  "input": "Sentence: \"The decrease in temperature started just before the sun came up.\"",
+  "output": "The temperature started to drop right before sunrise.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

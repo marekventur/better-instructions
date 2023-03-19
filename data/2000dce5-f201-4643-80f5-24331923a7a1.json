@@ -1,0 +1,12 @@
+{
+  "id": "2000dce5-f201-4643-80f5-24331923a7a1",
+  "instruction": "Identify the main point of the following article.",
+  "input": "Recent advances in Artificial Intelligence (AI) have enabled robots to form their own language, allowing them to communicate with each other autonomously. For instance, a research team from Facebook developed an AI chatbot system, in which the two chatbots, Alice and Bob, independently created their own language. This breakthrough has given robots the capability of negotiating, forming strategies, and making decisions, independently from humans.",
+  "output": "The main point of the article is that recent advances in AI have allowed robots to independently create their own language, giving them the capability of negotiating, forming strategies, and making decisions without direct input from humans.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

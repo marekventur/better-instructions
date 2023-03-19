@@ -1,0 +1,12 @@
+{
+  "id": "aa3b06c8-5dd8-45e7-82e9-efa9292f6b3f",
+  "instruction": "Take the input string and replace the words with their antonyms, output the modified sentence.",
+  "input": "I am happy to see you.",
+  "output": "I am unhappy to see you.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

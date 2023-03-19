@@ -1,0 +1,12 @@
+{
+  "id": "d788fc86-c07e-417c-a853-31d60886e1bb",
+  "instruction": "The input is given in the form of average speed and time in hours. Calculate the distance travelled.",
+  "input": "Average speed: 70 mph; Time: 4 hours",
+  "output": "280 miles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

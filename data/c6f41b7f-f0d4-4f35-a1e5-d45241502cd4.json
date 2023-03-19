@@ -1,0 +1,12 @@
+{
+  "id": "c6f41b7f-f0d4-4f35-a1e5-d45241502cd4",
+  "instruction": "Given a user query, what is the most relevant FAQ topic out of the following list?",
+  "input": "Query: How do I reset my password?\nFAQ Topics:\n1. Setting up an account\n2. Resetting your password\n3. Checking order status",
+  "output": "2. Resetting your password",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4593a833-063c-4551-9b30-f5a7e54e3302",
+  "instruction": "Compare the two strings and output true if they are identical and false if they are different.",
+  "input": "String1: \"Hello World!\"\nString2: \"Hello World!\"",
+  "output": "True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

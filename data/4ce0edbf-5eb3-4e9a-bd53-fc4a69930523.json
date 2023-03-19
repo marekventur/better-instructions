@@ -1,0 +1,12 @@
+{
+  "id": "4ce0edbf-5eb3-4e9a-bd53-fc4a69930523",
+  "instruction": "Find the sentiment associated with the following statement.",
+  "input": "I am so excited to go on vacation!",
+  "output": "The sentiment associated with the statement is positive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

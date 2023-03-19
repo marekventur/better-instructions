@@ -1,0 +1,12 @@
+{
+  "id": "c4707ee8-448f-4d96-8e9a-7f760466adbf",
+  "instruction": "What is the weather forecast for tomorrow?",
+  "input": "No input.",
+  "output": "Tomorrow's forecast is for mostly sunny skies with a high of 73 degrees Fahrenheit and a low of 43 degrees Fahrenheit. There is a chance of light thunderstorms in the late afternoon after 3 pm. The wind is expected to be 10 to 15 miles per hour from the west. Humidity should be around 55%.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

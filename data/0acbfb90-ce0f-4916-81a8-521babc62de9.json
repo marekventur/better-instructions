@@ -1,0 +1,12 @@
+{
+  "id": "0acbfb90-ce0f-4916-81a8-521babc62de9",
+  "instruction": "Create a programming algorithm that identifies the maximum value in a list of numbers.",
+  "input": "[2, 5, 8, 10, 20, 15]",
+  "output": "// algorithm to find the maximum value in a list of numbers\nmax_val = 0;\nfor (i = 0; i < list.length; i++) {\n  if(list[i] > max_val) {\n    max_val = list[i];\n  }\n}\n\n// return the maximum value\nreturn max_val; \n// returns 20",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

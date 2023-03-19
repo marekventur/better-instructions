@@ -1,0 +1,12 @@
+{
+  "id": "e116a993-ab3b-403e-9ae8-6fb7c05a596a",
+  "instruction": "Given a movie title \"The Iron Giant\", come up with an suitable tagline",
+  "input": "The Iron Giant",
+  "output": "When the Giant meets the boy, friendship will conquer fear.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

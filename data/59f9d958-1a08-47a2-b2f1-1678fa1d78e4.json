@@ -1,0 +1,12 @@
+{
+  "id": "59f9d958-1a08-47a2-b2f1-1678fa1d78e4",
+  "instruction": "Divide this text into two subsections.",
+  "input": "We live in a world where data is increasingly being used to inform decisions, from healthcare to finance. Big data is transforming our lives in ways that were unimaginable before, and it is having an ever-growing impact on our lives.",
+  "output": "Subsection 1: We live in a world where data is increasingly being used to inform decisions, from healthcare to finance.\n\nSubsection 2: Big data is transforming our lives in ways that were unimaginable before, and it is having an ever-growing impact on our lives.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

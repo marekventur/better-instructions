@@ -1,0 +1,12 @@
+{
+  "id": "68b75a80-7e7b-47a5-ad96-f94bf05487ef",
+  "instruction": "Identify the brand in the following piece of text.",
+  "input": "The all-new system from Samsung is going to be the next big thing, with its cutting-edge features and intuitive design.",
+  "output": "Samsung",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

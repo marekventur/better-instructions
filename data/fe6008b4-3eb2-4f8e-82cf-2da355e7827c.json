@@ -1,0 +1,12 @@
+{
+  "id": "fe6008b4-3eb2-4f8e-82cf-2da355e7827c",
+  "instruction": "Develop a program that will solve this equation",
+  "input": "x^2 + 2x - 15 = 0",
+  "output": "def solve_equation(a, b, c):\n    discriminant = (b**2) - (4*a*c)\n    x1 = (-b + (discriminant**(1/2))) / (2*a)\n    x2 = (-b - (discriminant**(1/2))) / (2*a)\n    return x1, x2\n\nprint(solve_equation(1, 2, -15))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

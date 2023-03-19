@@ -1,0 +1,12 @@
+{
+  "id": "a353d368-2abd-49c8-8983-b803ea18b6e2",
+  "instruction": "Adjust the following sentence to negate the statement.",
+  "input": "The dog barked.",
+  "output": "The dog did not bark.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

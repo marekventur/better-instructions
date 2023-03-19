@@ -1,0 +1,12 @@
+{
+  "id": "d103856c-0b9e-42d3-85cd-badd32ec02c2",
+  "instruction": "Check if the string contains only capital letters",
+  "input": "Hello",
+  "output": "false",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

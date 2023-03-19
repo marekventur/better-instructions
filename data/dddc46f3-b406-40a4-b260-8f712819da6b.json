@@ -1,0 +1,12 @@
+{
+  "id": "dddc46f3-b406-40a4-b260-8f712819da6b",
+  "instruction": "Notice any grammar mistakes in the sentence and edit it accordingly.",
+  "input": "She who loves to run on the beach",
+  "output": "She loves to run on the beach.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

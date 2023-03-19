@@ -1,0 +1,12 @@
+{
+  "id": "097fda86-7ecf-49de-8aa6-f41d057dbffd",
+  "instruction": "Identify the historical figure mentioned in the article below.",
+  "input": "The famous physicist Albert Einstein was one of the most influential scientists of the 20th century.",
+  "output": "Albert Einstein is the historical figure mentioned in the article.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

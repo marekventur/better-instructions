@@ -1,0 +1,12 @@
+{
+  "id": "4e668bd2-d73f-48e8-aef5-229360681971",
+  "instruction": "Specify three features from the given product.",
+  "input": "Product: Philips Sonicare Diamond Clean Toothbrush",
+  "output": "The Philips Sonicare Diamond Clean Toothbrush has three features:\n\n1. 3 modes which allows users to personalize their brushing experience according to their needs: clean, white, and gum care.\n\n2. DiamondClean Brush Head which provides superior plaque removal and whitening.\n\n3. Wireless charger which allows users to easily recharge the device.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

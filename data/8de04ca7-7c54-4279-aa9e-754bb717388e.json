@@ -1,0 +1,12 @@
+{
+  "id": "8de04ca7-7c54-4279-aa9e-754bb717388e",
+  "instruction": "Given the following recipe, convert it to metric measurements.",
+  "input": "5 tablespoons butter",
+  "output": "25.6 grams butter",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

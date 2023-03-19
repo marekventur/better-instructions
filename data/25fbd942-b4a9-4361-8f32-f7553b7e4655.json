@@ -1,0 +1,12 @@
+{
+  "id": "25fbd942-b4a9-4361-8f32-f7553b7e4655",
+  "instruction": "Write a query to find all the items in a database table with a price of $30 or less",
+  "input": "",
+  "output": "SELECT * FROM Table WHERE price <= 30;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

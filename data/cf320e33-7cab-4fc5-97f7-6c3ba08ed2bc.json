@@ -1,0 +1,12 @@
+{
+  "id": "cf320e33-7cab-4fc5-97f7-6c3ba08ed2bc",
+  "instruction": "Add 3 more words to the following list to make it an antonym of 'large'.",
+  "input": "Big, huge",
+  "output": "Small, tiny, diminutive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

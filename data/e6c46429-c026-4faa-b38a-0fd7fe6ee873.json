@@ -1,0 +1,12 @@
+{
+  "id": "e6c46429-c026-4faa-b38a-0fd7fe6ee873",
+  "instruction": "Find the article ID given a URL.",
+  "input": "https://www.nytimes.com/2020/02/14/technology/macbook-microphone-apple.html",
+  "output": "Article ID: nyti-20200214-Technology-Macbook-Microphone-Apple",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

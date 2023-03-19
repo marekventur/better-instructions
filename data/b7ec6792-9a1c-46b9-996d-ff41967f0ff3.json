@@ -1,0 +1,12 @@
+{
+  "id": "b7ec6792-9a1c-46b9-996d-ff41967f0ff3",
+  "instruction": "Create a chart to compare the prices for items in two stores.",
+  "input": "Store A, Apple - $2.50, Banana - $1.50, Orange - $3.00\nStore B, Apple - $3.00, Banana - $1.00, Orange - $2.50",
+  "output": "Store A | Store B\n------------ | -------------\nApple - $2.50 | Apple - $3.00\nBanana - $1.50 | Banana - $1.00\nOrange - $3.00 | Orange - $2.50",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

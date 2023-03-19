@@ -1,0 +1,12 @@
+{
+  "id": "39187416-7428-41b1-b613-fdc2f9b73490",
+  "instruction": "Explain artificial neural networks and why they are used.",
+  "input": "",
+  "output": "Artificial neural networks are a type of machine learning model which can be used for predictive analytics and decision-making. They are inspired by biological neurons and use layers of interconnected nodes to estimate, classify, or predict variables from data. Each node is responsible for processing, combining and weighing data, with the output of each layer being fed as input to the next layer. This allows the neural network to accurately assess data, and dynamically adjust parameters as more data is received. They are used to identify patterns in data and make decisions based on those patterns, such as in image, speech, and financial analysis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

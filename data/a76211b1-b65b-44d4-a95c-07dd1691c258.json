@@ -1,0 +1,12 @@
+{
+  "id": "a76211b1-b65b-44d4-a95c-07dd1691c258",
+  "instruction": "Identify at least five common forms of bias found in predictive models.",
+  "input": "",
+  "output": "Five common forms of bias found in predictive modeling include:\n\n1. Sampling bias: Occurs when the data used to generate a predictive model is not representative of the population of interest.\n\n2. Selection bias: Occurs when the data is not sampled correctly, leading the model to over- or under-represent certain groups or features.\n\n3. Confounding bias: Occurs when a predictive model only considers one feature of a situation, and not the overall context.\n\n4. Survivorship bias: Occurs when a predictive model includes only those that have already succeeded, instead of also including those that have failed or are likely to fail.\n\n5. Data leakage bias: Occurs when a predictive model is built using data from the future, instead of only data from the past. This type of bias can lead the model performance to be overstated.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

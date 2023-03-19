@@ -1,0 +1,12 @@
+{
+  "id": "a11d805b-b7a8-4a87-b9c5-a301ad5bf53a",
+  "instruction": "Construct a portfolio of 10 stocks using the following categories.",
+  "input": "Industry: Technology, Risk: High, Geographic location: Global",
+  "output": "A portfolio of 10 stocks with a focus on high-risk technology stocks from a global geographic location could include Apple Inc., Microsoft Corporation, Amazon.com, Inc., Alphabet Inc., Facebook, Inc., Intel Corporation, NVIDIA Corporation, Visa Inc., Broadcom Inc., and T-Mobile US Inc.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

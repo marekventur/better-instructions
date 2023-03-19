@@ -1,0 +1,12 @@
+{
+  "id": "d3968c7b-27d4-43b4-a293-a28426d4a6aa",
+  "instruction": "Design a machine learning algorithm to classify the given data.",
+  "input": "The dataset contains a collection of reviews of different restaurants.",
+  "output": "The machine learning algorithm could use natural language processing (NLP) techniques to process the data.  It should include features like the sentiment score, semantic features, and context of the review. Based on these features, the algorithm should be able to classify the reviews as positive, neutral, or negative.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

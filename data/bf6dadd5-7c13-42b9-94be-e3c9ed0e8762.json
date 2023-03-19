@@ -1,0 +1,12 @@
+{
+  "id": "bf6dadd5-7c13-42b9-94be-e3c9ed0e8762",
+  "instruction": "Summarize the text in at most 7 sentences.",
+  "input": "Cucumbers exposed to artificial light during their growing period can weigh up to three times more than the cucumbers grown without the light. Artificial lighting helps speed up the growth process and gives farmers the ability to produce large quantities of cucumbers on demand.",
+  "output": "Cucumbers exposed to artificial light during their growing period can significantly increase in weight as compared to cucumbers that are not exposed to light. This is due to the accelerated growth time provided by the lighting. As a result, farmers gain the capability to produce large amounts of cucumbers quickly and on demand. Artificial lighting provides a range of benefits to farmers, from increased yields and faster growth to shorter harvesting times. Furthermore, cucumbers grown with the help of artificial lighting are often of a higher quality than cucumbers grown in natural light or in the dark.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

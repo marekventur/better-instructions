@@ -1,0 +1,12 @@
+{
+  "id": "9a80e14d-4a9f-42bc-a38c-a8a7f2aab4cc",
+  "instruction": "Create a 20-word poem based on the following nature scene.",
+  "input": "dove perched on a tree branch in a meadow",
+  "output": "A gentle dove in meadow's sky,\nResting on a branch so high.\nEnchanted by its peace and breeze,\nLetting go of all its cares and ease. \nSoft morning light amidst the trees,\nHere's where the dove finds its peace.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

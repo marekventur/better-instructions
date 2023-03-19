@@ -1,0 +1,12 @@
+{
+  "id": "6d76db24-4598-4137-8c2d-a383e6bbc317",
+  "instruction": "Summarize the given text using five sentences.",
+  "input": "The World Wildlife Fund (WWF) is an international organization committed to conservation of the world's natural resources, wildlife and ecosystems. Established in 1961 as the International Union for Conservation of Nature and Natural Resources, WWF has since grown to become one of the largest conservation organizations in the world. Their mission seeks to conserve and protect nature and reduce the most pressing threats to the diversity of life and the planet. To protect the environment, WWF works on various levels, from grassroots and local initiatives to international agreements.",
+  "output": "The World Wildlife Fund is an international conservation organization, founded in 1961 and now one of the largest in the world. Its mission is to protect and conserve the world's natural resources, wildlife, and ecosystems. WWF works in various ways, from grassroots and local initiatives to international agreements, in order to protect and sustain our environment. They strive to reduce the most pressing threats to nature's diversity, promoting sustainability and working towards a healthier planet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

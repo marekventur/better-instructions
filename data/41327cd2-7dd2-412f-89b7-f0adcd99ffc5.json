@@ -1,0 +1,12 @@
+{
+  "id": "41327cd2-7dd2-412f-89b7-f0adcd99ffc5",
+  "instruction": "Categorize the given article as a news, opinion, cultural or scientific article.",
+  "input": "Recent studies have found that sea levels are rising faster than expected, raising concerns about the future of coastal cities.",
+  "output": "News",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

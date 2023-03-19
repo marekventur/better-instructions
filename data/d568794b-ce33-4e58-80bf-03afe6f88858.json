@@ -1,0 +1,12 @@
+{
+  "id": "d568794b-ce33-4e58-80bf-03afe6f88858",
+  "instruction": "Suppress the warning message when running the following code:",
+  "input": "print(\"Warning: Failed to load\")",
+  "output": "import warnings\nwarnings.filterwarnings(\"ignore\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

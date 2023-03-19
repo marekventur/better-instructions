@@ -1,0 +1,12 @@
+{
+  "id": "d8985526-79cc-40b9-bf8a-7d2c604b3bc2",
+  "instruction": "Calculate the diameter of a circle using the area.",
+  "input": "Area = 314.15",
+  "output": "Diameter = 17.80",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

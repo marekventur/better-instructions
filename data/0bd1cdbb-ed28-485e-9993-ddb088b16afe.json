@@ -1,0 +1,12 @@
+{
+  "id": "0bd1cdbb-ed28-485e-9993-ddb088b16afe",
+  "instruction": "Given the below sentence, underline the wrong word.",
+  "input": "We shall goes shopping tomorrow",
+  "output": "We shall _go_ shopping tomorrow",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bfe0edb1-4cbf-486d-b1c1-59dfd7a88ef6",
+  "instruction": "Print out all elements from the list with even indices",
+  "input": "[1, 2, 3, 4, 5, 6, 7]",
+  "output": "2, 4, 6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

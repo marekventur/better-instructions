@@ -1,0 +1,12 @@
+{
+  "id": "cab37b36-ed01-44d8-b24d-24ebaad7088d",
+  "instruction": "Create a story prompt by combining the given elements.",
+  "input": "-A magic potion\n-A mysterious library\n-A stolen object",
+  "output": "A young girl discovers an old, magical potion in a mysterious library. When she takes it, she is transported to a far away land where an artifact she had been searching for has been stolen by an unknown thief. Now, she must use her knowledge of the magical arts and her wits to track down the thief and reclaim the lost object.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

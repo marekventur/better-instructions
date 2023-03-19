@@ -1,0 +1,12 @@
+{
+  "id": "5e4cb4c6-8b21-4c2a-9e65-533b3d84dacc",
+  "instruction": "I am designing an interface for a messaging application. What kind of feedback should I provide the user when a message is successfully sent?",
+  "input": "",
+  "output": "The user should receive a visual and/or audio confirmation such as a checkmark icon appearing next to the message, or a simple sound indicating that the message has been successfully sent.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

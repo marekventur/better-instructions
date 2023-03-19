@@ -1,0 +1,12 @@
+{
+  "id": "dd2078f2-1d27-40ad-9878-56203ec0b0e0",
+  "instruction": "In the sentence, \"Please carefully read the instructions before starting the task,\" identify the main verb and its type.",
+  "input": "",
+  "output": "The main verb is \"read\" and it is an action verb.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

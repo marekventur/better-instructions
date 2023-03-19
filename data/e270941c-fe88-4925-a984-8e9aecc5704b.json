@@ -1,0 +1,12 @@
+{
+  "id": "e270941c-fe88-4925-a984-8e9aecc5704b",
+  "instruction": "What is the purpose of clustering in machine learning?",
+  "input": "",
+  "output": "The purpose of clustering in machine learning is to divide a large dataset into smaller subsets, where each subset contains similar data points. Clustering algorithms use statistical methods to group data points based on similarities such as distance. By grouping data points, clusters can be used for classification, prediction, and finding relationships between data points that may not be apparent from looking at the data alone.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

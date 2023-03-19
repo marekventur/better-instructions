@@ -1,0 +1,12 @@
+{
+  "id": "f5270143-07c3-4793-83e4-86507f3b08bc",
+  "instruction": "Recognize the following text as an example of which literary device.",
+  "input": "\"The sun rose in the east, just as it had done a million times before\"",
+  "output": "The text is an example of repetition as it is used to emphasize the same thing in a more powerful way.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "544167aa-b03e-4666-9444-198debc29c24",
+  "instruction": "What type of data does the given chart represent?",
+  "input": "A chart showing the number of sales each month for the past two years.",
+  "output": "The chart represents time-series data, showing the amount of sales in each month over the past two years.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

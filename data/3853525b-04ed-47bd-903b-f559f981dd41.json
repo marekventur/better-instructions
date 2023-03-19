@@ -1,0 +1,12 @@
+{
+  "id": "3853525b-04ed-47bd-903b-f559f981dd41",
+  "instruction": "Using the provided sentence, please reformulate it into a native speech style.",
+  "input": "The repair shop could not fix my car.",
+  "output": "My car couldn't be fixed at the repair shop.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

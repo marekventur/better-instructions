@@ -1,0 +1,12 @@
+{
+  "id": "089a09a3-e041-4da7-91dc-354c35552616",
+  "instruction": "Spell check the following article.",
+  "input": "Environmental crises has beome more prevelant in recent yeears. Global wearming, ozon layer depletion and decrease in biodoversity are just a few of the many issues the world is facings.",
+  "output": "Environmental crises has become more prevalent in recent years. Global warming, ozone layer depletion and decrease in biodiversity are just a few of the many issues the world is facing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

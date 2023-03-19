@@ -1,0 +1,12 @@
+{
+  "id": "a0cf987e-b291-4dc7-8988-5becf97560e2",
+  "instruction": "Name three tools used for sentiment analysis",
+  "input": "",
+  "output": "Three tools used for sentiment analysis are Lexalytics, OpinionFinder, and Google Cloud Natural Language. Lexalytics uses statistical language models and machine learning algorithms to identify sentiment in large-scale text data. OpinionFinder is a text mining tool designed to detect sentiment in web-based text data. Google Cloud Natural Language is a cloud-based platform that uses natural language processing and machine learning to analyze sentiment in text.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

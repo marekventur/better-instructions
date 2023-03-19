@@ -1,0 +1,12 @@
+{
+  "id": "759325ff-e05e-4482-94f0-899c7bdc600d",
+  "instruction": "Make a list of adjectives that describe the given character.",
+  "input": "James Bond",
+  "output": "1. Charming\n2. Witty\n3. Resourceful\n4. Sophisticated\n5. Determined\n6. Charismatic\n7. Suave\n8. Courageous\n9. Resilient\n10. Dashing\n11. Stealthy\n12. Intelligent",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

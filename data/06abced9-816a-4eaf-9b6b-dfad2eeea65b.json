@@ -1,0 +1,12 @@
+{
+  "id": "06abced9-816a-4eaf-9b6b-dfad2eeea65b",
+  "instruction": "Given a detailed description of a certain kitchen item, you need to determine the type of that item and output what it is.",
+  "input": "This is a long cylindrical tube with a handle on one end, made of metal.",
+  "output": "This is a rolling pin - a kitchen utensil used to roll out dough.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

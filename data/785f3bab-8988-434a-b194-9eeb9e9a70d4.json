@@ -1,0 +1,12 @@
+{
+  "id": "785f3bab-8988-434a-b194-9eeb9e9a70d4",
+  "instruction": "Create a function to subtract two matrices.",
+  "input": "",
+  "output": "def subtract_matrices(matrix1, matrix2):\n    if len(matrix1) != len(matrix2) or len(matrix1[0]) != len(matrix2[0]):\n        print('Error! Cannot subtract two matrices of different sizes!')\n        return None \n    result = [[matrix1[i][j] - matrix2[i][j] \n              for j in range(len(matrix1[0]))] \n              for i in range(len(matrix1))] \n  \n    return result",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

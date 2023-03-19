@@ -1,0 +1,12 @@
+{
+  "id": "04bb25d4-2a89-4965-86e0-e16ffcfcc6a3",
+  "instruction": "Classify the following sentence as belonging to the category \"advantage\" or \"disadvantage\":",
+  "input": "Having access to the internet can be expensive.",
+  "output": "Disadvantage",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

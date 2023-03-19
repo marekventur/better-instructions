@@ -1,0 +1,12 @@
+{
+  "id": "455d4f70-86eb-4d02-b5ec-f11d5b283a47",
+  "instruction": "Determine the outcome of this experiment",
+  "input": "A researcher conducts an experiment with two groups of 50 participants, one group receives the drug, and the other receives the placebo.",
+  "output": "The outcome of the experiment will depend on how the researcher measures the results. For example, if the researcher measures the number of participants who experience an improvement in their symptoms, then the outcome will depend on the number of participants in each group who experienced an improvement in their symptoms.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b9d8c727-de9b-4da8-a066-6842505709fb",
+  "instruction": "Generate a tweet for a sports event.",
+  "input": "NBA Finals",
+  "output": "The #NBAFinals are underway! Who will be crowned champion this year? Tune in to find out!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

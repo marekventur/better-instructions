@@ -1,0 +1,12 @@
+{
+  "id": "1932a107-ef81-4e95-8126-c5d815597e32",
+  "instruction": "For each of the following vegetables, classify them by color.",
+  "input": "- Carrots\n- Tomatoes\n- Peas",
+  "output": "- Carrots: Orange \n- Tomatoes: Red \n- Peas: Green",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

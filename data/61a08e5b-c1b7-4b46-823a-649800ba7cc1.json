@@ -1,0 +1,12 @@
+{
+  "id": "61a08e5b-c1b7-4b46-823a-649800ba7cc1",
+  "instruction": "Analyze the given sentence and identify its grammatical errors, if any.",
+  "input": "These type of problems are difficult to solve.",
+  "output": "The sentence has a grammatical error, as \u2018these\u2019 should be followed by a singular noun or pronoun. The correct sentence would be: This type of problem is difficult to solve.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

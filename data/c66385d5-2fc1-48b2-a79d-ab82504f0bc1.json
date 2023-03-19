@@ -1,0 +1,12 @@
+{
+  "id": "c66385d5-2fc1-48b2-a79d-ab82504f0bc1",
+  "instruction": "Classify this sentence as either an imperative or a question.",
+  "input": "This salad tastes wonderful.",
+  "output": "Imperative.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f0a0f9fe-5548-42d2-b984-fcc4bfff05f6",
+  "instruction": "Please provide a valid array of numbers as input to the given function.",
+  "input": "f(x) = x + 5",
+  "output": "[2, 3, 4, 5, 6, 7]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

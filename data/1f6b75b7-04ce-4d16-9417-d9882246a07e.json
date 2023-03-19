@@ -1,0 +1,12 @@
+{
+  "id": "1f6b75b7-04ce-4d16-9417-d9882246a07e",
+  "instruction": "Remove all the numbers from the following string.",
+  "input": "My address is 45 Pine Street, Apt 456, Toronto, ON M3B 8J5",
+  "output": "My address is Pine Street, Apt , Toronto, ON MJBJ",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

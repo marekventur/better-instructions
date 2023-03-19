@@ -1,0 +1,12 @@
+{
+  "id": "3a9f712e-ee52-4666-b0a9-aad9e6fcf705",
+  "instruction": "Edit the following sentence, making sure that it is grammatically correct:",
+  "input": "The temperatures have risen sharply over the past few years",
+  "output": "The temperature has risen sharply over the past few years.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

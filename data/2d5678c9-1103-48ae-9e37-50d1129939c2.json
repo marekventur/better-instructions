@@ -1,0 +1,12 @@
+{
+  "id": "2d5678c9-1103-48ae-9e37-50d1129939c2",
+  "instruction": "Create a classification model which can classify whether a given email is spam or not.",
+  "input": "No input",
+  "output": "The classification model should be able to take in a piece of email text, process it into its component features, and then make a prediction as to whether the email is spam or not. The model will then output a probability score ranging from 0 to 1, where 0 is not spam and 1 is spam. The model should be trained using labeled data, which includes emails labelled as spam or not spam. The model should also incorporate feature importance and be able to identify which features are most important in the classification of an email.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

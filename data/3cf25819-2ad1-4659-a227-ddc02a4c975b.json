@@ -1,0 +1,12 @@
+{
+  "id": "3cf25819-2ad1-4659-a227-ddc02a4c975b",
+  "instruction": "Summarize this article about the US economy in one sentence.",
+  "input": "The US economy continues to make great strides despite the Covid-19 pandemic. Unemployment numbers are improving, with wages and consumer spending both up. The stock market is also riding a steady wave of growth and is projected to reach all-time highs in the near future.",
+  "output": "The US economy is continuing to recover despite the Covid-19 pandemic, with unemployment numbers going down, wages and consumer spending up, and the stock market expected to reach all-time highs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

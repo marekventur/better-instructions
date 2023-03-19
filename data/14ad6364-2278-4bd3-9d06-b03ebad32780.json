@@ -1,0 +1,12 @@
+{
+  "id": "14ad6364-2278-4bd3-9d06-b03ebad32780",
+  "instruction": "Compute the surface area of a rectangular prism with the following dimension.\nOutput the answer in square meters.",
+  "input": "Length = 5m\nWidth = 10m\nHeight = 8m",
+  "output": "400m2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2ff10105-6a8e-4e94-a93c-bd2a631c674a",
+  "instruction": "Create an algorithm to detect passwords that contain personal information.",
+  "input": "",
+  "output": "Algorithm to detect passwords that contain personal information:\n\n1. Gather information about the user such as their name, date of birth, address, phone number, etc.\n2. Create a list of potential passwords that contain personal information.\n3. Analyze each candidate password against the gathered personal information.\n4. If a candidate password contains any of the user's personal information, flag it and return an alert. \n5. Else, return the candidate password as valid.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

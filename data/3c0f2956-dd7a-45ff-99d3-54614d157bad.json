@@ -1,0 +1,12 @@
+{
+  "id": "3c0f2956-dd7a-45ff-99d3-54614d157bad",
+  "instruction": "Categorize the samples from the data set.",
+  "input": "Sample 1: 56, 2.4, 0.8, 2 \nSample 2: 64, 4.4, 0.8, 7",
+  "output": "Sample 1: Category A\nSample 2: Category B",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

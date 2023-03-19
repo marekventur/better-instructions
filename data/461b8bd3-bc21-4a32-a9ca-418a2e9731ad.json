@@ -1,0 +1,12 @@
+{
+  "id": "461b8bd3-bc21-4a32-a9ca-418a2e9731ad",
+  "instruction": "Generate an algorithm for the game Hangman.",
+  "input": "",
+  "output": "I will generate an algorithm for the game Hangman. The algorithm will start by using a randomly generated word and initializing the current guess to all underscores. The algorithm will then prompt the user to make a guess and if the guess is correct, it will replace the correct underscores with the correct letter. If the guess is wrong, the algorithm will update the hangman image and reduce the user's score by one. The game ends when either the user guesses the entire word correctly or when the hangman image is completed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7f2e824a-c327-4bae-969c-9d4646d4472a",
+  "instruction": "Reorganize the sentences below to form a cohesive paragraph.",
+  "input": "It's easy to see the incredible variety of flora and fauna. Despite the scientific consensus that global warming is a problem, many people do not take the necessary steps. The effects of global warming are becoming more noticeable every day. We are polluting the Earth at an alarming rate that threatens the lives of countless species.",
+  "output": "Despite the scientific consensus that global warming is a problem, many people do not take the necessary steps, even though the effects of global warming are becoming more noticeable every day. We are polluting the Earth at an alarming rate, threatening the lives of countless species, and it's easy to see the incredible variety of flora and fauna put at risk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

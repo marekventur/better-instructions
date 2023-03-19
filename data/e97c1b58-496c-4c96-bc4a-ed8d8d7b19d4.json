@@ -1,0 +1,12 @@
+{
+  "id": "e97c1b58-496c-4c96-bc4a-ed8d8d7b19d4",
+  "instruction": "Classify the following types of cars: Toyota Corolla, Hyundai Sonata, and Lexus LS400.",
+  "input": "Toyota Corolla, Hyundai Sonata, and Lexus LS400",
+  "output": "Toyota Corolla: Compact\nHyundai Sonata: Mid-Size\nLexus LS400: Luxury",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

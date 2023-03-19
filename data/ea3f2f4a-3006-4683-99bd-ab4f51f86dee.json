@@ -1,0 +1,12 @@
+{
+  "id": "ea3f2f4a-3006-4683-99bd-ab4f51f86dee",
+  "instruction": "Delete the words in bold in this sentence.",
+  "input": "I am always happy to help anyone out.",
+  "output": "I am always to help anyone.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "13105bcb-c5e1-46c4-bac7-4080da3c742b",
+  "instruction": "Change the following paragraph into an active voice.",
+  "input": "The car was driven to the shop by me.",
+  "output": "I drove the car to the shop.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

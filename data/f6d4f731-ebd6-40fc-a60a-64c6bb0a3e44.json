@@ -1,0 +1,12 @@
+{
+  "id": "f6d4f731-ebd6-40fc-a60a-64c6bb0a3e44",
+  "instruction": "Tell if the below phrase contains a simile",
+  "input": "She was as gentle as a dove",
+  "output": "Yes",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

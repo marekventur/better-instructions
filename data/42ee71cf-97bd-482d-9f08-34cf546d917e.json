@@ -1,0 +1,12 @@
+{
+  "id": "42ee71cf-97bd-482d-9f08-34cf546d917e",
+  "instruction": "Sort the following presented countries by GDP.",
+  "input": "South Africa, Peru, India",
+  "output": "India, South Africa, Peru",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bc7e98ce-59a2-43f9-a288-d37b377d58a1",
+  "instruction": "Create an HTML page that displays a table with employee information.",
+  "input": "Name | Role | Salary \nJohn Smith | Manager | $70000\nAnna Jones | Developer | $50000\nMark Wilson | Designer | $55000",
+  "output": "<!DOCTYPE html>\n<html>\n<head>\n    <title> Employee Information </title>\n</head>\n<body>\n    <table>\n        <thead>\n            <tr>\n                <th>Name</th>\n                <th>Role</th> \n                <th>Salary</th> \n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>John Smith</td> \n                <td>Manager</td> \n                <td>$70000</td> \n            </tr>\n            <tr>\n                <td>Anna Jones</td> \n                <td>Developer</td> \n                <td>$50000</td> \n            </tr>\n            <tr>\n                <td>Mark Wilson</td> \n                <td>Designer</td> \n                <td>$55000</td> \n            </tr>\n        </tbody>\n    </table>\n</body>\n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

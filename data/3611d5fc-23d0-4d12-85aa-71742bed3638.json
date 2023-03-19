@@ -1,0 +1,12 @@
+{
+  "id": "3611d5fc-23d0-4d12-85aa-71742bed3638",
+  "instruction": "Classify the following online review as being positive or negative.",
+  "input": "This product was very substandard and I am quite unhappy with the results.",
+  "output": "Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

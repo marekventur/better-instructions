@@ -1,0 +1,12 @@
+{
+  "id": "7b9a8585-e206-4d74-aba3-d975f27370ca",
+  "instruction": "Create a Random Forest classifier to predict the sentiment of a given sentence.",
+  "input": "The food here is really amazing.",
+  "output": "\"\"\"\nCreate a Random Forest classifier to predict the sentiment of a given sentence\n\"\"\"\n\nfrom sklearn.ensemble import RandomForestClassifier\nimport numpy as np \n\n# create the input for the classifier: \nsentence = np.array([[1,0,0,0,1]]) # represent the sentence as a vector of ones and zeros, 1 being positive and 0 being negative \n\n# define the label \nlabel = np.array([1]) # 1 being positive and 0 being negative \n\n# create and train theRandom Forest classifier \nclf = RandomForestClassifier() \nclf.fit(sentence, label) \n\n#test the classifier \ntest_sentence = 'The food here is really amazing.'\ntest_sentence_vector = np.array([[1,0,0,0,1]]) \nprediction = clf.predict(test_sentence_vector) \n\n# output the sentiment prediction \nprint(prediction)  # output: 1 (positive sentiment)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

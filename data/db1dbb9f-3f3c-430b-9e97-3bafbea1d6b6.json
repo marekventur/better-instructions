@@ -1,0 +1,12 @@
+{
+  "id": "db1dbb9f-3f3c-430b-9e97-3bafbea1d6b6",
+  "instruction": "Find the maximum number of events that can be held in a conference room which holds 200 people",
+  "input": "",
+  "output": "The maximum number of events that can be held in a conference room which holds 200 people is five, as long as there is adequate spacing between each event and additional safety measures in place.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

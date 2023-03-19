@@ -1,0 +1,12 @@
+{
+  "id": "8aa282f4-226c-44e2-8890-a0ddc2980d64",
+  "instruction": "Explain the difference between text classification and text clustering.",
+  "input": "",
+  "output": "Text classification is a supervised learning method that requires labeled training data and involves classification tasks such as sentiment analysis and spam detection, where the output is a class label such as positive, negative, or neutral for sentiment analysis, or spam and not-spam for spam detection. \n\nText clustering, on the other hand, is an unsupervised learning approach which does not rely on labeled training data. It is a process where documents are grouped into collections or clusters based on their similarity. Clustering can help in reducing the dimensionality of a large dataset, better understand a document collection by seeing which documents are similar, or discover structures and topics within a group of documents. Unlike text classification, the output of the clustering process is a set of clusters where each cluster contains similar documents.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

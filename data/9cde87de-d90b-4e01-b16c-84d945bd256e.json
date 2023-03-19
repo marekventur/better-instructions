@@ -1,0 +1,12 @@
+{
+  "id": "9cde87de-d90b-4e01-b16c-84d945bd256e",
+  "instruction": "Reorganize the following paragraphs with complete sentences.",
+  "input": "Revenue at the fast-food chain declined 7 percent in the second quarter compared with the same period a year ago. The company cited higher costs for chicken, advertising and tomatoes. The latter is particularly frustrating since prices rose even though the quality of the tomatoes has declined.",
+  "output": "The fast-food chain experienced a 7 percent declines in revenue in the second quarter compared with the same period a year ago. Frustratingly, higher prices were paid for tomatoes despite the lower quality of the produce. The company also noted higher costs for chicken and advertising.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

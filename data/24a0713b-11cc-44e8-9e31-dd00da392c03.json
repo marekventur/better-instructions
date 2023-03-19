@@ -1,0 +1,12 @@
+{
+  "id": "24a0713b-11cc-44e8-9e31-dd00da392c03",
+  "instruction": "Compile a Python program from the following code.",
+  "input": "print(\"Hello World\")",
+  "output": "# Compiled program\ndef main():\n print(\"Hello World\")\n\nif __name__ == '__main__': \n  main()",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

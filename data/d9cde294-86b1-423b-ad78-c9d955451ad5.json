@@ -1,0 +1,12 @@
+{
+  "id": "d9cde294-86b1-423b-ad78-c9d955451ad5",
+  "instruction": "Create an outline of steps to install software on a computer.",
+  "input": "",
+  "output": "1. Download the software installation file. \n2. Double-click the file to begin the installation process. \n3. Read the license agreement and accept.\n4. Select the destination folder for the software. \n5. Confirm any additional settings or customization options.\n6. Click \u201cInstall\u201d and wait for the installation process to complete. \n7. Optionally, set up an account, if applicable.\n8. Launch the software and enter your product key, if needed. \n9. Read all the on-screen instructions and take any further action needed. \n10. Confirm the installation process was successful.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

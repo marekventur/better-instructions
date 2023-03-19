@@ -1,0 +1,12 @@
+{
+  "id": "aa78b13d-0a07-4a29-a8c8-e205b2e7cbb8",
+  "instruction": "Convert the hour value to its least accurate form",
+  "input": "2.9 hours",
+  "output": "3 hours",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

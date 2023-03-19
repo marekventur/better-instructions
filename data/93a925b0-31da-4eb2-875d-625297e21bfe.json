@@ -1,0 +1,12 @@
+{
+  "id": "93a925b0-31da-4eb2-875d-625297e21bfe",
+  "instruction": "Rate the review as positive or negative. Output true for positive and false for negative.",
+  "input": "I had a great experience eating at this restaurant. The food was delicious and the service was top notch.",
+  "output": "true",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

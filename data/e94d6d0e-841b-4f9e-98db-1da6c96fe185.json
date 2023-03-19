@@ -1,0 +1,12 @@
+{
+  "id": "e94d6d0e-841b-4f9e-98db-1da6c96fe185",
+  "instruction": "Suggest three possible applications that could be built from GPT technology.",
+  "input": "",
+  "output": "1. Autocomplete for text-based input. GPT technology can be used to predict which word or phrase a user is looking for based on the context of the input text. This would help reduce the amount of time spent typing and ensure accurate results. \n2. Natural language generation. GPT technology can be used to generate natural-sounding responses to text-based input. This could be used to build bots that can answer questions and carry on conversations with users in a way that sounds natural and human-like.\n3. Automatic summarization. This technology can be used to generate short summaries of any text-based input, such as articles, books, or research papers. This could be used to help digest large amounts of text in a short period of time and save users time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

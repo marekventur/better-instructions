@@ -1,0 +1,12 @@
+{
+  "id": "adf0b1b0-2336-49a0-8fc0-d0528f5565d7",
+  "instruction": "Given a list of facts about a topic, generate a single statement that captures one of the facts as to why it is important.",
+  "input": "- Humans have 23 pairs of chromosomes\n- Chromosomes are present in nearly all living cells",
+  "output": "Chromosomes are essential for the development and functioning of living organisms since they are responsible for transmitting genetic information.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

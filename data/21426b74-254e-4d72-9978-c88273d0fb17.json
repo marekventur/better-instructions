@@ -1,0 +1,12 @@
+{
+  "id": "21426b74-254e-4d72-9978-c88273d0fb17",
+  "instruction": "Write a function that determines if an array is odd-sized or even-sized.",
+  "input": "my_array = [1, 2, 3, 4, 5]",
+  "output": "def is_odd_sized(arr):\n    # check for valid input\n    assert isinstance(arr, list), 'Array is not valid; must be a list.'\n    # get the size of the array\n    size = len(arr)\n    # if the size is even, return False\n    if size % 2 == 0:\n        return False\n    # if the size is odd, return True\n    else:\n        return True;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

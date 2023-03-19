@@ -1,0 +1,12 @@
+{
+  "id": "a87526b1-fad4-4567-a623-7cb156670fc8",
+  "instruction": "Provide an explanation why this opinion is wrong.",
+  "input": "Driverless cars will make travel safer.",
+  "output": "Although driverless cars may reduce the risk of human error, they are exposed to the same risks as human drivers in unexpected or unpredictable traffic scenarios. Autonomous vehicles may still be prone to accidents due to programming errors and other factors. Therefore, driverless cars will not necessarily make travel safer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

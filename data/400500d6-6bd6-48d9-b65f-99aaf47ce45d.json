@@ -1,0 +1,12 @@
+{
+  "id": "400500d6-6bd6-48d9-b65f-99aaf47ce45d",
+  "instruction": "Detect the typos in the following sentence: I like to bak cakes.",
+  "input": "",
+  "output": "I like to bake cakes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

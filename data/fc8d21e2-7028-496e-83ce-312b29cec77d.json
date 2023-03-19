@@ -1,0 +1,12 @@
+{
+  "id": "fc8d21e2-7028-496e-83ce-312b29cec77d",
+  "instruction": "To what extent does the given text use figurative language?",
+  "input": "The world was a cold and lonely place.",
+  "output": "The text uses figurative language to a moderate extent. The phrase \"cold and lonely place\" is an example of a metaphor, as it does not refer to an actual physical location but rather to an emotional or abstract state.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

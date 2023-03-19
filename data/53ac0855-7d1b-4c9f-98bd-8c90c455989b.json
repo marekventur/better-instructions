@@ -1,0 +1,12 @@
+{
+  "id": "53ac0855-7d1b-4c9f-98bd-8c90c455989b",
+  "instruction": "Find the longest word using these letters: AEIOU",
+  "input": "AEIOU",
+  "output": "Euouae",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "51e2fc8c-263d-4bad-bfb6-cdf2f4348b5e",
+  "instruction": "Write a code to detect the type of browser that is used to access the page.",
+  "input": "",
+  "output": "\"\"\"\nCode to detect the type of browser that is used to access the page\n\"\"\"\n\nimport requests \nimport re \n\ndef get_browser_type():\n    user_agent = requests.get('http://www.useragentstring.com/').text\n    reg_ex = r\"(?<=User\\sAgent\\:\\s)(.*?)(?=\\))\"\n    m = re.search(reg_ex,user_agent)\n    return m.group()\n    \nif __name__ == '__main__':\n    print(get_browser_type())",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

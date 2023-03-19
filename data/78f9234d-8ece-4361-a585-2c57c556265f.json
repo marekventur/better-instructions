@@ -1,0 +1,12 @@
+{
+  "id": "78f9234d-8ece-4361-a585-2c57c556265f",
+  "instruction": "Parse the following email, identify the actionable item, and assign it a label.",
+  "input": "Dear [person name],\n\nI hope this email finds you well. As we discussed last week, I need your help in finding the data points for our latest report. It would be great if you can retrieve the data points by Friday, 10 am EST.\n\nBest,\n[my name]",
+  "output": "Actionable Item: Retrieve the data points\nLabel: Retrieve Data Points by Friday, 10 am EST",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

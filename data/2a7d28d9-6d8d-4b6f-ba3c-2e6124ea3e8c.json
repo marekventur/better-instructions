@@ -1,0 +1,12 @@
+{
+  "id": "2a7d28d9-6d8d-4b6f-ba3c-2e6124ea3e8c",
+  "instruction": "Classify the following into animals, plants, and minerals",
+  "input": "Oak tree, copper ore, elephant",
+  "output": "Oak tree: Plant\n Copper ore: Mineral\n Elephant: Animal",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

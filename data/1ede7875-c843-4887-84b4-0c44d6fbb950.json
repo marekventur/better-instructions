@@ -1,0 +1,12 @@
+{
+  "id": "1ede7875-c843-4887-84b4-0c44d6fbb950",
+  "instruction": "Write a function to check if three numbers form a triangle.",
+  "input": "",
+  "output": "def isTriangle(a, b, c): \n    if (a + b <= c) or (a + c <= b) or (b + c <= a): \n        return False\n    else: \n        return True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "51b60231-e02c-4e48-942c-41ba750c3e92",
+  "instruction": "Make a peanut butter and jelly sandwich using the following ingredients.",
+  "input": "Ingredients: 2 slices of bread, 1 tablespoon of peanut butter, 2 tablespoons of jelly.",
+  "output": "1. Spread 1 tablespoon of peanut butter on one slice of bread.\n2. Spread 2 tablespoons of jelly on the other slice of bread.\n3. Place the two slices together with the peanut butter and jelly side facing each other.\n4. Cut the sandwich in half or into triangles.\n5. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

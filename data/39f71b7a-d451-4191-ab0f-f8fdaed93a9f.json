@@ -1,0 +1,12 @@
+{
+  "id": "39f71b7a-d451-4191-ab0f-f8fdaed93a9f",
+  "instruction": "Write a Morse code for the following sentence:",
+  "input": "I am learning to send a message.",
+  "output": ".. / .- -- / .- .-. .. -. --. / - .... . / -- -.-- / -- . .- -. - / -- ..- -.-. .... .- -",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

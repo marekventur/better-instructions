@@ -1,0 +1,12 @@
+{
+  "id": "56ed79ab-c02b-41e9-a742-ef9f949da082",
+  "instruction": "Replace the authoritive words with non-authoritive words in the following sentence.",
+  "input": "You must take the bus to school.",
+  "output": "It is advisable to take the bus to school.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

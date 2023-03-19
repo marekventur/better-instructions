@@ -1,0 +1,12 @@
+{
+  "id": "11057946-32a1-44f2-94d0-e0780a8f8e95",
+  "instruction": "Grade the given essay",
+  "input": "Essay Topic:\nDescribe the rise of technology's impact on the world",
+  "output": "The essay is excellent and deserves an A grade. It provides a clear and persuasive argument about the rise of technology and its effects on the world. The essay includes specific evidence and detailed examples to back up the main point. The writer's argument is well-structured, with smooth transitions and logical connections between ideas. In addition, the essay is written in a clear, concise language that is easy to understand. The essay shows an excellent understanding of the topic and presents an in-depth analysis of the issue.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

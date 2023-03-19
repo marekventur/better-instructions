@@ -1,0 +1,12 @@
+{
+  "id": "b29ee037-d05c-42b8-bb4a-59497ebf741c",
+  "instruction": "Provide three important software engineering principles.",
+  "input": "",
+  "output": "1. Separation of Concerns: Separating the application into distinct sections, each with its own specific purpose.\n2. Modular Design: Subdividing applications into self-contained and independent modules.\n3. Abstraction: Hiding unnecessary details and focusing in on the essential tasks at hand.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

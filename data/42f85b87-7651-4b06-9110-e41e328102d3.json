@@ -1,0 +1,12 @@
+{
+  "id": "42f85b87-7651-4b06-9110-e41e328102d3",
+  "instruction": "Besides the text inputed before, provide an additional input to this instruction.",
+  "input": "Obama has announced his plan to end the Iraq war.",
+  "output": "<noinput>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0f3ede2a-8f55-4dda-a1af-a74e06d01f4f",
+  "instruction": "Find the mistakes in the following table",
+  "input": "Country | Capital | Population\nRussia | Moscow | 145.93 million\nFrance | London | 67.41 million",
+  "output": "The mistake in the table is that the capital of France is Paris, not London. The population of Russia is also incorrect; the correct population of Russia is 144.5 million.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

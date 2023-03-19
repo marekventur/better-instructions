@@ -1,0 +1,12 @@
+{
+  "id": "708eb687-aa0d-4cd4-83bb-96cd95344a13",
+  "instruction": "What is a priority queue?",
+  "input": "",
+  "output": "A priority queue is a data structure where items are stored in an order according to the priority assigned to them. It works by assigning a priority to each item that is added to the queue. The item with the highest priority is removed from the queue first, followed by the item with the next highest priority, and so on. This makes it useful for ordering tasks according to their importance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

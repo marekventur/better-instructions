@@ -1,0 +1,12 @@
+{
+  "id": "f2ebd6ab-2a88-4761-a7a1-16952cd873ef",
+  "instruction": "Can you generate five questions about dinosaurs that can be used in a short quiz?",
+  "input": "",
+  "output": "1. What type of dinosaur was the largest?\n2. How long did the average dinosaur live?\n3. Is the Tyrannosaurus Rex considered a carnivore or an herbivore?\n4. When did the asteroid that killed the dinosaurs hit the Earth?\n5. What did Dinosaurs eat?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

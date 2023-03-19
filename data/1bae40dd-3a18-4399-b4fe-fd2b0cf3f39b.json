@@ -1,0 +1,12 @@
+{
+  "id": "1bae40dd-3a18-4399-b4fe-fd2b0cf3f39b",
+  "instruction": "Explain the process of DNA replication.",
+  "input": "",
+  "output": "DNA replication is the process by which a cell makes an exact copy of its genetic material, thereby inheriting its characteristics to the next generation. The replication process begins with the unwinding of the DNA helix and the separation of the two strands. The double helix is broken and each parent strand acts as a template for the production of a new daughter strand. During this process, new nucleotides are assembled in the correct order and complementary to the template strand. Once the new strands have been created, the double helix is re-formed and the entire process is completed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

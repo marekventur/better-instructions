@@ -1,0 +1,12 @@
+{
+  "id": "24d2d561-8db3-465a-bb60-e8ecafe9efcb",
+  "instruction": "Read the given sentence and fix the punctuation errors.",
+  "input": "The dog is friendly, he loves to play.",
+  "output": "The dog is friendly; he loves to play.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

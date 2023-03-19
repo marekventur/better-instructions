@@ -1,0 +1,12 @@
+{
+  "id": "42ec4682-6b7d-4b34-8e68-5612b84b24b5",
+  "instruction": "Change this to the past tense.",
+  "input": "The cat runs around the house.",
+  "output": "The cat ran around the house.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

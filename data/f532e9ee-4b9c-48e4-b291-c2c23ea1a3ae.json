@@ -1,0 +1,12 @@
+{
+  "id": "f532e9ee-4b9c-48e4-b291-c2c23ea1a3ae",
+  "instruction": "Compose a tweet that sums up the following news article.",
+  "input": "A recent study finds that climate change will cause more extreme weather events in the future, such as heat waves and hurricanes.",
+  "output": "A new study reveals the devastating impact of climate change: more frequent and intense heat waves and hurricanes. #ClimateChange",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

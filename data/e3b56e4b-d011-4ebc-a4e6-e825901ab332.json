@@ -1,0 +1,12 @@
+{
+  "id": "e3b56e4b-d011-4ebc-a4e6-e825901ab332",
+  "instruction": "Utilize the given values to differentiate between the two given populations.",
+  "input": "A population of horses and a population of zebras. Age, sex, breed, and size are the characteristics.",
+  "output": "Horses: Age: Could range from newborns to very old. Sex: Stallions, mares, geldings. Breed: Any breed of horse. Size: Could be as small as a miniature horse standing under 34 inches and as large as an extra-large horse at 17+ hands.\n\nZebras: Age: Could range from newborn foals to very old. Sex: Stallions, mares, geldlings. Breed: Plains zebras, Grants zebras, Grevy's zebras. Size: Could be as small as 4.9 feet (1.5 m) to 6.2 feet (1.9 m) at the shoulder.\n\nThe main difference between horses and zebras is the stripes. Horses have a solid coat with different colors, while zebras have black and white stripes. Additionally, the size of the two animals is different, with horses generally being larger.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

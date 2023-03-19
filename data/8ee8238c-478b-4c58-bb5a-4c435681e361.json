@@ -1,0 +1,12 @@
+{
+  "id": "8ee8238c-478b-4c58-bb5a-4c435681e361",
+  "instruction": "Spot the spelling errors in a given sentence.",
+  "input": "I love driving my new carr.",
+  "output": "I love driving my new car.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

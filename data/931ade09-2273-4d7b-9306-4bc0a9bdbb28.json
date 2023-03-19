@@ -1,0 +1,12 @@
+{
+  "id": "931ade09-2273-4d7b-9306-4bc0a9bdbb28",
+  "instruction": "Identify and explain one benefit of cloud computing.",
+  "input": "",
+  "output": "One benefit of cloud computing is scalability. Companies can increase or decrease their cloud capacity as their needs change, allowing them to quickly and easily adjust the resources they need. This allows for more efficient usage of resources, as companies do not need to spend the resources on unneeded capacity. Cloud services can also be adjusted on the fly, and may offer features such as automatic scaling, making it even easier to manage.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

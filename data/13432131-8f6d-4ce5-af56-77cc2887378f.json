@@ -1,0 +1,12 @@
+{
+  "id": "13432131-8f6d-4ce5-af56-77cc2887378f",
+  "instruction": "Create a list of steps to explain how to set up a voicemail greeting on a cell phone.",
+  "input": "",
+  "output": "1. Open the phone's settings.\n2. Navigate to the Voicemail tab.\n3. Select \"Set up Voicemail\".\n4. Follow the on-screen prompts to create a new voicemail account.\n5. Once the voicemail account is set up, select \"Record Greeting\" from the menu.\n6. Follow the on-screen prompts to record your custom greeting.\n7. Preview the greeting and press \"Save\" when you are satisfied.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

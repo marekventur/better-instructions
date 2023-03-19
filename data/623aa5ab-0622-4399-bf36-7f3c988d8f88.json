@@ -1,0 +1,12 @@
+{
+  "id": "623aa5ab-0622-4399-bf36-7f3c988d8f88",
+  "instruction": "Find out and explain the cause of the given natural disaster.",
+  "input": "Tornado",
+  "output": "Tornadoes are caused by a combination of factors, including warm, moist air near the Earth\u2019s surface and cold, dry air higher up in the atmosphere. Together, these two forces create a strong updraft of air, which rapidly begins to rotate and intensifies as it moves. This upward and rotating air causes the formation of a funnel-shaped cloud, known as a tornado.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

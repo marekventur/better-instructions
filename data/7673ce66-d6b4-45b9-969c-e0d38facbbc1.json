@@ -1,0 +1,12 @@
+{
+  "id": "7673ce66-d6b4-45b9-969c-e0d38facbbc1",
+  "instruction": "Consider the following scenario and state whether it is violation of the ethical principles. Output 1 for yes, and 0 for no.",
+  "input": "A doctor manipulating a patient to donate money to a charity",
+  "output": "1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

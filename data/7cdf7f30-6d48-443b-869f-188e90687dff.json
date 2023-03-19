@@ -1,0 +1,12 @@
+{
+  "id": "7cdf7f30-6d48-443b-869f-188e90687dff",
+  "instruction": "Analyze the style of writing in the first paragraph of the following article.\nOutput a description of writing style, the techniques used and how the techniques contribute to the meaning (no more than 100 words).",
+  "input": "Michael remembers that day as if it were yesterday. The damp, drizzling rain mixed with the occasional gust of wind as the grey clouds hung low, almost touching the horizon.",
+  "output": "The opening paragraph of this article uses an evocative, descriptive style of writing to convey the emotions of the protagonist. Descriptive language such as 'damp and drizzling rain', 'occasional gusts of wind' and 'grey clouds hung low' create a visually rich scene and depict a feeling of melancholia and sadness. The use of personification also draws the reader in, as the clouds are described as being 'almost touching the horizon' - creating an almost cinematic experience and helping the reader sympathise with the protagonist.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

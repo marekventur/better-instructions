@@ -1,0 +1,12 @@
+{
+  "id": "c7ab4187-2299-4c5b-8b13-9d69a612f453",
+  "instruction": "Create an article on how computer vision is used in medical imaging.",
+  "input": "",
+  "output": "Computer vision is being increasingly used in medical imaging in order to detect, diagnose and monitor disease more accurately and efficiently. Medical imaging plays an important role in the accuracy of diagnosis of a wide range of diseases, including neurological disorders, cardiovascular diseases, cancer, and orthopedic disorders. Computer vision algorithms such as deep learning can now be used to detect various types of anomalies such as tumors, fractures, and cardiovascular abnormalities from radiological scans. Computer vision can also be used to detect subtle changes in a patient\u2019s condition over time, which may help in detecting diseases earlier. In addition, computer vision technologies can be used to develop intuitive user-interfaces for medical imaging systems to reduce user errors. By leveraging the power of computer vision, medical imaging is becoming more accurate, efficient and effective.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9ddde912-a64e-4103-9fee-27c5d5d2b55e",
+  "instruction": "Summarise the given text in three sentences.",
+  "input": "The Giant's Causeway is a series of interlocking basalt columns located in Antrim, Northern Ireland. It is made up of 40,000 to 50,000 massive basalt columns, which rise from the sea and stretch 3 miles (4.8 km) to the cliff top. A local legend cites a giant building the causeway to reach Scotland to fight a rival.",
+  "output": "The Giant's Causeway is located in Antrim, Northern Ireland, and is made up of 40,000 to 50,000 basalt columns. It stretches as far as 3 miles from the sea up to the cliff top. According to legend, a giant was supposedly responsible for creating this immense causeway in order to reach Scotland and fight a rival.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

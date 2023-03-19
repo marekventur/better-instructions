@@ -1,0 +1,12 @@
+{
+  "id": "03dd61a1-29e1-4166-ad4a-ad9e89a620b2",
+  "instruction": "Rearrange the words in each sentence to make a gramatically correct sentence.",
+  "input": "inflated dramatically prices the",
+  "output": "The prices inflated dramatically.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

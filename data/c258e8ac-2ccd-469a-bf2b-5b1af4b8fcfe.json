@@ -1,0 +1,12 @@
+{
+  "id": "c258e8ac-2ccd-469a-bf2b-5b1af4b8fcfe",
+  "instruction": "Describe what is hyperparameter optimization and list three popular techniques.",
+  "input": "",
+  "output": "Hyperparameter optimization is the process of automatically finding the best hyperparameters for a machine learning model. Popular techniques for hyperparameter optimization include grid search, random search, and Bayesian optimization. Grid search involves manually defining a set of hyperparameters and evaluating them. Random search involves evaluating randomly selected hyperparameters. Bayesian optimization uses probability distributions and Bayesian inference to search for the optimal hyperparameters.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

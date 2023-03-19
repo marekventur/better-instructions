@@ -1,0 +1,12 @@
+{
+  "id": "be96f5e9-7cac-4842-952e-7f2bb90668cf",
+  "instruction": "Identify the word class of the given word. Output the word class of the word.",
+  "input": "adopt",
+  "output": "Verb",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3eeb3400-eaf5-4862-baf9-c43a6b419a14",
+  "instruction": "Come up with an example of a test question to use in a quiz.",
+  "input": "",
+  "output": "Which of the following is the capital of France? \nA. London\nB. Moscow\nC. Paris\nD. Rome",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

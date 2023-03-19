@@ -1,0 +1,12 @@
+{
+  "id": "38300ac2-5a15-4e74-8771-0563d4daa689",
+  "instruction": "Rewrite a given sentence using the correct grammar.",
+  "input": "He no smarter than me.",
+  "output": "He is not smarter than me.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

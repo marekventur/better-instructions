@@ -1,0 +1,12 @@
+{
+  "id": "e46946eb-fd8b-49ec-8e05-366c4b081635",
+  "instruction": "Describe the contents of the given Wikipedia article in one sentence.",
+  "input": "https://en.wikipedia.org/wiki/Data_visualization",
+  "output": "Data visualization is the process of representing data visually through charts, graphs, and maps in order to make it easier to understand.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

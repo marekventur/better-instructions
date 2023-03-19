@@ -1,0 +1,12 @@
+{
+  "id": "30696569-9c13-4420-9e40-6e63bd622eaa",
+  "instruction": "Given the following string: \"Hello, my name is Bob\", generate the equivalent string in upper case.",
+  "input": "",
+  "output": "\"HELLO, MY NAME IS BOB\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6626b6c2-a1c5-45b4-902d-2ae101a49550",
+  "instruction": "Construct an efficient search query",
+  "input": "I need to find recipes that use both bananas and apples.",
+  "output": "The efficient search query for finding recipes that use both bananas and apples would be \"bananas AND apples recipe\". This query will narrow down the search and only return results that contain both bananas and apples as ingredients.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3f0000b8-959f-495c-8163-324cddb613cf",
+  "instruction": "Suggest 3 alternative websites for the given website.",
+  "input": "Wikipedia.org",
+  "output": "Alternative Websites: Encyclopaedia Britannica (britannica.com), Merriam-Webster Online Dictionary (merriam-webster.com), Encyclopedia of Life (eol.org).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

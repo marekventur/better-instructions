@@ -1,0 +1,12 @@
+{
+  "id": "49902b92-8c7e-417a-bc9b-180c8022bf15",
+  "instruction": "Identify any words that could be replaced with fewer letters.",
+  "input": "The group convened and collaborated on the project.",
+  "output": "The group met and worked on the project.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

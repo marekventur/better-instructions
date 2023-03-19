@@ -1,0 +1,12 @@
+{
+  "id": "117675a1-0503-4433-9dcb-7a8f2587f7be",
+  "instruction": "Write a function that will return the maximum of the following numbers.",
+  "input": "1, 5, 23, 9",
+  "output": "def find_max(nums):\n    biggest = nums[0]\n    for num in nums:\n        if num > biggest:\n            biggest = num\n    return biggest\n\nprint(find_max([1, 5, 23, 9]))\n\nOutput: 23",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

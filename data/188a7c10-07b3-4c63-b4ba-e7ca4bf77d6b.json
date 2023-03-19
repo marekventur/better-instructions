@@ -1,0 +1,12 @@
+{
+  "id": "188a7c10-07b3-4c63-b4ba-e7ca4bf77d6b",
+  "instruction": "Prioritize this list of tasks from highest to lowest",
+  "input": "Clean the kitchen, sweep the floor, go grocery shopping",
+  "output": "Go grocery shopping, clean the kitchen, sweep the floor",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

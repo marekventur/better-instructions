@@ -1,0 +1,12 @@
+{
+  "id": "b2117e13-c2d3-4881-af54-74ec36969593",
+  "instruction": "Identify two ways to make a computer program more efficient.",
+  "input": "",
+  "output": "1. Minimize the use of complex and resource-heavy operations by using simpler algorithms.\n2. Make use of efficient data structures such as heaps and hash tables.\n3. Parallelize computationally intensive operations to take advantage of multiple cores in the processor. \n4. Utilize memory caching and pre-fetching.\n5. Profile and benchmark the program to identify bottlenecks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

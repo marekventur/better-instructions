@@ -1,0 +1,12 @@
+{
+  "id": "ea5241f6-ca69-4dc4-9e9d-13b08768947b",
+  "instruction": "Prepare a cheat sheet for a unit conversion problem.",
+  "input": "Convert 375 millimeters to inches.",
+  "output": "1 millimeter = 0.0393701 inches \n375 millimeters = 14.724409448818898 inches",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

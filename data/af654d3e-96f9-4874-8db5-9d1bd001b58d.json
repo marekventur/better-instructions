@@ -1,0 +1,12 @@
+{
+  "id": "af654d3e-96f9-4874-8db5-9d1bd001b58d",
+  "instruction": "Output the expected output for the following program.",
+  "input": "user_input = int(input(\"Please enter a number: \"))\n\nif (user_input > 0):\n    print(\"positive\")\nelif (user_input == 0):\n    print(\"neutral\")\nelse:\n    print(\"negative\")",
+  "output": "If the user inputs a number greater than 0, the output would be \"positive\". If the user inputs a number less than 0, the output would be \"negative\". If the user inputs 0, the output would be \"neutral\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d4fbc146-9343-4c72-8ae6-a2e8066034ab",
+  "instruction": "Find the median in the given list of numbers.",
+  "input": "9, 2, 7, 4, 1, 6, 8",
+  "output": "6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

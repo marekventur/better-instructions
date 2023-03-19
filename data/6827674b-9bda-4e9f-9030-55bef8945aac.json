@@ -1,0 +1,12 @@
+{
+  "id": "6827674b-9bda-4e9f-9030-55bef8945aac",
+  "instruction": "Rank the importance of the three items from 1 to 3 (1 being the most important).",
+  "input": "Car, shoes, basket",
+  "output": "1 Car\n2 shoes\n3 basket",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

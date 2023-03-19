@@ -1,0 +1,12 @@
+{
+  "id": "ed018d31-8847-4598-a9b8-76932de8ad48",
+  "instruction": "In the following sentence, replace the underlined word with one that has a similar meaning.",
+  "input": "She enjoys to windsurf on hot days.",
+  "output": "She enjoys to surfboard on hot days.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

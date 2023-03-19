@@ -1,0 +1,12 @@
+{
+  "id": "3fe6f9ea-2520-40f3-9a70-31c04c8dc5eb",
+  "instruction": "Classify the given organization into one of the 5 types of business structure.",
+  "input": "The Apple Corporation",
+  "output": "The Apple Corporation is classified as a corporation business structure. Corporations are companies that are owned by shareholders, who share the profits and losses of the company.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

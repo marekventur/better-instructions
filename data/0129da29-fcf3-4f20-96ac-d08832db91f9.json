@@ -1,0 +1,12 @@
+{
+  "id": "0129da29-fcf3-4f20-96ac-d08832db91f9",
+  "instruction": "Write a function that converts a Roman numeral to an integer.",
+  "input": "",
+  "output": "def convert_roman_to_integer(roman):\n    rom_val = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}\n \n    int_val = 0\n    for i in range(len(roman)):\n        if i > 0 and rom_val[roman[i]] > rom_val[roman[i - 1]]:\n            int_val += rom_val[roman[i]] - 2 * rom_val[roman[i - 1]]\n        else:\n            int_val += rom_val[roman[i]]\n\n    return int_val",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

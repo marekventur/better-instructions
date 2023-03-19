@@ -1,0 +1,12 @@
+{
+  "id": "34ecc1a6-a8b4-47dd-9ab8-0e42d74ecaf5",
+  "instruction": "Generate three points to support the statement.",
+  "input": "Employers should encourage flexible working hours.",
+  "output": "1. Flexible working hours would benefit employee well-being by creating more time for hobbies and family activities. \n2. Employers would benefit from a more motivated and productive workforce since employees would have the chance to practice better work-life balance. \n3. Flexible hours would also help in managing stress by allowing employees to take breaks during their shifts, reducing the likelihood of burn-out.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

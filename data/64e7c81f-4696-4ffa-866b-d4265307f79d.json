@@ -1,0 +1,12 @@
+{
+  "id": "64e7c81f-4696-4ffa-866b-d4265307f79d",
+  "instruction": "Sort the following terms based on their increasing atomic number",
+  "input": "Uranium, Helium, Lithium",
+  "output": "Helium, Lithium, Uranium",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

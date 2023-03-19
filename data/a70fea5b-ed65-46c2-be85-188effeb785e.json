@@ -1,0 +1,12 @@
+{
+  "id": "a70fea5b-ed65-46c2-be85-188effeb785e",
+  "instruction": "What is the definition of static query optimization?",
+  "input": "",
+  "output": "Static query optimization is the process of analyzing and optimizing a database query before it is executed. This optimization process can determine the most efficient way of executing a query by considering various characteristics such as the data structures and algorithms used by the database, the data distribution among the tables, and the query structure. By optimizing queries in advance, the database can improve execution performance and minimize query response times.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

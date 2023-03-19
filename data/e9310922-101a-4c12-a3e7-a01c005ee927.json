@@ -1,0 +1,12 @@
+{
+  "id": "e9310922-101a-4c12-a3e7-a01c005ee927",
+  "instruction": "Cite a particular piece of evidence to support the sentence",
+  "input": "Violent video games have been proven to increase aggressive behavior",
+  "output": "Studies have shown that playing violent video games can increase the likelihood of aggressive behavior, such as increasing aggressive thoughts, emotions, and behaviors (Anderson et al., 2004).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ff5c48ba-1c2c-401d-822b-1b29bbaed9dd",
+  "instruction": "Given two different texts, compare them.",
+  "input": "Text A: The cost of living has increased significantly over the past decade.\nText B: The cost of living has decreased significantly in the past decade.",
+  "output": "Text A and Text B contrast in their opinion of the cost of living in the past decade. Text A states that the cost of living has increased significantly while Text B claims that the cost of living has decreased significantly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

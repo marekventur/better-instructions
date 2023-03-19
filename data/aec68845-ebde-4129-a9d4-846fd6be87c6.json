@@ -1,0 +1,12 @@
+{
+  "id": "aec68845-ebde-4129-a9d4-846fd6be87c6",
+  "instruction": "Categorize the following sentence as either factual or opinion-based.",
+  "input": "Math is a difficult subject",
+  "output": "Opinion-based",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

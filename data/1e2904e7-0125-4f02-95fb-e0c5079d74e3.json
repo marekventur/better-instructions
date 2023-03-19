@@ -1,0 +1,12 @@
+{
+  "id": "1e2904e7-0125-4f02-95fb-e0c5079d74e3",
+  "instruction": "Edit the following sentence for grammar mistakes:\nThe cat and the dog are playing in the yard outside.",
+  "input": "The cat and the dog are playing in the yard outside.",
+  "output": "The cat and dog are playing in the yard outside.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

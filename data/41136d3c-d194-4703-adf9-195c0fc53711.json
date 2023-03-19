@@ -1,0 +1,12 @@
+{
+  "id": "41136d3c-d194-4703-adf9-195c0fc53711",
+  "instruction": "What is the final result of the equation?",
+  "input": "5 + 2 * 4 - 3",
+  "output": "The final result of the equation is 11.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

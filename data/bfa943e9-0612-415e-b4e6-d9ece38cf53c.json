@@ -1,0 +1,12 @@
+{
+  "id": "bfa943e9-0612-415e-b4e6-d9ece38cf53c",
+  "instruction": "Given this input, how would you generate a creative poem?",
+  "input": "Magpies",
+  "output": "They chatter in the dawn-touched trees,\nTheir feathers flashing dark and sheen.\nThe magpies of the morning breeze,\nSongbirds of a growing green.\n\nChorusing out their cheerful sound,\nThe magpies gather on the bough.\nTheir music swirling all around,\nBringing joy and mirth somehow.\n\nFly high, oh magpies in the sky,\nYour rhythms bring life to the day.\nYour feathers shimmering in the light,\nYou fill the air with song and play.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

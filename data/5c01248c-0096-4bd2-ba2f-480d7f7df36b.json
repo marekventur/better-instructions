@@ -1,0 +1,12 @@
+{
+  "id": "5c01248c-0096-4bd2-ba2f-480d7f7df36b",
+  "instruction": "Generate a conversation between two people on the given topic.",
+  "input": "Exam anxiety",
+  "output": "Person 1: I'm so stressed out about my upcoming exams!\nPerson 2: It can be really overwhelming. Have you tried any relaxation techniques?\nPerson 1: I've been trying deep breathing, but it hasn't seemed to help much.\nPerson 2: How about creating a plan and breaking the tasks into smaller ones? That way, you won't feel so overwhelmed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

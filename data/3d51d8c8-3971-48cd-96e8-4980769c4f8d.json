@@ -1,0 +1,12 @@
+{
+  "id": "3d51d8c8-3971-48cd-96e8-4980769c4f8d",
+  "instruction": "Train a GPT model to generate book titles with a consistent theme of \u201cmagical animals\u201d.",
+  "input": "",
+  "output": "The GPT model should be trained on a corpus that includes using examples of book titles conventions related to magical animals, such as \"The Adventures of Harry and the Unicorn,\" \"The Magical Dragon and the Guardian Stones,\" and \"The Secret of the Phoenix.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

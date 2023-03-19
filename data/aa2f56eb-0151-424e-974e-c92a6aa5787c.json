@@ -1,0 +1,12 @@
+{
+  "id": "aa2f56eb-0151-424e-974e-c92a6aa5787c",
+  "instruction": "Explain the characteristics of generative models",
+  "input": "",
+  "output": "Generative models are a class of Artificial Intelligence models that are able to generate outputs that match given data or other desired criteria. They can be used for a range of tasks, such as image generation, text generation, speech recognition, and data prediction. Generative models are trained on large collections of data and usually use deep learning techniques to learn patterns in that data. They are often framed as generative adversarial networks, meaning they learn unobserved data distributions by using two competing models. This type of model has powerful applications in many areas, such as machine translation, image synthesis, and natural language processing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

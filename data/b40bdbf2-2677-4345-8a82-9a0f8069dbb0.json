@@ -1,0 +1,12 @@
+{
+  "id": "b40bdbf2-2677-4345-8a82-9a0f8069dbb0",
+  "instruction": "Create a dialogue between two friends discussing the best way to spend their Saturday.",
+  "input": "",
+  "output": "Friend 1: What are we going to do this Saturday?\nFriend 2: How about going to the amusement park? \nFriend 1: Great! That sounds like fun. \nFriend 2: Yeah and then afterwards, we can grab dinner at the food court. \nFriend 1: That's a great idea! Let's do it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b5f3ee34-a9ed-473c-88ba-d90a9b17291e",
+  "instruction": "Given the following sentence, mark the parts of speech: The dog barked loudly.",
+  "input": "The dog barked loudly.",
+  "output": "The (Determiner) dog (Noun) barked (Verb) loudly (Adverb).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

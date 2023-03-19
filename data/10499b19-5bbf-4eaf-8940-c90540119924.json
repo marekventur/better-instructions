@@ -1,0 +1,12 @@
+{
+  "id": "10499b19-5bbf-4eaf-8940-c90540119924",
+  "instruction": "Write the rules for a card game.",
+  "input": "",
+  "output": "The rules of the card game are as follows:\n\n1. The game is played between two to four players. \n2. Each player is dealt five cards. \n3. The first player puts down one card that is either of the same suit or rank as the card previously put down. If a player cannot put down a card they must draw three cards from the remaining cards in the deck. \n4. The game ends when one player has no more cards or the deck is depleted of cards. \n5. The player with the most cards left in their hand when the game ends is the winner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

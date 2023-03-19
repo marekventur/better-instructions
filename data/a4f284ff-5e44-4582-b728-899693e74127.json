@@ -1,0 +1,12 @@
+{
+  "id": "a4f284ff-5e44-4582-b728-899693e74127",
+  "instruction": "Add parentheses to the following algebraic expression to make it clearer.",
+  "input": "8x7y+3",
+  "output": "(8x)(7y) + 3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e5157891-4568-4c95-a903-96a50211feac",
+  "instruction": "Add two sentences to an email reply to let the recipient know that you understand their situation.",
+  "input": "My apologies for the inconvenience.",
+  "output": "My apologies for the inconvenience. I understand this may have caused you some stress and I want to assure you that I'm doing everything I can to resolve this issue. I'll keep you informed of any new developments and will do my best to make this as easy as possible.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

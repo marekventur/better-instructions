@@ -1,0 +1,12 @@
+{
+  "id": "a99a9673-b0de-4278-b673-4c48a2304c04",
+  "instruction": "See if the following mathematical expression is correct",
+  "input": "(8 + 3) - 5 X 2",
+  "output": "This mathematical expression is incorrect. The correct expression would be (8 + 3) - (5 X 2).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

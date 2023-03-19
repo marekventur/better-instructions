@@ -1,0 +1,12 @@
+{
+  "id": "6fa3163a-c673-4204-a24d-66120664cd54",
+  "instruction": "Retrieve the price of a one-way ticket from NY to LA.",
+  "input": "",
+  "output": "The average price of a one-way ticket from New York (JFK) to Los Angeles (LAX) is $227.56.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

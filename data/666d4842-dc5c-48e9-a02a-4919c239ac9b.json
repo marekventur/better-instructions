@@ -1,0 +1,12 @@
+{
+  "id": "666d4842-dc5c-48e9-a02a-4919c239ac9b",
+  "instruction": "Create a sales pitch to convince someone to buy a new car.",
+  "input": "Make: Ford\nModel: Mustang\nYear: 2019",
+  "output": "Are you in the market for a car that can turn heads and provide you with adrenaline-pumping performance? Look no further than the 2019 Ford Mustang! This car has it all - a modern design with a timeless look, powerful engine and handling for an unmatched driving experience. With advanced technologies and cutting-edge safety features, the 2019 Mustang is an ideal vehicle for any driver. And with its affordable price tag, it\u2019s an unbeatable value. So don\u2019t miss out on this incredible opportunity, and take your Mustang for a test drive today!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

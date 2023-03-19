@@ -1,0 +1,12 @@
+{
+  "id": "4f3f0794-9a51-498a-8c16-d49d13c28175",
+  "instruction": "Explain how to solve a Rubik's cube.",
+  "input": "",
+  "output": "Solving a Rubik's cube can be broken down into three steps: first, creating the white cross; second, completing the white corners; and third, solving the middle layer and finally completing the top layer. For the first step, hold the cube so that the white face is facing up. Interchanging the bottom and middle layers, move the pieces of the white cross to the correct positions. In the second step, hold the cube so that the white face is on the bottom, and twist the edges and corners to match the rest of the cube. In the third step, turn the cube over so the white face is facing up. Swap the edges until they match the white face, and twist the corners into the correct position. Finally, complete the top layer by aligning the edge pieces and then twisting the corners. When done correctly, all of the cube's faces should be fully aligned.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

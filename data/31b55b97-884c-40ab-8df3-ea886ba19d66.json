@@ -1,0 +1,12 @@
+{
+  "id": "31b55b97-884c-40ab-8df3-ea886ba19d66",
+  "instruction": "List all the possible interpretations of the following sentence.",
+  "input": "I saw him leave",
+  "output": "Possible interpretations: \n1. I saw him depart.\n2. I watched as he left.\n3. I watched someone leave, assuming it was him.\n4. I witnessed him going away.\n5. I found out he had left.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "65e768fb-e393-4670-b681-fc3f4b3c3932",
+  "instruction": "Find the third number in the given sequence.",
+  "input": "2, 4, 6, 8",
+  "output": "6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

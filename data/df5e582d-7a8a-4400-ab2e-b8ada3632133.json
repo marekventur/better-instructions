@@ -1,0 +1,12 @@
+{
+  "id": "df5e582d-7a8a-4400-ab2e-b8ada3632133",
+  "instruction": "Write a function to design a chessboard.",
+  "input": "",
+  "output": "def design_chessboard(size):\n    \"\"\"\n    This function creates a chessboard of the specified size\n    \"\"\"\n    board = []\n    # Create the board with alternating colors\n    for i in range(size):\n        row = []\n        for j in range(size):\n            if (i+j) % 2 == 0:\n                row.append(\"BLK\")\n            else:\n                row.append(\"WHT\")\n        board.append(row)\n    return board",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

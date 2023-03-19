@@ -1,0 +1,12 @@
+{
+  "id": "8e8c2e16-0281-4adb-b370-f48e339bf140",
+  "instruction": "Given a song lyrics, generate a rhyming couplet.",
+  "input": "Lyrics: \nLivin' day to day, it's so hard to find\nA reason to smile, even if it's just in my mind",
+  "output": "Time heals the pain, though it takes a great toll\nAnd though I'm not sure, I'm determined to be bold.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

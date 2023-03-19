@@ -1,0 +1,12 @@
+{
+  "id": "69b21929-3ffb-45de-99c0-e95ff1b50d7e",
+  "instruction": "Find ways to improve the following code snippet.",
+  "input": "def leap_year(year): \n    if (year % 4 == 0 and year % 100 != 0) or year % 400 == 0: \n        return True \n    else: \n        return False",
+  "output": "def is_leap_year(year): \n    \"\"\"Returns True if the given year is a leap year.\n  \n    Args:\n        year (int): A year represented in integer.\n  \n    Returns:\n        bool: True if the given year is a leap year, otherwise False.\n    \"\"\"\n    if (year % 4 == 0 and year % 100 != 0) or year % 400 == 0: \n        return True \n    return False",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

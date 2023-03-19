@@ -1,0 +1,12 @@
+{
+  "id": "5b3d2854-c113-462b-9656-ff27e5ce41c5",
+  "instruction": "Identify the odd word among the following.",
+  "input": "scream, whisper, shout",
+  "output": "whisper",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

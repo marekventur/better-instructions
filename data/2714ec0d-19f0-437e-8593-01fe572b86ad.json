@@ -1,0 +1,12 @@
+{
+  "id": "2714ec0d-19f0-437e-8593-01fe572b86ad",
+  "instruction": "Classify the following text as either relevant or not relevant to the topic of renewable energy.\nOutput:",
+  "input": "Carbon dioxide emissions contribute to global warming.",
+  "output": "Relevant",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

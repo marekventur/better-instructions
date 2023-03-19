@@ -1,0 +1,12 @@
+{
+  "id": "1dc290be-a5b9-4b06-a619-79374ce8826a",
+  "instruction": "Write a command prompt program that returns a string.",
+  "input": "",
+  "output": "start python\n\nprint(\"Hello, World!\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

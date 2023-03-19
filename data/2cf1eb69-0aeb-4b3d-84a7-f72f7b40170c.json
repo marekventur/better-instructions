@@ -1,0 +1,12 @@
+{
+  "id": "2cf1eb69-0aeb-4b3d-84a7-f72f7b40170c",
+  "instruction": "Output the 3rd and 7th element of the following list:",
+  "input": "[1, 5, 8, 11, 15, 20, 24, 30]",
+  "output": "Third element: 8 \nSeventh element: 24",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

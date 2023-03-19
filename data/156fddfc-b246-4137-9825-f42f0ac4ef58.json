@@ -1,0 +1,12 @@
+{
+  "id": "156fddfc-b246-4137-9825-f42f0ac4ef58",
+  "instruction": "Classify this sentence according to the type of emotion it conveys.",
+  "input": "I'm so mad I could scream.",
+  "output": "Anger",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

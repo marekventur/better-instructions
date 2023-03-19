@@ -1,0 +1,12 @@
+{
+  "id": "62c949f3-0ea6-4e35-8e32-4c490216501d",
+  "instruction": "Which of the following is not a feature of a national park:",
+  "input": "a) Restricted access\nb) Built structures\nc) Waterfalls\nd) Fishing",
+  "output": "Built structures (b) is not a feature of a national park.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

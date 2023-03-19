@@ -1,0 +1,12 @@
+{
+  "id": "8e3fc6df-6794-4b4c-b05e-700ff4ad0ea2",
+  "instruction": "Classify this fruit as either a citrus or a stone fruit.",
+  "input": "Peach",
+  "output": "Stone fruit.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

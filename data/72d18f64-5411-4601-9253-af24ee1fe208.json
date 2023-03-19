@@ -1,0 +1,12 @@
+{
+  "id": "72d18f64-5411-4601-9253-af24ee1fe208",
+  "instruction": "Create a short story of 4-5 sentences based on the following facts.",
+  "input": "Setting: Mountain\nProtagonist: Fisherman\nAntagonist: Shark",
+  "output": "The fisherman ventured up the mountain in search of a good catch. He had heard that the river he was heading to was full of fish, so he was eager to get to the water. But as soon as he reached the river, he heard a loud splash. He saw a giant shark swim away from him. The fisherman was intimidated, but he was determined to catch some fish. Despite the ominous presence of the shark, he continued fishing for the rest of the day and eventually had a great catch.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

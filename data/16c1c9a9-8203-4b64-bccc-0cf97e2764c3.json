@@ -1,0 +1,12 @@
+{
+  "id": "16c1c9a9-8203-4b64-bccc-0cf97e2764c3",
+  "instruction": "Replace all nouns with pronouns",
+  "input": "Marcus was walking down the street.",
+  "output": "He was walking down the street.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

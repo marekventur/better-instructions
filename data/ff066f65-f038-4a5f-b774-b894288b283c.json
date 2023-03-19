@@ -1,0 +1,12 @@
+{
+  "id": "ff066f65-f038-4a5f-b774-b894288b283c",
+  "instruction": "Given a set of numbers, create a program to print out a boolean value (True/False) to tell if one of the numbers is a perfect square.",
+  "input": "nums = [2, 3, 4, 6, 7]",
+  "output": "# Program to check if one of the numbers is a perfect square\n\nnums = [2, 3, 4, 6, 7]\n\n# Boolean variable to store the result\nresult = False\n\n# Go through the list and check if one of the numbers is a perfect square\nfor num in nums:\n  if (num ** 0.5) % 1 == 0:\n    result = True\n    break\n\nprint(result) # Prints True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

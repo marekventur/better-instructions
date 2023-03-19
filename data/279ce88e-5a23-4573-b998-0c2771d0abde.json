@@ -1,0 +1,12 @@
+{
+  "id": "279ce88e-5a23-4573-b998-0c2771d0abde",
+  "instruction": "Predict what type of output the model would generate.",
+  "input": "The current temperature is 95 degrees Fahrenheit.",
+  "output": "The model would generate the output of 95 degrees Fahrenheit.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

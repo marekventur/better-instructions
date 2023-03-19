@@ -1,0 +1,12 @@
+{
+  "id": "4705693d-f09f-41e7-a385-5f94ab63231f",
+  "instruction": "Reorganize the given paragraph to make its meaning more clear.",
+  "input": "Global warming, greenhouse effect, climate change, and corresponds are the terms we would usually use when speaking about the rise in temperatures in our atmosphere.",
+  "output": "The terms we usually use when speaking about the rise in temperatures in our atmosphere are global warming, climate change, and the corresponding greenhouse effect.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

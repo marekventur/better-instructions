@@ -1,0 +1,12 @@
+{
+  "id": "ec48a854-2a21-4715-8aa3-5361b6717232",
+  "instruction": "Arrange the list of ingredients in the correct order for a salad.",
+  "input": "Tomatoes, lettuce, salt, oil, pepper",
+  "output": "The correct order for making a salad is lettuce, tomatoes, salt, pepper, and oil.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

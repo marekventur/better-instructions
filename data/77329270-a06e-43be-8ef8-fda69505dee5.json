@@ -1,0 +1,12 @@
+{
+  "id": "77329270-a06e-43be-8ef8-fda69505dee5",
+  "instruction": "Classify the tweet based on sentiment. Output \"positive\", \"negative\", or \"neutral\".",
+  "input": "Just had the best ice cream of my life!",
+  "output": "positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

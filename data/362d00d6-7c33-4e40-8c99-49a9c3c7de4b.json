@@ -1,0 +1,12 @@
+{
+  "id": "362d00d6-7c33-4e40-8c99-49a9c3c7de4b",
+  "instruction": "Generate a list of 5 of the most important components of an essay.",
+  "input": "",
+  "output": "1. Introduction - A clear and interesting introduction paragraph to draw readers in and make them want to keep reading.\n2. Thesis statement - A succinct statement of the main point or argument of the essay.\n3. Main body - Detailed arguments and evidence supporting the main point.\n4. Counterarguments - Thoughtful and respectful acknowledgement of opposing views.\n5. Conclusion - A clear and concise summary of the main points and a restatement of the thesis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

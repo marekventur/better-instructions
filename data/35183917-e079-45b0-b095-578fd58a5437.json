@@ -1,0 +1,12 @@
+{
+  "id": "35183917-e079-45b0-b095-578fd58a5437",
+  "instruction": "Create a recipe for one-ingredient dill pickles.",
+  "input": "",
+  "output": "Ingredients:\n\u2022 4 cups fresh cucumbers\n\u2022 2 tablespoons sea salt\n\u2022 1 tablespoon black peppercorns\n\u2022 1 tablespoon coriander seeds\n\u2022 2 cloves garlic\n\u2022 1/2 cup fresh dill\n\u2022 2 cups water\n\u2022 2 cups white vinegar\n\nInstructions:\n1. Scrub the cucumbers and slice them into desired shapes.\n2. In a bowl, add the cucumbers, salt, peppercorns, coriander, garlic, and dill.\n3. Massage the mixture gently and set aside for 30 minutes.\n4. In a medium saucepan, combine the water, vinegar, and remaining spices. Simmer for 5 minutes, stirring the liquids occasionally.\n5. In a jar or container, layer the cucumber slices and the liquid mixture. Seal the jar or container and refrigerate for at least 3 days before serving.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

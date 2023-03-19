@@ -1,0 +1,12 @@
+{
+  "id": "6da69901-e26c-4ff2-9839-85d6eb25609b",
+  "instruction": "Identify and list down at least three technical details that are different between a desktop computer and a laptop",
+  "input": "",
+  "output": "- Desktop computers are typically larger in size and have more powerful processors and GPUs. \n- Laptops are more portable and typically have lower power consumption than desktops. \n- Desktops have more slots for other components such as additional hard drives and memory cards, while most laptops have limited numbers of these slots.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

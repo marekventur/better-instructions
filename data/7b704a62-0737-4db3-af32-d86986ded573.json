@@ -1,0 +1,12 @@
+{
+  "id": "7b704a62-0737-4db3-af32-d86986ded573",
+  "instruction": "Identify 4 key benefits of the product or service.",
+  "input": "The product is a subscription-based software hosted on the cloud.",
+  "output": "1. Secure and easily accessible way to store and manage customer data. \n2. Custom fields, search and filters, and automated notifications to help effectively manage and use customer data. \n3. Ability to access the data remotely without needing to invest in physical hardware. \n4. Reduced cost of operation associated with customer data management.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

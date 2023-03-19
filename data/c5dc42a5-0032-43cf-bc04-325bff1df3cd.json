@@ -1,0 +1,12 @@
+{
+  "id": "c5dc42a5-0032-43cf-bc04-325bff1df3cd",
+  "instruction": "Arrange the following musical notes",
+  "input": "G, B, E",
+  "output": "E, G, B",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

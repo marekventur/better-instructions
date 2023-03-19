@@ -1,0 +1,12 @@
+{
+  "id": "81c2fe8d-285f-4b29-8ff3-bd1710e7c0b7",
+  "instruction": "Generate a data visualization display.",
+  "input": "",
+  "output": "A line graph that illustrates the growth of an industry, with the x-axis representing time and the y-axis representing the increase in the number of industry participants. The graph will have four different colors for different types of participants, and each line will show how the overall growth of the industry is affected by changes in the numbers of each type of participant.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

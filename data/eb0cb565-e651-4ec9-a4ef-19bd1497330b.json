@@ -1,0 +1,12 @@
+{
+  "id": "eb0cb565-e651-4ec9-a4ef-19bd1497330b",
+  "instruction": "From the given list of items, identify the appropriate verb:",
+  "input": "Apple\n\nlist, cook, open",
+  "output": "The appropriate verb for the item \"apple\" is \"cook\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

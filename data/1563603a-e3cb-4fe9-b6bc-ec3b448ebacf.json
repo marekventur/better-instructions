@@ -1,0 +1,12 @@
+{
+  "id": "1563603a-e3cb-4fe9-b6bc-ec3b448ebacf",
+  "instruction": "Design a meal plan for weight loss.",
+  "input": "I am looking to lose 10 pounds in one month.",
+  "output": "For a weight loss meal plan, you could have three meals and two snacks each day. Include plenty of produce, such as fruits and vegetables, and lean proteins in each meal. Include healthy fats, such as avocado and nuts, in moderate amounts. Limit processed and high-sugar foods. Be sure to drink plenty of water throughout the day, and try to get regular exercise.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

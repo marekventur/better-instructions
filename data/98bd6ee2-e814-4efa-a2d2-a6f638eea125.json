@@ -1,0 +1,12 @@
+{
+  "id": "98bd6ee2-e814-4efa-a2d2-a6f638eea125",
+  "instruction": "Design a visual representation of the data given below.",
+  "input": "The number of public transport users in New York increased by 24% in 2019 compared to 2018.",
+  "output": "A bar graph can be used to visually represent this data. The x-axis will represent the year (2018 and 2019), while the y-axis will represent the number of public transport users. The bars will be labeled with the year and it will show an increase of 24% for 2019 compared to 2018.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

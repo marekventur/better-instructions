@@ -1,0 +1,12 @@
+{
+  "id": "42e6b885-20b6-4229-b2a9-1e9d60238fc9",
+  "instruction": "Describe the differences between system and application software.",
+  "input": "",
+  "output": "System software provides the underlying foundation for a computer system and for the application software that runs on it. It provides a platform for the operation of programs, manages memory and peripheral devices, and serves as the interface between human operators and computer applications. On the other hand, application software is designed to meet specific needs that could range from playing a game to running a complex business system.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

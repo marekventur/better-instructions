@@ -1,0 +1,12 @@
+{
+  "id": "4b657124-c371-4acf-84fc-c91db56bcbfa",
+  "instruction": "Write a mathematical expression that evaluates to 8 given the variables a, b, and x.",
+  "input": "",
+  "output": "a * b + (x - a) * b = 8",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

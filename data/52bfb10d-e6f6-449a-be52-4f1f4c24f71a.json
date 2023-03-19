@@ -1,0 +1,12 @@
+{
+  "id": "52bfb10d-e6f6-449a-be52-4f1f4c24f71a",
+  "instruction": "Replace the words in italics with another that has a similar meaning.",
+  "input": "The teacher was obviously frustrated with the students' apathy.",
+  "output": "The teacher was clearly exasperated with the students' indifference.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

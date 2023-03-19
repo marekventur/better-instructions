@@ -1,0 +1,12 @@
+{
+  "id": "d0a422b0-b356-445e-bf73-476a2a869bd9",
+  "instruction": "Delete an article from the sentence.",
+  "input": "I ate an apple, a pear, and an orange for lunch.",
+  "output": "I ate an apple, a pear for lunch.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

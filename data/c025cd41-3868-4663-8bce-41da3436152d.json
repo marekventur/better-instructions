@@ -1,0 +1,12 @@
+{
+  "id": "c025cd41-3868-4663-8bce-41da3436152d",
+  "instruction": "Discern which of these statements is true.",
+  "input": "It is illegal to hunt endangered species. The hunting of animals threatened with extinction is allowed in some countries.",
+  "output": "It is illegal to hunt endangered species.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

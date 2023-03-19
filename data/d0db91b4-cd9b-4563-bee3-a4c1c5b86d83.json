@@ -1,0 +1,12 @@
+{
+  "id": "d0db91b4-cd9b-4563-bee3-a4c1c5b86d83",
+  "instruction": "Analyze the given text and translate it into a numerical score",
+  "input": "Text: \nThe product is excellent and works well for my needs.",
+  "output": "The given text can be rated 9 out of 10, indicating that the product is highly satisfactory and could meet the needs of the customer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

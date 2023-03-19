@@ -1,0 +1,12 @@
+{
+  "id": "95160bfd-92de-4e7b-9698-f1a4237934b0",
+  "instruction": "Take the given quote and create a last sentence for it.",
+  "input": "\"The best way to predict the future is to create it\"",
+  "output": "It's time to start creating your own future.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

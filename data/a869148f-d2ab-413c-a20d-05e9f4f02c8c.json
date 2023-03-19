@@ -1,0 +1,12 @@
+{
+  "id": "a869148f-d2ab-413c-a20d-05e9f4f02c8c",
+  "instruction": "Summarize the text \u201cThe Cat in the Hat\u201d in less than 100 words",
+  "input": "The Cat in the Hat is a children's book written and illustrated by Theodor Geisel under the pen name Dr. Seuss and first published in 1957. The story centers on a tall, anthropomorphic, mischievous cat, who wears a red and white-striped hat and a red bow tie.",
+  "output": "The Cat in the Hat is a beloved classic written by Dr. Seuss. It tells the story of two children whose rainy day is interrupted by a mischievous cat in a red and white-striped hat. This tall, playful cat causes quite the stir as he helps the two children explore their creativity, enjoy themselves, and tidy up their home by the end of the day. It's a merry tale that doesn't fail to delight!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

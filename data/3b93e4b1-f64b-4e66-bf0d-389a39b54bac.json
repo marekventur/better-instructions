@@ -1,0 +1,12 @@
+{
+  "id": "3b93e4b1-f64b-4e66-bf0d-389a39b54bac",
+  "instruction": "Rank the teams listed according to their final scores.",
+  "input": "Team 1: 30, Team 2: 40, Team 3: 50, Team 4: 20",
+  "output": "Team 3: 50, Team 2: 40, Team 1: 30, Team 4: 20",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3eb7865f-44ad-485a-9bd4-9886324b754c",
+  "instruction": "Generate three controls for a web page.",
+  "input": "",
+  "output": "-A text input control, for users to enter text-based data.\n-A checkbox control, for users to select multiple options from a list.\n-A dropdown menu control, for users to select a single option from a list.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

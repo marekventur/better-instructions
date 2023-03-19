@@ -1,0 +1,12 @@
+{
+  "id": "2cda8c2a-659b-41b3-9b77-1cb93401a1bd",
+  "instruction": "Output two words that are opposite in meaning of the following word.",
+  "input": "Attractive",
+  "output": "Unappealing, Unattractive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

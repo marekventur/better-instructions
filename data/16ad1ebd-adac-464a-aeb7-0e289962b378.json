@@ -1,0 +1,12 @@
+{
+  "id": "16ad1ebd-adac-464a-aeb7-0e289962b378",
+  "instruction": "Predict the trend for the following data.",
+  "input": "Year: 2010, 2011, 2012, 2013, 2014 \nSales: 10, 15, 16, 18, 19",
+  "output": "The trend for this data indicates that sales will continue to increase. A linear regression would lead us to predict that sales in 2015 will be",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

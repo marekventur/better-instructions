@@ -1,0 +1,12 @@
+{
+  "id": "c29e3928-a634-40e4-956a-dc00e88a7c14",
+  "instruction": "Pick out the correct noun from the following list.",
+  "input": "river, mountain, book",
+  "output": "River",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

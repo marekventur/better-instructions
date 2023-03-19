@@ -1,0 +1,12 @@
+{
+  "id": "0a369e96-ac54-4709-ba2a-3b595b98dc30",
+  "instruction": "Assume you are a web designer, create an HTML layout using CSS classes.",
+  "input": "No input",
+  "output": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-md-6\">\n      <div class=\"main-content\">\n        <!-- main content goes here -->\n      </div>\n    </div>\n    <div class=\"col-md-6 sidebar-container\">\n      <div class=\"sidebar-content\">\n        <!-- sidebar content goes here -->\n      </div>\n    </div>\n  </div>\n</div>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

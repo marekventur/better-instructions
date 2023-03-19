@@ -1,0 +1,12 @@
+{
+  "id": "0d83f039-7600-419e-920e-216de296a0c0",
+  "instruction": "Create a Mad Lib story.",
+  "input": "",
+  "output": "Once upon a time there was a brave(adjective) knight who lived in a(adjective) castle. Every morning he would awake at(time) and go off to fight (plural noun) with his trusty(noun) by his side. His arch nemesis, the evil(noun) would always be waiting to try and defeat him. But no matter how many times the evil(noun) challenged him, the knight would always triumph. Eventually the knight became so powerful that no one dared challenge him ever again, and he lived happily ever after in his grand (adjective) castle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

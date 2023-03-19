@@ -1,0 +1,12 @@
+{
+  "id": "4518470a-a9c9-4e1e-adcb-a319f7fedf21",
+  "instruction": "Analyze the given poem and write a short summary.",
+  "input": "The fires that raged throughout the night \nGave light in the darkest of days \nThe flames rose so hot and so bright \nThat light was created from the blaze",
+  "output": "This poem is about the transformation of darkness and despair into something positive, like a fire rising and providing light and hope. The poem speaks to a difficult situation that has now become illuminated and easier to face. This can refer to a moment of enlightenment or a challenge faced in life. The last two lines of the poem are emphasizing that this transformative light was born from the fire burning in its own intensity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

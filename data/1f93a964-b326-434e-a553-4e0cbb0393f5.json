@@ -1,0 +1,12 @@
+{
+  "id": "1f93a964-b326-434e-a553-4e0cbb0393f5",
+  "instruction": "Describe how facial recognition algorithms work.",
+  "input": "",
+  "output": "Facial recognition algorithms identify and analyze facial features from an image of a face. The algorithms use techniques derived from both computer vision and machine learning to identify a face, or compare faces to each other. This technology typically breaks down the facial recognition process into stages, such as detecting and aligning faces, extracting facial features, comparing the facial features to a database, and generating a match score. The applications of facial recognition algorithms range from security to automatic check-in, and have seen a huge growth in recent years due to the advancements of deep learning.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

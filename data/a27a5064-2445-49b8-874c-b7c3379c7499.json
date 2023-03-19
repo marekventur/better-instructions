@@ -1,0 +1,12 @@
+{
+  "id": "a27a5064-2445-49b8-874c-b7c3379c7499",
+  "instruction": "What discussion topics should not be brought up at this type of meeting?",
+  "input": "This meeting is a first date.",
+  "output": "You should avoid bringing up topics such as religion, politics, past relationships, personal finances, exes, health issues, or anything that is overly controversial. Focus on lighthearted topics such as your favorite food, hobby, or TV show instead.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "27728731-aa5d-4fe5-a8a1-15cee12d98cc",
+  "instruction": "Identify the missing words from the following phrase.",
+  "input": "Phrase: \"___ is the best ___\"",
+  "output": "\"Quality is the best investment\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

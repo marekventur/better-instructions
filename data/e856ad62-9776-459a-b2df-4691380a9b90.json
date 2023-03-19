@@ -1,0 +1,12 @@
+{
+  "id": "e856ad62-9776-459a-b2df-4691380a9b90",
+  "instruction": "Create a SQL query for the given database to select the customer records with a customer id of 1000 or greater.",
+  "input": "",
+  "output": "SELECT * \nFROM customer \nWHERE customer id >= 1000;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

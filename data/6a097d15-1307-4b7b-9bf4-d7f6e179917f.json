@@ -1,0 +1,12 @@
+{
+  "id": "6a097d15-1307-4b7b-9bf4-d7f6e179917f",
+  "instruction": "Given a word, create a word that is an antonym of the given word.",
+  "input": "love",
+  "output": "hate",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "050902d6-49e9-460e-8f09-ee42e944e354",
+  "instruction": "Given a person's job, come up with an inventive way to describe their work.",
+  "input": "Chef",
+  "output": "The chef is an alchemist in the kitchen, producing delicious feasts out of simple ingredients.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

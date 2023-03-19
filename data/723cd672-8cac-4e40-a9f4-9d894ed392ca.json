@@ -1,0 +1,12 @@
+{
+  "id": "723cd672-8cac-4e40-a9f4-9d894ed392ca",
+  "instruction": "List the first ten numbers of Fibonacci sequence.",
+  "input": "",
+  "output": "0, 1, 1, 2, 3, 5, 8, 13, 21, 34.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

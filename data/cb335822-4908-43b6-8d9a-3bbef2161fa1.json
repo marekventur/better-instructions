@@ -1,0 +1,12 @@
+{
+  "id": "cb335822-4908-43b6-8d9a-3bbef2161fa1",
+  "instruction": "Identify all the business risks associated with a company.",
+  "input": "",
+  "output": "The business risks associated with a company may include financial risk, operational risk, market risk, liquidity risk, reputational risk, legal risk, security risk, strategic risk, and regulatory risk. Financial risk involves the possibility of losses due to fluctuations in asset prices or unanticipated liabilities. Operational risk is the possibility of losses due to errors or inefficiencies in internal processes. Market risk is related to changes in a company's market position or the general economic environment. Liquidity risk is the possibility of not being able to meet obligations or capitalize on opportunities. Reputational risk involves the risk of damage to a company's image due to negative publicity or customer dissatisfaction. Legal risk involves the risk of lawsuits, government action, and other legal liabilities. Security risk is related to the security of data and networks. Strategic risk is the risk that a company's long-term goals may not be achieved due to the chosen strategies. Regulatory risk involves the possibility of non-compliance with industry regulations.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8883239c-a968-4796-b70a-12eb7f8cbd19",
+  "instruction": "Write a short definition of the term \"artificial neural network\".",
+  "input": "",
+  "output": "An artificial neural network (ANN) is a type of artificial intelligence that uses a network of interconnected nodes to model complex and non-linear relationships between inputs and outputs, inspired by biological neural networks. The information is processed and transmitted between the nodes until a result or output is achieved. ANNs can be used for tasks such as pattern and object recognition, data classification, and prediction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

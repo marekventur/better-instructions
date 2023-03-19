@@ -1,0 +1,12 @@
+{
+  "id": "1fbfde9f-94c4-4251-bcef-91b39fc51ae3",
+  "instruction": "Rewrite the following sentence starting with \u201cShe was\u201d",
+  "input": "The girl had a beautiful dress.",
+  "output": "She was wearing a beautiful dress.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0dcdbbbb-06f9-4ae5-b01a-862f170beb65",
+  "instruction": "Find all palindromes in this string: dog, racecar, radar, madam",
+  "input": "\u201cdog, racecar, radar, madam\u201d",
+  "output": "racecar, radar, madam",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

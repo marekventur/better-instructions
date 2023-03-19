@@ -1,0 +1,12 @@
+{
+  "id": "b003824e-5dbf-491c-b1b8-2b7d1b5bf31c",
+  "instruction": "Generate a code to output the first 50 Fibonacci numbers.",
+  "input": "",
+  "output": "\"\"\"\nOutput the first 50 Fibonacci numbers\n\"\"\"\n\nnterms = 50\n\n# first tow terms\nn1 = 0\nn2 = 1\ncount = 0\n\n# check if the number of terms is valid\nif nterms <= 0:\n   print(\"Please enter a positive integer\")\nelif nterms == 1:\n   print(\"Fibonacci sequence up to\",nterms,\":\")\n   print(n1)\nelse:\n   print(\"Fibonacci sequence:\")\n   while count < nterms:\n       print(n1,end=' , ')\n       nth = n1 + n2\n       # update values\n       n1 = n2\n       n2 = nth\n       count += 1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

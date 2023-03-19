@@ -1,0 +1,12 @@
+{
+  "id": "d6584197-0567-4e77-9f7f-337740a8a9a0",
+  "instruction": "Rewrite the given sentences such that it does not contain any redundancies.",
+  "input": "I stayed in my bedroom in my own house that I own.",
+  "output": "I stayed in my bedroom in my house.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c166f423-73ef-4649-9373-35018133f23d",
+  "instruction": "Edit the given sentence to remove ambiguity.",
+  "input": "I bought apples, oranges, and pears at the store.",
+  "output": "I bought apples, oranges, and pears from the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

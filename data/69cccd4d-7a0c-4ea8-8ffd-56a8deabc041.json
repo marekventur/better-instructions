@@ -1,0 +1,12 @@
+{
+  "id": "69cccd4d-7a0c-4ea8-8ffd-56a8deabc041",
+  "instruction": "Given the following sentence, please insert an appropriate pronoun in the blank: \"John ______ likes to play soccer\".",
+  "input": "",
+  "output": "John he likes to play soccer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

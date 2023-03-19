@@ -1,0 +1,12 @@
+{
+  "id": "44631812-8272-44dc-b0f6-f6f80c003a0c",
+  "instruction": "Recode the following set of numbers from positive to negative.",
+  "input": "1, 2, 5, 9",
+  "output": "-1, -2, -5, -9",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

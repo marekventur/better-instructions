@@ -1,0 +1,12 @@
+{
+  "id": "c1001ed5-6152-41cc-abe1-cf65a7d22b5a",
+  "instruction": "Based on the following description of a data set, decide which elements from this set are categorical and which are numerical.",
+  "input": "The data set contains information of students belonging to a particular school. It includes details such as student name, grade, and heights in cm.",
+  "output": "The element student name is categorical and the elements grade and heights in cm are numerical.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

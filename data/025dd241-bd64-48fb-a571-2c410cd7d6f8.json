@@ -1,0 +1,12 @@
+{
+  "id": "025dd241-bd64-48fb-a571-2c410cd7d6f8",
+  "instruction": "Generate a critical review of a product based on the description.",
+  "input": "This watch is a beautiful addition to any wardrobe. It has a classic style and comes in a variety of colors.",
+  "output": "This watch is not what it appears to be. Although it comes in a variety of colors and has a classic style, it falls short on quality. The watch is poorly made and the straps are flimsy. The color fades quickly and the watch does not keep accurate time. Overall, this watch is an overpriced product and not worth considering.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

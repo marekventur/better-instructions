@@ -1,0 +1,12 @@
+{
+  "id": "9c19357e-e3f5-4970-bec3-77d757a6a0ed",
+  "instruction": "Design a web page with 5 navigation items",
+  "input": "",
+  "output": "The website will contain a navigation bar with 5 items: Home, About, Services, Blog, and Contact. \nThe Home page will have a hero image, an overview of the company, and an image gallery.\nThe About page will have a brief biography of the company, a list of core values and services, and customer testimonials.\nThe Services page will have a list of services offered and pricing information.\nThe Blog page will have a list of blog posts, a search box, and a categories list.\nThe Contact page will have a contact form, an address and map, and links to social media accounts.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

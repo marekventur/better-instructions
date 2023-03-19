@@ -1,0 +1,12 @@
+{
+  "id": "b976acf8-2957-4dc5-9bed-bb0d625c41a9",
+  "instruction": "Given a conversation, detect the type of conversation it refers to. Output \"casual\", \"business\", or \"informal\".",
+  "input": "- Person A: Wanna hang out this weekend? \n- Person B: Sure, what do you have in mind?",
+  "output": "Casual",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

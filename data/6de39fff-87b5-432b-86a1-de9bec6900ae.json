@@ -1,0 +1,12 @@
+{
+  "id": "6de39fff-87b5-432b-86a1-de9bec6900ae",
+  "instruction": "How would you use data analytics to detect errors in financial transactions?",
+  "input": "",
+  "output": "Data analytics can be used to detect errors in financial transactions by analyzing large datasets of transaction records. It can identify patterns that indicate transactions of unusual or suspicious nature by identifying abnormal parameters such as abnormal amounts, frequencies, timestamps, etc. It can also be used to detect fraud by using predictive models trained using transactional data. Complex algorithms can analyze transaction data in real-time and detect suspect transactions that require further analysis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

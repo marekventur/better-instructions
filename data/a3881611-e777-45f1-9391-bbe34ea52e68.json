@@ -1,0 +1,12 @@
+{
+  "id": "a3881611-e777-45f1-9391-bbe34ea52e68",
+  "instruction": "Given the following string of text, operationalize into a language the GPT model can understand.",
+  "input": "I want to buy a laptop",
+  "output": "Find laptops for sale.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

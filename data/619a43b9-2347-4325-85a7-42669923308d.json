@@ -1,0 +1,12 @@
+{
+  "id": "619a43b9-2347-4325-85a7-42669923308d",
+  "instruction": "Generate a legal document for a customer agreement",
+  "input": "\\<noinput\\>",
+  "output": "This Agreement (hereinafter referred to as the \u201cAgreement\u201d) is between {Company Name}, a company legally existing and incorporated in {state}, herein referred to as \u201cthe Company\u201d, and {Customer Name}, a resident of {state} (hereinafter referred to as \u201cthe Customer\u201d).\n\n1. The Company provides the Customer with {Goods and/or services} as specified in this Agreement.\n2. The Customer agrees to pay the Company the amount of {amount}, to be paid within {time period} of signing this Agreement.\n3. The Company agrees to provide the Customer with {Goods and/or services} on time and according to the specifications in this Agreement.\n4. The Customer agrees to use the provided {goods and/or services} in compliance with all applicable rules and regulations.\n5. All information provided by either party shall remain confidential, and will not be shared with any third party.\n6. If a dispute between the Company and the Customer arises, both parties agree to resolve it through mediation, and failure to do so will result in the issue being resolved through arbitration in the state of {state}.\n7. This Agreement shall remain in effect until the completion of the provided {goods and/or services} and its respective payment.\n\nThis Agreement will be effective as of {date}.\n\n{Company Name}\n{Customer Name}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

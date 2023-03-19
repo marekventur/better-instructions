@@ -1,0 +1,12 @@
+{
+  "id": "1afe2e94-c7f8-4b03-b4f8-0397630a9a2e",
+  "instruction": "Using data from the given input, generate an email intended to inform your colleagues about the new accounting procedure.",
+  "input": "Company: Widgets Inc.\nSubject: New Accounting Procedure",
+  "output": "Dear Colleagues,\n\nI am writing to inform you about a new accounting procedure that has been implemented in Widgets Inc. This new procedure is designed to streamline the process of reconciling and recording financial data.\n\nIt includes several new features, such as automated account reconciliation, streamlined audit reporting, and sophisticated data analysis. This allows for more effective and efficient accounting practices, reducing the resources and time needed to manage and analyze our financial data.\n\nWe believe that this new accounting procedure explains a major step forward in financial management at Widgets Inc.\n\nThank you,\n\n[Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

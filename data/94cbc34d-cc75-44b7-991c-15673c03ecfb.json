@@ -1,0 +1,12 @@
+{
+  "id": "94cbc34d-cc75-44b7-991c-15673c03ecfb",
+  "instruction": "Generate a code to reverse the given string.",
+  "input": "hello",
+  "output": "def reverseString(input_string): \n  # Get length of string \n  n = len(input_string) \n  \n  # Store string in an array\n  arr = [None] * n  \n  \n  # Iterate from n-1 to 0 \n  for i in range(n - 1, -1, -1): \n    arr[i] = input_string[n - i - 1] \n  \n  # Return reverse string \n  return ''.join(arr) \n\n# Driver code \ninput_string = \"hello\" \n print(\"Reversed string is\", reverseString(input_string))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

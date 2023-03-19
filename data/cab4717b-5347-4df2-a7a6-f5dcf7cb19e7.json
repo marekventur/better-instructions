@@ -1,0 +1,12 @@
+{
+  "id": "cab4717b-5347-4df2-a7a6-f5dcf7cb19e7",
+  "instruction": "Given a string and a search term, find the index of the first occurrence of the search term in the string.",
+  "input": "String: hello world\nSearch term: wor",
+  "output": "6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

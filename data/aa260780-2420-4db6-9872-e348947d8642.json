@@ -1,0 +1,12 @@
+{
+  "id": "aa260780-2420-4db6-9872-e348947d8642",
+  "instruction": "Generate a Python statement to print a given sentence.",
+  "input": "Hello World!",
+  "output": "print(\"Hello World!\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

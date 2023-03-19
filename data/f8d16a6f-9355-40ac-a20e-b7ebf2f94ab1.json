@@ -1,0 +1,12 @@
+{
+  "id": "f8d16a6f-9355-40ac-a20e-b7ebf2f94ab1",
+  "instruction": "Construct a JSON to store these customer data:\n\nName: Kashi, Age: 27",
+  "input": "",
+  "output": "{\n    \"name\": \"Kashi\",\n    \"age\": 27\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

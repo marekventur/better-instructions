@@ -1,0 +1,12 @@
+{
+  "id": "c496e7e6-2a96-404a-9f88-3caa46d577b1",
+  "instruction": "Explain what is a Quantum Computer.",
+  "input": "",
+  "output": "A quantum computer is a device that harnesses the power of quantum bits, or qubits, to store information. Unlike a traditional computer, which stores information in binary digits or bits, a qubit can exist in multiple states at the same time, allowing data to be processed much more quickly. This could enable breakthroughs in artificial intelligence, cryptography, material science and other areas. Quantum computers also have the potential to solve problems that were impossible to solve using traditional computing methods. With the development of new technologies and greater understanding of quantum principles, quantum computers are becoming increasingly accessible and are expected to revolutionize many industries.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

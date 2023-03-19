@@ -1,0 +1,12 @@
+{
+  "id": "44847465-593a-4664-92e3-9e08030a3dfc",
+  "instruction": "Construct an if-else statement that prints \"Case1\" if a is greater than b, and prints \"Case2\" if a is less than b.",
+  "input": "a = 4\nb = 2",
+  "output": "if a > b:\n  print(\"Case1\")\nelse:\n  print(\"Case2\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

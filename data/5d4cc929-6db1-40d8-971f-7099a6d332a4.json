@@ -1,0 +1,12 @@
+{
+  "id": "5d4cc929-6db1-40d8-971f-7099a6d332a4",
+  "instruction": "Name the type of rhyme scheme used in the following poem.",
+  "input": "\"O Time, thou must untangle this, not I;\nIt is too hard a knot for me t' untie!\"",
+  "output": "The rhyme scheme used in this poem is AABB.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

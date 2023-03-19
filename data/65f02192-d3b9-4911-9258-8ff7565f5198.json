@@ -1,0 +1,12 @@
+{
+  "id": "65f02192-d3b9-4911-9258-8ff7565f5198",
+  "instruction": "Given a statement, explain why it is correct.",
+  "input": "Carbon dioxide is an important component of the Earth's atmosphere.",
+  "output": "Carbon dioxide is an important component of the Earth's atmosphere because it helps to trap heat from the sun and regulate the planet's climate. Without it, Earth's temperatures would fluctuate significantly, which could lead to severe consequences like unpredictable weather patterns, increased droughts, floods, sea level rise, and many more.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

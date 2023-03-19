@@ -1,0 +1,12 @@
+{
+  "id": "b5444364-612e-413c-9840-4282a70ad1f6",
+  "instruction": "Organize the following items into two categories with a brief explanation of each.",
+  "input": "Computers, phones, tablets",
+  "output": "Category 1: Computing Devices \u2013 Computers, phones, and tablets are all devices used to process data, run software applications, and access the internet. \n \nCategory 2: Communication Devices \u2013 Computers, phones, and tablets are also all devices used to communicate with other people through messaging, video calls, audio calls, and other digital means.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2894fdb9-949b-42ff-880f-df6e870acaf0",
+  "instruction": "Create a mySQL query that gets the top three employees from each department ordered by experience.",
+  "input": "",
+  "output": "SELECT \n  department_name, \n  employee_name, \n  years_of_experience \nFROM employees \nORDER BY years_of_experience DESC\nGROUP BY department_name \nLIMIT 3;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

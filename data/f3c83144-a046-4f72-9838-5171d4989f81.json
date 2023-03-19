@@ -1,0 +1,12 @@
+{
+  "id": "f3c83144-a046-4f72-9838-5171d4989f81",
+  "instruction": "Frame a one-sentence hypothesis given the following information.",
+  "input": "The goal of the study is to analyze the impact of online learning platforms on student performance.",
+  "output": "The hypothesis of this study is that online learning platforms can positively contribute to student performance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

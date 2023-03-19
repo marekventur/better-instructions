@@ -1,0 +1,12 @@
+{
+  "id": "9bb690c2-7683-41ab-9b61-0ea3e4455f84",
+  "instruction": "Insert the provided conjunctions into the given sentence.",
+  "input": "Sentence: I went to the store bought food\nConjunctions: so",
+  "output": "I went to the store, so I bought food.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

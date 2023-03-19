@@ -1,0 +1,12 @@
+{
+  "id": "c44125dd-2a5f-43d2-99df-cc4850d27829",
+  "instruction": "Remove irrelevant words and make the sentence crisper.",
+  "input": "I enjoyed the movie very much in spite of the fact that it was too long.",
+  "output": "I enjoyed the movie despite its length.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

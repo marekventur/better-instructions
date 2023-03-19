@@ -1,0 +1,12 @@
+{
+  "id": "6ee4329d-6f6e-4f85-a7af-84b78be3f8c1",
+  "instruction": "Flag any potential ethical issues in the given statement.",
+  "input": "The company chose to prioritize profits instead of the safety of their workers.",
+  "output": "Potential ethical issue: prioritizing profits over the safety of workers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c3462099-f137-4015-8c9e-57108270eade",
+  "instruction": "Edit the provided sentence by replacing the <mask> token with proper adjectives to make the sentence grammatically correct.",
+  "input": "The <mask> cat was eating a bowl of soup.",
+  "output": "The curious cat was eating a bowl of soup.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

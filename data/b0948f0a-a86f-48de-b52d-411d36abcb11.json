@@ -1,0 +1,12 @@
+{
+  "id": "b0948f0a-a86f-48de-b52d-411d36abcb11",
+  "instruction": "Given a text, generate a summary of it.",
+  "input": "John lives in a small city in California. He works as an engineer in a tech company. He enjoys running and is an avid reader.",
+  "output": "John is an engineer living in California who loves running and reading in his spare time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9c59013f-34a3-4f68-936c-3733c5512005",
+  "instruction": "Summarise the given article and output a 120-word summary.",
+  "input": "Apple Inc. recently held their annual iPhone event and announced their new lineup of iPhones.\n\nThe event was hosted at the Steve Jobs Theater in Cupertino, and featured the newest iPhone models, including the iPhone 12, 12 Pro, 12 Pro Max, and 12 mini.\n\nApple also debuted its 5G technology for the iPhone 12 models, and announced that it is now the world\u2019s first and only 5G device.",
+  "output": "Apple Inc. recently held their annual iPhone event, unveiling their new lineup of iPhones - the iPhone 12, 12 Pro, 12 Pro Max, and 12 mini. The event was hosted at the Steve Jobs Theatre in Cupertino and featured Apple\u2019s own 5G technology. This makes Apple the world\u2019s first and only 5G device. The 5G technology is built around a powerful A14 Bionic processor and handsets come with OLED Super Retina XDR displays. Additionally, new cameras and improved durability make these iPhones some of the best yet. The new iPhone lineup brings updates to iOS 14 and MagSafe for wireless charging, and the addition of improved battery performance.  Apple has once again impressed with the release of their newest iPhones.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

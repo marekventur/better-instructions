@@ -1,0 +1,12 @@
+{
+  "id": "55c4f0b9-be91-4af9-b7c4-8138c46bf87f",
+  "instruction": "Calculate the standard deviation for the following numbers.",
+  "input": "2, 5, 7, 8",
+  "output": "The standard deviation of 2, 5, 7, 8 is 2.3138.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

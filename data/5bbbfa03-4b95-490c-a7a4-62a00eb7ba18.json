@@ -1,0 +1,12 @@
+{
+  "id": "5bbbfa03-4b95-490c-a7a4-62a00eb7ba18",
+  "instruction": "Construct a neural network model capable of predicting the future stock price based on historical stock price data.",
+  "input": "Example of historical data: [20,19.5,23,22.5,25,24.5]",
+  "output": "The neural network model will take the historical data as input and use it as a reference to predict the future stock price. The model will use the data to learn the patterns in the prices for similar stocks and use its knowledge to map out the future price movements. It will also take into account factors such as market news, economic indicators, and signals from other investors to make a more accurate prediction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

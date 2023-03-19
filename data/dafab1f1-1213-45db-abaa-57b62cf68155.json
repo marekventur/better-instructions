@@ -1,0 +1,12 @@
+{
+  "id": "dafab1f1-1213-45db-abaa-57b62cf68155",
+  "instruction": "Interpret the meaning of the sentence and generate a response in the form of a sentence.",
+  "input": "It's like jumping off a cliff.",
+  "output": "It is an act of taking a risk with no assurance of a favorable outcome.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

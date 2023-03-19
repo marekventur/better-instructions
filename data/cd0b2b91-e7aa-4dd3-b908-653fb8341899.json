@@ -1,0 +1,12 @@
+{
+  "id": "cd0b2b91-e7aa-4dd3-b908-653fb8341899",
+  "instruction": "Identify any person, place or thing mentioned in the following sentence.\nOutput should be an array of items",
+  "input": "She took a trip to the beach and brought a volleyball.",
+  "output": "['She', 'trip', 'beach', 'volleyball']",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

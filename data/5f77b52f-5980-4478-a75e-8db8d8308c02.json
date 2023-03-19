@@ -1,0 +1,12 @@
+{
+  "id": "5f77b52f-5980-4478-a75e-8db8d8308c02",
+  "instruction": "Rank the following items in order of relevance to the topic of artificial intelligence.",
+  "input": "Robotics, Machine Learning, Natural Language Processing",
+  "output": "Machine Learning, Natural Language Processing, Robotics.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b7a38cef-7cb6-488c-abab-be6fae8f2007",
+  "instruction": "Sort the list of animals from highest to lowest based on their size.",
+  "input": "Kangaroo, Giraffe, Cat",
+  "output": "Giraffe, Kangaroo, Cat",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5c0d153c-ae9f-4b67-8edf-2deb485b9476",
+  "instruction": "Create a task that a GPT model can complete with a given input and output.",
+  "input": "",
+  "output": "Instruction: Given the following input, generate a list of three adjectives that describe the input:\nInput: Halloween\n\nOutput: Spooky, eerie, macabre.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

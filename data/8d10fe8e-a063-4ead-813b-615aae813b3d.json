@@ -1,0 +1,12 @@
+{
+  "id": "8d10fe8e-a063-4ead-813b-615aae813b3d",
+  "instruction": "Write a definition of a specific term.",
+  "input": "Natural Language Processing",
+  "output": "Natural Language Processing (NLP) is an interdisciplinary field of computer science, artificial intelligence, and linguistics. It is concerned with understanding how humans communicate and how computers can gain information from and communicate with humans using natural language. NLP algorithms are leveraged to analyze or process textual data by interpreting and understanding natural language, as well as generating natural language based on provided data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

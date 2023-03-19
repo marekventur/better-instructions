@@ -1,0 +1,12 @@
+{
+  "id": "ed2650e0-9bd3-4b6c-816c-79bc4453e262",
+  "instruction": "Edit the following story to ensure it follows the active voice",
+  "input": "The bear was being chased by the hunter through the forest.",
+  "output": "The hunter chased the bear through the forest.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

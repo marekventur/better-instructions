@@ -1,0 +1,12 @@
+{
+  "id": "9492b848-418c-4319-83a1-486ee3ae4f5f",
+  "instruction": "Construct a query in SQL for given requirement",
+  "input": "Retrieve all the records from the table 'sales'",
+  "output": "SELECT * FROM sales;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

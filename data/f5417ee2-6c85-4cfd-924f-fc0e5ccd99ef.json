@@ -1,0 +1,12 @@
+{
+  "id": "f5417ee2-6c85-4cfd-924f-fc0e5ccd99ef",
+  "instruction": "Given a piece of text, identify the tense used.",
+  "input": "I would like to have a meeting today.",
+  "output": "Present Simple",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

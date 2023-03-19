@@ -1,0 +1,12 @@
+{
+  "id": "a98f3e46-9259-4012-94ba-40aec3916fd7",
+  "instruction": "Classify the following topic according to the academic disciplines given below.\n\nTopic: The History of Football \n\nAcademic disciplines: Anthropology, Sociology, Political Science",
+  "input": "",
+  "output": "Sociology.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

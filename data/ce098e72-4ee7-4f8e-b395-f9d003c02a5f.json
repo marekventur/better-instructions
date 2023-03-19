@@ -1,0 +1,12 @@
+{
+  "id": "ce098e72-4ee7-4f8e-b395-f9d003c02a5f",
+  "instruction": "Identify the type of sentence formed by the following text.",
+  "input": "She warmed up the soup before serving.",
+  "output": "Declarative sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

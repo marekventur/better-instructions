@@ -1,0 +1,12 @@
+{
+  "id": "d8cdecbb-296f-4a6a-b1ed-0238c45b35f8",
+  "instruction": "Arrange the given sentences into a well-structured paragraph.",
+  "input": "Many of the world\u2019s problems can be traced back to a lack of education. People must be provided with a good foundation in education. Education has the power to provide societies with long-term solutions.",
+  "output": "Education has the power to provide societies with long-term solutions to many of the world\u2019s problems. People must be provided with a good foundation in education in order to be able to make informed decisions and have the knowledge and skills necessary to tackle these challenges.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

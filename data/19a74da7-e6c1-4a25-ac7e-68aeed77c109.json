@@ -1,0 +1,12 @@
+{
+  "id": "19a74da7-e6c1-4a25-ac7e-68aeed77c109",
+  "instruction": "Create an algorithm for predicting house prices.",
+  "input": "",
+  "output": "The algorithm would need to take into account various factors related to the house, such as the location, the size, the age, the style, and other features. First, the algorithm would need to collect data about different houses, including recent house prices for houses of a similar type. This data could also include information on local housing trends, such as recent construction and housing developments. \n\nWith this data, the algorithm could then determine the price of a house based on the various factors. To do this, it could use techniques such as a regression model to analyze the data and make predictions. The regression model should use an appropriate technique, such as linear regression or a non-linear regression model. The algorithm should also be tested on a validation set in order to identify any potential errors and refine the prediction further if necessary.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

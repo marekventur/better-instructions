@@ -1,0 +1,12 @@
+{
+  "id": "62b6167b-eac3-44df-bcec-8f96e18cb162",
+  "instruction": "Given a sentence and a keyword, edit the sentence such that the keyword sounds more emotionally charged.",
+  "input": "Sentence: The man has visited the temple.\nKeyword: visited",
+  "output": "The man had reverently journeyed to the temple.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

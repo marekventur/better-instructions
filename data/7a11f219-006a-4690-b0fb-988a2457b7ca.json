@@ -1,0 +1,12 @@
+{
+  "id": "7a11f219-006a-4690-b0fb-988a2457b7ca",
+  "instruction": "Build a representation of the following data structure:",
+  "input": "Animals:\n- Type: Mammal\n  - Species: Dog\n  - Species: Cat\n- Type: Bird\n  - Species: Hawk\n  - Species: Starling",
+  "output": "Animals:\n  - Mammal:\n    - Dog\n    - Cat\n  - Bird:\n    - Hawk\n    - Starling",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

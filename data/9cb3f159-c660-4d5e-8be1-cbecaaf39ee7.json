@@ -1,0 +1,12 @@
+{
+  "id": "9cb3f159-c660-4d5e-8be1-cbecaaf39ee7",
+  "instruction": "Classify the tone of the sentence as either positive or negative.",
+  "input": "I can't wait to get this done.",
+  "output": "Positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

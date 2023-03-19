@@ -1,0 +1,12 @@
+{
+  "id": "1e63ddc7-9a76-40d4-bab5-386dbb696c8e",
+  "instruction": "Translate a given sentence into Spanish.",
+  "input": "I ate lunch at noon.",
+  "output": "Com\u00ed almuerzo a la mediod\u00eda.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

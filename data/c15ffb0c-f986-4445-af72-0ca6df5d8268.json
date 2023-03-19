@@ -1,0 +1,12 @@
+{
+  "id": "c15ffb0c-f986-4445-af72-0ca6df5d8268",
+  "instruction": "Given the phrase \u201cPlease walk the dog\u201d, tell what the speaker wants the other person to do.",
+  "input": "",
+  "output": "The speaker wants the other person to take the dog outside and walk it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

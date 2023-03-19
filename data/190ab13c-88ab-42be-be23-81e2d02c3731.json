@@ -1,0 +1,12 @@
+{
+  "id": "190ab13c-88ab-42be-be23-81e2d02c3731",
+  "instruction": "Classify the given document as either a novel, a poem, or an article.",
+  "input": "Document:\nThe Great Gatsby is a novel by F. Scott Fitzgerald. It tells the story of Jay Gatsby, an interesting and mysterious man, and his tragedy during the summer of 1922.",
+  "output": "Novel.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

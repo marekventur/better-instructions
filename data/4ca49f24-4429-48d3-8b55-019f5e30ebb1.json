@@ -1,0 +1,12 @@
+{
+  "id": "4ca49f24-4429-48d3-8b55-019f5e30ebb1",
+  "instruction": "Build an algorithm to recommend books to readers based on their preferences.",
+  "input": "",
+  "output": "An algorithm to recommend books to readers can be built using a collaborative filtering model. The model takes into account the ratings that users have given to particular books and the relationships between different user preferences to create a more personalised book recommendation system. The model also takes into account the characteristics of a book, such as its genre, author, or release date, to provide more accurate recommendations to the user.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

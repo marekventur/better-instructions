@@ -1,0 +1,12 @@
+{
+  "id": "3e28623a-8e67-4249-9018-879ec7d87991",
+  "instruction": "Edit the following recipe instructions",
+  "input": "Combine all ingredient together",
+  "output": "Combine all ingredients in a mixing bowl until blended.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

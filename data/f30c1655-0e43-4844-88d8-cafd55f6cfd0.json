@@ -1,0 +1,12 @@
+{
+  "id": "f30c1655-0e43-4844-88d8-cafd55f6cfd0",
+  "instruction": "Create playlists of 5 songs that match these two moods: calming and romantic.",
+  "input": "",
+  "output": "Calming Playlist: \n1. \"Fragile\" - Ray LaMontagne\n2. \"Float\" - Tall Heights\n3. \"Ripple\" - The Black Keys\n4. \"The Heart Asks Pleasure First\" - Michael Nyman\n5. \"Happy\" - Pharrell Williams\n\nRomantic Playlist:\n1. \"The A Team\" - Ed Sheeran\n2. \"Best Part\" - Daniel Caesar feat. H.E.R. \n3. \"Let's Stay Together\" - Al Green\n4. \"At Last\" - Etta James\n5. \"Skinny Love\" - Bon Iver",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

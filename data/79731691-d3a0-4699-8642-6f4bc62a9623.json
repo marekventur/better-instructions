@@ -1,0 +1,12 @@
+{
+  "id": "79731691-d3a0-4699-8642-6f4bc62a9623",
+  "instruction": "Categorize these actors as either lead or supporting roles.",
+  "input": "Tom Hanks, Emma Stone, Kevin Costner",
+  "output": "Tom Hanks: Lead\nEmma Stone: Lead\nKevin Costner: Supporting",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

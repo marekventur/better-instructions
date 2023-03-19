@@ -1,0 +1,12 @@
+{
+  "id": "0d4b0a21-8b64-492e-a9e6-0f91f9cd6bb8",
+  "instruction": "Generate a non-trivial math problem for a 5th grader to solve.",
+  "input": "",
+  "output": "A survey asked 68 people about their favorite color. 38 said blue, 15 said green, and the rest said yellow. What percentage of the people said yellow? \n\nAnswer: 29.4% (50 people said yellow)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

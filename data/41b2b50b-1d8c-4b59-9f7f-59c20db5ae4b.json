@@ -1,0 +1,12 @@
+{
+  "id": "41b2b50b-1d8c-4b59-9f7f-59c20db5ae4b",
+  "instruction": "Describe the design principles of a relational database.",
+  "input": "",
+  "output": "Relational databases adhere to the principles of atomicity, consistency, isolation, and durability (ACID). Atomicity ensures that each transaction is an all-or-nothing operation; either all changes are committed, or none of them are. Consistency guarantees that a transaction will bring the database from one valid state to another. Isolation ensures that a transaction cannot interfere with other transactions. Durability guarantees that once a transaction is committed, its effects will remain, even if there is a system failure or restart.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

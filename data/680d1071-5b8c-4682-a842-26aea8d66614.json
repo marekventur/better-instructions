@@ -1,0 +1,12 @@
+{
+  "id": "680d1071-5b8c-4682-a842-26aea8d66614",
+  "instruction": "Evaluate a recent government policy.",
+  "input": "The European Union's Digital Services Act.",
+  "output": "The European Union's Digital Services Act (DSA) proposes a set of regulations to control how digital platforms such as Google, Facebook and Amazon operate within the EU. It provides new rules to make sure digital services are provided in a fair and open manner. It also gives users more control over their data and limits certain activities such as profiting from unauthorised content. Overall, the policy is seen as being largely beneficial to the EU, increasing competition and creating a safer online experience for users.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

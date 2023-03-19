@@ -1,0 +1,12 @@
+{
+  "id": "72c9257e-f6c6-4099-893a-9fa57a391c15",
+  "instruction": "classifty the genre of this book",
+  "input": "The Hunger Games by Suzanne Collins",
+  "output": "Young Adult Fiction",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7b6ab303-4e49-4777-a21a-8bf97843e097",
+  "instruction": "Form a question based on this statement.",
+  "input": "Organic farming is more sustainable than conventional farming methods.",
+  "output": "Why is organic farming more sustainable than conventional farming methods?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

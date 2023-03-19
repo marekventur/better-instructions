@@ -1,0 +1,12 @@
+{
+  "id": "fa8f074f-9988-4d69-887d-9dbfef205b0b",
+  "instruction": "Given the following two sentences, identify the similarities and differences between them.",
+  "input": "Sentence 1: Creativity needs to be nurtured.\nSentence 2: Creativity requires discipline.",
+  "output": "The similarity between these two sentences is that both emphasize that creativity is a skill that needs to be cultivated. The difference is that Sentence 1 suggests that creativity needs to be nurtured, while Sentence 2 suggests that creativity requires discipline.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "40f1a069-3e4b-4ad3-b066-1f6e84964a9b",
+  "instruction": "Generate a code in Python to print \"Hello World\".",
+  "input": "",
+  "output": "print(\"Hello World\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

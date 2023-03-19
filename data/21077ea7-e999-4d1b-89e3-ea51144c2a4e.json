@@ -1,0 +1,12 @@
+{
+  "id": "21077ea7-e999-4d1b-89e3-ea51144c2a4e",
+  "instruction": "Create a text classification algorithm to assign each sentences a label. Labels are \"positive\", \"negative\", and \"neutral\".",
+  "input": "I bought a new phone and it doesn't work.",
+  "output": "negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

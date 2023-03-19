@@ -1,0 +1,12 @@
+{
+  "id": "8c06453d-b747-4d5b-9e22-3c41b0cf9282",
+  "instruction": "Given the following paragraph, identify the topic sentence.",
+  "input": "The performance of a well-crafted toaster depends on three main factors: quality of construction, cost, and convenience. Quality will determine how dependable the toaster is for use on a daily basis. Cost is a key factor in deciding which model to buy. Convenience is determined by how simple the toaster is to use and how easy it is to clean.",
+  "output": "The performance of a well-crafted toaster depends on three main factors: quality of construction, cost, and convenience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

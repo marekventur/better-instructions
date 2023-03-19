@@ -1,0 +1,12 @@
+{
+  "id": "5ce8d682-ad0f-4c61-a0ca-491777116fc3",
+  "instruction": "Retrieve the relevant information from an email",
+  "input": "Hello,\n\nThis is an email from XYZ Electronics. We are writing to let you know that your order for a new laptop has been shipped. The tracking number for the package is 123-456-789. Please check your email for more detailed updates.\n\nThanks for your order and have a great day!",
+  "output": "123-456-789",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

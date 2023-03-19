@@ -1,0 +1,12 @@
+{
+  "id": "0e778519-6338-4c58-b1f5-a45fdd55b2f1",
+  "instruction": "Construct a query to retrieve all records from a dataset that contain a specific value.",
+  "input": "Data set contains records of sales from stores",
+  "output": "SELECT * FROM stores WHERE sales = specific_value;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

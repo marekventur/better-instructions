@@ -1,0 +1,12 @@
+{
+  "id": "46953046-416b-41dd-bdb7-01a2da77a27b",
+  "instruction": "Describe the concept of an Autoencoder.",
+  "input": "",
+  "output": "An autoencoder is an artificial neural network used for unsupervised learning in which the input is the same as the output. It is used for data compression and dimensionality reduction by learning a compressed representation of the data in a lower dimensional space. The input is mapped to a lower-dimensional representation called an encoding by layers of neural networks, and then reconstructed into the original input by the network. The network learns the optimal encoding from the training data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

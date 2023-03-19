@@ -1,0 +1,12 @@
+{
+  "id": "43039a29-1b42-4a8a-b933-adbead3185e8",
+  "instruction": "Given the sample words, fill in the blank.",
+  "input": "The _____ walked down the street.",
+  "output": "The dog walked down the street.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

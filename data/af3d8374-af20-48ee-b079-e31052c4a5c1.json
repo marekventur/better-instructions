@@ -1,0 +1,12 @@
+{
+  "id": "af3d8374-af20-48ee-b079-e31052c4a5c1",
+  "instruction": "What's the output of this code?",
+  "input": "x = [1, 2, 3, 4]\ny = [i**2 for i in x]",
+  "output": "y = [1, 4, 9, 16]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

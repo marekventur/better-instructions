@@ -1,0 +1,12 @@
+{
+  "id": "e217faa1-1376-4389-aa0b-c0f11889f04b",
+  "instruction": "Output a summary of the paragraph.",
+  "input": "Powerful and yet surprisingly easy to use, cloud computing has revolutionised business practices, offering businesses a wide range of scalable services that are delivered effortlessly over the internet. It has become increasingly popular in recent years due to its low cost and scalability, its scalability making it ideal for businesses of any size. Additionally, cloud computing provides a variety of resources and applications that can be used for tasks ranging from data analysis to customer management.",
+  "output": "Cloud computing has grown rapidly in popularity, offering businesses a cost-effective way to access scalable services over the internet. It is used for a range of tasks from data analysis to customer management, making it suitable for businesses of all sizes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

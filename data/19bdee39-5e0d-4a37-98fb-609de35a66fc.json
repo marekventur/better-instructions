@@ -1,0 +1,12 @@
+{
+  "id": "19bdee39-5e0d-4a37-98fb-609de35a66fc",
+  "instruction": "Explain the difference between a competitive and non-competitive inhibitor.",
+  "input": "",
+  "output": "A competitive inhibitor is a molecule that binds to the active site of an enzyme, preventing the substrate from binding and thus blocking the enzyme from catalyzing the reaction. A non-competitive inhibitor binds to a site on the enzyme other than the active site and changes the enzyme's shape so that the substrate can no longer bind to it, thus also blocking the enzyme's activity. Both competitive and non-competitive inhibitors reduce the enzyme's activity, but the effect of a competitive inhibitor can be reversed by an increased concentration of the substrate. A non-competitive inhibitor's effects are generally not reversible.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

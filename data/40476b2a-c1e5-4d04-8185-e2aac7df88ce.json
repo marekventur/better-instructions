@@ -1,0 +1,12 @@
+{
+  "id": "40476b2a-c1e5-4d04-8185-e2aac7df88ce",
+  "instruction": "Identify the prime suspect in the following murder case",
+  "input": "The police have obtained video evidence showing a person entering the victim's house with a knife and leaving shortly thereafter",
+  "output": "The prime suspect in the murder case is the person seen in the video entering the victim's house with a knife and leaving shortly thereafter.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

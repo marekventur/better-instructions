@@ -1,0 +1,12 @@
+{
+  "id": "17ebe6e9-bb45-4ad5-8fd6-ed7087ec3ddb",
+  "instruction": "Given a list of interesting facts, provide a creative title.",
+  "input": "Facts:\n- Elon Musk was the first to propose colonizing Mars.\n- The world's first university was established in Fez, Morocco in 859 AD.\n- The human body contains enough iron to make a 3 inch long nail.",
+  "output": "Exploring Untold Tales: From Colonizing Mars to Human Bodies and More!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

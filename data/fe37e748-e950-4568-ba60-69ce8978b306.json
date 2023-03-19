@@ -1,0 +1,12 @@
+{
+  "id": "fe37e748-e950-4568-ba60-69ce8978b306",
+  "instruction": "Help a reader to purchase a good laptop by providing reviews for the 2 most popular laptops.",
+  "input": "The 2 most popular laptops: Dell XPS 13, HP Envy 13",
+  "output": "The Dell XPS 13 is a great laptop for its price range. It has a sleek and lightweight design, a long-lasting battery, a vivid display and powerful performance. It comes with Windows 10, 8GB of RAM and a 256GB solid-state drive. Furthermore, the laptop is available in various configurations to meet the needs of different users.\n\nThe HP Envy 13 is a high-end laptop with a premium design. It has an impressive 1080p display, fast 8th generation Intel Core processors and 8GB of RAM. It also offers a good battery life and a solid-state drive offering speeds up to 512GB. The laptop is great for gaming as well, with an NVIDIA GeForce MX150 graphics card.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

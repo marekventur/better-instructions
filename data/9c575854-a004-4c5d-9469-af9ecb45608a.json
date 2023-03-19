@@ -1,0 +1,12 @@
+{
+  "id": "9c575854-a004-4c5d-9469-af9ecb45608a",
+  "instruction": "Write a JavaScript program that returns the sum of the first n numbers.",
+  "input": "",
+  "output": "\"\"\"\nWrite a JavaScript program that returns the sum of the first n numbers.\n\"\"\"\n\nfunction findSum(n) {\n    let sum = 0;\n    for(let i = 0; i <= n; i++) {\n        sum += i;\n    }\n    return sum;\n}\n\nif (typeof module !== 'undefined') {\n    module.exports = findSum;\n}\n\nconsole.log(findSum(10)); // 55",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

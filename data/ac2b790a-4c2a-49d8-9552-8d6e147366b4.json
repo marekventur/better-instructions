@@ -1,0 +1,12 @@
+{
+  "id": "ac2b790a-4c2a-49d8-9552-8d6e147366b4",
+  "instruction": "Describe the process of cross-validation in machine learning",
+  "input": "",
+  "output": "Cross-validation is a technique used to evaluate a machine learning model by training the model on different parts of the dataset and testing it on the remaining parts. This is done to measure the generalization performance of the model. The dataset is divided into training and validation sets and the model is trained on the training set. The model is then applied to the validation set and the model\u2019s performance is evaluated. The process is repeated until all combinations of the training and validation sets have been tested.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

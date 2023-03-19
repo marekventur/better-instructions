@@ -1,0 +1,12 @@
+{
+  "id": "9358f5f8-5695-4868-807b-330f9663a145",
+  "instruction": "Classify this statement as optimistic or pessimistic.",
+  "input": "Life is filled with disappointments.",
+  "output": "This statement is pessimistic.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

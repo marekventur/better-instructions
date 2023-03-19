@@ -1,0 +1,12 @@
+{
+  "id": "79e28a20-0c4f-458b-b0ad-fb0e38b30996",
+  "instruction": "How to find the maximum and minimum of an array of numbers?",
+  "input": "[5, 3, 9, 4, 1]",
+  "output": "To find the maximum and minimum of the array of numbers [5, 3, 9, 4, 1], you can use the built-in functions max() and min(). The max() function will return the largest number, which is 9 in this case. The min() function will return the smallest number, which is 1 in this case.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

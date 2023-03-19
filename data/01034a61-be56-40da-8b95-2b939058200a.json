@@ -1,0 +1,12 @@
+{
+  "id": "01034a61-be56-40da-8b95-2b939058200a",
+  "instruction": "Use Present Perfect instead of Present Simple when it\u2019s necessary.",
+  "input": "I have moved to a new city.",
+  "output": "I have been living in a new city.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

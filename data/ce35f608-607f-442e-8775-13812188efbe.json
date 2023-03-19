@@ -1,0 +1,12 @@
+{
+  "id": "ce35f608-607f-442e-8775-13812188efbe",
+  "instruction": "Determine the timeline for this project by providing an estimated number of hours for each phase.",
+  "input": "Planning: 10 hours\nDeveloping: 20 hours\nTesting: 15 hours\nDeployment: 5 hours",
+  "output": "Planning: 10 hours\nDeveloping: 20 hours\nTesting: 15 hours\nDeployment: 5 hours\nTotal estimated time: 50 hours.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

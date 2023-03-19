@@ -1,0 +1,12 @@
+{
+  "id": "36e4e6cb-d900-49ed-abfe-ee3a21d78ae4",
+  "instruction": "Choose one of the colors mentioned in the text.",
+  "input": "The painting contained shades of orange, red, and blue.",
+  "output": "Orange.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

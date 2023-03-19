@@ -1,0 +1,12 @@
+{
+  "id": "8feb3b2c-1af0-497e-9af1-5a4be355310b",
+  "instruction": "Given a list of values, calculate the mean.\n\nInput: 82, 23, 55, 64, 71",
+  "input": "82, 23, 55, 64, 71",
+  "output": "The mean of the list is 58.4.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

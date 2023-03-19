@@ -1,0 +1,12 @@
+{
+  "id": "7d7643cb-7124-455a-9c73-cc576ea489dd",
+  "instruction": "Find the noun or verb in the sentence and detect its type.",
+  "input": "The cat jumped off the fence.",
+  "output": "Noun: cat \nVerb: jumped \n\nNoun type: proper noun \nVerb type: past tense",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

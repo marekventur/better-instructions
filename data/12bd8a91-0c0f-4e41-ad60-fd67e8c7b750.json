@@ -1,0 +1,12 @@
+{
+  "id": "12bd8a91-0c0f-4e41-ad60-fd67e8c7b750",
+  "instruction": "Compose a Tweet summarizing the article on climate change.",
+  "input": "Article: Climate change is a phenomenon that has taken the world by storm. Its effects can be seen in changing weather patterns, shifting temperatures, and an increase in extreme weather events. It has been caused by human activity and will only become worse unless immediate action is taken.",
+  "output": "Climate change is here and it's caused by us. We need to be aware of its effects and take immediate action to slow down the damage before it's too late. #ClimateChange #WeatherPatterns #GlobalAction",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

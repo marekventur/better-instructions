@@ -1,0 +1,12 @@
+{
+  "id": "81c7140c-bfe2-4e6a-8e12-8fd536f1a684",
+  "instruction": "Determine the distance between point A (2,4) and point B (4,1)",
+  "input": "(2,4), (4,1)",
+  "output": "The distance between point A (2,4) and point B (4,1) is 3 units.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "50ce2111-d9d2-4c5f-8eb5-b4d221230736",
+  "instruction": "Recommend three apps that may be beneficial for the given user.",
+  "input": "A college student looking for productivity apps",
+  "output": "For a college student looking for productivity apps, we recommend: 1) Trello - Great for managing tasks and projects; 2) Evernote - Perfect for taking notes and organizing information; and 3) Todoist - Perfect for keeping track of assignments and tasks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

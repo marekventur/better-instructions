@@ -1,0 +1,12 @@
+{
+  "id": "ae49831a-c4aa-4e20-b75d-48ee3cbb2bc6",
+  "instruction": "Explain the function of a computer\u2019s RAM",
+  "input": "",
+  "output": "Random access memory (RAM) is a type of computer memory which stores data and instructions for the processor to access. It allows the processor to quickly access the data needed for a task, rather than having to search for the data on a hard drive. RAM is volatile, meaning the data is lost upon power loss. It is often used to store the operating system, and applications and data currently in use.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

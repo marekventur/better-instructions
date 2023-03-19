@@ -1,0 +1,12 @@
+{
+  "id": "117a109d-bf7f-4aa2-8df2-e7eda153d0ba",
+  "instruction": "Construct a regular expression that matches all 5-digit numbers that start with 4.",
+  "input": "",
+  "output": "4\\d{4}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

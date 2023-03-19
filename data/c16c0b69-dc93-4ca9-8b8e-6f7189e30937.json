@@ -1,0 +1,12 @@
+{
+  "id": "c16c0b69-dc93-4ca9-8b8e-6f7189e30937",
+  "instruction": "Calculate how many animals are in a shelter.",
+  "input": "The shelter has 15 cats, 10 dogs and 7 rabbits.",
+  "output": "There are 32 animals in the shelter.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

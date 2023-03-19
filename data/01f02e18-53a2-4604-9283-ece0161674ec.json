@@ -1,0 +1,12 @@
+{
+  "id": "01f02e18-53a2-4604-9283-ece0161674ec",
+  "instruction": "Check if the following statement is true or false: \"Artificial intelligence is able to think for itself\".",
+  "input": "",
+  "output": "False. Artificial intelligence is capable of making decisions and performing tasks independently, but it is not capable of thinking independently or developing its own thoughts. It relies on programming and algorithms developed by humans to make decisions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "48b17501-72a4-4403-a43a-8484bd11b03f",
+  "instruction": "Determine which of the following sorting algorithms best suits this data set",
+  "input": "Data set -> [67, 32, 53, 88, 88, 88, 24, 48]",
+  "output": "The sorting algorithm that would best suit this data set is Counting Sort. Counting sort is a stable sorting algorithm which operates in linear time, meaning that it is a good choice for sorting datasets that have a limited range of values. In the example data set given, the range of values is between 24 and 88, making it a good fit for Counting Sort.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

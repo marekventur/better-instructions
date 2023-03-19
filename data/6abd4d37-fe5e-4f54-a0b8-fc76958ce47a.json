@@ -1,0 +1,12 @@
+{
+  "id": "6abd4d37-fe5e-4f54-a0b8-fc76958ce47a",
+  "instruction": "Find the area of a triangle given the three sides.",
+  "input": "Side A = 5, Side B = 5, Side C = 7",
+  "output": "The area of the triangle is 10.82 square units.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

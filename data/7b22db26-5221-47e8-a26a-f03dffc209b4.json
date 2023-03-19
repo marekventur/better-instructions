@@ -1,0 +1,12 @@
+{
+  "id": "7b22db26-5221-47e8-a26a-f03dffc209b4",
+  "instruction": "Convert the given equation into an algebraic expression.",
+  "input": "3x+5y=9",
+  "output": "3x + 5y - 9 = 0",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

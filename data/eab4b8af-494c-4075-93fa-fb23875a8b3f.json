@@ -1,0 +1,12 @@
+{
+  "id": "eab4b8af-494c-4075-93fa-fb23875a8b3f",
+  "instruction": "Classify the following sentence using the following emotion categories: fear, anger, joy, sadness.",
+  "input": "I'm so proud of myself.",
+  "output": "Joy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

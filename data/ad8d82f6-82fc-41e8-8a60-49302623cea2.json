@@ -1,0 +1,12 @@
+{
+  "id": "ad8d82f6-82fc-41e8-8a60-49302623cea2",
+  "instruction": "Given two sentences, combine them into one without changing the meaning.",
+  "input": "This year was difficult. But I'm still hopeful.",
+  "output": "This year was difficult, but I'm still hopeful.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

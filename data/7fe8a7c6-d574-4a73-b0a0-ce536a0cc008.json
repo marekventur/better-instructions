@@ -1,0 +1,12 @@
+{
+  "id": "7fe8a7c6-d574-4a73-b0a0-ce536a0cc008",
+  "instruction": "Pick the best synonym for the given word",
+  "input": "Hoard",
+  "output": "Accumulate",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

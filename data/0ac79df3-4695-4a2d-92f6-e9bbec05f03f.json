@@ -1,0 +1,12 @@
+{
+  "id": "0ac79df3-4695-4a2d-92f6-e9bbec05f03f",
+  "instruction": "Reformat the sentence so it is a question.",
+  "input": "I was surprised by the outcome.",
+  "output": "Were you surprised by the outcome?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

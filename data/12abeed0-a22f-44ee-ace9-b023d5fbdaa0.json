@@ -1,0 +1,12 @@
+{
+  "id": "12abeed0-a22f-44ee-ace9-b023d5fbdaa0",
+  "instruction": "Find the top 5 most trending topics in a country.",
+  "input": "United States",
+  "output": "The top five most trending topics in the United States are:\n1. Coronavirus Pandemic\n2. US Presidential Election\n3. Black Lives Matter\n4. Vaccine Roll-Out\n5. Economic Stimulus Packages",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

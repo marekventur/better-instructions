@@ -1,0 +1,12 @@
+{
+  "id": "e90bc6ec-02cb-44bc-a2d0-02738e8c91ab",
+  "instruction": "Fix the following punctuation and spelling errors.",
+  "input": "We went outside for recess saturday",
+  "output": "We went outside for recess Saturday.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f64d638b-a974-4a23-b6af-3ece8db3c1bb",
+  "instruction": "Describe the design pattern of the given website.",
+  "input": "Website: http://www.etsy.com",
+  "output": "The website http://www.etsy.com has a clean and modern design. The navigation bar is at the top, with the search bar and user profile displayed prominently. There is a grid-based layout on the homepage, displaying the featured items with descriptions, prices and images. The sidebar displays sections and categories, making it easier to find specific items. The footer has the website's contact information and links to other pages. Overall, the website provides an intuitive and easy-to-use interface.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

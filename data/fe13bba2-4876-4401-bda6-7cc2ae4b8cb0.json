@@ -1,0 +1,12 @@
+{
+  "id": "fe13bba2-4876-4401-bda6-7cc2ae4b8cb0",
+  "instruction": "What is the major difference between TCP and UDP?",
+  "input": "",
+  "output": "The major difference between TCP and UDP is that TCP is connection-oriented and provides reliability, while UDP is connectionless and provides no guarantees with regards to delivery of data packets. TCP also has acknowledgement mechanisms and flow control, while UDP does not.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

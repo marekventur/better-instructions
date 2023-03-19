@@ -1,0 +1,12 @@
+{
+  "id": "a8fed56e-a2c7-4562-ab6e-5dd4f2263da6",
+  "instruction": "Describe the science behind why plants are green.",
+  "input": "",
+  "output": "Plants appear green to us because the green part of sunlight (wavelengths ranging from 500 to 600nm) is more efficiently absorbed by their photosynthetic pigment, chlorophyll, than any other portion of the visible light spectrum. Chlorophyll absorbs light energy, which plants use to create food (glucose) through a process known as photosynthesis. This energy is also used to help absorb water and carbon dioxide. The chlorophyll's green color is reflected back to our eyes, making plants look green. The other pigments in plants such as carotenoids (yellow and orange), anthocyanins (red and violet), and betalains (magenta) are also present but in lesser quantities and are either masked or tossed away from the plant.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

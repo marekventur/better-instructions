@@ -1,0 +1,12 @@
+{
+  "id": "1a015206-b544-484c-88f1-f72f993ab500",
+  "instruction": "Given some data, classify the data as a circle, square, triangle, or none.",
+  "input": "The shape has 3 sides and each side is the same length.",
+  "output": "This shape is a triangle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

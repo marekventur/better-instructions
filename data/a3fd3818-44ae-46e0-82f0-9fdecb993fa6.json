@@ -1,0 +1,12 @@
+{
+  "id": "a3fd3818-44ae-46e0-82f0-9fdecb993fa6",
+  "instruction": "Categorize this passage into its grammatical components",
+  "input": "The sun shone brightly on the garden, warming the sweet-smelling flowers.",
+  "output": "Subject: The sun\nVerb: shone\nAdjective: brightly\nPrepositional Phrase: on the garden\nVerb: warming\nAdjective: sweet-smelling\nObject: flowers",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

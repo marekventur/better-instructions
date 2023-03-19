@@ -1,0 +1,12 @@
+{
+  "id": "946f8446-d4a5-4779-bf9b-bae5f5c861ea",
+  "instruction": "Point out the incorrect statement",
+  "input": "The equator is the highest point on Earth.",
+  "output": "The equator is not the highest point on Earth. The highest point on Earth is Mount Everest, located in the Himalayas.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

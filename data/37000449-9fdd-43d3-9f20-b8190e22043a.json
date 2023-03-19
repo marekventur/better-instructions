@@ -1,0 +1,12 @@
+{
+  "id": "37000449-9fdd-43d3-9f20-b8190e22043a",
+  "instruction": "Take the following sentence and remove any unnecessary words.",
+  "input": "I really really really want this.",
+  "output": "I really want this.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

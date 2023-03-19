@@ -1,0 +1,12 @@
+{
+  "id": "92a0fdd9-5421-4325-aec5-2769f61088f5",
+  "instruction": "Predict how the stock price of TSLA will change in the next 48 hours.",
+  "input": "",
+  "output": "It is difficult to predict the stock price of TSLA with absolute accuracy. Factors such as news about the company, current trending topics, and global market trends all contribute to stock price shifts. We suggest to keep an eye on the news over the next 48 hours and use technical analysis to gain insight into the potential future direction of the stock.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a8d42ca2-bfbd-4c00-81aa-b7c9d7f4c5b6",
+  "instruction": "Generate a valid username given a set of user information.",
+  "input": "Name: Sarah Jones, Age: 34",
+  "output": "sarahjones34",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7b62e43b-9ad4-479a-bbb5-c3522642aa50",
+  "instruction": "Remove any unnecessary words from the following sentence to make the sentence concise:",
+  "input": "I believe that it is important to be kind to others.",
+  "output": "Be kind to others.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

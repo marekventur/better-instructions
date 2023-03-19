@@ -1,0 +1,12 @@
+{
+  "id": "42ce6bed-2702-42ae-8426-f8b3878bd28a",
+  "instruction": "Analyze a Shakespearean play.",
+  "input": "Hamlet",
+  "output": "Shakespeare\u2019s Hamlet is a timeless classic that explores the theme of revenge and justice, as well as enduring issues such as mental illness, mortality, and gender roles. Hamlet is a compelling protagonist who struggles to reconcile his desires with a society that demands conformity. Through his interactions with other characters, including Ophelia and his mother Gertrude, Hamlet\u2019s inner conflict is made tangible. The play is filled with tight plotting, witty dialogue, and powerful imagery, making it an enduring favorite.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

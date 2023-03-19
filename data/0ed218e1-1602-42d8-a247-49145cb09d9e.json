@@ -1,0 +1,12 @@
+{
+  "id": "0ed218e1-1602-42d8-a247-49145cb09d9e",
+  "instruction": "Determine which statement is true.",
+  "input": "America is the third largest country in the world\nAustralia is the second largest country in the world",
+  "output": "Australia is the second largest country in the world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

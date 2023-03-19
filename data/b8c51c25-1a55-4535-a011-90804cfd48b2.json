@@ -1,0 +1,12 @@
+{
+  "id": "b8c51c25-1a55-4535-a011-90804cfd48b2",
+  "instruction": "Design a four-tier cloud computing architecture.",
+  "input": "",
+  "output": "A four-tier cloud architecture consists of four components arranged into tiers: a user-facing application at the top, a middle tier of services, a data storage layer in the middle of the stack, and an infrastructure layer at the bottom. The application tier provides a user interface for interaction with the cloud services, the services layer provides the business logic to process data, the data storage layer stores and accesses the data, and the infrastructure layer provides the computing resources and handles tasks such as authentication, scaling, and monitoring.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

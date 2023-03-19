@@ -1,0 +1,12 @@
+{
+  "id": "114b8b5b-4009-4dad-8bed-02aff583ef59",
+  "instruction": "Reduce the polynomial equation to its simplest form.",
+  "input": "4x^4 + 24x^3 + 48x^2 + 24x",
+  "output": "x^4 + 6x^3 + 12x^2 + 6x",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

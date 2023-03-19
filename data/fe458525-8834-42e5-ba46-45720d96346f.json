@@ -1,0 +1,12 @@
+{
+  "id": "fe458525-8834-42e5-ba46-45720d96346f",
+  "instruction": "Generate a list of five questions a candidate should ask their interviewer",
+  "input": "",
+  "output": "1. Could you tell me more about the role and what it involves?\n2. What are the main challenges of this role and how are they typically addressed?\n3. What qualities and traits do you look for in successful candidates?\n4. Can you tell me more about the company and the teams I would be working with?\n5. What development opportunities are available and what type of career progression can I expect?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

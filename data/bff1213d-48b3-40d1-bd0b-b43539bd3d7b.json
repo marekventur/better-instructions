@@ -1,0 +1,12 @@
+{
+  "id": "bff1213d-48b3-40d1-bd0b-b43539bd3d7b",
+  "instruction": "Answer the following query correctly.",
+  "input": "What is the longest river in South America?",
+  "output": "The longest river in South America is the Amazon River, which stretches over 6,400 kilometers (4,000 miles) in length. It has a total average depth of approximately 106 meters (348 feet). The Amazon River is one of the most famous rivers in the world and is considered to be one of the most biologically diverse regions on the planet. The river is home to species such as piranhas, caimans, and dolphins and is often known as the \"river sea\" due to its immense size.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

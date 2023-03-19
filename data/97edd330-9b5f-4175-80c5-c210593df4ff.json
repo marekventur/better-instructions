@@ -1,0 +1,12 @@
+{
+  "id": "97edd330-9b5f-4175-80c5-c210593df4ff",
+  "instruction": "Rewrite the text to avoid any gender bias.",
+  "input": "The police officer entered the bank and the robbers immediately surrendered.",
+  "output": "When the police officer entered the bank, the robbers surrendered immediately.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

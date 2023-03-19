@@ -1,0 +1,12 @@
+{
+  "id": "20fdc780-edc7-40d1-b9e5-d21a94cb3d4d",
+  "instruction": "Generate a valid HTML code for a web page with a table.",
+  "input": "",
+  "output": "<html>\n<head>\n  <title>Table Page</title>\n</head>\n<body>\n  <h1>Table</h1>\n  <table>\n  <tr>\n    <th>Country</th>\n    <th>Capital</th> \n  </tr>\n  <tr>\n    <td>United States</td>\n    <td>Washington D.C.</td>\n  </tr>\n  <tr>\n    <td>France</td>\n    <td>Paris</td>\n  </tr>\n  <tr>\n    <td>Japan</td>\n    <td>Tokyo</td>\n  </tr>\n  </table>\n</body>\n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4ed9daf1-5e15-4dc7-9463-b654caf5da66",
+  "instruction": "Given a sentence, replace the pronoun with the correct noun.",
+  "input": "The man had the idea, but he didn't follow through on it.",
+  "output": "The man had the idea, but he didn't follow through on it.\n\nThe man had the idea, but John didn't follow through on it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

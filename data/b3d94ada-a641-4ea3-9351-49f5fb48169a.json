@@ -1,0 +1,12 @@
+{
+  "id": "b3d94ada-a641-4ea3-9351-49f5fb48169a",
+  "instruction": "Given a product or service, explain why consumers would prefer it over another similar product or service.",
+  "input": "Netflix VS Hulu",
+  "output": "Netflix offers a much larger selection of high-quality original TV shows and movies than Hulu. Netflix has a larger library of popular films and TV shows, as well as a large collection of classic films and shows. Netflix also offers the ability to stream content to multiple devices, while Hulu offers only one stream at a time. Additionally, Netflix has more consistent user experience, with fewer commercials than Hulu.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "85ff7393-b98e-4849-8990-c05af9db3bad",
+  "instruction": "Create a storyboard for a short film about a cat.",
+  "input": "The short film is about a cat that was left behind in a city during a zombie apocalypse.",
+  "output": "Scene 1 \u2013 The cat is seen exploring an abandoned street in the city, sniffing around and cautiously looking around. \n\nScene 2 \u2013 The cat jumps onto an old car and starts meowing, looking out into the deserted streets.\n\nScene 3 \u2013 The cat notices movement on the street and scurries away, hidden in the shadows. \n\nScene 4 \u2013 The cat finds a safe spot and curls up, resigning itself to a life in the city. \n\nScene 5 \u2013 The cat is seen at night, reluctantly hunting for its food with a brave determination. \n\nScene 6 \u2013 The cat hears a noise coming from a nearby building and scatters away. \n\nScene 7 \u2013 After a few days of surviving on its own, the cat finds some survivors in the middle of the city and is taken in.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

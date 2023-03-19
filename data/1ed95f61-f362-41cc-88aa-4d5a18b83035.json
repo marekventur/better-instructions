@@ -1,0 +1,12 @@
+{
+  "id": "1ed95f61-f362-41cc-88aa-4d5a18b83035",
+  "instruction": "Suggest how to solve this problem.",
+  "input": "I cannot find my car keys.",
+  "output": "Retrace your steps from the last time you remembered having them. Think about where you could have left them\u2014did you place them in a pocket or set them on a table? If you are still unable to find them, double-check your home and workplace, as well as asking family members if they have seen them. If all else fails, you may need to call a locksmith or a towing company to gain access to your car.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

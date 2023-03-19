@@ -1,0 +1,12 @@
+{
+  "id": "f5f1dfda-e003-40dd-8de2-d56ae332d0a0",
+  "instruction": "How can text classification be used to categorize data?",
+  "input": "",
+  "output": "Text classification is a process of assigning labels to text data. It can be used to categorize data in a variety of ways, such as by sentiment, genre, or topic. The classification process typically involves the use of machine learning algorithms, such as support vector machines or recurrent neural networks, to analyze the text and determine its category. The resulting output can be used to classify large amounts of text data, such as tweets or blog posts, into appropriate categories.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

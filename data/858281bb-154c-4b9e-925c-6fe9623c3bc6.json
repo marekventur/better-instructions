@@ -1,0 +1,12 @@
+{
+  "id": "858281bb-154c-4b9e-925c-6fe9623c3bc6",
+  "instruction": "Describe the basic methodology of Machine Learning",
+  "input": "",
+  "output": "The basic methodology of Machine Learning involves the use of algorithms to learn from data in order to make predictions and decisions. The process begins by collecting data, which is then cleaned, pre-processed, and prepared for the machine learning algorithm. The next step is to train the machine learning algorithm, which involves feeding the data into the algorithm and adjusting its parameters until it is able to achieve the desired results. Once the algorithm is trained, it can be used to make predictions or decisions, which can then be evaluated for accuracy. Finally, the results can be used to improve the algorithm and make it more accurate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

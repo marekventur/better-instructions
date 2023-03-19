@@ -1,0 +1,12 @@
+{
+  "id": "02dc3be0-b493-4e8a-a3bd-e5eef746c78b",
+  "instruction": "Create an interactive quiz about the given subject.",
+  "input": "World War II",
+  "output": "Q1. When did World War II begin? \nA. 1939 \nB. 1941 \nC. 1945 \nD. 1942\n\nQ2. How many countries participated in World War II?\nA. 28 \nB. 25\nC. 32 \nD. 22\n\nQ3. What countries declared war on Germany first?\nA. France and Britain \nB. US and USSR \nC. Britain and Russia \nD. US and Japan\n\nQ4. How many total fatalities were there during World War II?\nA. 60 million \nB. 50 million\nC. 45 million \nD. 75 million\n\nQ5. What was the main cause of World War II?\nA. German expansionism \nB. Oil disputes \nC. Economic crisis \nD. Religious conflicts",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

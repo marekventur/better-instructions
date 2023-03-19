@@ -1,0 +1,12 @@
+{
+  "id": "7d6ce46e-f64e-475d-8363-71ce26db2c4a",
+  "instruction": "Design a survey questionnaire to find out the reason customers choose a particular restaurant.",
+  "input": "Noinput",
+  "output": "What do you like most about the restaurant you usually visit?\n\n1. Location\n2. Quality of food\n3. Service\n4. Ambience\n5. Prices\n6. Other (please specify) \n\nWhy did you choose this particular restaurant? \n\n1. Location \n2. Quality of food \n3. Service \n4. Ambience \n5. Prices \n6. Other (please specify)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

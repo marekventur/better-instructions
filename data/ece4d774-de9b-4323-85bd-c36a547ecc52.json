@@ -1,0 +1,12 @@
+{
+  "id": "ece4d774-de9b-4323-85bd-c36a547ecc52",
+  "instruction": "Create a text summary of 200 words from this article.",
+  "input": "Apple announced a major event today during which they are expected to unveil a range of new products. The event is said to include mac computers, iPads, and Apple Watches. In addition to the hardware announcements, the company is rumored to be introducing a new service that blends artificial intelligence and machine learning. This service is designed to make it easier to use their products.",
+  "output": "Apple held a major event today and announced a range of new products including Mac computers, iPads, and Apple Watches. Along with hardware updates, the company also introduced a new service which blends artificial intelligence and machine learning to create an easier user-experience. This service makes it easier for users to locate, interact, and use all the products through personalized, intuitive commands. Further, the machine-learning technology will learn from the users' habits and immediately fulfill requests. The new technology is expected to be a great addition to the Apple eco-system.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "68b1e110-1726-467b-bff4-99d7679ec33c",
+  "instruction": "Develop a program that can fetch a given website's HTML code.",
+  "input": "",
+  "output": "The program should create an HTTP request to the specified website and then retrieve and parse the HTML response code. It should also be able to handle errors such as 404 pages, and display a meaningful error message to the user.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

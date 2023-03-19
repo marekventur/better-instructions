@@ -1,0 +1,12 @@
+{
+  "id": "48c56a0c-d129-4b12-9ec7-9851f2e2cff7",
+  "instruction": "How do you calculate the median from the given data?",
+  "input": "1, 2, 8, 9, 12, 13",
+  "output": "To calculate the median from the given data, order the numbers in the set from least to greatest and determine the middle number. In this case, the median would be 9.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

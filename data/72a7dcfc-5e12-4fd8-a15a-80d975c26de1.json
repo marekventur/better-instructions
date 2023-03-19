@@ -1,0 +1,12 @@
+{
+  "id": "72a7dcfc-5e12-4fd8-a15a-80d975c26de1",
+  "instruction": "Create a program that can detect potential fraudulent activity.",
+  "input": "",
+  "output": "The program should be able to detect potential fraudulent activity by monitoring activity such as large, sudden payments or non-recurring payments from unknown or suspicious sources. The program should also be capable of flagging multiple payments from a single source, as well as multiple payments made on a single day. Additionally, the program should detect payments that contain keywords associated with fraud or suspicious activity, as well as activity from high-risk countries.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

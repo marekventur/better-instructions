@@ -1,0 +1,12 @@
+{
+  "id": "5ba23a56-3076-423d-a338-45db70a388e3",
+  "instruction": "Find the 4th word of this sentence:",
+  "input": "I went to the store to buy milk",
+  "output": "to",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

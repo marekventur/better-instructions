@@ -1,0 +1,12 @@
+{
+  "id": "48e9cf93-d69c-496b-a8cb-2813f5b60313",
+  "instruction": "Configure the computer with the given information.",
+  "input": "Operating system - Linux Ubuntu, RAM size - 8GB",
+  "output": "The Linux Ubuntu operating system has been configured with 8GB of RAM.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

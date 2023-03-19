@@ -1,0 +1,12 @@
+{
+  "id": "ce376579-c573-4adb-8948-a552d4477a1a",
+  "instruction": "Optimize the following SQL query to make it faster.",
+  "input": "Select *\nFrom table\nWhere id = 5",
+  "output": "Select *\nFrom table\nWhere id = 5 \nIndex id",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

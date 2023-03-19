@@ -1,0 +1,12 @@
+{
+  "id": "3d9fc757-45e9-4a12-b10b-d12ebaa55636",
+  "instruction": "Train a SVM model for the given dataset.",
+  "input": "",
+  "output": "import numpy as np\nfrom sklearn.svm import SVC\n\n# Load the dataset\nX = np.load('data/X.npy')\ny = np.load('data/y.npy')\n\n# Train the model \nclf = SVC()\nclf.fit(X, y)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

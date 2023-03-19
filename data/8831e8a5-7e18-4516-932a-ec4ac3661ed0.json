@@ -1,0 +1,12 @@
+{
+  "id": "8831e8a5-7e18-4516-932a-ec4ac3661ed0",
+  "instruction": "Calculate the tax rate on a purchase of 100 USD.",
+  "input": "",
+  "output": "The tax rate is dependent on the location in which the purchase is being made.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

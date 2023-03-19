@@ -1,0 +1,12 @@
+{
+  "id": "44ea5d22-7ca3-4af8-a8f8-219f5c6b86fe",
+  "instruction": "Generate a username for a given person with specific parameters.",
+  "input": "Name: Jamie\nParameters: Must contain the letter J and must be between 8-12 characters.",
+  "output": "Jamie_J9119.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

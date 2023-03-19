@@ -1,0 +1,12 @@
+{
+  "id": "4118d2ac-f286-412d-a17f-50b628a8d897",
+  "instruction": "Add a comma between the two parts of the sentence.",
+  "input": "The man collected his bags and exited the plane.",
+  "output": "The man collected his bags, and exited the plane.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

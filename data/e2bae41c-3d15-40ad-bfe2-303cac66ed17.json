@@ -1,0 +1,12 @@
+{
+  "id": "e2bae41c-3d15-40ad-bfe2-303cac66ed17",
+  "instruction": "Arrange the words in the following sentence syntactically and semantically correct order:",
+  "input": "the of made House Representatives",
+  "output": "The House of Representatives made.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

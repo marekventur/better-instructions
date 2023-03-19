@@ -1,0 +1,12 @@
+{
+  "id": "b676ac01-18b1-4638-b10f-28dadebff202",
+  "instruction": "Change the following sentence to be in the imperative mood.",
+  "input": "We must clean the room.",
+  "output": "Clean the room.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

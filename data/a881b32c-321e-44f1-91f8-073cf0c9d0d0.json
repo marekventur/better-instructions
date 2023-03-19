@@ -1,0 +1,12 @@
+{
+  "id": "a881b32c-321e-44f1-91f8-073cf0c9d0d0",
+  "instruction": "You are given a sequence of numbers. Determine if the sequence is arithmetic or geometric.",
+  "input": "2, 4, 8, 16",
+  "output": "The sequence is geometric, as there is a common ratio between the terms of the sequence (i.e. each term is the previous term multiplied by 2).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

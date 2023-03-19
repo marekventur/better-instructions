@@ -1,0 +1,12 @@
+{
+  "id": "dd25d8b1-0e7a-476c-a096-cccb9a0ea8de",
+  "instruction": "Create an example instance of the given class.",
+  "input": "Class: Animal",
+  "output": "example_animal = Animal(name=\"Fido\", species=\"dog\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

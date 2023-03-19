@@ -1,0 +1,12 @@
+{
+  "id": "f2673a62-09b7-4e48-93f2-fb9e5cfd58d3",
+  "instruction": "Compose a haiku using the words given in the input.",
+  "input": "stars, night, bright",
+  "output": "Stars light up the night\nShining down so bright and clear\nBlessing us with sight.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

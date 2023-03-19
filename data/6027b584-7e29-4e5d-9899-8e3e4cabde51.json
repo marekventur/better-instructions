@@ -1,0 +1,12 @@
+{
+  "id": "6027b584-7e29-4e5d-9899-8e3e4cabde51",
+  "instruction": "Create a classification model to determine whether this review is positive or negative",
+  "input": "This dish was not worth the money",
+  "output": "Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

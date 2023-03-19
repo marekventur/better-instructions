@@ -1,0 +1,12 @@
+{
+  "id": "abf6462a-846f-4cc0-924a-fae233b047ec",
+  "instruction": "Correct the grammatically incorrect sentence.",
+  "input": "The cat eating the fish.",
+  "output": "The cat is eating the fish.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c09887cc-8e3c-4a07-bde3-f132ccc3724f",
+  "instruction": "Suppose you are given the following pet data and needs to combine with each other.",
+  "input": "Person 1:\nName: Ritchie\nPet: Cat\n\nPerson 2:\nName: Thiago\nPet: Dog",
+  "output": "Ritchie and Thiago both have pets, a Cat and a Dog respectively. They both share a love for furry friends, and have been living in harmony ever since they got their pets.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2e9ee535-4e78-41d0-9898-0e3e411b19be",
+  "instruction": "Generate an example of using the following function.",
+  "input": "def append_to_list(lst, element):\n    lst.append(element)\n    return lst",
+  "output": "list1 = [1, 2, 3]\nelement = 4\nappend_to_list(list1, element) # returns [1, 2, 3, 4]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3d816625-85fa-4a25-b22e-4f67c86f5fe4",
+  "instruction": "Identify whether the given text is an idiom or not.",
+  "input": "He's burning the candle at both ends.",
+  "output": "Idiom",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

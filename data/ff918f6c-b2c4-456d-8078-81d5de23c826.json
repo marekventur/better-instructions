@@ -1,0 +1,12 @@
+{
+  "id": "ff918f6c-b2c4-456d-8078-81d5de23c826",
+  "instruction": "Rewrite the following sentence by removing the unnecessary word.",
+  "input": "He often often studies in the evenings.",
+  "output": "He often studies in the evenings.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

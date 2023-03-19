@@ -1,0 +1,12 @@
+{
+  "id": "0ecfcc0c-a821-41fc-ab61-91638c7dd7c3",
+  "instruction": "Describe a simple machine.",
+  "input": "No input.",
+  "output": "A simple machine is a type of device that performs a single job with few mechanical components. It generally has limited moving parts and can help make a task easier, faster, or safer. Common examples of simple machines include levers, pulleys, screws, wedges, inclined planes, and wheel and axles. \n\nA lever is a simple machine that consists of a bar that rotates around a fixed pivot point, known as the fulcrum. Examples of levers can typically be seen in common items such as door handles, tweezers, and screwdrivers.\n\nA pulley is a wheel with a rope or rope-like belt that moves around it, helping to efficiently move objects up or down. The ropes or belt helps to reduce the amount of effort needed to lift the object. An example of this type of machine can be seen in clotheslines or common hang glider designs.\n\nScrews are a type of helical incline plane, which is used to hold or fasten two or more objects together. They are usually made of metal, with a threaded spiral-shaped ridge along its length. A common use of this machine is to fasten furniture to a wall.\n\nWedges can be thought of as an inclined plane attached to a solid object. The inclined plane helps to move objects by increasing its area of contact with an object, making it easier to drive in nails, split wood, or slice food.\n\nInclined planes help to reduce the amount of force needed to push or pull an object. Examples of these can be seen in ramps, stairs, and cranes.\n\nFinally, wheel and axle machines consist of a wheel connected to an axle, with the wheel having a larger radius than the axle. By turning the wheel, the axle advances by smaller steps than the wheel, making it easier to use less force to move heavy objects. Common uses include wagons, doorknobs, and vehicle steering wheels.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

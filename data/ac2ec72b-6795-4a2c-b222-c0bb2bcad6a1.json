@@ -1,0 +1,12 @@
+{
+  "id": "ac2ec72b-6795-4a2c-b222-c0bb2bcad6a1",
+  "instruction": "Suggest how to improve the security of a computer network.",
+  "input": "",
+  "output": "To improve the security of a computer network, you should install a firewall to protect against external threats, enable access control lists to control which devices can access the network, require authentication for all users, encrypt sensitive data, regularly scan for vulnerabilities, update operating systems and applications to the latest version, and ensure all users have unique passwords.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

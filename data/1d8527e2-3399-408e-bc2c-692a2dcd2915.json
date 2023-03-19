@@ -1,0 +1,12 @@
+{
+  "id": "1d8527e2-3399-408e-bc2c-692a2dcd2915",
+  "instruction": "Provide a step-by-step guide to create a GPT-3 model.",
+  "input": "",
+  "output": "1. Create an account with OpenAI's GPT-3 API and obtain an access token. \n2. Choose the size of your GPT-3 model.\n3. Create a JSON file with the input and output requirements for your model.\n4. Use the GPT-3 API to create your model.\n5. Use the GPT-3 CLI to train and test your model. \n6. Evaluate the results of your model and tune parameters accordingly.\n7. Publish your model and make it available for others to use.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

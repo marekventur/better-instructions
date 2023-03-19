@@ -1,0 +1,12 @@
+{
+  "id": "2e49aec0-4a5a-4bce-beeb-3d127c22f867",
+  "instruction": "Generate a list of questions that you would ask to get to know someone better.",
+  "input": "",
+  "output": "- What is the story of your life? \n- What are your hobbies and passions? \n- How do you like to spend your spare time? \n- What has been your proudest accomplishment? \n- What is the best book you have ever read? \n- What would you do if you had a million dollars? \n- What do you look for in a partner? \n- What career would you like to pursue? \n- What is the best piece of advice you have ever received? \n- What kind of legacy do you hope to leave behind?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

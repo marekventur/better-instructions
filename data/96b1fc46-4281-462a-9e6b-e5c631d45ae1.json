@@ -1,0 +1,12 @@
+{
+  "id": "96b1fc46-4281-462a-9e6b-e5c631d45ae1",
+  "instruction": "Classify the following text as either positive or negative: \"I'm feeling quite down today.\"",
+  "input": "",
+  "output": "Negative.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

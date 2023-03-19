@@ -1,0 +1,12 @@
+{
+  "id": "8a24d309-3b97-4ce2-a66a-1c02052017e9",
+  "instruction": "Choose the best website to search for a particular product.",
+  "input": "Product: Outdoor camping equipment",
+  "output": "The best website for searching for outdoor camping equipment is REI.com. It features a wide selection of products from top brands, expert advice and reviews, and detailed product specifications. Additionally, REI is committed to providing quality customer service and free returns.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

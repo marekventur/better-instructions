@@ -1,0 +1,12 @@
+{
+  "id": "4b84bd0b-5255-44f0-b936-bf0ac43c69d6",
+  "instruction": "Given a recent news article, write a headline for it.",
+  "input": "https://www.news.example.com/article-1",
+  "output": "\"NASA Launches a Mars 2020 Mission to Search for Signs of Ancient Life\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a9eb8070-982b-4c85-8cad-8d46a3eedbf6",
+  "instruction": "Classify the article into one of the categories: science, sports, politics, finance, or business",
+  "input": "The world's most powerful supercomputer will soon be the first to break the exaflop barrier. Summit, the US Department of Energy's official Oak Ridge National Laboratory in Tennessee, was the world's most powerful system in June 2018.",
+  "output": "Science",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

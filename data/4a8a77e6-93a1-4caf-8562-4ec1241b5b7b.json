@@ -1,0 +1,12 @@
+{
+  "id": "4a8a77e6-93a1-4caf-8562-4ec1241b5b7b",
+  "instruction": "Divide this sentence into 2 parts that have the same meaning.",
+  "input": "Susan is reading a book and playing chess.",
+  "output": "Susan is reading a book \nand playing chess.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

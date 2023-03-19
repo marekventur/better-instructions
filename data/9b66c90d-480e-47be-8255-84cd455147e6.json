@@ -1,0 +1,12 @@
+{
+  "id": "9b66c90d-480e-47be-8255-84cd455147e6",
+  "instruction": "Write a function to implement selection sort.",
+  "input": "",
+  "output": "def selection_sort(nums):\n    for i in range(len(nums)):\n        min_idx = i\n        for j in range(i + 1, len(nums)):\n            if nums[min_idx] > nums[j]:\n                min_idx = j\n\n        nums[i], nums[min_idx] = nums[min_idx], nums[i]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

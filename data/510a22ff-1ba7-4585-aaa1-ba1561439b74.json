@@ -1,0 +1,12 @@
+{
+  "id": "510a22ff-1ba7-4585-aaa1-ba1561439b74",
+  "instruction": "Categorize the following fruit as either a citrus or a non-citrus fruit.",
+  "input": "Banana",
+  "output": "Non-citrus fruit.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2794ba75-70a8-4747-96cc-2ea1371a3cb0",
+  "instruction": "Construct a 3-layer neural network",
+  "input": "",
+  "output": "A 3-layer neural network can be constructed with an input layer, a hidden layer, and an output layer. The input layer is responsible for receiving input data, the hidden layer processes the data, and the output layer provides output results. The input layer is connected to the hidden layer through a set of weights, and the hidden layer is connected to the output layer through another set of weights. The weights are adjusted to optimize the performance of the network.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

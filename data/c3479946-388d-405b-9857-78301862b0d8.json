@@ -1,0 +1,12 @@
+{
+  "id": "c3479946-388d-405b-9857-78301862b0d8",
+  "instruction": "Rank the given items in descending order",
+  "input": "Telephone, Car, Computer",
+  "output": "Computer, Car, Telephone",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

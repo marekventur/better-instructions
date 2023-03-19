@@ -1,0 +1,12 @@
+{
+  "id": "10c52800-cf22-4371-a0f0-6af67ec91a12",
+  "instruction": "Categorize the following news headline.",
+  "input": "Apple Announces iPhone 12 Series",
+  "output": "Technology",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

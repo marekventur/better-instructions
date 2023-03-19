@@ -1,0 +1,12 @@
+{
+  "id": "7a2ba7b5-1a63-4473-ab60-c4544675ddf4",
+  "instruction": "Generate a correct program to calculate the sum of all elements of an array",
+  "input": "",
+  "output": "def array_sum(arr):\n    sum = 0\n    for n in arr:\n        sum += n\n    return sum",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "46da4123-3dd9-4d5c-9504-842cec698535",
+  "instruction": "Generate a new recipe using oatmeal and apples.",
+  "input": "",
+  "output": "This recipe combines the flavors of oatmeal and apples to create a delicious and healthy breakfast. You'll need: 2 apples, 1 cup of rolled oats, 1/4 cup of raisins, 1 teaspoon of cinnamon, 1/4 cup of brown sugar, 1/2 cup of almond milk, and 2 tablespoons of butter. Start by peeling and chopping the apples and adding them to a saucepan with the almond milk, butter, and brown sugar. Heat this mixture over low heat until it's boiling. Add the oatmeal, raisins, and cinnamon and stir to combine. Simmer for 8-10 minutes or until the oatmeal is cooked. Serve warm with a topping of your choice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

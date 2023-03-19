@@ -1,0 +1,12 @@
+{
+  "id": "0fe301e7-4300-45d0-b60a-a099ebca061e",
+  "instruction": "Given a type of food, create a recipe for it.",
+  "input": "apple crumble",
+  "output": "Apple Crumble Recipe\nIngredients: \n- 4 large apples, peeled, cored and cubed \n- 2 tablespoons of butter \n- \u00bd cup of packed brown sugar \n- 2 tablespoons of all-purpose flour \n- \u00bd teaspoon of ground cinnamon \n- \u00bc teaspoon of ground nutmeg \n- 1 cup of rolled oats \n\nInstructions:\n1. Preheat oven to 350 degrees F (175 degrees C). Grease an 8-inch square baking dish.\n2. Spread the cubed apples in the greased baking dish. \n3. In a medium bowl, mix together the butter, brown sugar, flour, cinnamon, nutmeg and oats until well combined. \n4. Sprinkle the oat crumble mixture over the apples and spread evenly.\n5. Bake in preheated oven for about 30 minutes, or until the top is golden brown. Serve warm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

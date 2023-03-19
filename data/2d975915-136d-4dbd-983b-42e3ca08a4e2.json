@@ -1,0 +1,12 @@
+{
+  "id": "2d975915-136d-4dbd-983b-42e3ca08a4e2",
+  "instruction": "Create a table to compare the iOS and Android versions of a popular app",
+  "input": "",
+  "output": "Operating System | iOS | Android \n---------------- | --- | ------- \nFeatures | App specific features are only available on iOS | Widgets, live wallpapers, and additional customization options available \nCompatibility | Only works on iOS 11 or higher | Compatible with a wide range of Android operating systems \nDevelopment | Has a more extensive app store approval process | Easier for developers to make changes and updates \nSecurity | Generally more secure than Android | Some security issues may arise due to the prevalence of 3rd-party marketplaces",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

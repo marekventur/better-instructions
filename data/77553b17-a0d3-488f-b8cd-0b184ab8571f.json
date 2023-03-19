@@ -1,0 +1,12 @@
+{
+  "id": "77553b17-a0d3-488f-b8cd-0b184ab8571f",
+  "instruction": "Rewrite the sentence without using the word \"therefore\".",
+  "input": "Global temperatures are rising; therefore, climate change is becoming increasingly severe.",
+  "output": "Global temperatures are rising, making climate change increasingly severe.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

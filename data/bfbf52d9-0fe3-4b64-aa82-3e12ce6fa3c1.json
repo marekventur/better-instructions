@@ -1,0 +1,12 @@
+{
+  "id": "bfbf52d9-0fe3-4b64-aa82-3e12ce6fa3c1",
+  "instruction": "Summarize the function of a router.",
+  "input": "",
+  "output": "A router is a device that is used to transmit data between multiple networks. It receives data packets from connected devices, examines the packet's data and decides where to send it, translating the packet if needed. Routers effectively manage the flow of data, ensuring that packets are routed to where they need to go and that data is not lost or corrupted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

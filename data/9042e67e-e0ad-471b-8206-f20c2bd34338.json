@@ -1,0 +1,12 @@
+{
+  "id": "9042e67e-e0ad-471b-8206-f20c2bd34338",
+  "instruction": "Identify the country of origin for the given product.",
+  "input": "Porsche Panamera",
+  "output": "Germany",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

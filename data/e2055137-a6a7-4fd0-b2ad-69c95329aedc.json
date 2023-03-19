@@ -1,0 +1,12 @@
+{
+  "id": "e2055137-a6a7-4fd0-b2ad-69c95329aedc",
+  "instruction": "Generate a list of interesting riddles.",
+  "input": "",
+  "output": "1. What word in the English language is always spelled incorrectly?\n2. What transportation can you get in but never out?\n3. I am taken from a mine and shut up in a wooden case, from which I'm never released, and yet I'm used by almost everybody. What am I?\n4. I am a four letter word. The first two letters signifies a male, the last two letters signifies a female. What am I?\n5. What has a head, a tail, is brown, and has no legs?\n6. What walks on four legs in the morning, two legs in the afternoon, and three legs in the evening?\n7. What goes up the hill with 3 legs and comes down with 4?\n8. What gets sharper the more you use it?\n9. I'm tall when I'm young, and I'm short when I'm old. What am I?\n10. What starts with a T, ends with a T, and has T in it?\nAnswer: A teapot!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e0b0a7bc-85a6-4e2c-9476-14b9f1f34b36",
+  "instruction": "Give an example of a potential problem that can occur if a certain policy is implemented.",
+  "input": "Policy to incentivize companies to reduce air pollution",
+  "output": "A potential problem with this policy is that companies may be able to take advantage of the incentives by reporting false data about their emissions. This would lead to an inaccurate representation of the true rate of pollution and hinder any progress towards reducing air pollution.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

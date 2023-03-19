@@ -1,0 +1,12 @@
+{
+  "id": "5fe3eba4-757f-4968-9bfb-5c16615bb43e",
+  "instruction": "Design a survey to collect customer feedback on the quality of a product.",
+  "input": "",
+  "output": "The survey should include questions about the customer's overall experience with the product, the features that they liked and disliked, any problems they had, and suggestions for improvement. Furthermore, it should also ask the customer to rate the product on various metrics such as design, functionality, and quality. Additionally, the survey should also ask open-ended questions that allow customers to provide extra feedback and advice on how the product could be improved.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

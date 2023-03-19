@@ -1,0 +1,12 @@
+{
+  "id": "144eb0bf-8770-4f4b-a3bd-2bb87b8c593c",
+  "instruction": "Read this short passage and identify the main idea.",
+  "input": "The train generally leaves the station at 8 am each morning, but recently it has been leaving at 8:15 am due to mechanical issues.",
+  "output": "The train has been leaving later than usual due to technical difficulties.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

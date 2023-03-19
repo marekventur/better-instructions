@@ -1,0 +1,12 @@
+{
+  "id": "4432e869-2188-4053-bc27-aec28768b9ce",
+  "instruction": "Compose a tweet of no more than 280 characters responding to the given news article.",
+  "input": "Article title: \"New Study Finds Antidepressants Can Increase Risk For Stroke\"",
+  "output": "After this new study, it's clear that anyone considering taking antidepressants should weigh the risks of a potential stroke. With this knowledge, be sure to speak to your doctor and make an informed decision. #antidepressants #stroke",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

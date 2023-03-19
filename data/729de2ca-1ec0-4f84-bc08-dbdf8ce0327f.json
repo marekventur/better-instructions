@@ -1,0 +1,12 @@
+{
+  "id": "729de2ca-1ec0-4f84-bc08-dbdf8ce0327f",
+  "instruction": "Given a historical event, come up with a newspaper headline.",
+  "input": "The fall of the Berlin Wall",
+  "output": "\"Germany Reunited: Berlin Wall Falls After 28 Years of Division\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

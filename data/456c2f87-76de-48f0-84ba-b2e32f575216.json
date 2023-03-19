@@ -1,0 +1,12 @@
+{
+  "id": "456c2f87-76de-48f0-84ba-b2e32f575216",
+  "instruction": "Categorize the following article as science fiction or fantasy",
+  "input": "The story follows the life of a young man called Max as he travels through space and time to strange planets, searching for a way to save his doomed home planet from destruction. Along the way, he meets a variety of aliens, cyborgs, and robots with mysterious powers, and strives to discover the answers to the universe's most puzzling questions.",
+  "output": "Science Fiction",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

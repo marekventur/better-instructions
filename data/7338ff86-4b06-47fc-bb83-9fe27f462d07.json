@@ -1,0 +1,12 @@
+{
+  "id": "7338ff86-4b06-47fc-bb83-9fe27f462d07",
+  "instruction": "Trace the history of the given person.",
+  "input": "Emily Dickinson",
+  "output": "Emily Dickinson was born on December 10, 1830, in Amherst, Massachusetts. She spent much of her adult life in seclusion, writing and studying, although she corresponded regularly with friends and family members. Dickinson published only a fraction of the more than 1,800 poems she wrote. These works were posthumously published in various collections, including The Single Hound (1914), Bolts of Melody (1945), and The Complete Poems of Emily Dickinson (1955). Dickinson's poetry is renowned for its innovation, power, and interest in exploring the relationship between death and immortality.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

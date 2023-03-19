@@ -1,0 +1,12 @@
+{
+  "id": "e18aec3a-ea29-449c-928f-bacb5fe103be",
+  "instruction": "Evaluate this piece of text according to a given criteria.",
+  "input": "The article provides a firmly-researched view of the current crisis with regard to renewable energy\nCriteria:\nHow does the article discuss the viability of renewable energy?",
+  "output": "The article discusses the viability of renewable energy in a highly positive light, demonstrating its unprecedented potential with the current crisis. It conveys the message that with concerted effort, renewable energy could be an important solution to the energy crisis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

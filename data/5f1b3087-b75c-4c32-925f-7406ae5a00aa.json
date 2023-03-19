@@ -1,0 +1,12 @@
+{
+  "id": "5f1b3087-b75c-4c32-925f-7406ae5a00aa",
+  "instruction": "Change the tense of this sentence from future to present.",
+  "input": "He will call me later.",
+  "output": "He is calling me later.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

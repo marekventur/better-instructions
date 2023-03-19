@@ -1,0 +1,12 @@
+{
+  "id": "eed7dbb1-7d84-4906-a02d-25fce14dd482",
+  "instruction": "Generate a list of five potential solutions to the given problem.",
+  "input": "How to reduce traffic congestion in the city?",
+  "output": "1. Improve public transportation options such as extending bus routes and increasing commuter rail availability.\n2. Build dedicated bike lanes and increase usage of bicycles as a form of transportation.\n3. Implement road rules fines for drivers who violate traffic laws.\n4. Create an app which monitors traffic patterns and adjusts traffic signals accordingly.\n5. Create a carpool system which allows drivers to share their vehicles with other users in the same area.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b1ed23fe-95af-453b-a722-8c104a048aca",
+  "instruction": "Take the given text and make it more concise by removing unnecessary words and shortening long phrases, while maintaining the original meaning.",
+  "input": "At the present moment in time, the residents of this small town are tired of the loud noises that come from the factory late at night",
+  "output": "Residents of the small town are weary of the factory's loud noises at night.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

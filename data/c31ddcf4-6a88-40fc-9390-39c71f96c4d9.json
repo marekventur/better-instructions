@@ -1,0 +1,12 @@
+{
+  "id": "c31ddcf4-6a88-40fc-9390-39c71f96c4d9",
+  "instruction": "Generate a person's name from a set of symbols.",
+  "input": "symbols: \ud83d\udc60 \ud83d\udc08 \ud83d\udc2e \ud83c\udf0f",
+  "output": "Penelope the Catwoman of the World.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

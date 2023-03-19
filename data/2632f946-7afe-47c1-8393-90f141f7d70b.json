@@ -1,0 +1,12 @@
+{
+  "id": "2632f946-7afe-47c1-8393-90f141f7d70b",
+  "instruction": "Generate a hypothesis for the given research topic.",
+  "input": "Research Topic: Relationship between spending time outdoors and mental health",
+  "output": "I hypothesize that people who spend more time outdoors will have lower levels of depression and anxiety.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "030c556d-5967-42af-bcac-a357de9b7b68",
+  "instruction": "Delete one of the following words so that the sentence is grammatically correct:",
+  "input": "He made they purchase at the store.",
+  "output": "He made the purchase at the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

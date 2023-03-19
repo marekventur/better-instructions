@@ -1,0 +1,12 @@
+{
+  "id": "edd5b819-997f-4f57-ac3d-bcf7c2d0a921",
+  "instruction": "Detect if the given sentence has a double negative.",
+  "input": "He isn't not worried about the coronavirus situation.",
+  "output": "Yes, the given sentence has a double negative.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

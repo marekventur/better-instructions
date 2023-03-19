@@ -1,0 +1,12 @@
+{
+  "id": "e5c1a82f-2ccb-4938-b8bc-85685f9cbf93",
+  "instruction": "Create a math equation to solve for X",
+  "input": "2x+3=7",
+  "output": "X = 2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

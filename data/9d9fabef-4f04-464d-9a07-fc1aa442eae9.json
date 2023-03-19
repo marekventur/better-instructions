@@ -1,0 +1,12 @@
+{
+  "id": "9d9fabef-4f04-464d-9a07-fc1aa442eae9",
+  "instruction": "Given a short narrative and an emotion, develop a response that reflects the emotion in the syntax and diction that you use.",
+  "input": "Narrative: The volcano had erupted destroying everything in its path.\nThe emotion: Fear",
+  "output": "The rumble of destruction echoed as the violent rush of roiling lava devoured all that it encountered with a terrifying intensity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

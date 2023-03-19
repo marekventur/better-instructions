@@ -1,0 +1,12 @@
+{
+  "id": "5bff0226-4330-482f-876f-4f50ded20eb2",
+  "instruction": "Construct a cake recipe.",
+  "input": "",
+  "output": "Ingredients:\n\n- 4 large eggs\n- 1 and \u00bd cups granulated sugar\n- 1 cup all-purpose flour\n- \u00be teaspoon baking powder\n- \u00bd teaspoon salt\n- 1 cup milk\n- \u00bd cup melted butter\n- 1 teaspoon vanilla extract\n- 2 teaspoons almond extract\n\nInstructions:\n\n1. Preheat oven to 350\u00b0F.\n2. Grease and flour a 9-inch round pan.\n3. In a medium bowl, whisk together the eggs and sugar until light and fluffy.\n4. In a separate bowl, sift together the flour, baking powder, and salt.\n5. Add the milk, butter, vanilla extract, and almond extract to the egg mixture, and mix until combined.\n6. Slowly add the flour mixture to the wet ingredients and mix until just combined. Be careful not to over-mix.\n7. Pour the batter into the prepared pan, and bake for 35-40 minutes, or until a toothpick inserted in the center comes out clean.\n8. Allow to cool in the pan for 10 minutes, then transfer to a cooling rack to cool completely.\n9. Serve with a dollop of freshly whipped cream and enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

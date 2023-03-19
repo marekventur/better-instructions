@@ -1,0 +1,12 @@
+{
+  "id": "d2846556-f38f-4774-a144-35ce9166870e",
+  "instruction": "Create a custom password based on the following phrase:",
+  "input": "The birds fly",
+  "output": "TbF1y!\nThe custom password is created by taking the first letter of each word and adding a number in the middle and a ! at the end. The letter T represents The and the number 1 represents fly. The ! is a special character. The output is TbF1y!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

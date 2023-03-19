@@ -1,0 +1,12 @@
+{
+  "id": "e62177dc-23f1-43e9-a7af-3bb550f9f9ee",
+  "instruction": "Construct a regular expression to match any single three-digit number.",
+  "input": "",
+  "output": "The regular expression to match any single three-digit number is: `\\d{3}`  This expression will match exactly three numerical digits in a row.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

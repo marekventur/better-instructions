@@ -1,0 +1,12 @@
+{
+  "id": "04b5ed70-59b9-4474-bfc0-8035daac8f66",
+  "instruction": "Write a function to print out the first letter of each word in a sentence",
+  "input": "Welcome to the world.",
+  "output": "def first_letter(sentence):\n   words = sentence.split(\" \") \n   for word in words:\n      print(word[0], end=\"\")\n   print()\n\nfirst_letter(\"Welcome to the world.\")\n\n# Output\nWttw.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

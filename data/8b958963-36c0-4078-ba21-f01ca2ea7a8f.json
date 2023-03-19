@@ -1,0 +1,12 @@
+{
+  "id": "8b958963-36c0-4078-ba21-f01ca2ea7a8f",
+  "instruction": "Analyze the environmental impact of a given type of transport",
+  "input": "Air transport",
+  "output": "Air transport has significant environmental impacts, due to its contribution to air pollution, climate change, and noise. It is estimated that air transport contributes around 3.5% of all global anthropogenic carbon dioxide emissions. In addition, aircraft engines emit other gases, such as water vapor, nitrogen oxides, and sulfur oxides, as well as particulate matter. Due to the high altitude they typically travel at, these emissions have a greater impact on climate change than emissions from ground-based engines. Other environmental impacts include noise pollution near airports and the destruction of land near airports for infrastructure, as well as wildlife displacement.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

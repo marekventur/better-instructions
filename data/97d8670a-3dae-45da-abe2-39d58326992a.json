@@ -1,0 +1,12 @@
+{
+  "id": "97d8670a-3dae-45da-abe2-39d58326992a",
+  "instruction": "Classify news articles by their topics.",
+  "input": "\"New Vaccine Shows Promising Results in Early Trials\"",
+  "output": "Health and Medicine",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

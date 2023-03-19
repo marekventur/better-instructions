@@ -1,0 +1,12 @@
+{
+  "id": "31fd225a-9448-4626-bbaf-441c82f56c5a",
+  "instruction": "Describe how artificial neural networks work.",
+  "input": "",
+  "output": "An artificial neural network (ANN) is a network of interconnected nodes that are used for machine learning and pattern recognition. The nodes are designed to mimic the neurons in the human brain and are organized in layers. Each node contains a numerical value or weight, which is adjusted based on input data, and the nodes are connected to each other. When new data is fed into the input layer, the numerical value of each layer is combined and weighted. The sum of the inputs is then passed through an activation function, which determines the output of the network. The output is then used to adjust the network weights, allowing it to learn from the data and improve its predictions over time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

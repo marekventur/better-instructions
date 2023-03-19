@@ -1,0 +1,12 @@
+{
+  "id": "8cc3c2ad-c0b8-4feb-9316-eca6be3da734",
+  "instruction": "Calculate and output the result of the following arithmetic expression.",
+  "input": "8+4*9",
+  "output": "72",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

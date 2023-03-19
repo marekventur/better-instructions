@@ -1,0 +1,12 @@
+{
+  "id": "c63810df-be93-4c71-a802-583bda366fd4",
+  "instruction": "Which technique typically requires the most data to be effective?",
+  "input": "",
+  "output": "Deep learning techniques typically require the most data to be effective, as they are designed to process a large amount of information to build more accurate models. This is in contrast to traditional machine learning techniques, which require relatively small amounts of data and can achieve good results for simpler problems.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

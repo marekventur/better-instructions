@@ -1,0 +1,12 @@
+{
+  "id": "47c7b8de-ed4f-422b-8b7c-8d20a71108c4",
+  "instruction": "Predict the future market value of this stock.",
+  "input": "ABC Stock",
+  "output": "Predictions for the future market value of ABC Stock are difficult to make due to the ever-changing nature of the stock market. Although predictions can be made, there are no guarantees as to the outcome.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

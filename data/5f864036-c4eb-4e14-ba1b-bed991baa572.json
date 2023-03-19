@@ -1,0 +1,12 @@
+{
+  "id": "5f864036-c4eb-4e14-ba1b-bed991baa572",
+  "instruction": "Create a data set that classifies different types of fruits.",
+  "input": "",
+  "output": "Data Set: \n\n| Fruit | Category  | \n|------|-----------|\n| Apple | Pome     |\n| Banana | Berry    | \n| Orange | Citrus   | \n| Peach | Drupe     |\n| Lemon | Citrus    | \n| Mango | Drupe     |\n| Cherry | Drupe    |\n| Watermelon | Berry  |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

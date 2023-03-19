@@ -1,0 +1,12 @@
+{
+  "id": "0b9c5824-f89f-4556-8a74-316e59d1cf72",
+  "instruction": "Given a statement, rephrase it to make it less ambiguous.",
+  "input": "The government should provide healthcare to its citizens.",
+  "output": "It is the responsibility of the government to ensure that its citizens have access to quality health care.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

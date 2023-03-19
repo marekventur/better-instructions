@@ -1,0 +1,12 @@
+{
+  "id": "97f881aa-069f-4575-8cc1-c349323e5aef",
+  "instruction": "Find all the examples of hyperbole in the text.",
+  "input": "The new dress was so beautiful it seemed to defy the laws of physics. It was the most impressive thing my eyes had ever seen!",
+  "output": "\"Seemed to defy the laws of physics\" and \"most impressive thing my eyes had ever seen\" are both examples of hyperbole.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

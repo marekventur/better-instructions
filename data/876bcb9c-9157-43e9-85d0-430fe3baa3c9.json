@@ -1,0 +1,12 @@
+{
+  "id": "876bcb9c-9157-43e9-85d0-430fe3baa3c9",
+  "instruction": "Identify which of these two technologies is more effective.",
+  "input": "Chatbot vs. Voicebot",
+  "output": "It depends on the context. Chatbots are typically more effective for simple tasks, while Voicebots are more effective for complex tasks such as complex customer service.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

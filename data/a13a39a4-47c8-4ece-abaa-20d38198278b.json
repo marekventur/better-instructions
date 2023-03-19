@@ -1,0 +1,12 @@
+{
+  "id": "a13a39a4-47c8-4ece-abaa-20d38198278b",
+  "instruction": "Given some planetary positions, calculate the zodiac sign of a person born on October 15th.",
+  "input": "Sun in Libra, Moon in Aries, Mars in Scorpio",
+  "output": "The zodiac sign of a person born on October 15th with the given planetary positions is Libra.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

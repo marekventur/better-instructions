@@ -1,0 +1,12 @@
+{
+  "id": "ea2137fa-52ef-4fd2-a79b-44e1cca95f90",
+  "instruction": "Given two numbers, identify whether they are co-prime.",
+  "input": "Number 1: 16 \nNumber 2: 27",
+  "output": "Yes, the numbers 16 and 27 are co-prime.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

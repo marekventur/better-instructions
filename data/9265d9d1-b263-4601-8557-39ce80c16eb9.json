@@ -1,0 +1,12 @@
+{
+  "id": "9265d9d1-b263-4601-8557-39ce80c16eb9",
+  "instruction": "Classify a given object into the appropriate category.",
+  "input": "Crocodile",
+  "output": "Reptile",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

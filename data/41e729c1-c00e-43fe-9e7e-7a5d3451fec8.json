@@ -1,0 +1,12 @@
+{
+  "id": "41e729c1-c00e-43fe-9e7e-7a5d3451fec8",
+  "instruction": "Describe the following model architecture.",
+  "input": "Model architecture consists of 4 convolution layers followed by a fully connected layer and a softmax layer.",
+  "output": "The model has 4 convolution layers followed by a fully connected layer and a softmax layer. Each convolution layer has a kernel size of 3x3 and a stride length of 1. Following this is a fully connected layer that flattens the output of the convolution layers into a single vector. The final layer is a softmax layer, which outputs a probability distribution over any given class or label.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

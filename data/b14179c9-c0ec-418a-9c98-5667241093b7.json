@@ -1,0 +1,12 @@
+{
+  "id": "b14179c9-c0ec-418a-9c98-5667241093b7",
+  "instruction": "In this task, you need to make corrections to the given sentence.",
+  "input": "I do not believes this.",
+  "output": "I do not believe this.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

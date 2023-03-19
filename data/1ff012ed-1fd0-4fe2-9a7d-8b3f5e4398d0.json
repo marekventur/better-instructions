@@ -1,0 +1,12 @@
+{
+  "id": "1ff012ed-1fd0-4fe2-9a7d-8b3f5e4398d0",
+  "instruction": "Provide content tags for the given article.",
+  "input": "A new study has been conducted by the Center for Disease Control that investigates the link between air pollution and cardiovascular health.",
+  "output": "Tags: air pollution, cardiovascular health, study, Center for Disease Control",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

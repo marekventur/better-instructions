@@ -1,0 +1,12 @@
+{
+  "id": "63865680-f8ea-48e9-8405-d6d23e2ddda4",
+  "instruction": "Given a sentence, rewrite the sentence in a polite form.",
+  "input": "Please get me a cup of coffee.",
+  "output": "Could you please get me a cup of coffee?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b07cfebd-4af0-4887-9610-825a0e4dddd7",
+  "instruction": "Please switch the blanks in the sentence below",
+  "input": "He bought a _ to store his data but the storage _ was too small.",
+  "output": "He bought a storage to store his data but the data capacity was too small.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

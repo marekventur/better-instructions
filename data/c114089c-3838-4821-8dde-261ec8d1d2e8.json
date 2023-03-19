@@ -1,0 +1,12 @@
+{
+  "id": "c114089c-3838-4821-8dde-261ec8d1d2e8",
+  "instruction": "Compare the risk factors for type 1 and type 2 diabetes.",
+  "input": "",
+  "output": "Type 1 and type 2 diabetes are both chronic medical conditions that involve high levels of glucose in the blood, but they each have different risk factors. Type 1 diabetes is usually caused by an autoimmune response, whereas type 2 diabetes is often linked to obesity, physical inactivity, and aging. Both involve a lack of insulin production or inefficient use of insulin in the body, but the most significant difference is that type 1 diabetes occurs in childhood and type 2 diabetes commonly develops in adulthood.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

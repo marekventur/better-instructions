@@ -1,0 +1,12 @@
+{
+  "id": "0525800d-716c-4750-92f4-1e9822eb4be2",
+  "instruction": "Identify the type of inference made by the given statement.",
+  "input": "He shouted loudly and angrily, so he must be angry.",
+  "output": "Inductive inference.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

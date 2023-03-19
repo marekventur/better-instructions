@@ -1,0 +1,12 @@
+{
+  "id": "7f995bfc-d001-4a83-a25e-e7289a0a378a",
+  "instruction": "Categorize this news article as a local or international story.",
+  "input": "South Carolina Governor unveils $2 billion plan to redevelop coastal port.",
+  "output": "Local story.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

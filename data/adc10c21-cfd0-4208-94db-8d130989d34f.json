@@ -1,0 +1,12 @@
+{
+  "id": "adc10c21-cfd0-4208-94db-8d130989d34f",
+  "instruction": "Adjust the given text to fit the given formatting requirement.",
+  "input": "The quick brown fox jumped over the lazy dog.\nFormatting Requirement:\n15 characters per line",
+  "output": "The quick \nbrown fox \njumped over \nthe lazy dog.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

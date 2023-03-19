@@ -1,0 +1,12 @@
+{
+  "id": "0f1b0ec7-5e75-4539-bfac-c26f39e5046f",
+  "instruction": "Categorize the following company as either a B2B or a B2C business.",
+  "input": "Uber",
+  "output": "Uber is a B2C business.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

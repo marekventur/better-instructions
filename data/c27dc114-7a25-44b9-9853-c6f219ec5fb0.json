@@ -1,0 +1,12 @@
+{
+  "id": "c27dc114-7a25-44b9-9853-c6f219ec5fb0",
+  "instruction": "Design a book cover related to the title.",
+  "input": "Title: \"The Magic of Nature\"",
+  "output": "On the cover, draw a lush forest landscape with a glowing sunset in the background. In the foreground of the illustration, include a young girl looking out into the horizon with a book in her hands and magical elements swirling around her. Along the top of the cover, write the title in a whimsical font in a deep blue color.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

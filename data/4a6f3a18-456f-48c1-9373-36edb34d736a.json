@@ -1,0 +1,12 @@
+{
+  "id": "4a6f3a18-456f-48c1-9373-36edb34d736a",
+  "instruction": "Check if this mathematical expression is correct: 4x - 6 = 8",
+  "input": "",
+  "output": "No, this mathematical expression is incorrect. The correct expression is 4x = 14.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

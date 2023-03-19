@@ -1,0 +1,12 @@
+{
+  "id": "cbb6f268-70c5-48e3-8ca2-73abd8f96b2d",
+  "instruction": "Create a function which takes a string and changes all characters to upper case",
+  "input": "",
+  "output": "def make_upper_case(string): \n  return string.upper()",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

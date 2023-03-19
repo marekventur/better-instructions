@@ -1,0 +1,12 @@
+{
+  "id": "ab0bf3ff-6d78-4bd0-b5b4-59216536a275",
+  "instruction": "Generate a dialogue between two customers arguing about price.",
+  "input": "",
+  "output": "Customer 1: That's way too expensive!\nCustomer 2: Well, I think it's worth the money for the quality of the product.\nCustomer 1: There are much cheaper options out there.\nCustomer 2: Yes, but those products won't last nearly as long.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "14563d12-d9e9-476f-9309-9b1babc4b553",
+  "instruction": "List all the different emotions the can be inferred from the given text.",
+  "input": "He was frustrated with the outcome of the project and worried about his future.",
+  "output": "The different emotions that can be inferred from the text are frustration and worry.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

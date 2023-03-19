@@ -1,0 +1,12 @@
+{
+  "id": "1b0a1d2d-593b-4c0e-810a-5e4286088efc",
+  "instruction": "Name 3 different methods for network segmentation.",
+  "input": "",
+  "output": "1. VLANs: using virtual LANs to segment users and resources.\n2. Firewalls: using firewalls to filter out incoming and outgoing traffic.\n3. Access Control Lists: using lists to give specific users or services access to specific parts of the network.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

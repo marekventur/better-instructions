@@ -1,0 +1,12 @@
+{
+  "id": "1ecc2af7-e067-4a82-8630-f332dbcc45ca",
+  "instruction": "Classify the type of fuel as petrol/diesel for the following list:",
+  "input": "[0.5 diesel, petrol 2.5 , 2 petrol, 0.75 diesel]",
+  "output": "The fuel types are [diesel, petrol, petrol, diesel].",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

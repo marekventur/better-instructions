@@ -1,0 +1,12 @@
+{
+  "id": "ed5046cf-caf9-4579-8658-f30ed6aea849",
+  "instruction": "Edit this sentence to make the meaning clearer.",
+  "input": "The bigger you are, the faster you'll go.",
+  "output": "The bigger you are, the faster you will be able to go.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

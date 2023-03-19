@@ -1,0 +1,12 @@
+{
+  "id": "613c462c-66ca-463d-83ad-ac517108b283",
+  "instruction": "Classify the following item as a \"grain\" or \"meat\".",
+  "input": "Tofu",
+  "output": "Grain",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

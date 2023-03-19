@@ -1,0 +1,12 @@
+{
+  "id": "fbea2111-ae39-4771-8a80-37855b1e7e92",
+  "instruction": "Replace the word \"rendering\" in the following sentence with another word that means the same without changing the sentence structure.",
+  "input": "The rendering was done on a canvas before it finally made it to the museum.",
+  "output": "The depiction was done on a canvas before it finally made it to the museum.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

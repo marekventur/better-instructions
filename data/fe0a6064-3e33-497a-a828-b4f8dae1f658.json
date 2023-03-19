@@ -1,0 +1,12 @@
+{
+  "id": "fe0a6064-3e33-497a-a828-b4f8dae1f658",
+  "instruction": "What is Dependency Parsing?",
+  "input": "",
+  "output": "Dependency parsing is a natural language processing task that involves analyzing sentences to determine the syntactic relationships between words. It is typically used to identify the subject, verb and objects of a sentence and to understand how they relate to each other.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b201aff1-de94-44ce-8186-10c10df4f7dc",
+  "instruction": "Suggest five interview questions that reflect the job requirements.",
+  "input": "Position: Developer",
+  "output": "1. What experience do you have developing web and mobile applications?\n2. What programming languages are you most knowledgeable in?\n3. Are you familiar with database architecture and design?\n4. What strategies and methods do you use to improve code performance?\n5. How do you typically approach debugging and resolving errors?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

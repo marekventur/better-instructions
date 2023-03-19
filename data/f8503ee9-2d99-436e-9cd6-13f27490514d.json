@@ -1,0 +1,12 @@
+{
+  "id": "f8503ee9-2d99-436e-9cd6-13f27490514d",
+  "instruction": "Find the length of the hypotenuse given two sides",
+  "input": "side_length1 = 5, side_length2 = 6",
+  "output": "The length of the hypotenuse is 7.81.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

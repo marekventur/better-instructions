@@ -1,0 +1,12 @@
+{
+  "id": "02297901-f57b-4c28-a24f-805e6d819ce5",
+  "instruction": "Using the given list, pick one sport.",
+  "input": "Swimming, soccer, hockey, tennis, badminton",
+  "output": "hockey",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8a030279-f81a-4599-ac0f-2595a280a139",
+  "instruction": "Given five random words, write a story",
+  "input": "table, heart, umbrella, sleeping, country",
+  "output": "Elizabeth looked out her window and sighed. She had been cooped up in her room for what seemed like an eternity, her heart aching for freedom. The country she lived in had imposed strict lock-down rules, and she yearned to explore the world outside. Then, one morning, something changed. She saw an umbrella perched atop the table in her room. Her heart leapt at the possibility of adventure. Taking the umbrella, Elizabeth set out, sleeping in random towns, never staying in the same place for too long. And as she walked and explored, she knew that it would be alright; the umbrella would protect her from the storm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

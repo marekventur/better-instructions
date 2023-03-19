@@ -1,0 +1,12 @@
+{
+  "id": "b9bac807-9038-482a-af12-2c9dd94ba3f0",
+  "instruction": "Identify the biography of the famous mathematician.",
+  "input": "Alan Turing",
+  "output": "Alan Turing was a British mathematician, computer scientist, logician, cryptanalyst and theoretical biologist who made significant contributions to mathematics, computer science, cryptography and artificial intelligence. He is most well-known for his pivotal role in cracking the German Enigma code during World War II. He is also credited with creating the idea of a universal machine, which later became known as a Turing Machine. He was a Fellow of the Royal Society and was appointed an OBE. He died in 1954, aged just 41.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

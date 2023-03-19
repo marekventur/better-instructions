@@ -1,0 +1,12 @@
+{
+  "id": "306e1021-0b29-4751-a493-8c7ccc1ab18b",
+  "instruction": "Create a logical argument to support the given statement.",
+  "input": "Shorter work weeks can increase productivity.",
+  "output": "Shorter work weeks can increase productivity as both employees and employers benefit from spending less time in the office. From an employee's perspective, they are encouraged to act more efficiently during the time that they are working, resulting in fewer distractions in the work place. This can lead to a higher quality of work being produced as well as higher morale amongst staff. From a business perspective, shorter work weeks can also help a company save money, as there are less hours to pay for and less resources being used. Additionally, providing employees with more recreational time can also help to create a healthy and productive work culture.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e0fbed49-eec4-41fb-b410-417b7440bb8d",
+  "instruction": "Determine whether the number sequence given is an arithmetic sequence.",
+  "input": "2, 5, 8, 11, 14",
+  "output": "Yes, the given number sequence is an arithmetic sequence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3207ab63-9ed0-4315-ba55-ef578f5b4ce5",
+  "instruction": "Outline the main differences between two models.",
+  "input": "Apple iPhone 8 and Apple iPhone 11",
+  "output": "The Apple iPhone 8 and 11 have some significant differences. The phone 8 has a 4.7-inch LCD display with a single-lens camera with an f/2.4 aperture, while the iPhone 11 has a 6.1-inch LCD display with dual camera lenses with an f/1.8 main camera and an f/2.4 ultra-wide camera. The phone 8 has an A11 processor and the phone 11 has an A13 processor. The battery capacity for the iPhone 8 is 1,810 mAh and for the iPhone 11 it is 3,110 mAh. Lastly, the phone 8 has 3D Touch and the phone 11 has Haptic Touch.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

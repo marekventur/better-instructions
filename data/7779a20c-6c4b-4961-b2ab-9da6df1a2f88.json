@@ -1,0 +1,12 @@
+{
+  "id": "7779a20c-6c4b-4961-b2ab-9da6df1a2f88",
+  "instruction": "Construct an example sentence using the given adverb and verb.",
+  "input": "cautiously, drive",
+  "output": "He cautiously drove down the winding road.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

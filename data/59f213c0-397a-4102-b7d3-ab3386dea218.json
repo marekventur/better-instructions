@@ -1,0 +1,12 @@
+{
+  "id": "59f213c0-397a-4102-b7d3-ab3386dea218",
+  "instruction": "Compute the size of the object given the following measurements.",
+  "input": "Length: 4.5 inches\nWidth: 3.2 inches\nHeight: 2.6 inches",
+  "output": "37.92 cubic inches.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

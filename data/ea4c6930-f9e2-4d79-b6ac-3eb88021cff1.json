@@ -1,0 +1,12 @@
+{
+  "id": "ea4c6930-f9e2-4d79-b6ac-3eb88021cff1",
+  "instruction": "Design a system to classify movie reviews as positive or negative",
+  "input": "",
+  "output": "A system to classify movie reviews as positive or negative can be designed as follows:\n\n- Collect a corpus of movie reviews labeled with their sentiment \n- Train a classifier to classify reviews into one of two categories: positive or negative \n- Test the classifier on unseen reviews to assess its accuracy \n- Introduce scaling and regularization if needed to minimize the risk of overfitting \n- Deploy the classifier system and monitor its performance",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

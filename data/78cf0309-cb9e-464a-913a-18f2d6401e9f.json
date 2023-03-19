@@ -1,0 +1,12 @@
+{
+  "id": "78cf0309-cb9e-464a-913a-18f2d6401e9f",
+  "instruction": "Create an algorithm for solving a Tower of Hanoi problem.",
+  "input": "",
+  "output": "A Tower of Hanoi algorithm consists of three steps. \n1. Move the largest disk to the other peg. \n2. Move the remaining disks to the other peg in a legal order. \n3. Move the largest disk back to its starting peg. \n\nTo complete the algorithm, you must first define how to move a disk and how to identify when a move is legal. You can then use the three steps mentioned above to complete the algorithm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

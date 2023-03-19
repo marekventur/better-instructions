@@ -1,0 +1,12 @@
+{
+  "id": "967106bb-9a6b-44ba-9f23-5ee529d9daf7",
+  "instruction": "Categorize the given items as either liquid or solid.",
+  "input": "Apple juice, chalk",
+  "output": "Apple juice - Liquid \nChalk - Solid",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

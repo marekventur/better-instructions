@@ -1,0 +1,12 @@
+{
+  "id": "162f120b-61e3-471c-b728-7282098eda70",
+  "instruction": "Determine which of the three given objects is the heaviest and which is the lightest.",
+  "input": "A pencil case, a book, and a laptop",
+  "output": "The laptop is the heaviest, followed by the book and the pencil case is the lightest.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

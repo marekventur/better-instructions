@@ -1,0 +1,12 @@
+{
+  "id": "4e2040cc-b8b3-4ac1-9001-072f5eeeb186",
+  "instruction": "Design a system for storing and retrieving large amounts of data.",
+  "input": "",
+  "output": "An effective system for storing and retrieving large amounts of data should use a database management system that consists of a flexible data model, an efficient query language, and optimized storage methods. It should also have good security to protect the data from unauthorized access.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

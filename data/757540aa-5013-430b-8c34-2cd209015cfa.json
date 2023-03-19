@@ -1,0 +1,12 @@
+{
+  "id": "757540aa-5013-430b-8c34-2cd209015cfa",
+  "instruction": "Given the price of a product and the list of available discounts, calculate the final price after discounts.",
+  "input": "Price: $100\nDiscounts: 20% off, 10% of the remaining",
+  "output": "$72.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

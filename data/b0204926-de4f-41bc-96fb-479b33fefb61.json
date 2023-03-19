@@ -1,0 +1,12 @@
+{
+  "id": "b0204926-de4f-41bc-96fb-479b33fefb61",
+  "instruction": "Use the Oxford comma when rewriting this sentence.",
+  "input": "I packed apples oranges and bananas",
+  "output": "I packed apples, oranges, and bananas.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e0c51c03-beec-43f8-9856-fd8ed3ed18e0",
+  "instruction": "Generate a classic children's story featuring a princess using the given words.",
+  "input": "rescue, traveling, forest, dragon",
+  "output": "Once upon a time, there was a beautiful princess named Rose. Rose lived in a magical kingdom far away and was content with her life. \n\nOne day while traveling through the forest, Rose was captured by an evil dragon. The dragon had heard of Rose's beauty and wanted her to join its evil court. Rose was terrified but refused to give in to the dragon's demands.\n\nJust then, a brave prince arrived to rescue her. He fought bravely against the dragon and managed to free Rose from its clutches. The prince and Rose made their way back to the kingdom, and Rose was reunited with her family.\n\nThe king and queen thanked the prince for his heroic deed. As a reward, Rose was granted whatever she wished for. She asked for the prince's hand in marriage, and the two were wed shortly thereafter.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

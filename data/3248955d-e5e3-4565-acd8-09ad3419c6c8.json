@@ -1,0 +1,12 @@
+{
+  "id": "3248955d-e5e3-4565-acd8-09ad3419c6c8",
+  "instruction": "Identify the key differences between the two computer memory storages.",
+  "input": "RAM (Random Access Memory)\nROM (Read-only Memory)",
+  "output": "The key differences between RAM and ROM are the type of data they store, the speed of data access, and the type of operation performed on data. RAM is a type of fast memory that can read and write data. It stores data that can be quickly changed and updated, making it suitable for programs, applications, and data waiting to be processed. ROM is read-only memory, meaning it can only be read from and not written to. Unlike RAM, data stored in ROM is non-volatile, meaning it can still be accessed even if there is no power supply. ROM is mainly used to store the computer's BIOS, system settings and instruction programs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

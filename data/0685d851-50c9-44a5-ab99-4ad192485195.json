@@ -1,0 +1,12 @@
+{
+  "id": "0685d851-50c9-44a5-ab99-4ad192485195",
+  "instruction": "What is the mathematical expression for the following equation?",
+  "input": "2x + 3 = 7",
+  "output": "The mathematical expression for the equation is x = 2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

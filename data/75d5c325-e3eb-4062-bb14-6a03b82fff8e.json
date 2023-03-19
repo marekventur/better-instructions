@@ -1,0 +1,12 @@
+{
+  "id": "75d5c325-e3eb-4062-bb14-6a03b82fff8e",
+  "instruction": "Generate a JDBC query to retrieve a customer's phone number.",
+  "input": "customer_id = '74ADB'",
+  "output": "SELECT customer_phone_number FROM customer_data WHERE customer_id = '74ADB';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

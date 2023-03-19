@@ -1,0 +1,12 @@
+{
+  "id": "49489142-594d-418a-997a-fd9d460501e1",
+  "instruction": "Classify the following sentence has having a positive or negative sentiment.",
+  "input": "I am feeling so lost and overwhelmed.",
+  "output": "The sentence has a negative sentiment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

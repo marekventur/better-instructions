@@ -1,0 +1,12 @@
+{
+  "id": "e8b06b96-9ebf-40b7-b40e-5ac3050b13b0",
+  "instruction": "Identify the correct homophones for the statement.",
+  "input": "The mail is to late.",
+  "output": "The mail is too late.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

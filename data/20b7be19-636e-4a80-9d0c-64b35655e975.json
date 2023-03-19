@@ -1,0 +1,12 @@
+{
+  "id": "20b7be19-636e-4a80-9d0c-64b35655e975",
+  "instruction": "Classify this movie as comedy, horror, or action: \"The Shining\"",
+  "input": "",
+  "output": "The Shining is a horror movie.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

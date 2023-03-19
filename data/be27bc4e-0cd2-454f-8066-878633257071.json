@@ -1,0 +1,12 @@
+{
+  "id": "be27bc4e-0cd2-454f-8066-878633257071",
+  "instruction": "Analyze the sentence structure. Output the main clause, subordinate clause, and the verb phrase of the sentence.",
+  "input": "The bats flew away when the storm came.",
+  "output": "Main clause: The bats flew away\nSubordinate clause: when the storm came\nVerb phrase: flew away",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

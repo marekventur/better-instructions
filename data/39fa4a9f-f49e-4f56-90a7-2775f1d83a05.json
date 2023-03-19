@@ -1,0 +1,12 @@
+{
+  "id": "39fa4a9f-f49e-4f56-90a7-2775f1d83a05",
+  "instruction": "Replace the word 'maths' in the sentence with the correct spelling.",
+  "input": "She loves doing maths at home.",
+  "output": "She loves doing math at home.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "37e6c9d4-60ae-418f-81d2-2594cac9743f",
+  "instruction": "Identify whether the following statement is a categorical or ordinal statement.",
+  "input": "The movie was excellent.",
+  "output": "Categorical. The movie was excellent.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

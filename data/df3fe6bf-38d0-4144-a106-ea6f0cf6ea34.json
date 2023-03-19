@@ -1,0 +1,12 @@
+{
+  "id": "df3fe6bf-38d0-4144-a106-ea6f0cf6ea34",
+  "instruction": "Convert from celsius to fahrenheit.",
+  "input": "Temperature in Celsius: 15",
+  "output": "Temperature in Fahrenheit: 59",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

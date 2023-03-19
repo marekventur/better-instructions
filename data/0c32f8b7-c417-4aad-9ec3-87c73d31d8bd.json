@@ -1,0 +1,12 @@
+{
+  "id": "0c32f8b7-c417-4aad-9ec3-87c73d31d8bd",
+  "instruction": "Design an automated system to discover customer buying patterns.",
+  "input": "",
+  "output": "The system should be able to collect and analyze customer data, such as purchase history, product lists, user reviews, and demographic data. It should then use machine learning algorithms to identify customer buying patterns and trends, such as which products are commonly bought together and which customer segments are more likely to purchase certain product types. The system should also be able to provide recommendations to customers based on their past purchase data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

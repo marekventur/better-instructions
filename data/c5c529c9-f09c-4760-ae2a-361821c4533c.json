@@ -1,0 +1,12 @@
+{
+  "id": "c5c529c9-f09c-4760-ae2a-361821c4533c",
+  "instruction": "Create an algorithm for sorting values into even and odd.",
+  "input": "",
+  "output": "The algorithm would take an array of values and sort them into even and odd ones. Firstly, the algorithm would need to compare each item in the array to a base value, let's say zero. For each item, it would check if the value is greater than 0. If so, the item would be classified as an odd value, otherwise it would be classified as an even value. The sorted array would be returned as a result, with even values on the left and odd values on the right.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

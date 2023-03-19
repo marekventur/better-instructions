@@ -1,0 +1,12 @@
+{
+  "id": "0a54a5be-bcac-4433-9eed-4eb22d155bb7",
+  "instruction": "Given a sentence, remove any redundancies",
+  "input": "Despite the fact that many people are now conscious of the environmental destruction caused by plastic waste, many continue to throw away plastic packaging without recycling.",
+  "output": "Many people are aware of plastic waste's environmental destruction yet continue to discard plastic packaging without recycling.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

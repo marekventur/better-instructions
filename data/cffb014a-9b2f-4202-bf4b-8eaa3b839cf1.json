@@ -1,0 +1,12 @@
+{
+  "id": "cffb014a-9b2f-4202-bf4b-8eaa3b839cf1",
+  "instruction": "Find the person who lives in Las Vegas",
+  "input": "John Smith, San Francisco, Lisa Lee, Las Vegas, Chris Brown",
+  "output": "Lisa Lee",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

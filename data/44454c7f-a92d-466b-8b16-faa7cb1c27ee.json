@@ -1,0 +1,12 @@
+{
+  "id": "44454c7f-a92d-466b-8b16-faa7cb1c27ee",
+  "instruction": "Create a data structure for a restaurant menu.",
+  "input": "Menu items: Fried Rice, Fried Noodles, Beef Curry",
+  "output": "The data structure for the restaurant menu should include a list of menu items, and a corresponding array for each item which contains the dish name, a description of the dish, the price of the dish, and the ingredients used for the dish. \nFor example, for the fried rice dish, the array could be: [\"Fried Rice\", \"Fried rice with vegetables\", 8.99, [\"rice\", \"vegetables\"]].",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

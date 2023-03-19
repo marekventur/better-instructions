@@ -1,0 +1,12 @@
+{
+  "id": "132abee0-3012-4cb8-aab6-99238bd5ce40",
+  "instruction": "Design a software component for ordering pizza.",
+  "input": "",
+  "output": "The software component should allow the user to choose what type of pizza they would like to order by providing a list of options such as size, toppings, and crust. Users should be able to select multiple options at once and should also be able to enter custom orders with specific instructions on how to prepare the pizza. The component should then generate the order in the format that can be sent to the pizza store. Additionally, the component should incorporate payment processing, ensuring that customers will be able to quickly and easily complete the order process without any delays.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

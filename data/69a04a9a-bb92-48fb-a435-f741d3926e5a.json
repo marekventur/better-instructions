@@ -1,0 +1,12 @@
+{
+  "id": "69a04a9a-bb92-48fb-a435-f741d3926e5a",
+  "instruction": "Given a political statement, classify it as liberal or conservative",
+  "input": "Statement: We need to invest more in public education",
+  "output": "Liberal",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

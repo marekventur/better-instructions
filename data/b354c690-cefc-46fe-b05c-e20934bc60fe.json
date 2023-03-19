@@ -1,0 +1,12 @@
+{
+  "id": "b354c690-cefc-46fe-b05c-e20934bc60fe",
+  "instruction": "Evaluate the following argument and explain why it is valid or invalid.",
+  "input": "The government should increase taxes to fund social programs because people should contribute to the greater good.",
+  "output": "The argument is valid because taxation is an important mechanism through which people can contribute to the common good. Taxes are necessary in order to fund programs that provide essential services to the public, such as healthcare, education, and social safety nets. Furthermore, increasing taxes may encourage people to contribute more to society, creating a more equitable society.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

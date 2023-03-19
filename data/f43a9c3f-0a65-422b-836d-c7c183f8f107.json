@@ -1,0 +1,12 @@
+{
+  "id": "f43a9c3f-0a65-422b-836d-c7c183f8f107",
+  "instruction": "Given a list of four CEOs, choose the one who had the most successful tenure",
+  "input": "Mark Zuckerberg, Bill Gates, Elon Musk, Jeff Bezos",
+  "output": "Jeff Bezos had the most successful tenure as a CEO, as he has increased Amazon's market value from $2.5 billion in 1997 to $1.6 trillion in 20",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

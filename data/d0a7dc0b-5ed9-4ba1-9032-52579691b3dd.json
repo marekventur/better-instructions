@@ -1,0 +1,12 @@
+{
+  "id": "d0a7dc0b-5ed9-4ba1-9032-52579691b3dd",
+  "instruction": "Calculate the final price for this item after applying a 25% discount.",
+  "input": "Original Price: $100",
+  "output": "Final Price: $75",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

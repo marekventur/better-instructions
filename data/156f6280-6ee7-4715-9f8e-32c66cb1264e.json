@@ -1,0 +1,12 @@
+{
+  "id": "156f6280-6ee7-4715-9f8e-32c66cb1264e",
+  "instruction": "Formulate the truth table given the boolean expression (A AND NOT B) OR (NOT A AND B)",
+  "input": "",
+  "output": "A    B    Result\n0    0    0\n0    1    1\n1    0    1\n1    1    0",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

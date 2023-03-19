@@ -1,0 +1,12 @@
+{
+  "id": "2cc8f763-d76c-4392-a165-4beb2fd7361c",
+  "instruction": "Suggest a recipe that uses only ten ingredients.",
+  "input": "",
+  "output": "Vegetable Fried Rice:\nIngredients:\n- 2 Cups cooked rice\n- 1/2 Cup frozen carrots\n- 1/2 Cup frozen peas\n- 1/4 Cup diced red bell pepper\n- 1/4 Cup diced onion\n- 1/4 Cup diced celery\n- 2 Tablespoons vegetable oil\n- 2 Tablespoons soy sauce\n- 2 teaspoons sesame oil\n- 2 teaspoons garlic powder\nInstructions:\n1. Heat the vegetable oil in a large skillet over medium-high heat. \n2. Add the diced onion, celery, carrots, and bell pepper and cook for about 3 minutes, stirring occasionally. \n3. Add the cooked rice, soy sauce, sesame oil, and garlic powder. Stir to combine. \n4. Add the frozen peas and cook for an additional 5 minutes, stirring occasionally, until heated through. \n5. Serve hot.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

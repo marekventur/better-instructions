@@ -1,0 +1,12 @@
+{
+  "id": "4a5f1976-8d9e-433b-a4d1-91674bfc3fb3",
+  "instruction": "Classify this tweet as Support, Neutral, or Oppose",
+  "input": "Immigrants are an integral part of our country--we must stand together to ensure they are treated with respect and dignity.",
+  "output": "Support",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

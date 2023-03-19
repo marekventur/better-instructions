@@ -1,0 +1,12 @@
+{
+  "id": "84fe1c16-6cc1-4092-8507-193a01a59d17",
+  "instruction": "Describe an example of a distributed database system.",
+  "input": "",
+  "output": "A distributed database system is a database system that stores data across multiple computers or across multiple locations. An example of a distributed database system is a data warehouse that stores data from multiple locations within an organization in a single shared database. The data is stored in different processing nodes and accessed through a shared network. Additionally, the data can also be replicated to increase reliability and redundancy. This distributed system offers scalability, availability, and higher performance than a centralized database system.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

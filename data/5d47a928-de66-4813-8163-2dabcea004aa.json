@@ -1,0 +1,12 @@
+{
+  "id": "5d47a928-de66-4813-8163-2dabcea004aa",
+  "instruction": "Design a function to count the number of unique characters in a string.",
+  "input": "string = \u201cButterflies\u201d",
+  "output": "def count_unique_chars(string):\n  char_dict = {}\n  for char in string:\n    if char in char_dict:\n      char_dict[char] += 1\n    else:\n      char_dict[char] = 1\n  return len(char_dict)\n\nprint(count_unique_chars(\"Butterflies\"))\n# Output: 9",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

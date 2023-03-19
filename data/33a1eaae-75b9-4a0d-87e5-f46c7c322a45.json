@@ -1,0 +1,12 @@
+{
+  "id": "33a1eaae-75b9-4a0d-87e5-f46c7c322a45",
+  "instruction": "What is the fourth line of the lyrics?",
+  "input": "Emotions come and go and fade away\nAnd like the sun, they have their perfect day\nSo give it your all and let it be",
+  "output": "The fourth line of the lyrics is \"And love will be the only truth\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

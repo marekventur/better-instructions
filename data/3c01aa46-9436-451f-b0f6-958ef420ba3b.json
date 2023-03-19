@@ -1,0 +1,12 @@
+{
+  "id": "3c01aa46-9436-451f-b0f6-958ef420ba3b",
+  "instruction": "Create an original program to solve this problem",
+  "input": "A traveler is trying to get from point A to point B with three layovers.",
+  "output": "The program should first calculate the shortest route with the least amount of layovers to reach point B from point A. The traveler should then be able to make the necessary bookings or reservations along the route, while being able to adjust their travel plans in the event of any unexpected delays. The program should also provide updated information about flight schedules, airline routes and other useful information which can help the traveler plan ahead and make their journey as smooth as possible.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

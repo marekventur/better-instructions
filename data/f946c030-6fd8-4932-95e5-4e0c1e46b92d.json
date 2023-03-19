@@ -1,0 +1,12 @@
+{
+  "id": "f946c030-6fd8-4932-95e5-4e0c1e46b92d",
+  "instruction": "Sort a list from largest to smallest.",
+  "input": "{3,7,1,5,2}",
+  "output": "{7,5,3,2,1}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

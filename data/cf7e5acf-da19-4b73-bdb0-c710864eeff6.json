@@ -1,0 +1,12 @@
+{
+  "id": "cf7e5acf-da19-4b73-bdb0-c710864eeff6",
+  "instruction": "Describe how to create a pie chart.",
+  "input": "",
+  "output": "To create a pie chart, first gather the data that you would like to represent. Then arrange that data into categories or fractions of a whole. Next, assign each fraction an angle size and draw a circle. Divide up the circle into sections, or wedges, each corresponding to the fractions of the data. Lastly, add labels and colors to the chart to make it easier to interpret.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

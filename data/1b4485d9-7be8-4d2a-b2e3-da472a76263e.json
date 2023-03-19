@@ -1,0 +1,12 @@
+{
+  "id": "1b4485d9-7be8-4d2a-b2e3-da472a76263e",
+  "instruction": "Categorize all the words from the sentence into either nouns, verbs, adjectives or adverbs.",
+  "input": "The peaceful river gently rippled in the summer breeze.",
+  "output": "Nouns: river, summer, breeze; Verbs: rippled, gently; Adjectives: peaceful; Adverbs: gently.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

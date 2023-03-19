@@ -1,0 +1,12 @@
+{
+  "id": "5b9bf05d-07cb-4344-a5e4-e4ebbf09892a",
+  "instruction": "For the following list of numbers, add the letters \u2018ABS\u2019 to each and reverse their order.",
+  "input": "34, 87, 13",
+  "output": "SB(A)34, SB(A)87, SB(A)13",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

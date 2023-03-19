@@ -1,0 +1,12 @@
+{
+  "id": "9eddb801-ba3b-4b95-8616-81c4a4c266fe",
+  "instruction": "Determine how many roads connect the town and the city.",
+  "input": "The town is located 10 miles south of the city.",
+  "output": "There are likely several roads connecting the town and the city. It is impossible to determine how many without more information.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

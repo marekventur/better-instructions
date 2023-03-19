@@ -1,0 +1,12 @@
+{
+  "id": "2eb737c9-e21f-492b-821d-7ca0e0a888cd",
+  "instruction": "Identify what type of shape is being drawn.",
+  "input": "![shape](https://www.mathsisfun.com/geometry/images/quadrilateral-definition.svg)",
+  "output": "A quadrilateral.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

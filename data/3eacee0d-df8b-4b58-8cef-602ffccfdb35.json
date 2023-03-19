@@ -1,0 +1,12 @@
+{
+  "id": "3eacee0d-df8b-4b58-8cef-602ffccfdb35",
+  "instruction": "Create a factorial for the given number.\nOutput a number",
+  "input": "5",
+  "output": "120",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bd8a9d86-f7e8-4313-97fb-75c00c70635e",
+  "instruction": "Rewrite the sentence using the given visual description.",
+  "input": "The sky was blue",
+  "output": "The sky was a rich, dazzling sapphire blue.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

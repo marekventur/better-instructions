@@ -1,0 +1,12 @@
+{
+  "id": "cdad1aaa-cc3a-4b82-9751-870664c38ca5",
+  "instruction": "Given the matrix as A = [2 -3; 5 6], find the determinant",
+  "input": "",
+  "output": "The determinant of matrix A is 24.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

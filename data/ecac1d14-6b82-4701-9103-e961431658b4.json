@@ -1,0 +1,12 @@
+{
+  "id": "ecac1d14-6b82-4701-9103-e961431658b4",
+  "instruction": "Generate a list of five resources a student might use to research a paper on renewable energy sources.",
+  "input": "",
+  "output": "1. National Renewable Energy Laboratory: The NREL is a leader in the development of renewable energy technologies and the study of their economic and environmental effects. \n2. Union Of Concerned Scientists: This website features reports and news about energy policies, technology, and emerging renewable energy sources.\n3. Alternative Energy Sources: This website is an encyclopedia of alternative energy sources, featuring a range of topics related to renewable energy. \n4. Scientific American: This magazine and website provides reports and news on renewable energy, innovation, and policies. \n5. The International Renewable Energy Agency: The IRENA website provides an international database of resources, news and events, data and statistics on the growth of renewable energy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

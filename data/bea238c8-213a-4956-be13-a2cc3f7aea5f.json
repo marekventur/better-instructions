@@ -1,0 +1,12 @@
+{
+  "id": "bea238c8-213a-4956-be13-a2cc3f7aea5f",
+  "instruction": "Given a design, create a tagline for it.",
+  "input": "Design:\n\n![alt text][logo]\n\n[logo]: https://i.imgur.com/HkoAukv.jpg",
+  "output": "Discover the beauty of life with simplicity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

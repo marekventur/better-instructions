@@ -1,0 +1,12 @@
+{
+  "id": "a9df4f4a-eb7b-4e37-a60d-208235df7777",
+  "instruction": "Rotate the matrix by 90 degrees clockwise and output the result.",
+  "input": "[[2, 3],\n [4, 5]]",
+  "output": "[[4, 2],\n [5, 3]]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

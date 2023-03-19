@@ -1,0 +1,12 @@
+{
+  "id": "5886baf9-22ee-4186-85a3-0236bad62b01",
+  "instruction": "Read this sentence and correct the grammar error.",
+  "input": "He was running so quick that I almost lost sight of him.",
+  "output": "He was running so quickly that I almost lost sight of him.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

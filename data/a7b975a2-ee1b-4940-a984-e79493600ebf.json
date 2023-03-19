@@ -1,0 +1,12 @@
+{
+  "id": "a7b975a2-ee1b-4940-a984-e79493600ebf",
+  "instruction": "Given a sentence, identify the nouns present in that sentence.",
+  "input": "This world is full of surprises.",
+  "output": "The nouns present in the sentence \"This world is full of surprises\" are: world and surprises.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

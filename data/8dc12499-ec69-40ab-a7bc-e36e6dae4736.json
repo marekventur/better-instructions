@@ -1,0 +1,12 @@
+{
+  "id": "8dc12499-ec69-40ab-a7bc-e36e6dae4736",
+  "instruction": "Based on the description, write a recipe for a dish.",
+  "input": "This dish is a savoury apple crumble with a hint of cinnamon and oatmeal.",
+  "output": "INGREDIENTS \n\n- 4 large apples, peeled, cored and sliced\n- 2 tablespoons lemon juice\n- 1/2 cup white sugar\n- 1/2 cup light brown sugar\n- 1 teaspoon ground cinnamon\n- 1/2 cup all-purpose flour\n- 2/3 cup old-fashioned oats\n- 1/2 cup cold butter, cubed\n- 3 tablespoons cold water\n\nDIRECTIONS\n\n1. Preheat oven to 375\u00b0F (190\u00b0F). \n2. Place the sliced apples in an 8-inch square baking dish. Sprinkle with lemon juice and set aside. \n3. In a medium bowl, mix together the white sugar, brown sugar, cinnamon, flour and oats. Cut the butter into the mixture with a pastry blender or two knives until the mixture resembles coarse crumbs. \n4. Sprinkle the crumble mixture evenly over the apples. Sprinkle the water over the crumble. \n5. Bake for 40 minutes, or until the crumble is golden brown and the apples are tender. Let cool before serving. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

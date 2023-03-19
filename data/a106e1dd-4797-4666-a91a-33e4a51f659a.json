@@ -1,0 +1,12 @@
+{
+  "id": "a106e1dd-4797-4666-a91a-33e4a51f659a",
+  "instruction": "Sort the list of words alphabetically and separate them by commas.",
+  "input": "bed, apple, tree, cat",
+  "output": "apple, bed, cat, tree.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d33b3fcc-d63e-4266-bac6-74b7f1611d83",
+  "instruction": "Put together an outfit that suits the given occasion.",
+  "input": "Occasion: Job interview",
+  "output": "An outfit suitable for a job interview would consist of a blouse paired with dress slacks, a knee-length skirt or dress, as well as a dressy blazer. A fashionable pair of shoes, like loafers, pumps, or flats would complete the look. Accessories should be minimal but can include a small necklace, a watch, and/or tasteful earrings.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

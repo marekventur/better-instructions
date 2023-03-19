@@ -1,0 +1,12 @@
+{
+  "id": "1691606c-18e6-4e69-b983-b610ecec632d",
+  "instruction": "Categorize the following job as either 'repetitive' or 'non-repetitive'.",
+  "input": "bartender",
+  "output": "Non-repetitive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

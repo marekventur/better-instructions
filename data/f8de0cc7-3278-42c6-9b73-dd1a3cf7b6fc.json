@@ -1,0 +1,12 @@
+{
+  "id": "f8de0cc7-3278-42c6-9b73-dd1a3cf7b6fc",
+  "instruction": "Group the three words into related themes",
+  "input": "Lightning, bow, thunder",
+  "output": "Weather Phenomena: Lightning, Thunder\nWeapon: Bow",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

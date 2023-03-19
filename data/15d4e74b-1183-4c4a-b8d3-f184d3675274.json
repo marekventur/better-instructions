@@ -1,0 +1,12 @@
+{
+  "id": "15d4e74b-1183-4c4a-b8d3-f184d3675274",
+  "instruction": "Write a step-by-step guide on how to backup and restore a database.",
+  "input": "",
+  "output": "Step 1: Create a database backup file. This can be done with a structured query language utility, such as the mysqldump command.\n\nStep 2: Store the backup file in a secure and accessible location, such as a cloud storage service or server.\n\nStep 3: Create a database restoration script. This should include the necessary commands to restore the database from the backup file.\n\nStep 4: Define the parameters of the database restoration, such as the database name, host, and login credentials.\n\nStep 5: Execute the database restoration script.\n\nStep 6: Check the database to verify that the restoration was successful.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

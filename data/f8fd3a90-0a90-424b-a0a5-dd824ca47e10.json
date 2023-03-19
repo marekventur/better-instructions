@@ -1,0 +1,12 @@
+{
+  "id": "f8fd3a90-0a90-424b-a0a5-dd824ca47e10",
+  "instruction": "Edit the following sentence to make it more clear:\nJeff was running through the park when he saw a rabbit.",
+  "input": "Jeff was running through the park when he saw a rabbit.",
+  "output": "As Jeff ran through the park, he noticed a white rabbit scurrying ahead of him.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

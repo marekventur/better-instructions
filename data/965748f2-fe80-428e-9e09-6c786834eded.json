@@ -1,0 +1,12 @@
+{
+  "id": "965748f2-fe80-428e-9e09-6c786834eded",
+  "instruction": "Generate an example story given the following premise",
+  "input": "A man decides to write a book about his experiences during the pandemic.",
+  "output": "Jim was just getting settled into life during the pandemic. Suddenly, his already complicated world was filled with more uncertainty and seemingly impossible tasks. As he found himself managing his work, keeping his family safe and healthy, and worrying about the future, he decided to try to find some solace in writing a book. He wanted to document his experiences in order to make sense of it all, and to provide a detailed narrative of what it had been like to live through a pandemic. As he started writing, he realized the magnitude of impact that staying home, working from home, and having limited in-person interactions had on his mental and emotional health. He wrote about the times he felt helpless and frustrated, as well as the moments of joy that emerged from his new, pandemic-induced reality. As he slowly completed the book, he felt proud of himself for being able to piece together a story that was far from normal, but was still his own.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

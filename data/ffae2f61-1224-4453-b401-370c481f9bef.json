@@ -1,0 +1,12 @@
+{
+  "id": "ffae2f61-1224-4453-b401-370c481f9bef",
+  "instruction": "Given the given coordinates (x1, y1, x2, y2), calculate the distance between the two points.",
+  "input": "Coordinates: (2, 4, 6, 8)",
+  "output": "The distance between the two points is 5.66.\n\nThe formula to calculate the distance between two points is as follows:\ndistance = sqrt((x2 - x1)2 + (y2 - y1)2)\n\nThus, the distance between (2,4) and (6,8) is sqrt((6-2)2 + (8-4)2) = sqrt(16 + 16) = sqrt(32) = 5.66.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

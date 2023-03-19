@@ -1,0 +1,12 @@
+{
+  "id": "b54f63dd-60c8-4823-a4fb-8d8eaa76e820",
+  "instruction": "Given the following array, how many elements are greater than 2.",
+  "input": "[1, 2, 4, 5]",
+  "output": "There are 3 elements greater than 2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

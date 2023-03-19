@@ -1,0 +1,12 @@
+{
+  "id": "b2c47b9b-3bbb-400b-bfe5-b21fad9f88b5",
+  "instruction": "Summarize a given newspaper article",
+  "input": "\"Can Wearable Technology Help Combat Loneliness?\"",
+  "output": "In a recent newspaper article, the issue of loneliness and how wearable technology could play a role in its alleviation was discussed. Wearable technology devices are small gadgets connected to our bodies, which can be used to measure several physiological parameters and thus track our physical and mental health. It was suggested that wearable technology could be used to prevent loneliness by monitoring our physical movements and tracking our levels of isolation. Furthermore, the article stated that wearable technology could be used to inform us of our current feelings of loneliness, and provide us with tips on how to connect with others. Finally, the article argued that such technology could even be used to raise awareness about the risks of feeling lonely and its implications on overall health.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

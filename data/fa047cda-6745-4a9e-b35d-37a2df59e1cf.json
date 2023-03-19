@@ -1,0 +1,12 @@
+{
+  "id": "fa047cda-6745-4a9e-b35d-37a2df59e1cf",
+  "instruction": "Given a text, find the most important keyword and explain why.",
+  "input": "John was given an assignment to read a book about ancient civilizations.",
+  "output": "The most important keyword in this sentence is \"ancient civilizations,\" as it points to the topic of the assignment: reading a book about ancient civilizations.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

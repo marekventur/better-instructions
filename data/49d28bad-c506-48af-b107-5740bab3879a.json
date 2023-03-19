@@ -1,0 +1,12 @@
+{
+  "id": "49d28bad-c506-48af-b107-5740bab3879a",
+  "instruction": "Explain the concept of \"local maximum\".",
+  "input": "",
+  "output": "A local maximum is a point in an optimization problem at which the value of the objective function is higher than the values at any of its neighboring points. It is also known as a 'relative maximum'. In other words, it is the highest value in the immediate area. A global maximum is the highest value for the entire problem domain.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

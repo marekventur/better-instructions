@@ -1,0 +1,12 @@
+{
+  "id": "f60a07ab-74d5-4f88-9251-195a3b695b60",
+  "instruction": "Take the given text and make it shorter without losing its meaning",
+  "input": "Climate change is an urgent and escalating global crisis that is affecting people, economies, and ecosystems across the world.",
+  "output": "Climate change is an urgent global crisis affecting people, economies, and ecosystems.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

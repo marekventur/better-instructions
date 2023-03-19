@@ -1,0 +1,12 @@
+{
+  "id": "343a051f-381e-456e-baa6-cfb8032b4072",
+  "instruction": "Find a correlation between two provided datasets.",
+  "input": "Dataset A: Age and Gender \nDataset B: Region and Income",
+  "output": "There may be a correlation between age and region with regards to income; Regions that tend to have higher incomes have a higher population of individuals in the working-age group (18\u201364) when compared to lower income regions which tend to have a higher proportion of elderly citizens. Similarly, more affluent regions tend to have a higher proportion of women in the workforce compared to lower income regions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

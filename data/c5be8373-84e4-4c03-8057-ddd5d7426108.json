@@ -1,0 +1,12 @@
+{
+  "id": "c5be8373-84e4-4c03-8057-ddd5d7426108",
+  "instruction": "Write a story given the characters and context below.",
+  "input": "Characters: \n- Lewis: A high school student\n- Ms. Wilson: Lewis's English teacher\n- Mark: Lewis's older brother\n\nContext:\nLewis is in his high school English class. His teacher, Ms. Wilson, is teaching a lesson about the power of words. The mood in the classroom is light, and everyone is enjoying the lesson. After class, Lewis is walking home with his older brother, Mark, when they stumble upon a secret book store.",
+  "output": "Lewis had been dreading English class but today it was different. Ms. Wilson had decided to focus the lesson on the power of words and everyone was excited. She asked the class to reflect on how a single word could change the world and everyone was engaged in the discussion. \n\nAfter class, Lewis was walking home with his older brother, Mark, when they stumbled upon a secret bookstore. They were amazed to find racks filled with books of all kinds and topics. Lewis began to read some of the titles out loud and Mark watched as his brother's eyes lit up. Mark remembered reading about books like these when he was Lewis's age, but never thought it would be possible to find such a place in their small town. \n\nThe brothers started browsing through the shelves and soon Lewis had gathered an armful of books. Mark smiled as he watched his brother, seeing the same look of wonder on his face that he had seen years ago. Lewis thanked his brother for showing him the bookstore and Mark felt proud to see Lewis so excited about reading.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

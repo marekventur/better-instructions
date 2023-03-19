@@ -1,0 +1,12 @@
+{
+  "id": "1649325b-cdbd-4e64-bdbe-c4b97e5f93ed",
+  "instruction": "How would you correct the following sentence to make it grammatically correct?",
+  "input": "I bought books today that I'd like to read",
+  "output": "I bought books today that I would like to read.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

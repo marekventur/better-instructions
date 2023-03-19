@@ -1,0 +1,12 @@
+{
+  "id": "4cce33ed-e7f1-49db-bc63-e1dd92e06227",
+  "instruction": "Rewrite the sentence below so that the meaning is the same but it does not contain any cliches.",
+  "input": "He worked his way up from nothing.",
+  "output": "He started from a humble background and worked hard to achieve success.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

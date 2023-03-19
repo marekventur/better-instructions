@@ -1,0 +1,12 @@
+{
+  "id": "fb4df388-29ff-4bbd-aeb1-3a7fcbeee1df",
+  "instruction": "Explain how linear regression works.",
+  "input": "",
+  "output": "Linear regression is an approach to modeling the relationship between a dependent variable and one or more independent variables. The goal is to find the best fitting line equation which models the relationship between the independent variable and dependent variable. To do this, a line equation of the form $y = mx + b$ is used, where $m$ and $b$ are factors that fit the best for the dataset. The $m$ is the slope of the line, which measures how much the dependent variable changes for each unit increase in the independent variable, and $b$ is the intercept of the line, which is the point at which the line crosses the y-axis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

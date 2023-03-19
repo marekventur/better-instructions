@@ -1,0 +1,12 @@
+{
+  "id": "da702d6a-44ef-4b8c-bdd5-6e807e5f0603",
+  "instruction": "Compare the strengths and weaknesses of React and Angular",
+  "input": "",
+  "output": "React and Angular are both popular open-source web frameworks used to create user interfaces. React is mainly focused on the view layer, so it is simpler and easier to learn. It also has a powerful Virtual DOM, allowing it to render complex web applications quickly. However, it does not have an inbuilt command-line tool, so developers have to use third-party tools for tasks like compiling, routing, and state management. \n\nAngular is more powerful than React, as it provides an end-to-end platform for developing single-page applications. It is also more \u201copinionated\u201d, so there is less risk of introducing errors. On the other hand, it has a steeper learning curve and is more complex compared to React. It also has less flexibility and scalability compared to React.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

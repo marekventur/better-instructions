@@ -1,0 +1,12 @@
+{
+  "id": "9dd327f7-3691-412c-a731-0dbf69bddcfc",
+  "instruction": "Explain the difference between infrared and ultraviolet radiation.",
+  "input": "",
+  "output": "Infrared radiation is a form of electromagnetic radiation (EMR) which has wavelengths between 700 nm and 1 mm, which falls beyond visible light on the electromagnetic spectrum. This type of radiation has the ability to heat objects; because of this, it is the type of radiation used by heat lamps and thermal imaging devices.\n\nUltraviolet radiation is a form of electromagnetic radiation that has wavelengths just below visible light on the electromagnetic spectrum. Commonly known as UV radiation, this radiation is responsible for sunburn and can produce higher temperatures than infrared radiation. It is normally present in sunlight, and can be safely experienced by humans for extended periods. However, overexposure can be damaging and even deadly, and it is often filtered out by glass.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

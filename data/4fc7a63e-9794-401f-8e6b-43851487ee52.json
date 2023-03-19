@@ -1,0 +1,12 @@
+{
+  "id": "4fc7a63e-9794-401f-8e6b-43851487ee52",
+  "instruction": "Develop a survey to collect data on a particular topic.",
+  "input": "Topic: Reading habits among teenagers",
+  "output": "1. Are you a teenager between the ages of 13 and 19?\n2. On average, how many hours do you read per week?\n3. How do you prefer to read books? (Check all that apply) \n- Hard copy books\n- E-books\n- Audio books\n4. Do you have any regular reading habits (e.g., reading before bed)? \n5. Are there any genres you prefer over others (e.g., romance, fantasy, non-fiction)? \n6. What do you find most enjoyable about reading?\n7. Does reading help you relax?\n8. Do you ever discuss books with your friends? \n9. Do you read more during certain times of the year than others (e.g., summer months)? \n10. Have you ever had to read a book for school that you didn't enjoy?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

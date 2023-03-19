@@ -1,0 +1,12 @@
+{
+  "id": "bedfd5c3-7de7-4df8-9f80-9a1d161a2714",
+  "instruction": "Give a critique of this poem.",
+  "input": "I am a poet\nof life and of light\nIn my words I must strive\nto make a lasting impression.",
+  "output": "This poem has beautiful imagery and a structure that works well. The language is poetic but not too flowery. It could benefit from more depth though; more exploration of the themes of life and light. It also could be made more vivid by including more specific descriptions and concrete details. This would help the reader connect with and be moved by the poem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

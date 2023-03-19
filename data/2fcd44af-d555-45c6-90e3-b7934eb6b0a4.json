@@ -1,0 +1,12 @@
+{
+  "id": "2fcd44af-d555-45c6-90e3-b7934eb6b0a4",
+  "instruction": "Create an array of size 10 filled with random numbers between 0-100.",
+  "input": "",
+  "output": "[95, 74, 15, 84, 6, 32, 80, 14, 28, 60]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

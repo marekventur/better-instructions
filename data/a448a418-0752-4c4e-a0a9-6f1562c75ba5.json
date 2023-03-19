@@ -1,0 +1,12 @@
+{
+  "id": "a448a418-0752-4c4e-a0a9-6f1562c75ba5",
+  "instruction": "Given a piece of raw text, identify and categorize each phrase as a proper noun, noun phrase, verb phrase, or other.",
+  "input": "Samsung is an electronics giant.",
+  "output": "proper noun: Samsung\nnoun phrase: electronics giant\nverb phrase: is\nother: none",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

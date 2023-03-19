@@ -1,0 +1,12 @@
+{
+  "id": "5c8606d9-1b84-48f3-a7bc-549d95bc16a0",
+  "instruction": "Generate a recipe to make a simple omelet.",
+  "input": "No input",
+  "output": "Ingredients: \n- 2 large eggs \n- 2 tablespoons of milk\n- Salt and pepper, to taste\n- 1 tablespoon butter\n- 1/4 cup chopped onion\n- 1/4 cup chopped bell pepper\n- 1/4 cup shredded cheese\n\nInstructions: \n1. Beat together eggs, milk, salt, and pepper in a medium bowl until fully combined.\n2. Heat butter in a large non-stick skillet over medium heat.\n3. Add onion and bell pepper to the skillet and cook until tender, about 4-5 minutes. \n4. Pour the egg mixture into the skillet and cook, stirring occasionally, until eggs are scrambled and cooked through, about 6-7 minutes.\n5. Add the shredded cheese and cook for an additional minute until cheese is melted.\n6. Serve hot. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

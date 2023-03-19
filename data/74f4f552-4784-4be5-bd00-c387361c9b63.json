@@ -1,0 +1,12 @@
+{
+  "id": "74f4f552-4784-4be5-bd00-c387361c9b63",
+  "instruction": "Perform sentiment analysis of this movie review",
+  "input": "This movie was very difficult to watch.",
+  "output": "Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

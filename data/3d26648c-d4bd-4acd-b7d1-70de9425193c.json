@@ -1,0 +1,12 @@
+{
+  "id": "3d26648c-d4bd-4acd-b7d1-70de9425193c",
+  "instruction": "Summarize the passage about machine learning in one sentence.",
+  "input": "Machine learning is a subfield of artificial intelligence that enables computers to learn from experience. It involves the development of computer programs that can analyze large sets of data, find trends and patterns, and make decisions based on the data.",
+  "output": "Machine learning is a field of AI that enables computers to learn from data and make decisions based on patterns and trends.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

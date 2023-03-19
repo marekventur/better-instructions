@@ -1,0 +1,12 @@
+{
+  "id": "a0f176ef-41b1-4072-a8d1-fcca38da1514",
+  "instruction": "Compute the total cost of these items.",
+  "input": "Car - $3000, Clothes -  $100, Book - $20",
+  "output": "The total cost of the items is $31",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

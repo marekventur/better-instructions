@@ -1,0 +1,12 @@
+{
+  "id": "186e2e91-a275-447c-af93-9d4953a04e0b",
+  "instruction": "Find the most common color in the list",
+  "input": "Red, orange, yellow, green, blue, purple",
+  "output": "The most common color in the list is yellow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

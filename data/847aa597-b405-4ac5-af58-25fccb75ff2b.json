@@ -1,0 +1,12 @@
+{
+  "id": "847aa597-b405-4ac5-af58-25fccb75ff2b",
+  "instruction": "Improve this sentence by adding two modifiers.",
+  "input": "The man was lagging.",
+  "output": "The exhausted man was slowly lagging behind.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

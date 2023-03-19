@@ -1,0 +1,12 @@
+{
+  "id": "d305dfdb-b3f6-423c-a2b1-e0c7974ff52d",
+  "instruction": "Compose an email apologizing to a customer for delivering their order late.",
+  "input": "",
+  "output": "Dear Customer,\n\nWe apologize for the inconvenience caused by the delay in delivering your order. We understand that you have been expecting your delivery and we regret that it could not be fulfilled on time. We take full responsibility for the delay and are working hard to ensure that it does not happen again.\n\nWe hope you accept our sincere apologies. \n\nSincerely, \nXYZ Company",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

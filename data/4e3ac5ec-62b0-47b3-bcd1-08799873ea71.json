@@ -1,0 +1,12 @@
+{
+  "id": "4e3ac5ec-62b0-47b3-bcd1-08799873ea71",
+  "instruction": "Classify the following animals into their respective categories.",
+  "input": "dog, rabbit, parrot",
+  "output": "dog \u2013 mammal \nrabbit \u2013 mammal \nparrot \u2013 bird",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

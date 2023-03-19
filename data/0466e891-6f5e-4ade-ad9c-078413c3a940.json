@@ -1,0 +1,12 @@
+{
+  "id": "0466e891-6f5e-4ade-ad9c-078413c3a940",
+  "instruction": "Assume you are baking a cake with the following ingredients. Calculate the baking time.",
+  "input": "1 cup of flour, 1 teaspoon of baking powder, 1/2 cup of sugar, 2 eggs, 1/4 cup of butter",
+  "output": "Baking time is 30 minutes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

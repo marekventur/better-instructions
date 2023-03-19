@@ -1,0 +1,12 @@
+{
+  "id": "2dc354d7-4e40-4722-951b-32c6d5280438",
+  "instruction": "Identify the antecedent of the pronoun in bold.",
+  "input": "Paul and Liz went for a walk. They enjoyed the view.",
+  "output": "Paul and Liz - Antecedent of \"they\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

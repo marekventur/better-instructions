@@ -1,0 +1,12 @@
+{
+  "id": "7d4371de-05b4-496d-8b38-74faab57cac1",
+  "instruction": "Generate a response to a customer service query.",
+  "input": "My phone's battery is draining very fast, even after I've charged it.",
+  "output": "We apologize for the inconvenience. We recommend running a battery life app, or resetting the device to see if that helps. If that doesn't work, you can try our support page for additional tips and troubleshooting.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f75ec168-a3a4-4a7a-8138-d5098bbb36ad",
+  "instruction": "Analyze the given facts about the company",
+  "input": "\"Corey Ltd\" is a technology company specializing in web applications. In the past year, it received more than 500 customer complaints.",
+  "output": "From the given facts, we can conclude that Corey Ltd's customer service is not meeting its customers' expectations, as evidenced by the high number of complaints in the past year. The company should investigate the sources of dissatisfaction and create an action plan for improving its customer service.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

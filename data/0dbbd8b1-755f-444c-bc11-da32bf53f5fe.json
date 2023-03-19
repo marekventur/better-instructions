@@ -1,0 +1,12 @@
+{
+  "id": "0dbbd8b1-755f-444c-bc11-da32bf53f5fe",
+  "instruction": "Rank the following colors from most bright to most dull",
+  "input": "{blue, green, yellow, orange}",
+  "output": "Yellow, Orange, Green, Blue",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

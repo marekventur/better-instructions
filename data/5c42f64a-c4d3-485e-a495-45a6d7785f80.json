@@ -1,0 +1,12 @@
+{
+  "id": "5c42f64a-c4d3-485e-a495-45a6d7785f80",
+  "instruction": "Write an algorithm to find the minimum element in an array.",
+  "input": "",
+  "output": "Step 1: Declare an array A.\nStep 2: Initialize min to A[0].\nStep 3: Loop through the array A starting from index 1.\nStep 4: Compare the element A[i] with min.\nStep 5: If A[i] is less than min, set min equal to A[i].\nStep 6: Return min.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

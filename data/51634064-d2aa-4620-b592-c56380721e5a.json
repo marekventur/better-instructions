@@ -1,0 +1,12 @@
+{
+  "id": "51634064-d2aa-4620-b592-c56380721e5a",
+  "instruction": "Given two coordinates (X1, Y1) and (X2, Y2), find the Euclidean distance between them.",
+  "input": "1, 2  8, 7",
+  "output": "The Euclidean distance between the two coordinates (1, 2) and (8, 7) is 7.615773105863909.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

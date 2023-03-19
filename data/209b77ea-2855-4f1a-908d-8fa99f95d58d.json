@@ -1,0 +1,12 @@
+{
+  "id": "209b77ea-2855-4f1a-908d-8fa99f95d58d",
+  "instruction": "Given the given information and the below passage, write down a headline that captures the essence of the passage.",
+  "input": "Robotics engineers have unveiled a new robotic fish prototype capable of maneuvering in all three dimensions, including depth. It can also withstand temperatures up to 450 degrees Fahrenheit.\n\nInformation: Engineers developed a robotic fish prototype capable of maneuvering in 3-D.",
+  "output": "Engineers Develop Robotic Fish that Can Swim and Withstand High Temperatures",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

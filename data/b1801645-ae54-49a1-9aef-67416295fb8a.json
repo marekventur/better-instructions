@@ -1,0 +1,12 @@
+{
+  "id": "b1801645-ae54-49a1-9aef-67416295fb8a",
+  "instruction": "List some of the advantages of using a pre-trained language model.",
+  "input": "",
+  "output": "Some of the advantages of using a pre-trained language model include the ability to leverage existing training data which results in faster and more cost effective development, the ability to generate state-of-the-art results for a wide range of tasks, the ability to get more accurate results for rare word types, and the ability to fine-tune models for specific tasks such as speech recognition. Pre-trained language models also make it easier to develop applications by acting as a plug-and-play model for your application. Additionally, pre-trained models are often more interpretable than models trained from scratch.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

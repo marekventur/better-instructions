@@ -1,0 +1,12 @@
+{
+  "id": "941d922f-1b67-430f-87a1-e783ab4baf82",
+  "instruction": "Given a set of data points, create an equation for the linear regression line.",
+  "input": "Data points: (1,1), (2,2), (3,4)",
+  "output": "The equation for the linear regression line is y = 1.5x + 0.5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d20d171a-d2b9-47f3-aa8c-b9940373d713",
+  "instruction": "Rewrite the paragraph to make it more concise without changing the content.",
+  "input": "Machine learning is a field of computer science that uses statistical techniques to give computer systems the ability to \u201clearn\u201d (i.e., progressively improve performance on a specific task) with data, without being explicitly programmed. Machine learning algorithms build a mathematical model based on sample data, known as \u201ctraining data\u201d, in order to make predictions or decisions without being explicitly programmed to perform the task.",
+  "output": "Machine learning is a field of computer science that enables computer systems to learn from data and progressively improve performance on tasks without explicit programming. Algorithms build a mathematical model based on training data to make predictions or decisions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

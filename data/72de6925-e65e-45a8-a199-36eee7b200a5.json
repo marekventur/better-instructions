@@ -1,0 +1,12 @@
+{
+  "id": "72de6925-e65e-45a8-a199-36eee7b200a5",
+  "instruction": "Describe how the given product works in 1-2 sentences.",
+  "input": "A portable charger",
+  "output": "A portable charger is a power device that allows users to recharge their mobile devices while on the go. It is typically a small, lightweight device that connects directly to the device's USB port and provides an energy boost to keep the device running.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

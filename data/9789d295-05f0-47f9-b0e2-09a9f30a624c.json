@@ -1,0 +1,12 @@
+{
+  "id": "9789d295-05f0-47f9-b0e2-09a9f30a624c",
+  "instruction": "Classify this sentence according to sentiment.",
+  "input": "I had a delightful time at the party.",
+  "output": "positive sentiment",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

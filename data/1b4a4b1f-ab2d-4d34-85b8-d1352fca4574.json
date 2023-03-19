@@ -1,0 +1,12 @@
+{
+  "id": "1b4a4b1f-ab2d-4d34-85b8-d1352fca4574",
+  "instruction": "Explain the purpose of a server-side scripting language.",
+  "input": "\\<noinput\\>",
+  "output": "A server-side scripting language is a programming language used to create dynamic content on webpages and applications. It runs on a server and can generate the content requested by the user's web browser. Server-side scripting languages can also store, retrieve, and alter databases on the server, as well as create reports and create web-based applications.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

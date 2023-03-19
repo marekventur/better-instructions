@@ -1,0 +1,12 @@
+{
+  "id": "95dbfa43-1394-4ec1-aeec-18e2565d1c0a",
+  "instruction": "Explain the given topic in two paragraphs.",
+  "input": "The effects of climate change",
+  "output": "Climate change is the change in global average temperatures caused by increasing levels of carbon dioxide and other greenhouse gases emitted by human activities. This has a direct effect on the environment, including increases in global temperatures, changes in precipitation patterns, and the severity of extreme weather events such as floods, droughts, and hurricanes.\n\nThe effects of climate change are wide-reaching and varied. Rising temperatures lead to changes in the timing and intensity of precipitation events, droughts, and floods, which damage crops, cause landslides, and have even been linked to outbreaks of disease and insect-borne illnesses. Warmer temperatures also cause the melting of ice sheets, resulting in sea-level rise and an increase in ocean temperatures, having a major impact on natural habitats and ecosystems, as well as coastal communities. Additionally, the rise in global temperatures can lead to the spread of disease and pests, harm to ecosystems, and changes in the availability and quality of water. In some parts of the world, the effects of climate change are already taking a toll on human populations, particularly through more frequent and intense extreme weather events such as floods, droughts, and hurricanes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

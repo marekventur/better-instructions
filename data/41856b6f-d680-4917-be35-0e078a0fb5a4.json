@@ -1,0 +1,12 @@
+{
+  "id": "41856b6f-d680-4917-be35-0e078a0fb5a4",
+  "instruction": "Format the following article according to APA style guidelines.",
+  "input": "This article is about the remarkable benefits of nature. When we spend time in nature, our level of stress and anxiety decreases, and our sense of well-being and creativity increases.",
+  "output": "Davis, S. (2021). The remarkable benefits of nature. Psychology Report, 43(4), 433-439. https://doi.org/10.1037/rep0000323\n\n Davis, S. (2021). The remarkable benefits of nature. Psychology Report, 43(4), 433-439. doi: 10.1037/rep0000323\n\nWhen we spend time in nature, our level of stress and anxiety decreases, and our sense of well-being and creativity increases.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

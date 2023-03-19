@@ -1,0 +1,12 @@
+{
+  "id": "6bd0e2b0-6bdb-4ca3-b663-2f62567bfee2",
+  "instruction": "Re-word the following sentence using the given word.",
+  "input": "An army of ants marched across the kitchen floor",
+  "output": "An influx of ants swarmed the kitchen floor.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

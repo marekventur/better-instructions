@@ -1,0 +1,12 @@
+{
+  "id": "1122ee68-907e-40c4-bce8-ef2166d57516",
+  "instruction": "Add the comparative form to the given sentence",
+  "input": "My quiz was hard.",
+  "output": "My quiz was harder than expected.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

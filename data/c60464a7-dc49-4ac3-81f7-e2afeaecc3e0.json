@@ -1,0 +1,12 @@
+{
+  "id": "c60464a7-dc49-4ac3-81f7-e2afeaecc3e0",
+  "instruction": "Edit my sentence \"We going to the beach\"",
+  "input": "We going to the beach",
+  "output": "We're going to the beach.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a763f946-a810-423b-a4c2-6e4bc395cba7",
+  "instruction": "Calculate the compound interest on the given sum of money",
+  "input": "Principal: $1000\nRate: 5%\nTime: 8 years",
+  "output": "$1382.20",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

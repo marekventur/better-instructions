@@ -1,0 +1,12 @@
+{
+  "id": "0c403f73-54a1-4ff0-a4ae-5b63a38e6818",
+  "instruction": "Explain what is a constructor in Java.",
+  "input": "",
+  "output": "A constructor in Java is a special method that is used to create an instance of a class. It is automatically called when an object is created and can be used to set initial values for the objects fields. Constructors can also be used to perform tasks that need to be done whenever a new instance of the class is created, such as setting up a connection to a database or a network.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

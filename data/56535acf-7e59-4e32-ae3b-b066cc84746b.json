@@ -1,0 +1,12 @@
+{
+  "id": "56535acf-7e59-4e32-ae3b-b066cc84746b",
+  "instruction": "Given the following code, identify any errors.",
+  "input": "def multiply(x, y):\nz = x * y\nreturn x",
+  "output": "This code has an error because it returns the value of x, rather than the value of the multiplication, which is stored as z. The code should be amended to return z instead of x.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0bc8ddc1-2cb7-4d6a-8e58-160551218b47",
+  "instruction": "Given two choices, classify them into two different categories.",
+  "input": "Apple and Banana",
+  "output": "Fruits: Apple, Banana.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

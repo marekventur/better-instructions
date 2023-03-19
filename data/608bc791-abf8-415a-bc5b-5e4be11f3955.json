@@ -1,0 +1,12 @@
+{
+  "id": "608bc791-abf8-415a-bc5b-5e4be11f3955",
+  "instruction": "Design a data structure to store words and their definitions.",
+  "input": "",
+  "output": "A hash map or dictionary would be a suitable data structure to store words and their definitions. The keys of the dictionary would be strings that represent the words and the values of the dictionary would be strings that represent their definitions. For example: {'word': 'definition'}.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

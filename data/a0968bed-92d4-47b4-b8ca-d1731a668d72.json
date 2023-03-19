@@ -1,0 +1,12 @@
+{
+  "id": "a0968bed-92d4-47b4-b8ca-d1731a668d72",
+  "instruction": "Find a list of the top 5 most visited tourist attractions in Spain",
+  "input": "",
+  "output": "The following is a list of the top 5 most visited tourist attractions in Spain: \n1) The Alhambra in Granada \n2) The Mezquita in Cordoba\n3) The Sagrada Familia in Barcelona\n4) The Royal Palace in Madrid\n5) The City of Arts and Sciences in Valencia.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

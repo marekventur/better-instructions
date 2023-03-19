@@ -1,0 +1,12 @@
+{
+  "id": "c3b7d19d-21be-4bed-a93e-44626cfed543",
+  "instruction": "Given the following set of numbers, calculate the mean.",
+  "input": "3, 4, 6, 8, 10",
+  "output": "The mean of the above set of numbers is 6.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

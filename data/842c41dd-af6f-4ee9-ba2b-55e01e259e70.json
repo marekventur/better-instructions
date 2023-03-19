@@ -1,0 +1,12 @@
+{
+  "id": "842c41dd-af6f-4ee9-ba2b-55e01e259e70",
+  "instruction": "Optimize the following query.",
+  "input": "SELECT * \nFROM table_name \nWHERE id = 1",
+  "output": "SELECT * FROM table_name WHERE id = 1 ORDER BY id",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

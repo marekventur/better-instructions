@@ -1,0 +1,12 @@
+{
+  "id": "24071ba3-a076-406f-be3c-2fa796d566b1",
+  "instruction": "Classify the following tweet as expressing a positive sentiment, a negative sentiment, or a neutral sentiment.",
+  "input": "COVID-19 has changed how we interact with others and how we plan our day-to-day lives.",
+  "output": "neutral",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

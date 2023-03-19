@@ -1,0 +1,12 @@
+{
+  "id": "46f0ed4d-5d5c-45a3-9315-b9ead9681bf3",
+  "instruction": "Create a list of shopping items needed to host a dinner party.",
+  "input": "",
+  "output": "Shopping items needed to host a dinner party:\n- Staples: sugar, salt, pepper, butter, oil, flour \n- Produce: vegetables and fruits of your choice\n- Dairy: milk, eggs, cheese\n- Meat/Fish: steak, chicken, fish, shrimp\n- Spices: garlic, oregano, cumin, paprika \n- Bakery: rolls, bread, crackers \n- Beverages: water, soda, juice, wine \n- Desserts: cake, cookies, ice cream \n- Kitchen Supplies: plates, bowls, cutlery, glasses, napkins \n- Decorations/Supplies: centerpiece, tablecloth, chairs/seating, flowers, candles",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

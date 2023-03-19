@@ -1,0 +1,12 @@
+{
+  "id": "c924f0bb-8cf7-4073-95e8-3b720f4f3aaa",
+  "instruction": "Create a dialogue between two characters for a conflict resolution.",
+  "input": "",
+  "output": "Character A: \"I'm so frustrated that you haven't been in touch for the last few days!\" \nCharacter B: \"I realize I made a mistake by not being in touch. I'm sorry, I got caught up with work and it all happened without me noticing it.\" \nCharacter A: \"I understand, but it still hurt that you neglected me like that. How do you plan on fixing this?\" \nCharacter B: \"I can promise to check in with you more often to make sure you know what I'm up to. Will that help?\" \nCharacter A: \"Yes, that would make me feel better. Thanks for understanding\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

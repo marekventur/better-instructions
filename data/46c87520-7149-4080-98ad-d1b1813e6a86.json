@@ -1,0 +1,12 @@
+{
+  "id": "46c87520-7149-4080-98ad-d1b1813e6a86",
+  "instruction": "Take the given text and summarize it with a set of keywords.",
+  "input": "In this research paper, we study the impact of automated climate change detection on crop yield estimation.",
+  "output": "Keywords: climate change, automated detection, crop yield, estimation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

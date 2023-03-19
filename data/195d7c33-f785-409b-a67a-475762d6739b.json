@@ -1,0 +1,12 @@
+{
+  "id": "195d7c33-f785-409b-a67a-475762d6739b",
+  "instruction": "Make a binary classification on a dataset containing the \"Age\" column.",
+  "input": "",
+  "output": "The binary classification classification would divide the data into two classes: \"below 18 years old\" and \"18 years old and above\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

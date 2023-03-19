@@ -1,0 +1,12 @@
+{
+  "id": "4afd251c-75b6-460d-ae68-090dbffea2d0",
+  "instruction": "Edit this sentence and make sure that it follows the principles of the singular they.",
+  "input": "Every person must take responsibility for their actions.",
+  "output": "Every person must take responsibility for their own actions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

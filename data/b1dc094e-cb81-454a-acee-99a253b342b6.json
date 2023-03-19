@@ -1,0 +1,12 @@
+{
+  "id": "b1dc094e-cb81-454a-acee-99a253b342b6",
+  "instruction": "Given two animals, say what traits they share.",
+  "input": "Lion and Leopard",
+  "output": "Lions and leopards are both members of the Felidae family, they both are carnivores, they both have tawny/golden fur, and they both have spots and stripes on their fur.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

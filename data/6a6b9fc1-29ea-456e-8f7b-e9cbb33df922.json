@@ -1,0 +1,12 @@
+{
+  "id": "6a6b9fc1-29ea-456e-8f7b-e9cbb33df922",
+  "instruction": "Identify a data structure that would be appropriate for storing employee records.",
+  "input": "",
+  "output": "A hash table or dictionary would be best suited for storing employee records since it provides quick insertion, retrieval, and deletion of employee records. The key could be a unique identifier such as the employee\u2019s name, and the value could be the employee\u2019s record in the form of an object or struct.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

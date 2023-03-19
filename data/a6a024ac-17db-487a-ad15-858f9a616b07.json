@@ -1,0 +1,12 @@
+{
+  "id": "a6a024ac-17db-487a-ad15-858f9a616b07",
+  "instruction": "Create a horoscope for given zodiac sign.",
+  "input": "Virgo",
+  "output": "Virgos, your New Year will come with plenty of opportunities for success and growth. It\u2019s a great time to focus on your goals and relationships. Be open to new experiences, work hard, and you\u2019ll be rewarded. This is also a good time to commit to healthy habits- both physically and emotionally. You\u2019ll find yourself feeling stronger and more confident both at work and in your personal life. This is the time to take advantage of the new year and make the most of it. Wishing you all the best!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

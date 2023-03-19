@@ -1,0 +1,12 @@
+{
+  "id": "0f238b09-c0ef-4b45-ab47-862a62dc96ff",
+  "instruction": "Generate a conversation between two people who are discussing their holiday plans.",
+  "input": "",
+  "output": "Person 1: I'm thinking about going on a holiday this summer.\nPerson 2: That sounds great! Where are you planning on going?\nPerson 1: I'm thinking of going to Bali. What about you? \nPerson 2: I'm thinking of going to Greece. I hear the beaches are beautiful.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0b5da382-66ad-404f-95de-29e3d355eacf",
+  "instruction": "Given the list, deduplicate it in the most efficient way.",
+  "input": "List = [2, 5, 4, 2, 3, 5, 3]",
+  "output": "deduplicated_list = list(set(List))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

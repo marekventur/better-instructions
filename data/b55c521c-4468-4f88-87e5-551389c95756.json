@@ -1,0 +1,12 @@
+{
+  "id": "b55c521c-4468-4f88-87e5-551389c95756",
+  "instruction": "Restore the text to its original form by removing all of the grammatical mistakes.",
+  "input": "This river is the longest river in The World",
+  "output": "This river is the longest river in the world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

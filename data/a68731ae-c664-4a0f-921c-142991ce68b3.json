@@ -1,0 +1,12 @@
+{
+  "id": "a68731ae-c664-4a0f-921c-142991ce68b3",
+  "instruction": "Explain the concept of Neural Style Transfer in two to three sentences.",
+  "input": "",
+  "output": "Neural Style Transfer is an algorithm that takes two images, an \"input image\" and an \"style reference\" image, and then blends the stylistic elements of the style reference image with the content elements of the input image. This creates a new image that was created by combining the two, giving it features of both the input and style reference images. In this way, Neural Style Transfer can be used to create beautiful and unique artwork.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

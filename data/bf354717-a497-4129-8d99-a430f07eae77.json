@@ -1,0 +1,12 @@
+{
+  "id": "bf354717-a497-4129-8d99-a430f07eae77",
+  "instruction": "Design a web page containing user feedback forms.",
+  "input": "",
+  "output": "The web page should contain a form with several text fields to capture basic user information such as their name, email address, and the product they are providing feedback on. It should also have checkbox fields to collect user ratings and comments. Additionally, other optional fields such as a satisfaction survey or a comments section can be included to get further insights. Finally, the form should have a clear \u2018submit\u2019 button that a user must click to submit the feedback.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

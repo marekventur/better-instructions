@@ -1,0 +1,12 @@
+{
+  "id": "923bdfd9-c333-42aa-837c-9c9ea2af7b7c",
+  "instruction": "Select the appropriate command from the list of available commands.",
+  "input": "Open my memos.\n1. Connect to my iCloud\n2. Open files in my iCloud\n3. Open iOS Notes app",
+  "output": "3. Open iOS Notes app",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

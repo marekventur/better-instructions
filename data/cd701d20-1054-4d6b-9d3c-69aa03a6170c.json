@@ -1,0 +1,12 @@
+{
+  "id": "cd701d20-1054-4d6b-9d3c-69aa03a6170c",
+  "instruction": "Describe how the new system works",
+  "input": "The new system is a mobile app that will allow users to pay directly with their phones.",
+  "output": "The new system is a mobile app that provides users with a secure and convenient way to make payments. The app is linked to the user's bank account, debit or credit cards and other payment methods. When users initiate a payment, the payment is securely processed. They can also access their purchase history and have the option to set up recurring payments.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

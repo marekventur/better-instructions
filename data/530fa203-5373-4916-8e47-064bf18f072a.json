@@ -1,0 +1,12 @@
+{
+  "id": "530fa203-5373-4916-8e47-064bf18f072a",
+  "instruction": "Create a list of the top 10 international airports that have the highest passenger traffic.",
+  "input": "",
+  "output": "The top 10 international airports with the highest passenger traffic are: \n1. Hartsfield-Jackson Atlanta International Airport (ATL)\n2. Beijing Capital International Airport (PEK)\n3. Los Angeles International Airport (LAX)\n4. Dubai International Airport (DXB)\n5. Tokyo Haneda International Airport (HND)\n6. London Heathrow Airport (LHR)\n7. Chicago O'Hare International Airport (ORD)\n8. Hong Kong International Airport (HKG)\n9. Paris Charles de Gaulle Airport (CDG)\n10. Shanghai Pudong International Airport (PVG)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

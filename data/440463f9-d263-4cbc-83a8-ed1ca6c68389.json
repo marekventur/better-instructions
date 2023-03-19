@@ -1,0 +1,12 @@
+{
+  "id": "440463f9-d263-4cbc-83a8-ed1ca6c68389",
+  "instruction": "Given an article, make a summary in a single sentence.",
+  "input": "Article:\nNew research has found that chocolate consumption can have health benefits such as reducing inflammation and improving blood flow.",
+  "output": "Research has found that eating chocolate in moderation can have several health benefits, including reducing inflammation and improving blood flow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

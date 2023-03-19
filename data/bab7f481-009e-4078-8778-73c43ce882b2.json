@@ -1,0 +1,12 @@
+{
+  "id": "bab7f481-009e-4078-8778-73c43ce882b2",
+  "instruction": "Read the text and then summarize it in a few sentences.",
+  "input": "The World Wide Web (WWW), commonly known as the Web, is an information system where documents and other web resources are identified by Uniform Resource Locators (URLs). Initiated in 1989 by the British scientist Tim Berners-Lee, the Web forms a major component of the Internet. As of May 2020, the website reportedly contains over one billion websites and as of 2018, roughly half of all web traffic is encrypted.",
+  "output": "The World Wide Web (WWW) was started by Tim Berners-Lee in 1989 as a central part of the Internet. It is an information system where documents and resources can be accessed via URLs. As of May 2020, the Web contains over one billion websites and around half of all web traffic is encrypted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

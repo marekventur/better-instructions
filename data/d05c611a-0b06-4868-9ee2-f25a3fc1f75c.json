@@ -1,0 +1,12 @@
+{
+  "id": "d05c611a-0b06-4868-9ee2-f25a3fc1f75c",
+  "instruction": "Create a list from the given sentence.",
+  "input": "He went to the store to buy fruits, vegetables and eggs.",
+  "output": "- Fruits\n- Vegetables\n- Eggs",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

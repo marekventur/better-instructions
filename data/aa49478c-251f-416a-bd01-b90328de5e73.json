@@ -1,0 +1,12 @@
+{
+  "id": "aa49478c-251f-416a-bd01-b90328de5e73",
+  "instruction": "Generate an example of a visualization for comparing two datasets.",
+  "input": "Datasets: Sales figures for two different stores over a 6 month period",
+  "output": "A visualization for comparing the sales figures of two different stores over a 6 month period could be a line chart. The x-axis would represent the months and the y-axis would represent the sales figures. There would be two separate lines, each showing the sales figures for each store over the 6 month period, and they could be labeled with the store names. This would make it easy to compare the sales performance of the two different stores.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

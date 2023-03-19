@@ -1,0 +1,12 @@
+{
+  "id": "c55ee7d2-06e1-408f-b6c7-62a0aa76e24b",
+  "instruction": "Capitalize the appropriate words in the sentence.",
+  "input": "The wind is blowing through the trees.",
+  "output": "The Wind is blowing through the Trees.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

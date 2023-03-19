@@ -1,0 +1,12 @@
+{
+  "id": "1b27fa92-c5d7-40d2-a0f3-83290505e3b1",
+  "instruction": "Suggest five things to do in the following city.",
+  "input": "Seattle",
+  "output": "1. Visit the iconic Space Needle\n2. Attend a show at the Seattle Theatre Group\n3. Take a tour of the Pike Place Market\n4. Spend a day at the Seattle Aquarium\n5. Check out the Museum of Pop Culture",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

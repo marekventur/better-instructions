@@ -1,0 +1,12 @@
+{
+  "id": "b4aa5289-25ad-4901-a574-4cf86e3220b8",
+  "instruction": "Given a list of facts, determine if they are true or false.",
+  "input": "1. The Great Wall of China is the only man-made structure visible from space.\n2. Saturn is the largest planet in the Solar System.",
+  "output": "1. False\n2. True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

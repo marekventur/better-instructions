@@ -1,0 +1,12 @@
+{
+  "id": "c495c50a-0b01-4309-b646-89108494ab63",
+  "instruction": "In this task, you need to create a plausible data table to represent the available information.",
+  "input": "A biology class has 20 students. They are split into five groups of four students each.",
+  "output": "Group | Students\n1    | Student A, Student B, Student C, Student D\n2    | Student E, Student F, Student G, Student H\n3    | Student I, Student J, Student K, Student L\n4    | Student M, Student N, Student O, Student P\n5    | Student Q, Student R, Student S, Student T",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

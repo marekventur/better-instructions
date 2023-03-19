@@ -1,0 +1,12 @@
+{
+  "id": "451cb3ea-c3c6-472f-bc65-b4ec8c02bc04",
+  "instruction": "Classify the following two sentences",
+  "input": "- That was an amazing show\n- I'm never going to see them again",
+  "output": "Positive: That was an amazing show\nNegative: I'm never going to see them again",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

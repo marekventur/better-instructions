@@ -1,0 +1,12 @@
+{
+  "id": "054ebbf3-6a22-4227-8fd7-9c4e1908cded",
+  "instruction": "Identify the audience for this news article",
+  "input": "Experts say the COVID-19 pandemic has the potential to disrupt global supply chains and economies.",
+  "output": "The audience for this news article is the general public.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

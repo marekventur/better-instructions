@@ -1,0 +1,12 @@
+{
+  "id": "78916dc1-c568-42ce-be08-fbf680e3f8f0",
+  "instruction": "Classify the given sentence as an imperative sentence or an interrogative sentence.",
+  "input": "Are you coming to the party?",
+  "output": "Interrogative sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

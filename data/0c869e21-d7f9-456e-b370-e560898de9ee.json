@@ -1,0 +1,12 @@
+{
+  "id": "0c869e21-d7f9-456e-b370-e560898de9ee",
+  "instruction": "Rewrite the following instructions so that they are simpler and easier to understand",
+  "input": "Login to the website, input your username and password, then click the \"Continue\" button",
+  "output": "Go to the website and enter your username and password. Once you're done, click on the \"Continue\" button.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

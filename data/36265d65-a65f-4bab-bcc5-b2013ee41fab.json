@@ -1,0 +1,12 @@
+{
+  "id": "36265d65-a65f-4bab-bcc5-b2013ee41fab",
+  "instruction": "What is the definition of a vector in computer science?",
+  "input": "",
+  "output": "In computer science, a vector is a collection of data elements that are ordered and can be accessed individually. It is typically used to store multiple related values in a single collection. Vectors are often used to store graphics elements such as points, lines, and shapes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

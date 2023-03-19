@@ -1,0 +1,12 @@
+{
+  "id": "6beed2cc-4795-4131-b7b0-f285f126c839",
+  "instruction": "Given a list of items, check if an item is in the list",
+  "input": "apple, banana, orange",
+  "output": "Yes, apple is in the list.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7d1f6048-fdca-4d6a-98cd-c1ec28420381",
+  "instruction": "Create a list of steps to solve a given problem.",
+  "input": "How to replace a light bulb",
+  "output": "Steps to replace a light bulb: \n1. Unscrew the old light bulb.\n2. Get a new light bulb with the correct size and wattage.\n3. Carefully insert the new light bulb into the socket.\n4. Screw the new light bulb in securely.\n5. Turn the power back on and test the new light bulb.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

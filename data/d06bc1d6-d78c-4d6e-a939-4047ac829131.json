@@ -1,0 +1,12 @@
+{
+  "id": "d06bc1d6-d78c-4d6e-a939-4047ac829131",
+  "instruction": "Try to distinguish between a lemon and a lime.",
+  "input": "",
+  "output": "Lemons and limes are both small citrus fruits, but there are several key differences between them. Lemons are bright yellow and often have a more sour taste than limes. Limes are typically green and have a more tart flavor. The peel of a lemon is thicker than that of a lime, and the juice of a lemon is much more acidic. Lemons also tend to be larger than limes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

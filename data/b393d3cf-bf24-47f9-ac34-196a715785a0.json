@@ -1,0 +1,12 @@
+{
+  "id": "b393d3cf-bf24-47f9-ac34-196a715785a0",
+  "instruction": "Group the following list of words into 3 categories.",
+  "input": "Book, Pen, Robot, Phone",
+  "output": "Category 1: Book, Pen\n\nCategory 2: Robot\n\nCategory 3: Phone",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

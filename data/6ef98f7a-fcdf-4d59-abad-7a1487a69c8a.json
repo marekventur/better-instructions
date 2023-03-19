@@ -1,0 +1,12 @@
+{
+  "id": "6ef98f7a-fcdf-4d59-abad-7a1487a69c8a",
+  "instruction": "Compare the two objects and output the result",
+  "input": "Object 1: Apple\nObject 2: Orange",
+  "output": "Apples and oranges are both fruits, but they have different textures, colors, and tastes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

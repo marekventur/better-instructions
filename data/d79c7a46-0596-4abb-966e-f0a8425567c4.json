@@ -1,0 +1,12 @@
+{
+  "id": "d79c7a46-0596-4abb-966e-f0a8425567c4",
+  "instruction": "Describe the types of data stored in a relational database.",
+  "input": "",
+  "output": "A relational database is a type of database that stores and organizes data in tables. Each table is composed of columns and rows, with each column containing a single type of data and each row containing a record containing various types of data. Data types typically stored in a relational database include text, numbers, dates, and images.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c3585416-8085-4314-ba70-1eb7e744fe9c",
+  "instruction": "Edit the sentence by changing the grammatical categories (e.g., change a noun to a verb).",
+  "input": "The players cheered loudly.",
+  "output": "The players roared joyously.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

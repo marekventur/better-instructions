@@ -1,0 +1,12 @@
+{
+  "id": "f45735fc-360d-4dc1-a539-55e3f7dfbee9",
+  "instruction": "Suggest the best questions to ask for a job interview for the given job description",
+  "input": "Assistant Manager of a Retail Store",
+  "output": "Questions that could be beneficial to ask during a job interview for an Assistant Manager of a Retail Store position include: \n1. What made you decide to open a retail store at this location? \n2. What challenges do you believe an Assistant Manager will face in this role? \n3. How do you evaluate success in the Assistant Manager position? \n4. What are the top expectations for an Assistant Manager? \n5. What support systems are available to assist the Assistant Manager to succeed in this role?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

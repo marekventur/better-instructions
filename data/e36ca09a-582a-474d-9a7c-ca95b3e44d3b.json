@@ -1,0 +1,12 @@
+{
+  "id": "e36ca09a-582a-474d-9a7c-ca95b3e44d3b",
+  "instruction": "How might you analyze the given dataset?",
+  "input": "A dataset of customer reviews for an online store",
+  "output": "The dataset can be analyzed by conducting sentiment analysis to determine the overall sentiment of the reviews, as well as using topic modelling to identify the main topics and trends of the reviews. Furthermore, the customer reviews can be compared to competitor reviews to get an idea of how they compare.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e07fce73-6b64-4f64-9e5c-69bf748caedb",
+  "instruction": "Convert the text into a dialogue between two characters.",
+  "input": "Maria's parents were strict with her, so she started to rebel against them.",
+  "output": "Maria: \"I'm so tired of my parents treating me like a child! All they do is set rules and punish me when I break them.\"\n\nParent: \"We're just trying to help you make the right choices. We want you to have a good future.\"\n\nMaria: \"I know, but I'm old enough to make my own decisions!\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

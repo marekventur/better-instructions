@@ -1,0 +1,12 @@
+{
+  "id": "f9db0f0c-a45c-4025-8d8f-22a7c8e51cd1",
+  "instruction": "Determine the appropriate verb for the blank space.",
+  "input": "The teacher _ her students to speak up in class.",
+  "output": "The teacher encouraged her students to speak up in class.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f4c81904-2667-45c3-80a0-d9eb3e5d9962",
+  "instruction": "Create a program that can generate random Shakespearean insults.",
+  "input": "",
+  "output": "//Function to generate random Shakespearean insults\n\nFUNCTION generateInsult()\n\n// Create an array of words to be selected \nwords = [\"artless\", \"bawdy\", \"beslubbering\", \"bootless\", \"churlish\", \"cockered\"];\n\n// Generate two random numbers to select which words to use\ni1 = RANDOM(words.length - 1);\ni2 = RANDOM(words.length - 1);\n\nRETURN \"Thou art a \" + words[i1] + \" \" + words[i2] + \" rogue!\";\n\nEND FUNCTION",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

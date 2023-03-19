@@ -1,0 +1,12 @@
+{
+  "id": "6ad175d3-aed9-45cd-b047-49d8d11aad09",
+  "instruction": "Provide an example of a GPT model used for generating text.",
+  "input": "",
+  "output": "One example of a GPT model used for text generation is OpenAI's GPT-3, which is a deep learning model that enables developers to generate natural language with state-of-the-art accuracy. GPT-3 can generate text from a prompt and even learn from the context it is provided with. For example, it can be trained to generate stories based on given prompts, generate music, create detailed answers to questions, and complete the unfinished tasks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

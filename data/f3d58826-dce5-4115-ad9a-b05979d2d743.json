@@ -1,0 +1,12 @@
+{
+  "id": "f3d58826-dce5-4115-ad9a-b05979d2d743",
+  "instruction": "Generate a set of instructions for making a sandwich",
+  "input": "",
+  "output": "1. Gather the needed ingredients for making the sandwich, such as bread, meat, cheese, and condiments.\n2. Toast the bread slices, if desired.\n3. Spread condiments, such as mustard, mayonnaise, or butter, on the two slices of bread.\n4. Place the desired meat and cheese onto one of the slices of bread.\n5. Top with the second slice of bread.\n6. Cut the sandwich in half, as desired.\n7. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "aea5b6cf-86aa-4d84-b76e-b20bec4eb719",
+  "instruction": "Create a SQL query to find the 5 most popular restaurants in a given city.",
+  "input": "",
+  "output": "SELECT restaurant_name, COUNT(*) AS frequency \nFROM restaurant_table \nWHERE city = '<given city name>' \nGROUP BY restaurant_name \nORDER BY frequency DESC \nLIMIT 5;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d81c8948-82d1-4f11-abd7-6c9486c03fe6",
+  "instruction": "Given a list of animals, identify which ones are mammals.",
+  "input": "Horse, mouse, lizard",
+  "output": "Mammals: Horse, mouse. Non-mammals: Lizard.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

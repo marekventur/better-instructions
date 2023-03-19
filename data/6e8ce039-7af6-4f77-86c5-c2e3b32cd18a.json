@@ -1,0 +1,12 @@
+{
+  "id": "6e8ce039-7af6-4f77-86c5-c2e3b32cd18a",
+  "instruction": "Rewrite the provided sentence ensuring the correct use of grammar and punctuation.",
+  "input": "She loves her cats so much she always pets them",
+  "output": "She loves her cats so much that she always pets them.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "245d60e3-2a5d-434b-a43f-41fe01cb9c5e",
+  "instruction": "Rewrite the given quotation in the indirect speech",
+  "input": "He said, \"I want to go on a holiday\"",
+  "output": "He said that he wanted to go on a holiday.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

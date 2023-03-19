@@ -1,0 +1,12 @@
+{
+  "id": "2d956925-1ed4-44cc-ae40-7d6d8cf665bd",
+  "instruction": "Identify the correct adhesive to fix a torn book",
+  "input": "A 15-page book with thin paper was accidentally torn",
+  "output": "Acid-free bookbinding glue.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

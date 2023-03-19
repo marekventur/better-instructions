@@ -1,0 +1,12 @@
+{
+  "id": "66fffd9c-8216-4ac6-8ac9-d496a1a3af8a",
+  "instruction": "Create an outline for a tutorial on Python programming.",
+  "input": "Noinput",
+  "output": "Outline for a Tutorial on Python Programming: \n\nI. Intro \nA. What is Python?\nB. Why learn Python? \n\nII. Variables and Data Types\nA. Basic Data Types \nB. Variables\n\nIII. Operators and Control Flow\nA. Comparison Operators \nB. Logical Operators\nC. If-Else Statements \n\nIV. Lists, Strings, and Tuples\nA. Lists \nB. Strings \nC. Tuples\n\nV. Functions\nA. Defining Functions \nB. Calling Functions \n\nVI. Modules and Packages\nA. Installing Modules \nB. Using Packages \n\nVII. Conclusion \nA. Resources for Further Learning \nB. Summary",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

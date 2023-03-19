@@ -1,0 +1,12 @@
+{
+  "id": "4ff56e5d-0ef9-45a2-a75c-1d53496dfb7a",
+  "instruction": "Generate a list of words that belong to the same category.",
+  "input": "Chair",
+  "output": "Furniture - Table, sofa, dresser, desk, chest, buffet, armoire, bookcase.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

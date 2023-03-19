@@ -1,0 +1,12 @@
+{
+  "id": "4854465d-2afe-4712-8834-2251a023c765",
+  "instruction": "Output the whole article using single-word nouns.",
+  "input": "Tesla has announced plans to create a new battery technology that could revolutionize electric vehicles.",
+  "output": "Tesla, Announcement, Plan, Create, Battery, Technology, Revolutionize, Electric, Vehicles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

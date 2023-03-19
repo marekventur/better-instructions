@@ -1,0 +1,12 @@
+{
+  "id": "cac4cb5b-7cd0-42eb-8190-7e0c12728950",
+  "instruction": "Summarize the information from the text",
+  "input": "The French Revolution began in 1789, as people stood up to oppression and pushed for greater freedoms for all. Years of unrest and fighting followed, as people struggled to build a new government that could provide freedom and justice for all people.",
+  "output": "The French Revolution started in 1789 as a revolt against oppressive regimes. The fight for more freedom and justice lasted for years, culminating in the formation of a new government that provided people with more liberties and rights.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

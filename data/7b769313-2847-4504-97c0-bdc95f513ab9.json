@@ -1,0 +1,12 @@
+{
+  "id": "7b769313-2847-4504-97c0-bdc95f513ab9",
+  "instruction": "Analyze the given text and determine which parts of speech the word \"play\" refers to.",
+  "input": "The children play in the playground.",
+  "output": "The word \"play\" in this sentence is a verb. It is in the form of a present tense, 3rd person plural.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

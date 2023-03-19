@@ -1,0 +1,12 @@
+{
+  "id": "d9e8138e-1ec1-4385-beb6-8440e7473917",
+  "instruction": "Find the most important takeaway from the following article.",
+  "input": "An article published by the International Journal of Environmental Research and Public Health found that air pollution levels have been found to have measurable effect on mental health, with people living in more polluted areas having poorer mental health outcomes.",
+  "output": "The most important takeaway from the article is that air pollution has a negative impact on mental health, with people living in areas with higher levels of pollution having poorer mental health outcomes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

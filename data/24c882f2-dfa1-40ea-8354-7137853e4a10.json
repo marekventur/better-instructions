@@ -1,0 +1,12 @@
+{
+  "id": "24c882f2-dfa1-40ea-8354-7137853e4a10",
+  "instruction": "From the list of foods given here, find the type of food each is associated with.",
+  "input": "List: pizza, banana, steak, bread",
+  "output": "Pizza: Italian, \nBanana: Fruit, \nSteak: Meat, \nBread: Grain",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

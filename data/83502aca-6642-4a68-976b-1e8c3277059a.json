@@ -1,0 +1,12 @@
+{
+  "id": "83502aca-6642-4a68-976b-1e8c3277059a",
+  "instruction": "Analyze the given text and classify it into one of the six genres: 1) Narrative Fiction, 2) Informational Text, 3) Poetry, 4) Drama, 5) Nonfiction, 6) Other.\nOutput 1 - 6 for each genre.",
+  "input": "The Cat Concerto, a classic Tom and Jerry episode, features the Hungarian Rhapsody No. 2 by Franz Liszt.",
+  "output": "1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

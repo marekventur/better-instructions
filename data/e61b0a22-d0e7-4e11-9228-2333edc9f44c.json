@@ -1,0 +1,12 @@
+{
+  "id": "e61b0a22-d0e7-4e11-9228-2333edc9f44c",
+  "instruction": "Generate a list of five recommendations related to the following topic: \"how to reduce carbon emissions\"",
+  "input": "NoInput",
+  "output": "1. Invest in renewable energy sources such as solar and wind power.\n2. Use energy-efficient appliances and energy-saving practices such as turning off lights, unplugging appliances, and utilizing natural sunlight.\n3. Limit the use of cars and avoid long car trips whenever possible by relying on public transportation instead.\n4. Reduce meat and dairy consumption to limit the impact of methane from livestock.\n5. Plant trees and support reforestation efforts to restore natural carbon sinks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

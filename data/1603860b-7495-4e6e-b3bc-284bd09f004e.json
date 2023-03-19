@@ -1,0 +1,12 @@
+{
+  "id": "1603860b-7495-4e6e-b3bc-284bd09f004e",
+  "instruction": "Write a function to count the occurances of a given character in a string.",
+  "input": "",
+  "output": "def count_char(string, char):\n    count = 0\n    for c in string:\n        if c == char:\n            count += 1\n    return count\n\nprint(count_char(\"hello world\", \"l\"))\n\nOutput: 3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

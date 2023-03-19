@@ -1,0 +1,12 @@
+{
+  "id": "6720f4d1-2bd1-455b-8c30-055c7149bfc4",
+  "instruction": "Organize the given outline into a paragraph.",
+  "input": "I. Introduction\nA. TV show\nB. Characters \nII. Actors\nA. Main character\nB. Supporting roles",
+  "output": "The popular television series has a diverse group of characters that are portrayed by interesting actors. The main character, Jack, is played by a seasoned actor that brings emotion and depth to the role. Additionally, the show features two supporting roles, Emma and John, that are portrayed by fresh new actors that add excitement and humor to the show.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

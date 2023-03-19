@@ -1,0 +1,12 @@
+{
+  "id": "4767864b-ed7b-4d30-b0e5-552f8508eecf",
+  "instruction": "Summarize the two passages into one sentence.",
+  "input": "Passage 1:\nManufacturers began using robots to carry out repetitive tasks, such as painting and welding, in the late 1950s. The robots were designed to be precise, reliable, and able to work constantly without the need for rest.\n\nPassage 2:\nRobots would eventually be used in a variety of industries, from automotive and aerospace to healthcare and consumer products. They would be used to assemble parts, move materials and packages, detect and inspect parts, and even perform surgery.",
+  "output": "Since the late 1950s, robots have been used to carry out precise, reliable and constant tasks in a variety of industries, from automotive and aerospace to healthcare and consumer products.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

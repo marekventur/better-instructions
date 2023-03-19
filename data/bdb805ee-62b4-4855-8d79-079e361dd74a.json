@@ -1,0 +1,12 @@
+{
+  "id": "bdb805ee-62b4-4855-8d79-079e361dd74a",
+  "instruction": "Generate a list of possible solutions for the given situation.",
+  "input": "My computer just crashed and I lost all my family photos.",
+  "output": "Possible solutions for the given situation include: \n1. Contacting the manufacturer of the computer to see if they can provide any assistance.\n2. Trying a system restore if the computer has that feature.\n3. Trying a disk scan if the computer has one.\n4. Contacting a computer repair shop to see if they can help.\n5. Backing up data to an external hard drive regularly to prevent a similar situation from occurring again in the future. \n6. Considering storage and organization tools such as cloud storage.\n7. Looking for file or data recovery software or services.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

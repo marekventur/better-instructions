@@ -1,0 +1,12 @@
+{
+  "id": "f668f4bd-1a25-4c0c-9ac4-bd459642dcaf",
+  "instruction": "Given a tweet, categorize it into one of the following emotions: happy, angry, sad, surprise",
+  "input": "I can't believe how much I miss my grandpa",
+  "output": "Sad",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

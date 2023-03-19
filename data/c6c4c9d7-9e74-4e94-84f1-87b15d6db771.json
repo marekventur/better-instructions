@@ -1,0 +1,12 @@
+{
+  "id": "c6c4c9d7-9e74-4e94-84f1-87b15d6db771",
+  "instruction": "Construct a personality profile for a given character.",
+  "input": "Elizabeth Bennet - Character from the novel \"Pride and Prejudice\"",
+  "output": "Elizabeth Bennet is an independent and strong-willed young woman from the novel \"Pride and Prejudice\". She is intelligent, witty, and has an opinion on everything. She is often quick to judge as she can be overly opinionated and stubborn. She is not afraid to speak her mind and stand up for herself. Despite her strong personality, she is compassionate and understanding, willing to go to great lengths to help a friend in need. Additionally, Elizabeth is loyal to those closest to her and is willing to take risks in order to keep the people she loves safe.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

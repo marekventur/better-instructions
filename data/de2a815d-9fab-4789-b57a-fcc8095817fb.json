@@ -1,0 +1,12 @@
+{
+  "id": "de2a815d-9fab-4789-b57a-fcc8095817fb",
+  "instruction": "Delete all vowels from the string",
+  "input": "Hello World",
+  "output": "Hll Wrld",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

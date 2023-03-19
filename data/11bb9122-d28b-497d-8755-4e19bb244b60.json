@@ -1,0 +1,12 @@
+{
+  "id": "11bb9122-d28b-497d-8755-4e19bb244b60",
+  "instruction": "Create a tweet that includes a hashtag to increase the visibility of a new product announcement",
+  "input": "[Image of a new product]",
+  "output": "We're excited to announce the launch of our new #ProductX! Get ready to experience something revolutionary!  #TakingTechnologyToTheNextLevel",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

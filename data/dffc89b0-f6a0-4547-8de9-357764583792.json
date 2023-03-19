@@ -1,0 +1,12 @@
+{
+  "id": "dffc89b0-f6a0-4547-8de9-357764583792",
+  "instruction": "Given a list of books, recommend a book that would be suitable for someone with a particular interest.",
+  "input": "The Catcher in the Rye, The Great Gatsby, 1984",
+  "output": "For someone who is interested in dystopian fiction, 1984 by George Orwell would be a suitable book to read.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

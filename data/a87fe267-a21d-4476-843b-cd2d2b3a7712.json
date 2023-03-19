@@ -1,0 +1,12 @@
+{
+  "id": "a87fe267-a21d-4476-843b-cd2d2b3a7712",
+  "instruction": "Find the errors in the following sentence and rewrite it using the correct grammar:",
+  "input": "I have used the program for months and it's working great.",
+  "output": "I have been using the program for months and it has been working great.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

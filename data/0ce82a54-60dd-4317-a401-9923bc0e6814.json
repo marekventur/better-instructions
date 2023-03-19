@@ -1,0 +1,12 @@
+{
+  "id": "0ce82a54-60dd-4317-a401-9923bc0e6814",
+  "instruction": "Create a bar chart illustrating the frequency of different ice cream flavors.",
+  "input": "Chocolate: 15, Vanilla: 10, Strawberry: 5",
+  "output": "A bar chart showing the frequency of different ice cream flavors, with Chocolate at 15, Vanilla at 10, and Strawberry at 5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

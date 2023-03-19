@@ -1,0 +1,12 @@
+{
+  "id": "cbd2e338-bc59-49e7-8af2-d0f9d6b42fe9",
+  "instruction": "Given a block of Text, edit the text to make it read more naturally.",
+  "input": "The house had a thousands of windows that creaked and moaned in the wind.",
+  "output": "The house had thousands of windows that creaked and moaned in the wind.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

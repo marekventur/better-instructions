@@ -1,0 +1,12 @@
+{
+  "id": "4d6cc623-0b7e-40de-b332-c1e2218d0b81",
+  "instruction": "Summarize the given poem in 3 lines.",
+  "input": "The poem reads:\n\nThe trees in my yard are singing a song,\n\nThe breeze is blowing and gently moving along,\n\nThe crickets chirp and the birds join in song.",
+  "output": "The trees in my yard sing joyously,\nThe breeze brings music in its long travel,\nCrickets and birds complete the serenade.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

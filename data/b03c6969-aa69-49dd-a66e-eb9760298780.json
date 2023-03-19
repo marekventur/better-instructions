@@ -1,0 +1,12 @@
+{
+  "id": "b03c6969-aa69-49dd-a66e-eb9760298780",
+  "instruction": "I have a problem with my computer, what should I do?",
+  "input": "",
+  "output": "If you are having an issue with your computer, here are a few steps that you can take to troubleshoot the problem:\n1. Restart your computer and see if the problem resolves. \n2. Check for any software updates or security updates. \n3. Check to make sure all cables and ports are securely connected. \n4. Check online for any known compatibility issues. \n5. Run a virus scan to ensure that the system is not infected.\n6. If the problem persists, contact an experienced technician or the manufacturer of your computer for assistance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

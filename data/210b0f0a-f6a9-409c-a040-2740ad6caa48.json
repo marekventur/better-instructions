@@ -1,0 +1,12 @@
+{
+  "id": "210b0f0a-f6a9-409c-a040-2740ad6caa48",
+  "instruction": "Questions about a Job description",
+  "input": "A job description for a Software Engineer",
+  "output": "What responsibilities would the Software Engineer have? \nWhat qualifications and experience are required? \nWhat technologies should the Software Engineer be familiar with? \nWhat career path should the Software Engineer be expected to follow? \nIs there room for growth?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

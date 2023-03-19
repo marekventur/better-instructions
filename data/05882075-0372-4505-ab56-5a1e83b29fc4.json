@@ -1,0 +1,12 @@
+{
+  "id": "05882075-0372-4505-ab56-5a1e83b29fc4",
+  "instruction": "Create an algorithm to find the greatest common divisor for two positive integers.",
+  "input": "",
+  "output": "\"\"\"\nCreate an algorithm to find the greatest common divisor for two positive integers.\n\"\"\"\n\ndef gcd(a, b): \n    # Base case \n    if a == 0: \n        return b \n          \n    return gcd(b%a, a) \n\n\n# Driver program to test above function \na, b = 20, 8\ngcd(a, b) # prints 4",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

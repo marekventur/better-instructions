@@ -1,0 +1,12 @@
+{
+  "id": "ceeb147e-538f-43c3-8905-53bc6adc78db",
+  "instruction": "Add two adjectives before the noun in the sentence",
+  "input": "The speaker gave a talk",
+  "output": "The speaker gave a powerful and captivating talk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

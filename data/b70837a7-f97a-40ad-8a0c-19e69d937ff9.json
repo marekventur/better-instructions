@@ -1,0 +1,12 @@
+{
+  "id": "b70837a7-f97a-40ad-8a0c-19e69d937ff9",
+  "instruction": "Given an article about politics, identify the main points and generate a corresponding infographic.",
+  "input": "The article is about a new bill that has been introduced in Congress which proposes some major reforms in the healthcare system.",
+  "output": "Infographic: \n\nMajor Reforms for the Healthcare System \n\n\u2022 Introduction of a new bill in Congress \n\u2022 Affordable healthcare plans \n\u2022 Focus on preventive care \n\u2022 Investment in community health centers \n\u2022 Mandates on health insurance \n\u2022 Expansion of Medicaid and coverage \n\u2022 Increased funding for VA hospitals",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

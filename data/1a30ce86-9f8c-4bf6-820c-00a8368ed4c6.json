@@ -1,0 +1,12 @@
+{
+  "id": "1a30ce86-9f8c-4bf6-820c-00a8368ed4c6",
+  "instruction": "Summarize the basic approach of given novel.",
+  "input": "Novel: Heart of Darkness",
+  "output": "Heart of Darkness is a novel by Joseph Conrad that follows protagonist Charles Marlow's journey into the Congo. Along the way, Marlow is exposed to the darkness inherent in the human soul, depicted in the cruel and callous way in which the Europeans treat the native Africans. Through Marlow's tale, Conrad conveys a powerful critique of colonialism and the darker side of human nature.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "209aa779-ab4b-4f5a-9ec8-0af811c12a67",
+  "instruction": "Given a list of events in chronological order, arrange them correctly",
+  "input": "Catered lunch, Company presentation, Address from CEO",
+  "output": "Company presentation, Address from CEO, Catered lunch",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

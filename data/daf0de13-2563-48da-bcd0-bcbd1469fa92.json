@@ -1,0 +1,12 @@
+{
+  "id": "daf0de13-2563-48da-bcd0-bcbd1469fa92",
+  "instruction": "Categorize the given items into the provided group.",
+  "input": "Apple, Orange, Lemon\nGroup: Fruits",
+  "output": "Apple, Orange, and Lemon are all fruits.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

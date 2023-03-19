@@ -1,0 +1,12 @@
+{
+  "id": "951ac0d0-76a6-4db7-8647-46e5cb2e35a5",
+  "instruction": "Sort these items into categories.\n\nBooks, Pen, Pencil, Calculator, Chair",
+  "input": "",
+  "output": "Books: Books \nWriting Utensils: Pen, Pencil \nStationery: Calculator \nFurniture: Chair",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

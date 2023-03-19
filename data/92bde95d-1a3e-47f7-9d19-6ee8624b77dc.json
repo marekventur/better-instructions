@@ -1,0 +1,12 @@
+{
+  "id": "92bde95d-1a3e-47f7-9d19-6ee8624b77dc",
+  "instruction": "Take the same topic but change the tone of the text.",
+  "input": "Topic: The state of emergency",
+  "output": "The state of emergency has been declared, and it's an exciting time of change.  It brings a whole new set of challenges and opportunities, and with the right attitude, we can make this a positive moment in history.  Let's rise up and make the best of this situation!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

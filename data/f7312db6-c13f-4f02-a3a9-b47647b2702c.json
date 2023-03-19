@@ -1,0 +1,12 @@
+{
+  "id": "f7312db6-c13f-4f02-a3a9-b47647b2702c",
+  "instruction": "Pick one action from each of the following categories, and combine the actions into one sentence.",
+  "input": "Categories: Sports, Occupations, Cooking",
+  "output": "The coach baked a cake while refereeing a game of basketball.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

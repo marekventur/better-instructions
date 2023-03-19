@@ -1,0 +1,12 @@
+{
+  "id": "7ae40e04-9b72-4ca3-b0f8-94af9eff07f5",
+  "instruction": "You received two pieces of feedback from your supervisor. Combine the two pieces of feedback into one sentence.",
+  "input": "Your work is organized but you need to be more meticulous.",
+  "output": "Your work is organized, but it needs to be more meticulous in order to meet the expected standards.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

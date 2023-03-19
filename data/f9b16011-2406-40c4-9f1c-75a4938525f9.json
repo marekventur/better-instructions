@@ -1,0 +1,12 @@
+{
+  "id": "f9b16011-2406-40c4-9f1c-75a4938525f9",
+  "instruction": "Generate a story synopsis for the given starting sentence.",
+  "input": "He wakes up to find himself in a strange place.",
+  "output": "He wakes up to find himself in a strange place, surrounded by unfamiliar faces. With no memory of how he arrived, he begins to explore the strange world that he has been transported to. Along the way, he meets new people and discovers an unexpected connection between himself and this world. With the help of his new allies and a newfound understanding of his own past, he sets out on a journey to find the answers he so desperately seeks. Can he uncover the secrets behind his mysterious arrival and finally return home?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

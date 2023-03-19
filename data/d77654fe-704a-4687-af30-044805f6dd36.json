@@ -1,0 +1,12 @@
+{
+  "id": "d77654fe-704a-4687-af30-044805f6dd36",
+  "instruction": "Analyze the philanthropic practice of the following company and list its four main goals.",
+  "input": "Facebook",
+  "output": "The four main philanthropic goals of Facebook are: \n1. Educating and connecting individuals and communities in underserved regions. \n2. Developing projects that promote economic inclusion and local economic development.\n3. Investing in training and technology to promote digital literacy and increase entrepreneurialism.\n4. Supporting research, technology and initiatives to reduce human vulnerability.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

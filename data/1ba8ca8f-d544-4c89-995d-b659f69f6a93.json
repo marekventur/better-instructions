@@ -1,0 +1,12 @@
+{
+  "id": "1ba8ca8f-d544-4c89-995d-b659f69f6a93",
+  "instruction": "Explain the significance of the provided historical event.",
+  "input": "Magna Carta",
+  "output": "The Magna Carta was a charter of rights agreed to by King John of England in 1215. The document limited the powers of the monarchy and served as important precedent for the rule of law. It established unprecedented rights of the individual, such as the right to a fair trial and freedom from arbitrary imprisonment. The Magna Carta is widely considered the inspiration for the US Constitution and other important documents throughout history.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

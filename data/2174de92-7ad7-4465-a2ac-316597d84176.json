@@ -1,0 +1,12 @@
+{
+  "id": "2174de92-7ad7-4465-a2ac-316597d84176",
+  "instruction": "Create a PHP script to detect whether a string contains a number.",
+  "input": "",
+  "output": "<?php\nfunction containsNumber($string) {\n    if (preg_match('/\\\\d/', $string)) {\n        return true;\n    }\n    return false;\n}\n?>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

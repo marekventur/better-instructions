@@ -1,0 +1,12 @@
+{
+  "id": "e566858b-60e3-447c-8ae5-31996a323834",
+  "instruction": "Given a marketing piece, rewrite it in a more conversational style.",
+  "input": "Acme Corp offers a range of high-quality products designed to meet all your needs.",
+  "output": "At Acme Corp, we understand that your needs are unique, so we've designed our products to be of the highest quality and meet all of your needs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f30770e3-5e5b-4354-b3ca-fec42bbe7d97",
+  "instruction": "Create a new sentence from the words given through a process of semantic extension.",
+  "input": "Spice, flavor",
+  "output": "The spices added flavor to the dish.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

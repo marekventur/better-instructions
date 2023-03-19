@@ -1,0 +1,12 @@
+{
+  "id": "377c774f-e2d2-47d6-8117-bc4226bca4f2",
+  "instruction": "Transform the following sentence into a yes/no question.",
+  "input": "It is going to rain tomorrow.",
+  "output": "Is it going to rain tomorrow?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

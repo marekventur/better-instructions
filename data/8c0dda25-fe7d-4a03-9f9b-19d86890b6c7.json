@@ -1,0 +1,12 @@
+{
+  "id": "8c0dda25-fe7d-4a03-9f9b-19d86890b6c7",
+  "instruction": "Create a list of ten must-visit locations near the given place.",
+  "input": "New York City",
+  "output": "1. Brooklyn Bridge\n2. Central Park\n3. Empire State Building\n4. Rockefeller Center\n5. Statue of Liberty\n6. High Line\n7. Metropolitan Museum of Art\n8. One World Trade Center\n9. 9/11 Memorial and Museum\n10. Coney Island",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

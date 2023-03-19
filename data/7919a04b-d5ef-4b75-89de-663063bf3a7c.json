@@ -1,0 +1,12 @@
+{
+  "id": "7919a04b-d5ef-4b75-89de-663063bf3a7c",
+  "instruction": "Edit a photograph to apply the given filter.",
+  "input": "An image of a city skyline with a sepia filter.",
+  "output": "The edited image can include the given sepia filter, making the image more warm and vintage-looking. The effect can be further enhanced through adjustments to color saturation, brightness, and contrast. Other edits such as adding a blur effect or vignetting can also be applied to achieve the desired sepia tone.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

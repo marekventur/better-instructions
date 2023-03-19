@@ -1,0 +1,12 @@
+{
+  "id": "3c41da04-3282-406e-918f-e1ccc6c03621",
+  "instruction": "Take these 3 statements and find the one which is not true",
+  "input": "- Dogs can bark\n- Cats can meow \n- Rabbits can bark",
+  "output": "Rabbits can bark is not true.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

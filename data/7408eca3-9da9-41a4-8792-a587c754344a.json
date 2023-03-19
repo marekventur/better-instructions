@@ -1,0 +1,12 @@
+{
+  "id": "7408eca3-9da9-41a4-8792-a587c754344a",
+  "instruction": "Traverse the following list with a for loop and print each item in the list.",
+  "input": "list = [ \"apple\", \"banana\", \"orange\" ]",
+  "output": "for item in list:\n    print(item)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

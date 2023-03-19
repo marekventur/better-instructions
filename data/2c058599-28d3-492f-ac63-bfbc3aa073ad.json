@@ -1,0 +1,12 @@
+{
+  "id": "2c058599-28d3-492f-ac63-bfbc3aa073ad",
+  "instruction": "Generate questions that will help you determine the person's interests",
+  "input": "",
+  "output": "- What activities do you like to do in your spare time?\n- What hobbies have you recently taken up?\n- What topics do you like to read and research?\n- What cultures or lifestyles interest you the most?\n- What kind of people do you like to socialize with?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

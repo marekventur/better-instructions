@@ -1,0 +1,12 @@
+{
+  "id": "0aaf83bc-f60d-44aa-add1-8629402f8702",
+  "instruction": "Compare and contrast Java and JavaScript",
+  "input": "",
+  "output": "Java and JavaScript are both programming languages, but they are different in several ways. Java is a compiled language, which means it is converted into bytecode and needs to be executed on a Java Virtual Machine, while JavaScript is an interpreted language which is run directly in the browser. Java is strongly typed, meaning that variables must be declared before they can be used, while JavaScript is not strongly typed and is more flexible. Java is mostly used for applications such as web and mobile development, while JavaScript is mainly used for client-side scripting on webpages.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

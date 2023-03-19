@@ -1,0 +1,12 @@
+{
+  "id": "5d24e973-8656-4353-b103-38f11b01c92d",
+  "instruction": "Write a comparison sentence which compares two items in the following list",
+  "input": "Apple, Orange",
+  "output": "An apple is round and juicy, while an orange is spherically shaped and has a coarser texture.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

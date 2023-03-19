@@ -1,0 +1,12 @@
+{
+  "id": "6331094f-ae5b-4865-99d2-a1a2cb901aff",
+  "instruction": "Given a sentence, edit it so that the state of the sentence changes to something contrary to what was expressed in the original sentence.",
+  "input": "She was very happy.",
+  "output": "She was very unhappy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

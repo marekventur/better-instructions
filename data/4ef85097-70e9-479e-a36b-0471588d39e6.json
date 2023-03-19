@@ -1,0 +1,12 @@
+{
+  "id": "4ef85097-70e9-479e-a36b-0471588d39e6",
+  "instruction": "In your own words, explain the difference between absolute and relative references in Excel.",
+  "input": "",
+  "output": "Absolute references in Excel refer to a specific cell or range of cells, and they stay the same regardless of where they are copied or moved. Relative references, on the other hand, are references to cells or ranges that will change based on where they are copied or moved. For example, if a relative reference is created to cell A2, and then moved to cell C3, the reference will now be to cell C2. Relative references are useful when you want a formula or value to track changes in the worksheet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

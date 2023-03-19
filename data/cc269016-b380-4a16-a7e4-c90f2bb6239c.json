@@ -1,0 +1,12 @@
+{
+  "id": "cc269016-b380-4a16-a7e4-c90f2bb6239c",
+  "instruction": "Given the input, identify a piece of pop culture media related to the topic.",
+  "input": "Animals",
+  "output": "The Lion King (1994)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

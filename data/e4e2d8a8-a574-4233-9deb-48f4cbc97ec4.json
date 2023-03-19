@@ -1,0 +1,12 @@
+{
+  "id": "e4e2d8a8-a574-4233-9deb-48f4cbc97ec4",
+  "instruction": "Create an input to the following command",
+  "input": "Please create a file",
+  "output": "\"Create a new file named \"example.txt\" in the root directory\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

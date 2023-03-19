@@ -1,0 +1,12 @@
+{
+  "id": "b9edf0a9-cd7b-4f4e-ba80-6ac9fe65b848",
+  "instruction": "Separate the list of names into two categories",
+  "input": "Anna, Joe, Hector, Beth",
+  "output": "Group 1: Anna, Hector\nGroup 2: Joe, Beth",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

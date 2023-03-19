@@ -1,0 +1,12 @@
+{
+  "id": "56e1bf14-1eb0-4689-9418-083b03fb6a59",
+  "instruction": "Explain why this phrase is ironic",
+  "input": "\"He showed great restraint in his decision\"",
+  "output": "This phrase is ironic because it suggests that the person was expected not to show restraint in their decision but unexpectedly chose to do so. It implies that the person was expected to be more impulsive but instead chose to think deeply and act cautiously. The use of the word \u201crestraint\u201d implies the person chose a less risky path which is the opposite of what they were expected to do.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

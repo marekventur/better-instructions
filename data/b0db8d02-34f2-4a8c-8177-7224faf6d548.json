@@ -1,0 +1,12 @@
+{
+  "id": "b0db8d02-34f2-4a8c-8177-7224faf6d548",
+  "instruction": "Design a game that follows the rules of chess but entertains a wider range of players than the traditional game.",
+  "input": "",
+  "output": "Chess Royale is a game based on the traditional rules of chess, but with simple modifications that make it accessible to a wider range of players. The board has fewer squares than the usual 8x8 board and pieces move one space per turn instead of two. The game ends when one of two conditions are met: either all the pieces of one color are eliminated or one of the two kings is captured. \n\nChess Royale adds a social element to the game by allowing players to join forces or form alliances to protect their respective kings and outlast their opponents. The game is fun to play with friends or family and is a great way to learn the basics of traditional chess and get comfortable with strategic thinking.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

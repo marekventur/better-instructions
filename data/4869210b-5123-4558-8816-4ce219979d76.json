@@ -1,0 +1,12 @@
+{
+  "id": "4869210b-5123-4558-8816-4ce219979d76",
+  "instruction": "Formulate a hypothesis for a given experiment.",
+  "input": "Investigate the effect of fertilizer on the growth of plants",
+  "output": "The hypothesis for this experiment is that plants given fertilizer will have a higher rate of growth than plants that are not given fertilizer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

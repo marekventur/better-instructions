@@ -1,0 +1,12 @@
+{
+  "id": "4b0292b8-ae04-46be-aae2-44b2ad4119b1",
+  "instruction": "You are provided with the following sentence, Change the sentence to use a more specific and precise verb. Output the edited sentence.",
+  "input": "She started to run",
+  "output": "She sprinted away.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

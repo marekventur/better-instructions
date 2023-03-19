@@ -1,0 +1,12 @@
+{
+  "id": "e92d8714-5cc8-4dcd-87bd-1c55e865f222",
+  "instruction": "Categorize the following sentence according to the type of figure of speech used.",
+  "input": "She smiled with great delight.",
+  "output": "Personification",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

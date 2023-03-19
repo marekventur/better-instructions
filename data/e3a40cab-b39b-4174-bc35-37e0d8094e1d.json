@@ -1,0 +1,12 @@
+{
+  "id": "e3a40cab-b39b-4174-bc35-37e0d8094e1d",
+  "instruction": "Given an adjective, write a sentence that expresses it clearly.",
+  "input": "Angry",
+  "output": "He slammed the door shut, his face and words radiating rage.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

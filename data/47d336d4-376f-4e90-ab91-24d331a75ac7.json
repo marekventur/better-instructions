@@ -1,0 +1,12 @@
+{
+  "id": "47d336d4-376f-4e90-ab91-24d331a75ac7",
+  "instruction": "Compile a list of famous scientists and their contributions.",
+  "input": "",
+  "output": "- Albert Einstein: Theory of relativity\n- Marie Curie: Radioactivity \n- Isaac Newton: Laws of motion, universal gravitation \n- Charles Darwin: Theory of evolution \n- Galileo Galilei: Telescopic astronomy, kinematics \n- Stephen Hawking: Black hole theory, space-time singularity \n- Alan Turing: Turing machine, computer programming \n- Linus Pauling: Chemical bonds, molecular structure",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

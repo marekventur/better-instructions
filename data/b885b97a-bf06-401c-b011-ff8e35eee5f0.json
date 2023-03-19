@@ -1,0 +1,12 @@
+{
+  "id": "b885b97a-bf06-401c-b011-ff8e35eee5f0",
+  "instruction": "Edit the sentence to make it grammatically correct, and give me the revised sentence.",
+  "input": "This movie was really really really really really really good",
+  "output": "This movie was really impressive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

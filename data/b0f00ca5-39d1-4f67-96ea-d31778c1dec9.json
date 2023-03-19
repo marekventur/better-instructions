@@ -1,0 +1,12 @@
+{
+  "id": "b0f00ca5-39d1-4f67-96ea-d31778c1dec9",
+  "instruction": "Classify the emotional tone of the following excerpt.",
+  "input": "The mother hugged her child with so much love, she knew this was the last time she'd ever hold him in her arms.",
+  "output": "The emotional tone of the excerpt is sad.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

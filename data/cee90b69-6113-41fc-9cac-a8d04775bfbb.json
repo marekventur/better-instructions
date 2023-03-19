@@ -1,0 +1,12 @@
+{
+  "id": "cee90b69-6113-41fc-9cac-a8d04775bfbb",
+  "instruction": "Produce a list of 10 idioms relating to the given topic.",
+  "input": "Grief",
+  "output": "1. Hit Below the Belt\n2. Feel the Weight of the World on your Shoulders\n3. Carry a Heavy Heart\n4. Weep Bitter Tears\n5. Reach the End of Your Rope\n6. All Fun and Games Until\n7. Drive Yourself to Distraction\n8. Been Through the Mill\n9. Emotional Rollercoaster\n10. Hit Rock Bottom",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

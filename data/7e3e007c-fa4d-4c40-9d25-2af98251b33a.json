@@ -1,0 +1,12 @@
+{
+  "id": "7e3e007c-fa4d-4c40-9d25-2af98251b33a",
+  "instruction": "Create a dialogue between two characters based on the following story.",
+  "input": "In the story, Anna and Jack are siblings who live in a magical forest full of talking animals.",
+  "output": "Anna: Jack, did you hear that? It sounded like a talking fox!\nJack: I did hear something! Let\u2019s follow the sound and check it out! \nAnna: Alright! Let\u2019s go!\n\nThey walk further into the forest and see a fox.\n\nFox: Greetings, young travelers! What brings you to my forest? \nAnna: We heard your voice and were curious. We\u2019ve never seen a talking animal before!\nJack: We just wanted to explore and make new friends.\nFox: Well, I\u2019m glad you decided to come by. Welcome to my magical forest!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

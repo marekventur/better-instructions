@@ -1,0 +1,12 @@
+{
+  "id": "ddfdc126-79d4-4024-a930-a4736e67d94a",
+  "instruction": "Suggest 3 variations of a given recipe.",
+  "input": "Apple Pie",
+  "output": "Three variations of a traditional apple pie recipe are:\n- Apple Crumble Pie - layer sliced apples and cinnamon sugar in a baking dish and top with a crumble topping of flour, butter and sugar. \n- Apple Streusel Pie - layer sliced apples with cinnamon sugar, then top with a streusel topping of butter, flour, cinnamon and sugar. \n- Apple Caramel Pie \u2013 layer sliced apples with caramel sauce and sprinkle with crumble topping.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

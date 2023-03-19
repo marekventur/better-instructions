@@ -1,0 +1,12 @@
+{
+  "id": "26157026-3ead-4e0d-8136-a6d075fb22ec",
+  "instruction": "Rearrange list items to be in alphabetical order.",
+  "input": "Ocelot, Tasmanian Devil, Galapagos Tortoise",
+  "output": "Galapagos Tortoise, Ocelot, Tasmanian Devil",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

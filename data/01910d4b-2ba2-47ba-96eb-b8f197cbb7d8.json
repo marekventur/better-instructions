@@ -1,0 +1,12 @@
+{
+  "id": "01910d4b-2ba2-47ba-96eb-b8f197cbb7d8",
+  "instruction": "Summarize a news article about the current state of the economy.",
+  "input": "https://www.marketwatch.com/story/americans-are-saving-more-in-may-than-at-any-time-in-decades-despite-record-unemployment-2020-06-03",
+  "output": "Recent data shows that despite record unemployment in the US, Americans are saving more money than ever. Personal savings rate hit 33%, the highest rate since the financial crisis in 2008, indicating that people are cautiously putting their money away for the future. Consumer spending is also declining, though at a slower rate than expected. As the unemployment rate reaches its highest levels of the last 50 years, it appears that households are preparing for an uncertain financial future.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

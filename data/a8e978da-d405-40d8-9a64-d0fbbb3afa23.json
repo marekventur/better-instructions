@@ -1,0 +1,12 @@
+{
+  "id": "a8e978da-d405-40d8-9a64-d0fbbb3afa23",
+  "instruction": "What is the best way to store data in a mobile app?",
+  "input": "",
+  "output": "The best way to store data in a mobile app is to use cloud-based databases, such as Firebase or Amazon S3. These services are easy to integrate with mobile apps, and offer secure and reliable data storage. Other options include using SQLite local databases or data files in the app's sandbox.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

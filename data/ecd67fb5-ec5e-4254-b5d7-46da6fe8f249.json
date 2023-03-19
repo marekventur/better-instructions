@@ -1,0 +1,12 @@
+{
+  "id": "ecd67fb5-ec5e-4254-b5d7-46da6fe8f249",
+  "instruction": "Convert the following string into camelCase format.",
+  "input": "\"The quick brown fox jumps over the lazy dog\"",
+  "output": "theQuickBrownFoxJumpsOverTheLazyDog",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

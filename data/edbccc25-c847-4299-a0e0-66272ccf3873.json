@@ -1,0 +1,12 @@
+{
+  "id": "edbccc25-c847-4299-a0e0-66272ccf3873",
+  "instruction": "Identify the genre of this movie.",
+  "input": "The Matrix",
+  "output": "Science fiction",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

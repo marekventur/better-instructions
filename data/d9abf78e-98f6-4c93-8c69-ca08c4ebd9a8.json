@@ -1,0 +1,12 @@
+{
+  "id": "d9abf78e-98f6-4c93-8c69-ca08c4ebd9a8",
+  "instruction": "What is the difference between first-order and higher-order functions?",
+  "input": "",
+  "output": "A first-order function is a function that accepts only one argument and returns only one value. A higher-order function is a function that accepts one or more functions as arguments, or returns a function as a result. Higher order functions can be used to achieve more complex operations, such as manipulating the elements of a list or dictionary, or creating custom functions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

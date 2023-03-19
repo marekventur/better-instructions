@@ -1,0 +1,12 @@
+{
+  "id": "c09c8743-b204-407c-ba80-1379813ccb47",
+  "instruction": "Given a dialogue, identify the sentiment as positive or negative. Output \"positive\" or \"negative\".",
+  "input": "Person A: That was the worst experience ever.\nPerson B: I'm so sorry to hear that.",
+  "output": "negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

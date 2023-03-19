@@ -1,0 +1,12 @@
+{
+  "id": "c50e3a02-6954-4e96-959f-8bc4f8b7a970",
+  "instruction": "Generate a sentence to give a rating to this product.",
+  "input": "Motorola Razrphone",
+  "output": "This Motorola Razrphone is top of the line and is an excellent choice for those wanting a reliable, stylish phone.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

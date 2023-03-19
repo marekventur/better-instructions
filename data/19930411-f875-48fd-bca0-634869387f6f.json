@@ -1,0 +1,12 @@
+{
+  "id": "19930411-f875-48fd-bca0-634869387f6f",
+  "instruction": "Create a python function to reverse a given string.",
+  "input": "",
+  "output": "def reverse_string(s): \n    return s[::-1]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

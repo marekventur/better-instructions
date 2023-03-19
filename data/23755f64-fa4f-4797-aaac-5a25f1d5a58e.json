@@ -1,0 +1,12 @@
+{
+  "id": "23755f64-fa4f-4797-aaac-5a25f1d5a58e",
+  "instruction": "Classify the following sentence as either positive or negative.\n\nShe's a bad influence.",
+  "input": "She's a bad influence.",
+  "output": "Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

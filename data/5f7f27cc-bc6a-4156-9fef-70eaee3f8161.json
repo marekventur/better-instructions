@@ -1,0 +1,12 @@
+{
+  "id": "5f7f27cc-bc6a-4156-9fef-70eaee3f8161",
+  "instruction": "Select one word from the phrase and generate a complex sentence.",
+  "input": "\"She always studied hard\"",
+  "output": "No matter how difficult the material was, she always studied hard in order to excel in her exams.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

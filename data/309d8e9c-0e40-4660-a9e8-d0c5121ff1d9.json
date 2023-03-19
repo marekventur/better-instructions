@@ -1,0 +1,12 @@
+{
+  "id": "309d8e9c-0e40-4660-a9e8-d0c5121ff1d9",
+  "instruction": "Classify the given article as either politics, sports, or science.",
+  "input": "Humans have discovered evidence of liquid water on Mars.",
+  "output": "Science",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d9cbb5e2-a262-458d-b919-7c2b3c3f3ecc",
+  "instruction": "Explain the importance of the given fundamental theorem.",
+  "input": "Fundamental Theorem of Calculus",
+  "output": "The Fundamental Theorem of Calculus states that integration and differentiation of a function are inverse processes. This theorem is important because it relates the two most common operations in calculus and provides a powerful tool to find the values of indefinite integrals that may be difficult to compute otherwise. Moreover, the theorem enables the calculation of area below a curve which is a crucial concept in mathematics, physics, and economics.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "43fe0dc6-9cbd-4ab9-a3a8-3265af50e503",
+  "instruction": "Create a dialogue for two friends discussing their recent trip.",
+  "input": "",
+  "output": "Friend 1: How was your trip? \nFriend 2: It was really great! I got to go to the beach, try some new restaurants, and meet a lot of locals. \nFriend 1: That sounds fantastic! What was your favorite part of the trip?\nFriend 2: That's a hard question! I loved the food, but I also had a great time exploring the city. \nFriend 1: Sounds like it was a successful vacation! \nFriend 2: Definitely!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

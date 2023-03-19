@@ -1,0 +1,12 @@
+{
+  "id": "f39ebd9f-b125-4619-9be6-1aced4b9eca2",
+  "instruction": "Generate a plausible outcome of a given scenario.",
+  "input": "What will happen if a person has a heart attack?",
+  "output": "Without intervention, the person could experience serious complications such as cardiac arrest, stroke, or even death. If medical help is sought in a timely manner, however, the person has a chance of surviving a heart attack with proper medical treatment and lifestyle changes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

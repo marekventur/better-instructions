@@ -1,0 +1,12 @@
+{
+  "id": "a91ac7e1-7fbb-4223-b944-cccbd820b84a",
+  "instruction": "Construct a sentence by using the given words and grammar rules.",
+  "input": "Words: school, are, student\nGrammar: Subject-Verb-Object",
+  "output": "Students are at school.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e66b1fc7-1195-47aa-a140-88007245f6dc",
+  "instruction": "Based on the following data points, identify which type of machine learning algorithm is being used.",
+  "input": "The data consists of temperature readings from one hundred different air conditioners over an eight-month period.",
+  "output": "The machine learning algorithm being used is a regression algorithm. Regression algorithms are used to predict continuous outcomes such as temperature readings. The data points are used to create a predictive model which can accurately predict the readings of a single air conditioner given its data points.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d2f82347-4f0a-458e-9b6d-9ac7c3e921b6",
+  "instruction": "Generate a system design of an AI-guided assistant.",
+  "input": "",
+  "output": "The AI-guided assistant system consists of three main components: a Natural Language Processing (NLP) module, a Neural Network (NN) module, and an AI-controlled agent. The NLP module is responsible for converting raw text input into actionable data. It does this by analyzing user input for entities and extracting their associated intents. The Neural Network module is responsible for learning user behavior and preferences. It does this by analyzing user input, training on models, and making predictions based on past behavior. Finally, the AI-controlled agent is responsible for executing tasks that the user requests. It interfaces with the other two modules, taking in user input and acting on it. The system also includes an audiovisual interface, allowing users to communicate with the system through audio and visual cues. The resulting system is capable of performing tasks based on a user's requests and will improve over time as it learns user behavior and preferences.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

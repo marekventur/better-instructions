@@ -1,0 +1,12 @@
+{
+  "id": "544f928b-20a5-4cd4-9b39-f4f42b473ae5",
+  "instruction": "Create a timeline that shows the key events of the given history.",
+  "input": "The history of women's rights in the United States",
+  "output": "Timeline of key events in the history of women's rights in the United States:\n\n\u20221792: Mary Wollstonecraft publishes \u201cA Vindication of the Rights of Women\u201d\n\n\u20221848: The first Women's Rights Convention is held in Seneca Falls \n\n\u20221920: The nineteenth amendment is ratified, granting women the right to vote\n\n\u20221972: The Equal Rights Amendment is passed \n\n\u20221981: The Supreme Court ruled that sexual harassment in the workplace is illegal\n\n\u20221993: The Family and Medical Leave Act is passed \n\n\u20222009: The Lilly Ledbetter Fair Pay Act is passed",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

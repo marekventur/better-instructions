@@ -1,0 +1,12 @@
+{
+  "id": "17436a0d-0288-41f3-8bff-276d1522f326",
+  "instruction": "Rearrange the sentences into proper logical order.",
+  "input": "John's father died. John was sad. But, he kept living.",
+  "output": "John's father died and John was sad, but he kept living.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

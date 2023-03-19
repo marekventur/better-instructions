@@ -1,0 +1,12 @@
+{
+  "id": "c7749b68-be4b-4718-9c38-168f765e7d99",
+  "instruction": "Describe the mathematics behind the concept of integral calculus.",
+  "input": "",
+  "output": "Integral calculus is built on the concept of finding the area under or between curves on a graph. It provides a way to calculate the total sum of all infinitesimally small sections of a curve. This is accomplished by breaking up a given interval into smaller sub-intervals and adding up the areas of all the sub-intervals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

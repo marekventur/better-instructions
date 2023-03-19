@@ -1,0 +1,12 @@
+{
+  "id": "636e467f-8805-4f07-859d-5f638335d654",
+  "instruction": "Answer a given psychology-related question",
+  "input": "What factors influence the development of personality?",
+  "output": "Personality development is influenced by a variety of factors, including inherited traits, life experiences, and the environment. Inherited traits include genetic factors as well as the influence of parents, siblings, and peers. Life experiences such as family, school, work, and relationships can shape a person's personality. Finally, the environment can influence development through cultural norms and values, socio-economic status, and access to education and resources.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

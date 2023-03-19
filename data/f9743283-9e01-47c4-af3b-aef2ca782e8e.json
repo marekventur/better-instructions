@@ -1,0 +1,12 @@
+{
+  "id": "f9743283-9e01-47c4-af3b-aef2ca782e8e",
+  "instruction": "Write pseudocode for a program to calculate the average of a list of numbers.",
+  "input": "",
+  "output": "// Function to calculate average of numbers in a list\n\nFUNCTION avg(list)\n\n  total = 0\n  // Iterate over all the elements in the list\n  FOR i = 0 to list.length-1\n     total += list[i] // add each item in the list to total\n  END FOR\n\n  RETURN total/list.length // return average\n\nEND FUNCTION",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

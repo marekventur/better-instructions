@@ -1,0 +1,12 @@
+{
+  "id": "ebd5e924-f06f-4247-9563-25e815fb336f",
+  "instruction": "Orchestrate the following melody",
+  "input": "(C4 E4 F4 G4 A4 B4)",
+  "output": "C4: [Piano] C4 - E4 - C4 - F4 - G4 - A4 - B4 - G4 [Soft Strumming].",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

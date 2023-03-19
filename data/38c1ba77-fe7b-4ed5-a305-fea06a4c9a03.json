@@ -1,0 +1,12 @@
+{
+  "id": "38c1ba77-fe7b-4ed5-a305-fea06a4c9a03",
+  "instruction": "Generate an example of an algorithm for sorting a list of integers from smallest to largest.",
+  "input": "",
+  "output": "One example of an algorithm for sorting a list of integers from smallest to largest is the Bubble Sort algorithm. The Bubble Sort algorithm steps through the list one item at a time and compares each item with its predecessor. If the two items are not in sorted order, then we swap them. The process continues until all of the items in the list have been compared. At the end, the list will be in sorted order from smallest to largest.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

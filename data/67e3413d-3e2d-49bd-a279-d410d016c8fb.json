@@ -1,0 +1,12 @@
+{
+  "id": "67e3413d-3e2d-49bd-a279-d410d016c8fb",
+  "instruction": "Generate a Haiku poem relevant to the input sentence.",
+  "input": "Autumn has come early this year.",
+  "output": "Leaves turning early,\nThe beauty of the autumn sky;\nLife's short moments pass.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

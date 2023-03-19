@@ -1,0 +1,12 @@
+{
+  "id": "ec0e2e3d-af56-48e9-a38f-c10c1bb0843d",
+  "instruction": "Enter two numbers to calculate the percentage.",
+  "input": "Number 1: 20\nNumber 2: 70",
+  "output": "The percentage of 20 relative to 70 is 28.57%.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

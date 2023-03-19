@@ -1,0 +1,12 @@
+{
+  "id": "1a8a2990-8a6d-443e-98ed-8c133ae3a5c9",
+  "instruction": "Generate a list of ideas for a birthday gift for a person in the given age range.",
+  "input": "Adult aged 20-30",
+  "output": "1. Gift card to their favorite store \n2. Subscription to a streaming or fitness membership\n3. Self-care package with bath and body items \n4. New tech gadget, like a laptop or tablet \n5. Home decor items to spruce up their living space \n6. Charitable donation on their behalf\n7. Cooking tools and cookbooks for aspiring chefs \n8. A board game or gaming console\n9. Tickets to a live concert or show\n10. Subscription to a food delivery service",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "aa802430-4817-47ec-a4f7-a82452b6c5ed",
+  "instruction": "Choose two words from the following list that are antonyms:",
+  "input": "happy, slow, big, luxurious",
+  "output": "Sad, fast.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

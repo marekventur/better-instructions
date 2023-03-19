@@ -1,0 +1,12 @@
+{
+  "id": "df33aefb-0106-476c-8bef-31541e0d3fc6",
+  "instruction": "Create ten multiple-choice questions about the topic of history.",
+  "input": "",
+  "output": "Q1: Who was the first president of the United States?\nA. Thomas Jefferson\nB. Benjamin Franklin\nC. George Washington \nD. John Adams\n\nQ2: When did the Great Fire of London occur?\nA. 1666\nB. 1776\nC. 1693\nD. 1865\n\nQ3: During what century did the first world war occur?\nA. 19th century\nB. 20th century\nC. 18th century\nD. 17th century\n\nQ4: What year did the United States gain independence?\nA. 1776\nB. 1565\nC. 1620\nD. 1789\n\nQ5: Which of the following ancient civilizations was first to create a complex writing system?\nA. Egyptians\nB. Chinese\nC. Romans\nD. Sumerians\n\nQ6: What countries were involved in the Seven Years' War?\nA. France, Great Britain, Portugal, Austria \nB. Germany, the United States, China, Japan\nC. France, Great Britain, Prussia, Austria \nD. France, Great Britain, Russia, Austria\n\nQ7: What year did the Battle of Hastings take place?\nA. 1066\nB. 1450\nC. 1215\nD. 1620\n\nQ8: Who was the Holy Roman Emperor during the Renaissance?\nA. Maximilian I \nB. Henry VIII\nC. Napoleon Bonaparte\nD. Julius Caesar\n\nQ9: Who developed calculus in the late 17th century?\nA. Isaac Newton \nB. Albert Einstein\nC. Leonardo Da Vinci \nD. Thomas Edison\n\nQ10: Rome was founded by which of the following?\nA. Etruscans\nB. Greeks\nC. Latins\nD. Celts",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

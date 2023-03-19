@@ -1,0 +1,12 @@
+{
+  "id": "d43126e3-35b7-45d2-bbf4-3bbe1f7f8275",
+  "instruction": "Generate a list of four questions to ask the author.",
+  "input": "Author: Oscar Wilde",
+  "output": "- What inspired you to write your works?\n- What did you enjoy most about being a writer? \n- How has your writing evolved over the course of your life?\n- What message do you believe your works convey?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

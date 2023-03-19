@@ -1,0 +1,12 @@
+{
+  "id": "2368687d-9bea-4e38-ab2a-e3652c1cbc5b",
+  "instruction": "Rewrite the following sentence with better grammar and without using the word \"very\".\n\nMy favorite food is very yummy.",
+  "input": "My favorite food is very yummy.",
+  "output": "My favorite food is delicious.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

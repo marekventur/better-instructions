@@ -1,0 +1,12 @@
+{
+  "id": "3ae42396-9764-4b8b-bcf9-20d4f14f4f53",
+  "instruction": "Classify the following movies by genre.",
+  "input": "The Godfather, Forrest Gump",
+  "output": "The Godfather is a drama movie, and Forrest Gump is a comedy-drama movie.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

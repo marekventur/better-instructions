@@ -1,0 +1,12 @@
+{
+  "id": "9196e03f-1cd5-4a03-a2f6-862d7b401f61",
+  "instruction": "Point out the mistakes in the following sentence and provide the corrections.",
+  "input": "She went to the store to buy food but had forgot her wallet.",
+  "output": "She went to the store to buy food but had forgotten her wallet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

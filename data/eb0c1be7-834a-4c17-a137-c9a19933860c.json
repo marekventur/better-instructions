@@ -1,0 +1,12 @@
+{
+  "id": "eb0c1be7-834a-4c17-a137-c9a19933860c",
+  "instruction": "Summarize the flow and ideas of the following paragraph.",
+  "input": "Cats have long been celebrated for their independence and mysterious nature. They possess a unique grace and an uncanny cunning in the wild, which makes them desirable pets. Despite their somewhat aloof attitude towards humans, they are generally incredibly loving and affectionate to the people they choose to bond with.",
+  "output": "Cats have been admired for their independent yet mysterious nature, as well as their grace and cunning in their wild environment. Despite their reserved attitude, cats are very loving and affectionate towards the humans they bond with.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

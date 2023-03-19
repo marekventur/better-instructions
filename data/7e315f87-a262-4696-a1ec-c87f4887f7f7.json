@@ -1,0 +1,12 @@
+{
+  "id": "7e315f87-a262-4696-a1ec-c87f4887f7f7",
+  "instruction": "Edit the sentences in a way that it conveys the right meaning.",
+  "input": "They always meet without fail every day.",
+  "output": "They invariably meet every day without fail.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b79d235d-f1d8-4f17-a54f-027ae6a88806",
+  "instruction": "Construct a resume for a software engineer.",
+  "input": "Name: Joe Smith\nEducation: Bachelor's degree in computer science\nExperience: 2 years of experience in software engineering",
+  "output": "Joe Smith \n\nEducation \nBachelor's degree in Computer Science, graduated May 2020 \n\nExperience \nSoftware Engineer, Company XYZ, June 2020 - Present \n- Developed multiple web applications using JavaScript. \n- Utilized a variety of different technologies such as Node.js, React, and Bootstrap to build user-friendly interfaces for clients. \n- Worked with teams to troubleshoot and maintain software solutions, and to analyze system specifications. \n\nSoftware Engineer, Company ABC, June 2018 - May 2020 \n- Collaborated with clients to model, design, and implement software solutions. \n- Developed solutions using a variety of programming languages such as Java, C#, and Python. \n- Involved in debugging and testing systems to ensure high quality and performance. \n\nSkills \n- Programming: Java, C#, Python, JavaScript, HTML, CSS \n- Technologies: Node.js, React, Bootstrap, Git",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

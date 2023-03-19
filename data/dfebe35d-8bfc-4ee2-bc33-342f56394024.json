@@ -1,0 +1,12 @@
+{
+  "id": "dfebe35d-8bfc-4ee2-bc33-342f56394024",
+  "instruction": "Reverse these two words.",
+  "input": "Happy Sad",
+  "output": "Sad Happy",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "de2b24f5-aa6e-474e-83a4-734cce8c9bc3",
+  "instruction": "Given the following opening sentence, write the next two sentences of a story.",
+  "input": "Alice stepped out into the garden.",
+  "output": "The sun was beginning to peek up over the horizon, casting a beautiful pink and orange hue across the sky. A warm breeze rustled through Alice's hair as she walked across the dewy grass, admiring the fresh blooms of flowers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "64990bdc-cc64-44ba-ac8b-48739ee31e40",
+  "instruction": "What is the Maximum Depth of Search?",
+  "input": "",
+  "output": "The maximum depth of search (also known as depth bound) is the maximum depth of a search tree that an algorithm is allowed to explore before it stops searching. In other words, the maximum depth indicates the number of levels below the root node of the search tree that the algorithm is permitted to explore before it has to make a decision. The deeper the search tree, the more accurate the results, but the more time the algorithm will take to complete. Therefore, it is important to set an appropriate maximum depth to optimize the search process.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

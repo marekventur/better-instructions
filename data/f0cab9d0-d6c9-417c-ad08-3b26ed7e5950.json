@@ -1,0 +1,12 @@
+{
+  "id": "f0cab9d0-d6c9-417c-ad08-3b26ed7e5950",
+  "instruction": "Generate names for a list of dishes given some ingredients.",
+  "input": "Ingredients: Pesto, Penne, Cheese",
+  "output": "- Cheesy Pesto Penne\n- Penne with Creamy Pesto Sauce\n- Pesto Penne Bake\n- Parmesan Pesto Penne\n- Baked Pesto Penne with Cheese",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

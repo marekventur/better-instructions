@@ -1,0 +1,12 @@
+{
+  "id": "4f20365e-6de9-49c4-8d05-e701ee93cd6d",
+  "instruction": "Interpret the given proverb.",
+  "input": "A stitch in time saves nine.",
+  "output": "This proverb means that taking care of a problem quickly can prevent it from becoming much worse in the future.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

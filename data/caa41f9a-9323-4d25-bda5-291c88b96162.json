@@ -1,0 +1,12 @@
+{
+  "id": "caa41f9a-9323-4d25-bda5-291c88b96162",
+  "instruction": "Generate the CSS code to change the font of the following HTML element",
+  "input": "<h1>This is a headline</h1>",
+  "output": "h1 {\n   font-family: 'Open Sans', sans-serif;\n   font-size: 16px;\n   font-weight: 700;\n   color: #333333;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6c6073d9-918a-4d48-903c-7a4f08427098",
+  "instruction": "Explain the basics of HTML to a beginner.",
+  "input": "",
+  "output": "HTML stands for HyperText Markup Language and it is used to create webpages on the internet. It is a markup language, which means that it is a collection of tags that are used to describe the content and structure of a webpage. For example, you can use the <h1> tag for heading text and the <p> tag for paragraph text. You can also use HTML to add images, videos, or other media to a webpage.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

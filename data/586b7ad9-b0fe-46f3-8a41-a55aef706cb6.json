@@ -1,0 +1,12 @@
+{
+  "id": "586b7ad9-b0fe-46f3-8a41-a55aef706cb6",
+  "instruction": "Construct a factorial table for this equation.",
+  "input": "Equation: (a + b)\u00b2",
+  "output": "Factorial Table: \n\n(a + b)\u00b2 \na\u00b2 + 2ab + b\u00b2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

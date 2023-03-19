@@ -1,0 +1,12 @@
+{
+  "id": "dd0fa1bc-a73d-4258-9a49-bb1128a0bc38",
+  "instruction": "Create a list of the most important features of a given product.",
+  "input": "Product: Mobile phone",
+  "output": "The most important features of a mobile phone include: \n1. Battery life \n2. Camera quality \n3. Processor speed \n4. Memory and storage capacity \n5. Operating system \n6. Display size and resolution \n7. Connectivity options, such as Wi-Fi and Bluetooth \n8. Durability \n9. Security features\n10. Audio quality",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f7fcc958-d5b6-4de2-990f-d62bc02238af",
+  "instruction": "Automatically summarize this sentence.",
+  "input": "The quick brown fox jumps over the lazy dog.",
+  "output": "A quick brown fox jumps over a lazy dog.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

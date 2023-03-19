@@ -1,0 +1,12 @@
+{
+  "id": "d0b604d0-acb1-46fd-be11-f49e99591084",
+  "instruction": "Restate the given sentence in a different way, using the same meaning.",
+  "input": "He was not qualified for the job.",
+  "output": "He lacked the necessary qualifications for the job.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

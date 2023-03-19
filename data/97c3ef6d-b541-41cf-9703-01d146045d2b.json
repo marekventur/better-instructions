@@ -1,0 +1,12 @@
+{
+  "id": "97c3ef6d-b541-41cf-9703-01d146045d2b",
+  "instruction": "Given the following statement, can you identify any possible ethical issues?",
+  "input": "Facebook released a new facial recognition algorithm that is more accurate than previous versions.",
+  "output": "Yes, this statement implies that this new technology has the potential to raise numerous ethical concerns. These could include the potential for abuse and misuse of the technology, invasion of user privacy, and the potential for discrimination based on user identity. Additionally, as the technology is more accurate, there are concerns about data accuracy and verification. As the algorithm becomes more prevalent, there are also implications for how it might be regulated.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

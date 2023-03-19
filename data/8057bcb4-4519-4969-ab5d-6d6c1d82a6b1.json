@@ -1,0 +1,12 @@
+{
+  "id": "8057bcb4-4519-4969-ab5d-6d6c1d82a6b1",
+  "instruction": "Are the following sentences true or false?",
+  "input": "a. Jupiter is the largest planet in our Solar System.\nb. The sun is bigger than Jupiter.",
+  "output": "a. True\nb. False",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

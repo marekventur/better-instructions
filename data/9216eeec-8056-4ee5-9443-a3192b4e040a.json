@@ -1,0 +1,12 @@
+{
+  "id": "9216eeec-8056-4ee5-9443-a3192b4e040a",
+  "instruction": "Arrange the countries below in order of lowest population to highest population.",
+  "input": "Nepal, Sweden, Canada, Mexico",
+  "output": "Nepal, Mexico, Sweden, Canada",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

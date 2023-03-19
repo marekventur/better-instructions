@@ -1,0 +1,12 @@
+{
+  "id": "855be67c-3451-4592-a2ea-0b2b350bafb4",
+  "instruction": "Rearrange the following sentence to create a more logical flow.",
+  "input": "Medical professionals use X-rays to diagnose and treat conditions.",
+  "output": "X-rays are used by medical professionals to diagnose and treat conditions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

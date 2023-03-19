@@ -1,0 +1,12 @@
+{
+  "id": "30a0b605-ec27-4075-8714-54e8aa4665e3",
+  "instruction": "Detect any spelling errors in this sentence and correct them.",
+  "input": "Lets go to the mosuem tomarrow.",
+  "output": "Let's go to the museum tomorrow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

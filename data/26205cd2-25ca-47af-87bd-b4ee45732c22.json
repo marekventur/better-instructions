@@ -1,0 +1,12 @@
+{
+  "id": "26205cd2-25ca-47af-87bd-b4ee45732c22",
+  "instruction": "Explain the concept of Big O notation in coding.",
+  "input": "",
+  "output": "Big O notation is a way to measure how efficient an algorithm is. It is used to describe the worst case performance or complexity of an algorithm. Big O notation measures the complexity of an algorithm as the size of its input increases, in terms of the number of steps it will take to complete the algorithm. For example, an algorithm that takes a constant number of steps to complete will have a \u201cBig O\u201d complexity of O(1). This means that regardless of the size of the input, the number of steps is a constant. On the other hand, an algorithm that takes many steps to complete will have a \u201cBig O\u201d complexity of O(n), which means that as the size of the input increases, the number of steps it takes to complete the algorithm will also increase.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7f9a442c-543c-4e55-a1d1-38c85d4dd607",
+  "instruction": "Find the largest number in the following list of numbers\n\n5, 13, 99, 1, 22",
+  "input": "",
+  "output": "99 is the largest number in the list.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

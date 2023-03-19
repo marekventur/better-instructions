@@ -1,0 +1,12 @@
+{
+  "id": "3c28a350-a5fb-45b2-88e2-3112ecc8636c",
+  "instruction": "Sort the list according to increasing temperature",
+  "input": "Room temperature, Boiling point of water, Freezing point of water",
+  "output": "Freezing point of water, Room temperature, Boiling point of water",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

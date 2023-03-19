@@ -1,0 +1,12 @@
+{
+  "id": "60a16ee0-d70e-48be-8a32-f6b0455d57bc",
+  "instruction": "Create an algorithm that divides a given array of numbers into two sets such that the sum of the elements in each set is the same.",
+  "input": "[5, 10, 15, 20]",
+  "output": "Set 1: [5, 15] \nSet 2: [10, 20] \nAlgorithm:\n1. Create two empty sets, set1 and set2. \n2. Add the first number in the list to set1. \n3. Calculate the sum of the numbers in set1 and set2. \n4. If sum of set1 is less than the sum of set2, add the next number to set 1. If the sum of set1 is greater than the sum of set2, add the next number to set2. \n5. Repeat step 4 until all numbers in the list have been added to one of the sets.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

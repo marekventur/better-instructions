@@ -1,0 +1,12 @@
+{
+  "id": "d781332d-b851-405f-95c5-73ce5f73d636",
+  "instruction": "Rewrite the given sentence, focusing on a specific word.",
+  "input": "I am too tired to work.\nFocus word: tired",
+  "output": "I am utterly exhausted and unable to work.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c94d042c-25bf-4a2b-8e64-e92684ee5cc1",
+  "instruction": "Create an example budget for a family income of $30,000 per year.",
+  "input": "",
+  "output": "For a family with an annual household income of $30,000, a budget might look like this: \nHousing: $10,000 (33%) \nUtilities: $3,000 (10%) \nFood: $4,500 (15%) \nInsurance: $2,000 (7%) \nHealth: $2,500 (8%) \nTransportation: $3,500 (12%) \nDebt Payments: $2,500 (8%) \nSavings: $2,000 (7%) \nMiscellaneous: $1,500 (5%) \nTotal: $30,000 (100%)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "329e8d44-a763-4200-93b2-6553d9287616",
+  "instruction": "Provide three suitable examples of evidence for the following claim",
+  "input": "Rising temperatures around the world are causing more extreme weather events",
+  "output": "1. The National Oceanic and Atmospheric Administration (NOAA) reported in 2019 that the four warmest years on record all occurred in the 2010s. \n2. The World Meteorological Organisation has found that, since 1990, extreme weather events such as floods, droughts and hurricanes have become more frequent and intense.\n3. The Intergovernmental Panel on Climate Change has concluded that extreme weather events are increasing in intensity and frequency, caused primarily by increasing global average temperatures.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

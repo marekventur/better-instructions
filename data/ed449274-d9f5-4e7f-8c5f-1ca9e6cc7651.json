@@ -1,0 +1,12 @@
+{
+  "id": "ed449274-d9f5-4e7f-8c5f-1ca9e6cc7651",
+  "instruction": "Classify a given article as either science or entertainment based.",
+  "input": "The article discusses a study on the effects of climate change on coral reefs.",
+  "output": "Science",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

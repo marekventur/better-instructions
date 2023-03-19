@@ -1,0 +1,12 @@
+{
+  "id": "28b808ec-58e0-4163-9a56-754051315ac2",
+  "instruction": "Identify the incorrect word in the following sentence:\n\nI have too many debt to pay.",
+  "input": "",
+  "output": "debt (should be debts)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d4af8f77-9a00-440f-adb8-0037da0bc95a",
+  "instruction": "Take three sentences from the article and combine them into one longer sentence.",
+  "input": "1. The internet has opened new opportunities for entrepreneurs.\n2. The ability to work remotely has made it easier to launch a business.\n3. There has been an increase in successful startups around the world.",
+  "output": "The internet has opened new opportunities for entrepreneurs, making it easier to launch a business and resulting in an increase in successful startups around the world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

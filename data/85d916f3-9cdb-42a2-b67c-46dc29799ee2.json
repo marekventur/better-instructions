@@ -1,0 +1,12 @@
+{
+  "id": "85d916f3-9cdb-42a2-b67c-46dc29799ee2",
+  "instruction": "For the given input, describe thesetting or context that it happens in.",
+  "input": "He waited for the bus",
+  "output": "He stood alone at the bus stop on a chilly morning, checking the time often as he waited for the bus to arrive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

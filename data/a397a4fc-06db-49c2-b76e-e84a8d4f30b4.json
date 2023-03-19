@@ -1,0 +1,12 @@
+{
+  "id": "a397a4fc-06db-49c2-b76e-e84a8d4f30b4",
+  "instruction": "Write an email for a job inquiry.",
+  "input": "Company Name: Tesla\nPosition: Technical Support Engineer",
+  "output": "Dear Hiring Manager, \n\nI am writing to express my interest in the Technical Support Engineer position at Tesla. I believe that my technical experience and customer service skills make me the perfect fit for this position. \n\nI have over 5 years of experience in technical support roles, and am highly skilled in offering solutions to technical problems quickly and effectively. I have a detailed understanding of multiple customer service techniques, and can provide exceptional customer service to any customer. \n\nI have also had experience in roles that require customer relationship management. I am able to effectively and efficiently handle customer inquiries, follow up with customers, and work hard to ensure their satisfaction.\n\nI believe I would be the perfect candidate for the Technical Support Engineer position at Tesla. I am confident in my abilities and eager to take on any challenge you may have.\n\nThank you for your time and consideration. I look forward to hearing from you soon.\n\nSincerely, \n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2e47d2f5-19e2-4a98-af51-3e3f9bac1e81",
+  "instruction": "Classify the following numbers in odd and even categories.",
+  "input": "5, 8, 10, 12",
+  "output": "Odd: 5\nEven: 8, 10, 12",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "09f50abb-0eac-4c61-90df-21f9eaf819e8",
+  "instruction": "Generate a conversation between two friends who met after a long time.",
+  "input": "",
+  "output": "Friend 1: Hi, I haven't seen you in forever! How have you been?\nFriend 2: I've been great! It's been so long since we last talked - I'm so happy to see you. How about yourself? \nFriend 1: I'm doing great too. It's been a long time since we've hung out, do you want to grab lunch sometime soon?\nFriend 2: Absolutely! It'll be great catching up with you.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

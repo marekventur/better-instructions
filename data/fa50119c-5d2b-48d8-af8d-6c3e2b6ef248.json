@@ -1,0 +1,12 @@
+{
+  "id": "fa50119c-5d2b-48d8-af8d-6c3e2b6ef248",
+  "instruction": "Write an email to the new trainee to welcome him/her.",
+  "input": "ABC Company",
+  "output": "Dear [Trainee Name], \n\nWelcome to ABC Company! We are excited to have you on board as a new trainee! At ABC Company, you will have the opportunity to learn and grow professionally, develop important skills and make a real contribution to our company. \n\nWe want to make sure you make the most of your time here, so please feel free to reach out to us at any time if you have any questions - we are here to help! \n\nWe look forward to getting to know you and are delighted to have you join our ABC family! \n\nSincerely,\nABC Company",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

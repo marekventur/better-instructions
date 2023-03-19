@@ -1,0 +1,12 @@
+{
+  "id": "c2c42ace-7cd4-48d7-849e-77798518fd5f",
+  "instruction": "Replace the given sentence with one that uses the same meaning but has a different word choice.",
+  "input": "The cat meowed loudly.",
+  "output": "The cat vocalized boisterously.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

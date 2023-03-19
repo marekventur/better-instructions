@@ -1,0 +1,12 @@
+{
+  "id": "67a0a001-af17-487a-aeb8-4a438e3243b3",
+  "instruction": "Generate a unique sentence by combining two common terms.",
+  "input": "Coffee, book",
+  "output": "A cup of coffee and a good book make the perfect companions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

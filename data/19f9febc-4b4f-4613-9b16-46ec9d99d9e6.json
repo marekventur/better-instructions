@@ -1,0 +1,12 @@
+{
+  "id": "19f9febc-4b4f-4613-9b16-46ec9d99d9e6",
+  "instruction": "Swiftly remove all typos in the sentence to make it grammatically correct.",
+  "input": "He have a dream to become a actor",
+  "output": "He has a dream to become an actor.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

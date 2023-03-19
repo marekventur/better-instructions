@@ -1,0 +1,12 @@
+{
+  "id": "a7d4b30d-df79-4af9-a8fb-80892ef3a39b",
+  "instruction": "Create a play-by-play sports commentary given the input.",
+  "input": "A goalkeeper is trying to save a goal",
+  "output": "The goalkeeper dives to his right and just barely manages to get a hand to the ball. It ricochets off his fingertips and goes wide of the post, keeping the score level.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

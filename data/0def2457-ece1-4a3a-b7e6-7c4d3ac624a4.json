@@ -1,0 +1,12 @@
+{
+  "id": "0def2457-ece1-4a3a-b7e6-7c4d3ac624a4",
+  "instruction": "Label the following news article as either \"Political\" or \"Entertainment\"",
+  "input": "Ansel Elgort and Gabrielle Union have both been cast in a new romantic summer movie to be released in 2022.",
+  "output": "Entertainment",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

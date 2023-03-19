@@ -1,0 +1,12 @@
+{
+  "id": "e877760a-dbb6-421b-a676-d075f1fbeef7",
+  "instruction": "Classify the following character as a protagonist, antagonist, or other",
+  "input": "Jasmine is the owner of a successful boutique",
+  "output": "Protagonist",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

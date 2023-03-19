@@ -1,0 +1,12 @@
+{
+  "id": "cf13ac26-0cef-4570-a327-581b127a2d39",
+  "instruction": "Generate a new sentence combining two of the given sentences.",
+  "input": "My daughter was jumping in the park. She was excited to go out.",
+  "output": "My daughter was excited to go out and jump in the park.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

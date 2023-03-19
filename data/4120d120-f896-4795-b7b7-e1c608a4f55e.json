@@ -1,0 +1,12 @@
+{
+  "id": "4120d120-f896-4795-b7b7-e1c608a4f55e",
+  "instruction": "Modify the given text to correct its grammar mistakes.",
+  "input": "This is some others project",
+  "output": "This is someone else's project.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

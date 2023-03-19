@@ -1,0 +1,12 @@
+{
+  "id": "9cc39b4d-26c9-46ff-b02e-0b79510ac013",
+  "instruction": "Assign the following article a rating out of five",
+  "input": "This article discusses the various psychological implications of participating in violent video games.",
+  "output": "Rating: 3/5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

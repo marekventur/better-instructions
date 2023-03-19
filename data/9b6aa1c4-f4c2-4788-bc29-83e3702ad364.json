@@ -1,0 +1,12 @@
+{
+  "id": "9b6aa1c4-f4c2-4788-bc29-83e3702ad364",
+  "instruction": "Write a set of instructions to guide the user through an activity.",
+  "input": "Activity: Growing a sunflower",
+  "output": "Instructions: \n1. Choose a spot in your garden to grow your sunflowers. Make sure it gets plenty of sunlight.\n2. Buy sunflower seeds from your local nursery or garden store.\n3. Plant the seeds in soil at least 6 inches deep and water regularly.\n4. Aim to keep the soil moist but not wet.\n5. Prune and remove any dead leaves or flowers to encourage more blooms.\n6. Feed your sunflowers with a balanced fertilizer once a month during the summer months.\n7. Deadhead the sunflowers once the blooms start to wilt.\n8. Enjoy your beautiful sunflowers!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

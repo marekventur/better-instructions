@@ -1,0 +1,12 @@
+{
+  "id": "6f42db7d-6f46-467f-babc-f245c8b65422",
+  "instruction": "Describe a common problem that data scientists face",
+  "input": "",
+  "output": "One of the most common problems that data scientists face is data quality issues. Poor quality data can affect the accuracy and reliability of a data science project. This can be caused by missing data, incorrect data, out of range values, or biased data. Data scientists must identify these data quality issues and use data cleansing techniques to ensure the data is accurate and reliable.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

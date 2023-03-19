@@ -1,0 +1,12 @@
+{
+  "id": "2e6b7abb-4055-45cb-a1dc-cdb6332caee7",
+  "instruction": "Identify the patterns in this set of numbers",
+  "input": "2, 5, 10, 17",
+  "output": "This set of numbers follows a pattern of successive odd numbers, where each number is found by adding the previous number to the next consecutive odd number. Thus the pattern is 2 + 3 = 5, 5 + 5 = 10, 10 + 7 = 17.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

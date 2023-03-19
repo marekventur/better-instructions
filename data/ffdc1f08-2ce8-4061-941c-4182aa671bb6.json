@@ -1,0 +1,12 @@
+{
+  "id": "ffdc1f08-2ce8-4061-941c-4182aa671bb6",
+  "instruction": "Brainstorm a list of questions to ask a customer.",
+  "input": "",
+  "output": "- How did you hear about us?\n- What are your expectations of our product/service?\n- What do you like about our product/service?\n- What could we improve?\n- How easy is it to use our product/service?\n- Are there any features you would like to see added?\n- How satisfied are you with the customer service?\n- How likely are you to recommend our product/service to a friend or colleague?\n- What inspired you to purchase our product/service?\n- Are there any other products/services you are interested in?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

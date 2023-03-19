@@ -1,0 +1,12 @@
+{
+  "id": "0c8dace0-0d10-439a-a4dd-402d5a73f45c",
+  "instruction": "Generate a report about the top 5 performing stocks for the past 5 years.",
+  "input": "",
+  "output": "The report covers the top 5 performing stocks of the past 5 years. It includes information about the stock's industry, returns over the past 5 years, and a risk-reward analysis. \n\n1. Apple (NASDAQ: AAPL): Apple is the largest publicly traded company in the world, primarily known for its iPhones, iPads, and Macbooks. Its stock has gained 125% over the past 5 years and is a leader in the technology industry. Its return on capital is low, but it provides steady returns in a low-risk sector.\n\n2. Amazon (NASDAQ: AMZN): Amazon is the world\u2019s largest e-commerce and cloud services provider, and its stock has gained 212% in the past 5 years. Amazon has one of the highest returns on capital of any publicly traded company and is considered a very risky but potentially very rewarding investment.\n\n3. Microsoft (NASDAQ: MSFT): Microsoft is the world\u2019s largest software company and has gained 158% over the past 5 years. It is a leader in the technology sector and has a low-risk, steady return on capital.\n\n4. Google (NASDAQ: GOOG): Google is a leader in the technology sector and its stock has gained 227% in the past 5 years. Its return on capital is slightly higher than Apple\u2019s and Microsoft\u2019s but is still relatively low-risk.\n\n5. JD.com (NASDAQ: JD): JD.com is the largest online retailer in China and has seen an impressive increase in its stock price of 1,360% over the past 5 years. It is a high-risk stock with potentially huge returns as it offers access to the growing Chinese market.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

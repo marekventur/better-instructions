@@ -1,0 +1,12 @@
+{
+  "id": "736754a0-e5aa-47d1-99a7-e31110163bbd",
+  "instruction": "Rewrite the passage using active voice instead of passive.",
+  "input": "The window was broken by a rock thrown by the neighbor's son.",
+  "output": "The neighbor's son threw a rock that broke the window.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

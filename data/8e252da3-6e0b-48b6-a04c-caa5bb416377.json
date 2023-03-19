@@ -1,0 +1,12 @@
+{
+  "id": "8e252da3-6e0b-48b6-a04c-caa5bb416377",
+  "instruction": "Compare and contrast two poems on the same topic.",
+  "input": "The two poems are \"Trees\" by Joyce Kilmer and \"Trees\" by Philip Larkin.",
+  "output": "Both poems, \"Trees\" by Joyce Kilmer and \"Trees\" by Philip Larkin, explore the beauty of nature through poetry. However, the two poems approach the same topic from different perspectives. \n\nIn \"Trees\" by Joyce Kilmer, the speaker uses a romantic lens to appreciate the beauty of trees, comparing them to maidens and praising their grandiosity with adjectives like \"swaying,\" \"gentle,\" and \"murmuring.\" On the other hand, \"Trees\" by Philip Larkin treats nature with a more realistic eye. He describes the environment as \"distant,\" \"weary,\" and \"empty,\" and implies that mankind has damaged the beauty of nature. Moreover, the poem has a more cynical tone, suggesting that humans are privileged to have trees yet do not appreciate their presence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

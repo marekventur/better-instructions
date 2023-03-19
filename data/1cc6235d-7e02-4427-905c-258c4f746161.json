@@ -1,0 +1,12 @@
+{
+  "id": "1cc6235d-7e02-4427-905c-258c4f746161",
+  "instruction": "Classify each of the following statements as true, false, or unknown, based on common knowledge and intuition.",
+  "input": "The capital of Mongolia is Ulaanbaatar.",
+  "output": "True. Ulaanbaatar is the capital of Mongolia.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

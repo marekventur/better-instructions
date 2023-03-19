@@ -1,0 +1,12 @@
+{
+  "id": "2a61b4d2-e03e-4733-b229-ac10fa2cdc22",
+  "instruction": "Pick apart the syntax of the sentence \"John loves to swim\".",
+  "input": "",
+  "output": "The sentence \"John loves to swim\" is composed of a subject, verb, and direct object. The subject is \"John\", the verb is \"loves\", and the direct object is \"to swim\". It is a declarative sentence in the present tense, expressing an activity that John does regularly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

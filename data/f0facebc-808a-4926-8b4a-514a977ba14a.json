@@ -1,0 +1,12 @@
+{
+  "id": "f0facebc-808a-4926-8b4a-514a977ba14a",
+  "instruction": "Given a query, find the most relevant passage from the following list. Output the passage index.",
+  "input": "Query: the state of the unemployment rate\nPassages:\n1) According to the latest statistics, the state of the US economy is improving, with stock prices increasing and consumer spending increasing.\n2) The US unemployment rate hit 14.2%, its highest level in American history.\n3) Despite the introduction of new jobs legislation and economic stimulus packages, the latest reports indicate that the US unemployment rate still remains at 9.2%.\n4) The Department of Labor continues to monitor the labor market and make recommendations to ensure the stability of the jobs market.\n5) The US trade deficit expanded to its highest level since 2010 in the first quarter of the year.",
+  "output": "2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

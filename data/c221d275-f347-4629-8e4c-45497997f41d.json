@@ -1,0 +1,12 @@
+{
+  "id": "c221d275-f347-4629-8e4c-45497997f41d",
+  "instruction": "Give a short explanation of what data mining is.",
+  "input": "",
+  "output": "Data mining is the process of uncovering hidden patterns and trends in large sets of data. It involves extracting useful information from large datasets and using that knowledge to make informed decisions. Data mining techniques build on mathematical models and algorithms that identify underlying relationships in data. It is an important part of machine learning, as it allows computers to use the information to make predictions and optimize data-driven decisions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

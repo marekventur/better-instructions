@@ -1,0 +1,12 @@
+{
+  "id": "4ebb4a0d-73d6-4643-aa8d-799678dfbe55",
+  "instruction": "Should this sentence be rewritten?",
+  "input": "A scientist studies the universe.",
+  "output": "Yes, this sentence should be rewritten to provide more detail about what kind of scientist and what they study in the universe.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

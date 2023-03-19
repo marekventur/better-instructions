@@ -1,0 +1,12 @@
+{
+  "id": "f448b1b9-a5bb-49b7-a8ae-f653a8377a3c",
+  "instruction": "Categorize the following types of writing into Fiction and Non-Fiction.",
+  "input": "Novel, Autobiography, Blog",
+  "output": "Fiction: Novel \nNon-Fiction: Autobiography, Blog",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "173d72e8-d6e3-4d07-95d1-f1a84ca11320",
+  "instruction": "Determine the sentiment of this sentence: \"The movie was boring yet interesting.\"",
+  "input": "The movie was boring yet interesting.",
+  "output": "The sentiment of the sentence is ambiguous. It can be interpreted as both positive and negative.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

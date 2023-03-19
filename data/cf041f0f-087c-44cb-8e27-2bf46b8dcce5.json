@@ -1,0 +1,12 @@
+{
+  "id": "cf041f0f-087c-44cb-8e27-2bf46b8dcce5",
+  "instruction": "Identify 3 emotions conveyed by the given quote.",
+  "input": "\"Sometimes the bad things that happen in our lives put us directly on the path to the best things that will ever happen to us.\"",
+  "output": "Hope, Optimism, Resilience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

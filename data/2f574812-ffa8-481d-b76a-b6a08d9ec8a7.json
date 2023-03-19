@@ -1,0 +1,12 @@
+{
+  "id": "2f574812-ffa8-481d-b76a-b6a08d9ec8a7",
+  "instruction": "Convert the given sentence into its passive form.",
+  "input": "Sam caught the fish.",
+  "output": "The fish was caught by Sam.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6ce5087c-8436-4041-8ca9-30a16da3b6cd",
+  "instruction": "Rewrite this sentence to express the opposite meaning",
+  "input": "The committee members voted to approve the proposal.",
+  "output": "The committee members voted to reject the proposal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

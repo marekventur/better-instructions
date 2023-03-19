@@ -1,0 +1,12 @@
+{
+  "id": "09fb4bbd-735c-4b9c-b7dd-2741be72c32b",
+  "instruction": "Given a sentence, restate it using the adverbial clause",
+  "input": "I know I can do this",
+  "output": "Knowing I can do this.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

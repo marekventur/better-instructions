@@ -1,0 +1,12 @@
+{
+  "id": "3ee735ea-db42-4077-bb72-6c4de7f2d87e",
+  "instruction": "Classify the following items as either a carbohydrate or a protein: tofu and bread.",
+  "input": "tofu, bread",
+  "output": "Tofu: protein. Bread: carbohydrate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

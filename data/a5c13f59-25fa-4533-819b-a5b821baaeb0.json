@@ -1,0 +1,12 @@
+{
+  "id": "a5c13f59-25fa-4533-819b-a5b821baaeb0",
+  "instruction": "Using the given text, replace the blanks with the most appropriate words.\n\nI really love _____ to the _____ with my friends.",
+  "input": "going, beach",
+  "output": "I really love going to the beach with my friends.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

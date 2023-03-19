@@ -1,0 +1,12 @@
+{
+  "id": "0c8fac9c-2fe2-4850-b725-ac6c9417d9ed",
+  "instruction": "Given a definition, explain it in own words without looking it up,",
+  "input": "Organic farming",
+  "output": "Organic farming is an agricultural system that involves growing crops without using any synthetic pesticides, fertilizers, and other chemicals. The focus is to enhance the quality of the soil, reduce pollution, and increase biodiversity. Organic farming uses natural fertilizers such as manure and crop residues, as well as crop rotation, companion planting, and intercropping to enrich the soil and increase crop yields. It also incorporates natural pest control measures such as introducing beneficial insects that feed on pests and cover crops that attract and shelter beneficial insects, instead of using chemicals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

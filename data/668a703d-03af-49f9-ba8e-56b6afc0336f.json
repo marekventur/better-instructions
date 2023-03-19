@@ -1,0 +1,12 @@
+{
+  "id": "668a703d-03af-49f9-ba8e-56b6afc0336f",
+  "instruction": "Get the sentence with the highest sentiment score.",
+  "input": "List: [\"I'm so sad\", \"Life is not fair\", \"Take a break and relax\", \"We can be happy together\"]",
+  "output": "Take a break and relax has the highest sentiment score.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

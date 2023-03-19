@@ -1,0 +1,12 @@
+{
+  "id": "d7d38041-945d-417c-a569-0b5c2d9ca0a1",
+  "instruction": "Save the following text as a Microsoft Word Document",
+  "input": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "output": "File saved as \"Lorem ipsum dolor sit amet.docx\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

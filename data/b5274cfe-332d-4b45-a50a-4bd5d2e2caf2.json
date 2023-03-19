@@ -1,0 +1,12 @@
+{
+  "id": "b5274cfe-332d-4b45-a50a-4bd5d2e2caf2",
+  "instruction": "Find the season corresponding to the given month.",
+  "input": "Month = June",
+  "output": "Summer",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

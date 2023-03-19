@@ -1,0 +1,12 @@
+{
+  "id": "b29c9dc7-7105-4d77-b136-fc7a2a2ce214",
+  "instruction": "Identify the most suitable vehicle",
+  "input": "I need to travel over 100km on 27th November to go to a nearby city.",
+  "output": "The most suitable vehicle would be a car, as it would be the quickest and most efficient mode of transport for travelling across a larger distance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e02b3721-36c9-4754-8dc6-0ce6d4ebf4b3",
+  "instruction": "Design a virtual assistant for a customer service use case.",
+  "input": "",
+  "output": "A virtual customer service assistant should be equipped with automated processes to help customers quickly and efficiently. This could include providing automated troubleshooting, interactive help guides, an FAQ section, and forms for customers to fill out for further assistance. The assistant should be able to understand natural language and suggest possible solutions in an effort to reduce time spent on customer inquiries. It should also have the ability to identify customer sentiment and provide appropriate responses accordingly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

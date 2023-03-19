@@ -1,0 +1,12 @@
+{
+  "id": "f9fbab1d-b577-488d-8183-e38a593b53d8",
+  "instruction": "Given some HTML code, modify it to include a link",
+  "input": "<div>\n    <p>This is a paragraph.</p>\n</div>",
+  "output": "<div>\n    <p>This is a paragraph. <a href=\"https://www.example.com\">Click here</a></p>\n</div>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

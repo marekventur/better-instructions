@@ -1,0 +1,12 @@
+{
+  "id": "8f9c57c2-25d1-4cf6-b6c3-52895ba9462b",
+  "instruction": "Create a class with properties for a car.",
+  "input": "",
+  "output": "class Car():\n    def __init__(self, make, model, year, color):\n        self.make = make\n        self.model = model\n        self.year = year\n        self.color = color\n        \n    def get_description(self):\n        return f\"This car is a {self.year} {self.color} {self.make} {self.model}\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

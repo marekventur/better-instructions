@@ -1,0 +1,12 @@
+{
+  "id": "437d09a0-db73-4bc6-8433-a44b6f466abd",
+  "instruction": "Offer an explanation for why the entity x is behaving in a given way.",
+  "input": "John has been feeling angry lately.",
+  "output": "John might be feeling angry lately because he's had a lot of stress in his life recently and is having difficulty handling it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e30b7f55-3fa0-4d8f-9c0f-9b5c030aee2b",
+  "instruction": "Identify the correct answer for a multiplication question.",
+  "input": "4 x 5 =\nA) 10\nB) 20\nC) 30\nD) 40",
+  "output": "D) 40",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cb463e07-2ddc-4e01-b528-6162e44775a8",
+  "instruction": "Evaluate the given sentence for accuracy.",
+  "input": "A scientist also suggests the possibility of genetic modification.",
+  "output": "The given sentence is accurate. Scientists have suggested the possibility of genetic modification.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

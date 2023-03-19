@@ -1,0 +1,12 @@
+{
+  "id": "48515eef-fee0-41b8-9161-46c105ff1518",
+  "instruction": "Create a conclusion for a scientific report",
+  "input": "It has been observed that the changes in ice cover over the past century have been caused by various environmental factors, such as changes in temperature, oceanic circulation, and air pollution.",
+  "output": "In conclusion, this report has demonstrated that the decrease in the amount of ice cover observed over the past century is due to the combined effects of human-caused environmental factors, including warming temperatures, oceanic circulation patterns, and air pollution. These findings have significant implications for understanding and predicting the effects of climate change on global ecosystems, as they suggest that human activities are likely to be a major cause of future changes in the amount of ice cover in polar regions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

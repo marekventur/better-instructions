@@ -1,0 +1,12 @@
+{
+  "id": "498e409f-005f-418b-8d75-777b66cc59ec",
+  "instruction": "Classify the given statement into the following categories: factual, opinion, or analysis.",
+  "input": "Humans have walked on the Moon.",
+  "output": "Factual.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "96ea8307-0343-4737-944c-ad734320eaee",
+  "instruction": "Create a timeline to showcase important events in the history of AI.",
+  "input": "",
+  "output": "1943: The first paper on AI is published by Warren McCulloch an Walter Pitts.\n\n1956: John McCarthy coins the term \u201cartificial intelligence.\u201d\n\n1966: Joseph Weizenbaum creates ELIZA, the first chatbot.\n\n1971: Control Data Corporation crafts a chess-playing computer called Belle, which is the first computer to challenge a human chess champion.\n\n1982: The first expert system, XCON, is developed at the Digital Equipment Corporation.\n\n1997: Deep Blue (IBM) defeats world chess champion Garry Kasparov.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

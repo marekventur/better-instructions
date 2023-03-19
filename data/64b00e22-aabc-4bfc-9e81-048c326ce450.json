@@ -1,0 +1,12 @@
+{
+  "id": "64b00e22-aabc-4bfc-9e81-048c326ce450",
+  "instruction": "Design a function to take a list of numbers and return the sum of the numbers.",
+  "input": "List = [1, 2, 3, 4, 5]",
+  "output": "def list_sum(lst):\n    # Initialize a variable to store the sum\n    sum = 0\n\n    # Iterate through the list\n    for num in lst:\n        # Add each number to the sum\n        sum += num\n\n    # Return the sum\n    return sum\n\nlist_sum([1,2,3,4,5]) # returns 15",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

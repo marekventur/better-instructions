@@ -1,0 +1,12 @@
+{
+  "id": "ec213fd2-fdfd-4e77-9bfa-0d29b20b74c4",
+  "instruction": "Add punctuation and capitalization to the sentence.",
+  "input": "the dog barked",
+  "output": "The dog barked.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

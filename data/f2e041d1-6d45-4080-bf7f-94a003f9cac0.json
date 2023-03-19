@@ -1,0 +1,12 @@
+{
+  "id": "f2e041d1-6d45-4080-bf7f-94a003f9cac0",
+  "instruction": "Classify the following sentence as an example of a literal or figurative phrase.",
+  "input": "\"She's a breath of fresh air.\"",
+  "output": "Figurative phrase",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

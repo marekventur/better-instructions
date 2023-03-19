@@ -1,0 +1,12 @@
+{
+  "id": "958a29ea-ca2c-4afd-a690-1ebccbee739e",
+  "instruction": "Build a calculator using HTML and JavaScript.",
+  "input": "Noinput",
+  "output": "The HTML code for the calculator would look like this:\n<form>\n  <input type=\"text\" id=\"calculator-screen\" disabled>\n</form>\n<button type=\"button\" id=\"zero\" onclick=\"addNum(0)\">0</button>\n<button type=\"button\" id=\"one\" onclick=\"addNum(1)\">1</button>\n<button type=\"button\" id=\"two\" onclick=\"addNum(2)\">2</button>\n<button type=\"button\" id=\"three\" onclick=\"addNum(3)\">3</button>\n<button type=\"button\" id=\"add\" onclick=\"calculate('+')\">+</button>\n<button type=\"button\" id=\"subtract\" onclick=\"calculate('-')\">-</button>\n<button type=\"button\" id=\"multiply\" onclick=\"calculate('*')\">*</button>\n<button type=\"button\" id=\"divide\" onclick=\"calculate('/')\">/</button>\n<button type=\"button\" id=\"equal\" onclick=\"calculate('=')\">=</button>\n\nAnd the JavaScript code for the calculator would look like this:\n\nfunction addNum(num) {\n  var screen = document.getElementById('calculator-screen');\n  screen.value += num;\n}\n\nfunction calculate(sign) {\n  var screen = document.getElementById('calculator-screen');\n  var result;\n  switch(sign) {\n    case '+':\n      result = eval(screen.value);\n      break;\n    case '-':\n      result = eval(screen.value);\n      break;\n    case '*':\n      result = eval(screen.value);\n      break;\n    case '/':\n      result = eval(screen.value);\n      break;\n    case '=':\n      result = eval(screen.value);\n      break;\n  }\n  screen.value = result;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

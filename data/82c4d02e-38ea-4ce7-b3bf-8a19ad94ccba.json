@@ -1,0 +1,12 @@
+{
+  "id": "82c4d02e-38ea-4ce7-b3bf-8a19ad94ccba",
+  "instruction": "Generate a list of items related to the topic given.",
+  "input": "Scuba diving",
+  "output": "Items related to scuba diving:\n- Wet Suit \n- Fins \n- Snorkel \n- BCD (Buoyancy Control Device) \n- Mask \n- Regulator \n- Dive Computer \n- Dive Knife or Cutting Tool \n- Weight Belt or Jacket \n- Under Water Flashlight \n- Cylinder and Air Tank \n- Torch \n- Dive Log Book \n- Compass",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

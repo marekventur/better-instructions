@@ -1,0 +1,12 @@
+{
+  "id": "386f24a6-976f-4747-ad8f-4c172c461050",
+  "instruction": "Remove the unnecessary words from the sentence and output the revised sentence.",
+  "input": "He is giving a quick test on Thursday afternoon.",
+  "output": "He is giving a test on Thursday afternoon.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

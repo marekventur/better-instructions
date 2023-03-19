@@ -1,0 +1,12 @@
+{
+  "id": "04f535af-0a97-417d-a8fe-4a638a65fd30",
+  "instruction": "Given two numbers x and y, generate an expression to calculate the quotient.",
+  "input": "x = 5, y = 4",
+  "output": "Quotient = x/y = 5/4",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

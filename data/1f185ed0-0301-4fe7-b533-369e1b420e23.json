@@ -1,0 +1,12 @@
+{
+  "id": "1f185ed0-0301-4fe7-b533-369e1b420e23",
+  "instruction": "Write an if-else statement to print \"Hello world\" if a variable is set to true.",
+  "input": "Boolean variable : x",
+  "output": "if (x == true) {\n  System.out.println(\"Hello world\");\n} else {\n  // Do nothing\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

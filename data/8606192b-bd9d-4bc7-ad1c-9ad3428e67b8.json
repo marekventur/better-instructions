@@ -1,0 +1,12 @@
+{
+  "id": "8606192b-bd9d-4bc7-ad1c-9ad3428e67b8",
+  "instruction": "Design a program which takes numbers between 0 and 9,999 and prints the spoken version of the number.",
+  "input": "",
+  "output": "def convert_to_spoken(num):\n    if not num:\n        return 'zero'\n    \n    if num > 9999:\n        print('Number must be smaller than 10,000')\n        return\n    \n    singles = {1: 'one', 2: 'two', 3: 'three', 4: 'four',\n        5: 'five', 6: 'six', 7: 'seven', 8: 'eight',\n        9: 'nine'\n    }\n    \n    teens = {10: 'ten', 11: 'eleven', 12: 'twelve',\n        13: 'thirteen', 14: 'fourteen', 15: 'fifteen',\n        16: 'sixteen', 17: 'seventeen', 18: 'eighteen',\n        19: 'nineteen'\n    }\n    \n    tens = {2: 'twenty', 3: 'thirty', 4: 'forty', 5: 'fifty',\n        6: 'sixty', 7: 'seventy', 8: 'eighty', 9: 'ninety',\n    }\n    \n    # create list of steps based on number length\n    steps = [\n        (' thousand', 1000000), (' hundred', 1000),\n        ('', 0)\n    ]\n    \n    # break the number into 3 digits each\n    digits = []\n    while num > 0:\n        r = num % 1000\n        digits.insert(0, r)\n        num //= 1000\n    \n    spoken_num = []\n    # convert the each 3-digit to spoken format\n    for i, dig in enumerate(digits):\n        if dig == 0:\n            continue\n        \n        lbl, step = steps[i]\n        a, b = divmod(dig, step)\n        \n        spoken_num.append(convert_to_spoken_3dig(a, b, \n            singles, teens, tens))\n        spoken_num.append(lbl)\n    \n    return ' '.join(spoken_num)\n\ndef convert_to_spoken_3dig(a, b, singles, teens, tens):\n    spoken_nums = []\n    \n    # convert hundreds place\n    if a:\n        spoken_nums.append(singles[a] + ' hundred')\n    \n    # convert tens place\n    if b:\n        if b in singles:\n            spoken_nums.append(singles[b])\n        elif b in teens:\n            spoken_nums.append(teens[b])\n        else:\n            t, o = divmod(b, 10)\n            spoken_nums.append(tens[t])\n            if o:\n                spoken_nums.append(singles[o])\n    \n    return ' '.join(spoken_nums)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

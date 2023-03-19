@@ -1,0 +1,12 @@
+{
+  "id": "7e332d11-e200-4212-92ef-f7fd105e3d2b",
+  "instruction": "Identify a brand logo.",
+  "input": "[Image of the McDonald's logo]",
+  "output": "That is the logo of McDonald's.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7ff6fbf0-7e3c-4198-9d71-357e1f109704",
+  "instruction": "Identify the emotions in the given speech and explain why they are used.",
+  "input": "Speech: \"This day was an incredible victory for us, and I will never forget the joy I felt when I heard the results.\"",
+  "output": "The speech conveys two main emotions - joy and pride. The speaker expresses joy in remembering the results of the victory, which indicates a positive emotion. The speaker also conveys a sense of pride in having achieved a victory, which is a feeling of satisfaction. Both emotions are used to emphasize the importance of the victory and the joy the speaker felt when hearing the results.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

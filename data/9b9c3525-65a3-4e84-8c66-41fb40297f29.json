@@ -1,0 +1,12 @@
+{
+  "id": "9b9c3525-65a3-4e84-8c66-41fb40297f29",
+  "instruction": "Categorize the following paragraph. Output its categories one by one, seperated by comma.",
+  "input": "Two years after the United States ended its combat mission in Afghanistan, violence in the country remains shockingly high, with Taliban insurgents and other insurgent and militant groups maintaining a strong presence across the country. The Taliban has gained ground in some parts of the country, and the Afghan government is struggling to contain the threat.",
+  "output": "Afghanistan, Taliban, Military, Government.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

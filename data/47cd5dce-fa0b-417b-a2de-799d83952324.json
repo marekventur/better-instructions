@@ -1,0 +1,12 @@
+{
+  "id": "47cd5dce-fa0b-417b-a2de-799d83952324",
+  "instruction": "Parse the following sentence for the subjects.",
+  "input": "The dog sleeps on the couch.",
+  "output": "Subjects: \n\u2022 The dog \n\u2022 The couch",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

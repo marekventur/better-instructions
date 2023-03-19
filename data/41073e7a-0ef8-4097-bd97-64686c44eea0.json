@@ -1,0 +1,12 @@
+{
+  "id": "41073e7a-0ef8-4097-bd97-64686c44eea0",
+  "instruction": "Analyze the data in the table and identify the fastest growing country in terms of Gross Domestic Product in the past 5 years.",
+  "input": "Country  | 2013 | 2014 | 2015 | 2016 | 2017\nChina    | 8.5  | 8.3  | 7.5  | 8.0  | 8.5\nCanada   | 2.9  | 2.4  | 2.7  | 3.1  | 3.4\nRussia   | 3.3  | 2.2  | 3.2  | 3.7  | 4.1",
+  "output": "Russia",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

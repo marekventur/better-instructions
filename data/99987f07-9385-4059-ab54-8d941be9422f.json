@@ -1,0 +1,12 @@
+{
+  "id": "99987f07-9385-4059-ab54-8d941be9422f",
+  "instruction": "Assign a profession to this person.",
+  "input": "Jill is an excellent writer, always able to twist words into a stunning masterpiece.",
+  "output": "Jill can be assigned the profession of a writer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

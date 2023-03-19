@@ -1,0 +1,12 @@
+{
+  "id": "483e1940-39af-4beb-848e-baa898120a51",
+  "instruction": "Given a string of text, delete all the words that start with the letter 'a'.",
+  "input": "All animals are beautiful.",
+  "output": "ll  iles are beautiful.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

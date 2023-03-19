@@ -1,0 +1,12 @@
+{
+  "id": "b20a98f5-eae4-484a-90f3-07f091a40be0",
+  "instruction": "Automate an email response confirming a user's registration",
+  "input": "John Smith, john@example.com",
+  "output": "Dear John Smith,\n\nThank you for registering with our services. We are delighted to have you onboard.\n\nIf you have any further questions or queries, please feel free to contact us.\n\nKind Regards,\nExample Team",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

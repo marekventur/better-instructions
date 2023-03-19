@@ -1,0 +1,12 @@
+{
+  "id": "1b8154a3-de43-40a7-9f40-d4314f1ca3e7",
+  "instruction": "Arrange components for a laptop assembly.",
+  "input": "Motherboard, Processor, Memory, Hard Drive, Keyboard.",
+  "output": "For laptop assembly, install the motherboard first, followed by the processor, followed by the memory, followed by the hard drive and the last step is to attach the keyboard.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

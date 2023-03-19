@@ -1,0 +1,12 @@
+{
+  "id": "f618a03f-e0d2-4fcf-89d4-67dbef85b23f",
+  "instruction": "Identify the fallacy used in the following statement.\nOutput should be a single word.",
+  "input": "We should not accept the refugees from Syria because they are likely to steal from us.",
+  "output": "Stereotyping",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

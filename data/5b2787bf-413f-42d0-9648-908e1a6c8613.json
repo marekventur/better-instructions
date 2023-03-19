@@ -1,0 +1,12 @@
+{
+  "id": "5b2787bf-413f-42d0-9648-908e1a6c8613",
+  "instruction": "Compare two products and provide the pros and cons of each product.",
+  "input": "Comparing the iPhone X and Samsung S9",
+  "output": "The iPhone X is the latest and greatest model from Apple, and it comes with a sleek design and fast performing tech. It has gesture control, facial recognition, and wireless charging capabilities. It has a bright, 5.8 inch OLED screen, and a longer lasting battery than the iPhone 8. \n\nThe Samsung S9 also has great specs and features. It has a 5.8 inch OLED screen, and marked improvements over the S8 include expanded RAM, faster processing speeds, and improved dual lens rear-facing camera. It also supports fast charging, has an IP68 rating for water resistance, and has 16GB and 64GB storage options. \n\nPros of the iPhone X: \n- Sleek design\n- Face and Gesture recognition technology \n- Wireless charging capabilities\n- 5.8 inch, bright OLED screen\n- Longer lasting battery\n\nPros of the Samsung S9:\n- 5.8 inch OLED screen\n- Expanded RAM and faster processing speeds\n- Improved dual lens rear-facing camera\n- Fast charging support\n- IP68 rating for water resistance\n- 16GB and 64GB storage options",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

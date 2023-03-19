@@ -1,0 +1,12 @@
+{
+  "id": "8b3d80e4-1819-4649-8387-746d97179691",
+  "instruction": "Put a given sentence in the past tense",
+  "input": "I eat pizza every night",
+  "output": "I ate pizza every night.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

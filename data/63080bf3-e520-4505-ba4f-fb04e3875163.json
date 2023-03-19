@@ -1,0 +1,12 @@
+{
+  "id": "63080bf3-e520-4505-ba4f-fb04e3875163",
+  "instruction": "Generate a cocktail recipe using orange juice and vodka as the two main ingredients.",
+  "input": "",
+  "output": "Orange Vodka Cocktail \nIngredients:\n- 2 oz vodka \n- 1 oz orange juice \n- \u00be oz elderflower syrup \n- \u00be oz fresh lime juice\n- 1 orange slice for garnish \n\nInstructions: \nFill a shaker with ice. Add the vodka, orange juice, elderflower syrup, and lime juice. Shake until chilled. Strain the mixture into a rocks glass filled with ice. Garnish with an orange slice. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

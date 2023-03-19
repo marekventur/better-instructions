@@ -1,0 +1,12 @@
+{
+  "id": "4cc226e0-8761-4bc2-b80f-322c77c2902b",
+  "instruction": "Create a program that finds the total sum of all the elements in a list.",
+  "input": "sample_list = [5, 10, 15, 20, 25]",
+  "output": "def list_sum(sample_list):\n    total = 0\n    for num in sample_list:\n        total += num\n    return total\n\nprint(list_sum(sample_list))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

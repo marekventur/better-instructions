@@ -1,0 +1,12 @@
+{
+  "id": "1481a726-2cf6-4427-9df5-4b514bf348cc",
+  "instruction": "Rearrange the ingredients to make a recipe.",
+  "input": "Eggs, Milk, Flour, Sugar and Butter",
+  "output": "Beat the eggs and sugar together, add the milk and butter and mix in the flour.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

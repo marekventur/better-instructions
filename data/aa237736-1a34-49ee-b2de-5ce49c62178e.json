@@ -1,0 +1,12 @@
+{
+  "id": "aa237736-1a34-49ee-b2de-5ce49c62178e",
+  "instruction": "Create a smoothie recipe that includes yogurt, blueberries, and peanut butter.",
+  "input": "",
+  "output": "Ingredients:\n\u2022 1 cup yogurt\n\u2022 \u00bd cup frozen blueberries\n\u2022 2 tablespoons peanut butter\n\u2022 \u00bd cup milk\n\u2022 1 banana\n\u2022 2 tablespoons honey\n\u2022 2 tablespoons flaxseed\n\nDirections:\n\n1. Combine the yogurt, blueberries, peanut butter, milk, and banana in a blender. Blend until smooth.\n2. Add the honey and flaxseed and blend for an additional 30 seconds.\n3. Pour into two glasses and enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

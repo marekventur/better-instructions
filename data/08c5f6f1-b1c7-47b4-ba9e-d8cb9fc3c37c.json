@@ -1,0 +1,12 @@
+{
+  "id": "08c5f6f1-b1c7-47b4-ba9e-d8cb9fc3c37c",
+  "instruction": "Rewrite the sentences using given synonyms.",
+  "input": "John felt sad after receiving the bad news.\nSynonyms - Dismayed, unfortunate",
+  "output": "John was dismayed after receiving the unfortunate news.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

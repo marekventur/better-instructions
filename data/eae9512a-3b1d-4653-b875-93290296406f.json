@@ -1,0 +1,12 @@
+{
+  "id": "eae9512a-3b1d-4653-b875-93290296406f",
+  "instruction": "Find 3 keywords related to the ingredients used in a given recipe.",
+  "input": "This recipe calls for 2 tablespoons of butter, 1/4 cup of honey, 1 teaspoon of ground cinnamon, and 2 cups of water.",
+  "output": "butter, honey, cinnamon",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

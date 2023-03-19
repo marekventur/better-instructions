@@ -1,0 +1,12 @@
+{
+  "id": "5e7958ea-6684-44d0-b3a0-3b19b7a102d8",
+  "instruction": "How would you classify the following text according to its content?",
+  "input": "The stock market went up today",
+  "output": "Finance/Business",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

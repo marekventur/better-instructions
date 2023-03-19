@@ -1,0 +1,12 @@
+{
+  "id": "9a9ba0a8-1b13-4051-a3c9-d4da6ad83484",
+  "instruction": "Design an infographic on a given topic",
+  "input": "The history of human settlement",
+  "output": "<html>\n   <div>\n     <img src=\"human_settlement_infographic.jpg\" alt=\"human settlement infographic\">\n   </div>\n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

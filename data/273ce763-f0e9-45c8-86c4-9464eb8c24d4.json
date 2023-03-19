@@ -1,0 +1,12 @@
+{
+  "id": "273ce763-f0e9-45c8-86c4-9464eb8c24d4",
+  "instruction": "Generate a computer program to remove all 'a' from a string",
+  "input": "abcabcabc",
+  "output": "def remove_a(string):\n    new_string = \"\"\n    for char in string:\n        if char != 'a':\n            new_string += char\n    return new_string\n\nresult = remove_a(\"abcabcabc\")\nprint(result)  # output: \"bcbcbc\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

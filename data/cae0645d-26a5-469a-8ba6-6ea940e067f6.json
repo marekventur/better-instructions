@@ -1,0 +1,12 @@
+{
+  "id": "cae0645d-26a5-469a-8ba6-6ea940e067f6",
+  "instruction": "Compare two different types of primary memory.",
+  "input": "",
+  "output": "The two main types of primary memory are RAM (Random Access Memory) and ROM (Read-Only Memory). RAM is volatile, meaning that data stored in it is lost when the power is turned off. ROM is non-volatile and stores data even when the power is off. RAM allows faster access to data compared to ROM, which stores data permanently but requires more time to access it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

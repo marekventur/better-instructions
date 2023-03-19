@@ -1,0 +1,12 @@
+{
+  "id": "44a0db01-4459-4ed4-85d7-0283645386e2",
+  "instruction": "Calculate the amount of money in a bank account with an initial $100 deposit and an interest rate of 6%, compounded annually",
+  "input": "",
+  "output": "At the end of year 1, the amount in the bank account would be $106. In year 2, the amount would be $112.36 and at the end of the 10th year, the amount would be $160.54. This illustrates the power of compound interest.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

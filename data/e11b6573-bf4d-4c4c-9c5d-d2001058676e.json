@@ -1,0 +1,12 @@
+{
+  "id": "e11b6573-bf4d-4c4c-9c5d-d2001058676e",
+  "instruction": "Describe what Tesla Autopilot is.",
+  "input": "",
+  "output": "Tesla Autopilot is an advanced driver-assistance system that uses sensors, cameras, and artificial intelligence to provide the driver with assistance in steering, accelerating, and braking during highway driving. Autopilot also includes features such as Autosteer, which automatically adjusts the steering wheel to keep the car in its lane, and Automatic Emergency Steering, which can take evasive action if an obstacle is detected.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

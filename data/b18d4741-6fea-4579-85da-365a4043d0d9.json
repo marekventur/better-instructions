@@ -1,0 +1,12 @@
+{
+  "id": "b18d4741-6fea-4579-85da-365a4043d0d9",
+  "instruction": "Explain how sentiment analysis works.",
+  "input": "",
+  "output": "Sentiment analysis is a process of determining whether a piece of text expresses a positive, negative or neutral sentiment. It usually involves the use of natural language processing (NLP) techniques such as text analysis, part-of-speech tagging, word meaning recognition, and lexicon-based methods. The result of sentiment analysis can be used to quantitatively assess text, categorise it into categories such as positive, negative or neutral, or generate insights about customer behaviour. The process typically begins by extracting relevant words, phrases and topics from a particular text. These terms and topics are then analysed cognitively and emotionally to determine whether a text expresses a positive, negative or neutral sentiment. The overall sentiment of a text can then be assigned a numerical score, categorized and further insights can be drawn.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

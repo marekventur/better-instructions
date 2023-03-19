@@ -1,0 +1,12 @@
+{
+  "id": "e0e554e9-9dd2-49ab-ad39-6428c319a7ff",
+  "instruction": "Given a sentence, detect any errors in grammar and punctuation.",
+  "input": "\"The movie that I saw yesterday was not what I was expecting, it was bad.\"",
+  "output": "This sentence contains an error in grammar - there should be an additional \"it\" at the end of the sentence - \"The movie that I saw yesterday was not what I was expecting, it was bad it.\". There is also an error in punctuation - there should be a comma between \"bad\" and \"it\" - \"The movie that I saw yesterday was not what I was expecting, it was bad, it.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

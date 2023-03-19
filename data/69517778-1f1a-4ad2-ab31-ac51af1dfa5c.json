@@ -1,0 +1,12 @@
+{
+  "id": "69517778-1f1a-4ad2-ab31-ac51af1dfa5c",
+  "instruction": "Generate three examples of realistic data for a film review.",
+  "input": "",
+  "output": "1. Paul Thomas Anderson's \"The Master\" is a brilliant drama about post-World War II America. Joaquin Phoenix gives a powerful performance as the troubled protagonist, and Philip Seymour Hoffman is equally great as the enigmatic cult leader. It's an intelligent, thought-provoking film that explores complex ideas about identity and belonging. \n2. \"Moonlight\" is a heartbreaking and mesmerizing story of a young African American man's journey of self-discovery. Director Barry Jenkins has created a powerful portrait of his protagonist's struggles with identity, sexuality, and family. The performances of its three lead actors, Mahershala Ali, Naomie Harris, and Trevante Rhodes, are simply stunning. \n3. Quentin Tarantino's \"Once Upon A Time In Hollywood\" is an affectionate and hilarious tribute to 1960s Hollywood. It's a wild journey of two struggling actors portrayed by Brad Pitt and Leonardo DiCaprio. Tarantino's characteristic blend of humor and violence provides a unique take on this classic story.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

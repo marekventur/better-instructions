@@ -1,0 +1,12 @@
+{
+  "id": "82a6652d-eefa-49cf-a945-67a4dfbf5892",
+  "instruction": "Given a list of native animals and plants in Australia, identify the ones that are endangered.",
+  "input": "Kangaroo, Koala, Wombat, Eucalyptus, Acacia tree",
+  "output": "Kangaroo, Koala, Wombat are endangered. Eucalyptus and Acacia tree are not endangered.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

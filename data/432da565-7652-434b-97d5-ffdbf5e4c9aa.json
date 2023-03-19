@@ -1,0 +1,12 @@
+{
+  "id": "432da565-7652-434b-97d5-ffdbf5e4c9aa",
+  "instruction": "Given a sentence, replace the verb with the base form of the verb verb.",
+  "input": "He has been running around all day.",
+  "output": "He has been run around all day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

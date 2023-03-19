@@ -1,0 +1,12 @@
+{
+  "id": "61e77761-497f-42b8-a005-997cb60d4c43",
+  "instruction": "Given the text, determine whether it is an example of descriptive or narrative writing",
+  "input": "The sun beat down on her shoulders, hot and relentless, her tan deepening with every step",
+  "output": "Descriptive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

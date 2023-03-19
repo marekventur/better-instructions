@@ -1,0 +1,12 @@
+{
+  "id": "d6d11812-9cb2-4111-bbb2-2780e3d9ea9f",
+  "instruction": "Reformat this text from a paragraph to a list",
+  "input": "Python is an interpreted, high-level, general-purpose programming language. It is dynamically typed and provides helpful tools and modules to make programming easier and more efficient",
+  "output": "- Python is an interpreted, high-level, general-purpose programming language.\n- It is dynamically typed.\n- It provides helpful tools and modules to make programming easier and more efficient.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

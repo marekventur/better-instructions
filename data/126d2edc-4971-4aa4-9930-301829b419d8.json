@@ -1,0 +1,12 @@
+{
+  "id": "126d2edc-4971-4aa4-9930-301829b419d8",
+  "instruction": "Categorize the following article into one of the predefined topics",
+  "input": "This article is about a new study that was conducted on the effects of exercise on mental health.",
+  "output": "Health",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

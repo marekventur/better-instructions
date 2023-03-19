@@ -1,0 +1,12 @@
+{
+  "id": "1363681b-a377-44e1-9334-ee382dd4c614",
+  "instruction": "Classify the given word as a verb or a noun.",
+  "input": "Debug",
+  "output": "Verb.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

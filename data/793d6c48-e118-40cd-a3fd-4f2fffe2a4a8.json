@@ -1,0 +1,12 @@
+{
+  "id": "793d6c48-e118-40cd-a3fd-4f2fffe2a4a8",
+  "instruction": "Answer the following true/false question with an explanation",
+  "input": "GPT language model will generate different output each time the same input is given.",
+  "output": "True. GPT language models use probabilistic models which generate different responses each time the same input is given. This is because they use different parameters to generate the response each time, resulting in variations in its output.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

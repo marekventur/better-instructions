@@ -1,0 +1,12 @@
+{
+  "id": "fcb59b05-474c-49b2-89bb-51dc9a363b42",
+  "instruction": "Create a dialogue between two people discussing the topic of climate change.",
+  "input": "",
+  "output": "Person 1: Have you heard about climate change?\nPerson 2: Yes, I have. It's a huge problem we are facing today. \nPerson 1: That's true. Do you think we can do anything about it?\nPerson 2: Absolutely! We can start by reducing our energy consumption, driving more fuel-efficient cars, and eating more sustainable diets. \nPerson 1: Those are all great ideas. Let's try to make a difference!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

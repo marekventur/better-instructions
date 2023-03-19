@@ -1,0 +1,12 @@
+{
+  "id": "65e2723e-a174-4f75-a63f-a6705ca71328",
+  "instruction": "Generate a text summarization of the given text",
+  "input": "Transportation is a key part of any society. It allows goods, services and people to be moved from one place to another quickly and efficiently. It helps connect people to places all over the world, reducing the amount of time spent travelling and enabling more goods and services to reach more people.",
+  "output": "Transportation facilitates the movement of goods, services, and people across different places, which contributes to quicker and more efficient communication. It also helps to connect people to places all over the world, reducing travel time and allowing access to more goods and services.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

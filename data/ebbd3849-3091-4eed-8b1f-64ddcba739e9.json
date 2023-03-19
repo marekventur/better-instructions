@@ -1,0 +1,12 @@
+{
+  "id": "ebbd3849-3091-4eed-8b1f-64ddcba739e9",
+  "instruction": "Edit the text such that it follows the Associated Press (AP) style guide.",
+  "input": "The manager of the store Mr. David Jones inaugurated the new store today.",
+  "output": "The store manager, David Jones, inaugurated the new store today.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

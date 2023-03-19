@@ -1,0 +1,12 @@
+{
+  "id": "fb01eeb0-2119-48f9-aa4b-85e25fd598dd",
+  "instruction": "Structure the following recipe into a cooking timeline:",
+  "input": "Mix the flour, baking powder, baking soda, salt, and sugar together then add the wet ingredients: butter, egg, and 1/2 cup of buttermilk. Stir in the diced bananas and chocolate chips.",
+  "output": "1. Preheat oven to 350\u00b0 F and grease 9\"-x-5\" loaf pan.\n2. Mix the dry ingredients: flour, baking powder, baking soda, salt, and sugar.\n3. Add the wet ingredients: butter, egg, and 1/2 cup of buttermilk.\n4. Stir in the diced bananas and chocolate chips\n5. Pour batter into the loaf pan and bake for 50-60 minutes until golden brown on top.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

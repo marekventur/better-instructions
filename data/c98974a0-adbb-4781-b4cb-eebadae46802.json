@@ -1,0 +1,12 @@
+{
+  "id": "c98974a0-adbb-4781-b4cb-eebadae46802",
+  "instruction": "Create a travel itinerary for a 5-day trip to Las Vegas",
+  "input": "",
+  "output": "Day 1: Arrive in Las Vegas. Explore the city. \nDay 2: Visit the Grand Canyon. \nDay 3: Visit the Valley of Fire or Red Rock Canyon. \nDay 4: Visit some of the casinos and take a show at one of the resorts. \nDay 5: Visit Old Las Vegas, the Neon Museum, and Freemont Street.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

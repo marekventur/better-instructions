@@ -1,0 +1,12 @@
+{
+  "id": "1445ef8b-501e-49a2-b25f-e092aea92c45",
+  "instruction": "Write a query to retrieve the name and score of students with a score greater than 90.",
+  "input": "",
+  "output": "SELECT name, score FROM Students WHERE score > 90;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

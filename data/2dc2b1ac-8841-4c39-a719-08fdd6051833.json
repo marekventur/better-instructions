@@ -1,0 +1,12 @@
+{
+  "id": "2dc2b1ac-8841-4c39-a719-08fdd6051833",
+  "instruction": "Describe what is a validator in programming.",
+  "input": "No input",
+  "output": "A validator is a piece of programming code, usually a function, that checks if an operation or data meets certain criteria. Validators typically compare some kind of data against a set of rules and either reject it if it fails the validation, or allow it to proceed if it passes the validation. This helps ensure data accuracy and consistency by preventing incorrect data from entering a system or corrupting it in some way.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

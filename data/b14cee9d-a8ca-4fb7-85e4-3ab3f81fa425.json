@@ -1,0 +1,12 @@
+{
+  "id": "b14cee9d-a8ca-4fb7-85e4-3ab3f81fa425",
+  "instruction": "Analyze a given sound wave.",
+  "input": "Sound wave of the ocean",
+  "output": "The sound wave of the ocean contains frequencies ranging from 20Hz to 20kHz with different amplitudes. The low frequency sound waves have a longer wave length and have more energy, while the higher frequency sound waves have a shorter wave length and less energy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

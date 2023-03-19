@@ -1,0 +1,12 @@
+{
+  "id": "98e92c86-58ae-42a2-9a27-40cf363744a3",
+  "instruction": "Create a view for the following database table in Sqlite which shows the total price for each person.",
+  "input": "Table name: purchases\nColumns: person, item, quantity, price",
+  "output": "CREATE VIEW person_total AS SELECT person, SUM(quantity * price) AS total_price FROM purchases GROUP BY person;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

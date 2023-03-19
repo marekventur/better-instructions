@@ -1,0 +1,12 @@
+{
+  "id": "d28f2093-11db-474c-a0d9-25289b5df60d",
+  "instruction": "Given a Creative Commons song and lyrics, generate a hook for the song.",
+  "input": "The song is entitled \"It's Time\". \n\nLyrics:\n\nIt's time to move on \nIt's time to take control \nNo more worries and no more pain \nWe will be alright in the end",
+  "output": "Come on and show the world you can be strong, \nIt's time to step it up and carry on. \nSpread your wings and be ready to fly, \nLet's make it happen, it's time!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

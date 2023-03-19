@@ -1,0 +1,12 @@
+{
+  "id": "4eaa4eeb-8695-4186-a7e9-5d5f920cdcfd",
+  "instruction": "Given a dataset of movies, recommend the top three movies to a user based on the user's preferences.",
+  "input": "User Preferences: Action, Romance, Drama",
+  "output": "Based on the user preferences of action, romance, and drama, I recommend the following three movies: \"The Avengers\" (action and adventure), \"Titanic\" (romance, drama), and \"La La Land\" (romance, drama, musical).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

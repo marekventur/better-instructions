@@ -1,0 +1,12 @@
+{
+  "id": "c6d235d9-d835-4443-89a2-ba1b7c50f676",
+  "instruction": "Given the following description of a movie, classify it as a comedy, romance, or drama.",
+  "input": "A story of unlikely love between a man and a woman from different worlds.",
+  "output": "Romance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

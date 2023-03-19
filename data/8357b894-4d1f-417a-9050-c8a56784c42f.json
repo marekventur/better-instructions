@@ -1,0 +1,12 @@
+{
+  "id": "8357b894-4d1f-417a-9050-c8a56784c42f",
+  "instruction": "Classify a given statement.",
+  "input": "Solar energy is the cleanest and most renewable form of energy.",
+  "output": "This statement is true.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

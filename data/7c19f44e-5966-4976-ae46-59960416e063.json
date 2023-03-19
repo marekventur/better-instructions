@@ -1,0 +1,12 @@
+{
+  "id": "7c19f44e-5966-4976-ae46-59960416e063",
+  "instruction": "Write a persuasive argument for one of the sides.",
+  "input": "The government is debating whether or not to raise taxes on cigarettes",
+  "output": "Raising taxes on cigarettes will positively affect public health. The higher cost of cigarettes will make it harder for younger people to afford them, which will lead to a decrease in the number of young smokers. In addition, the additional tax money generated can be used to fund stop-smoking initiatives and research into effective treatments against smoking-related diseases.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

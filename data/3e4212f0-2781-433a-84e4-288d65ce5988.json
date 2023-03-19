@@ -1,0 +1,12 @@
+{
+  "id": "3e4212f0-2781-433a-84e4-288d65ce5988",
+  "instruction": "Given the following input, generate a question about the text that requires an open-ended answer.",
+  "input": "The organization held a fundraising event to raise money for research.",
+  "output": "What ways did the organization utilize to make the fundraising event successful?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

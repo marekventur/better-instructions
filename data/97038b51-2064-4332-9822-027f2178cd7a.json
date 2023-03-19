@@ -1,0 +1,12 @@
+{
+  "id": "97038b51-2064-4332-9822-027f2178cd7a",
+  "instruction": "Given any type of data, explain the concept of normalization.",
+  "input": "",
+  "output": "Normalization is the process of scaling and shifting data so that it has a consistent form and can be compared and evaluated more easily. Normalization usually involves changing the data range so that it has a mean of zero and a standard deviation of one. It is a necessary step in many types of data pre-processing, such as for machine learning models or data visualization.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

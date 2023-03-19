@@ -1,0 +1,12 @@
+{
+  "id": "0086b0a7-31b7-4099-b21e-5c4e0e738aee",
+  "instruction": "Find 3 sources of information to support the argument outlined in the sentence.",
+  "input": "Low-income households are more vulnerable to poverty and often lack access to basic needs such as food, education, and healthcare.",
+  "output": "1. https://www.unicef.org/sowc2018/economic-dynamics\n2. https://policyclarity.blog/2018/01/25/wealth-vs-income-why-poverty-reduction-needs-start-assets/ \n3. https://www.thoughtco.com/way-to-reduce-poverty-1435170",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

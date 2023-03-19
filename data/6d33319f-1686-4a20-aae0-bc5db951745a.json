@@ -1,0 +1,12 @@
+{
+  "id": "6d33319f-1686-4a20-aae0-bc5db951745a",
+  "instruction": "Select the right keyword for these text snippets.",
+  "input": "Snippet 1: \"I am looking for a new job\"\nSnippet 2: \"I want to start my own business\"",
+  "output": "Snippet 1: Job Search \nSnippet 2: Entrepreneurship",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

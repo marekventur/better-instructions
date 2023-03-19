@@ -1,0 +1,12 @@
+{
+  "id": "08b512e4-5d88-44cb-a319-577e13e54d75",
+  "instruction": "Select the closest word for the given definition.",
+  "input": "Definition: undiminished in value\nOptions:\n(A) guaranteed\n(B) persistent\n(C) vigorous\n(D) intact",
+  "output": "D",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

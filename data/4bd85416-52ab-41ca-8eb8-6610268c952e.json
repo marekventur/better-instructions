@@ -1,0 +1,12 @@
+{
+  "id": "4bd85416-52ab-41ca-8eb8-6610268c952e",
+  "instruction": "Identify what type of bias is exemplified in this statement.",
+  "input": "\"Women don't have the skills necessary to succeed in the finance industry.\"",
+  "output": "Gender bias.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "530139ef-49ce-4908-961f-5b6141e07a2f",
+  "instruction": "Given two people, A and B, explain why A is more successful than B in one sentence.",
+  "input": "A: Business mogul\nB: Struggling entrepreneur",
+  "output": "A is more successful than B because they have more experience and knowledge in the business world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

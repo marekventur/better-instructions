@@ -1,0 +1,12 @@
+{
+  "id": "6fd995d6-0671-4e12-9333-af3f2826d931",
+  "instruction": "Given a website address, rewrite the content in the website to make it more reader-friendly.",
+  "input": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
+  "output": "The Centers for Disease Control and Prevention (CDC) is closely monitoring an outbreak of a respiratory disease caused by a novel (new) coronavirus first identified in China. As more is learned about the virus, the CDC provides updated information about symptoms, transmission, prevention, and treatment. You can visit their website to find the latest information on the virus, ways to protect yourself, what to do if you are sick, and much more. Stay informed and stay safe!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

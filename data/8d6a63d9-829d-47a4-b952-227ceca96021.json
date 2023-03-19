@@ -1,0 +1,12 @@
+{
+  "id": "8d6a63d9-829d-47a4-b952-227ceca96021",
+  "instruction": "Write a script to delete all the users who have not been active for the past 3 months",
+  "input": "",
+  "output": "The following script is designed to delete all users who have not been active within the past three months:\n\n# Get list of all users\nSELECT * FROM `users`\n\n# Iterate through list\nFOR user IN users:\n    # Get list of all user's recent activity \n    SELECT * FROM `activity` WHERE `user_id` = user.id\n    IF activity.timestamp > (3 months ago):\n        user.delete()",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

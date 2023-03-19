@@ -1,0 +1,12 @@
+{
+  "id": "21d8ba1a-8707-4d05-ab44-52edbc40c811",
+  "instruction": "I have a long text and I want to make it concise. Rewrite the sentence below but keep the meaning intact.",
+  "input": "Due to the fact that I had to go to the supermarket, I was not able to finish my work.",
+  "output": "My work remained unfinished because I had to go to the supermarket.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

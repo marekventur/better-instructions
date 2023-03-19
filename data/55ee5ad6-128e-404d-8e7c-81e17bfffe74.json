@@ -1,0 +1,12 @@
+{
+  "id": "55ee5ad6-128e-404d-8e7c-81e17bfffe74",
+  "instruction": "Create a program that converts Fahrenheit to Celsius.",
+  "input": "",
+  "output": "The program should have an input field to accept a temperature in Fahrenheit, and then should output the temperature converted to Celsius. \n\nThe program should apply the following formula to convert temperatures:\n\nCelsius = (Fahrenheit \u2013 32) * 5/9",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e7a3d8e3-5a28-43cd-b678-aae8567c1f14",
+  "instruction": "Rewrite the sentence using \"away\" instead of \"off\".",
+  "input": "She took her coat off.",
+  "output": "She took her coat away.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

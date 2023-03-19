@@ -1,0 +1,12 @@
+{
+  "id": "270e6e16-f6da-43cf-9b1a-605e9a714eca",
+  "instruction": "Edit the following sentence to include the term \"big data\".",
+  "input": "The application of machine learning techniques can help us better understand our world.",
+  "output": "The application of machine learning techniques and big data can help us better understand our world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

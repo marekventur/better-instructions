@@ -1,0 +1,12 @@
+{
+  "id": "a8fce044-a5f5-4703-88d9-0b15aba1948d",
+  "instruction": "Annotate the text by categorizing it into the five senses.",
+  "input": "I can\u2019t wait to taste the warm, fruity muffin I just made.",
+  "output": "I can\u2019t wait to [taste] the [warm], [fruity] muffin I just made.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

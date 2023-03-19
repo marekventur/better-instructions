@@ -1,0 +1,12 @@
+{
+  "id": "79d851e6-773a-4e42-83d7-e658f63ecf47",
+  "instruction": "Select the sentence which is most helped by a given clause.",
+  "input": "A) They spent the day at the beach, which was nice.\nB) They spent the day at the beach and tanning, which was nice.",
+  "output": "B) They spent the day at the beach and tanning, which was nice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

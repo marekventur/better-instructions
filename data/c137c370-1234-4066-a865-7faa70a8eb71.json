@@ -1,0 +1,12 @@
+{
+  "id": "c137c370-1234-4066-a865-7faa70a8eb71",
+  "instruction": "Replace this <mask> with a funny gif",
+  "input": "My friend said <mask> to me",
+  "output": "My friend said [gif of a laughing emoji] to me.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

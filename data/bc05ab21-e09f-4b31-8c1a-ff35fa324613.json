@@ -1,0 +1,12 @@
+{
+  "id": "bc05ab21-e09f-4b31-8c1a-ff35fa324613",
+  "instruction": "Build a classifier to identify whether a given text contains a positive sentiment or not.",
+  "input": "It was fantastic!",
+  "output": "Positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

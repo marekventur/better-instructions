@@ -1,0 +1,12 @@
+{
+  "id": "f6bd3c61-f5f7-4cda-abbe-752822502b7e",
+  "instruction": "Given the chemical formula, calculate the molar mass.",
+  "input": "CaCl2",
+  "output": "The molar mass of CaCl2 is 110.983 g/mol.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

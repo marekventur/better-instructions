@@ -1,0 +1,12 @@
+{
+  "id": "9db9d54c-36b7-4539-bed1-af8a9a7a5e9d",
+  "instruction": "Rearrange this sentence to move the focus away from the speaker.",
+  "input": "I started my business last month.",
+  "output": "Last month, my business was started.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "21bc5a9c-06cc-4264-871c-444991b80796",
+  "instruction": "Create 3 true/false questions about the following content.",
+  "input": "The African elephant is the largest living land mammal",
+  "output": "1. Is the African elephant the largest living mammal? True \n\n2. Is the African elephant the largest living land mammal? True\n\n3. Does the African elephant live in the sea? False",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

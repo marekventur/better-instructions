@@ -1,0 +1,12 @@
+{
+  "id": "becde1fe-c420-46a7-8dad-fd516b59d0ad",
+  "instruction": "Add 3 details to the story.",
+  "input": "Mary went on a walk in the park.",
+  "output": "Mary went on a walk in the park with her dog, in the afternoon sun. She walked through the fields and along the lake, taking in the beauty of the park. She was stopped by a friendly neighbor offering her a piece of cake. Mary happily accepted and the two chatted for some time before Mary continued on her walk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6129c57b-27ff-4fc5-9a83-88f93fd9deaa",
+  "instruction": "Replace the asterisks with the correct information",
+  "input": "When Christopher Columbus _______ in 1492, he was on a voyage to _______",
+  "output": "When Christopher Columbus set sail in 1492, he was on a voyage to the New World.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

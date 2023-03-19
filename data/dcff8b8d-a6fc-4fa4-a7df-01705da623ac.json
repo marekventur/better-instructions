@@ -1,0 +1,12 @@
+{
+  "id": "dcff8b8d-a6fc-4fa4-a7df-01705da623ac",
+  "instruction": "Explain why one should use the given tool.",
+  "input": "GitHub",
+  "output": "GitHub is an important tool for software developers and many other people who need to collaborate on projects. With GitHub, it's easy to store, back up, and share code, as well as easily collaborate with others on the same project. Thanks to its intuitive interface, users are able to track changes and compare versions of the code while they work on it. Additionally, since most of the work is stored on the cloud, it helps reduce tech costs. Finally, with GitHub's extensive library of open source code and its ability to analyze code, it is an invaluable tool for any developer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

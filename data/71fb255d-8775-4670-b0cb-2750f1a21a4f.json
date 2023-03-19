@@ -1,0 +1,12 @@
+{
+  "id": "71fb255d-8775-4670-b0cb-2750f1a21a4f",
+  "instruction": "Given three sentences, pick the odd one out.",
+  "input": "She found the book that he had lost.\nThe cat ran across the garden.\nThe sun rises in the east.",
+  "output": "The cat ran across the garden.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

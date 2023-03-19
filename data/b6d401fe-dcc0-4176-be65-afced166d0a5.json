@@ -1,0 +1,12 @@
+{
+  "id": "b6d401fe-dcc0-4176-be65-afced166d0a5",
+  "instruction": "Write a biographical summary about a Nobel Prize winner of your choice.",
+  "input": "Malala Yousafzai, Nobel Peace Prize winner",
+  "output": "Malala Yousafzai is a 19-year-old Pakistani human rights advocate who was awarded the Nobel Peace Prize in 2014, making her the youngest Nobel Prize laureate in history. Born in Swat Valley, Pakistan, she is a passionate advocate for girls\u2019 education and has been campaigning for this cause since the age of 11. In 2012, she was targeted and shot by the Taliban due to her activism, but emerged a survivor and continues to fight for girls and women\u2019s rights around the world. Malala is also the founder of the Malala Fund, an organization that supports local education initiatives in countries around the globe, and works to foster an environment where every girl has access to education. Her recognition with the Nobel Peace Prize enabled her to continue her work and serve as a voice for the voiceless.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

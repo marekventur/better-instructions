@@ -1,0 +1,12 @@
+{
+  "id": "026462bd-36b5-4190-b35a-2fc4936527de",
+  "instruction": "Find a fact about the bird of the following species",
+  "input": "Species: Great Horned Owl",
+  "output": "The Great Horned Owl is the most widespread raptor in the Americas, and it is the one of the earliest nesting birds of the year. It nests in a wide range of habitats, from deserts to suburban areas, and it can live up to 8 years in the wild.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

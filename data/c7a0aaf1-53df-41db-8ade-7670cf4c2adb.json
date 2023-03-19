@@ -1,0 +1,12 @@
+{
+  "id": "c7a0aaf1-53df-41db-8ade-7670cf4c2adb",
+  "instruction": "Given a dialogue, choose the best response to the question.",
+  "input": "Customer: Can I get a refund on this item?\nShopkeeper: Sure, let me check on that.",
+  "output": "Customer: Great, thank you!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

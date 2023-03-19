@@ -1,0 +1,12 @@
+{
+  "id": "0cb124bd-3cc9-4d56-9edc-7b860d3c509b",
+  "instruction": "Convert the below sentence into plural.",
+  "input": "She has a dog.",
+  "output": "She has dogs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7645bb58-b50d-41da-bd45-835ea0a64dbe",
+  "instruction": "Given two ingredients, develop a recipe for making a cake.",
+  "input": "almonds and orange juice",
+  "output": "Almond-Orange Cake: Preheat oven to 350 degrees F. Grease a 9-inch round cake pan. In a bowl, mix together 1 cup of orange juice, 1 cup of sugar, and 1/2 cup of vegetable oil. In another bowl, mix together 2 cups of all-purpose flour, 1 teaspoon of baking soda, 1 teaspoon of baking powder, and 1 teaspoon of salt. Gradually add the wet ingredients to the dry ingredients and stir until fully incorporated. Lastly, fold in 1/2 cup of almonds. Bake for 40-45 minutes, or until a toothpick comes out clean.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

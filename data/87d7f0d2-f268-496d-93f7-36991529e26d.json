@@ -1,0 +1,12 @@
+{
+  "id": "87d7f0d2-f268-496d-93f7-36991529e26d",
+  "instruction": "Categorize this sentence as declarative, interrogative, imperative, or exclamative",
+  "input": "Have you done your homework?",
+  "output": "Interrogative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

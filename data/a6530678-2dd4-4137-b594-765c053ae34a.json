@@ -1,0 +1,12 @@
+{
+  "id": "a6530678-2dd4-4137-b594-765c053ae34a",
+  "instruction": "Categorize this animal as a mammal, bird, reptile or fish.",
+  "input": "Lion",
+  "output": "Mammal",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

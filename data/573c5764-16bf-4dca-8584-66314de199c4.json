@@ -1,0 +1,12 @@
+{
+  "id": "573c5764-16bf-4dca-8584-66314de199c4",
+  "instruction": "Compose a simple melody for the following lyrics.",
+  "input": "\"I can't find the words to say, but I'm feeling OK\"",
+  "output": "D-C-B-A-D G-A-G-F-E-D D-C-B-A-D E-G-A-G.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

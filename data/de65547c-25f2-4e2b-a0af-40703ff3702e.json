@@ -1,0 +1,12 @@
+{
+  "id": "de65547c-25f2-4e2b-a0af-40703ff3702e",
+  "instruction": "Answer this trivia question",
+  "input": "What is the deepest lake in the world?",
+  "output": "The deepest lake in the world is Lake Baikal in Siberia, which is 1,642 meters deep.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

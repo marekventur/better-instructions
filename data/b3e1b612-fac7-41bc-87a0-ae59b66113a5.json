@@ -1,0 +1,12 @@
+{
+  "id": "b3e1b612-fac7-41bc-87a0-ae59b66113a5",
+  "instruction": "Given a product, find similar products from different brands.",
+  "input": "Macbook Air",
+  "output": "Similar products to the MacBook Air include the Asus ZenBook, Microsoft Surface Pro, Dell XPS 13, HP Envy 13, and Lenovo Yoga 9",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

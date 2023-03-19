@@ -1,0 +1,12 @@
+{
+  "id": "54b795e6-c4be-4dfc-a44e-377e5d39d979",
+  "instruction": "Is the sentence grammatically correct?",
+  "input": "The boy was playing with her toys.",
+  "output": "Yes, the sentence is grammatically correct.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

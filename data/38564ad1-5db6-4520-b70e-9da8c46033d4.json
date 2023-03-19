@@ -1,0 +1,12 @@
+{
+  "id": "38564ad1-5db6-4520-b70e-9da8c46033d4",
+  "instruction": "Create a list of 10 items that every kitchen needs.",
+  "input": "",
+  "output": "Every kitchen needs:\n- Pots and pans\n- Knives and cutting boards\n- Appliances (blender, toaster, microwave)\n- Utensils (spatula, ladle, measuring cups)\n- Storage containers \n- Stovetop accessories (pans, trivets)\n- Dinnerware (plates, bowls, cups)\n- Tea towels\n- Cooking oils and herbs\n- Cleaning supplies (dish soap, sponge, dish cloths)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

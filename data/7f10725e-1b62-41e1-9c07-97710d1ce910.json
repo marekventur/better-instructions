@@ -1,0 +1,12 @@
+{
+  "id": "7f10725e-1b62-41e1-9c07-97710d1ce910",
+  "instruction": "Identify the nouns in the sentence: \"The cat jumped down from the tree.\"",
+  "input": "\"The cat jumped down from the tree.\"",
+  "output": "The nouns in the sentence are \"cat\" and \"tree\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

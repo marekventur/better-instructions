@@ -1,0 +1,12 @@
+{
+  "id": "96e88d31-66c5-42a9-847f-96449c780395",
+  "instruction": "Reverse engineer the following code to make the output \"odd\".",
+  "input": "if (x % 2 == 0) {\n    print(\"even\")\n}",
+  "output": "if (x % 2 != 0) {\n    print(\"odd\")\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

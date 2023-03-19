@@ -1,0 +1,12 @@
+{
+  "id": "165d2c0b-bd7e-4024-b12e-25c5f89e124d",
+  "instruction": "Edit the text so it has more positive connotations.",
+  "input": "The current economic situation is not looking good. The numbers are not encouraging, and most experts believe it will take a long time before things start to improve.",
+  "output": "The current economic situation is showing signs of promise. Recent figures suggest that the economy may start to rebound soon, as many experts have expressed optimism about its future prospects. With efforts being made to stimulate the economy and businesses starting to benefit, the outlook is more positive than in recent times.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

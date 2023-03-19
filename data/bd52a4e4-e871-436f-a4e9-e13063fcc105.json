@@ -1,0 +1,12 @@
+{
+  "id": "bd52a4e4-e871-436f-a4e9-e13063fcc105",
+  "instruction": "Design a user interface for the given application.",
+  "input": "An application for keeping track of used books",
+  "output": "The user interface for this used book tracking application should be easy to use, modern and eye-catching. The main page should show a search bar and a list of the different book genres. On the left hand side of the application, there should be options for sorting through used books and filtering by genre. The individual book pages should have the most important information such as title, author, price, condition and the ISBN code.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

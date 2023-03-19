@@ -1,0 +1,12 @@
+{
+  "id": "fe85da8b-431b-48c2-a693-6af894a1f413",
+  "instruction": "Given a recipe and its ingredients, come up with an improved version of the recipe.",
+  "input": "Recipe: Meatloaf\nIngredients: Ground beef, eggs, bread crumbs, ketchup",
+  "output": "Try this delicious twist on traditional meatloaf! Combine 1 1/2 pounds of ground beef, 2 eggs, 1 cup of bread crumbs, 1 cup of ketchup, and 1/2 cup of diced onion in a large bowl. Mix all the ingredients until combined, then shape the mixture into a loaf. Place the loaf in a greased baking dish and bake at 350\u00b0F for 1 hour. Top with more ketchup and serve.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

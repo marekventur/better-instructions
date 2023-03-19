@@ -1,0 +1,12 @@
+{
+  "id": "c1c05968-a0c2-497f-8cf1-af3d815cfb0d",
+  "instruction": "Based on the Wikipedia article below, create a 100-word summary of the concept.",
+  "input": "Flow (psychology)\nFlow, also known as the zone, is the mental state of operation in which a person performing an activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity. In essence, flow is characterized by the complete absorption in what one does, and a resulting loss in one's sense of space and time.",
+  "output": "Flow, also known as the zone or \"being in the zone\", is a mental state people enter when they are engaged in an activity in which they are fully absorbed. This feeling of energized focus and enjoyment comes from the process of being fully involved and having an aim for the activity. This state is marked by a loss in self-consciousness, a sensation of the unity of action and awareness, a distorted sense of time, a sense of personal control and sometimes a sense of great inner peace. Flow is often associated with peak performance, when people are fully engaged in activities like art, sports, gaming, and meditation. The flow state enables people to perform activities at their highest levels of effectiveness, creativity and satisfaction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fc23e7a0-670b-428d-9038-359b6df1a19a",
+  "instruction": "Edit the following sentence so it expresses the same meaning but contains fewer words.",
+  "input": "He ignored the advice his colleagues gave him.",
+  "output": "He disregarded his colleagues' advice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

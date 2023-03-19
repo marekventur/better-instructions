@@ -1,0 +1,12 @@
+{
+  "id": "f05c1cd1-6f09-43ce-89a6-f9caf2083213",
+  "instruction": "Generate a summary of the passage in less than 20 words",
+  "input": "Brazilian researchers have discovered a previously unknown species of blackbird in the Amazon rainforest. Found near Rio Tapajos, the blackbird has a distinctive patch of chestnut-coloured feathers and a distinctive call described as a \u2018harsh scolding\u2019.",
+  "output": "Brazil researchers discover new species of blackbird near Rio Tapajos with distinctive feathers and call.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

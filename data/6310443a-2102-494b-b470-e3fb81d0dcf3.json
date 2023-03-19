@@ -1,0 +1,12 @@
+{
+  "id": "6310443a-2102-494b-b470-e3fb81d0dcf3",
+  "instruction": "Text summarization of the following article in less than 10 sentences.",
+  "input": "The current pandemic has brought about an unprecedented disruption to the economy, resulting in a sudden shift to e-commerce as well as a greater demand for digital services. To meet the increased demand, businesses are relying on cloud-based services to scale operations, manage workloads, and improve customer experience. Additionally, artificial intelligence (AI) and automation tools have allowed companies to stay agile and be productive in the midst of immense disruption. While cloud computing and AI were already popular before 2020, the current climate has made their utilization even more important to the success of businesses in the future.",
+  "output": "The pandemic has resulted in an increased demand for digital services and a shift to e-commerce. To meet this demand, cloud-based services are being utilized to scale operations, manage workloads, and improve customer experience. Additionally, AI and automation tools have allowed companies to stay agile and productive. Cloud computing and AI were popular prior to the pandemic but are now becoming even more heavily utilized.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

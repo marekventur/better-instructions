@@ -1,0 +1,12 @@
+{
+  "id": "bdef2c01-69e5-4a4c-8de8-22ea462108fb",
+  "instruction": "Create a response to a customer's inquiries",
+  "input": "Hello, \n\nI was wondering if you had any information about the delivery of my product?",
+  "output": "Hello, \n\nThanks for your inquiry. We aim to deliver products within 3-5 business days. We will ensure that your product is delivered in a timely manner. If you have any further questions, please don't hesitate to reach out.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

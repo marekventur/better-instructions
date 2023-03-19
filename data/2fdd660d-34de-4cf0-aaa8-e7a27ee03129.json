@@ -1,0 +1,12 @@
+{
+  "id": "2fdd660d-34de-4cf0-aaa8-e7a27ee03129",
+  "instruction": "How much money should the customer spend on a purchase given the following input? Output the amount in dollars.",
+  "input": "Monthly budget: $500\nPurchase: a new laptop",
+  "output": "At least $500",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

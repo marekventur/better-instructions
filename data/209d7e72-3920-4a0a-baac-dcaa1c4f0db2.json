@@ -1,0 +1,12 @@
+{
+  "id": "209d7e72-3920-4a0a-baac-dcaa1c4f0db2",
+  "instruction": "Insert spaces between the words in the input.",
+  "input": "serenebeauty",
+  "output": "serene beauty",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

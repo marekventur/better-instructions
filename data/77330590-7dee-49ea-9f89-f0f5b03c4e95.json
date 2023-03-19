@@ -1,0 +1,12 @@
+{
+  "id": "77330590-7dee-49ea-9f89-f0f5b03c4e95",
+  "instruction": "Analyze the given text and find out what is the author's opinion/stance.",
+  "input": "The electrification of transportation is essential for reducing carbon emissions and fighting climate change.",
+  "output": "The author has a positive view on the electrification of transportation, as they believe it is essential for reducing carbon emissions and fighting climate change.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

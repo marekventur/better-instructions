@@ -1,0 +1,12 @@
+{
+  "id": "0611318b-2a2e-499c-9181-f1320928bba5",
+  "instruction": "Given two integers A and B, write a program to find the greatest common divisor (GCD) between them.",
+  "input": "A = 36\nB = 48",
+  "output": "12",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

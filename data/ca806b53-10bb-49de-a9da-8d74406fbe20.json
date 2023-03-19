@@ -1,0 +1,12 @@
+{
+  "id": "ca806b53-10bb-49de-a9da-8d74406fbe20",
+  "instruction": "Generate a product review with the following information",
+  "input": "Product: Headphones\nRating: 4.5/5",
+  "output": "I recently purchased the new pair of headphones and I'm very impressed! The sound quality is great, and they are really comfortable to wear. The bass is really well-balanced and the music sounds crystal clear. I love the adjustable headband, too, so they fit perfectly on my head. Overall it's great value for the money and I highly recommend them with a rating of 4.5/5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

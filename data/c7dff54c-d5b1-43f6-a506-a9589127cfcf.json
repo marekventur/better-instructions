@@ -1,0 +1,12 @@
+{
+  "id": "c7dff54c-d5b1-43f6-a506-a9589127cfcf",
+  "instruction": "Given two sentences, identify the false one",
+  "input": "Sentence 1: Apple is a fruit\nSentence 2: Apple is a vegetable",
+  "output": "Sentence 2: Apple is a vegetable.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

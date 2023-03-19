@@ -1,0 +1,12 @@
+{
+  "id": "6c83a978-be73-4a0f-b2e4-e5ebde8c6335",
+  "instruction": "Find the Unusual Suspects",
+  "input": "I've seen four people I can identify as suspects in a criminal case. They are Sam, Lisa, Bill, and Paul.",
+  "output": "The unusual suspect is Paul, as he is the only one with a different name than the other three.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

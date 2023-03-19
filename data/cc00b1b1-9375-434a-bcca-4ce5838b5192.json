@@ -1,0 +1,12 @@
+{
+  "id": "cc00b1b1-9375-434a-bcca-4ce5838b5192",
+  "instruction": "Given a sentence, find all the misspelled words",
+  "input": "I swimmed in the lake.",
+  "output": "Misspelled words: swimmed",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

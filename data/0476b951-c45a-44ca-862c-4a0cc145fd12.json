@@ -1,0 +1,12 @@
+{
+  "id": "0476b951-c45a-44ca-862c-4a0cc145fd12",
+  "instruction": "Generate a haiku poem using the given words and no additional words.",
+  "input": "Words: calm, sky, moon",
+  "output": "Calm sky views the moon/ Stars twinkle in silent night/ Serenity reigns.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

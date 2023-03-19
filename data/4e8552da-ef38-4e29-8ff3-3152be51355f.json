@@ -1,0 +1,12 @@
+{
+  "id": "4e8552da-ef38-4e29-8ff3-3152be51355f",
+  "instruction": "Predict the impact would the given information have",
+  "input": "The US government is expected to release new regulations to control carbon emissions.",
+  "output": "The new regulations to control carbon emissions are likely to have a significant effect on the US economy, as many businesses and industries will be required to achieve varying levels of emissions reduction. In addition, the regulations are likely to significantly reduce carbon emissions, which could eventually lead to a reduction in global temperatures.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

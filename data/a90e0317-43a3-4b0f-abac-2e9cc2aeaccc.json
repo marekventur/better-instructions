@@ -1,0 +1,12 @@
+{
+  "id": "a90e0317-43a3-4b0f-abac-2e9cc2aeaccc",
+  "instruction": "Distinguish the true part of the given statement",
+  "input": "The earth is 6,000 years old and aliens exist.",
+  "output": "The earth is not 6,000 years old.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

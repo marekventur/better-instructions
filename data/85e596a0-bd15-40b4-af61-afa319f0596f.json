@@ -1,0 +1,12 @@
+{
+  "id": "85e596a0-bd15-40b4-af61-afa319f0596f",
+  "instruction": "Name a specific example of the concept mentioned in the document.",
+  "input": "Document: A mesh network is a local network topology that is made up of wireless nodes and connecting devices.",
+  "output": "Wi-Fi hotspots.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

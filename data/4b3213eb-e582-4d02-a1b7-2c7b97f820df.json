@@ -1,0 +1,12 @@
+{
+  "id": "4b3213eb-e582-4d02-a1b7-2c7b97f820df",
+  "instruction": "Given a list of ingredients, describe how to make a delicious pizza.",
+  "input": "Dough, tomatoes, basil, mozzarella, olive oil.",
+  "output": "Begin by preheating your oven to the desired temperature. Roll out the dough on a greased pizza pan. Cover the dough with a thin layer of olive oil. Spread the diced tomatoes and basil leaves on top of the dough. Add the mozzarella cheese over top of the pizza evenly. Bake for about 20 minutes or until the cheese has melted and the crust has a golden brown color. Enjoy your delicious pizza!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "28a25a0e-cadc-4c1c-91d6-000933858c85",
+  "instruction": "Identify the syntactic role of the word \"cat\" in the sentence below.",
+  "input": "My cat ate the mouse.",
+  "output": "The word \"cat\" is the subject of the sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

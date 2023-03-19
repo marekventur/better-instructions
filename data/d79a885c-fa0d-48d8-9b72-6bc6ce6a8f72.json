@@ -1,0 +1,12 @@
+{
+  "id": "d79a885c-fa0d-48d8-9b72-6bc6ce6a8f72",
+  "instruction": "Write a JavaScript code to generate a random number between 1 to 10",
+  "input": "",
+  "output": "var randomNumber = Math.floor(Math.random() * 10) + 1;\nconsole.log(randomNumber);",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "efcd41df-7f6a-4d84-8aca-0fd7700319db",
+  "instruction": "Find the most likely cause",
+  "input": "A group of people in a room start coughing.",
+  "output": "The most likely cause is that someone in the room has a cold or allergy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

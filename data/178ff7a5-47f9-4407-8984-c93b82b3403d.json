@@ -1,0 +1,12 @@
+{
+  "id": "178ff7a5-47f9-4407-8984-c93b82b3403d",
+  "instruction": "Given three words, write a simile.",
+  "input": "Bird, cloud, sky",
+  "output": "The bird flew through the sky like a cloud drifting across the horizon.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

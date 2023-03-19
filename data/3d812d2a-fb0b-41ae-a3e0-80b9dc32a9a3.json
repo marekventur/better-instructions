@@ -1,0 +1,12 @@
+{
+  "id": "3d812d2a-fb0b-41ae-a3e0-80b9dc32a9a3",
+  "instruction": "Give an example of a widely used service that uses implicit authentication.",
+  "input": "",
+  "output": "One example of widely used service that uses implicit authentication is online banking services. Banks require customers to use a username and password combination to access their account through a web portal, but banks can also recognize customers attempting to login from their device or the same IP address. Banks will often allow access to a customer's account if it detects activity that can be linked to a customer, such as a stored cookie, which serves as an implicit authentication. This helps prevent fraud, since the customer's device or IP address must match their account to gain access.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

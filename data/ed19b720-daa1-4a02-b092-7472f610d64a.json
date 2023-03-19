@@ -1,0 +1,12 @@
+{
+  "id": "ed19b720-daa1-4a02-b092-7472f610d64a",
+  "instruction": "Design a computer vision model for the following task.",
+  "input": "Detecting objects in an image",
+  "output": "A computer vision model for detecting objects in an image would involve training a Convolutional Neural Network (CNN) to identify features in the image and then classes the features into the appropriate object classes. Common techniques involve Transfer Learning, Utilizing Pretrained Model, or building a model from scratch. The trained model would then be used to make predictions in new images.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

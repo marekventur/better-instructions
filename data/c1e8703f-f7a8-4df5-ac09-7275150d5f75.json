@@ -1,0 +1,12 @@
+{
+  "id": "c1e8703f-f7a8-4df5-ac09-7275150d5f75",
+  "instruction": "Identify the passive and active voice used in the following sentence.",
+  "input": "The train was sent off on time.",
+  "output": "Passive voice: The train was sent off on time. \nActive voice: Someone sent off the train on time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

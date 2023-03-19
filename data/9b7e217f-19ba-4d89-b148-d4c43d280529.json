@@ -1,0 +1,12 @@
+{
+  "id": "9b7e217f-19ba-4d89-b148-d4c43d280529",
+  "instruction": "Generate three questions to ask a customer when they make a purchase.",
+  "input": "",
+  "output": "When a customer makes a purchase, it is a good idea to ask them a few questions to ensure their satisfaction: \n1. Is this the product you were looking for? \n2. Is there anything else that I can help you with? \n3. Would you like to sign up for our newsletter to receive exclusive offers?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

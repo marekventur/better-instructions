@@ -1,0 +1,12 @@
+{
+  "id": "78955f4b-113d-4b9c-be25-b55355238f82",
+  "instruction": "Create a description of a movie based on a book.",
+  "input": "The Giver, by Lois Lowry",
+  "output": "The Giver is a gripping story about a utopian society and a young boy who discovers the real world outside the perfect, but constricting, order of his village. The story follows the adventures of Jonas as he discovers the joy, sorrow, and pain of life beyond the safe normalcy of his community. The movie, starring Jeff Bridges and Meryl Streep, brings this story to life with stunning visuals and an intense score, creating a suspenseful and emotional experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

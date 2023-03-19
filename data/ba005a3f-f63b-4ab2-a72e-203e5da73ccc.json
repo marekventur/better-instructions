@@ -1,0 +1,12 @@
+{
+  "id": "ba005a3f-f63b-4ab2-a72e-203e5da73ccc",
+  "instruction": "Generate a list of 3 strategies to help reduce the risk of cyber attacks.",
+  "input": "",
+  "output": "1. Implement strong password policies, including the use of two-factor authentication.\n2. Limit access to only those who need it and work with trusted third-party vendors to ensure the safety of your data.\n3. Regularly update your security software, including antivirus and firewall.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

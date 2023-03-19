@@ -1,0 +1,12 @@
+{
+  "id": "a24028f7-b0db-4196-a394-179410fa85cc",
+  "instruction": "Does the following phrase contain two consecutive consonants?",
+  "input": "Watch",
+  "output": "Yes. The phrase contains two consecutive consonants, \"t\" and \"ch\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

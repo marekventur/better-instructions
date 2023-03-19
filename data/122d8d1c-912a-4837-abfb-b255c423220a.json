@@ -1,0 +1,12 @@
+{
+  "id": "122d8d1c-912a-4837-abfb-b255c423220a",
+  "instruction": "In a new list, combine the two lists below into one.\n\nList 1: Apple, Orange, Carrot\n\nList 2: Banana, Strawberry, Potato",
+  "input": "List 1: Apple, Orange, Carrot\nList 2: Banana, Strawberry, Potato",
+  "output": "Apple, Orange, Carrot, Banana, Strawberry, Potato.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

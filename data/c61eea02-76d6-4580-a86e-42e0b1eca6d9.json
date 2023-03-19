@@ -1,0 +1,12 @@
+{
+  "id": "c61eea02-76d6-4580-a86e-42e0b1eca6d9",
+  "instruction": "Given the coordinates of two different cities, calculate the distance between them.",
+  "input": "City A: (-3.6881, 40.4217)\nCity B: (-73.9714, 40.7507)",
+  "output": "The distance between City A and City B is 3,363.63 kilometers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

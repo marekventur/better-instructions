@@ -1,0 +1,12 @@
+{
+  "id": "18790ece-865d-4448-9e64-7a6280f68452",
+  "instruction": "Describe a challenging problem your team faced in the past and how you solved it.",
+  "input": "",
+  "output": "My team recently faced a challenging problem when designing an application that could accurately track and store user data while also incorporating appropriate security protocols. We ultimately solved the issue by using a combination of authentication techniques and an adaptive data storage system that was able to easily scale with the growing number of users. This enabled us to meet our security needs without compromising on the accuracy of the user data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

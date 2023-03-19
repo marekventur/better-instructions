@@ -1,0 +1,12 @@
+{
+  "id": "4b9bcb78-f747-47fd-952d-123301baad99",
+  "instruction": "Given an individual with a certain job and a certain city, determine the average salary of the job in the city.",
+  "input": "Computer programmer, Tokyo",
+  "output": "According to Salary.com, the average salary of a computer programmer in Tokyo is \u00a59,806,209.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a206ed1f-d23f-4258-993b-610d4576bd51",
+  "instruction": "Categorize the following list of items according to material: wood, steel, plastic, aluminum",
+  "input": "Chair, Hammer, Pen, Bottle",
+  "output": "Wood - Chair\nSteel - Hammer\nPlastic - Pen\nAluminum - Bottle",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "69ef594c-e758-4625-8b91-5ebac763a79b",
+  "instruction": "Create an algorithm to convert traditional currency amounts to Bitcoin.",
+  "input": "",
+  "output": "The algorithm should take into account the current exchange rate for the traditional currency and inputted amount, then convert the amount to Bitcoin at the current rate of exchange. For example, if the current exchange rate is USD to BTC at 1 BTC to $8,000, then $100 would be equal to 0.0125 BTC. The algorithm should also have error handling for any incorrect inputs given.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

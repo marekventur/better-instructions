@@ -1,0 +1,12 @@
+{
+  "id": "13e911e5-a326-4536-b5eb-0a1b1b884cde",
+  "instruction": "Classify this data \"apple, orange, car, tree\".",
+  "input": "",
+  "output": "Apple and orange are fruits, car is a vehicle, and tree is a plant.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

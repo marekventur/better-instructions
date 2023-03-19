@@ -1,0 +1,12 @@
+{
+  "id": "a5a727ab-de67-4ea3-b869-9fe24d16156b",
+  "instruction": "Given a list, sort it from highest to lowest.",
+  "input": "[3, 5, 27, 1, -3]",
+  "output": "[27, 5, 3, 1, -3]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

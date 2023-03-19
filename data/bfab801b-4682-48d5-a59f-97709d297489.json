@@ -1,0 +1,12 @@
+{
+  "id": "bfab801b-4682-48d5-a59f-97709d297489",
+  "instruction": "Give a sentence that describes this situation.",
+  "input": "Two men are walking down a path, one of them carrying a backpack.",
+  "output": "The two men strolled down the winding path, one with a large backpack slung over his shoulder.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

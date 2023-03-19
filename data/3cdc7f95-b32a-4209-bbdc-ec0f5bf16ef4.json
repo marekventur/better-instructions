@@ -1,0 +1,12 @@
+{
+  "id": "3cdc7f95-b32a-4209-bbdc-ec0f5bf16ef4",
+  "instruction": "Create a function to calculate aspect ratio given two inputs",
+  "input": "width = 400, height = 600",
+  "output": "def aspect_ratio(width, height):\n  return width / height\n\naspect_ratio(400, 600)  # Output: 0.6666666666666666",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

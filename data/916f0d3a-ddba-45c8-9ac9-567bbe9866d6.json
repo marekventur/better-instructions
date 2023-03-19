@@ -1,0 +1,12 @@
+{
+  "id": "916f0d3a-ddba-45c8-9ac9-567bbe9866d6",
+  "instruction": "Write a Python program to find the maximum number in a list.",
+  "input": "list1 = [1, 5, 10, 3, 9]",
+  "output": "#Find maximum in list\nlist1 = [1, 5, 10, 3, 9]\nmax_num = 0\nfor num in list1:\n    if num > max_num:\n        max_num = num\nprint('Maximum number in the list is', max_num)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6a479825-7c3b-4dd6-a59a-62d2c18f04b3",
+  "instruction": "Given a scenario, devise a plan to address it.",
+  "input": "Your neighbor is hosting a loud party and it's keeping you up.",
+  "output": "To address the situation, I would first attempt to talk to the neighbor politely and ask them to keep the volume down. If that fails, I would inform the landlord or the local police to take appropriate action. If I am unable to take those measures, then I would invest in soundproofing materials to minimize the noise coming from the neighbor's side.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

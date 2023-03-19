@@ -1,0 +1,12 @@
+{
+  "id": "80c5f0c9-e879-4662-83b7-54872b5f2b04",
+  "instruction": "Construct a paragraph describing the character's personality.",
+  "input": "The main character of the story is a young man named John.",
+  "output": "John is a determined and ambitious young man. He is driven by his goals and has a unique sense of purpose. He is not easily phased by obstacles, as he views them as challenges rather than roadblocks. John also has an optimistic outlook on life, and he is genuinely kind and understanding of those around him.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

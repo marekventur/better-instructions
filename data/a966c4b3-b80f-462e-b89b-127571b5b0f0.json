@@ -1,0 +1,12 @@
+{
+  "id": "a966c4b3-b80f-462e-b89b-127571b5b0f0",
+  "instruction": "Find the value of the expression 3x2 + 4x - 2.",
+  "input": "x=5",
+  "output": "73",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

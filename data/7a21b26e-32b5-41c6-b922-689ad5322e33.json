@@ -1,0 +1,12 @@
+{
+  "id": "7a21b26e-32b5-41c6-b922-689ad5322e33",
+  "instruction": "Edit the given sentence to make it grammatically correct.",
+  "input": "I dont has a pen",
+  "output": "I don't have a pen.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

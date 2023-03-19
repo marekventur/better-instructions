@@ -1,0 +1,12 @@
+{
+  "id": "fcf87c93-6117-4599-b5d8-6e9d28ed83be",
+  "instruction": "Summarize the content in the following passage.",
+  "input": "The American alligator is a large semi-aquatic reptile found in the southeastern United States. Alligators spend most of the time in freshwater rivers, lakes, swamps and marshes. Alligators are an important part of their ecosystem, controlling the number of small animals like birds and fish, and maintaining the health of the plant community by keeping the waterways clear.",
+  "output": "The American alligator is a large semi-aquatic reptile native to the southeastern United States. These reptiles help maintain the health of the local ecosystem by controlling the population of smaller animals like birds and fish and by keeping the waterways clear. They live primarily in rivers, lakes, swamps, and marshes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

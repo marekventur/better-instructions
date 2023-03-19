@@ -1,0 +1,12 @@
+{
+  "id": "9766dcd2-6a70-4846-bad1-e93cde928770",
+  "instruction": "Generate a list of five books related to machine learning.",
+  "input": "",
+  "output": "1. \"Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow\" by Aur\u00e9lien G\u00e9ron \n2. \"Deep Learning\" by Ian Goodfellow et al.\n3. \"Machine Learning: A Probabilistic Perspective\" by Kevin Murphy\n4. \"Deep Reinforcement Learning: An Overview\" by DeepMind \n5. \"Pattern Recognition and Machine Learning\" by Bishop",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0d3ab1db-6a63-409d-a8f8-dbd4cd14f3b9",
+  "instruction": "Modify the following recipe to make it healthier.",
+  "input": "Chocolate Chip Cookies\nIngredients: \n- 1 cup butter\n- 1 cup white sugar\n- 1 cup packed brown sugar\n- 2 eggs\n- 2 teaspoons vanilla extract\n- 3 cups all-purpose flour\n- 1 teaspoon baking soda\n- 1/2 teaspoon salt\n- 2 cups semisweet chocolate chips",
+  "output": "Chocolate Chip Cookies \nIngredients:\n- 1/2 cup butter\n- 1/2 cup applesauce \n- 3/4 cup white sugar \n- 3/4 cup packed brown sugar \n- 2 eggs \n- 2 teaspoons vanilla extract \n- 2 1/4 cups all-purpose flour \n- 1 teaspoon baking soda \n- 1 teaspoon ground cinnamon \n- 1/2 teaspoon salt \n- 2 cups semisweet chocolate chips \n- 1 cup nuts (optional)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

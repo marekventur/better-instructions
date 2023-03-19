@@ -1,0 +1,12 @@
+{
+  "id": "5e29ade0-152c-451d-b418-d83196de2c45",
+  "instruction": "Identify the geographical unit for the following state boundary description.",
+  "input": "The boundary between Colorado and Utah",
+  "output": "The geographical unit for this boundary is the state boundary between Colorado and Utah.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

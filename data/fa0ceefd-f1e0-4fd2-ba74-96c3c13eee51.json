@@ -1,0 +1,12 @@
+{
+  "id": "fa0ceefd-f1e0-4fd2-ba74-96c3c13eee51",
+  "instruction": "Design a data model to store customer information.",
+  "input": "",
+  "output": "The customer data model should include a customer table that stores customer name, address, contact details, customer type, purchasing history, and account status. Additionally, the model should also have a customer transaction table that stores transaction details like customer ID, item purchased, Total Price, Tax, Payment Method and Date of transaction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

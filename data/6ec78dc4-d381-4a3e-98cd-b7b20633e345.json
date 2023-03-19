@@ -1,0 +1,12 @@
+{
+  "id": "6ec78dc4-d381-4a3e-98cd-b7b20633e345",
+  "instruction": "Match the following pairs by finding the similarity.",
+  "input": "Dog - Cat",
+  "output": "Both dog and cat are animals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

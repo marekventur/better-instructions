@@ -1,0 +1,12 @@
+{
+  "id": "eb379468-6303-4bbf-9d7a-42c5602b4d1c",
+  "instruction": "Separate the words in the sentence into syllables.",
+  "input": "She is jumping rope.",
+  "output": "She/ is/ jump/ ing/ rope.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "401cf126-48e1-44a8-b10d-d6a6477b7efe",
+  "instruction": "Curate a new playlist based on the following criteria",
+  "input": "Create a playlist with 8 romantic songs from different decades",
+  "output": "1. Elvis Presley \u2013 Can't Help Falling in Love (1960s)\n2. Marvin Gaye \u2013 Let\u2019s Get It On (1970s)\n3. Marvin Gaye & Tammi Terrell \u2013 Ain\u2019t No Mountain High Enough (1970s)\n4. Whitney Houston \u2013 I Will Always Love You (1980s)\n5. Lionel Richie \u2013 Stuck on You (1980s)\n6. Tina Turner \u2013 What\u2019s Love Got To Do With It (1984)\n7. Sade \u2013 No Ordinary Love (1990s)\n8. Alicia Keys \u2013 Fallin\u2019 (2000s)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

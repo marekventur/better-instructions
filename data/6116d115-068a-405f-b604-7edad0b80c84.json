@@ -1,0 +1,12 @@
+{
+  "id": "6116d115-068a-405f-b604-7edad0b80c84",
+  "instruction": "You are given a text, edit it to make it more concise using no more than 20 words.",
+  "input": "A wide range of desserts are available in the bakery department, the selection includes cakes, pies, pastries, and other sweets.",
+  "output": "The bakery has a variety of cakes, pies, pastries, and other desserts.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

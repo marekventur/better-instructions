@@ -1,0 +1,12 @@
+{
+  "id": "b7301e7e-1e39-4131-8e9c-facd1b4ae336",
+  "instruction": "Edit this sentence so that it uses correct grammar and punctuation.",
+  "input": "he's a stubborn boy",
+  "output": "He's a stubborn boy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

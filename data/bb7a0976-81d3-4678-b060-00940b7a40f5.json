@@ -1,0 +1,12 @@
+{
+  "id": "bb7a0976-81d3-4678-b060-00940b7a40f5",
+  "instruction": "Categorize these animals as predators/prey.",
+  "input": "Cheetah, Elephant, Rabbit",
+  "output": "Cheetah (predator), Elephant (prey), Rabbit (prey)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

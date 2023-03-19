@@ -1,0 +1,12 @@
+{
+  "id": "01d64f3c-557c-4a72-97a1-25b5299b3c62",
+  "instruction": "Describe the application development life cycle.",
+  "input": "",
+  "output": "The application development life cycle (ADLC) is a process for managing the development of a software application, from conception to deployment. There are generally six distinct phases in the ADLC: planning, analysis, design, implementation and testing, deployment and maintenance. In the planning phase, stakeholders need to evaluate project objectives and decide which type of software should be used. During the analysis phase, stakeholders will review the system requirements in detail and develop a business plan. In the design phase, the system architecture and designs, including user interfaces and databases, are determined. During implementation and testing, the code is written and tested for bugs and then deployed, after which regular maintenance and updates should be conducted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a4285603-37ec-4a3c-ad8d-6ce4833fdb46",
+  "instruction": "Describe what is the setting of this painting",
+  "input": "The Starry Night",
+  "output": "The painting depicts a moonlit night with a cypress tree in the foreground, a small village in the midground, and the sky full of stars above. The sky is filled with swirling clouds painted in intense blues and violets. The whole scene is positioned in an imaginary panoramic valley with mountains in the background. The village below is bathed in a pale light and is composed of a few peasant houses. The meandering roadway leads up to the centre, where the imposing Church of Santa Maria del Cuore is situated on top of a small hill. On the left, a bright star can be seen in the night sky, perhaps a symbol of hope and enlightment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

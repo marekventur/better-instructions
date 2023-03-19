@@ -1,0 +1,12 @@
+{
+  "id": "e70f1b77-3a57-4bc2-b90f-0c4ec19b8f29",
+  "instruction": "Create an email to a professor introducing yourself and your goals.",
+  "input": "",
+  "output": "Dear Professor [Name], \n\nMy name is [Your Name] and I am a student in your [course name] class this semester. I am excited to have the opportunity to learn from you. I am a motivated and hard-working person who is passionate about learning and growing. I hope to not only gain knowledge from your class, but also to further develop my skills and engage with the material. \n\nI am confident that I can contribute to the class and I look forward to the synergy between the professor and the students. I am available for any questions or guidance. \n\nThank you for your time. \n\nSincerely, \n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

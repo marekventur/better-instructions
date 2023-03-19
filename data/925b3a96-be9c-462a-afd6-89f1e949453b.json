@@ -1,0 +1,12 @@
+{
+  "id": "925b3a96-be9c-462a-afd6-89f1e949453b",
+  "instruction": "Delete the text between the two red arrows and replace it with something more creative.",
+  "input": "The app gives users the ------------> power to do whatever they want <------------ with their online accounts.",
+  "output": "The app gives users the ------------> freedom to customize and personalize <------------ their online accounts.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

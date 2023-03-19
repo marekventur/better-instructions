@@ -1,0 +1,12 @@
+{
+  "id": "770c61a0-a1ba-4af5-948d-50827c1c3e70",
+  "instruction": "Format the following sentence so it is gramatically correct.",
+  "input": "we need now to look back at important moments",
+  "output": "We need now to look back at important moments.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

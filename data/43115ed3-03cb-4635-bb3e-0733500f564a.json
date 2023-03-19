@@ -1,0 +1,12 @@
+{
+  "id": "43115ed3-03cb-4635-bb3e-0733500f564a",
+  "instruction": "Analyze the following text: \"She rode across the town in her car\".",
+  "input": "\"She rode across the town in her car\"",
+  "output": "This sentence shows the protagonist is in a vehicle, moving through a town. It suggests the protagonist is in control and has a sense of freedom due to the the use of their own car. It also implies they have some familiarity with the town, suggesting they are familiar with the lay of the land or have revisited it previously.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

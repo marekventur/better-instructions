@@ -1,0 +1,12 @@
+{
+  "id": "84eed632-d7b9-45df-be13-7ff579ee013e",
+  "instruction": "Given a sentence, make a sentence with a different meaning but with the same structure.",
+  "input": "He asked her to come.",
+  "output": "He invited her to join.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0f0fcb14-97e0-4d57-9e90-5b84f7134a99",
+  "instruction": "Create five original multiple choice options given the following statement.",
+  "input": "What type of chemical reaction involves two reactants?",
+  "output": "A) Neutralization \nB) Combustion \nC) Hydration \nD) Decomposition \nE) Synthesis",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4749382c-982f-45b8-bfcb-337bd7e55c73",
+  "instruction": "Build an algorithm to detect plagiarism in a text.",
+  "input": "",
+  "output": "One approach to detecting plagiarism in texts is to compare two documents and measure their similarity. This can be done by comparing the content of the documents, such as their structure and language, or by comparing the content of their graphical representations such as fingerprints. Text-based methods involve algorithms that compare sentences or sections of text to determine the degree of similarity between the two documents being compared. Graph-based methods involve algorithms that create a graphical representation of the text, such as a fingerprint or chart, and then compare the graphical representations of the documents to measure their similarity. In either method, if the similarity reaches a certain threshold, the algorithm will indicate that the documents have likely been plagiarized.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

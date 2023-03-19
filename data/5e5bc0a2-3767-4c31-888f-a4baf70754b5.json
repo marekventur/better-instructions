@@ -1,0 +1,12 @@
+{
+  "id": "5e5bc0a2-3767-4c31-888f-a4baf70754b5",
+  "instruction": "Create a class named MyDog with a method setBreed that takes a string as an argument and sets the value of a class variable named breed.",
+  "input": "",
+  "output": "class MyDog:\n    def __init__(self):\n        self.breed = \"\"\n    \n    def setBreed(self, breed):\n        self.breed = breed",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

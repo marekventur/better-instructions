@@ -1,0 +1,12 @@
+{
+  "id": "b04f6cc6-1f32-4c75-bf7b-02b1e9d03434",
+  "instruction": "Given a fact, provide an opinion through a statement.",
+  "input": "Prefab buildings are cheaper than traditional buildings.",
+  "output": "I believe prefab buildings are a cost-effective and efficient way to build since they are much cheaper than traditional buildings.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

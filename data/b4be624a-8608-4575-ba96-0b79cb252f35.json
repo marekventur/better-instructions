@@ -1,0 +1,12 @@
+{
+  "id": "b4be624a-8608-4575-ba96-0b79cb252f35",
+  "instruction": "What is symbolic AI and how is it different from machine learning?",
+  "input": "",
+  "output": "Symbolic AI is the practice of using symbolic rules and representations, or symbolic logic, to program computers to complete tasks. A symbolic AI system is designed to replicate human-like reasoning and problem-solving abilities. Unlike machine learning, which relies on statistical methods to act on data, symbolic AI systems use predefined rules and logic in order to solve problems. \n\nMachine learning can be thought of as a subset of symbolic AI, as it relies on predefined forms of data that are then acted on by a system. The key difference between the two is that while symbolic AI relies on pre-defined rules and representations, machine learning algorithms use training data to learn patterns and make decisions. As such, machine learning is considered to be more automated and adaptive than symbolic AI.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

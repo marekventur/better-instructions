@@ -1,0 +1,12 @@
+{
+  "id": "97260e14-f119-4fcc-b829-09dc178cb338",
+  "instruction": "Given a sentence, edit the sentence to make it more expressive and engaging.",
+  "input": "The dress was made of silk.",
+  "output": "The rich, silken fabric of the dress was lush and luxurious against her skin.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

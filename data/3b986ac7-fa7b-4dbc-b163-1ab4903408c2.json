@@ -1,0 +1,12 @@
+{
+  "id": "3b986ac7-fa7b-4dbc-b163-1ab4903408c2",
+  "instruction": "Identify the controversy in the following passage and explain why it's controversial.",
+  "input": "\"The current presidential election system in the United States is outdated and has been for a long time. It does not reflect the will of the people and needs to be reformed.\"",
+  "output": "The controversy in the passage is that the current presidential election system in the United States does not reflect the will of the people. This is because the election system relies heavily on the electoral college, which does not take into account the popular vote of the people. This can lead to situations where the popular vote disagrees with the electoral college and the will of the people is not represented in the president who is elected. This is a controversial issue as many people feel that their voices are not being heard.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

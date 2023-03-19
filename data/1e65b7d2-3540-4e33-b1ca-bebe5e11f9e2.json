@@ -1,0 +1,12 @@
+{
+  "id": "1e65b7d2-3540-4e33-b1ca-bebe5e11f9e2",
+  "instruction": "Generate an example of an object-oriented design.",
+  "input": "",
+  "output": "In object-oriented design, a Car class could make use of a Wheel class which models individual car wheels. The Car class can use the Wheel class to model its wheels, allowing the Car class to keep track of the details involved with its wheels, such as what type of tire is being used and how much pressure is in each tire.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

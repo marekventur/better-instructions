@@ -1,0 +1,12 @@
+{
+  "id": "112d930a-7058-420a-addd-217e27e12d1d",
+  "instruction": "Generate 5 new product ideas that could be used as a solution for the given issue.",
+  "input": "The issue is that people frequently discard their electronics, such as computers and phones, when they are still functioning, instead of donating or recycling them.",
+  "output": "1. A service that provides a virtual marketplace for the donation or resale of used electronics.\n2. An app that rewards people for donating or recycling their electronics.\n3. A subscription service that includes repairs and updates for owned electronics.\n4. A program that provides free or discounted used electronics to underserved communities. \n5. An online tool that helps people repurpose their old electronics for creative activities or projects.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

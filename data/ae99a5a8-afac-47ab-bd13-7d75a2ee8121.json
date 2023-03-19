@@ -1,0 +1,12 @@
+{
+  "id": "ae99a5a8-afac-47ab-bd13-7d75a2ee8121",
+  "instruction": "Classify the following computer language.",
+  "input": "HTML",
+  "output": "HTML (HyperText Markup Language) is a markup language used for creating webpages and web applications.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

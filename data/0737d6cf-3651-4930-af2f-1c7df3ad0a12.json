@@ -1,0 +1,12 @@
+{
+  "id": "0737d6cf-3651-4930-af2f-1c7df3ad0a12",
+  "instruction": "Given a data set and text description write a python program that computes the mean, median, and mode.",
+  "input": "Data Set: [1, 2, 2, 3, 4, 6, 8, 8]",
+  "output": "def mean_median_mode(sample): \n    mean = sum(sample)/len(sample)\n    sorted_sample = sorted(sample)\n    if len(sorted_sample) % 2 == 1: \n        median = sorted_sample[len(sorted_sample)//2] \n    else:\n        median = (sorted_sample[len(sorted_sample)//2] + \n                  sorted_sample[len(sorted_sample)//2 - 1])/2\n    mode = max(sorted_sample, key=sorted_sample.count)\n    \n    print(\"Mean: \", mean)\n    print(\"Median: \", median)\n    print(\"Mode: \", mode) \n   \nmean_median_mode(sample)\n\nOutput:\nMean: 4.375\nMedian: 4\nMode: 2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

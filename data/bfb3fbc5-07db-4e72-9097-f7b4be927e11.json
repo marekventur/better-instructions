@@ -1,0 +1,12 @@
+{
+  "id": "bfb3fbc5-07db-4e72-9097-f7b4be927e11",
+  "instruction": "Summarize the article locating the main idea.",
+  "input": "More and more animals are now able to survive in their habitats thanks to conservation efforts. In many cases, these successful conservation initiatives depended on cooperation between local governments and animal researchers, as well as private individuals. To protect certain species, it has become increasingly important to bring small, particular projects to the collective public eye.",
+  "output": "The survival of animals in their habitats is becoming increasingly dependent on collaborative efforts between different organizations, governments, and private individuals, highlighting the importance of publicizing conservation initiatives in order to protect specific species.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

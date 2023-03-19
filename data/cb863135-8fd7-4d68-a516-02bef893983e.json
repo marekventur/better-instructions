@@ -1,0 +1,12 @@
+{
+  "id": "cb863135-8fd7-4d68-a516-02bef893983e",
+  "instruction": "Assign values to the variables a, b, and c in the equation below.",
+  "input": "a + b + c = 12",
+  "output": "a = 3, b = 4, c = 5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

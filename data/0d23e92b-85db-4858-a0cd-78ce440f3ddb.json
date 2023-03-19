@@ -1,0 +1,12 @@
+{
+  "id": "0d23e92b-85db-4858-a0cd-78ce440f3ddb",
+  "instruction": "Categorize the given sentence as a question or as a statement.",
+  "input": "What is the meaning of life?",
+  "output": "Question",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

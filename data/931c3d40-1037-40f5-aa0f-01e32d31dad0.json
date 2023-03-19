@@ -1,0 +1,12 @@
+{
+  "id": "931c3d40-1037-40f5-aa0f-01e32d31dad0",
+  "instruction": "Construct a SQL query which will output the names of all the people born before 1990.",
+  "input": "",
+  "output": "SELECT name FROM people WHERE birthyear < 1990",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

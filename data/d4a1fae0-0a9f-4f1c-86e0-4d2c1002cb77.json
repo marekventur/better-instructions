@@ -1,0 +1,12 @@
+{
+  "id": "d4a1fae0-0a9f-4f1c-86e0-4d2c1002cb77",
+  "instruction": "Put two sentences together to create a stronger sentence.",
+  "input": "The clouds were moving. The wind was blowing.",
+  "output": "The clouds were moving with the blowing wind.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

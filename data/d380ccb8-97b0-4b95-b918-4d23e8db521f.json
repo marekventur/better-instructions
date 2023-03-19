@@ -1,0 +1,12 @@
+{
+  "id": "d380ccb8-97b0-4b95-b918-4d23e8db521f",
+  "instruction": "Predict the weather for tomorrow in San Francisco",
+  "input": "",
+  "output": "Tomorrow's weather in San Francisco is forecast to be sunny with a high temperature of 66 degrees Fahrenheit and a low temperature of 50 degrees Fahrenheit. There will also be light winds of around 10-15 mph. Overall, it is looking to be a pleasant day in San Francisco.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

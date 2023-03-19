@@ -1,0 +1,12 @@
+{
+  "id": "5bbb07b9-8029-49d0-8e60-eb23d8336000",
+  "instruction": "Determine which of the following steps is the most important for making a great espresso",
+  "input": "Grinding the beans, temperature regulation, duration of extraction",
+  "output": "Grinding the beans is the most important step for making a great espresso.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

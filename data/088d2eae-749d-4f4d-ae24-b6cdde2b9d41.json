@@ -1,0 +1,12 @@
+{
+  "id": "088d2eae-749d-4f4d-ae24-b6cdde2b9d41",
+  "instruction": "Describe the features of the input system.",
+  "input": "A voice-activated assistant system.",
+  "output": "The voice-activated assistant system has several features, including voice recognition, natural language processing, and automated response. It can integrate with other systems and devices to enable hands-free control of devices and services. It can respond to voice commands and execute tasks based on the user's input. Additionally, the system can provide real-time feedback and information with the results of its analysis. It is also designed to continually learn and improve itself over time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

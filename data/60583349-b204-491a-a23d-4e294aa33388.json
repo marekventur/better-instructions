@@ -1,0 +1,12 @@
+{
+  "id": "60583349-b204-491a-a23d-4e294aa33388",
+  "instruction": "Identify the prototype of this function.",
+  "input": "function sortNumbers(arr){\n    arr.sort(function(a, b) {\n        return a - b;\n    });\n    return arr;\n}",
+  "output": "The prototype of this function is `sortNumbers(arr)`.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

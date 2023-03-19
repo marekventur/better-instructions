@@ -1,0 +1,12 @@
+{
+  "id": "21d7d98c-34fa-48ca-b811-350085b9a394",
+  "instruction": "Add two comma-separated adjectives that describe a sunset.",
+  "input": "The sky was painted in tones of _______ ___.",
+  "output": "The sky was painted in tones of pink, orange.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

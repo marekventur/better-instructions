@@ -1,0 +1,12 @@
+{
+  "id": "010bee9c-a001-4adc-a825-d2486219da34",
+  "instruction": "Construct a mathematical equation based on the given statement.",
+  "input": "The sum of three consecutive numbers is equal to 135.",
+  "output": "3x + 6x + 9x = 135\nor\nx + 2x + 3x = 135",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

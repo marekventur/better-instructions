@@ -1,0 +1,12 @@
+{
+  "id": "a80208b9-ae8d-47df-b961-72398ecb8356",
+  "instruction": "Classify the social media post into one of the following categories: Politics, Technology, Sports, Arts, or Business",
+  "input": "Apple just released the iPhone 12 and people are buzzing about it!",
+  "output": "Technology",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

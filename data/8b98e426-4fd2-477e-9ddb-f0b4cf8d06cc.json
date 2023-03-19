@@ -1,0 +1,12 @@
+{
+  "id": "8b98e426-4fd2-477e-9ddb-f0b4cf8d06cc",
+  "instruction": "Identify which sentence best completes the sentence.",
+  "input": "The International Space Station is the largest structure in space ever constructed by humans and has been continuously occupied since \nA) 1984\nB) 1998\nC) 2002\nD) 2009",
+  "output": "B) 1998",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

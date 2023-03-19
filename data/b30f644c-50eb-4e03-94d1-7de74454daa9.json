@@ -1,0 +1,12 @@
+{
+  "id": "b30f644c-50eb-4e03-94d1-7de74454daa9",
+  "instruction": "Infer the meaning of the following example using standard rules:",
+  "input": "The cat chased its tail.",
+  "output": "The meaning of the example is that the cat was running in circles, trying to catch its own tail. This can either signify playfulness or frustration.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

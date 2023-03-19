@@ -1,0 +1,12 @@
+{
+  "id": "b7f6668f-4d61-426c-92e2-fe99cf74824e",
+  "instruction": "Name a use case of the given technology",
+  "input": "Technology: Natural language processing",
+  "output": "natural language processing can be used to power virtual assistants, allowing users to search and control devices using only text or voice commands.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

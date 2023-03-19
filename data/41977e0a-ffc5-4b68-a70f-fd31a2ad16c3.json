@@ -1,0 +1,12 @@
+{
+  "id": "41977e0a-ffc5-4b68-a70f-fd31a2ad16c3",
+  "instruction": "Generate a new sentence using the same words as the sentence provided while maintaining the same meaning.",
+  "input": "The father advised his children to be careful.",
+  "output": "The father cautioned his children to take heed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

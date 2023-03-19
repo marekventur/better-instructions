@@ -1,0 +1,12 @@
+{
+  "id": "68405f71-ee5f-4f6b-bae6-04f8cde3e549",
+  "instruction": "Given a programming language, describe what it is used for.",
+  "input": "Python",
+  "output": "Python is a high-level, general-purpose programming language used for a wide range of tasks from web development, software engineering, artificial intelligence, data science, to scripting. It has a simple, easy to understand syntax, so it is a great language for beginners. This makes it popular for many applications, including data science and machine learning. Python also has an extensive library of open source packages, making it the go-to language for many developers. Additionally, Python's expansive community ensures that there is plenty of help available.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

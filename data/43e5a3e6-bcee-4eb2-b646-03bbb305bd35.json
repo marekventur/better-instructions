@@ -1,0 +1,12 @@
+{
+  "id": "43e5a3e6-bcee-4eb2-b646-03bbb305bd35",
+  "instruction": "Create a script to store customer data.",
+  "input": "Customer data in the form of first name, last name, phone number and email address.",
+  "output": "# script to create a database and store customer data\n\n# import necessary packages\nimport sqlite3\n\n# create a database connection\ndb_connection = sqlite3.connect('customer_data.db')\n\n# create a cursor object\ncursor_obj = db_connection.cursor()\n\n# create a customer table\ncursor_obj.execute(\"\"\"\nCREATE TABLE customer (\n    first_name text,\n    last_name text,\n    phone_number text,\n    email_address text\n)\n\"\"\")\n\n# insert data into table\ncursor_obj.execute(\"INSERT INTO customer VALUES ('John', 'Smith', '123-456-7890', 'john@example.com')\")\ncursor_obj.execute(\"INSERT INTO customer VALUES ('Sara', 'Jones', '143-456-7890', 'sara@example.com')\")\n\n# save changes to the database\ndb_connection.commit()\n\n# close the connection\ndb_connection.close()",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

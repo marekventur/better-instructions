@@ -1,0 +1,12 @@
+{
+  "id": "cde07536-f206-4b48-899b-7acc197f4896",
+  "instruction": "Generate an API endpoint that returns a list of items",
+  "input": "",
+  "output": "The API endpoint should take a few parameters such as the type of items, a range, and any filters. It should then construct a query based on the parameters and execute this query on the database to return a list of items satisfying the parameters. The API should also provide pagination to allow for easy navigation of large datasets.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

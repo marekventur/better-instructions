@@ -1,0 +1,12 @@
+{
+  "id": "e2f9c17f-9182-4740-bef4-2cb5160312d9",
+  "instruction": "Generate a code snippet for the given concept.",
+  "input": "Printing \u201cHello World\u201d to the console",
+  "output": "Console.WriteLine(\"Hello World!\");",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

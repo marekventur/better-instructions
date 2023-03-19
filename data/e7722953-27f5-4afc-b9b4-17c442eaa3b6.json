@@ -1,0 +1,12 @@
+{
+  "id": "e7722953-27f5-4afc-b9b4-17c442eaa3b6",
+  "instruction": "Create an output formatted as a CSV table using the following data",
+  "input": "City | Population | Year\n-----| ----------|-----\nNew York | 8,601,186 |2019\nTokyo | 9,393,098 | 2020",
+  "output": "City,Population,Year\nNew York,8601186,2019\nTokyo,9393098,2020",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

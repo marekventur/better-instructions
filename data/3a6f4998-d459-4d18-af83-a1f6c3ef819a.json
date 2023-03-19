@@ -1,0 +1,12 @@
+{
+  "id": "3a6f4998-d459-4d18-af83-a1f6c3ef819a",
+  "instruction": "Delete two words from the following sentence to make it a valid sentence:\n\nI ate the most delicious dinner ever",
+  "input": "",
+  "output": "I ate most delicious ever.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

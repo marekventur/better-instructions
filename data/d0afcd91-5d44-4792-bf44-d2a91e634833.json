@@ -1,0 +1,12 @@
+{
+  "id": "d0afcd91-5d44-4792-bf44-d2a91e634833",
+  "instruction": "Identify the predicate of the given sentence.",
+  "input": "John ate the apple",
+  "output": "ate",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

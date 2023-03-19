@@ -1,0 +1,12 @@
+{
+  "id": "8620d739-5c44-4af5-bc64-c366637de501",
+  "instruction": "Generate a list of steps required to build a computer.",
+  "input": "",
+  "output": "- Gather all the necessary components, such as a motherboard, CPU, RAM, storage drives, and optional components such as GPU, sound card, or network card.\n- Put together the most important element, the motherboard. Install the CPU, heatsink, RAM, and other components as per the instructions.\n- Connect the power supply to the motherboard and install it along with the coolers and fans according to the manufacturer's instructions.\n- Connect the drives (HDD or SSD) to the appropriate ports and install them into the case.\n- Install the GPU, if you have one, and connect it to the motherboard.\n- Install the optional components such as sound card, network card, etc.\n- Connect the cables (SATA, IDE, power supply, etc.) to the appropriate ports.\n- Install the operating system and drivers for the various components.\n- Install additional software and applications, if necessary.\n- Perform tests to ensure that everything is working properly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

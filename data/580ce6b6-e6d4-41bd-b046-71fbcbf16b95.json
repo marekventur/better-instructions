@@ -1,0 +1,12 @@
+{
+  "id": "580ce6b6-e6d4-41bd-b046-71fbcbf16b95",
+  "instruction": "Please explain what is a 'novel suggestion task'.",
+  "input": "",
+  "output": "A novel suggestion task is a type of task in which a model or system is asked to suggest unique and creative ideas in response to a given problem or challenge. The model is expected to come up with novel solutions that haven't been thought of before. This requires the model to not just repeat previously seen ideas but also draw from sources that have not been seen before. The model should also be able to adjust its output according to the environment to make sure the generated ideas are applicable and useful.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

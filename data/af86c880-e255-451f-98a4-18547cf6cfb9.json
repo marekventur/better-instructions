@@ -1,0 +1,12 @@
+{
+  "id": "af86c880-e255-451f-98a4-18547cf6cfb9",
+  "instruction": "Given five words, construct a poem with a consistent meter.",
+  "input": "foolish, trespass, wisdom, apology, trust",
+  "output": "My foolish trespass did not bring me bliss \nMy wisdom should have kept me from such risk \nMy apology is more than a must\nSo, I pray for those I hurt, that our bonds rust\n\nTrust can be built if I make amends\nFor my foolish choices and disrupt trends\nLet my apologies be sincere \nThen trust and wisdom may reappear",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

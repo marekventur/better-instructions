@@ -1,0 +1,12 @@
+{
+  "id": "8f704df9-d27d-4c54-b54a-147a0df9e486",
+  "instruction": "Given a list of 10 different types of fruit, classify the the fruit according to their skin color.",
+  "input": "Banana, Orange, Apple, Dragon Fruit, Pear, Mango, Papaya, Pear, Peach, Avocado",
+  "output": "Yellow Skin: Banana, Mango, Papaya\nOrange Skin: Orange\nGreen Skin: Apple, Pear\nRed Skin: Dragon Fruit\nWhite Skin: Pear\nPink Skin: Peach\nBrown Skin: Avocado",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

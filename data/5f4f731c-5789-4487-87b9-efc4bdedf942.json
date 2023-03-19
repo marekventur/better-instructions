@@ -1,0 +1,12 @@
+{
+  "id": "5f4f731c-5789-4487-87b9-efc4bdedf942",
+  "instruction": "Summarize this article in no more than 5 sentences:",
+  "input": "https://www.nytimes.com/2021/01/27/us/biden-immigration-plan.html",
+  "output": "President Biden has announced a sweeping immigration plan that will create a new pathway to citizenship for some 11 million undocumented immigrants. The legislation would also prioritize certain groups, including people enrolled in the Deferred Action for Childhood Arrivals program and essential workers. The plan\u2019s economic focus includes targeted investments in border protection, including technology to reduce wait times at ports of entry and enhance security. The plan also seeks to eliminate narrow entry pathways and streamline naturalization processes. Additionally, the Biden administration has committed to undoing the \u201cremain in Mexico\u201d order and working with Central American countries to address the root causes of migration.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

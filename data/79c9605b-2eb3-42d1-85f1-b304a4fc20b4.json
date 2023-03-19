@@ -1,0 +1,12 @@
+{
+  "id": "79c9605b-2eb3-42d1-85f1-b304a4fc20b4",
+  "instruction": "Generate a creative product description of a <mask>. Make sure to include the features and benefits of the product.",
+  "input": "Bluetooth Headset",
+  "output": "Elevate your audio experience with this state-of-the-art Bluetooth Headset. This sleek and modern headset features powerful sound quality, noise cancelling features, and a comfortable fit that is sure to keep you connected while also looking stylish. The simple one-button control allows you to play, pause and answer calls with ease, while the long-lasting battery helps you stay connected for up to 10 hours. With its lightweight design, you can enjoy your audio with comfort and ease. Experience the best in audio and stay connected with this Bluetooth Headset!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

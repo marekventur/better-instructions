@@ -1,0 +1,12 @@
+{
+  "id": "d09116e2-d1b5-43e7-93a3-1781ecf05277",
+  "instruction": "Assign a numerical rating to the given phrase based on the context, on a scale of 0 to 10.",
+  "input": "He did an amazing job.",
+  "output": "10",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

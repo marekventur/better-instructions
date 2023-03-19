@@ -1,0 +1,12 @@
+{
+  "id": "ca6f2566-1cd7-4255-a0aa-ee343f0f0e1c",
+  "instruction": "Assume the given sentence is written incorrectly: \"We invited guests to a party wearing formal clothes.\" Rewrite the sentence to sound grammatically correct.",
+  "input": "",
+  "output": "We invited guests to a party to be dressed formally.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

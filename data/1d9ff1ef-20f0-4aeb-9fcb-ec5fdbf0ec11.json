@@ -1,0 +1,12 @@
+{
+  "id": "1d9ff1ef-20f0-4aeb-9fcb-ec5fdbf0ec11",
+  "instruction": "What are the disadvantages of handwriting recognition technology?",
+  "input": "",
+  "output": "Handwriting recognition technology has several drawbacks. For one, handwriting recognition systems require significant training data in order to accurately recognize handwriting. Additionally, since handwriting recognition systems are pattern-recognition based, the data input must be of a higher quality, which can be difficult for handwritten documents that are unclear or incomplete. Finally, the accuracy of the recognition process can vary depending on the user's handwriting style or the nature of the document. Therefore, handwriting recognition can be unreliable at times.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

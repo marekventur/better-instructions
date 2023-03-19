@@ -1,0 +1,12 @@
+{
+  "id": "9e3c9c71-fe90-4cf9-a0f8-8fbeb3756f99",
+  "instruction": "Construct a sentence with the given words, attach punctuation at the end.",
+  "input": "Words: country, George, speak",
+  "output": "George speaks his native country's language.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4e11ccec-e3eb-4e4d-8c3b-c5fa1e3ee13d",
+  "instruction": "Rewrite the sentence to eliminate the personal pronoun.",
+  "input": "My friends and I decided to go for a walk.",
+  "output": "It was decided to go for a walk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

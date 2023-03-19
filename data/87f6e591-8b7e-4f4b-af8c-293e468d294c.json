@@ -1,0 +1,12 @@
+{
+  "id": "87f6e591-8b7e-4f4b-af8c-293e468d294c",
+  "instruction": "Compute the sum of the following numbers.",
+  "input": "5, 10, 20",
+  "output": "35",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

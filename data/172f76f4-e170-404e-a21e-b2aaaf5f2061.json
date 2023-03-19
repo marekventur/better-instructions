@@ -1,0 +1,12 @@
+{
+  "id": "172f76f4-e170-404e-a21e-b2aaaf5f2061",
+  "instruction": "Create a valid HTML heading from size 3 to size 5.",
+  "input": "",
+  "output": "<h3>My Heading</h3>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

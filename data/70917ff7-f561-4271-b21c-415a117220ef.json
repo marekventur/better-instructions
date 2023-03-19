@@ -1,0 +1,12 @@
+{
+  "id": "70917ff7-f561-4271-b21c-415a117220ef",
+  "instruction": "Classify the following into either facts or opinions.",
+  "input": "The dog ran fast.",
+  "output": "Fact",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bca9aaca-4807-4e47-ba50-57631b43545b",
+  "instruction": "Given a word, determine the number of vowels in the word.",
+  "input": "word = \"apples\"",
+  "output": "The word \"apples\" has 3 vowels.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

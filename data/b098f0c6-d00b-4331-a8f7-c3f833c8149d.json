@@ -1,0 +1,12 @@
+{
+  "id": "b098f0c6-d00b-4331-a8f7-c3f833c8149d",
+  "instruction": "Calculate the total number of eyes and legs for a group of 6 cats, 4 dogs, and 5 mice.",
+  "input": "",
+  "output": "The total number of eyes is 72 (6 cats x 2 eyes + 4 dogs x 2 eyes + 5 mice x 2 eyes) and the total number of legs is 82 (6 cats x 4 legs + 4 dogs x 4 legs + 5 mice x 4 legs).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

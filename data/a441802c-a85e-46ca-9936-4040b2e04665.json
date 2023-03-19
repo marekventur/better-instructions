@@ -1,0 +1,12 @@
+{
+  "id": "a441802c-a85e-46ca-9936-4040b2e04665",
+  "instruction": "Create a set of rules for the game of hangman.",
+  "input": "",
+  "output": "Rules of Hangman: \n\n1. Choose a word with any length. \n2. The opposing player must try to guess the word one letter at a time. \n3. For each incorrect guess, draw a portion of the hangman. \n4. The game is over when the hangman is completed or the word is guessed. \n5. The player guessing the word is the winner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a6d5a9b7-3128-488f-ad6e-af517a17e9f4",
+  "instruction": "Make a reasonable assumption to fill the given prompt.",
+  "input": "The year is 2100 and _______",
+  "output": "The year is 2100 and global temperatures have risen significantly, causing major changes in weather patterns and sea level rises. Cities around the world have implemented renewable energy sources and adopted green infrastructure, in order to combat the effects of climate change. The global population is much smaller than it was when the 20th century began, due to greater access to family planning and improved nutrition and healthcare. Global economies have built stronger ties to one another and use technology to facilitate trade and communication. Education systems have improved worldwide, and many of the social and economic inequalities that existed for centuries have been reduced. In short, the world of 2100 is very different from the one we know today.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

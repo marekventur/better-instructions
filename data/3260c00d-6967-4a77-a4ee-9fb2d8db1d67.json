@@ -1,0 +1,12 @@
+{
+  "id": "3260c00d-6967-4a77-a4ee-9fb2d8db1d67",
+  "instruction": "Create a keyword list of the given text",
+  "input": "With the cost of living continuing to rise and the cost of renting increasing steadily, many people are looking to buy their own home as an investment",
+  "output": "cost of living, cost of renting, investment, buy home, housing market, affordability.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

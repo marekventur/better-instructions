@@ -1,0 +1,12 @@
+{
+  "id": "d8e1ec3b-e758-4ccf-863d-c4949467f400",
+  "instruction": "Create a 3-dimensional array in Python",
+  "input": "",
+  "output": "arr = [[[0 for col in range(0,4)] for col in range(0,4)] for row in range(0,4)]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

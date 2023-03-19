@@ -1,0 +1,12 @@
+{
+  "id": "dbe8fc35-ccbd-4b9e-b0ca-fa4fd759ef09",
+  "instruction": "Create an agenda for the upcoming meeting.",
+  "input": "Team Meeting",
+  "output": "Agenda for Team Meeting \n\n1. Approval of Last Meeting Minutes \n2. Overview of Current Projects \n3. Discussion of Upcoming Tasks \n4. Resource Allocation \n5. Timeline Updates\n6. Any Other Business \n7. Closing",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cfd48fa9-99a2-417e-9ff4-77d5b11a2010",
+  "instruction": "Create a new contact entry in the system.",
+  "input": "Name: Emma Watson\nEmail: emma.watson@gmail.com",
+  "output": "A contact entry for Emma Watson has been created with the email: emma.watson@gmail.com",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

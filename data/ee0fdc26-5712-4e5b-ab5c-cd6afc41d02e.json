@@ -1,0 +1,12 @@
+{
+  "id": "ee0fdc26-5712-4e5b-ab5c-cd6afc41d02e",
+  "instruction": "Given an angle in radians, convert it to degrees.",
+  "input": "1.05 radians",
+  "output": "60 degrees",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

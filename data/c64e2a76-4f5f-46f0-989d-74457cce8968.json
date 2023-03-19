@@ -1,0 +1,12 @@
+{
+  "id": "c64e2a76-4f5f-46f0-989d-74457cce8968",
+  "instruction": "Prepare a statement of cash flows for the given business.",
+  "input": "Net income: $ 7,500\nCash flow from operations: $1,200\nCash flow from investing: $2,100\nCash flow from financing: $3,200",
+  "output": "Cash flow statement:\nNet increase in cash: $7,500\nCash flow from operations: $1,200\nCash flow from investing: $2,100\nCash flow from financing: $3,200\nNet cash flow: $6,500",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

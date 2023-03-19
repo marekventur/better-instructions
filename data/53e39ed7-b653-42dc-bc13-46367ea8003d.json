@@ -1,0 +1,12 @@
+{
+  "id": "53e39ed7-b653-42dc-bc13-46367ea8003d",
+  "instruction": "Output the name of the day of the week for a given date in MM/DD/YYYY format.",
+  "input": "08/15/2020",
+  "output": "Saturday.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

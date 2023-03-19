@@ -1,0 +1,12 @@
+{
+  "id": "328fb7c8-1722-45eb-b702-64400480959e",
+  "instruction": "Connect the dots by inventing a realistic conversation between two people.",
+  "input": "Person 1: I'm so stressed out.\nPerson 2:",
+  "output": "Person 2: Why are you stressed out? Is there anything I can do to help?\nPerson 1: I've got this big project I need to finish, but I'm not sure where to start.\nPerson 2: Have you broken it down into smaller tasks? That always helps me stay on track.\nPerson 1: That's a great idea. I'll try that! Thanks for the suggestion. \nPerson 2: Anytime. Good luck!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

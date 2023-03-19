@@ -1,0 +1,12 @@
+{
+  "id": "382c0fde-2ba5-4b54-a300-2ffcf7f97af7",
+  "instruction": "Create a chart showing the comparison between COVID-19 cases and deaths in different countries.",
+  "input": "",
+  "output": "This chart compares the number of COVID-19 cases and deaths in different countries. The x-axis shows the countries and the y-axis shows the numbers. \n\nCountry  |  Cases  |  Deaths\n================================\nUSA         |  10M    |   250K\nIndia       |  5M     |   80K\nBrazil      |  4M     |   140K\nRussia      |  1.5M   |   25K\nMexico      |  1M     |   50K",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

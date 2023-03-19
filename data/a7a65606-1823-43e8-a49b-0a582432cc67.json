@@ -1,0 +1,12 @@
+{
+  "id": "a7a65606-1823-43e8-a49b-0a582432cc67",
+  "instruction": "Determine the maximum number of items that can be bought with $131.",
+  "input": "Item Price: $8 per item",
+  "output": "16 items.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

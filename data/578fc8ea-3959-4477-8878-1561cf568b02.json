@@ -1,0 +1,12 @@
+{
+  "id": "578fc8ea-3959-4477-8878-1561cf568b02",
+  "instruction": "Construct an SVG featuring a five-pointed star with a triangle inside it.",
+  "input": "",
+  "output": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100px\" height=\"100px\">\n  <polygon points=\"50,5 25,80 75,80 25,50 75,50\" style=\"fill:#000; stroke:#000; stroke-width:2;\" />\n  <polygon points=\"50,25 75,50 25,50\" style=\"fill:#000; stroke:#000; stroke-width:2;\" />\n</svg>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

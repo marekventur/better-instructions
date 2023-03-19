@@ -1,0 +1,12 @@
+{
+  "id": "2a144cfa-00f0-42d7-86d4-5803931d5ab9",
+  "instruction": "Given a short story, adapt it in the form of a poem.",
+  "input": "It was a cold winter day. She was walking outside in the snow, thinking about how life could be different.",
+  "output": "If life was a winter day\nAnd only one path lay\nShe walked through the snow\nWith thoughts of what could be so\nHer wishes, her dreams, of a life different from this\nBut until then, only the snow she must miss",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "41afd858-0985-4d72-a2ba-fdbd04caebfe",
+  "instruction": "Identify the errors in the following sentence and provide the corrected version.",
+  "input": "He likes to listen to music and watch films by his self.",
+  "output": "He likes to listen to music and watch films by himself.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

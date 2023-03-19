@@ -1,0 +1,12 @@
+{
+  "id": "d89d06a3-7acc-4ddd-ac13-91113332a0f2",
+  "instruction": "Extract the nouns from the following sentence: \"The little girl went to the store.\"",
+  "input": "The little girl went to the store.",
+  "output": "Nouns: girl, store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

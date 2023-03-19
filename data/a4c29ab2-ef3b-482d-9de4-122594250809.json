@@ -1,0 +1,12 @@
+{
+  "id": "a4c29ab2-ef3b-482d-9de4-122594250809",
+  "instruction": "Identify which article title is more engaging.",
+  "input": "A) Benefits of Playing Video Games\nB) Advantages of Video Gaming",
+  "output": "A) Benefits of Playing Video Games",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

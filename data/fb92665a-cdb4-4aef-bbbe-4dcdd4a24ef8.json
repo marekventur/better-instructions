@@ -1,0 +1,12 @@
+{
+  "id": "fb92665a-cdb4-4aef-bbbe-4dcdd4a24ef8",
+  "instruction": "Write pseudo-code for a bubble sort algorithm",
+  "input": "",
+  "output": "procedure bubbleSort( A : list of sortable items )\n  n = length(A)\n  repeat \n    swapped = false\n    for i = 1 to n-1 inclusive do\n      if A[i-1] > A[i] then\n        swap(A[i-1], A[i])\n        swapped = true\n      end if\n    end for\n    n = n - 1\n  until not swapped\nend procedure",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

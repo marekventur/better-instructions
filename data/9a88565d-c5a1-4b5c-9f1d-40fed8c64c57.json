@@ -1,0 +1,12 @@
+{
+  "id": "9a88565d-c5a1-4b5c-9f1d-40fed8c64c57",
+  "instruction": "Find the fact from the following text.",
+  "input": "This winter, India reported the highest number of tiger sightings since its first tiger census.",
+  "output": "India reported the highest number of tiger sightings since its first tiger census this winter.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f96e198b-f208-4077-b3a6-79d5db067ec6",
+  "instruction": "Compose a short poem (between 5 to 10 lines) with the given title.",
+  "input": "Title: A Sunny Day",
+  "output": "The sky is so bright and clear\nI can almost feel the sun\nIt warms my heart and my soul\nMaking me feel so alive\nThe gentle rays of sunshine\nGiving me the energy to move\nSuch a wonderful day\nFilled with warmth and love\nA sunny day so sweet\nCausing me to dance on my feet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

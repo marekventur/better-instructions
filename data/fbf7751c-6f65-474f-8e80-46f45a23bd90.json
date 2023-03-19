@@ -1,0 +1,12 @@
+{
+  "id": "fbf7751c-6f65-474f-8e80-46f45a23bd90",
+  "instruction": "Identify the type of triangle according to the following data.",
+  "input": "Angles: 45\u00b0, 45\u00b0, 90\u00b0",
+  "output": "Right triangle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

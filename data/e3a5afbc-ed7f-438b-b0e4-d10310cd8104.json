@@ -1,0 +1,12 @@
+{
+  "id": "e3a5afbc-ed7f-438b-b0e4-d10310cd8104",
+  "instruction": "Analyze the given sentence for any grammar mistakes.",
+  "input": "John's mother and I have went to the store.",
+  "output": "The sentence contains an incorrect verb tense. The correct verb is \"went\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "90134fd8-226e-42a4-aa3e-e552cc88cfeb",
+  "instruction": "Summarize the events in the following short story.",
+  "input": "Adam was walking home from school one day when he came across a bird struggling to get out of some mud. He stopped to help the bird, but the bird flew away before he could reach him. He continued down the street when he saw a cat meowing for help. This time he was able to help the cat out and to his surprise, the cat followed him all the way home.",
+  "output": "Adam encountered a bird stuck in the mud on his walk home from school, but it flew away before he could help. Later, he found a cat in need and was able to rescue it. Unexpectedly, the cat followed him home.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

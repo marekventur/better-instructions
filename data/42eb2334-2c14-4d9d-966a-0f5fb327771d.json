@@ -1,0 +1,12 @@
+{
+  "id": "42eb2334-2c14-4d9d-966a-0f5fb327771d",
+  "instruction": "Summarize the main topic and purpose of this article.",
+  "input": "https://www.kcl.ac.uk/news/artificial-intelligence-clinical-trials",
+  "output": "This article discusses the potential of using artificial intelligence in clinical trials as an alternative to traditional clinical trial designs. It looks at the advantages of using artificial intelligence, including faster clinical trial times, increased test accuracy and cost savings, as well as the potential benefits for patients.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0dc37b87-0cd5-4cf9-8fa1-e15430ac3908",
+  "instruction": "Create a code snippet using python.",
+  "input": "",
+  "output": "def print_hello_world():\n  print(\"Hello World!\")  \n\nprint_hello_world()",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

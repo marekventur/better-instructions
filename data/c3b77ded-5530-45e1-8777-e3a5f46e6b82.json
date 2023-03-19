@@ -1,0 +1,12 @@
+{
+  "id": "c3b77ded-5530-45e1-8777-e3a5f46e6b82",
+  "instruction": "Create a function that takes three parameters and returns the greatest of them.",
+  "input": "",
+  "output": "// Create a function to find the greatest of three numbers\n\n// Inputs: three numbers\n// Outputs: the greatest of the numbers\n\n// Algorithm\n\n1. Create a function that takes three parameters\n2. Initialize a variable to hold the maximum one\n3. Check if the first number is greater than the other two\n4. If yes, assign it to the maximum one\n5. Else, check if the second number is greater than the other two\n6. If yes, assign it to the maximum one\n7. Else, assign the third number to the maximum one\n8. Return the maximum one\n\nExample:\n\n// Function\ndef find_max(num1,num2,num3):\n  max_one = 0\n  if num1>num2 and num1>num3:\n    max_one = num1\n  elif num2>num1 and num2>num3:\n    max_one = num2\n  else:\n    max_one = num3\n  return max_one\n\n// Output\nfind_max(8,4,7)\n\n// Result\n 8",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

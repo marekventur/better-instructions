@@ -1,0 +1,12 @@
+{
+  "id": "876bdf2e-78c7-45db-aba9-de011fa95b83",
+  "instruction": "Write an instruction to ask the assistant to summarize the given article.",
+  "input": "The OpenAI Safety Gym is an environment that allows developers of AI systems to design and test safer AI models without requiring access to real-world data or physical systems.",
+  "output": "Please summarize the article titled \"The OpenAI Safety Gym\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

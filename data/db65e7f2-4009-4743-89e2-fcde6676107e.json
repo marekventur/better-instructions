@@ -1,0 +1,12 @@
+{
+  "id": "db65e7f2-4009-4743-89e2-fcde6676107e",
+  "instruction": "Spell out the longest word in this sentence.",
+  "input": "Do you want to supercalifragilisticexpialidocious?",
+  "output": "supercalifragilisticexpialidocious",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

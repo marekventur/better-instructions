@@ -1,0 +1,12 @@
+{
+  "id": "a06a44d4-9a43-43c9-9574-37a75e126404",
+  "instruction": "Given a setting and a dynamic character, come up with an exciting opening sentence for a story.",
+  "input": "Setting: A deserted island\nDynamic character: A brave explorer",
+  "output": "The brave explorer stepped onto the shore of the deserted island, ready to explore the unknowns of this mysterious place.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

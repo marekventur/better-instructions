@@ -1,0 +1,12 @@
+{
+  "id": "bedb3738-1300-47b1-b7ae-635c0f3f26d2",
+  "instruction": "Construct a query to remove a specific record from the table.",
+  "input": "Table: Customers, Record: CustomerID = 119",
+  "output": "DELETE from Customers \nWHERE CustomerID = 119;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ecbaec19-a4b0-4668-858f-14942aca612e",
+  "instruction": "Identify the natural resources of a given region.",
+  "input": "Central American region",
+  "output": "Natural resources of the Central American region include oil and natural gas, minerals, timber, fish, and hydropower. Additionally, some countries in the region have substantial agricultural production, including coffee, sugar, tobacco, bananas, and corn. Central America is also home to many species of flora and fauna, including diverse wildlife such as jaguars, parrots, and monkeys.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

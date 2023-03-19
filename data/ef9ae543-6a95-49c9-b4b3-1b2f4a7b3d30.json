@@ -1,0 +1,12 @@
+{
+  "id": "ef9ae543-6a95-49c9-b4b3-1b2f4a7b3d30",
+  "instruction": "Assign the grade for this article on \"Does Technology Make Us More Productive At Work?\"",
+  "input": "Does Technology Make Us More Productive At Work?\n\nThe benefit of technology at work is that it can lead to increased efficiency, effectiveness, and productivity. With the use of technology, tasks can be completed faster and more efficiently, leading to greater output in less time. Technologies also offer tools that allow employers and employees to collaborate, communicate, and manage workflow in a streamlined manner. Digital tools, such as project management software, enable teams to manage their tasks, keep track of assigned tasks, address issues in real-time, and get feedback quickly.",
+  "output": "A+",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

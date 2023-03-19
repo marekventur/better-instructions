@@ -1,0 +1,12 @@
+{
+  "id": "485abaa8-e182-4c3e-9994-43d6794c7d20",
+  "instruction": "Given a description of a problem, suggest a possible solution.",
+  "input": "My team isn't communicating effectively.",
+  "output": "It might be helpful to set up regular team meetings to discuss progress and upcoming goals. Creating a shared workspace where everyone can communicate directly might also be beneficial for facilitating collaboration and information sharing between team members.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

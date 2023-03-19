@@ -1,0 +1,12 @@
+{
+  "id": "21556668-6ddb-423d-8a4e-05af07758b6d",
+  "instruction": "Create a questionnaire about sports",
+  "input": "",
+  "output": "1. What is your favorite sport? \n2. What team do you support?\n3. How often do you watch sports? \n4. Who is your favorite player?\n5. What is your favorite sporting event? \n6. Do you play any sports? \n7. What sports do you play? \n8. What sports do you follow?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e9a08822-39f9-4f38-ae08-39a913b449a0",
+  "instruction": "Given two dates, calculate the number of days in between them.",
+  "input": "From: 4th April 2020 \nTo: 15th April 2020",
+  "output": "11",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

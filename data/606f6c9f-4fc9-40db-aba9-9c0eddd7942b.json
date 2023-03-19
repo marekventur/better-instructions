@@ -1,0 +1,12 @@
+{
+  "id": "606f6c9f-4fc9-40db-aba9-9c0eddd7942b",
+  "instruction": "Paint the given object using block colors in a 3D painting style.",
+  "input": "A cat",
+  "output": "// 3D painting of a cat\n \nfill('#F48B3F') // body\nrect(50,50,40,60) \n\nfill('#1B1B1B') // eyes\nrect(60,60,10,10) \nrect(80,60,10,10) \n\nfill('#ED9100') // ears\nrect(50,50,15,30) \nrect(75,50,15,30)  \n\nfill('#228A98') // nose\nrect(70,75, 10, 10) \n\nfill('#F48B3F') // tail\nrect(110,60, 15, 30)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e0189427-bc8c-4bb0-9db2-88f9d283ffb1",
+  "instruction": "Give the output for the following code:",
+  "input": "def my_function(x, y):\n    return x + y\nz = my_function(2, 3)",
+  "output": "z = 5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "646648d6-1e7f-40c0-af9d-32071965c08b",
+  "instruction": "You are given a list of words, explain the meaning of each one:",
+  "input": "Forthcoming, perseverance, grueling",
+  "output": "Forthcoming: Likely to happen in the near future. \nPerseverance: Steadfastness in doing something despite difficulty or delay in achieving success.\nGrueling: Very tiring or demanding e.g. a grueling exercise regime.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

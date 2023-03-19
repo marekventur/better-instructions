@@ -1,0 +1,12 @@
+{
+  "id": "a82c4fa6-f85d-4176-975c-bd202190a9ed",
+  "instruction": "Classify the following sentence as either positive or negative sentiment: \n\"The product could've been better.\"",
+  "input": "",
+  "output": "Negative sentiment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

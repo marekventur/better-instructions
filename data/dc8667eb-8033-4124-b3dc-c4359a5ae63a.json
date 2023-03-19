@@ -1,0 +1,12 @@
+{
+  "id": "dc8667eb-8033-4124-b3dc-c4359a5ae63a",
+  "instruction": "Retrieve the top three results for the given query.",
+  "input": "Best vegetarian restaurants in San Francisco",
+  "output": "1. Greens Restaurant\n2. The Plant Caf\u00e9 Organic\n3. Herbivore",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

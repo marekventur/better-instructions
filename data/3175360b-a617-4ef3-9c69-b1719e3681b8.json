@@ -1,0 +1,12 @@
+{
+  "id": "3175360b-a617-4ef3-9c69-b1719e3681b8",
+  "instruction": "Compose a sentence using the given words, output the sentence.",
+  "input": "through, paper, woods",
+  "output": "He walked through the woods, rustling the paper in his hands.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

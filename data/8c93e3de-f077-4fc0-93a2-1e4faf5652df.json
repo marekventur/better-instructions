@@ -1,0 +1,12 @@
+{
+  "id": "8c93e3de-f077-4fc0-93a2-1e4faf5652df",
+  "instruction": "Generate a recipe for veggie stir-fry",
+  "input": "",
+  "output": "Veggie Stir-Fry \n \nIngredients: \n\u2022 2 tablespoons vegetable oil \n\u2022 1 onion, chopped \n\u2022 1 bell pepper, chopped\n\u2022 2 cloves garlic, minced \n\u2022 1 cup mushrooms, sliced \n\u2022 1 cup carrots, chopped \n\u2022 1 cup snow peas \n\u2022 2 cups broccoli florets \n\u2022 2 tablespoons soy sauce \n\u2022 2 tablespoons hoisin sauce \n\u2022 2 tablespoons sesame seeds\n \nInstructions:\n1. Heat oil in a large skillet over medium heat. \n2. Add onion and bell pepper; cook until softened, about 5 minutes. \n3. Add garlic and mushrooms; cook for 2 minutes. \n4. Add carrots, snow peas, and broccoli; cook for 5 minutes, stirring occasionally. \n5. Add soy sauce, hoisin sauce, and sesame seeds; cook for 2 minutes. \n6. Serve over rice or noodles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "73ffa5a8-ac65-47c4-9fbd-a51c9eedb3d8",
+  "instruction": "Let's say you have been asked to deploy a small web application. Make a list of the steps needed to deploy the application.",
+  "input": "",
+  "output": "1. Set up the server environment. \n2. Write the application code. \n3. Configure a web server. \n4. Install any necessary dependencies. \n5. Test the application for bugs. \n6. Deploy the application to a hosting service.\n7. Monitor the application performance and make any adjustments as needed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

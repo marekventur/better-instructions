@@ -1,0 +1,12 @@
+{
+  "id": "66f8744b-f594-4dbc-a7cc-e9d726b0548e",
+  "instruction": "What is arithmetic mean and how to calculate it?",
+  "input": "",
+  "output": "The arithmetic mean is the sum of all the values in a set of data, divided by the number of values in the set. For example, if you have six values of 5, 2, 8, 4, 9, and 7, the arithmetic mean would be (5 + 2 + 8 + 4 + 9 + 7) / 6 = 6. \n\nTo calculate the arithmetic mean for a set of data, you simply add up all the values and divide by the number of values in the set.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

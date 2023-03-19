@@ -1,0 +1,12 @@
+{
+  "id": "e618ddb6-7f43-486c-86de-7347fe1549df",
+  "instruction": "Classify each employee in the dataset as 'high performance', 'mid performance' or 'low performance'.",
+  "input": "[\nRaj - 4 years experience, works on multiple projects, completed tasks on time in the past 3 months. \n\nSameer - 6 years experience, failed to deliver the required results on time in the past 3 months. \n\nJames - 2 years experience, takes initiative in completing tasks, but has not finished all tasks on time. \n]",
+  "output": "Raj: High Performance\nSameer: Low Performance\nJames: Mid Performance",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "10aad798-8cce-4ca0-b23a-8aab79fe86df",
+  "instruction": "Take the given sentence and make it a question using the provided word.",
+  "input": "They will travel tomorrow, word: when",
+  "output": "When will they travel tomorrow?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

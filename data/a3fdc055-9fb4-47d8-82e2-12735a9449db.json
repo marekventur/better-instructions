@@ -1,0 +1,12 @@
+{
+  "id": "a3fdc055-9fb4-47d8-82e2-12735a9449db",
+  "instruction": "Create an example of dialogue in a story.",
+  "input": "Characters: Jack and Sarah\nSetting: Cafeteria",
+  "output": "Sarah: Hi, Jack! How's it going?\n\nJack: Hey, Sarah! It's going great. I just finished my final presentation for my class.\n\nSarah: That's awesome! I'm sure it went really well.\n\nJack: Thanks. What about you?\n\nSarah: I'm doing okay. I'm still trying to figure out what I'm going to do for my summer internship.\n\nJack: That sounds like a big decision. Have you talked to any of your professors or advisors yet? \n\nSarah: Yeah, I have, but I'm still not sure what I should do. \n\nJack: Well, whatever you decide, I'm sure it will be a great experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

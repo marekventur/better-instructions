@@ -1,0 +1,12 @@
+{
+  "id": "36e8cb9b-8eab-4a02-8e40-178468dbfd73",
+  "instruction": "Find an anagram of a given word.",
+  "input": "bun",
+  "output": "An anagram of the word \"bun\" is \"nub\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

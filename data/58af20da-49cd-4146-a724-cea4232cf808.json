@@ -1,0 +1,12 @@
+{
+  "id": "58af20da-49cd-4146-a724-cea4232cf808",
+  "instruction": "Identify the main idea in the paragraph below.",
+  "input": "Plants produce their own food through the process of photosynthesis, which requires sunlight and carbon dioxide. The process allows the plant to convert the sugars into energy, while also emitting oxygen as a waste product.",
+  "output": "Plants produce their own food through photosynthesis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

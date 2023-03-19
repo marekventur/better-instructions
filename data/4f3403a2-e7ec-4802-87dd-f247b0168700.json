@@ -1,0 +1,12 @@
+{
+  "id": "4f3403a2-e7ec-4802-87dd-f247b0168700",
+  "instruction": "Develop a machine learning algorithm to identify spam emails.",
+  "input": "",
+  "output": "The machine learning algorithm would first collect and process data to identify a set of features present in spam emails. These features might include words or phrases that appear in most spam emails, such as \"claim your prize\" or \"free membership.\" The algorithm would then use this data to train a classifier model to identify spam emails by using supervised learning methods such as logistic regression or decision trees.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

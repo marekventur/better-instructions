@@ -1,0 +1,12 @@
+{
+  "id": "96e8050c-6f1d-4626-b1c3-e725c2013734",
+  "instruction": "Given the text, generate a classification output using the provided labels.",
+  "input": "My pet guinea pig is so cuddly and cute",
+  "output": "Cute",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

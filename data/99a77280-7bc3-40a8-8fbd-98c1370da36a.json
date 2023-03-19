@@ -1,0 +1,12 @@
+{
+  "id": "99a77280-7bc3-40a8-8fbd-98c1370da36a",
+  "instruction": "Identify areas of improvement in the following sentence.",
+  "input": "The quick brown fox leapt over the lazy dog",
+  "output": "This sentence does not need any improvement. It is grammatically correct and does not contain any typos.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f9ef22b7-ca34-419b-8903-73f49eaa8022",
+  "instruction": "Name three computer languages and explain their respective uses.",
+  "input": "",
+  "output": "Python is a high-level programming language with a focus on readability and simplicity. It can be used to create web applications, data analysis tools, and general purpose software. \nJava is an object-oriented programming language designed to create applications that can run on any platform. It is widely used in enterprise applications, web services, and distributed systems. \nC++ is a general-purpose programming language that takes advantage of the speed and low-level operations of low-level languages. It is commonly used for embedded systems, operating systems, and games.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

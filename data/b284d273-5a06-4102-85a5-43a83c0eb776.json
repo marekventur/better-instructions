@@ -1,0 +1,12 @@
+{
+  "id": "b284d273-5a06-4102-85a5-43a83c0eb776",
+  "instruction": "Given the following sentence, explain what the speaker means.",
+  "input": "\"Things are getting better, but we should still stay vigilant.\"",
+  "output": "The speaker is saying that the situation is improving, but it is important to remain cautious and attentive in order to ensure continued progress.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

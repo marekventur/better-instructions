@@ -1,0 +1,12 @@
+{
+  "id": "8eaa26c2-2783-4e1b-9480-5814073749d3",
+  "instruction": "Classify the following sentence as either true or false:\n\n\"Two plus two makes four\"",
+  "input": "",
+  "output": "True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

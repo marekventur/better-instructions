@@ -1,0 +1,12 @@
+{
+  "id": "09fc6b1d-18ec-40bc-ba8b-0107fff2717b",
+  "instruction": "Assess the credibility of the following website: wikipedia.org",
+  "input": "",
+  "output": "Wikipedia is a generally reliable source of information because it is created and edited collaboratively by a community of users who often back up assertions with credible sources. While there have been cases of inaccurate information being published on the site, it often gets corrected quickly and is rarely maliciously intended. Overall, Wikipedia is a great starting point for research, but it should not be relied on exclusively and should be used in conjunction with other, verified sources",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1545f0da-a753-483d-854d-c19f1980b24a",
+  "instruction": "Given a sentence, output whether each word is a noun, verb, or adjective.",
+  "input": "John likes the blue house at the end of the street.",
+  "output": "John (Noun) likes (Verb) the (Determiner) blue (Adjective) house (Noun) at (Preposition) the (Determiner) end (Noun) of (Preposition) the (Determiner) street (Noun).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

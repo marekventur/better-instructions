@@ -1,0 +1,12 @@
+{
+  "id": "ba7f4973-068e-4854-9e5d-550d8a71b639",
+  "instruction": "Transform the following equation into an easier form.",
+  "input": "5x - 2y + 6z = 8",
+  "output": "5x + 6z = 8 + 2y",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

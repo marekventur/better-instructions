@@ -1,0 +1,12 @@
+{
+  "id": "183caa7e-6242-4051-9dc3-d55631b5721a",
+  "instruction": "Insert the missing pronoun in the following sentence:\n\nThe dog __ barked at the mailman.",
+  "input": "",
+  "output": "The dog he barked at the mailman.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

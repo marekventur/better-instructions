@@ -1,0 +1,12 @@
+{
+  "id": "d7ed3382-811e-4cb3-9f79-241ab6f83ac4",
+  "instruction": "Suppose a friend tells you about a software bug. Create a bug report with information about the bug.",
+  "input": "My friend found a bug in a software program where the application is preventing users from logging in.",
+  "output": "Bug Report:\n\nIssue: Login issue preventing users from accessing the software.\n\nDescription: Users are unable to log in to the software. When attempting to access the software, the user gets an error message saying the login failed.\n\nSteps to Reproduce:\n1. Launch the software application\n2. Attempt to log in with valid credentials\n3. Receive error message saying the login failed\n\nExpected Result:\nUsers should be able to log in to the software successfully with valid credentials.\n\nActual Result:\nAn error message saying the login failed is displayed.\n\nEnvironment:\n\nSoftware version: \nOS version: \nBrowser version (if applicable):",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

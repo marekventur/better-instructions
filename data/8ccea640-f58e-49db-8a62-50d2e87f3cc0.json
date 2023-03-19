@@ -1,0 +1,12 @@
+{
+  "id": "8ccea640-f58e-49db-8a62-50d2e87f3cc0",
+  "instruction": "Given a phrase and a context, write a sentence that uses the phrase in a correct context.",
+  "input": "Phrase: Toe the line\nContext: A supervisor talking to her employees",
+  "output": "\"You all need to toe the line and meet the deadline we discussed.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

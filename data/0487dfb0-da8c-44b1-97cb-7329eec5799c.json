@@ -1,0 +1,12 @@
+{
+  "id": "0487dfb0-da8c-44b1-97cb-7329eec5799c",
+  "instruction": "Create a data table to show the number of books read by each student based on their year in school",
+  "input": "",
+  "output": "Student\tYear\tNumber of Books Read\nJohn\tFreshman\t10\nAlice\tSophomore\t8\nJames\tJunior\t14\nMia\tSenior\t17",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

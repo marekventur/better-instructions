@@ -1,0 +1,12 @@
+{
+  "id": "4614a2ac-4a16-4290-8fe0-8f03816f3954",
+  "instruction": "Explain how information can be stored in a database",
+  "input": "",
+  "output": "Information can be stored in databases by creating structured tables of data called records. Each record generally consists of fields, which are columns in the table that contain specific information, and each field can contain different data types, such as text, numbers, and dates. The database manager enables querying and sorting of data, as well as access and manipulation of the data in order to answer questions, make better decisions, and track trends. Furthermore, data can be shared across multiple tables and users using relational database systems.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

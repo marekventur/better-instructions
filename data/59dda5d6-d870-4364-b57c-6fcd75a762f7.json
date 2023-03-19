@@ -1,0 +1,12 @@
+{
+  "id": "59dda5d6-d870-4364-b57c-6fcd75a762f7",
+  "instruction": "Identify all the sentences containing a verb in the following passage",
+  "input": "The computer is on the desk. It has a blue screen.",
+  "output": "The computer is on the desk. It has a blue screen.  (Both sentences contain verbs - is and has)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

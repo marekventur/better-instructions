@@ -1,0 +1,12 @@
+{
+  "id": "2dae20d0-dfe1-4b50-9a7d-55581d57952f",
+  "instruction": "Given an article, summarize it in 2-3 sentences.",
+  "input": "The US economy seems to be improving after the fall due to the pandemic.",
+  "output": "The US economy is showing signs of recovery since the downfall caused by the COVID-19 pandemic. Although the recovery has been slow, it is steady, with consumer spending and job market improvements. Businesses are beginning to reopen and consumer confidence is gradually increasing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

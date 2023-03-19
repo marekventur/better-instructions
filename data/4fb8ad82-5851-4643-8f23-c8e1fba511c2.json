@@ -1,0 +1,12 @@
+{
+  "id": "4fb8ad82-5851-4643-8f23-c8e1fba511c2",
+  "instruction": "Detect hate speech in the following sentence:",
+  "input": "We should hate all those immigrants.",
+  "output": "Yes",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

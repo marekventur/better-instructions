@@ -1,0 +1,12 @@
+{
+  "id": "1b182c37-5eb0-4daa-9d79-9bbe2fd36b14",
+  "instruction": "Count the number of words containing the substring \"ing\"",
+  "input": "Waiting for the bus, I noticed an old lady singing",
+  "output": "4",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

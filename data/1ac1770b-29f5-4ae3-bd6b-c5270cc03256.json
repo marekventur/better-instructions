@@ -1,0 +1,12 @@
+{
+  "id": "1ac1770b-29f5-4ae3-bd6b-c5270cc03256",
+  "instruction": "Create a timeline illustrating the development of computer science from 1950-2000.",
+  "input": "No input required.",
+  "output": "1950 \u2013 Introduction of the first stored-program computer. \n \n1956 \u2013 Invention of the functional programming language Lisp. \n \n1964 \u2013 Introduction of the first object-oriented programming language Simula. \n \n1969 \u2013 ARPANET, the predecessor of the Internet, is established. \n \n1977 \u2013 Apple releases the first personal computer, the Apple II. \n \n1983 \u2013 The first computer virus, the Brain Virus, is discovered. \n \n1985 \u2013 Formation of the World Wide Web Consortium (W3C). \n \n1991 \u2013 Introduction of the Linux kernel, which becomes one of the most popular open source software projects. \n \n1994 \u2013 IBM creates the first successful web browser, Mosaic. \n \n1995 \u2013 Amazon launches its online shopping service. \n \n1996 \u2013 The search engine Google is launched. \n \n1998 \u2013 Development of the first commercial game engine, the Unreal Engine by Epic Games.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

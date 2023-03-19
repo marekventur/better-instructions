@@ -1,0 +1,12 @@
+{
+  "id": "4c54a09e-8548-4d5d-be8a-a95b44bc7b22",
+  "instruction": "Identify which of the words from the list is used in the input sentence",
+  "input": "The house was painted blue",
+  "output": "blue",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

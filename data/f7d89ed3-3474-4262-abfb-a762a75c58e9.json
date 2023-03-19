@@ -1,0 +1,12 @@
+{
+  "id": "f7d89ed3-3474-4262-abfb-a762a75c58e9",
+  "instruction": "Given an ingredient, suggest a recipe.",
+  "input": "Coconut",
+  "output": "A recipe that could be made with coconut include Coconut Curry Soup. This recipe requires 1 tablespoon of coconut oil, 1 onion diced, 1 teaspoon of curry powder, 1 garlic clove minced, 1 can of coconut milk, 1 vegetable stock cube, 2 potatoes diced, 2 carrots diced, 1 teaspoon of chili flakes, and 1 handful of fresh coriander. Heat the coconut oil and add the onion, garlic, and curry powder. Cook for 2 minutes. Add in the coconut milk, vegetable stock cube, potatoes, and carrots. Simmer for 15 minutes. Taste, and adjust the seasonings if desired. Serve with the chili flakes and fresh coriander.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

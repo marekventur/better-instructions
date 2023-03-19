@@ -1,0 +1,12 @@
+{
+  "id": "1916e94e-07dd-4768-b718-209437dcb0d7",
+  "instruction": "Convert the given paragraph to a list.",
+  "input": "One of the great benefits of using a GPT language model is that it can help developers quickly create or enhance existing applications by providing easy access to a wide range of natural language processing capabilities.",
+  "output": "- Quickly create or enhance existing applications\n- Easy access to a wide range of natural language processing capabilities\n- Save developers time and money\n- Generate coherent and valid text\n- Capture the overall meaning of a given sentence\n- Classify sentences and generate appropriate responses\n- Automate tasks such as paraphrasing and summarization\n- Detect relationships between phrases in text",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

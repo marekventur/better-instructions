@@ -1,0 +1,12 @@
+{
+  "id": "b5408ff0-c7d8-46ed-a9b0-d4acccdc6a75",
+  "instruction": "Construct a question-answering system that answers questions related to the U.S. election.",
+  "input": "",
+  "output": "The system should be capable of pulling information from reliable sources like the news, government websites, and blogs. The Question Answering System should have natural language processing capabilities to recognize the semantics of the questions asked by users. The questions should be parsed into a form suitable for retrieving useful information from the sources. The retrieved information should then be used to generate a meaningful response that answers the user\u2019s question.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

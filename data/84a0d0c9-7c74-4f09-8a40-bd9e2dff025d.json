@@ -1,0 +1,12 @@
+{
+  "id": "84a0d0c9-7c74-4f09-8a40-bd9e2dff025d",
+  "instruction": "Given a news article, create a headline that captures its main idea.",
+  "input": "The new bill proposed by Senator Smith aims to provide free healthcare to all Americans.",
+  "output": "Senator Smith Proposes Bill to Make Healthcare Free for All Americans",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

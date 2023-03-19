@@ -1,0 +1,12 @@
+{
+  "id": "487f0d86-a636-4929-adf8-a9de5775cac7",
+  "instruction": "Find the nearest prime number to 22.",
+  "input": "Number = 22",
+  "output": "The nearest prime number to 22 is 23.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

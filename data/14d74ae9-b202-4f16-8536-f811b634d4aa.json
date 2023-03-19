@@ -1,0 +1,12 @@
+{
+  "id": "14d74ae9-b202-4f16-8536-f811b634d4aa",
+  "instruction": "Fill in the gaps in the given text.",
+  "input": "My friend, ______, is an engineer in the ______ department.",
+  "output": "My friend, Sarah, is an engineer in the production department.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

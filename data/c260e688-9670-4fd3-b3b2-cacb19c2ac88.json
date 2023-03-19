@@ -1,0 +1,12 @@
+{
+  "id": "c260e688-9670-4fd3-b3b2-cacb19c2ac88",
+  "instruction": "Classification Task - Classify the following piano piece as classical or jazz genre.",
+  "input": "https://www.youtube.com/watch?v=hPUTzyOyfN4",
+  "output": "Classical genre.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

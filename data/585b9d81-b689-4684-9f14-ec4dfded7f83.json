@@ -1,0 +1,12 @@
+{
+  "id": "585b9d81-b689-4684-9f14-ec4dfded7f83",
+  "instruction": "Insert appropriate compound words into the text.",
+  "input": "He drove the car to the store and then went food shopping.",
+  "output": "He drove the car to the store and then went food-shopping.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

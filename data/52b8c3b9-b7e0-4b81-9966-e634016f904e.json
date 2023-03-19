@@ -1,0 +1,12 @@
+{
+  "id": "52b8c3b9-b7e0-4b81-9966-e634016f904e",
+  "instruction": "Is this product subscription-based or a one-time purchase?",
+  "input": "The new smartwatch from Apple comes with six months of free access to the Apple Watch Music streaming service.",
+  "output": "Subscription-based",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

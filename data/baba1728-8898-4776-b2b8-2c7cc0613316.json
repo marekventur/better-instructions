@@ -1,0 +1,12 @@
+{
+  "id": "baba1728-8898-4776-b2b8-2c7cc0613316",
+  "instruction": "Classify the type of clothing based on the following description: A sleeveless top with a V-neck collar.",
+  "input": "",
+  "output": "This is a sleeveless V-neck shirt.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

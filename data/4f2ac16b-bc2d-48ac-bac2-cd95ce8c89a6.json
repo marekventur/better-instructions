@@ -1,0 +1,12 @@
+{
+  "id": "4f2ac16b-bc2d-48ac-bac2-cd95ce8c89a6",
+  "instruction": "Name 3 components of the java virtual machine.",
+  "input": "",
+  "output": "The Java Virtual Machine consists of three major components: the classloader, the execution engine, and the memory management system. The classloader is responsible for loading Java class files, the execution engine interprets and executes the bytecode, and the memory management system handles dynamic memory allocation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

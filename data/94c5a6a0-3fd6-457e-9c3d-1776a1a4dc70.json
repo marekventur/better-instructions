@@ -1,0 +1,12 @@
+{
+  "id": "94c5a6a0-3fd6-457e-9c3d-1776a1a4dc70",
+  "instruction": "Edit the following sentence to correct any grammar mistakes and make it more concise: \n\n\"The phone has a not charging issue because it ran out of battery.\"",
+  "input": "",
+  "output": "The phone is not charging because it has run out of battery.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bf3e4876-ff5b-4c3c-a742-00e29a55f8c3",
+  "instruction": "Compose an appropriate reply to the following customer service email.",
+  "input": "Dear [Name],\n\nI purchased a product from your website and the item arrived broken. I would like to return it and get a full refund.\n\nThank You,\n[Name]",
+  "output": "Dear [Name],\n\nThank you for bringing this issue to our attention. We apologize for the inconvenience experienced with our product. We are happy to arrange a full refund for you and would like to ask you to send the broken product back to us within 7 business days for our records.\n\nWe would also like to recommend that you report this issue to our Quality Control Department so we can take the appropriate action and make sure this does not happen again.\n\nThank you once again and we truly apologize for any inconvenience caused.\n\nSincerely,\n[Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

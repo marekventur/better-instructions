@@ -1,0 +1,12 @@
+{
+  "id": "676cd3c1-d90b-4cf9-86c8-23ead594cc14",
+  "instruction": "Create a set of instructions for creating a budget.",
+  "input": "",
+  "output": "1. Calculate your income: Gather all of your recent pay stubs and account statements to find out how much money you are bringing in each month. \n2. Track your expenses: Make a list of your fixed expenses and variable expenses. Also, keep track of your spending for one month to get a better understanding of where your money is going.\n3. Set a goal: Decide on an amount you would like to save each month and determine a timeline.\n4. Adjust your expenses: Determine where you can cut back and make any necessary changes to reduce spending and increase your savings.\n5. Make a budget: Create a budget that lists all of your expenses and income and contains a line for your savings goal.\n6. Stick to your budget: Monitor your budget regularly and adjust it if necessary to keep your finances on track.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

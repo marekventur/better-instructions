@@ -1,0 +1,12 @@
+{
+  "id": "324f98a8-9966-48e3-929c-0206f82f176a",
+  "instruction": "Write a code to multiply two numbers without using the * operator.",
+  "input": "7, 9",
+  "output": "\"\"\"\nThis method takes two numbers and multiplies them without using the * operator. \n\ndef multiply(num1, num2): \n    if(num2 == 0): \n        return 0\n    if(num2 > 0): \n        return (num1 + multiply(num1, num2-1)) \n    if(num2 < 0): \n        return -(num1 + multiply(num1, -num2-1)) \n\nif __name__ == \"__main__\":\n    num1 = 7\n    num2 = 9\n    result = multiply(num1, num2)\n    print(result)\n\"\"\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2d012be3-b21d-4646-81ef-f9762306b608",
+  "instruction": "Find the two prime numbers that multiply to give this number.",
+  "input": "24",
+  "output": "2 and 12",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

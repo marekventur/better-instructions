@@ -1,0 +1,12 @@
+{
+  "id": "c333d232-1bcd-4f4c-9fbc-b0e7c588a404",
+  "instruction": "Can you explain how to calculate mean median and mode?",
+  "input": "",
+  "output": "Mean: The mean is determined by taking the sum of all values and dividing by the number of values. \n\nMedian: The median is the middle value when the values are placed in order of size. If the number of values is odd, the median is the middle value; and if the number of values is even, the median is the average of the middle two values. \n\nMode: The mode is the most commonly occurring value in a data set. If no values repeat, there is no mode.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "59b6ad1b-cba4-49cf-b5ee-ff49a52c10d3",
+  "instruction": "Explain why the given statement might not be true.",
+  "input": "July is the hottest month of the year.",
+  "output": "The statement might not be true depending on where you live. For example, in some countries such as Canada, the hottest month is usually August. In other regions, it can depend on the year and weather patterns.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

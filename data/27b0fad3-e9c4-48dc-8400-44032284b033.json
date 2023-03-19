@@ -1,0 +1,12 @@
+{
+  "id": "27b0fad3-e9c4-48dc-8400-44032284b033",
+  "instruction": "Create a recipe for a vegetable stir-fry.",
+  "input": "",
+  "output": "Vegetable Stir-Fry Recipe: \nIngredients: 2 tablespoons vegetable oil, 1 onion, 2 cloves garlic, 1 bell pepper, 1 carrot, 2 cups mushrooms, 2 cups broccoli, 2 tablespoons soy sauce, 2 tablespoons rice wine vinegar, salt and pepper to taste \nInstructions: \n1. Heat oil in a large skillet over medium-high heat. \n2. Add onion and garlic to the skillet and cook until softened, about 5 minutes. \n3. Add bell pepper, carrot, mushrooms, and broccoli to the skillet and cook, stirring often, until all vegetables are lightly cooked and tender, about 8-10 minutes. \n4. Add soy sauce and rice wine vinegar to the skillet and stir to combine. \n5. Season with salt and pepper to taste and serve hot.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

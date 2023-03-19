@@ -1,0 +1,12 @@
+{
+  "id": "ab78297f-430e-4734-b107-7d637369f8b7",
+  "instruction": "Determine the structure of this poem",
+  "input": "A melody of bright June\nBirds gathering and singing in tune\nThe unbounded joy of dreams coming true\nLingering in moment and no time to lose",
+  "output": "This poem follows an ABCB structure, with each stanza following the pattern of lines of identical length and meter. The poem starts with a description of a summer day, the birds gathering and singing, then transitions to the imagery of dreams coming true, and ends by emphasizing the importance of seizing the moment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "113f5657-1459-43cb-a379-34ec7e896919",
+  "instruction": "Construct a linear regression model which predicts the systolic blood pressure of a patient",
+  "input": "Inputs: age, gender, height, weight, nicotine use",
+  "output": "Linear Regression Model:\nSystolic Blood Pressure = \u03b1 + \u03b21*age + \u03b22*gender + \u03b23*height + \u03b24*weight + \u03b25*nicotine use",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

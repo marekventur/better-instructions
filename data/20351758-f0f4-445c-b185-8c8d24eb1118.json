@@ -1,0 +1,12 @@
+{
+  "id": "20351758-f0f4-445c-b185-8c8d24eb1118",
+  "instruction": "Given a situation, describe the most appropriate customer service response.",
+  "input": "An unsatisfied customer states their disappointment in their recent purchase.",
+  "output": "I apologize that the product you purchased did not meet your expectations. We would like to make it right. Please let me know what we can do to resolve this issue and make sure you are completely satisfied with our product.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

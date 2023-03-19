@@ -1,0 +1,12 @@
+{
+  "id": "ace11cfa-9592-47c1-9053-53bb3f0459c4",
+  "instruction": "Consider the given statement. Is it accurate?",
+  "input": "Humans can't see infrared light.",
+  "output": "False, humans cannot see infrared light, but some specialized technology can detect it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

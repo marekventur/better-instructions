@@ -1,0 +1,12 @@
+{
+  "id": "347a6a07-03cb-4f19-9dc1-3d766206c162",
+  "instruction": "Given a word, create a sentence that is grammatically correct and contains the word.",
+  "input": "Petulant",
+  "output": "The petulant child refused to eat their vegetables.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

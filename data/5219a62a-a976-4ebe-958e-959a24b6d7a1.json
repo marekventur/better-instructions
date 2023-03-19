@@ -1,0 +1,12 @@
+{
+  "id": "5219a62a-a976-4ebe-958e-959a24b6d7a1",
+  "instruction": "Classify this plant according to its scientific name.",
+  "input": "Solanum lycopersicum",
+  "output": "Solanum lycopersicum is the scientific name for the tomato plant. It belongs to the nightshade family, Solanaceae, and is classified as a herbaceous perennial.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

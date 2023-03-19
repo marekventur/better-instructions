@@ -1,0 +1,12 @@
+{
+  "id": "1011259f-21a5-4041-9abe-8b4227e54935",
+  "instruction": "Find the average age of a group of 5 people.",
+  "input": "Ages: 25, 36, 46, 17, 62",
+  "output": "37.4",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

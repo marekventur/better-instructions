@@ -1,0 +1,12 @@
+{
+  "id": "5bd90ea0-df85-44b5-96e6-08d5ac32a223",
+  "instruction": "Explain the function of a capacitor in an electrical circuit.",
+  "input": "",
+  "output": "A capacitor is an electrical component that stores energy and is used in electric circuits to block direct current while allowing alternating current to pass. It works by temporarily storing electrical energy as an electrostatic field between two conducting plates, allowing it to maintain a voltage difference between them. This function enables the capacitor to act as a filter or stabilizer and aids in the flow of AC, while preventing the passage of DC.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

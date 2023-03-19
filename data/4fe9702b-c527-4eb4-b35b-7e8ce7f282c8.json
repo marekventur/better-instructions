@@ -1,0 +1,12 @@
+{
+  "id": "4fe9702b-c527-4eb4-b35b-7e8ce7f282c8",
+  "instruction": "Find the slope of the line passing through the points (2, -3) and (1, -2).",
+  "input": "(2,-3) (1,-2)",
+  "output": "The slope of the line passing through the points (2, -3) and (1, -2) is -1.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f92fc555-8333-47f3-bf35-65bac01faff0",
+  "instruction": "Classify the given colors according to the color wheel and list their complimentary colors.",
+  "input": "Blue, green",
+  "output": "Blue is a primary color and green is a secondary color. The complimentary colors for blue and green are orange and purple respectively.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

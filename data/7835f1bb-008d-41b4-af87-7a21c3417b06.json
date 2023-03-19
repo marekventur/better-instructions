@@ -1,0 +1,12 @@
+{
+  "id": "7835f1bb-008d-41b4-af87-7a21c3417b06",
+  "instruction": "Generate an API request URL using the given parameters.",
+  "input": "Parameter 1: User ID\nParameter 2: API Version",
+  "output": "https://www.example.com/api?userid=10&apiversion=2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

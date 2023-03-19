@@ -1,0 +1,12 @@
+{
+  "id": "b8826281-c3cb-411d-9722-f8a225c2a3ba",
+  "instruction": "Convert the following Proper Nouns to Plural forms, and separate them with semicolon.",
+  "input": "Ricardo; Central Park",
+  "output": "Ricardos; Central Parks",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

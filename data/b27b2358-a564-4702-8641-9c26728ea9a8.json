@@ -1,0 +1,12 @@
+{
+  "id": "b27b2358-a564-4702-8641-9c26728ea9a8",
+  "instruction": "Generate an example of a question that can be answered using the information provided in the following sentence.",
+  "input": "Distance between New York and Los Angeles is 2430 miles.",
+  "output": "What is the distance between New York and Los Angeles?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f2395da3-a271-4f92-9386-d4d2536d4a8f",
+  "instruction": "Determine the type of migration discussed in the text.",
+  "input": "The birds flew south for the winter.",
+  "output": "The migration discussed in the text is called seasonal migration.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

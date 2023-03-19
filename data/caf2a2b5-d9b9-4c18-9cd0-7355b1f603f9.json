@@ -1,0 +1,12 @@
+{
+  "id": "caf2a2b5-d9b9-4c18-9cd0-7355b1f603f9",
+  "instruction": "Write a computer program to calculate the sum of the natural numbers up to given number, n.",
+  "input": "",
+  "output": "function NaturalNumberSum (n){\n\tlet sum = 0;\n\tfor(let i = 1; i <= n; i++){\n\t\tsum += i;\n\t}\n\treturn sum;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

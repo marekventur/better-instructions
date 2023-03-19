@@ -1,0 +1,12 @@
+{
+  "id": "b8432845-24e0-44b3-bef7-2e092e61866c",
+  "instruction": "Given the given sentence, rewrite it in the active voice.",
+  "input": "This task has been completed by me.",
+  "output": "I completed this task.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "66f0a0a2-38fb-4170-9241-8c2f86ff0756",
+  "instruction": "Given a date, calculate the day of the week.",
+  "input": "October 27, 2019",
+  "output": "Tuesday",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

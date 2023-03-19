@@ -1,0 +1,12 @@
+{
+  "id": "40e975fd-5f64-46ca-afa5-3441a3c9a612",
+  "instruction": "Create a recipe for an appetizer using only a few items from the pantry.",
+  "input": "",
+  "output": "Cheesy Garlic Bread Bites:\nIngredients:\n- 1/2 loaf of French bread \n- 2 tablespoons of butter\n- 2 cloves of garlic, finely minced\n- 1 cup of your favorite shredded cheese\n- 1/2 teaspoon of dried oregano\n\nInstructions:\n1. Preheat oven to 450F.\n2. Cut the French bread into 1-inch cubes and spread them on a sheet pan.\n3. In a small bowl, melt the butter and add the garlic, oregano and a pinch of salt and pepper.\n4. Pour the butter mixture over the bread cubes, coating evenly.\n5. Bake in the oven for 8 minutes or until golden brown.\n6. Remove from oven and top with shredded cheese.\n7. Place back in the oven for a few minutes until the cheese is melted.\n8. Serve warm and enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

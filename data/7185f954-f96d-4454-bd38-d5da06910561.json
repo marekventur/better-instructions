@@ -1,0 +1,12 @@
+{
+  "id": "7185f954-f96d-4454-bd38-d5da06910561",
+  "instruction": "Describe the function of CSS float property.",
+  "input": "No input",
+  "output": "The CSS float property is used to position an element to the left or right of its containing element. This property can be used to create the familiar two-column or three-column layout where elements are placed side-by-side without needing to use floats and positioning. This can be particularly useful for creating websites with a responsive design, as the floated elements will automatically adjust to the changing window size as the browser is resized.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

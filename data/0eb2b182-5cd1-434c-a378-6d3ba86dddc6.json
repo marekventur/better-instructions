@@ -1,0 +1,12 @@
+{
+  "id": "0eb2b182-5cd1-434c-a378-6d3ba86dddc6",
+  "instruction": "Connect the given sentences without changing their meaning.",
+  "input": "The project is late. The client is unhappy.",
+  "output": "The project being late has made the client unhappy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

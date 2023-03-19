@@ -1,0 +1,12 @@
+{
+  "id": "6b05aea3-e490-45ea-b33f-cddad9df5314",
+  "instruction": "Remove the duplication in the network name.",
+  "input": "SSSSSSFreeWifi",
+  "output": "FreeWifi",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

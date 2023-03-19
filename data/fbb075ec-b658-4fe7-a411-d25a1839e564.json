@@ -1,0 +1,12 @@
+{
+  "id": "fbb075ec-b658-4fe7-a411-d25a1839e564",
+  "instruction": "Take this sentence and rewrite it in the active voice.",
+  "input": "The report was written by the team of researchers.",
+  "output": "The team of researchers wrote the report.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

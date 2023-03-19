@@ -1,0 +1,12 @@
+{
+  "id": "e58020e8-141b-4446-9909-60a80eee6862",
+  "instruction": "Give me three alternatives to the given statement.",
+  "input": "Statement: Cooking dinner takes too much of my time.",
+  "output": "1. I prefer to order takeout when I'm short of time.\n2. Spending time prepping meals saves me time and money.\n3. I always have a few meals in the freezer that I can quickly defrost and heat.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7f9f42e7-52b1-4020-83c3-e3f601c60708",
+  "instruction": "Make sense of this jumbled sentence.",
+  "input": "answer the question is what",
+  "output": "What is the answer to the question?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

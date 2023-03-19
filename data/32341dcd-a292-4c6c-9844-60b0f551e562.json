@@ -1,0 +1,12 @@
+{
+  "id": "32341dcd-a292-4c6c-9844-60b0f551e562",
+  "instruction": "Discuss the principles of object-oriented programming",
+  "input": "",
+  "output": "Object-oriented programming (OOP) is a programming paradigm based on the concept of \"objects\", which may contain data fields, and code, in the form of procedures known as methods. The principles of OOP are encapsulation, abstraction, polymorphism, and inheritance. Encapsulation is the ability to combine methods and data into a single unit, abstraction is the ability to hide the details of an implementation and only show the essential features, polymorphism is the use of a single interface for multiple data types, and inheritance is the ability for one class to extend the functionality of another.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "aa4247a4-85f6-4dfd-afb9-c2684ab793c7",
+  "instruction": "Change a sentence using the appropriate form.",
+  "input": "The dog barked loudly at the stranger.",
+  "output": "The dog barked loud at the stranger.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

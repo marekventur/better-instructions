@@ -1,0 +1,12 @@
+{
+  "id": "a46f18f7-363d-464b-9819-15718ec6cd7b",
+  "instruction": "Given a list of colors, classify each color as either warm or cool.",
+  "input": "Orange, Blue, Gray",
+  "output": "Orange - Warm\nBlue - Cool\nGray - Cool",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "25b78335-331d-4ebf-9943-55dc782920f9",
+  "instruction": "Given the following set of numbers, how can you make them in order from least to greatest?",
+  "input": "3, 8, 5, 9, 4",
+  "output": "4, 3, 5, 8, 9",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

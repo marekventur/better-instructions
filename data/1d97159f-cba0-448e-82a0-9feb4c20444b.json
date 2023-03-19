@@ -1,0 +1,12 @@
+{
+  "id": "1d97159f-cba0-448e-82a0-9feb4c20444b",
+  "instruction": "Generate a Python script that performs the following task.",
+  "input": "Print the second largest number in a list of numbers",
+  "output": "# List of numbers \nlist1 = [10, 20, 4, 45, 99] \n  \n# sorting the list \nlist1.sort() \n  \n# printing the second last element \nprint(\"Second largest number is:\", list1[-2])",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

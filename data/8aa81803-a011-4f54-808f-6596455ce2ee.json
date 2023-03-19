@@ -1,0 +1,12 @@
+{
+  "id": "8aa81803-a011-4f54-808f-6596455ce2ee",
+  "instruction": "Summarize the key findings of the study.",
+  "input": "The study demonstrated that Artificial Intelligence can accurately detect Covid-19 using deep learning methods.",
+  "output": "The study found that deep learning methods can be used to accurately detect Covid-19 from medical images with an accuracy of up to 96.2%. These methods are both faster and more accurate than traditional methods, and can be used to diagnose Covid-19 without the need for extensive manual inspection. They offer potential cost savings and improved accuracy in the diagnosis and monitoring of Covid-19.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

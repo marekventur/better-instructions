@@ -1,0 +1,12 @@
+{
+  "id": "710424c6-8ef3-44eb-9128-08e209dbe8f9",
+  "instruction": "How is a neural network trained?",
+  "input": "",
+  "output": "A neural network is trained using a process called backpropagation, which involves propagating the error from the output layer of the network to the input layer, and then adjusting the weights of the network accordingly. This process is repeated until the network is able to accurately classify data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

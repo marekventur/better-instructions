@@ -1,0 +1,12 @@
+{
+  "id": "8f930c17-8f3b-4ecb-be9e-f155fe836226",
+  "instruction": "Create a timeline for a project that needs to be completed within 2 weeks.",
+  "input": "",
+  "output": "Day 1: Gather all requirements. \nDay 2: Develop a plan of action. \nDay 3: Get project resources in place. \nDay 4-6: Develop and test the solution. \nDay 7: Integrate system and test. \nDay 8: Put in final touches. \nDay 9: Submit the project for review. \nDay 10-13: Address any issues and finalize the project. \nDay 14: Final product submitted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

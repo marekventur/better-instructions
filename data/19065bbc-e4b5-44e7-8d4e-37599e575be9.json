@@ -1,0 +1,12 @@
+{
+  "id": "19065bbc-e4b5-44e7-8d4e-37599e575be9",
+  "instruction": "Summarize the information in this table",
+  "input": "| Country | Population |\n|:-----------:|-----------------:|\n| India | 1.37 billion |\n| China  | 1.34 billion |\n| US | 330 million |",
+  "output": "India and China are the two most populous countries in the world, both having over 1.3 billion citizens, while the United States has a population of 330 million people.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "453b5343-a48c-4cc2-b916-8f1563dc9909",
+  "instruction": "Add 10 words that start with the letter \u2018M\u2019 to the given list.",
+  "input": "bank, car, tree",
+  "output": "bank, car, tree, muffin, museum, melody, magnet, mascot, mop, machete, mattress",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

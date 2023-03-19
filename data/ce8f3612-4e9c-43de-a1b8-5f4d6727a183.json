@@ -1,0 +1,12 @@
+{
+  "id": "ce8f3612-4e9c-43de-a1b8-5f4d6727a183",
+  "instruction": "Explain the differences between a machine learning model and a deep learning model.",
+  "input": "",
+  "output": "A machine learning model is a computer program that uses data to learn from experience and make predictions. It can take input from different sources, such as databases and data scientists, to generate models that can be applied to new data for various tasks. A deep learning model, on the other hand, builds upon the basic concepts of machine learning, but with an emphasis on large volumes of data. Deep learning models use networks of neural nodes and layers to learn from large sets of data and then output better predictions than traditional machine learning models. Deep learning models are more powerful because they can learn from recognizing patterns and correlations instead of merely identifying individual features.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6c8f4bfd-7332-4c15-af96-24f52ec83b69",
+  "instruction": "Create a taxonomy tree for digital marketing that contains at least 10 subtopics.",
+  "input": "",
+  "output": "Digital Marketing:\n- Social Media Marketing\n  - Paid Ads\n  - Organic Posts\n  - Influencer Marketing\n- Content Marketing\n  - Blog Posts\n  - Video Content\n  - Infographics\n- Search Engine Optimization\n  - Keyword Research\n  - Link Building\n  - Content Optimization\n- Email Marketing\n  - Newsletter\n  - Automated Email Flows\n  - Transactional Emails\n- Paid Advertising\n  - Pay-Per-Click\n  - Display Ads\n  - Remarketing\n- Conversion Rate Optimization\n  - A/B Testing\n  - Landing Page Optimization\n  - Lead Generation",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

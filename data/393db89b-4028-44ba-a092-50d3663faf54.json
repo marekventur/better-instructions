@@ -1,0 +1,12 @@
+{
+  "id": "393db89b-4028-44ba-a092-50d3663faf54",
+  "instruction": "Analyze the given song and give an overall rating.",
+  "input": "Song Name: \u2018Rockstar\u2019 \nArtist: Post Malone",
+  "output": "I would rate \u2018Rockstar\u2019 by Post Malone an 8/10. The song has a great beat and interesting lyrics, and the production is impressive. Malone\u2019s vocal performance is top-notch, showcasing his strong singing and rapping abilities and giving the song a unique vibe.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

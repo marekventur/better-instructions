@@ -1,0 +1,12 @@
+{
+  "id": "0628838d-33d2-4a6b-9f6c-6f9b69b4cf08",
+  "instruction": "Construct a market research survey with at least 5 questions to assess customer opinions about a recently released product.",
+  "input": "The product is a new laptop by Apple.",
+  "output": "1. How likely would you be to purchase this new laptop by Apple? \n2. What features in the laptop are most important to you? \n3. Did you find the advertisement for this laptop informative? \n4. Did the customer service team explain the features of the laptop to you in detail?\n5. Are there any features that you wish were included in this laptop?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

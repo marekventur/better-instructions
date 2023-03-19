@@ -1,0 +1,12 @@
+{
+  "id": "86b40c6d-1819-4268-987a-1d1db73b4558",
+  "instruction": "Given a list of three integers, find the smallest number.",
+  "input": "2, 3, 5",
+  "output": "The smallest number is 2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

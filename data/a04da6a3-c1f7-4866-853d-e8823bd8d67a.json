@@ -1,0 +1,12 @@
+{
+  "id": "a04da6a3-c1f7-4866-853d-e8823bd8d67a",
+  "instruction": "Edit the grammar and punctuation of the given sentence.",
+  "input": "Humor is one of the most important ingredients of life",
+  "output": "Humor is one of the most important ingredients in life.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

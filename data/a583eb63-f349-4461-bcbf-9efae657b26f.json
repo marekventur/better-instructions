@@ -1,0 +1,12 @@
+{
+  "id": "a583eb63-f349-4461-bcbf-9efae657b26f",
+  "instruction": "Identify the error in this sentence and correct it:",
+  "input": "I'd rather watch a movie then go for a walk",
+  "output": "I'd rather watch a movie than go for a walk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

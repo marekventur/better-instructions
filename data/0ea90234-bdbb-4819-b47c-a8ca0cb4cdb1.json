@@ -1,0 +1,12 @@
+{
+  "id": "0ea90234-bdbb-4819-b47c-a8ca0cb4cdb1",
+  "instruction": "From the given words, create a unique food recipe.",
+  "input": "Tomato, onion, garlic",
+  "output": "Tomato and Onion Slaw with Garlic Vinaigrette: Chop the tomatoes into thick slices and place in a large salad bowl. Finely dice an onion and add to the bowl. Mince some garlic and whisk it together with olive oil, white wine vinegar and a pinch of sugar to make a vinaigrette. Pour the vinaigrette over the vegetables and toss to combine. Let stand for 5 minutes before serving.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

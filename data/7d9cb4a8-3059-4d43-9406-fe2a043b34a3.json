@@ -1,0 +1,12 @@
+{
+  "id": "7d9cb4a8-3059-4d43-9406-fe2a043b34a3",
+  "instruction": "Determine the perimeter of triangle ABC where A is at (1,1), B at (5,6) and C at (9,2).",
+  "input": "A(1,1), B(5,6) and C(9,2)",
+  "output": "The perimeter of triangle ABC is 15.04 units.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

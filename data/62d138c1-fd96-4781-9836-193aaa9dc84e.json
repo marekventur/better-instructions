@@ -1,0 +1,12 @@
+{
+  "id": "62d138c1-fd96-4781-9836-193aaa9dc84e",
+  "instruction": "Perform sentiment analysis on this statement: \"She was unhappy about her poor test scores.\"",
+  "input": "",
+  "output": "This statement has a negative sentiment because it implies that the subject is displeased with her test scores.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

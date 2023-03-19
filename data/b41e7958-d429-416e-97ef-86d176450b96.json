@@ -1,0 +1,12 @@
+{
+  "id": "b41e7958-d429-416e-97ef-86d176450b96",
+  "instruction": "Create a list of 5 books that teens who are interested in programming should consider reading.",
+  "input": "",
+  "output": "1. Code: The Hidden Language of Computer Hardware and Software by Charles Petzold  \n2. Automate This: How Algorithms Took Over Our Markets, Our Jobs, and the World by Christopher Steiner\n3. The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt\n4. Code Complete: A Practical Handbook of Software Construction by Steve McConnell\n5. Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

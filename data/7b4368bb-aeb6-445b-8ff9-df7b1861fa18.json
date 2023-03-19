@@ -1,0 +1,12 @@
+{
+  "id": "7b4368bb-aeb6-445b-8ff9-df7b1861fa18",
+  "instruction": "Explain the difference between Android and iOS operating systems.",
+  "input": "",
+  "output": "The Android and iOS operating systems are mobile operating systems developed by Google and Apple, respectively. Android is an open source platform, meaning anyone can modify and customize the code while iOS is closed source and is only available on Apple devices. Android has a larger selection of apps available as it is more open and has more device manufacturers creating devices. iOS is considered to be more secure, with better user experience and design due to its closed-source nature. Additionally, iOS updates are automatically sent out to all devices at the same time, unlike Android where user experience depends on the device\u2019s manufacturer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

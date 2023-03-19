@@ -1,0 +1,12 @@
+{
+  "id": "d6a567c3-168f-44a4-b0ea-b9a4fc2f0454",
+  "instruction": "Write a memo to your boss introducing a new software the team is using.",
+  "input": "Software: Slack",
+  "output": "Dear [Boss],\n\nI'm excited to announce that we are adopting a new software to improve our team's communication and collaboration: Slack. A dynamic and efficient messaging platform, Slack helps teams collaborate in real-time, allowing users to create dedicated groups and channels, as well as send and receive messages, documents, and files.\n\nSlack offers several features to help our team maximize their productivity, such as instant messaging search, user tagging, and notifications. These features allow us to effectively collaborate on project timelines, share essential documents, and quickly locate past conversations. Slack also allows us to coordinate tasks and receive updates on external software, making it an ideal tool for any task-oriented team.\n\nThe software is already being used by teams from different industries to improve their internal communication and collaboration, and I believe it could help us significantly. I invite you to explore the features and discover how Slack can help streamline our workflow. Thank you for your time and consideration.\n\nSincerely,\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

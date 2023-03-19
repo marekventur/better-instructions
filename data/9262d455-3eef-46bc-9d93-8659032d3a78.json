@@ -1,0 +1,12 @@
+{
+  "id": "9262d455-3eef-46bc-9d93-8659032d3a78",
+  "instruction": "Create a quiz about the history of the United States",
+  "input": "",
+  "output": "1. What colony was founded in 1607? \nA. Virginia \nB. Pennsylvania \nC. Massachusetts \nD. New York\n2. Who was the first president of the United States? \nA. John Adams \nB. Thomas Jefferson \nC. George Washington \nD. Benjamin Franklin\n3. When did the United States Declaration of Independence happen? \nA. 1776 \nB. 1775 \nC. 1777\nD. 1778\n4. Who wrote the American national anthem? \nA. John Adams \nB. Francis Scott Key \nC. George Washington \nD. Thomas Jefferson\n5. When did the American Revolution start? \nA. 1776 \nB. 1775 \nC. 1777 \nD. 1778",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

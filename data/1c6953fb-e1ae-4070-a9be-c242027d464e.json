@@ -1,0 +1,12 @@
+{
+  "id": "1c6953fb-e1ae-4070-a9be-c242027d464e",
+  "instruction": "Classify the oldest members of a historic attraction.",
+  "input": "The Westminster Abbey",
+  "output": "The oldest members of Westminster Abbey are the tombs and monuments, many of which date back to medieval times.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

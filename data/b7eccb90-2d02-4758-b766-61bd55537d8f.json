@@ -1,0 +1,12 @@
+{
+  "id": "b7eccb90-2d02-4758-b766-61bd55537d8f",
+  "instruction": "What type of punctuation should be used at the end of the following sentence?",
+  "input": "Let's look at the bird",
+  "output": "A question mark (?) should be used at the end of the sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

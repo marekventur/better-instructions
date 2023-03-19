@@ -1,0 +1,12 @@
+{
+  "id": "c5f6c944-ecf6-4df6-8fdb-1a0328c8a32a",
+  "instruction": "Given a piece of news, generate the headline.",
+  "input": "The government has declared a new policy on public transportation subsidies which will benefit commuters in lower-income households.",
+  "output": "Government Announces New Policy to Aid Lower-Income Commuters on Public Transportation",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

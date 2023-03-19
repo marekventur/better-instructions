@@ -1,0 +1,12 @@
+{
+  "id": "96fbd0f8-f5bb-46ba-ab66-d8bc4ea6ae13",
+  "instruction": "What is the main difference between blockchain and distributed ledger technology?",
+  "input": "",
+  "output": "The main difference between blockchain and distributed ledger technology is that blockchain is an immutable and cryptographically secure ledger, while distributed ledger technology is not necessarily secured and it is not necessarily immutable. Blockchain is a specific form of distributed ledger technology that uses cryptographic techniques to secure the data and make it immutable, while distributed ledger technology can be implemented without these techniques.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

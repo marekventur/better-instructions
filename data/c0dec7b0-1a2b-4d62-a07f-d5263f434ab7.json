@@ -1,0 +1,12 @@
+{
+  "id": "c0dec7b0-1a2b-4d62-a07f-d5263f434ab7",
+  "instruction": "Select the valid IP addresses from the following list.",
+  "input": "123.126.25.5, 192.168.255.0, 255.256.12.1, 192.88.0.1",
+  "output": "123.126.25.5, 192.168.255.0, 192.88.0.1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7fcd7cf1-8b2b-4ecf-b4f2-116a5c2fc492",
+  "instruction": "Generate a report summarizing your understanding of a given iPhone.",
+  "input": "iPhone XS Max",
+  "output": "The Apple iPhone XS Max is a flagship device released in late 2018 featuring a 6.5-inch Super Retina OLED display with a resolution of 1242 X 2688 pixels. It is powered by a Hexa-core (2x2.35 GHz Lightning + 4x1.9 GHz Thunder) processor and an Apple A12 Bionic chipset with 4GB of RAM and 64/256/512GB of ROM storage options. It has a 12MP primary camera with dual optical image stabilization and a 7MP secondary camera. It runs on iOS 12 and has a built-in rechargeable lithium-ion battery with wireless charging support. It features FaceID facial recognition technology and is web-ready with built-in Wi-Fi and Bluetooth capabilities. This version of the iPhone also comes with a dual-SIM card slot, so users can keep two active lines at once.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

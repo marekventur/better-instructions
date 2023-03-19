@@ -1,0 +1,12 @@
+{
+  "id": "76d94109-4f65-4f82-9928-1d74cfaa3931",
+  "instruction": "Construct a calendar of events for the given month",
+  "input": "October 2020",
+  "output": "October 2020:\n\nOct 2 - International Coffee Day \nOct 4 - World Animal Day \nOct 8 - Columbus Day \nOct 9 - Halloween \nOct 22 - United Nations Day \nOct 31 - Halloween",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

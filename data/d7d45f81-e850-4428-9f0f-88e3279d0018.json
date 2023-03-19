@@ -1,0 +1,12 @@
+{
+  "id": "d7d45f81-e850-4428-9f0f-88e3279d0018",
+  "instruction": "Write a function to calculate the greatest common divisor (GCD) of two integers.",
+  "input": "",
+  "output": "def gcd(a, b): \n    if (b == 0): \n        return a \n    return gcd(b, a % b)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

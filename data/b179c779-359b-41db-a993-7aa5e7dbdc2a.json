@@ -1,0 +1,12 @@
+{
+  "id": "b179c779-359b-41db-a993-7aa5e7dbdc2a",
+  "instruction": "Given the following entity: \"Lamborghini Aventador\", please create a request URL.",
+  "input": "",
+  "output": "https://en.wikipedia.org/wiki/Lamborghini_Aventador",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

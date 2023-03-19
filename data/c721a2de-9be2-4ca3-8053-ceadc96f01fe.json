@@ -1,0 +1,12 @@
+{
+  "id": "c721a2de-9be2-4ca3-8053-ceadc96f01fe",
+  "instruction": "Given two sentences, determine which of them is a faulty comparison.",
+  "input": "The smell of mangoes is just as pungent as skunks.\nThe smell of oranges is just as sweet as peaches.",
+  "output": "The smell of mangoes is just as pungent as skunks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

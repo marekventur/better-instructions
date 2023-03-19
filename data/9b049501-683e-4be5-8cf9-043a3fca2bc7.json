@@ -1,0 +1,12 @@
+{
+  "id": "9b049501-683e-4be5-8cf9-043a3fca2bc7",
+  "instruction": "Reverse engineer the following code snippet to write a descriptoin of what it does.",
+  "input": "int mystery_function(int x, int y)\n{\n  if (x == 0 && y == 0)\n    return 0;\n  else if (x == 0 || y == 0)\n    return 1;\n  else \n    return x + y;\n}",
+  "output": "This function takes two ints as arguments, x and y. If both x and y are equal to 0, it will return 0; if either x or y is equal to 0, it will return 1; otherwise, if both x and y are not equal to 0, it will return the sum of x and y.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

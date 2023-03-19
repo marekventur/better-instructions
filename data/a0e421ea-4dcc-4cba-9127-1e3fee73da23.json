@@ -1,0 +1,12 @@
+{
+  "id": "a0e421ea-4dcc-4cba-9127-1e3fee73da23",
+  "instruction": "Tell me the procedure for dialling an international number",
+  "input": "",
+  "output": "To dial an international number, you need to dial the international access code for your country, followed by the country code for the country you are calling, followed by the local area code and the phone number. For example, if you are in the United States and you are calling a number in Germany, you would dial 011 + 49 + local area code + phone number.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

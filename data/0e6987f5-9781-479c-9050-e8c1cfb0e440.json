@@ -1,0 +1,12 @@
+{
+  "id": "0e6987f5-9781-479c-9050-e8c1cfb0e440",
+  "instruction": "Create a word search puzzle to practice vocabulary about holidays",
+  "input": "",
+  "output": "[Word Search Puzzle - Holidays]\n\nN U J E F O R S L E I V E N S A M S \nE P C I C Y L E V A B R A E A W O\nR A G I N H L A Y M C O U B T Z P K \nZ Y W E V E U I L O A S T N E T M P\nG H O O A H U L I Y E C I S G P S A\nH W O S A R Y C L E P A I V R O O M \nT H A N K S G I V I N G S U Y K I O \nX N Y R D D O A H O U L I D A F V J\nR E S O L U T I O N S N G W S D A P \nS O L S T I C E R E V T P X I U Y A\n\nSOLSTICE, RESOLUTIONS, EASTER, CYCLE, THANKSGIVING, PASCH, CHRISTMAS, HALLOWEEN, BOXINGDAY",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7e882071-fb87-4443-9aff-6a388306e29c",
+  "instruction": "Rewrite in a formal style",
+  "input": "It was really hot outside",
+  "output": "The temperature outside was exceedingly high.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

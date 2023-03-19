@@ -1,0 +1,12 @@
+{
+  "id": "582a28ec-2d67-462f-a3f8-e333cc7a67f4",
+  "instruction": "In the sentence below, identify the words that are used as modifiers.",
+  "input": "She drove her green car quickly.",
+  "output": "green, quickly",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

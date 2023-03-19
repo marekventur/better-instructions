@@ -1,0 +1,12 @@
+{
+  "id": "924b3018-445f-4fc3-8638-bfc874747795",
+  "instruction": "Identify the type of the following sentence. Output the type directly.",
+  "input": "She went to the store.",
+  "output": "Simple sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

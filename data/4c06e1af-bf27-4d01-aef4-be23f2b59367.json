@@ -1,0 +1,12 @@
+{
+  "id": "4c06e1af-bf27-4d01-aef4-be23f2b59367",
+  "instruction": "Differentiate between the concepts of artificial intelligence and machine learning.",
+  "input": "",
+  "output": "Artificial intelligence (AI) refers to the field of computer science that attempts to give machines the ability to think and make decisions like humans. It is an umbrella term that encompasses multiple different approaches, such as machine learning. Machine learning, on the other hand, refers to the use of algorithms to identify patterns in data and make predictions from that data. It is one subset of AI, and is used in combination with other techniques to achieve AI-like results. Machine learning relies on data to learn from, while AI can incorporate many different techniques including machine learning to achieve its goals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

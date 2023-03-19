@@ -1,0 +1,12 @@
+{
+  "id": "7616492c-8bf6-4cef-8d47-e54fdc4f5d02",
+  "instruction": "For the given input, create a short descriptive summary.",
+  "input": "Air pollution is a global problem that requires immediate action. It is responsible for hundreds of thousands of deaths annually, and its effects are felt disproportionately by lower-income people around the world.",
+  "output": "Air pollution is a global public health crisis, responsible for hundreds of thousands of deaths each year, with its worst impacts falling heavily on the most impoverished countries and individuals. Action is urgently needed to reduce this devastating problem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

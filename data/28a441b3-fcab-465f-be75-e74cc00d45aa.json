@@ -1,0 +1,12 @@
+{
+  "id": "28a441b3-fcab-465f-be75-e74cc00d45aa",
+  "instruction": "Create a dialogue between two people about how a movie review that one person has read does not match the expectations of the other.",
+  "input": "",
+  "output": "Person A: \"I just read this review on the new movie 'Reel Time' and it was really good!\"\n\nPerson B: \"Really? I saw the trailers and had high expectations, but the review you mentioned was nothing special.\"\n\nPerson A: \"But it was really positive in the review, I don't know why you weren't impressed!\"\n\nPerson B: \"I guess each person has different experiences. I'm still interested in seeing the movie, but I'm skeptical now after reading the review.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

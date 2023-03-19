@@ -1,0 +1,12 @@
+{
+  "id": "9d80112d-1b9d-4c10-9b37-e53a5447b028",
+  "instruction": "Create an algorithm for finding the highest peak in the world",
+  "input": "",
+  "output": "1. Start with an initial list of potential peaks.\n2. Measure the height of each peak to determine the highest peak in the list. Return that peak if its height is greater than all other peaks in the list.\n3. If there are multiple peaks of the same height, select a subset of those peaks and repeat Step 2.\n4. If the highest peak in the subset is not the highest of all peaks in the initial list, add additional peaks to the list and repeat Step 2.\n5. Repeat Steps 2-4 until the highest peak in the list is the highest of all peaks in the initial list. Return that peak.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

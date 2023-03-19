@@ -1,0 +1,12 @@
+{
+  "id": "5fbc2d4f-29ec-4651-8ee4-6eff21afc942",
+  "instruction": "Create an algorithm for playing tic tac toe in Python.",
+  "input": "",
+  "output": "The algorithm should first create a 3-by-3 tic-tac-toe board. Then it should check the board for a winning move. If a player has the opportunity to make a winning move, the algorithm should take that move. Otherwise, it should examine the board to block the opponent from making a winning move. Finally, if no winning moves or blocks can be made, the algorithm should randomly select an available spot as the next move.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

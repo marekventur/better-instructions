@@ -1,0 +1,12 @@
+{
+  "id": "093c9704-602f-42fd-8ac8-976bfee3073c",
+  "instruction": "Classify the following sentence as a statement, command, exclamation or question: \"Did you understand the question?\"",
+  "input": "",
+  "output": "This is a question.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

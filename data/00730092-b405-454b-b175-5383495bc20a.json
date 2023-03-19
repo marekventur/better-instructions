@@ -1,0 +1,12 @@
+{
+  "id": "00730092-b405-454b-b175-5383495bc20a",
+  "instruction": "Remove any duplicates from the following list.",
+  "input": "Apple, Banana, Orange, Apple, Plum",
+  "output": "Apple, Banana, Orange, Plum",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

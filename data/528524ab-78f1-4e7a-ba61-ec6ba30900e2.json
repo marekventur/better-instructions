@@ -1,0 +1,12 @@
+{
+  "id": "528524ab-78f1-4e7a-ba61-ec6ba30900e2",
+  "instruction": "Write a news article about the recent cyber attack on Tesla",
+  "input": "",
+  "output": "Tesla Motors Inc. recently experienced a major cyber attack which resulted in the exposure of personal information from more than 500 customers. The hack, which reportedly compromised over two terabytes of customer data, included customer emails, phone numbers, addresses, and credit card information. \n\nTesla has since alerted effected customers and claims to have rectified the situation. The source of the attack has not yet been determined, but Tesla has stated that its servers were not breached and that the attack appears to have originated from an external source. \n\nSecurity experts have noted that the attack is yet another reminder that companies must keep up with the latest security protocols in order to safeguard sensitive customer data. Tesla is no stranger to cyber attacks, having experienced similar hacks in the past. It appears that this attack was especially damaging as the hackers gained access to both customer names and credit card information.\n\nIn light of the attack, Tesla is encouraging its customers to review their accounts for any suspicious activity and contact both Tesla and their financial institution if necessary.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

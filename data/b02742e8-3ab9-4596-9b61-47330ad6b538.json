@@ -1,0 +1,12 @@
+{
+  "id": "b02742e8-3ab9-4596-9b61-47330ad6b538",
+  "instruction": "Given an example of a product, design packaging that is a good fit.",
+  "input": "A granola bar.",
+  "output": "The packaging for the granola bar should be bright and eye-catching with a logo and description of the product. The packaging should have a clear window so the product can be seen and the ingredients can be easily identified. The packaging should also have clear nutritional information, a list of ingredients, and any certifications or information about the product.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

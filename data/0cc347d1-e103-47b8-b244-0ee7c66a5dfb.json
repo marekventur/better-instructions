@@ -1,0 +1,12 @@
+{
+  "id": "0cc347d1-e103-47b8-b244-0ee7c66a5dfb",
+  "instruction": "Detect the tone of the following statement and classify it as sad, happy or neutral.",
+  "input": "I am so grateful for your help.",
+  "output": "happy",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

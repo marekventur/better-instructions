@@ -1,0 +1,12 @@
+{
+  "id": "56b55fec-4cf6-4107-8129-cb7b91402f92",
+  "instruction": "From the given passage, list the three details given about Alice's town.",
+  "input": "Alice lives in a small town in the middle of nowhere. The town is full of quirky characters who are constantly in and out of each other\u2019s lives. She has a close circle of friends and enjoys the small-town feel and its friendly vibe.",
+  "output": "1. Small town\n2. Quirky characters\n3. Friendly vibe",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

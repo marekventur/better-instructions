@@ -1,0 +1,12 @@
+{
+  "id": "6bfa30e6-df91-4fdd-b9ea-f9b02e06e6c8",
+  "instruction": "Generate questions that will help a customer determine their desired outcome.",
+  "input": "No input",
+  "output": "What outcome do you want to achieve? \nWhat is the purpose of your project? \nWhat are your top priorities? \nWhat challenges might you encounter? \nWhat are the most important steps to take? \nDo you have a timeline or deadline? \nWhat resources do you currently have access to? \nWhat other options have you considered? \nWhat have you tried in the past? \nWhat have you done to prepare for this? \nWhat is the most effective way to achieve this?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1c77fa3d-ab1b-4183-8b25-17b42a7addef",
+  "instruction": "Categorize the given headline as either news or entertainment.",
+  "input": "Headline: Brad Pitt and Angelina Jolie to Reunite for charity.",
+  "output": "News.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

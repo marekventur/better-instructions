@@ -1,0 +1,12 @@
+{
+  "id": "37752b57-a8b3-484b-88f0-82c299219b74",
+  "instruction": "List all the even numbers from a given array",
+  "input": "[1, 2, 3, 4, 5, 6]",
+  "output": "The even numbers in the given array are 2, 4, and 6.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4e921023-b0cd-46e3-9852-19aeb699518b",
+  "instruction": "Given a year, list four major events that happened during that year.",
+  "input": "1995",
+  "output": "In 1995, the first full-length computer-animated feature film \"Toy Story\" was released. The Peace Accords were signed ending the Bosnian War. The Oklahoma City bombing occurred, killing 168 people. Windows 95, the 16-bit graphical operating system was released.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e7eb746d-ac4a-49ef-b4d2-e27c5981ff30",
+  "instruction": "Retrieve an article from the internet that describes the given event.",
+  "input": "India's decision to ban the export of Covid-19 vaccines",
+  "output": "https://www.bbc.com/news/world-asia-india-56684150",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

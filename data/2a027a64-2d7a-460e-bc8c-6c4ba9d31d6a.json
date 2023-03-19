@@ -1,0 +1,12 @@
+{
+  "id": "2a027a64-2d7a-460e-bc8c-6c4ba9d31d6a",
+  "instruction": "Categorize the given dataset into two classes.",
+  "input": "Dataset:\n\n1. Response time = 14ms\n2. Response time = 19ms\n3. Response time = 22ms\n4. Response time = 18ms",
+  "output": "Class A:\n\n1. Response time = 14ms\n2. Response time = 18ms\n\nClass B:\n\n1. Response time = 19ms\n2. Response time = 22ms",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

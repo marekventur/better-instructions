@@ -1,0 +1,12 @@
+{
+  "id": "78bafecd-06e3-4ac9-9a07-f61e10b1b6af",
+  "instruction": "Return the first four digits of the given credit card number.",
+  "input": "5309 7677 8244 1346",
+  "output": "5309",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

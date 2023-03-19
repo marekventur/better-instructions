@@ -1,0 +1,12 @@
+{
+  "id": "df0012e3-59eb-4386-b8ed-6ab96720ad2a",
+  "instruction": "Construct a query to find the most recent news articles about artificial intelligence",
+  "input": "",
+  "output": "SELECT * FROM news WHERE topic = 'Artificial Intelligence' AND date = (SELECT MAX(date) FROM news)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

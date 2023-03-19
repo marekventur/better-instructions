@@ -1,0 +1,12 @@
+{
+  "id": "7569ff37-eec7-4f60-b139-4fd71809ae49",
+  "instruction": "Create a python program to detect the number of vowels and consonants in a string",
+  "input": "",
+  "output": "def count_vowels_consonants(string): \n    vowels = 0\n    consonants = 0\n  \n    for i in range(0, len(string)): \n          \n        # If a vowel is found, increment the vowel count  \n        if (string[i] == 'a' or string[i] == 'e' or string[i] == 'i' or string[i] == 'o' or string[i] == 'u'): \n            vowels = vowels + 1\n  \n        # If a consonant is found, increment the consonant count \n        else: \n            consonants = consonants + 1\n  \n    print(\"Vowels:\", vowels) \n    print(\"Consonants:\", consonants)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

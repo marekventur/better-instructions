@@ -1,0 +1,12 @@
+{
+  "id": "340cb7e9-12cd-4d19-997e-c79c56720cac",
+  "instruction": "Summarize an article about new unemployment claims in the United States.",
+  "input": "New unemployment claims in the United States continue to remain at an elevated level with nearly 900,000 new applications for benefits filed last week. Economists had expected a decrease of about 870,000, representing a modest drop from the prior week\u2019s readings.",
+  "output": "The number of new unemployment claims in the United States has remained steady with nearly 900,000 new applications for benefits filed last week, slightly higher than the economists' expectations of a decrease of 870,000 from the last week. This indicates that the economic recovery is still facing significant challenges as the unemployment rate continues to remain high.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

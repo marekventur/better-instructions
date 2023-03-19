@@ -1,0 +1,12 @@
+{
+  "id": "0f21e05b-e781-43ad-928c-f2b017e0b15d",
+  "instruction": "For the following sentence, identify the direct object and indirect object",
+  "input": "I gave the book to Karen",
+  "output": "Direct Object: book\nIndirect Object: Karen",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

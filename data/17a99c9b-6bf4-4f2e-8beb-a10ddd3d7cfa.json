@@ -1,0 +1,12 @@
+{
+  "id": "17a99c9b-6bf4-4f2e-8beb-a10ddd3d7cfa",
+  "instruction": "Generate a code that prints out the character count of a given input",
+  "input": "Hello world",
+  "output": "print(len(\"Hello world\"))  # Output: 11 characters",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

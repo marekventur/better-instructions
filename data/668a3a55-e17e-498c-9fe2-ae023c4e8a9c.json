@@ -1,0 +1,12 @@
+{
+  "id": "668a3a55-e17e-498c-9fe2-ae023c4e8a9c",
+  "instruction": "Categorize the following text as being related to technology, finance, sports, or politics.",
+  "input": "The new IPL season will kick off with a blockbuster match between Mumbai and Chennai.",
+  "output": "Sports",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

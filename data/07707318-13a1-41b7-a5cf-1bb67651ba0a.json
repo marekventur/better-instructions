@@ -1,0 +1,12 @@
+{
+  "id": "07707318-13a1-41b7-a5cf-1bb67651ba0a",
+  "instruction": "Convert the sentence from active to passive.",
+  "input": "Jack planted a tree.",
+  "output": "A tree was planted by Jack.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

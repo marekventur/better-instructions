@@ -1,0 +1,12 @@
+{
+  "id": "5844b059-114b-4e36-aed0-8e0840e7fa76",
+  "instruction": "Analyze the given sentence to determine if the tone is informal. Output true or false.",
+  "input": "I'm glad you could make it for dinner.",
+  "output": "true",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0fb2ec71-842e-4fd4-9b41-3e60b1ae28ca",
+  "instruction": "Convert the following times into 12 hours format.",
+  "input": "13:10",
+  "output": "1:10 pm",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

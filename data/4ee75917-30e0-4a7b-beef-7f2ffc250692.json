@@ -1,0 +1,12 @@
+{
+  "id": "4ee75917-30e0-4a7b-beef-7f2ffc250692",
+  "instruction": "Name three differences between a blockchain and a distributed ledger.",
+  "input": "",
+  "output": "The three main differences between a blockchain and a distributed ledger are: 1) a blockchain is a cryptographically secure distributed database, stored in multiple instances, while a distributed ledger is a cryptographically secure single database stored as a single record; 2) a blockchain is a type of distributed ledgers, but not all distributed ledgers are blockchains; 3) a blockchain uses a consensus mechanism that requires computer nodes to validate and agree on new blocks before they can be added to the blockchain, while a distributed ledger does not.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

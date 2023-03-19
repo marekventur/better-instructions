@@ -1,0 +1,12 @@
+{
+  "id": "74ebc2a4-ee4c-46df-81df-7314dc1ec7a2",
+  "instruction": "Name the 3rd declension noun in the sentence.",
+  "input": "Persuasionem invitarunt mihi.",
+  "output": "Persuasionem",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

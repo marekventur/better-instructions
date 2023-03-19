@@ -1,0 +1,12 @@
+{
+  "id": "44edccb8-87af-438e-9a49-c97ad7dc47f5",
+  "instruction": "Place the given objects in chronological order.",
+  "input": "Newspaper, television, radio",
+  "output": "Radio, television, newspaper.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

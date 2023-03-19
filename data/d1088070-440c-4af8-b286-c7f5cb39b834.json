@@ -1,0 +1,12 @@
+{
+  "id": "d1088070-440c-4af8-b286-c7f5cb39b834",
+  "instruction": "Convert the given sentence from Upper-case to sentence-case.",
+  "input": "WE WANT TO TRY SOMETHING NEW",
+  "output": "We want to try something new.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

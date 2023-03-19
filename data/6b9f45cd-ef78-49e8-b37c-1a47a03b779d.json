@@ -1,0 +1,12 @@
+{
+  "id": "6b9f45cd-ef78-49e8-b37c-1a47a03b779d",
+  "instruction": "Which aspect of the plan need to be changed?",
+  "input": "The plan is to open a new restaurant in Chicago by the end of the year.",
+  "output": "The timeline of the plan might need to be changed, as opening a new restaurant typically takes longer than a year to complete.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

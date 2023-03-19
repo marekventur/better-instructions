@@ -1,0 +1,12 @@
+{
+  "id": "f96209c3-42ca-4c3e-b57a-0e570a3a31f4",
+  "instruction": "Generate an outline of a speech on the given topic.",
+  "input": "Topic: The Power of Collaboration",
+  "output": "I. Introduction \nA. Definition of collaboration \nB. Benefits of collaboration \n\nII. Historical Examples of Collaboration \nA. Ancient Greece\nB. Industrial Revolution \n\nIII. Current Examples of Collaboration \nA. In the Workplace \nB. In Education \n\nIV. Barriers to Collaboration \nA. Overly competitive mentality \nB. Poor Communication \n\nV. Strategies to Encourage Collaboration \nA. Encourage Diverse Perspectives \nB. Promote Teamwork \n\nVI. Conclusion",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

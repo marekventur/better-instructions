@@ -1,0 +1,12 @@
+{
+  "id": "f9bdadd0-cfdd-4fac-93d8-c32b0960e9b0",
+  "instruction": "Identify the sentence structure of the following sentence and provide an explanation.",
+  "input": "My friends and I went to the park today.",
+  "output": "The sentence has a subject (My friends and I) and a verb (went) with an adverbial phrase (to the park today). It is a simple sentence structure. The subject is the persons who have the action, in this case going to the park. The verb is the action, in this case going. The adverbial phrase is additional information, in this case the place, which is the park, and the time, which is today.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

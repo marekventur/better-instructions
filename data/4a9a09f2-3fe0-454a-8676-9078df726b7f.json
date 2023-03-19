@@ -1,0 +1,12 @@
+{
+  "id": "4a9a09f2-3fe0-454a-8676-9078df726b7f",
+  "instruction": "Construct a query to retrieve the top 3 countries with the highest population.",
+  "input": "",
+  "output": "SELECT country, population\nFROM table\nORDER BY population DESC\nLIMIT 3;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

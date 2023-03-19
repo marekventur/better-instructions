@@ -1,0 +1,12 @@
+{
+  "id": "0d037ddc-b760-4f3c-9f00-1f519528f026",
+  "instruction": "Create a weather report in the current region.",
+  "input": "",
+  "output": "Today in <region>, it is mostly sunny with a high of 78\u00b0F and a low of 57\u00b0F. Winds are light and variable throughout the day, with sunny skies expected to continue through tomorrow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

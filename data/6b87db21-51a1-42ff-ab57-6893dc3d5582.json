@@ -1,0 +1,12 @@
+{
+  "id": "6b87db21-51a1-42ff-ab57-6893dc3d5582",
+  "instruction": "Change the text to use formal vocabulary.",
+  "input": "We got to the store late and missed the sale.",
+  "output": "We arrived at the store too late and thereby failed to take advantage of the sale.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

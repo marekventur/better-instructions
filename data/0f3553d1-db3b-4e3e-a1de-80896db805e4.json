@@ -1,0 +1,12 @@
+{
+  "id": "0f3553d1-db3b-4e3e-a1de-80896db805e4",
+  "instruction": "Summarize the article \"Cats vs Dogs: The classic pet debate\"",
+  "input": "https://www.livescience.com/54891-cats-dogs-pet-debate.html",
+  "output": "The age-old debate of cats vs dogs remains a hot topic among animal lovers. Dogs often require more attention and are better for families with kids, but cats are usually more independent and don't need as much exercise or training. Both cats and dogs have their pros and cons and have unique personalities, meaning there is no right or wrong pet. Ultimately, it comes down to personal preference.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

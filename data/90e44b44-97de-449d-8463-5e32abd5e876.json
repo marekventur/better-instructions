@@ -1,0 +1,12 @@
+{
+  "id": "90e44b44-97de-449d-8463-5e32abd5e876",
+  "instruction": "You are given two sentences, combine them to create a new sentence.",
+  "input": "I'm curious. I want to learn more.",
+  "output": "I'm curious and want to learn more.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

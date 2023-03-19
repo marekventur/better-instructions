@@ -1,0 +1,12 @@
+{
+  "id": "820bf63b-8ef6-4f16-96ca-e671e58d8b0c",
+  "instruction": "Make a list of 5 sentence starters that use the given conjunction.",
+  "input": "Conjunction: Even though",
+  "output": "1. Even though I had my doubts, I decided to give it a try.\n2. Even though it seemed impossible, I was determined to succeed.\n3. Even though I knew the risks, I moved forward anyway.\n4. Even though I was afraid, I kept going. \n5. Even though the odds were against me, I fought until the end.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

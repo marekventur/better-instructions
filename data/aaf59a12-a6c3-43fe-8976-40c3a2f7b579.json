@@ -1,0 +1,12 @@
+{
+  "id": "aaf59a12-a6c3-43fe-8976-40c3a2f7b579",
+  "instruction": "Here are two statements. Rewrite the second statement to show causal relationship between the two statements.",
+  "input": "Gary developed a new set of skills; he began to manage projects more efficiently.",
+  "output": "Gary developed a new set of skills, which enabled him to manage projects more efficiently.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

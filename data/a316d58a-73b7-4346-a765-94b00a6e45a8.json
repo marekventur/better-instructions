@@ -1,0 +1,12 @@
+{
+  "id": "a316d58a-73b7-4346-a765-94b00a6e45a8",
+  "instruction": "Take the given input and generate a valid phone number.",
+  "input": "123-456-7890",
+  "output": "(123) 456-7890",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

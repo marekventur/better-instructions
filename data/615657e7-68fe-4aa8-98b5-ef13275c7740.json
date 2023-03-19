@@ -1,0 +1,12 @@
+{
+  "id": "615657e7-68fe-4aa8-98b5-ef13275c7740",
+  "instruction": "Explain what is the perceptron algorithm.",
+  "input": "",
+  "output": "The perceptron algorithm is an artificial intelligence algorithm used to classify data by separating data points into different categories according to a set of inputs and weights. It is a type of supervised learning algorithm, in which the input is a set of features and the output is a class label. The algorithm uses the features and weights to predict the classification of the points. The weights and bias terms of the perceptron algorithm can be adjusted by using a learning process. The perceptron algorithm is used in various areas, including robotics, image recognition, and text processing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

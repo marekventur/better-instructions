@@ -1,0 +1,12 @@
+{
+  "id": "85e32687-53a7-4e8e-b60f-ac04a1de3630",
+  "instruction": "Given three points A, B and C, calculate the angle ABC.",
+  "input": "A=(1,2), B=(3,4), C=(5,6)",
+  "output": "The angle ABC is 53.13010235 degrees from the x-axis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

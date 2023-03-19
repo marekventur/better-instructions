@@ -1,0 +1,12 @@
+{
+  "id": "5fa106e6-0e58-46a4-ac83-fcdb6ab1d290",
+  "instruction": "Summarize a computer system and its components.",
+  "input": "A computer system is composed of hardware and software components that together enable it to perform its various functions.",
+  "output": "A computer system consists of both physical hardware components, such as memory, storage, and the processor, and software components, such as operating systems, application software, and drivers. The hardware components enable the system to manipulate, store, and process data, and the software components enable the system to control its tasks and provide the user with a user-friendly interface. Combined, these components enable a computer system to receive input, process data, store data, and provide output.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

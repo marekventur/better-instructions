@@ -1,0 +1,12 @@
+{
+  "id": "dbee531b-ec85-42e5-b805-7f50b985c86b",
+  "instruction": "Create a movie review of a film.",
+  "input": "Film: The Godfather",
+  "output": "The Godfather is an iconic film that will forever be etched in movie history. Marlon Brando's powerful performance as Don Vito Corleone is unforgettable, and Al Pacino's compelling portrayal of Michael Corleone is equally unforgettable. The film is full of memorable lines, intense action sequences, and compelling story arcs. It is an exquisite classic and a must-watch for any movie enthusiast.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

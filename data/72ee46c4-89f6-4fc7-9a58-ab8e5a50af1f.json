@@ -1,0 +1,12 @@
+{
+  "id": "72ee46c4-89f6-4fc7-9a58-ab8e5a50af1f",
+  "instruction": "Create a test case for testing out a human-computer interaction.",
+  "input": "",
+  "output": "Test Case: Human-Computer Interaction\nInput: User interacts with computer by providing a command\nExpected Outcome: Computer should provide an appropriate response to the command, based on the rules of the system\nTest Steps:\n1. Open the program\n2. Provide the command to the system\n3. Observe the response of the computer to the command\n4. Compare the response given by the computer with the expected outcome\n5. Document the result of the test case.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

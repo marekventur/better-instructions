@@ -1,0 +1,12 @@
+{
+  "id": "c85d99cc-0594-405f-a617-3922d4f2a44e",
+  "instruction": "Generate a list of country names in the western hemisphere.",
+  "input": "",
+  "output": "- Canada\n- United States \n- Mexico \n- Brazil\n- Argentina \n- Chile \n- Colombia \n- Venezuela \n- Cuba\n- Jamaica \n- Ecuador\n- Peru \n- Uruguay\n- Paraguay \n- Costa Rica \n- Panama \n- Honduras \n- Nicaragua\n- Guatemala",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

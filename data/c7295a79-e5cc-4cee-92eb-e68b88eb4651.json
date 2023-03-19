@@ -1,0 +1,12 @@
+{
+  "id": "c7295a79-e5cc-4cee-92eb-e68b88eb4651",
+  "instruction": "Given two sentences, identify the subject and verb of both of them.",
+  "input": "The sun rises in the morning.\nI had breakfast.",
+  "output": "Sentence 1: Subject: The sun, Verb: rises\nSentence 2: Subject: I, Verb: had",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

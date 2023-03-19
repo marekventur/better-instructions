@@ -1,0 +1,12 @@
+{
+  "id": "8d29325c-f95e-475a-9973-331718e4e191",
+  "instruction": "Explain in detail how to cook a particular dish",
+  "input": "Vegetable Biryani",
+  "output": "To make a delicious Vegetable Biryani, start by gathering all the necessary ingredients. You will need 1 cup basmati rice, 1/4 cup cooking oil, 1 large onion diced, 1 carrot diced, 1 bell pepper diced, 1/2 cup frozen peas, 1/4 teaspoon ground turmeric, 1/2 teaspoon chili powder, 2 cloves minced garlic, 1/2 teaspoon garam masala, 1 can diced tomatoes, and 2-3 bay leaves. \n\nBegin by prepping the vegetables by chopping, dicing, and mincing. Next, heat the oil in a large saucepan and add the onion and garlic. Saut\u00e9 for 3-4 minutes, stirring occasionally. Then add the carrots and bell peppers, cooking for an additional 3-4 minutes. Add the frozen peas, seasonings, and the diced tomatoes. Cover the pan and simmer for about 10 minutes, stirring occasionally.  \n\nOnce the vegetables have cooked, add the basmati rice to the pan. Stir in and toast the rice for a few minutes, until it\u2019s lightly browned. Add two cups of hot water, reduce the heat and let it cook covered for 20-30 minutes. Fluff with a fork before serving. Serve hot with yogurt and salad. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

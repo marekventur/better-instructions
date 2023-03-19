@@ -1,0 +1,12 @@
+{
+  "id": "862779a2-896b-4ed0-8340-177b148e5c9b",
+  "instruction": "Implement n-gram analysis on the given line of text.",
+  "input": "Here is a line of text.",
+  "output": "2-gram:\n[\"Here is\", \"is a\", \"a line\", \"line of\", \"of text\"]\n3-gram:\n[\"Here is a\", \"is a line\", \"a line of\", \"line of text\"]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

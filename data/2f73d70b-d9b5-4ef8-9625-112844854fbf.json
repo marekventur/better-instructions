@@ -1,0 +1,12 @@
+{
+  "id": "2f73d70b-d9b5-4ef8-9625-112844854fbf",
+  "instruction": "Compile a list of features for an app.",
+  "input": "Name: WallpaperSwap",
+  "output": "Features for the WallpaperSwap app: \n\n- Ability to upload your own wallpapers \n- Ability to add tags to your wallpapers \n- Easy access to a wide range of wallpapers through the extensive online store \n- High-resolution images for all wallpapers \n- Ability to select wallpapers based on filters such as color, style, genre and tag\n- Ability to like and comment on other user's wallpapers \n- Ability to share wallpapers with friends and family \n- Ability to search for wallpapers based on keywords \n- Advanced search function to narrow down wallpapers quickly \n- Push notifications with new wallpapers and feature updates",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

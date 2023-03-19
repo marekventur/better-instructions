@@ -1,0 +1,12 @@
+{
+  "id": "daedf5c9-ee73-4729-8609-62cc428d5237",
+  "instruction": "Given the input, generate a sentence starting with the words \"She thought to herself\".",
+  "input": "She had to make an important decision.",
+  "output": "She thought to herself, \"I need to make the best decision for myself in this situation.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

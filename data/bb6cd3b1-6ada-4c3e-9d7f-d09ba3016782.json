@@ -1,0 +1,12 @@
+{
+  "id": "bb6cd3b1-6ada-4c3e-9d7f-d09ba3016782",
+  "instruction": "Given two integers, output the lowest common multiple of the two.",
+  "input": "12, 20",
+  "output": "60",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

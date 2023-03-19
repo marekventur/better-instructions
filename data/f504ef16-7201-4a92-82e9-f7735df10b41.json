@@ -1,0 +1,12 @@
+{
+  "id": "f504ef16-7201-4a92-82e9-f7735df10b41",
+  "instruction": "Write a restaurant review for a Mexican food establishment.",
+  "input": "The TexMex Restaurant",
+  "output": "I recently visited the TexMex Restaurant and had an amazing experience! The atmosphere was lively and inviting, with bright colors and Mexican art decorating the walls. The menu features a wide selection of authentic Mexican dishes, all of which are made with the freshest and most flavorful ingredients. The burrito I had was amazing - it was packed with grilled veggies, meat, and cheese and was served with freshly made salsa and guacamole. I also sampled the enchiladas which were incredibly flavorful and smothered in delicious and spicy sauces. The service was prompt and attentive, and the prices were reasonable. I would highly recommend this restaurant to anyone craving Mexican cuisine.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

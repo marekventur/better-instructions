@@ -1,0 +1,12 @@
+{
+  "id": "e945067c-df29-4e01-a3de-e5a864f2f6d7",
+  "instruction": "Given the input string, identify the type of word (adjective, adverb, noun, etc.)",
+  "input": "excitement",
+  "output": "Noun",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

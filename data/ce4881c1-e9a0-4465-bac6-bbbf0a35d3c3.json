@@ -1,0 +1,12 @@
+{
+  "id": "ce4881c1-e9a0-4465-bac6-bbbf0a35d3c3",
+  "instruction": "Generate a recipe that combines the flavors of <mask> and <mask>.",
+  "input": "Cranberry, Garlic",
+  "output": "Garlic and Cranberry Chicken is an easy and delicious weeknight meal. Begin by seasoning 8 chicken thighs with salt and pepper. Heat a few tablespoons of olive oil in a large skillet over medium-high heat. Add the chicken and sear on each side until golden and cooked through, about 8 minutes. Add 2 cloves of minced garlic and cook for another 1-2 minutes. Remove the chicken from the skillet and set aside. In the same skillet over medium-high heat, add 1/4 cup of dried cranberries and 1/4 cup of chicken broth. Simmer for about 5 minutes until the cranberries are tender. Return the chicken to the skillet and toss with the cranberries and garlic. Sprinkle with freshly chopped herbs for added flavor and serve with a side of your favorite vegetables.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

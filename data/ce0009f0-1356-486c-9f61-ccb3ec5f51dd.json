@@ -1,0 +1,12 @@
+{
+  "id": "ce0009f0-1356-486c-9f61-ccb3ec5f51dd",
+  "instruction": "Identify the components of an email address.",
+  "input": "",
+  "output": "An email address typically consists of two components: the username and the domain name. The username is usually created by the user and is used to log in to the email service, while the domain name is the web address of the email service provider (e.g. @gmail.com).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

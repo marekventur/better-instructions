@@ -1,0 +1,12 @@
+{
+  "id": "408ad6a6-5c23-4518-b771-bd773837272f",
+  "instruction": "Classify the type of poem based on the lines given. Output one of the following: [narrative, haiku, sonnet, limerick].",
+  "input": "The cow says moo,\nThe hen goes cluck,\nThe sheep says baa,\nThe duck quacks",
+  "output": "Limerick",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

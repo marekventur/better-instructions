@@ -1,0 +1,12 @@
+{
+  "id": "14c2150a-af50-4f2a-a580-2a5eb23bd17d",
+  "instruction": "Annotate the following sentence with its parts of speech.",
+  "input": "I am running late.",
+  "output": "I - pronoun; am - verb; running - verb; late - adjective",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

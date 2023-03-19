@@ -1,0 +1,12 @@
+{
+  "id": "27735b32-4a4c-43e2-aeb5-22605146875e",
+  "instruction": "Predict what a customer might order in a cafe.",
+  "input": "It is 7:30AM on a Saturday morning.",
+  "output": "The customer is likely to order a hot beverage such as coffee, a breakfast item such as bacon and eggs, toast, or oatmeal, and a breakfast pastry like a muffin or croissant. They may also order something cold, like a smoothie or juice. If it is an establishment that serves alcohol, they may also order a mimosa or bloody mary.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

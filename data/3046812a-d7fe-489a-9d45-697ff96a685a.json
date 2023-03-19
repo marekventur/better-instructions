@@ -1,0 +1,12 @@
+{
+  "id": "3046812a-d7fe-489a-9d45-697ff96a685a",
+  "instruction": "classify the objects according to type.",
+  "input": "banana, grass, pencil",
+  "output": "- Banana: Fruit\n- Grass: Plant\n- Pencil: Writing tool",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4e586b4b-4f2b-4fbc-848f-6e138586647b",
+  "instruction": "Write a poem that follows the given rhyme pattern.",
+  "input": "Rhyme pattern:\nAABB",
+  "output": "The moon is pale, the stars do shine\nAnd brings us light in darkest night\nThe night is pure, so serene\nIt dwells in us and in our dreams",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

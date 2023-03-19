@@ -1,0 +1,12 @@
+{
+  "id": "a095631e-1f2b-4d22-a1ab-a2af3574fbcf",
+  "instruction": "Arrange 30 books in a bookshelf according to some rule.",
+  "input": "An assortment of 30 books, including fiction, non-fiction, and informational",
+  "output": "I would organize the books on the shelves according to genre. Place the fiction books together in alphabetical order. Place the non-fiction books together in alphabetical order. Place the informational books together in alphabetical order.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

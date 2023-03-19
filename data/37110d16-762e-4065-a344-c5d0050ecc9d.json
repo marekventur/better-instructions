@@ -1,0 +1,12 @@
+{
+  "id": "37110d16-762e-4065-a344-c5d0050ecc9d",
+  "instruction": "Generate a summary of the given article.",
+  "input": "Between 1989 and 2019, the size of the U.S. economy, measured in terms of the gross domestic product (GDP), more than doubled. The growth was faster than in the prior two decades, driven in part by the dramatic expansion of the information technology sector in the 1990s and early 2000s, gains in worker productivity and strong consumer demand, and government investments in research and development.",
+  "output": "The U.S. economy more than doubled in size between 1989 and 2019, largely due to the rise of the information technology sector, improvements in worker productivity and consumer demand, and government investments. This growth was faster than in the prior two decades.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

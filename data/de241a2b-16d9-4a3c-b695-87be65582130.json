@@ -1,0 +1,12 @@
+{
+  "id": "de241a2b-16d9-4a3c-b695-87be65582130",
+  "instruction": "Combine the given two sentences grammatically.",
+  "input": "I like to travel. I am very adventurous.",
+  "output": "I like to travel because I am very adventurous.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

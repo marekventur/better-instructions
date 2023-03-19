@@ -1,0 +1,12 @@
+{
+  "id": "6af07b99-de6b-4c22-b29f-77e1ecfec584",
+  "instruction": "Generate a product description",
+  "input": "This product is a vacuum cleaner",
+  "output": "This high-performance vacuum cleaner is a perfect addition to your household. It comes with a powerful motor and an advanced HEPA filter that ensures fast and thorough cleaning. The lightweight design and ergonomic handle make it easy to maneuver around the house. The dust cup is easy to empty for minimal mess and quick cleaning.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

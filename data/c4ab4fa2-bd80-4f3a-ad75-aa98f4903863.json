@@ -1,0 +1,12 @@
+{
+  "id": "c4ab4fa2-bd80-4f3a-ad75-aa98f4903863",
+  "instruction": "Provide the synonyms of these words.",
+  "input": "escort, bequest",
+  "output": "escort: accompany, attendant, accompany, chaperone, convoy, guide, protect\n bequest: devise, donation, gift, grant, legacy, testamentary disposition, endowment, inheritance, transmission, transfer, grant, legacy, provision, testamentary disposition.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "461ab8c2-8a85-40a3-af7d-bb516e1d97e4",
+  "instruction": "Rewrite the sentence below to make it less biased.",
+  "input": "He\u2019s a really hardworking businessman who has achieved success.",
+  "output": "He has worked hard to become successful in business.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

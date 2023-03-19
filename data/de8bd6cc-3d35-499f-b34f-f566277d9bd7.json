@@ -1,0 +1,12 @@
+{
+  "id": "de8bd6cc-3d35-499f-b34f-f566277d9bd7",
+  "instruction": "Write the code for swapping two elements in a given array.",
+  "input": "No input",
+  "output": "```\ndef swapTwoElements(arr, i, j):\n  temp = arr[i]\n  arr[i] = arr[j]\n  arr[j] = temp\n```",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

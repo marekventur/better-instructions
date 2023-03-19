@@ -1,0 +1,12 @@
+{
+  "id": "e09e91f1-e4d2-4e78-ac2d-f51f3c2622dc",
+  "instruction": "Construct a logarithmic function with the given data points",
+  "input": "X   Y\n2\t4\n4\t16\n8\t256",
+  "output": "y = 4\u22c5log\u2082(x)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

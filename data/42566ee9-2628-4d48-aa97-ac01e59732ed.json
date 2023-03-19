@@ -1,0 +1,12 @@
+{
+  "id": "42566ee9-2628-4d48-aa97-ac01e59732ed",
+  "instruction": "We have a data set of customer reviews. Find the sentiment of each review and classify each record as Positive, Negative or Neutral.",
+  "input": "\"This product is amazing, I love it\" \n\"The product didn't live up to my expectations\"",
+  "output": "Record 1: Positive\nRecord 2: Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

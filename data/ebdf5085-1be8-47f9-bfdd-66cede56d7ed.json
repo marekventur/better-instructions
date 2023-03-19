@@ -1,0 +1,12 @@
+{
+  "id": "ebdf5085-1be8-47f9-bfdd-66cede56d7ed",
+  "instruction": "Create a To-Do list for the following day",
+  "input": "",
+  "output": "Tomorrow's To-Do List:\n\n1. Wake up at 7:00am\n\n2. Prepare breakfast and eat\n\n3. Write a blog post\n\n4. Go for a 30-minute run\n\n5. Work on coding project\n\n6. Call family members\n\n7. Read a book before bed",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

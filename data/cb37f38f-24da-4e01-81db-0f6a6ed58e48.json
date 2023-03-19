@@ -1,0 +1,12 @@
+{
+  "id": "cb37f38f-24da-4e01-81db-0f6a6ed58e48",
+  "instruction": "Given a sentence, what is the word that carries the most emotion?",
+  "input": "The boy was filled with anger when he was scolded by his father.",
+  "output": "Anger.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

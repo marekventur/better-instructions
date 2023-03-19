@@ -1,0 +1,12 @@
+{
+  "id": "7f55f4dd-2225-4ab6-a4db-ec714f012a63",
+  "instruction": "What type of machine learning algorithm would you use to classify emails?",
+  "input": "",
+  "output": "A supervised learning algorithm such as a Support Vector Machine (SVM) or a Decision Tree could be used to classify emails. These algorithms use labelled training data to create a classification model which can then be used to classify incoming emails. These algorithms can also be used to detect spam or malicious emails.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "83d49461-d8d4-4c62-ad14-61cde87a9c0d",
+  "instruction": "Research a topic and generate facts about it.",
+  "input": "Human digestion",
+  "output": "Human digestion is a complex process that takes place in the gastrointestinal tract. The process usually takes between 24 to 72 hours, and includes the digestion of proteins, fats, and carbohydrates. The first step in digestion is the breakdown of food in the stomach due to the hydrochloric acid produced there. The second step involves small molecules passing through the walls of the small intestine where absorption of the nutrients takes place. Lastly, digestion is completed in the large intestine, where the large molecules are broken down and the waste is passed out of the body.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

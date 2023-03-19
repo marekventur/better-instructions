@@ -1,0 +1,12 @@
+{
+  "id": "4a37eebc-7fd1-464d-8ddb-ebd6c4952971",
+  "instruction": "Arrange the given sequence of words into a coherent and logical sentence.",
+  "input": "doctors difficult the caring are",
+  "output": "Doctors are difficult to care for.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

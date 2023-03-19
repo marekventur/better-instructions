@@ -1,0 +1,12 @@
+{
+  "id": "a792db59-3515-42fe-8847-66705df7d215",
+  "instruction": "Generate a formal email body with a meeting invitation.",
+  "input": "Topic: Business Proposal\nTime: Tuesday 5 pm\nLocation: Zoom Meeting",
+  "output": "Dear [Name], \n\nI am writing to invite you to join us for a meeting on Tuesday at 5 PM to discuss a potential business proposal. We have a lot of exciting ideas and would love for you to be a part of this conversation. \n\nThe meeting will be held over Zoom and I will send you a link shortly. I look forward to seeing you!\n\nSincerely, \n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

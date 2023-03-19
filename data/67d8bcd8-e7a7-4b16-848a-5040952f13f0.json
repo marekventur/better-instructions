@@ -1,0 +1,12 @@
+{
+  "id": "67d8bcd8-e7a7-4b16-848a-5040952f13f0",
+  "instruction": "Create a sentence comparing two objects",
+  "input": "submarine and motorbike",
+  "output": "A submarine is louder than a motorbike, but travels much further and faster.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

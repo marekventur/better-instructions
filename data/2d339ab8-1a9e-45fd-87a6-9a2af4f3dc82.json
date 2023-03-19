@@ -1,0 +1,12 @@
+{
+  "id": "2d339ab8-1a9e-45fd-87a6-9a2af4f3dc82",
+  "instruction": "Given the following words, find the synonym of the third word.",
+  "input": "Palatable, Delicious, Favorable",
+  "output": "Palatable, Delicious, Pleasant",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

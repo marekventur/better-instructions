@@ -1,0 +1,12 @@
+{
+  "id": "8fd21a72-5a2a-433d-b718-f2270d46c146",
+  "instruction": "Compare the following services and categorize them: Dropbox, Google Drive, OneDrive",
+  "input": "",
+  "output": "Dropbox, Google Drive, and OneDrive are all cloud storage services that allow users to store and back up files. However, Dropbox is the clear leader in terms of features and functionality, with Google Drive and OneDrive following closely behind. Dropbox offers features such as two-factor authentication and versioning, while Google Drive and OneDrive lack these features. Dropbox also has the highest storage capacity, with 2TB for the professional plan and 1TB for the plus plan. Google Drive and OneDrive both offer 1TB of storage for their highest and most expensive plans, respectively.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

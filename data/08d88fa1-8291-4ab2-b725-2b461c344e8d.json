@@ -1,0 +1,12 @@
+{
+  "id": "08d88fa1-8291-4ab2-b725-2b461c344e8d",
+  "instruction": "Given the input, identify the type of learning involved.",
+  "input": "During a supervised learning exercise, data is labeled by the engineer.",
+  "output": "Supervised Learning.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

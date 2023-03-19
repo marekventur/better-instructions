@@ -1,0 +1,12 @@
+{
+  "id": "e01f913f-3f94-430e-9f68-3012b18ccdd5",
+  "instruction": "Add a suitable transition word/phrase to the beginning of the sentence",
+  "input": "He played football in the park.",
+  "output": "Moreover, he played football in the park.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

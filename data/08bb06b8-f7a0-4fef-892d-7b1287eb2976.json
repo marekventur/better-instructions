@@ -1,0 +1,12 @@
+{
+  "id": "08bb06b8-f7a0-4fef-892d-7b1287eb2976",
+  "instruction": "Given the data, predict the hourly temperature for the next 24 hours.",
+  "input": "The data for the last 24 hours is listed below:\n2PM 3\u00b0C\n4PM 10\u00b0C\n6PM 15\u00b0C\n8PM 17\u00b0C\n10PM 16\u00b0C\n12AM 12\u00b0C\n2AM 10\u00b0C",
+  "output": "Based on the data provided, I predict that the temperature will be \n2AM 10\u00b0C\n4AM 8\u00b0C\n6AM 5\u00b0C\n8AM 3\u00b0C\n10AM 6\u00b0C\n12PM 12\u00b0C\n2PM 14\u00b0C\n4PM 16\u00b0C\n6PM 17\u00b0C\n8PM 16\u00b0C\n10PM 14\u00b0C\n12AM 11\u00b0C",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

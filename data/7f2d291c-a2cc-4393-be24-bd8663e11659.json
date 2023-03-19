@@ -1,0 +1,12 @@
+{
+  "id": "7f2d291c-a2cc-4393-be24-bd8663e11659",
+  "instruction": "Edit the following customer service email for clarity and professionalism.",
+  "input": "Hey there,\n\nWanted to let you know that I'll need your help and wanted to figure out what I'm doing wrong. I just starting using this product and I don't know how to use it properly. Can you help me with some steps to figure out what I'm doing wrong?\n\nThanks",
+  "output": "Dear customer, \n\nThank you for reaching out to us. We understand you are having difficulties with our product and would like assistance. We are here to help and would be happy to provide you with some steps to figure out what you may be doing wrong. \n\nPlease feel free to contact us with any questions or concerns you may have. \n\nSincerely, \n[Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

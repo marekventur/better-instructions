@@ -1,0 +1,12 @@
+{
+  "id": "fbfd27df-e514-4fee-8f69-39318de2cb11",
+  "instruction": "Given a list of 3 cities, list 3 places that could be visited in each city.",
+  "input": "San Francisco, New York, and Los Angeles",
+  "output": "San Francisco: Golden Gate Bridge, Fisherman's Wharf, Alcatraz \nNew York: Statue of Liberty, Empire State Building, Central Park \nLos Angeles: Hollywood Boulevard, The Getty Museum, Universal Studios Hollywood",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

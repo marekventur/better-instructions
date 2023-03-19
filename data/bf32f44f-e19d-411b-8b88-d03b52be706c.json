@@ -1,0 +1,12 @@
+{
+  "id": "bf32f44f-e19d-411b-8b88-d03b52be706c",
+  "instruction": "For the given input, generate a sentence in the passive voice.",
+  "input": "Gus ate the entire cake.",
+  "output": "The entire cake was eaten by Gus.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

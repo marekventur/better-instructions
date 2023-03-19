@@ -1,0 +1,12 @@
+{
+  "id": "a82056c5-47e6-45a9-a443-0d570626979e",
+  "instruction": "Read the instructions and then compose a to-do list.",
+  "input": "Go grocery shopping, clean up your bedroom, finish the project report.",
+  "output": "To-do list: \n1. Go grocery shopping\n2. Clean up your bedroom\n3. Finish the project report",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dd21a342-d6c7-495e-a465-bdf757873817",
+  "instruction": "Categorize the following set of items as vegetables, fruits or neither.",
+  "input": "Blueberries, potatoes, fish",
+  "output": "Fruits: Blueberries; Vegetables: Potatoes; Neither: Fish",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

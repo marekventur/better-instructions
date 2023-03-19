@@ -1,0 +1,12 @@
+{
+  "id": "674541fb-ef71-49e6-b7c1-8b3b59aeb7f3",
+  "instruction": "Construct a query for searching for the topic \u201cpersuasive speech\u201d",
+  "input": "",
+  "output": "\"persuasive speech\" OR \"persuasive speaking\" OR \"persuasive argumentation\" OR \"persuasive language\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

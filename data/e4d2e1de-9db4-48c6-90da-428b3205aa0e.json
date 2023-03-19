@@ -1,0 +1,12 @@
+{
+  "id": "e4d2e1de-9db4-48c6-90da-428b3205aa0e",
+  "instruction": "Truncate a given sentence to make it less than 10 words.",
+  "input": "Los Angeles is the largest city in California.",
+  "output": "Los Angeles is largest in CA.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

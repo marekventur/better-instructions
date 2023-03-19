@@ -1,0 +1,12 @@
+{
+  "id": "8eaa61c9-a3dc-4945-b28f-15256575308f",
+  "instruction": "Given a sentence, convert it into passive voice.",
+  "input": "The dog barked at the alley cat.",
+  "output": "The alley cat was barked at by the dog.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

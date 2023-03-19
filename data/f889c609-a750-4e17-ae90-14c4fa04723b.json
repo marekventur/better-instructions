@@ -1,0 +1,12 @@
+{
+  "id": "f889c609-a750-4e17-ae90-14c4fa04723b",
+  "instruction": "Given the following sentence, select the overall purpose of the sentence:",
+  "input": "I stayed home to finish my work.",
+  "output": "Explaining the reason for staying home.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

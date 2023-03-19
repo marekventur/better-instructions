@@ -1,0 +1,12 @@
+{
+  "id": "7da7d6ec-8b04-4300-a0f7-0a9487986565",
+  "instruction": "Classify the following creature as a mammal or reptile.",
+  "input": "salamander",
+  "output": "A salamander is classified as a reptile.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4ea2528e-ec0a-4b0b-8bc7-4e3c4ef5875f",
+  "instruction": "Listen to this sound and identify which instrument is playing.",
+  "input": "https://www.soundjay.com/piano/piano-note2-15.wav",
+  "output": "The instrument playing is a piano.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

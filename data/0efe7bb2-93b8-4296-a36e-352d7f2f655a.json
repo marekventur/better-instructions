@@ -1,0 +1,12 @@
+{
+  "id": "0efe7bb2-93b8-4296-a36e-352d7f2f655a",
+  "instruction": "Create a three line poem that uses the given words.",
+  "input": "Sorrow, forgotten, friends.",
+  "output": "Sorrow lingers in forgotten places,\nLost amongst the memories of friends,\nBut the pain lingers still, never ending.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

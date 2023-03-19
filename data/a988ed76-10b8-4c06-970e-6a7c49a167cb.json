@@ -1,0 +1,12 @@
+{
+  "id": "a988ed76-10b8-4c06-970e-6a7c49a167cb",
+  "instruction": "Construct a valid HTML code to add a link.",
+  "input": "",
+  "output": "<a href=\"https://example.com\">Link Text</a>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

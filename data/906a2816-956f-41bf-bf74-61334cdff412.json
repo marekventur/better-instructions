@@ -1,0 +1,12 @@
+{
+  "id": "906a2816-956f-41bf-bf74-61334cdff412",
+  "instruction": "Describe the differences between an asynchronous and synchronous web application.",
+  "input": "",
+  "output": "The main difference between an asynchronous and synchronous web application is that asynchronous web applications allow multiple actions to occur in parallel, while synchronous web applications process and respond to requests sequentially. Asynchronous web applications are able to process requests more quickly than synchronous web applications, but synchronous web applications are able to provide a more interactive user experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

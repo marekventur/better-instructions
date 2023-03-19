@@ -1,0 +1,12 @@
+{
+  "id": "219a7694-718d-4c64-b9c7-97fd9694d13b",
+  "instruction": "Identify which of the following five items is not a computer programming language.",
+  "input": "A. Java\nB. C#\nC. Ruby\nD. Word\nE. Python",
+  "output": "D. Word",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

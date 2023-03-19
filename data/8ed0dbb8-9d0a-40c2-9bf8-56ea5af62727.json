@@ -1,0 +1,12 @@
+{
+  "id": "8ed0dbb8-9d0a-40c2-9bf8-56ea5af62727",
+  "instruction": "Read the article and identify the central idea.",
+  "input": "Here is the article. \n\nIndia is a country of varied cultures, languages, and religions. Each of these elements co-exist peacefully here, giving India its unique and rich identity. People from different backgrounds live in harmony and form strong bonds of friendship which are the foundation of our great nation.",
+  "output": "The central idea of the article is that India is a country of diverse components, including cultures, languages and religions, which peacefully exist together and form strong bonds of friendship.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

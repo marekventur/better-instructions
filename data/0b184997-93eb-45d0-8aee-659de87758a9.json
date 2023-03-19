@@ -1,0 +1,12 @@
+{
+  "id": "0b184997-93eb-45d0-8aee-659de87758a9",
+  "instruction": "Identify the most common word used in the following paragraph.",
+  "input": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis risus erat. Quisque eget facilisis velit.",
+  "output": "The most common word used in the paragraph is 'quis', which is used three times.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

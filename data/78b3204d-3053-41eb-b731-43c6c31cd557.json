@@ -1,0 +1,12 @@
+{
+  "id": "78b3204d-3053-41eb-b731-43c6c31cd557",
+  "instruction": "Analyze the verses and provide two common themes.",
+  "input": "Verse 1: Goodbye, my love\nVerse 2: You've been the best of my life",
+  "output": "The two common themes found in these verses are goodbye and appreciation. The first verse is about bidding farewell to someone and the second verse is about expressing gratitude for the person's impact.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

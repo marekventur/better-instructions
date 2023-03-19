@@ -1,0 +1,12 @@
+{
+  "id": "32499677-0b50-46cd-85e8-d6388f4831a4",
+  "instruction": "Analyze the following statement for its rhetorical structure.",
+  "input": "\"We must take a stand against poverty and take action to improve the lives of those in need.\"",
+  "output": "The speaker is taking a stance against poverty, which involves an appeal to ethos as they display their commitment and willingness to take action. They are also using pathos by speaking to the audience's emotional side, appealing to the collective conscience of the community to take a stand and do something to help. Finally, they are utilizing a call to action, encouraging the audience to take action to make a difference in the lives of those living in poverty.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

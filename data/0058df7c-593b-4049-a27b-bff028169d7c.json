@@ -1,0 +1,12 @@
+{
+  "id": "0058df7c-593b-4049-a27b-bff028169d7c",
+  "instruction": "Identify if this is an arithmetic or a geometric sequence.",
+  "input": "1, 2, 4, 8, 16...",
+  "output": "Geometric sequence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

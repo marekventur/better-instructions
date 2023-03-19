@@ -1,0 +1,12 @@
+{
+  "id": "07bdb05e-c77b-4fdd-8728-665a257be88a",
+  "instruction": "Write a snippet of code to find the largest number in the array.",
+  "input": "[1, 5, 7, 18, 24, 32]",
+  "output": "int largestNum = 0; \nforeach(int num in array)\n{ \n    if (num > largestNum) \n    {\n        largestNum = num; \n    }\n}\n\nConsole.WriteLine(\"The largest number in the array is \" + largestNum);",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

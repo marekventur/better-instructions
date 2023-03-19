@@ -1,0 +1,12 @@
+{
+  "id": "73a810f5-b57f-40f2-8ddb-da576a6665da",
+  "instruction": "Search for restaurants near the given address.",
+  "input": "123 Main Street, Anytown, USA",
+  "output": "Near 123 Main Street, Anytown, USA there are a number of restaurants, such as Blueberry Cafe, Caf\u00e9 Marcoli, and Mia's Italian Restaurant.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

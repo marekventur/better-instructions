@@ -1,0 +1,12 @@
+{
+  "id": "72f5d2eb-5704-4655-80c2-669b480ffbfb",
+  "instruction": "Edit the given HTML code so that it can be used as login form.",
+  "input": "<form>\n<label>Username</label>\n<textfield width=\"20\">\n</form>",
+  "output": "<form>\n  <label>Username</label>\n  <input type=\"text\" name=\"username\" width=\"20\" />\n  <label>Password</label>\n  <input type=\"password\" name=\"password\" width=\"20\" />\n  <input type=\"submit\" value=\"Login\" />\n</form>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

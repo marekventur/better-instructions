@@ -1,0 +1,12 @@
+{
+  "id": "da4bd75a-2efb-4aaa-99b5-e600b647a549",
+  "instruction": "Determine if the mouth is the correct word for the context.",
+  "input": "He was speaking through his food.",
+  "output": "No, the correct word is mouth.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d2d44a7a-021e-41f3-8803-66ed28a3a7d7",
+  "instruction": "Formulate a question that can be used to trigger the given answer.",
+  "input": "I want to watch a movie.",
+  "output": "What movie do you want to watch?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6e194810-4ee2-451e-854b-98ef403a1070",
+  "instruction": "Split the sentence into five clauses.",
+  "input": "They stopped playing football, gathered their things, said goodbye, and started walking home.",
+  "output": "They stopped playing football. \nThey gathered their things. \nThey said goodbye. \nThey started walking home.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

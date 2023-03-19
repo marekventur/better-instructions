@@ -1,0 +1,12 @@
+{
+  "id": "21bbea4c-4286-40c9-bff3-2cc363f7d6e7",
+  "instruction": "Organize the list of words according to their length.",
+  "input": "skyscraper, chair, umbrella, curtain",
+  "output": "chair, umbrella, curtain, skyscraper \n(shortest to longest length)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

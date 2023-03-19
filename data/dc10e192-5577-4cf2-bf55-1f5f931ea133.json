@@ -1,0 +1,12 @@
+{
+  "id": "dc10e192-5577-4cf2-bf55-1f5f931ea133",
+  "instruction": "Generate a list of questions to ask a user when creating an account.",
+  "input": "",
+  "output": "Questions to ask when creating an account: \n- What is your full name?\n- What is your email address?\n- What is your date of birth?\n- What is your phone number?\n- What is your mailing address?\n- What is your chosen username?\n- What is your preferred password?\n- Are you a robot?\n- What is your gender?\n- How did you hear about this service?\n- What are your interests?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

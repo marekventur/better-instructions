@@ -1,0 +1,12 @@
+{
+  "id": "296e76a4-8ce0-4fb5-b8d0-6aaeecc0e1f6",
+  "instruction": "Rate this product from 1 to 5 in terms of quality and value.",
+  "input": "<description of a product>",
+  "output": "Considering the description, this product is rated 4 out of 5 for quality and 3 out of 5 for value.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

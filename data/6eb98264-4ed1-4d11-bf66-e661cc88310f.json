@@ -1,0 +1,12 @@
+{
+  "id": "6eb98264-4ed1-4d11-bf66-e661cc88310f",
+  "instruction": "Find the word that needs to be filled with a past tense verb",
+  "input": "My friends and I went to the park and ____ playing soccer.",
+  "output": "started",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "565a9622-12bf-4e22-948f-68f897d51827",
+  "instruction": "Explain the concept of artificial neural networks.",
+  "input": "",
+  "output": "Artificial neural networks are computational models based on biological neural networks, which are composed of basic functional units called neurons. These networks have the ability to learn abstract representations of input data and can be used to make predictions and classifications. They are composed of an input layer, a number of hidden layers, and an output layer. The neurons in each layer are connected to each other and are used to process information. The network is trained using an optimization process called backpropagation which fine-tunes the weight associated to each neuron in each layer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

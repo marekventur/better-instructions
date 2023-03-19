@@ -1,0 +1,12 @@
+{
+  "id": "5cb8a408-26db-454c-8fe4-e361bedd5dfc",
+  "instruction": "Find the area of a trapezoid with the following properties.",
+  "input": "Base Lengths: 5 and 7 \nHeight: 3",
+  "output": "The area of the trapezoid is 24 units.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

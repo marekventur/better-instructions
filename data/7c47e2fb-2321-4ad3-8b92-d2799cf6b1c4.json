@@ -1,0 +1,12 @@
+{
+  "id": "7c47e2fb-2321-4ad3-8b92-d2799cf6b1c4",
+  "instruction": "Show an example of a dataset in the following topic",
+  "input": "Cancer types",
+  "output": "Dataset example:\n\nThis dataset contains information about 5 different types of cancer: breast, prostate, bladder, pancreatic, and colorectal cancer. It includes information about the mortality rates for each type of cancer, the average age of diagnosis, and the average number of new cases each year. \n\nCancer Type | Mortality Rate (%) | Average Age at Diagnosis (years) | Average # of New Cases (per year) \n------------|--------------------|-------------------------------|----------------------------------\nBreast      | 15.8               | 59.0                         | 2,462,000\nProstate    | 19.4               | 69.1                         | 502,000\nBladder     | 17.6               | 75.2                         | 382,000\nPancreatic  | 85.5               | 68.9                         | 352,000\nColorectal  | 16.3               | 71.3                         | 849,000\n\nSource: https://www.kaggle.com/cdc/cancer-types",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

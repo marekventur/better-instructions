@@ -1,0 +1,12 @@
+{
+  "id": "5d07303b-33c4-48df-acea-bfdb0683d764",
+  "instruction": "Provide a list of five ingredients that can be used to create a certain recipe.",
+  "input": "A cake recipe",
+  "output": "The following five ingredients can be used to create a cake recipe: flour, sugar, butter, eggs, and baking powder.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

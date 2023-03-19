@@ -1,0 +1,12 @@
+{
+  "id": "af32326a-2330-4bea-a638-6b7f7e393bb5",
+  "instruction": "Arrange the following cities in order from north to south.",
+  "input": "Rome, Paris, Milan",
+  "output": "Paris, Milan, Rome.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

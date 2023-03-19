@@ -1,0 +1,12 @@
+{
+  "id": "5123cd1f-6197-45ae-952d-305ae881503b",
+  "instruction": "Recommend 2 books related to the given category that have been released in the past year.",
+  "input": "Category: Science Fiction",
+  "output": "1. The Future is Blue by Catherynne M. Valente \n2. Intellect by Emily Suvada",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

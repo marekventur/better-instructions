@@ -1,0 +1,12 @@
+{
+  "id": "ae53d58c-0724-42df-8688-2ab2ee0c6fe4",
+  "instruction": "Explain the difference between an object and a class.",
+  "input": "",
+  "output": "The difference between an object and a class is that a class is a template or blueprint from which objects are created. A class defines the characteristics of an object, such as its methods and fields. An object is created from the class, and it contains the data members and methods defined by the class. An object is an instance of the class and is used for storing and manipulating data. Objects are initialized with specific values for the properties of the class, and can be manipulated dynamically. In contrast, the class is not an instance of the class, and cannot be manipulated directly. Rather, it acts as a template from which objects are created.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

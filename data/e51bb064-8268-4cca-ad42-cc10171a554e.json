@@ -1,0 +1,12 @@
+{
+  "id": "e51bb064-8268-4cca-ad42-cc10171a554e",
+  "instruction": "Compute the mean and standard deviation for this set of numbers.",
+  "input": "2, 3, 7, 5",
+  "output": "Mean = 4.5, Standard deviation = 2.121320344",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

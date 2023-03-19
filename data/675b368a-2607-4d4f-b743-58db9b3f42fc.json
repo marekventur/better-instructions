@@ -1,0 +1,12 @@
+{
+  "id": "675b368a-2607-4d4f-b743-58db9b3f42fc",
+  "instruction": "Combine the following two arrays without duplicates",
+  "input": "[1, 2, 3] and [3, 4, 5]",
+  "output": "The combined array is: [1, 2, 3, 4, 5]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

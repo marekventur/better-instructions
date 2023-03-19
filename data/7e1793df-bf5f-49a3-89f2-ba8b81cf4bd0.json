@@ -1,0 +1,12 @@
+{
+  "id": "7e1793df-bf5f-49a3-89f2-ba8b81cf4bd0",
+  "instruction": "Find out the birthdate of this person.",
+  "input": "Name: Jennifer Aniston",
+  "output": "Jennifer Aniston was born on February 11, 1969, in Sherman Oaks, California.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

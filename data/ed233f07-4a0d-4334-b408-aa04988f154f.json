@@ -1,0 +1,12 @@
+{
+  "id": "ed233f07-4a0d-4334-b408-aa04988f154f",
+  "instruction": "Given a sentence, add an appropriate transition",
+  "input": "John failed the test. He was very upset.",
+  "output": "John failed the test, so he was very upset.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

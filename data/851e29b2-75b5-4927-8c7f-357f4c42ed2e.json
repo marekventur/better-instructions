@@ -1,0 +1,12 @@
+{
+  "id": "851e29b2-75b5-4927-8c7f-357f4c42ed2e",
+  "instruction": "How do you delete user account in given software?",
+  "input": "Software: Adobe Photoshop",
+  "output": "To delete a user account in Adobe Photoshop, go to the Edit menu, select Manage Accounts, and choose Delete User Account. Enter the username for the account you want to delete, and then click OK to delete the user account.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

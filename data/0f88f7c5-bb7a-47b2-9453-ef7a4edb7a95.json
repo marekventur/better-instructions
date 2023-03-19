@@ -1,0 +1,12 @@
+{
+  "id": "0f88f7c5-bb7a-47b2-9453-ef7a4edb7a95",
+  "instruction": "Identify the gerund in the sentence and provide an example where the same gerund appears.",
+  "input": "Living alone has become difficult for her.",
+  "output": "The gerund in the sentence is \"living\". An example where the same gerund appears is \"She is used to living alone.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

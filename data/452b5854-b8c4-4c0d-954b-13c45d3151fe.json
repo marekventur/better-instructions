@@ -1,0 +1,12 @@
+{
+  "id": "452b5854-b8c4-4c0d-954b-13c45d3151fe",
+  "instruction": "Given a string of words, break it into a list of words.",
+  "input": "Technology is shaping our future",
+  "output": "[\"Technology\", \"is\", \"shaping\", \"our\", \"future\"]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

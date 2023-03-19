@@ -1,0 +1,12 @@
+{
+  "id": "9e13cd14-aa7d-4101-8d04-becb33e3f24c",
+  "instruction": "Find the meaning of the bold word in the sentence.",
+  "input": "He looked at the abstract painting in awe.",
+  "output": "Awe: a feeling of reverential respect mixed with fear or wonder.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

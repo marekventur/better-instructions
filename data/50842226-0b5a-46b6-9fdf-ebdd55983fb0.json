@@ -1,0 +1,12 @@
+{
+  "id": "50842226-0b5a-46b6-9fdf-ebdd55983fb0",
+  "instruction": "Write the time in a different format.",
+  "input": "7:45am",
+  "output": "07:45",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "27eeeaa8-dc4e-4d10-95ff-ef5a160e279c",
+  "instruction": "In the following sentence, what is the correct form of the verb?",
+  "input": "The birds were singing in the trees.",
+  "output": "The correct form of the verb is \"sing\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

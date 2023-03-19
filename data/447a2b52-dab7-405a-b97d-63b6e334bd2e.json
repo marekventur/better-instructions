@@ -1,0 +1,12 @@
+{
+  "id": "447a2b52-dab7-405a-b97d-63b6e334bd2e",
+  "instruction": "What are the differences between dynamic and static web pages?",
+  "input": "",
+  "output": "Dynamic web pages are those that can be updated or changed with user input, while static web pages are those which remain the same until manually changed. Static web pages use HTML and CSS code to display content, while dynamic web pages require additional components such as JavaScript, PHP or Ajax in order to create an interactive experience for the user. Static web pages are deliverable as-is and do not change with user input, while dynamic web pages can be updated with user input and allow for a more customized surfing experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bb2f8b1d-6b96-49bd-8770-c8213a3af4aa",
+  "instruction": "Rearrange a paragraph to make it read in an orderly and logical way.",
+  "input": "Alexa took the data from the sensors and visualized the patterns on the screen. She observed the trends in the input data, thinking of the next step to take.",
+  "output": "Alexa observed the trends in the input data from the sensors and thought of the next step to take. She visualized the patterns on the screen.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

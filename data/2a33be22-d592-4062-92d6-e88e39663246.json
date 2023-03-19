@@ -1,0 +1,12 @@
+{
+  "id": "2a33be22-d592-4062-92d6-e88e39663246",
+  "instruction": "Create a two-sentence summary for the following text.",
+  "input": "The groundbreaking ceremony for the new high school was held today. Mayor Steve Brown gave a speech, thanking everyone for supporting the school, and talked about the project's importance for the city.",
+  "output": "Today the groundbreaking ceremony of the new high school was held, with Mayor Steve Brown's speech expressing gratitude to those involved and emphasizing its importance for the city.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

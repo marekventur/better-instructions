@@ -1,0 +1,12 @@
+{
+  "id": "a0abf9ea-269e-44f4-b9d4-4a22a458014a",
+  "instruction": "Rewrite the given sentence in the provided style.",
+  "input": "She ate dinner.\n\nStyle: Past Continuous",
+  "output": "She was eating dinner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "91beef8d-faee-4a5a-a9c4-b60d91499a3b",
+  "instruction": "Update the piece of code to correct the bug.",
+  "input": "a = 6\nb = 5\nc = a + b\nprint(d)",
+  "output": "a = 6\nb = 5\nc = a + b\nprint(c)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "11510e19-647f-4365-925e-ae964d96c37f",
+  "instruction": "Analyse the tone of the sentence using the sentiment analysis model.",
+  "input": "I'm so happy with my purchase.",
+  "output": "Positive (0.9997)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

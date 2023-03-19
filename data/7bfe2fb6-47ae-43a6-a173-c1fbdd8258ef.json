@@ -1,0 +1,12 @@
+{
+  "id": "7bfe2fb6-47ae-43a6-a173-c1fbdd8258ef",
+  "instruction": "Combine the two sentences into one sentence without losing the meaning.",
+  "input": "He ate an apple. He drank a glass of milk.",
+  "output": "He ate an apple and drank a glass of milk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

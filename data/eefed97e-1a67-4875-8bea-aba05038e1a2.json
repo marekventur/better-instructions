@@ -1,0 +1,12 @@
+{
+  "id": "eefed97e-1a67-4875-8bea-aba05038e1a2",
+  "instruction": "What key factor allows the World Wide Web to function?",
+  "input": "",
+  "output": "The key factor that allows the World Wide Web to function is the use of the Hypertext Transfer Protocol (HTTP) to communicate between computers connected to the internet. HTTP is an application-level protocol that enables the client-server architecture necessary for web browsing. This protocol allows for communication between different devices and systems, allowing for the open access and interaction of data across the internet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "174646b3-c335-4feb-8eee-9cfb1039c8fd",
+  "instruction": "What is a main difference between a stack and a queue?",
+  "input": "",
+  "output": "The main difference between a stack and a queue is the order of operations. A stack follows the Last In First Out (LIFO) structure, while a queue follows the First In First Out (FIFO) structure. This means that items are either added to the bottom of a stack or deleted from the top, while items are always added to the back of the queue and deleted from the front.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

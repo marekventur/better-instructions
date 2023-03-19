@@ -1,0 +1,12 @@
+{
+  "id": "3c55c190-9185-4a2c-935c-d784326238fe",
+  "instruction": "Take the input and extend it with three more sentences.",
+  "input": "He prepared a strawberry tart for the party.",
+  "output": "He carefully mixed the fresh cream with the strawberry puree and spread it on top of the pre-baked shortcrust pastry. He garnished it with crushed almonds and a few pieces of strawberry. With its sweet and tart flavor, it was a huge hit with the guests at the party.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

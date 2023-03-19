@@ -1,0 +1,12 @@
+{
+  "id": "80c34438-567c-4296-bfe4-168e5cdb5d90",
+  "instruction": "Formulate a budget for the following items.",
+  "input": "Groceries (monthly): $400\nClothing (annually): $1200\nTravel (annually): $2500",
+  "output": "The budget for groceries should be $400 per month and for clothing should be $100 per month ($1200 annually). The budget for travel should be $208.33 per month ($2500 annually).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

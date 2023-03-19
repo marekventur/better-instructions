@@ -1,0 +1,12 @@
+{
+  "id": "33317839-7c65-4bdc-bbb6-b3fc5328daaa",
+  "instruction": "Convert the following binary code to ASCII characters.",
+  "input": "01110101 01100001 01110010 01101001 01110100",
+  "output": "The ASCII characters for the binary code is: wast.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

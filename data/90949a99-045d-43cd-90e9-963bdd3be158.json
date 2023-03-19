@@ -1,0 +1,12 @@
+{
+  "id": "90949a99-045d-43cd-90e9-963bdd3be158",
+  "instruction": "Assemble the item using the list of items in the input.",
+  "input": "Carpet, glue, scissors",
+  "output": "Take the carpet and cut it to the desired size using scissors. Apply glue along the edges of the carpet, then carefully fit the carpet together.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

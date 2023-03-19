@@ -1,0 +1,12 @@
+{
+  "id": "d54f5f76-b5f4-4c4e-9425-59bae2396027",
+  "instruction": "Paraphrase this sentence, taking into consideration the connotation of the phrase.",
+  "input": "It is time to hit the sack.",
+  "output": "It is time to go to bed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

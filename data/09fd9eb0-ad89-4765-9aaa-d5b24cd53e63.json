@@ -1,0 +1,12 @@
+{
+  "id": "09fd9eb0-ad89-4765-9aaa-d5b24cd53e63",
+  "instruction": "Rewrite the following expression in a different but equivalent form.",
+  "input": "4x + 5y - 6z",
+  "output": "4x - 6z + 5y",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

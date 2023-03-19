@@ -1,0 +1,12 @@
+{
+  "id": "79eec2b6-e70d-4cbb-89a1-735ec9126c19",
+  "instruction": "Find the number in the following sentence and identify its type.\n\nI've been working in the company for 3 years.",
+  "input": "",
+  "output": "The number is '3' and it is an integer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

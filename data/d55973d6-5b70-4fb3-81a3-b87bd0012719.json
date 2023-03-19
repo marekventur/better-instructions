@@ -1,0 +1,12 @@
+{
+  "id": "d55973d6-5b70-4fb3-81a3-b87bd0012719",
+  "instruction": "Categorize different types of jobs into occupational fields.",
+  "input": "Jobs: Doctor, Accountant, Teacher, Actor",
+  "output": "Doctor: Healthcare \nAccountant: Accounting/Finance \nTeacher: Education \nActor: Arts/Entertainment",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

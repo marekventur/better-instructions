@@ -1,0 +1,12 @@
+{
+  "id": "bd3a9d18-2280-41d0-80c4-fc033f3c62cd",
+  "instruction": "Format the following sentence by adding quotation marks wherever necessary.",
+  "input": "I always wondered why she called me sweetheart",
+  "output": "\"I\" always wondered why she called me \"sweetheart\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

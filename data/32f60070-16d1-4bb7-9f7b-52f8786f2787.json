@@ -1,0 +1,12 @@
+{
+  "id": "32f60070-16d1-4bb7-9f7b-52f8786f2787",
+  "instruction": "Format the following passage into a bulleted list.",
+  "input": "Carbon dioxide emissions are largely caused by burning fossil fuels, such as coal and natural gas, to generate electricity and power our daily activities.",
+  "output": "- Carbon dioxide emissions are largely caused by burning fossil fuels \n- Examples of fossil fuels include coal and natural gas \n- Burning fossil fuels are used to generate electricity and power our daily activities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

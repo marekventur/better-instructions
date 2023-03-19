@@ -1,0 +1,12 @@
+{
+  "id": "964e0046-3c0d-443e-9e1b-78bfffe17b46",
+  "instruction": "Create a list of the 5 most influential movies from the 2000s.",
+  "input": "Genre: Romance",
+  "output": "1. Amelie (2001)\n2. The Notebook (2004)\n3. Her (2013)\n4. Before Sunset (2004)\n5. Brokeback Mountain (2005)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

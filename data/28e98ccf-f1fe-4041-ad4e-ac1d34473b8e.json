@@ -1,0 +1,12 @@
+{
+  "id": "28e98ccf-f1fe-4041-ad4e-ac1d34473b8e",
+  "instruction": "Create a tutorial explaining what artificial intelligence is",
+  "input": "",
+  "output": "Artificial Intelligence (AI) is the field of computer science focused on creating machines that are capable of thinking and acting like humans. AI involves the use of algorithms and software to simulate human thought processes and behaviors. AI can be broken down into several categories like Machine Learning, Natural Language Processing, Computer Vision, and Robotics. Machine Learning involves the use of algorithms and data structures to allow computers to learn from data without being explicitly programmed. Natural Language Processing relies on algorithms to understand and generate natural language. Computer Vision is focused on machine understanding of images and video. Robotics deals with the creation of autonomous robots that can take actions and complete tasks. AI is applied in many fields, from healthcare to gaming, to provide more efficient and user-friendly solutions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

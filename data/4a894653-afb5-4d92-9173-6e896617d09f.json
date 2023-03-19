@@ -1,0 +1,12 @@
+{
+  "id": "4a894653-afb5-4d92-9173-6e896617d09f",
+  "instruction": "Sort the following list of steps by order.",
+  "input": "- Add flour \n- Turn on the oven\n- Grease the baking pan\n- Pour milk",
+  "output": "1. Turn on the oven\n2. Grease the baking pan\n3. Add flour\n4. Pour milk",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

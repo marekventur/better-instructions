@@ -1,0 +1,12 @@
+{
+  "id": "988a84ef-57fe-485f-9d2f-f23c8da23a3d",
+  "instruction": "Design a conversation between a customer and a customer service agent.",
+  "input": "",
+  "output": "Customer: Hi, I just received my order and some items were missing.\n\nCustomer Service Agent: Hi there, I'm really sorry about that! Can you please provide me your order number and the items that are missing?\n\nCustomer: Yes, sure. The order number is 9183 and the missing items are two pairs of socks.\n\nCustomer Service Agent: Alright, I understand. I'll look into your order and I'll give you a call back soon. Is there anything else I can do for you right now?\n\nCustomer: No, that's it. Thanks!\n\nCustomer Service Agent: You're welcome! Have a great day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

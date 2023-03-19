@@ -1,0 +1,12 @@
+{
+  "id": "467600f3-031b-4b9b-8fd7-c8c91523f165",
+  "instruction": "Create a punchy social media post about the given news",
+  "input": "The news is about the launch of a new product",
+  "output": "Introducing [NEW PRODUCT NAME] \u2013 a revolutionary new way to [PRODUCT BENEFIT]! Check out our website for all the details and get started on your journey today! #[PRODUCT NAME] #[PRODUCT BENEFIT]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

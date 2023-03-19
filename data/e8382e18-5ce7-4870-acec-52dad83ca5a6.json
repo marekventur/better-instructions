@@ -1,0 +1,12 @@
+{
+  "id": "e8382e18-5ce7-4870-acec-52dad83ca5a6",
+  "instruction": "Create a list of elements for a table of contents.",
+  "input": "Book Title: Exploring the Solar System",
+  "output": "Table of Contents: \n\nIntroduction \n- Overview of the Solar System\n- Formation of the Solar System\n\nPlanets \n- Mercury \n- Venus \n- Earth \n- Mars \n- Jupiter \n- Saturn \n- Uranus \n- Neptune \n\nExploration \n- Spacecraft Exploration \n- Telescopic Exploration \n- Satellite Exploration \n\nConclusion \n- Reflections and Future Research \n\nBibliography \n\nIndex",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "65fa857c-5295-451c-980f-c149752c0c09",
+  "instruction": "Identify the reaction type based on the given chemical reaction.",
+  "input": "2Fe + 3O2 \u2192 2Fe2O3",
+  "output": "oxidation",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

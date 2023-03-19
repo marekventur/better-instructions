@@ -1,0 +1,12 @@
+{
+  "id": "86755b47-b1ef-4731-b926-731dc3e5e056",
+  "instruction": "How would you create a website similar to Reddit?",
+  "input": "",
+  "output": "To create a website similar to Reddit, the first step would be to design the basic framework of the website. This would involve creating the structure of the website such as the homepage, the user accounts, the pages of different categories, the comment/posting sections, etc. \n\nThe next step would be to design the HTML needed to build the website. In this step we would need to create the visual elements the website needs such as the navigation bar, the buttons, comment boxes, etc. \n\nOnce the HTML has been created, the next step would be to add CSS styling to the HTML and make it look visually appealing. \n\nThe next step would be to create the back-end code for the website such as the user authentication, the databases and the algorithms. \n\nThe last step would be to launch the website. This would involve creating the server configuration and hosting the website. Once the website is live, it would need to be monitored and maintained.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

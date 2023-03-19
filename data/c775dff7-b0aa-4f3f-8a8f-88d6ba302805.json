@@ -1,0 +1,12 @@
+{
+  "id": "c775dff7-b0aa-4f3f-8a8f-88d6ba302805",
+  "instruction": "Take the following sentence and simplify it to make it more understandable.",
+  "input": "The decrease in the number of people visiting the store has caused sales to take a downturn.",
+  "output": "Fewer people visiting the store has led to lower sales.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

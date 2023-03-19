@@ -1,0 +1,12 @@
+{
+  "id": "02cce45a-c808-48a9-ba7a-d0371f2c336f",
+  "instruction": "Analyze the given data of monthly sales.",
+  "input": "Month 1: $2300\nMonth 2: $2800\nMonth 3: $1900",
+  "output": "The monthly sales data analysis reveals that there has been an increase of $500 in sales between Month 1 and Month 2, while there has been a decrease of $900 in sales between Month 2 and Month 3. Overall, there has been an increase of $200 in sales from Month 1 to Month 3.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

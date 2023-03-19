@@ -1,0 +1,12 @@
+{
+  "id": "ab8cef56-50f9-43fd-970f-8e629eef1f23",
+  "instruction": "Classify the given sentence \"The blue cat meowed\"",
+  "input": "The blue cat meowed",
+  "output": "This sentence is describing an action.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

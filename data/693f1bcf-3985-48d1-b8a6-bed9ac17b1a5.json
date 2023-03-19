@@ -1,0 +1,12 @@
+{
+  "id": "693f1bcf-3985-48d1-b8a6-bed9ac17b1a5",
+  "instruction": "Generate a function to search for an element in a list.",
+  "input": "",
+  "output": "def search_x(x, y):\n\u00a0\u00a0\u00a0\u00a0for i in range(y):\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if i == x:\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return True\n\u00a0\u00a0\u00a0\u00a0return False",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

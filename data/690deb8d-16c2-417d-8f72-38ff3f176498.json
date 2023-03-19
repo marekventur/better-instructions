@@ -1,0 +1,12 @@
+{
+  "id": "690deb8d-16c2-417d-8f72-38ff3f176498",
+  "instruction": "What is the difference between a Neural Network and a Deep Learning model?",
+  "input": "",
+  "output": "A Neural Network is a type of machine learning model that is composed of multiple layers of neurons that are connected to each other. A Deep Learning model is a type of Neural Network which is composed of multiple hidden layers that allow the network to learn complex patterns from the data. Deep Learning models are more accurate and powerful than traditional Neural Networks because they can process large amounts of data and recognize subtle patterns in the data that a standard Neural Network may not recognize.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

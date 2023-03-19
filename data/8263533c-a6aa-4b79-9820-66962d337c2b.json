@@ -1,0 +1,12 @@
+{
+  "id": "8263533c-a6aa-4b79-9820-66962d337c2b",
+  "instruction": "Convert this code to Java",
+  "input": "def power_of_two(x):\n    if x > 0:\n        return x * power_of_two(x-1)\n    else:\n        return 1",
+  "output": "public static int powerOfTwo(int x) {\n    if (x > 0) {\n        return x * powerOfTwo(x-1);\n    }\n    return 1;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

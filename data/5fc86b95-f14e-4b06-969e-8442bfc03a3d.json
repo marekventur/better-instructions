@@ -1,0 +1,12 @@
+{
+  "id": "5fc86b95-f14e-4b06-969e-8442bfc03a3d",
+  "instruction": "Replace the words with antonyms.",
+  "input": "happy, nice",
+  "output": "unhappy, unpleasant.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

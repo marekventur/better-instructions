@@ -1,0 +1,12 @@
+{
+  "id": "191e2477-f5c4-4646-9897-20f9faa66b49",
+  "instruction": "Construct a timeline that shows the progression of events in the given text.",
+  "input": "John got accepted to the university, enrolled in courses, and graduated with honors.",
+  "output": "John's educational timeline:\n- Got accepted to the university \n- Enrolled in courses \n- Graduated with honors",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

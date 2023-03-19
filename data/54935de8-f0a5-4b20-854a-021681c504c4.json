@@ -1,0 +1,12 @@
+{
+  "id": "54935de8-f0a5-4b20-854a-021681c504c4",
+  "instruction": "Identify the fallacy in the statement and explain it.",
+  "input": "You can't trust anything she says - she's a woman.",
+  "output": "The statement is a logical fallacy called Gender Imitation. It is the assumption that a person's gender affects their credibility.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

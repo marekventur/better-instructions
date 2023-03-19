@@ -1,0 +1,12 @@
+{
+  "id": "21bf4b0c-0ac2-4d6d-9a3b-6262430a11b2",
+  "instruction": "Rewrite this sentence in the form of a question.",
+  "input": "Indonesia is the largest island country in the world.",
+  "output": "Which country is the largest island country in the world?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

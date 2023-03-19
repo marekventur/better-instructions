@@ -1,0 +1,12 @@
+{
+  "id": "0e6444db-fc7b-459b-ab19-e8acb1d2a9e2",
+  "instruction": "Provide instructions for changing a bicycle tire.",
+  "input": "",
+  "output": "To change a bicycle tire, you will need a wrench, a bike pump, spare tire, and tire levers. Begin by taking off the wheel. Use the wrench to loosen the nuts that hold the wheel on. After the nuts are loose, use your hands to pull on the wheel and make sure it is free from the bike frame. Then, remove the old tire and tube from the wheel using the tire levers. Insert the new tube, taking note of the valve position. Place the new tire around the wheel, and make sure its aligned with the wheel spoke. Use the tire levers to carefully insert the tire, and use the bike pump to inflate it. Finally, use the wrench to tighten the wheel nuts back on, and your tire is now changed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

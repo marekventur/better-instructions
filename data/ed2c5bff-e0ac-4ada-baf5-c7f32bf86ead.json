@@ -1,0 +1,12 @@
+{
+  "id": "ed2c5bff-e0ac-4ada-baf5-c7f32bf86ead",
+  "instruction": "Formulate a hypothesis about the connection between two pieces of data.",
+  "input": "Increase in sugar intake and amount of cavities",
+  "output": "There is likely a correlation between increased sugar intake and the amount of cavities, as sugar is linked to dental decay.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

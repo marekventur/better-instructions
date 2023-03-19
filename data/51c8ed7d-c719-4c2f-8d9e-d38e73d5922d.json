@@ -1,0 +1,12 @@
+{
+  "id": "51c8ed7d-c719-4c2f-8d9e-d38e73d5922d",
+  "instruction": "Proofread the given document and identify any mistakes.",
+  "input": "The company has expaned their operation and now provider services more people then ever.",
+  "output": "The company has expanded their operation and now provides services to more people than ever.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

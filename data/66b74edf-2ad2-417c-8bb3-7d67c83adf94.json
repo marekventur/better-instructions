@@ -1,0 +1,12 @@
+{
+  "id": "66b74edf-2ad2-417c-8bb3-7d67c83adf94",
+  "instruction": "Take the given sentence and change it into an imperative sentence.",
+  "input": "Don't forget to turn the lights off before leaving.",
+  "output": "Remember to turn the lights off before leaving.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

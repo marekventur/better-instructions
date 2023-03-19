@@ -1,0 +1,12 @@
+{
+  "id": "68d72e41-43d5-4195-90c1-616fdc18f0bc",
+  "instruction": "Analyze the following sentence: \"He was unusually tall for his age.\"",
+  "input": "He was unusually tall for his age.",
+  "output": "This sentence suggests that the person is taller than the average for his age group. It implies that the person may have been gifted with above average height and/or may have gone through an early growth spurt. The sentence can also be interpreted as an exaggeration, suggesting that the person is very tall in comparison to others in their age group.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

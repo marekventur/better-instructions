@@ -1,0 +1,12 @@
+{
+  "id": "6f199bb6-706f-46bb-a3b3-878ec895c020",
+  "instruction": "Pick out the proper noun from this sentence:",
+  "input": "The government has implemented new regulations",
+  "output": "Government",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

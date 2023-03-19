@@ -1,0 +1,12 @@
+{
+  "id": "e3b45700-f1e5-47c3-81b5-f5c6794e5fb8",
+  "instruction": "Construct a regular expression to validate a string of 8 to 30 alphanumeric characters.",
+  "input": "",
+  "output": "^(?=.*[A-Za-z])(?=.*\\d)[A-Za-z\\d]{8,30}$",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

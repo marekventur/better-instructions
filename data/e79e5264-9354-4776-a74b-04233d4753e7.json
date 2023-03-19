@@ -1,0 +1,12 @@
+{
+  "id": "e79e5264-9354-4776-a74b-04233d4753e7",
+  "instruction": "Describe the steps involved in creating a neural network model.",
+  "input": "",
+  "output": "Creating a neural network model involves several steps. First, the data must be collected, preprocessed, and formatted into a suitable format. This is known as Data Wrangling. Second, the model must be constructed using a suitable library and appropriate layers must be chosen, depending on the type of problem to be solved (e.g. classification, regression, etc.). Third, the model must be trained using a suitable optimization algorithm such as Adam or RMSProp. This involves providing the model with appropriate inputs and desired outputs. Lastly, the model must be tested on unseen data in order to evaluate its performance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

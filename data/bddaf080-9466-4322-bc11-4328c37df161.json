@@ -1,0 +1,12 @@
+{
+  "id": "bddaf080-9466-4322-bc11-4328c37df161",
+  "instruction": "Generate a new sentence that conveys the same message",
+  "input": "I am walking in the park",
+  "output": "The park is where I'm headed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

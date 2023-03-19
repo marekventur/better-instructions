@@ -1,0 +1,12 @@
+{
+  "id": "07104023-45a7-4759-9b7e-485a3bf07d04",
+  "instruction": "Host a virtual quiz with these six songs as questions:",
+  "input": "\"Hey Jude - Beatles, \"Smooth - Santana, \"Hotel California - Eagles, \"What's Up - 4 Non Blondes, \"Piano Man - Billy Joel, \"Santeria - Sublime",
+  "output": "1. What Beatles song starts with the lyrics \"Hey Jude\"?\n2. Who recorded the hit song \"Smooth\"?\n3. What is the title of the Eagles song that begins with the lyrics \"On a dark desert highway\"?\n4. What 4 Non Blondes song starts with the lyrics \"25 years and my life is still\"?\n5. What is the title of the Billy Joel song that begins with the lyrics \"It's nine o'clock on a Saturday\"?\n6. What Sublime song starts with the lyrics \"I don't practice santeria\"?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

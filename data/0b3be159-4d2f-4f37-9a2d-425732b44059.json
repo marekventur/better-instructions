@@ -1,0 +1,12 @@
+{
+  "id": "0b3be159-4d2f-4f37-9a2d-425732b44059",
+  "instruction": "Analyze the data in the given chart.",
+  "input": "A pie chart showing the percentage of people in a survey who bought each item",
+  "output": "The pie chart shows that the most popular item was shoes, with 33% of participants saying they bought them. Additionally, 25% of participants said they bought clothes, 20% purchased electronics, 14% bought books and 8% purchased accessories.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

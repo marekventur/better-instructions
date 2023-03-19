@@ -1,0 +1,12 @@
+{
+  "id": "30e4de0f-0fbe-45a1-ad37-8747025edf8d",
+  "instruction": "Provide examples of control, treatment and confounding variables.",
+  "input": "",
+  "output": "A control variable is a variable that is held constant throughout the experiment. An example of a control variable is the type of container in which the experiment is conducted. \n\nA treatment variable is a variable that is manipulated in order to observe the effect it has on the experiment. An example of a treatment variable is the temperature of the container. \n\nA confounding variable is a variable that could potentially affect the result of the experiment. An example of a confounding variable is the outside temperature, as this could affect the results of the experiment even if the temperature of the container is kept constant.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

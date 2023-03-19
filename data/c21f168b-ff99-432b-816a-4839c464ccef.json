@@ -1,0 +1,12 @@
+{
+  "id": "c21f168b-ff99-432b-816a-4839c464ccef",
+  "instruction": "Predict the closing price of Apple stock at the end of the month.",
+  "input": "Current Price: $455.40",
+  "output": "It is difficult to predict the closing price of Apple stock with any certainty. However, based on historical performance and market trends, the estimated closing price for Apple stock at the end of the month could be around $488.25.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

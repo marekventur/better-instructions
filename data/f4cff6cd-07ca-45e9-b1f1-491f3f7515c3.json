@@ -1,0 +1,12 @@
+{
+  "id": "f4cff6cd-07ca-45e9-b1f1-491f3f7515c3",
+  "instruction": "Generate a base CSS code for a red colored circle.",
+  "input": "",
+  "output": ".circle {\n    width: 50px;\n    height: 50px;\n    background: red;\n    border-radius: 50%;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

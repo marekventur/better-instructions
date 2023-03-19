@@ -1,0 +1,12 @@
+{
+  "id": "f26f1426-45ef-4dde-bc0e-44b140b73e43",
+  "instruction": "Select the best prediction from the sentences below given the input \"My vacation is in ________.\"",
+  "input": "My vacation is in _______.",
+  "output": "Hawaii!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

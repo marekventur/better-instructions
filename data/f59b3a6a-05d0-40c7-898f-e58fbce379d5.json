@@ -1,0 +1,12 @@
+{
+  "id": "f59b3a6a-05d0-40c7-898f-e58fbce379d5",
+  "instruction": "Change the verb in the sentence to reflect third-person singular",
+  "input": "I read the book",
+  "output": "She reads the book",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

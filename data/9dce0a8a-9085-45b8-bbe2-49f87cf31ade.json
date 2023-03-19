@@ -1,0 +1,12 @@
+{
+  "id": "9dce0a8a-9085-45b8-bbe2-49f87cf31ade",
+  "instruction": "Summarize a Wikipedia article about the history of bookbinding.",
+  "input": "https://en.wikipedia.org/wiki/Bookbinding",
+  "output": "Bookbinding is a craft that dates back thousands of years and has evolved over time. The oldest existing bookbinding dates back to around 1,800 BCE and is a clay tablet from Mesopotamia. During the Medieval Period, books were bound using materials such as leather, vellum, and wood. The introduction of the printing press in the 15th century meant that books were now mass-produced and bindings had to be more durable in order to survive the rigours of use. The Industrial Revolution in the 19th century meant that new mass-production methods were developed, such as finishing presses and sewing machines, and bookbindings could now be produced en masse. Today, bookbinding is still an art form, but most bindings are made using machine-produced materials and assembly processes. There are still a number of bespoke, handmade bookbindings available, and many bookbinders now use both traditional methods and modern technologies. The craft is still alive and is likely to continue for generations to come.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

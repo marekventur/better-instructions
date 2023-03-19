@@ -1,0 +1,12 @@
+{
+  "id": "12ec6948-490e-43b0-8230-1b8adc1616dd",
+  "instruction": "Write an algorithm to sort numbers from least to greatest",
+  "input": "",
+  "output": "This algorithm will sort numbers from least to greatest. \n\nStep 1: Begin with an array of unsorted numbers. \nStep 2: Set two variables; \"min\" and \"index\". \nStep 3: Iterate through the array. \nStep 4: Compare each value with \"min\". \nStep 5: If the value is less than \"min\", update min and record the index of the value. \nStep 6: After each iteration, swap the value at the index of \"min\" with the value at the beginning of the array. \nStep 7: The beginning of the array is now the smallest value. \nStep 8: Repeat steps 3-7 for the remaining elements until everything is in order.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

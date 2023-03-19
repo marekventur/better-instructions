@@ -1,0 +1,12 @@
+{
+  "id": "b7634878-eac5-42e2-9107-3508cc537450",
+  "instruction": "Compute the greatest common factor (GCF) of two numbers.",
+  "input": "25 and 15",
+  "output": "The greatest common factor of 25 and 15 is 5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

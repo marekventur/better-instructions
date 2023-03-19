@@ -1,0 +1,12 @@
+{
+  "id": "db26dd48-fb95-4828-b532-813d2cfa32fb",
+  "instruction": "Design a quiz that tests knowledge of the given topic.",
+  "input": "The Periodic Table",
+  "output": "1. What is the symbol for hydrogen? \n2. How many elements are listed on the periodic table? \n3. What does the atomic number represent?\n4. What is the atomic mass for carbon? \n5. What is the name of the family that the alkali metal elements belong to? \n6. What is the most abundant element on Earth? \n7. What is the symbol for calcium? \n8. What is the symbol for oxygen? \n9. What is the name of the element with atomic number 103? \n10. What group does carbon belong to?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

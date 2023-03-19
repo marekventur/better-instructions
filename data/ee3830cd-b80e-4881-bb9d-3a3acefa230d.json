@@ -1,0 +1,12 @@
+{
+  "id": "ee3830cd-b80e-4881-bb9d-3a3acefa230d",
+  "instruction": "Convert the following words into a hashtag. Output the hashtag.",
+  "input": "mountain view",
+  "output": "#mountainview",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

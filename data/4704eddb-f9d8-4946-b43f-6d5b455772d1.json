@@ -1,0 +1,12 @@
+{
+  "id": "4704eddb-f9d8-4946-b43f-6d5b455772d1",
+  "instruction": "Create an algorithm to determine the middle element of a linked list.",
+  "input": "",
+  "output": "1. Initialize two pointers, \u2018fastPointer\u2019 and \u2018slowPointer\u2019;\n2. Move fastPointer by two nodes and slowPointer by one node in each iteration.\n3. When fastPointer reaches the end of the list, slowPointer will reach the middle of the list.\n4. Return slowPointer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

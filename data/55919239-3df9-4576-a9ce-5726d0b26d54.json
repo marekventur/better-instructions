@@ -1,0 +1,12 @@
+{
+  "id": "55919239-3df9-4576-a9ce-5726d0b26d54",
+  "instruction": "Generate a recommendation letter for a college application",
+  "input": "Name: Angela Smith\n\nSchool: Williams College \n\nInvolvement: Club President\n\nAchievements: Won the state debate championship",
+  "output": "I am pleased to recommend Angela Smith for admission to Williams College. She is an outstanding student who led her high school debate team to victory at the state championship. As club president, she displayed exemplary leadership skills, organization and collaboration. I strongly believe that she will make a tremendously positive contribution to the college community.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

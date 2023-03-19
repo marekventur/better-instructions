@@ -1,0 +1,12 @@
+{
+  "id": "3e16731d-22e3-4e97-88a1-44ec2c992dd0",
+  "instruction": "You are provided with a sentence, edit it in a way that it becomes grammatically correct.",
+  "input": "The wind is blowing fast and furious",
+  "output": "The wind is blowing fast and furiously.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

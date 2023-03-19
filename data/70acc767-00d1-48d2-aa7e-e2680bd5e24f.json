@@ -1,0 +1,12 @@
+{
+  "id": "70acc767-00d1-48d2-aa7e-e2680bd5e24f",
+  "instruction": "Determine the type of input sentence.",
+  "input": "He is the governor of the state.",
+  "output": "The input sentence is a declarative sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

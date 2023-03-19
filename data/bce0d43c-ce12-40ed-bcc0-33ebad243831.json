@@ -1,0 +1,12 @@
+{
+  "id": "bce0d43c-ce12-40ed-bcc0-33ebad243831",
+  "instruction": "Build a recommendation system to recommend new books to a user.",
+  "input": "The user is looking for books on quantum physics.",
+  "output": "The recommendation system should be able to analyze the user's browsing history and book reviews to generate personalized recommendations. The system should also analyze the topics related to quantum physics, such as quantum mechanics, quantum computing, and quantum cryptography. Once the system understands the user's interests, it can provide tailored suggestions for books and other related content.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

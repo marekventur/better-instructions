@@ -1,0 +1,12 @@
+{
+  "id": "323e2aff-2ce6-4125-bfcd-3de2bd7b8d74",
+  "instruction": "Construct a JSON object describing a student.",
+  "input": "",
+  "output": "{ \n  \"name\": \"John Doe\",\n  \"age\": 20,\n  \"address\": {\n    \"street\": \"123 Main Street\",\n    \"city\": \"AnyTown\",\n    \"state\": \"CA\",\n    \"zip\": 94112\n  },\n  \"major\": \"Computer Science\",\n  \"minor\": \"Data Science\",\n  \"GPA\": 3.5\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

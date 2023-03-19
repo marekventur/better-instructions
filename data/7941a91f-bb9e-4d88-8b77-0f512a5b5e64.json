@@ -1,0 +1,12 @@
+{
+  "id": "7941a91f-bb9e-4d88-8b77-0f512a5b5e64",
+  "instruction": "Rank the following countries by GDP per capita",
+  "input": "Germany, Japan, China",
+  "output": "1. Germany\n2. Japan\n3. China",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

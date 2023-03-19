@@ -1,0 +1,12 @@
+{
+  "id": "c060e84d-2169-47b0-a8b8-c0053fe7f09b",
+  "instruction": "Classify the sentiment of the tweet.",
+  "input": "I had the best time of my life at that concert and I am so happy right now!",
+  "output": "Positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

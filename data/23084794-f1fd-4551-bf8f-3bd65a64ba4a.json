@@ -1,0 +1,12 @@
+{
+  "id": "23084794-f1fd-4551-bf8f-3bd65a64ba4a",
+  "instruction": "Rewrite this English sentence into passive voice.",
+  "input": "Mary wrote the report.",
+  "output": "The report was written by Mary.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

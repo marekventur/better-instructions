@@ -1,0 +1,12 @@
+{
+  "id": "41a78e28-3deb-41be-9404-a42afd02cf6b",
+  "instruction": "Send an email to a colleague with the details of a meeting",
+  "input": "Hello John,\n \nI would like to invite you to a meeting next Tuesday at 10am. The meeting will be held in the conference room on the 3rd floor.",
+  "output": "Dear John,\n \nI hope you are doing well. I am writing to invite you to a meeting next Tuesday at 10am in the conference room on the 3rd floor. We will discuss important matters for the company. \n \nI look forward to seeing you then. \n \nBest regards,\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

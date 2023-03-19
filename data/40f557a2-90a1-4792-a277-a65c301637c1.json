@@ -1,0 +1,12 @@
+{
+  "id": "40f557a2-90a1-4792-a277-a65c301637c1",
+  "instruction": "Correct the grammar in this sentence.",
+  "input": "I have drove a car.",
+  "output": "I have driven a car.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

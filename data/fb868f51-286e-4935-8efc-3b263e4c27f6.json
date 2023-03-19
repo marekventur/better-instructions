@@ -1,0 +1,12 @@
+{
+  "id": "fb868f51-286e-4935-8efc-3b263e4c27f6",
+  "instruction": "Find a sentence in the text below that uses parallel structure.",
+  "input": "Climbing a steep mountain is an arduous task, having the right equipment, being in shape, and being properly prepared.",
+  "output": "Having the right equipment, being in shape, and being properly prepared are all essential for climbing a steep mountain.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

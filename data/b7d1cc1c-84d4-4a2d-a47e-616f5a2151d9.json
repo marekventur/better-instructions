@@ -1,0 +1,12 @@
+{
+  "id": "b7d1cc1c-84d4-4a2d-a47e-616f5a2151d9",
+  "instruction": "Create a timeline for the chronological events of the given short story.",
+  "input": "A short story about a little girl who learns the importance of being kind",
+  "output": "- Little girl loses her way in the woods and is struggling to find her way home\n- Little girl meets kind animal who guides her along the path and shares food with her \n- Little girl finds her way home with the kind animal\u2019s help\n- Little girl reflects on the kindness of the animal and realises the importance of being kind\n- Little girl returns to the woods to look for the kind animal and shows her gratitude",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

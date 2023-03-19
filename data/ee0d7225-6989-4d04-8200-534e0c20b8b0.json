@@ -1,0 +1,12 @@
+{
+  "id": "ee0d7225-6989-4d04-8200-534e0c20b8b0",
+  "instruction": "Summarize this article for me",
+  "input": "This week, scientists from around the world released their eighth assessment on the impact of climate change. The report documented evidence from fields such as ocean levels, global temperatures, and species loss. The findings concluded that climate change is caused by human activities and will cause extreme, unprecedented damage unless society makes drastic changes.",
+  "output": "The eighth assessment by scientists from around the world concluded that climate change is caused by human activities and will cause unprecedented, extreme damage unless society takes drastic action. Evidence of its effects includes rising ocean levels, global temperatures, and species loss.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

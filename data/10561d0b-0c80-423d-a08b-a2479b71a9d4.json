@@ -1,0 +1,12 @@
+{
+  "id": "10561d0b-0c80-423d-a08b-a2479b71a9d4",
+  "instruction": "Divide the sentence below in two halves when appropriate",
+  "input": "Technology has revolutionized the way people communicate and do business.",
+  "output": "Technology has revolutionized the way people communicate and do business. \n\nTechnology has changed the way people communicate and do business.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a2232a5f-4b13-42a3-8a86-1ac9eb759b07",
+  "instruction": "Make a list of 5 items",
+  "input": "Items for an emergency kit",
+  "output": "1. Flashlight\n2. Fire extinguisher\n3. First aid kit\n4. Battery operated radio\n5. Emergency phone numbers list",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

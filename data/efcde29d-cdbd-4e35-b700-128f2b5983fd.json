@@ -1,0 +1,12 @@
+{
+  "id": "efcde29d-cdbd-4e35-b700-128f2b5983fd",
+  "instruction": "Categorize the given text according to its main emotion.",
+  "input": "I'm so excited for my vacation this summer!",
+  "output": "Positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

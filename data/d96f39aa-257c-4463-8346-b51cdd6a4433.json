@@ -1,0 +1,12 @@
+{
+  "id": "d96f39aa-257c-4463-8346-b51cdd6a4433",
+  "instruction": "Construct a logic chain.",
+  "input": "",
+  "output": "If it is raining, then the ground will be wet. If the ground is wet, then shoes and clothes will get dirty. If shoes and clothes get dirty, then they will need to be washed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

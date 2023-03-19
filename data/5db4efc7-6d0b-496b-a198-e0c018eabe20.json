@@ -1,0 +1,12 @@
+{
+  "id": "5db4efc7-6d0b-496b-a198-e0c018eabe20",
+  "instruction": "Design an experiment to test the effects of a new water filtration system",
+  "input": "",
+  "output": "The experiment should involve testing a new water filtration system with both contaminated and uncontaminated water. For the contamianted water, the system should be tested at two different levels of contamination. For the uncontaminated water, it should be tested at two different levels of purity. The experiment should measure the amount of water passed through the filter, and quantify the purity of the filtered water. It should also measure changes in water pH and conductivity. The experiment should be conducted over a period of time and the data should be collected and analyzed to determine the effectiveness of the water filtration system.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

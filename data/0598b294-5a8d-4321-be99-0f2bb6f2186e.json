@@ -1,0 +1,12 @@
+{
+  "id": "0598b294-5a8d-4321-be99-0f2bb6f2186e",
+  "instruction": "Compress the given text into a single sentence.",
+  "input": "Major investments have been made in the medical field over the past few years. This has resulted in advancements in medical technologies and medications, which have improved treatments and cures for various diseases.",
+  "output": "Investments in medical research over the past years have improved treatments and cures for diseases through advanced technologies and medications.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "035e88fb-1de9-42ad-a007-f462d3c6e65c",
+  "instruction": "What is the main difference between a firewall and an antivirus system?",
+  "input": "",
+  "output": "The main difference between a firewall and an antivirus system is that firewall focuses on control of incoming and outgoing traffic, while an antivirus system focuses on detection and prevention of malicious software. Firewalls are typically implemented as a network security device, while antivirus software is installed on machines to protect against malicious code.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

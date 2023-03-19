@@ -1,0 +1,12 @@
+{
+  "id": "a85f0c0a-10eb-47cd-9b76-6b48d868b516",
+  "instruction": "Combine the two parts of the sentence using an appropriate conjunction.",
+  "input": "He declined my offer. I asked him again.",
+  "output": "He declined my offer, yet I asked him again.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

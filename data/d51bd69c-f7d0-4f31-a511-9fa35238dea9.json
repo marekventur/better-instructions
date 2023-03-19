@@ -1,0 +1,12 @@
+{
+  "id": "d51bd69c-f7d0-4f31-a511-9fa35238dea9",
+  "instruction": "Categorize the following photos. Output the category(ies).",
+  "input": "(Photos of a beach and a city skyline)",
+  "output": "Nature, Urban",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

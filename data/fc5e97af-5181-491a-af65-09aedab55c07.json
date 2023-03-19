@@ -1,0 +1,12 @@
+{
+  "id": "fc5e97af-5181-491a-af65-09aedab55c07",
+  "instruction": "Create a web page with a photo carousel and an introduction",
+  "input": "Photos: person 1, person 2, person 3 \nIntro: At ABC Company, our team strives for excellence",
+  "output": "I created a web page with a photo carousel featuring pictures of Person 1, Person 2, and Person 3. Underneath the carousel is an introduction to ABC Company and its team. The introduction reads: \"At ABC Company, our team strives for excellence. Our goal is to exceed customer expectations and meet the highest standards of quality and service. We take pride in our work and strive to keep our customers satisfied.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

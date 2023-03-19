@@ -1,0 +1,12 @@
+{
+  "id": "2c8ac150-61f4-4542-aba4-c37e3088b38f",
+  "instruction": "Create a product description that highlights the features of the mobile phone.",
+  "input": "Product: Samsung Galaxy S20",
+  "output": "Introducing the Samsung Galaxy S20 \u2013 the phone with all the features you need. Boasting a 12MP triple camera system, enhanced night mode for stunning shots, and a 6.2-inch infinity display for a expansive, high-definition view. The phone is powered by a Qualcomm Snapdragon 865 processor and 8GB of RAM for fast and smooth performance. Plus, the Galaxy S20 has a long-lasting battery that lets you go all day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

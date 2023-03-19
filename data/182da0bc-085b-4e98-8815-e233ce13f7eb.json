@@ -1,0 +1,12 @@
+{
+  "id": "182da0bc-085b-4e98-8815-e233ce13f7eb",
+  "instruction": "Write a query that returns the GDP of a state.",
+  "input": "",
+  "output": "SELECT GDP \nFROM STATES \nWHERE name = <state name>;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

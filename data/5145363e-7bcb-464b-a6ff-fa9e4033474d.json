@@ -1,0 +1,12 @@
+{
+  "id": "5145363e-7bcb-464b-a6ff-fa9e4033474d",
+  "instruction": "Generate a list of 5 books for the given genre.",
+  "input": "Sci-Fi",
+  "output": "1. The Martian by Andy Weir\n2. 1984 by George Orwell\n3. The Hitchhiker's Guide to the Galaxy by Douglas Adams\n4. Dune by Frank Herbert\n5. The Foundation Trilogy by Isaac Asimov",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "25f54b8d-62b7-4ec9-bd59-2df6da7f456b",
+  "instruction": "Given an event description, generate an informative and interesting sentence about the event.",
+  "input": "A carnival is happening next weekend at the park to benefit the homeless.",
+  "output": "Head down to the park next weekend for some fun and entertainment while supporting a great cause, as the carnival is being held to benefit the homeless.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

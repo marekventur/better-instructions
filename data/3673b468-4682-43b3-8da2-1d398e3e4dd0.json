@@ -1,0 +1,12 @@
+{
+  "id": "3673b468-4682-43b3-8da2-1d398e3e4dd0",
+  "instruction": "According to the story, what is the main message that FIFA President is trying to convey?",
+  "input": "Doha, Qatar (CNN) \u2014 On the eve of the 2022 World Cup in Qatar, FIFA President Gianni Infantino launched a tirade against Western critics of the controversial tournament in an explosive hour-long monologue.\n\nInfantino, the boss of world soccer\u2019s governing body, looked on glumly as he addressed hundreds of journalists in Doha, Qatar, Saturday.\n\n\u201cWe are taught many lessons from Europeans, from the Western world,\u201d he said, referring to criticisms of Qatar\u2019s human rights record.",
+  "output": "The main message FIFA President Gianni Infantino is trying to convey is that Qatar faces unfair and unwarranted criticism from western countries regarding its human rights record, and that Qatar should not have to adhere to western ideologies.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

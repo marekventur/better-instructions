@@ -1,0 +1,12 @@
+{
+  "id": "020500ae-dd58-4bb1-93aa-9cb758a47673",
+  "instruction": "Evaluate the following sentence and correct any grammar or spelling mistakes.",
+  "input": "I went to the grochery store to buy some vegitables.",
+  "output": "I went to the grocery store to buy some vegetables.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

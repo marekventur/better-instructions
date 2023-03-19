@@ -1,0 +1,12 @@
+{
+  "id": "dff7d96d-633e-448c-8704-019428ff0fa1",
+  "instruction": "Construct a regular expression to validate a valid phone number.",
+  "input": "",
+  "output": "^\\s*(\\+?[\\d]{1,4})?[\\s-]?\\(?[\\d]{3}\\)?[\\s-]?[\\d]{3}[\\s-]?[\\d]{4}\\s*$",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

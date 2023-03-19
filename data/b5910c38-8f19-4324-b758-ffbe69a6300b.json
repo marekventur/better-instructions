@@ -1,0 +1,12 @@
+{
+  "id": "b5910c38-8f19-4324-b758-ffbe69a6300b",
+  "instruction": "Categorize the text into one of the following categories: 1) restaurant; 2) Clothing; 3) Cooking",
+  "input": "I need to buy a new pair of jeans.",
+  "output": "2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e0abf07f-a81d-48ee-92ec-1923773045ed",
+  "instruction": "Suggest an improvement to an existing system.",
+  "input": "A public transportation system in a major city",
+  "output": "A major improvement to a public transportation system in a major city would be the implementation of a real-time tracking system. This system could allow riders to easily monitor their bus or train's route, make use of the most efficient transit options, and receive updates about delays and changes in service. It could also be integrated with ticketing and payment options to allow for contactless payments and simplify the overall experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

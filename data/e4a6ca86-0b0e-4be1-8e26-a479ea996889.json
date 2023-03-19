@@ -1,0 +1,12 @@
+{
+  "id": "e4a6ca86-0b0e-4be1-8e26-a479ea996889",
+  "instruction": "What is the purpose of the keyWord argument in the Python sorted() function?",
+  "input": "",
+  "output": "The keyWord argument in the Python sorted() function is used to provide a function which will be used to extract a key value from each element in the iterable to be sorted. It specifies a function to be run on each element prior to making comparisons, allowing sorting on the basis of computed values.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

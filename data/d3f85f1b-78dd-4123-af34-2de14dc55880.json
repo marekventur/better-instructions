@@ -1,0 +1,12 @@
+{
+  "id": "d3f85f1b-78dd-4123-af34-2de14dc55880",
+  "instruction": "Fill in the blanks to compile this C++ application.",
+  "input": "g++ main.cpp -o ____",
+  "output": "g++ main.cpp -o program",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

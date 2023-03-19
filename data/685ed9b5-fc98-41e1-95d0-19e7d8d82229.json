@@ -1,0 +1,12 @@
+{
+  "id": "685ed9b5-fc98-41e1-95d0-19e7d8d82229",
+  "instruction": "Explain why the sum of two consecutive odd numbers is always even.",
+  "input": "",
+  "output": "The sum of two consecutive odd numbers is always even because odd numbers are integers that are not divisible by two, and when two consecutive odd numbers are added together the product is divisible by two; therefore the sum is an even number.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e503a970-6a88-46f1-8668-c7cb3ae22621",
+  "instruction": "Find the shortest path from one city to another.",
+  "input": "Start: Las Vegas\nDestination: Phoenix",
+  "output": "The shortest path from Las Vegas to Phoenix is Interstate 11 N, US-93 N, and SR-89 N, totaling a distance of 397 miles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

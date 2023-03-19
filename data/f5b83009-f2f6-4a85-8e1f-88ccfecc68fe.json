@@ -1,0 +1,12 @@
+{
+  "id": "f5b83009-f2f6-4a85-8e1f-88ccfecc68fe",
+  "instruction": "Construct a web page for a fictitious online store called 'MyStore'.",
+  "input": "",
+  "output": "<html>\n  <head>\n    <title>MyStore - Online Shopping</title>\n  </head>\n  <body>\n    <h1>Welcome to MyStore!</h1>\n    <p>MyStore is an online store that offers a selection of products including clothing, electronics, and lifestyle items.</p>\n    <h2>Shop Now</h2>\n    <p>Our store sells a range of products. From the latest fashion trends to the latest mobile phones, we have something for everyone.</p>\n    <h2>Easy Payment Options</h2>\n    <p>We accept major credit cards and bank transfers, making it easy and secure to pay for your purchases.</p>\n  </body>\n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

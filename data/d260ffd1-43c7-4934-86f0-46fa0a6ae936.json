@@ -1,0 +1,12 @@
+{
+  "id": "d260ffd1-43c7-4934-86f0-46fa0a6ae936",
+  "instruction": "Arrange the following elements into a valid HTML head tag.",
+  "input": "<title>My Web Page</title>, <meta charset=\"utf-8\" />",
+  "output": "<head>\n    <title>My Web Page</title>\n    <meta charset=\"utf-8\" />\n</head>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

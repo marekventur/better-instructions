@@ -1,0 +1,12 @@
+{
+  "id": "057993d0-5358-4b1b-9cb4-23619d7b6c63",
+  "instruction": "Generate five statements that summarize the main idea of the given article.",
+  "input": "https://www.statnews.com/2020/02/26/antibiotic-alternatives-bacterial-resistance/",
+  "output": "1. Widespread use of antibiotics is responsible for the current situation of drug-resistant bacterial infections. \n2. Many bacterial infections can no longer be combatted effectively with antibiotics.\n3. To combat antibiotic resistance, an alternative to traditional antibiotics is needed that targets the bacterial infections without contributing to resistance.\n4. CRISPR-based gene editing, probiotics, antimicrobial polymers and phage therapy are emerging alternatives to traditional antibiotics.\n5. These alternatives could be a promising solution for bacterial resistance, but more studies and research is needed to make them a viable choice for clinical use.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

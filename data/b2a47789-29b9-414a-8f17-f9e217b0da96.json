@@ -1,0 +1,12 @@
+{
+  "id": "b2a47789-29b9-414a-8f17-f9e217b0da96",
+  "instruction": "Edit the text so that it is suitable for the given purpose.",
+  "input": "The Earth is the only planet that has life.\nPurpose: As part of a presentation to preschoolers",
+  "output": "The Earth is a wonderful planet full of exciting creatures and plants that we can explore!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

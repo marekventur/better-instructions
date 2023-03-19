@@ -1,0 +1,12 @@
+{
+  "id": "421ccec5-a84c-4671-b7ae-3e31de7ad6d9",
+  "instruction": "Categorize this piece of text as to whether it is a fiction or non-fiction",
+  "input": "The sun shone brightly in the sky above the small town.",
+  "output": "Fiction",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

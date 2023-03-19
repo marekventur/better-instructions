@@ -1,0 +1,12 @@
+{
+  "id": "1ca836b7-f5d4-40b0-8e6a-2640c6e85f30",
+  "instruction": "Provide a valid HTML element for a drop-down list.",
+  "input": "",
+  "output": "<select>\n  <option value=\"value1\">value1</option>\n  <option value=\"value2\">value2</option>\n  <option value=\"value3\">value3</option>\n</select>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

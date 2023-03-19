@@ -1,0 +1,12 @@
+{
+  "id": "05b8f826-7a58-47cf-8daa-65ddfbb946d8",
+  "instruction": "Parse the sentence using an online Dependency Parser and output the result in lines",
+  "input": "People should be able to vote without fear of retribution",
+  "output": "People -> ROOT\nshould -> vote\nbe -> vote\nable -> vote\nto -> vote\nvote -> should\nwithout -> fear\nfear -> vote\nof -> retribution\nretribution -> fear",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2911299d-b55c-40d1-bb52-91546200a1d7",
+  "instruction": "Explain the basic components of a relational database.",
+  "input": "",
+  "output": "A relational database consists of tables, fields, columns, and records. Tables are used to store data and are made up of individual fields or columns, and records that contain specific information. Fields are categories of related data, while records contain the actual data that is stored within the table. Relationships between tables are formed through the use of common fields.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

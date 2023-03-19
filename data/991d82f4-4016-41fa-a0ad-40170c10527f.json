@@ -1,0 +1,12 @@
+{
+  "id": "991d82f4-4016-41fa-a0ad-40170c10527f",
+  "instruction": "Write a script for a restaurant order-taker who is learning how to handle customers.",
+  "input": "Customer: I'd like to order some food",
+  "output": "Order-taker: Hi, welcome to our restaurant! What can I get for you today? \nCustomer: I'd like to order some food.\nOrder-taker: Great, what would you like to have? We have a wide range of options - entrees, sides, appetizers, and desserts. Please let me know what you'd like and I can help you with the rest.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

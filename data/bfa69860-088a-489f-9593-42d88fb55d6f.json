@@ -1,0 +1,12 @@
+{
+  "id": "bfa69860-088a-489f-9593-42d88fb55d6f",
+  "instruction": "Write a script for a one-minute skit",
+  "input": "",
+  "output": "[Scene: A small park, two friends, Alice and Bob, is conversing.]\n\nAlice: So what have you been up to this weekend? \n\nBob: Oh, you know, the usual. I just felt like taking a nice, quiet walk in the park.\n\nAlice: That sounds lovely! I could use a break too.\n\n[A child comes running up to them.]\n\nChild: Hey! Can you help me find my mommy?\n\nAlice: Of course! What does she look like? \n\nChild: She has long, brown hair and she was wearing a blue dress.\n\nAlice: Let's go find her.\n\n[Alice and Bob search the park until they come across a woman wearing a blue dress.]\n\nBob: I think this is her!\n\n[The woman turns and embraces the child] \n\nChild: Mommy!\n\nWoman: Oh! Thank you two so much!\n\n[Alice and Bob smile and give a wave goodbye as the woman and child leave the park.] \n\nAlice: That was nice of us. \n\nBob: Sure was! Let's take that walk now.\n\n[Alice and Bob walk off into the park.]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "100c6783-9f82-4787-aefb-c48d6ed10fe3",
+  "instruction": "Categorize the following type of animals as either mammals or reptiles:",
+  "input": "Turtle",
+  "output": "Turtle is a reptile.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

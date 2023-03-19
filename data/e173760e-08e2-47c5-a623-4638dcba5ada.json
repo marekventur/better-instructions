@@ -1,0 +1,12 @@
+{
+  "id": "e173760e-08e2-47c5-a623-4638dcba5ada",
+  "instruction": "Compare and contrast the following programming language: C++ and Python.",
+  "input": "",
+  "output": "C++ is an object-oriented language that is compiled, while Python is an interpreted, high-level language that is used for general-purpose programming. C++ is a statically-typed language, meaning that it requires the declaration of all variables used in the program before any code is written, while Python is a dynamically-typed language that requires no such declarations.\n\nC++ has a more complex syntax compared to Python and C++ is generally more difficult to learn and master. Python code is often shorter and easier to read and maintain, making it easier to maintain complex applications. C++ has better performance, while Python is more efficient in terms of time and space complexity. C++ focuses on system programming, while Python is more geared towards web development, machine learning, and artificial intelligence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

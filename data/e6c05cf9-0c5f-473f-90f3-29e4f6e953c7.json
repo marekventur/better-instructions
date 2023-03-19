@@ -1,0 +1,12 @@
+{
+  "id": "e6c05cf9-0c5f-473f-90f3-29e4f6e953c7",
+  "instruction": "Reverse an array of numbers. Output the reversed array.",
+  "input": "[10, 20, 30, -2]",
+  "output": "[-2, 30, 20, 10]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

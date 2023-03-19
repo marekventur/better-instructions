@@ -1,0 +1,12 @@
+{
+  "id": "bc089816-c730-43d8-9a5a-907918feceee",
+  "instruction": "Write a script to buy a product on an online store.",
+  "input": "Product: Widget",
+  "output": "1. Open the online store website\n2. Search for the product 'Widget'\n3. Select the desired item and quantity\n4. Add the product to the shopping cart\n5. Review the shopping cart and proceed to checkout\n6. Enter billing and shipping details\n7. Choose the payment method\n8. Review order and  complete the purchase",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

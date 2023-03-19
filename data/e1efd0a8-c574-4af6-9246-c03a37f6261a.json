@@ -1,0 +1,12 @@
+{
+  "id": "e1efd0a8-c574-4af6-9246-c03a37f6261a",
+  "instruction": "Categorize the given texts into either fiction or non-fiction.",
+  "input": "Text A: The Cat in the Hat\nText B: The Life of Abraham Lincoln",
+  "output": "Text A: Fiction\nText B: Non-Fiction",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

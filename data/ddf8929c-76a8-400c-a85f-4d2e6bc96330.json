@@ -1,0 +1,12 @@
+{
+  "id": "ddf8929c-76a8-400c-a85f-4d2e6bc96330",
+  "instruction": "Identify a student's learning style from their description.",
+  "input": "I\u2019m always looking for new ways to solve a problem. I often brainstorm ideas with friends, or do extra research or reading to gain more knowledge.",
+  "output": "The student's learning style is reflective, as they are looking for new solutions to problems and are actively seeking knowledge by talking to friends and doing extra reading.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

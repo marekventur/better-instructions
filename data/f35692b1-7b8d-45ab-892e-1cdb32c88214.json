@@ -1,0 +1,12 @@
+{
+  "id": "f35692b1-7b8d-45ab-892e-1cdb32c88214",
+  "instruction": "Write an email responding to this inquiry.",
+  "input": "Dear Customer Service,\n\nI am inquiring about the status of my order.",
+  "output": "Dear Customer,\n\nThank you for your inquiry about your order. I apologize for the delay and appreciate your patience. I have checked the status of your order and I am happy to inform you that it is currently in production and should be delivered within the next 2-3 days. \n\nShould you have any questions, please don't hesitate to contact us directly. We are always happy to help.\n\nThank you for your business!\n\nSincerely,\n\nCustomer Service Team",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

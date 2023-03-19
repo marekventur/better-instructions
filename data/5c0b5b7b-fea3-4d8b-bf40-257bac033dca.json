@@ -1,0 +1,12 @@
+{
+  "id": "5c0b5b7b-fea3-4d8b-bf40-257bac033dca",
+  "instruction": "Suggest a different word for the given word without changing its meaning",
+  "input": "Bring",
+  "output": "Fetch.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

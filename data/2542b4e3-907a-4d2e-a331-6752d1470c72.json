@@ -1,0 +1,12 @@
+{
+  "id": "2542b4e3-907a-4d2e-a331-6752d1470c72",
+  "instruction": "Name the capital of <insert name of a foreign country>.",
+  "input": "<insert name of a foreign country> - Canada",
+  "output": "The capital of Canada is Ottawa.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

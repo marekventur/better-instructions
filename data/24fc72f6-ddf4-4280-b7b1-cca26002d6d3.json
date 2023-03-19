@@ -1,0 +1,12 @@
+{
+  "id": "24fc72f6-ddf4-4280-b7b1-cca26002d6d3",
+  "instruction": "Create a new line plotting the 2nd column of input data against the first column.",
+  "input": "1 4 7\n2 5 8 \n3 6 9",
+  "output": "import matplotlib.pyplot as plt\n\nx = [1, 2, 3]\ny = [4, 5, 6]\n\nplt.plot(x, y)\nplt.xlabel('x')\nplt.ylabel('y')\nplt.title('Line Graph')\nplt.show()",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cf485134-e774-47d9-b26d-1ddcfcc75e73",
+  "instruction": "Generate a code to reverse the order of an array.",
+  "input": "const arr = [3, 2, 1];",
+  "output": "const reverseArray = arr => arr.reverse();",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

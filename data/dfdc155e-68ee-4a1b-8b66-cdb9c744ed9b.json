@@ -1,0 +1,12 @@
+{
+  "id": "dfdc155e-68ee-4a1b-8b66-cdb9c744ed9b",
+  "instruction": "Create an application that recommends a nearby suitable restaurant depending on the input user data.",
+  "input": "The user wants to find a restaurant near University of Washington campus that serves grilled fish.",
+  "output": "The application would use the input user data to recommend a restaurant near the University of Washington campus that fits their criteria. It would search through nearby restaurants that serve grilled fish and find which one is closest to their location. The application would then provide the user with information on the restaurant and directions to the restaurant.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

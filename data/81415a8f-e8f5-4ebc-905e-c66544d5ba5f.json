@@ -1,0 +1,12 @@
+{
+  "id": "81415a8f-e8f5-4ebc-905e-c66544d5ba5f",
+  "instruction": "Explain why a blockchain system is secure.",
+  "input": "",
+  "output": "A blockchain system is secure because of the way the data is stored and shared. Every transaction is added onto the blockchain and each participant has an identical copy of the ledger. This makes it hard to tamper with or manipulate the data as any changes would be immediately apparent if it didn't match the copies held by other participants. Furthermore, it employs strong cryptographic techniques to make sure that each transaction is securely validated and stored. This prevents fraud, double-spending, and other malicious attacks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

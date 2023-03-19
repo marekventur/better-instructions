@@ -1,0 +1,12 @@
+{
+  "id": "ebf40c78-4a2d-46a4-82e7-1e59297cc2d2",
+  "instruction": "Compare a debit card and a credit card.",
+  "input": "",
+  "output": "Debit cards and credit cards differ in the way in which they are used and rewards offered. Debit cards are connected to a checking or savings account and allow users to spend the money they already have. Credit cards are issued by a bank and allow users to borrow money and pay it back over time. Debit cards generally have fewer fees, while credit cards typically provide rewards and other benefits.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

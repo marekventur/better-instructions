@@ -1,0 +1,12 @@
+{
+  "id": "62dc1741-a7f0-4412-b218-ceac6ae86f6a",
+  "instruction": "Convert the following hexadecimal color code to RGB color code.",
+  "input": "#FF00FF",
+  "output": "RGB(255, 0, 255)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "30e8f74d-d2d4-4f09-a907-35254d6872d2",
+  "instruction": "How do you calculate the distance between two points?",
+  "input": "",
+  "output": "The distance between two points can be calculated using the Pythagorean theorem. The formula is d = \u221a (x2 - x1)2 + (y2 - y1)2, where d is the distance between the two points (x1, y1) and (x2, y2).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

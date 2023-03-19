@@ -1,0 +1,12 @@
+{
+  "id": "053861c5-39db-45e1-8bd0-9345641d50fd",
+  "instruction": "Generate the HTML code for 3 buttons shown below.",
+  "input": "Button 1: \"Reduce Quantity\"\nButton 2: \"Add to Cart\"\nButton 3: \"Checkout\"",
+  "output": "<button style=\"background-color: red\">Reduce Quantity</button>\n<button style=\"background-color: green\">Add to Cart</button>\n<button style=\"background-color: blue\">Checkout</button>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

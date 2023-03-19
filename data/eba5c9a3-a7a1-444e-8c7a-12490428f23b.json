@@ -1,0 +1,12 @@
+{
+  "id": "eba5c9a3-a7a1-444e-8c7a-12490428f23b",
+  "instruction": "Compare and contrast the mass of the earth with the mass of mars.",
+  "input": "Earth mass: 5.972 \u00d7 1024 kg \nMars mass: 6.39 \u00d7 1023 kg",
+  "output": "The mass of the Earth is significantly greater than the mass of Mars. The Earth has a mass of 5.972 \u00d7 1024 kg, whereas Mars has a mass of 6.39 \u00d7 1023 kg. This means that the Earth is about 9.4 times more massive than Mars. Despite their difference in mass, their proportions remain relatively similar, as the Earth\u2019s equatorial radius is roughly 3.38 times larger than Mars\u2019s.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

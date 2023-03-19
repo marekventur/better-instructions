@@ -1,0 +1,12 @@
+{
+  "id": "b5b9c550-ed22-48b7-816a-77c0944f4fd5",
+  "instruction": "Explain the difference between cloud computing and edge computing.",
+  "input": "",
+  "output": "Cloud computing involves running large computing applications, data, and services over the internet, allowing people to access them from remote locations. Edge Computing is a distributed computing paradigm that capitalizes on the most up-to-date technology to process data at the edge of the network, close to where it is generated. Cloud computing mainly focuses on efficiency while edge computing focuses on speed, performance and reliability. Cloud computing can be applied to a wide variety of tasks, while edge computing is mainly used in applications with strict latency and security requirements, such as autonomous vehicles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f2be5611-2ef5-4cbd-b006-8c1ae8a135d7",
+  "instruction": "Write a news report of the given event.",
+  "input": "The local library has reopened after being closed for over two weeks due to renovations.",
+  "output": "The local library has reopened to the public, after being closed for more than two weeks for renovations. The renovations included new seating and a modernized cooling system, as well as new books and an updated computer lab. The library staff would like to remind patrons that the library is open on its regular schedule, and masks are required for entry. Visitors are also encouraged to check out the library's new selection of books.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

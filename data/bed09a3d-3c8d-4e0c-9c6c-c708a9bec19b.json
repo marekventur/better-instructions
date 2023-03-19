@@ -1,0 +1,12 @@
+{
+  "id": "bed09a3d-3c8d-4e0c-9c6c-c708a9bec19b",
+  "instruction": "Categorize the following statement into either a fact or an opinion.",
+  "input": "The earth is round.",
+  "output": "Fact",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

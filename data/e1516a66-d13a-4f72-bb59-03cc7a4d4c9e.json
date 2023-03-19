@@ -1,0 +1,12 @@
+{
+  "id": "e1516a66-d13a-4f72-bb59-03cc7a4d4c9e",
+  "instruction": "Given a sentence, rewrite it to create an alliterative phrase.",
+  "input": "Cars zoomed down the road.",
+  "output": "Cars careened carelessly down the road.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

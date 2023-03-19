@@ -1,0 +1,12 @@
+{
+  "id": "f743204f-f84f-4048-81c6-c3dbc7ec8c28",
+  "instruction": "Group the given items according to common characteristics",
+  "input": "apple, orange, banana",
+  "output": "Fruits: apple, orange, banana",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

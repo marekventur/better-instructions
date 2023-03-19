@@ -1,0 +1,12 @@
+{
+  "id": "583d93ec-62ac-42bb-8f60-93485b320429",
+  "instruction": "Construct a potential attack vector that exploits the vulnerability.",
+  "input": "The system is vulnerable to a SQL injection attack.",
+  "output": "A possible attack vector is to inject malicious SQL code into an input field in order to bypass authentication and gain access to the server's data. In particular, the attacker could try to inject code that allows them to run unauthorized queries or create new users with elevated privileges.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

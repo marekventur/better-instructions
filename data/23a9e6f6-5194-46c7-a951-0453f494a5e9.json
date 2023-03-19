@@ -1,0 +1,12 @@
+{
+  "id": "23a9e6f6-5194-46c7-a951-0453f494a5e9",
+  "instruction": "Given two people, suggest a restaurant for them to visit.",
+  "input": "John and Jane",
+  "output": "John and Jane might enjoy a visit to a local Italian restaurant. Some popular options in the area include Buon Appetito and La Trattoria. Both restaurants have delicious pasta dishes and expansive wine lists. They also offer outdoor seating, making them a perfect choice for a romantic evening.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

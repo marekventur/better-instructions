@@ -1,0 +1,12 @@
+{
+  "id": "f8dbf0d5-09ea-4938-b802-a07d81be5d53",
+  "instruction": "Categorize this sentence as a metaphor or simile.",
+  "input": "She was as graceful as a swan.",
+  "output": "Simile",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

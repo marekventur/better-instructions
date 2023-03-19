@@ -1,0 +1,12 @@
+{
+  "id": "2a233a22-ff9c-4119-be05-d6ed47c5b13e",
+  "instruction": "How does the addition of water affect the boiling point of a substance?",
+  "input": "",
+  "output": "The addition of water to a substance can have a significant effect on its boiling point. Generally, adding water to a substance increases its boiling point, as the water molecules get in the way of the other molecules trying to escape as vapor. However, there are also solvents, such as methanol, which show the opposite behavior and decrease their boiling point when water is added.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

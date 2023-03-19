@@ -1,0 +1,12 @@
+{
+  "id": "021e24c7-3642-43ea-86e9-d02f99b91d6d",
+  "instruction": "Given a keyword, provide a definition for it.",
+  "input": "Regression",
+  "output": "Regression is a statistical technique that is used to analyze the relationship between two or more variables, in order to make predictions or derive conclusions. It is commonly used in machine learning and data analysis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

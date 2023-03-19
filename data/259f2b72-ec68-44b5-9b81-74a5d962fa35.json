@@ -1,0 +1,12 @@
+{
+  "id": "259f2b72-ec68-44b5-9b81-74a5d962fa35",
+  "instruction": "Create a multiple choice question from the following sentence: Shakespeare wrote the play Romeo and Juliet.",
+  "input": "",
+  "output": "Which of the following plays was written by Shakespeare?\nA. Hamlet\nB. Macbeth\nC. Romeo and Juliet\nD. All of the above",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

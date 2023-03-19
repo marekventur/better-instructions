@@ -1,0 +1,12 @@
+{
+  "id": "c9f6771a-d37e-4f09-bc27-71f038d30af6",
+  "instruction": "Find the area of a rectangular room, given its length and width",
+  "input": "Length = 10 ft, Width = 5 ft",
+  "output": "The area of the rectangular room is 50 square feet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

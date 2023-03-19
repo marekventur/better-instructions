@@ -1,0 +1,12 @@
+{
+  "id": "7fc953d0-1370-421a-b0e1-b3c0857f975b",
+  "instruction": "Create an HTML code to generate a table with 5 columns and 7 rows.",
+  "input": "",
+  "output": "<table>\n  <tr>\n    <th>Column 1</th>\n    <th>Column 2</th>\n    <th>Column 3</th>\n    <th>Column 4</th>\n    <th>Column 5</th>\n  </tr>\n  <tr>\n    <td>Row 1</td>\n    <td>Row 1</td>\n    <td>Row 1</td>\n    <td>Row 1</td>\n    <td>Row 1</td>\n  </tr>\n  <tr>\n    <td>Row 2</td>\n    <td>Row 2</td>\n    <td>Row 2</td>\n    <td>Row 2</td>\n    <td>Row 2</td>\n  </tr>\n  <tr>\n    <td>Row 3</td>\n    <td>Row 3</td>\n    <td>Row 3</td>\n    <td>Row 3</td>\n    <td>Row 3</td>\n  </tr>\n  <tr>\n    <td>Row 4</td>\n    <td>Row 4</td>\n    <td>Row 4</td>\n    <td>Row 4</td>\n    <td>Row 4</td>\n  </tr>\n  <tr>\n    <td>Row 5</td>\n    <td>Row 5</td>\n    <td>Row 5</td>\n    <td>Row 5</td>\n    <td>Row 5</td>\n  </tr>\n  <tr>\n    <td>Row 6</td>\n    <td>Row 6</td>\n    <td>Row 6</td>\n    <td>Row 6</td>\n    <td>Row 6</td>\n  </tr>\n  <tr>\n    <td>Row 7</td>\n    <td>Row 7</td>\n    <td>Row 7</td>\n    <td>Row 7</td>\n    <td>Row 7</td>\n  </tr>\n</table>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

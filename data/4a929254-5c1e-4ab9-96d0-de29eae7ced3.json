@@ -1,0 +1,12 @@
+{
+  "id": "4a929254-5c1e-4ab9-96d0-de29eae7ced3",
+  "instruction": "Calculate the maximum price of a product given total cost and profit margin.",
+  "input": "Total cost: $20\nProfit Margin: 40%",
+  "output": "The maximum price of the product given total cost and profit margin can be calculated using the following formula: Price = Cost + (Cost \u00d7 Profit Margin). In the given example, Price = 20 + (20 \u00d7 40%) = $28.00.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

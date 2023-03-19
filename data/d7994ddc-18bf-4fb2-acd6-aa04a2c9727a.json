@@ -1,0 +1,12 @@
+{
+  "id": "d7994ddc-18bf-4fb2-acd6-aa04a2c9727a",
+  "instruction": "Read the news article and classify it according to its topic.",
+  "input": "The World Health Organization is warning that the world may soon face a wave of mental health issues, due to the extra stress caused by the coronavirus pandemic.",
+  "output": "Health.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

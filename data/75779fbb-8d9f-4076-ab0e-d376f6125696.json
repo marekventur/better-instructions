@@ -1,0 +1,12 @@
+{
+  "id": "75779fbb-8d9f-4076-ab0e-d376f6125696",
+  "instruction": "Simulate a basic computer logic using the provided boolean conditions.",
+  "input": "A && B",
+  "output": "if (A == true && B == true) {\n    // Output is true\n} else {\n    // Output is false\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

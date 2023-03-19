@@ -1,0 +1,12 @@
+{
+  "id": "e23c4c92-2f7d-4735-97e4-804a805a39f3",
+  "instruction": "List the top 5 products of this type",
+  "input": "Smartphones",
+  "output": "The top 5 smartphones are the Apple iPhone 12 Pro, Samsung Galaxy S21 Ultra, Google Pixel 5, OnePlus 8 Pro, and LG Velvet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

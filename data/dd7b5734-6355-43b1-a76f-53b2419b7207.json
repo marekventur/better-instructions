@@ -1,0 +1,12 @@
+{
+  "id": "dd7b5734-6355-43b1-a76f-53b2419b7207",
+  "instruction": "Classify the given sentence into one of three categories.",
+  "input": "The boy ate an apple.",
+  "output": "Action (Direct): The boy ate an apple.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

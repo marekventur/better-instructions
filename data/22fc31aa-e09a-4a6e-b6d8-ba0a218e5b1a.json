@@ -1,0 +1,12 @@
+{
+  "id": "22fc31aa-e09a-4a6e-b6d8-ba0a218e5b1a",
+  "instruction": "Classify the following sentence as either a declarative sentence or an interrogative sentence.\n\nHow many stars are in the Milky Way?",
+  "input": "",
+  "output": "Interrogative sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

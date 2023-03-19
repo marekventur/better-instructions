@@ -1,0 +1,12 @@
+{
+  "id": "c5ab2690-e0a4-424b-a36a-e749c8abec53",
+  "instruction": "Guess the country based on its history.",
+  "input": "It experienced a violent revolution during the late 1800s.",
+  "output": "The country is likely to be France as it experienced a violent revolution in the late 19th century during the French Revolution.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9015e120-b4e0-4d8d-9b4b-2a99fefb6511",
+  "instruction": "Create a policy document on a topic related to internet security",
+  "input": "",
+  "output": "Internet security policy document:\nThe purpose of this policy document is to define the security measures that should be taken to ensure the secure operation of an organization\u2019s systems and networks. \n\n1. All users must use strong, complex passwords to access systems and accounts. Passwords must be at least 8 characters long, contain both lowercase and uppercase letters, as well as at least one number and/or special character. \n\n2. All users must use two-factor authentication (2FA) or multi-factor authentication (MFA) wherever applicable. \n\n3. All users must keep their systems and software up-to-date with the latest security patches and updates. \n\n4. All users must use secure protocols (such as HTTPS instead of HTTP) when accessing sensitive systems and data. \n\n5. All users must be aware of phishing attempts, and never open suspicious documents or attachments from unknown senders. \n\n6. All users must use secure connections when accessing public Wi-Fi. \n\n7. All sensitive data must be encrypted when being transmitted or stored. \n\n8. All users must ensure their devices are securely locked when not in use, and must log out of all accounts when finished.\n\n9. All users must immediately report any security incidents or breaches to the Information Security team.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

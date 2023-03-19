@@ -1,0 +1,12 @@
+{
+  "id": "5651337d-dfcd-4dc8-a5c0-eb25eeb01fef",
+  "instruction": "Explain the different phases of a machine learning workflow.",
+  "input": "",
+  "output": "The typical machine learning workflow consists of four phases: data acquisition, data preparation, model training, and model evaluation. Data acquisition involves acquiring or curating the data that will be used for the machine learning project. Data preparation involves pre-processing the data to ensure that it's ready for model training. Model training involves selecting an appropriate model and tweaking its parameters to get the best performance from the model. Finally, model evaluation involves assessing the model's performance on a test set and ensuring that it is able to generalize to unseen data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

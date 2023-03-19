@@ -1,0 +1,12 @@
+{
+  "id": "dd230c09-c219-47cf-8b87-9fdf7506f58c",
+  "instruction": "The following statement is a premise. Write the conclusion that follows.",
+  "input": "Most people enjoy solitude.",
+  "output": "Therefore, most people are comfortable being alone.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

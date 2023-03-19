@@ -1,0 +1,12 @@
+{
+  "id": "cc8c9f69-d61f-4deb-87bf-819b22e938e1",
+  "instruction": "Identify the subject in the following sentence: Alex is writing a book.",
+  "input": "Alex is writing a book.",
+  "output": "Alex",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b5de7ca5-8517-4dd0-accf-db0c03a845f3",
+  "instruction": "Create an example of a nested loop in Python.",
+  "input": "",
+  "output": "An example of a nested loop in Python is as follows: \n\nfor i in range(0, 5):\n  for j in range(0, 3):\n    print(\"i is: \" + str(i) + \" and j is: \" + str(j))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

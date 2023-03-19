@@ -1,0 +1,12 @@
+{
+  "id": "8917a077-1945-4b76-966f-7d1066600f7e",
+  "instruction": "Design a program to calculate the Fibonacci sequence up to 20 numbers.",
+  "input": "",
+  "output": "def Fibonacci(n): \n    a = 0\n    b = 1\n    if n < 0: \n        print(\"Incorrect input\")  \n    elif n == 0: \n        return a \n    elif n == 1: \n        return b \n    else: \n        for i in range(2,n): \n            c = a + b \n            a = b \n            b = c\n            print(c)\n        return b \n  \n# Driver Program \n  \nprint(Fibonacci(20))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

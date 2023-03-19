@@ -1,0 +1,12 @@
+{
+  "id": "d7e9cac6-bd37-426a-b7dd-e12fa79881e6",
+  "instruction": "Classify the following statements as either an influence or an effect:",
+  "input": "\"The rise in global temperatures can lead to more extreme weather patterns\"",
+  "output": "Influence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

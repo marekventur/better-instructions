@@ -1,0 +1,12 @@
+{
+  "id": "45d4e436-ef68-4f41-821c-7350a2cc61d6",
+  "instruction": "Deduce the missing number in the following equation.",
+  "input": "3x + 4y = 10",
+  "output": "x = 2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

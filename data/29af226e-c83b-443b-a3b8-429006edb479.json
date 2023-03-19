@@ -1,0 +1,12 @@
+{
+  "id": "29af226e-c83b-443b-a3b8-429006edb479",
+  "instruction": "Edit the following sentence to add a transition word.",
+  "input": "He walked off the stage. He was embarrassed.",
+  "output": "He walked off the stage, embarrassed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c749cd4b-8341-4b39-bb3f-523d718f8fdc",
+  "instruction": "Given a string, merge all consecutive duplicates of a letter and return the result.",
+  "input": "aabbbcc",
+  "output": "abc",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

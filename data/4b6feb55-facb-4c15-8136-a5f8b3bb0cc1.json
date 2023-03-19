@@ -1,0 +1,12 @@
+{
+  "id": "4b6feb55-facb-4c15-8136-a5f8b3bb0cc1",
+  "instruction": "Retrieve relevant information about the following topic.",
+  "input": "Archaeological anthropology",
+  "output": "Archaeological anthropology is the study of human behavior and societies through the study of their material remains, such as artifacts, architecture, and other ecofacts. It is a sub-field of anthropology, which is the study of humans, past and present. Archaeological anthropology focuses on the origins and development of human behavior and cognitive evolution during certain periods of history, as well as providing an understanding of peoples\u2019 relationship to the environment around them. It is also used to study the interaction between people and the environment, such as how climate change affects the culture and behavior of the people living there.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

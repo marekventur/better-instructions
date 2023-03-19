@@ -1,0 +1,12 @@
+{
+  "id": "561f7c72-d23b-49aa-9e42-61b75230df2c",
+  "instruction": "Translate the statement into a Boolean expression.",
+  "input": "At least two of apples, oranges or bananas",
+  "output": "(Apples OR Oranges OR Bananas) AND (Apples OR Oranges OR Bananas)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

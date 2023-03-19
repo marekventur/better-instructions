@@ -1,0 +1,12 @@
+{
+  "id": "1a0e84a8-937f-4c60-aaeb-547bb8385bb3",
+  "instruction": "Group the following words according to their type. Output a list with the groups.\n1) Noun; 2) Adjective; 3) Verb",
+  "input": "happy, dog, barking",
+  "output": "[Adjective, Noun, Verb]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

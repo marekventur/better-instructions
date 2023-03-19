@@ -1,0 +1,12 @@
+{
+  "id": "f02e7a10-7b54-4efa-8635-dd1e2298ad18",
+  "instruction": "Delete the words in the sentence that are not essential to its meaning.",
+  "input": "We will be celebrating our victory in the parade tomorrow.",
+  "output": "We celebrating victory parade.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

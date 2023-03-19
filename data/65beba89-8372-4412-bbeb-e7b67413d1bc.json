@@ -1,0 +1,12 @@
+{
+  "id": "65beba89-8372-4412-bbeb-e7b67413d1bc",
+  "instruction": "Change the given set of words into a complete sentence.",
+  "input": "the growth of online shopping",
+  "output": "The growth of online shopping has been increasing significantly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

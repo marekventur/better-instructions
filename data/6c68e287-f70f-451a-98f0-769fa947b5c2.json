@@ -1,0 +1,12 @@
+{
+  "id": "6c68e287-f70f-451a-98f0-769fa947b5c2",
+  "instruction": "Generate a recipe for grilled cheese sandwiches.",
+  "input": "",
+  "output": "Ingredients:\n- 2 slices of white sandwich bread\n- 2 slices of cheddar cheese\n- 2 tablespoons of butter\n\nInstructions:\n1. Heat a skillet over medium heat.\n2. Spread one side of each slice of bread with butter.\n3. Place one slice of bread, butter-side down, in the skillet.\n4. Top the bread with a slice of cheese.\n5. Place the second slice of bread on top, butter-side up.\n6. Grill the sandwich for 2 minutes, until the cheese is melted.\n7. Flip the sandwich, and grill for another 2 minutes.\n8. Serve hot.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

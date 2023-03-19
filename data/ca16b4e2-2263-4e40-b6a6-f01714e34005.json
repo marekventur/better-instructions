@@ -1,0 +1,12 @@
+{
+  "id": "ca16b4e2-2263-4e40-b6a6-f01714e34005",
+  "instruction": "Given a set of instructions, design an algorithm to complete the instructions.",
+  "input": "Instructions: Given an array of integers, find all the pairs that have a sum of k.",
+  "output": "The algorithm should iterate through the array and for each element, check if there is an element with which it makes a pair that adds up to k. If such a pair is found, the elements should be added to the result list. This process should be repeated until all elements in the array have been checked.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c358a6b6-e2bb-4079-a926-86a48a3e6860",
+  "instruction": "Given the following sentence, provide its verb phrase:",
+  "input": "We had to be there before noon.",
+  "output": "The verb phrase of the sentence is \"had to be\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

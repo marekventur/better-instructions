@@ -1,0 +1,12 @@
+{
+  "id": "e09939bb-4c95-4040-9f55-e308eefd2871",
+  "instruction": "Analyze the following statement and identify the logical fallacy.",
+  "input": "\"If he is elected, taxes will go through the roof! He cannot be trusted.\"",
+  "output": "The logical fallacy used in this statement is a false cause fallacy, as it implies that the elected candidate will cause taxes to increase without any evidence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

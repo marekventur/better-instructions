@@ -1,0 +1,12 @@
+{
+  "id": "90dba33f-d5e3-464c-9e99-ad900dd66569",
+  "instruction": "Predict whether the following expression has a positive or negative meaning.",
+  "input": "Expression: to rain cats and dogs",
+  "output": "Negative.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

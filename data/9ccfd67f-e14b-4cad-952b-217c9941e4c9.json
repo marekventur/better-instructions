@@ -1,0 +1,12 @@
+{
+  "id": "9ccfd67f-e14b-4cad-952b-217c9941e4c9",
+  "instruction": "Given the following sentence, return the most important keyword.",
+  "input": "My beloved cat was very active this morning.",
+  "output": "Cat",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

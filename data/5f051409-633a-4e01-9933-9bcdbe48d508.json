@@ -1,0 +1,12 @@
+{
+  "id": "5f051409-633a-4e01-9933-9bcdbe48d508",
+  "instruction": "Recognize the fallacy in this argument",
+  "input": "All scientists reject the notion of a god, so clearly god does not exist.",
+  "output": "The fallacy in this argument is an argument from authority. Just because all scientists reject the notion of a god does not necessarily mean that god does not exist. This argument does not present any evidence to support the idea that god does not exist, and so the conclusion should not be accepted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

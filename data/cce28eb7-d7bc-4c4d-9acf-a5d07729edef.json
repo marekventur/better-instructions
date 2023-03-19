@@ -1,0 +1,12 @@
+{
+  "id": "cce28eb7-d7bc-4c4d-9acf-a5d07729edef",
+  "instruction": "Given this query, find the answer from the following passage. Output the answer.",
+  "input": "Query: What does Istanbul the city of business?\nPassage: It\u2019s no wonder that Istanbul is often mistaken as the capital city of Turkey. It is the largest city, and the city\u2019s total area keeps expanding due to the population increase. It\u2019s the city of business. It\u2019s also the historic center of different empires, and it\u2019s the only city in the world on two continents: Europe and Asia.",
+  "output": "Istanbul is the city of business.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

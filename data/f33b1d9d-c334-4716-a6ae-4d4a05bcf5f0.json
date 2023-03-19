@@ -1,0 +1,12 @@
+{
+  "id": "f33b1d9d-c334-4716-a6ae-4d4a05bcf5f0",
+  "instruction": "Rewrite the following sentence so that it uses an active voice instead of a passive one.",
+  "input": "The exam was failed by many students.",
+  "output": "Many students failed the exam.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "538be38a-02f5-4248-833b-e3a2182c36cc",
+  "instruction": "Analyze the following political speech",
+  "input": "[Insert example political speech]",
+  "output": "The political speech focused on the importance of unity in the face of challenging times. The speaker discussed the current state of the economy and how it should be addressed through collective efforts. Specific strategies and solutions were proposed, such as policies that would provide economic relief. The speaker also highlighted the need to embrace diversity and foster an inclusive society. By presenting a message of solidarity and hope, the speaker effectively appealed to the audience and laid down the foundation for action.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

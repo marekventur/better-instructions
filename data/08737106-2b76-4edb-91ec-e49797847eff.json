@@ -1,0 +1,12 @@
+{
+  "id": "08737106-2b76-4edb-91ec-e49797847eff",
+  "instruction": "Take the provided information and construct a compound sentence.",
+  "input": "The music was too loud. John couldn't hear anyone speaking.",
+  "output": "The music was too loud, so John couldn't hear anyone speaking.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

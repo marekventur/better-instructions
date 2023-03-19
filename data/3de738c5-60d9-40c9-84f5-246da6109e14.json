@@ -1,0 +1,12 @@
+{
+  "id": "3de738c5-60d9-40c9-84f5-246da6109e14",
+  "instruction": "Generate a list of top ten best selling books from the last 10 years.",
+  "input": "",
+  "output": "1. Harry Potter and the Order of the Phoenix, by J.K. Rowling \n2. The Da Vinci Code, by Dan Brown \n3. The Four Agreements, by Don Miguel Ruiz \n4. The Alchemist, by Paulo Coelho \n5. The Lord of the Rings, by J.R.R. Tolkien \n6. The Kite Runner, by Khaled Hosseini \n7. A Game of Thrones, by George R.R. Martin \n8. Fifty Shades of Grey, by E.L. James \n9. Gone Girl, by Gillian Flynn \n10. Where the Crawdads Sing, by Delia Owens",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

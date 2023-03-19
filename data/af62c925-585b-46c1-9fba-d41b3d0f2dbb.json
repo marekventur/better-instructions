@@ -1,0 +1,12 @@
+{
+  "id": "af62c925-585b-46c1-9fba-d41b3d0f2dbb",
+  "instruction": "Given a list of ingredients, suggest any missing ingredients needed to make a dish.",
+  "input": "Salt, olive oil, garlic",
+  "output": "You may need additional ingredients depending on what type of dish you are making, such as vegetables, seasonings, proteins, etc.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

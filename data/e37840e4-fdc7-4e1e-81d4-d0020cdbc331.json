@@ -1,0 +1,12 @@
+{
+  "id": "e37840e4-fdc7-4e1e-81d4-d0020cdbc331",
+  "instruction": "Output a review of a movie.",
+  "input": "Movie title: The Shawshank Redemption",
+  "output": "The Shawshank Redemption is an incredibly powerful and moving film. It follows the story of an innocent man wrongly imprisoned for a crime he didn't commit. Despite the horrid nature of his situation, the main character finds solace in the most unexpected places, forming strong friendships with his fellow prisoners. The film does an excellent job at conveying powerful messages about humanity and justice, and features some of the best performances ever put on film. All in all, it's an incredibly moving and powerful story that everyone should take the time to watch.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

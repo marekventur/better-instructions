@@ -1,0 +1,12 @@
+{
+  "id": "f793cec1-759f-42d9-a90d-0de21bfdc94c",
+  "instruction": "Generate a mnemonic phrase for remembering a particular set of cheats",
+  "input": "Cheats: DKPT/Right, DKPT/Left, DKPT/Up, DKPT/Down",
+  "output": "DKPT -> Directional Keys Press Together: Right, Left, Up, Down.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

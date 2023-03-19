@@ -1,0 +1,12 @@
+{
+  "id": "85efb872-8170-4707-bb89-00ba0ad4e470",
+  "instruction": "Identify the correct verb tense of the sentence.",
+  "input": "I walk to school each day.",
+  "output": "The sentence is in the present simple tense.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

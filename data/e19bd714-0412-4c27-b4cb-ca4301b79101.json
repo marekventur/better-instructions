@@ -1,0 +1,12 @@
+{
+  "id": "e19bd714-0412-4c27-b4cb-ca4301b79101",
+  "instruction": "Formulate the questions for the given statement.",
+  "input": "The budget for the project needs to be finalized.",
+  "output": "Questions:\n- How much is the budget for the project?\n- Who is responsible for finalizing the budget?\n- What are the components of the budget?\n- What are the considerations when determining the budget?\n- What are the potential impacts and implications of the final budget?\n- What is the timeline for finalizing the budget?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

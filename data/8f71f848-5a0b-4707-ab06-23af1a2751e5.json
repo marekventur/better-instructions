@@ -1,0 +1,12 @@
+{
+  "id": "8f71f848-5a0b-4707-ab06-23af1a2751e5",
+  "instruction": "Create a classified ad for the given item.",
+  "input": "2nd-hand laptop",
+  "output": "For Sale: Used laptop \n\nA used laptop in good condition is now available. The laptop comes with its original charger and is ready to use. It has an Intel Core i3 processor with 8GB RAM and a 256GB SSD. It runs Windows 10 and is perfect for daily tasks such as browsing the web, online shopping, word processing and watching movies. $150 or best offer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

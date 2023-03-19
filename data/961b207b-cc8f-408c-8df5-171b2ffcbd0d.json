@@ -1,0 +1,12 @@
+{
+  "id": "961b207b-cc8f-408c-8df5-171b2ffcbd0d",
+  "instruction": "Select the answer option that best fits the given sentence.",
+  "input": "The painting had an air of ________ about it\n\nA. mystery\nB. sadness\nC. joy\nD. regret",
+  "output": "A. mystery",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

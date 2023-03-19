@@ -1,0 +1,12 @@
+{
+  "id": "77b070a6-9eb1-4c31-9c6b-a5de231a2471",
+  "instruction": "From the given list, select two foods that are considered healthy and output them in a list.",
+  "input": "[cake, salad, ice cream, broccoli]",
+  "output": "[salad, broccoli]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

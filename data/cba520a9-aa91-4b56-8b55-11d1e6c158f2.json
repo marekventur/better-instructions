@@ -1,0 +1,12 @@
+{
+  "id": "cba520a9-aa91-4b56-8b55-11d1e6c158f2",
+  "instruction": "Generate a list of constraints or limitations of a particular technology",
+  "input": "Cloud Computing",
+  "output": "The constraints and limitations of cloud computing include: Security - there are potential risks associated with storing data or running applications in the cloud; Cost \u2013 there may be additional costs associated with running cloud applications; Scalability \u2013 it may be difficult to scale applications quickly; Reliability \u2013 network outages, maintenance downtimes, and other events can affect the reliability of cloud-based applications; and Data Portability \u2013 the ability to transfer data to and from the cloud may be limited.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

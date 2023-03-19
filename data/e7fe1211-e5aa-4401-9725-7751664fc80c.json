@@ -1,0 +1,12 @@
+{
+  "id": "e7fe1211-e5aa-4401-9725-7751664fc80c",
+  "instruction": "replace the italicized words with words of your choice",
+  "input": "It took me several hours to finish the project.",
+  "output": "It took me several days to finish the project.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "54e6e18f-034d-4df1-8d84-1277162b9c1f",
+  "instruction": "Given the following two Boolean functions, compare and contrast them.",
+  "input": "f1(x, y) = x + y\nf2(x, y) = x * y",
+  "output": "The functions f1(x, y) and f2(x, y) both take two Boolean arguments, x and y. Function f1(x,y) returns the sum of these two values, while function f2(x,y) returns the product. Thus, f1(x,y) will return True when at least one of the two values is True, while f2(x,y) will only return True when both of the values are True.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6eb34c9c-1bda-405f-8bfb-e3f6e1af020d",
+  "instruction": "Fix the following sentence: \"The bear run through the forest\"",
+  "input": "",
+  "output": "The bear ran through the forest.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

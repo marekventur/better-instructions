@@ -1,0 +1,12 @@
+{
+  "id": "1fea977b-c657-4d66-bd31-f50f6eca682d",
+  "instruction": "Generate a multiple-choice question with four answers related to the following content",
+  "input": "The African elephant is the largest land mammal in the world",
+  "output": "Which animal is the largest land mammal in the world?\nA. Kangaroo \nB. African elephant\nC. Blue whale\nD. Giraffe",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

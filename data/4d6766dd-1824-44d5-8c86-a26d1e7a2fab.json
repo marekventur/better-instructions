@@ -1,0 +1,12 @@
+{
+  "id": "4d6766dd-1824-44d5-8c86-a26d1e7a2fab",
+  "instruction": "Identify the most likely cause of given scenario.",
+  "input": "The pack of dogs is barking at the cat.",
+  "output": "The most likely cause of the pack of dogs barking at the cat is fear or aggression from the dogs towards the cat, or the cat's presence triggering a defensive or territorial reaction from the dogs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "29e9d494-085d-4e1d-bbbc-f74bdecbcc20",
+  "instruction": "Rewrite this sentence using a vocabulary word from the provided list.",
+  "input": "I feel so excited\n\nVocabulary: ecstatic, elated",
+  "output": "I feel ecstatic.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

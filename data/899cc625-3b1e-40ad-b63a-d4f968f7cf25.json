@@ -1,0 +1,12 @@
+{
+  "id": "899cc625-3b1e-40ad-b63a-d4f968f7cf25",
+  "instruction": "Construct a sample web form to apply for a job.",
+  "input": "",
+  "output": "<html>\n\n<head>\n  <title>Job Application Form</title>\n</head>\n<body>\n  <h1>Job Application Form</h1>\n  <form>\n    <h2>Personal Information</h2>\n    <label>Name:</label>\n    <input type=\"text\" name=\"name\" />\n\n    <label>Email:</label>\n    <input type=\"text\" name=\"email\" />\n\n    <label>Phone Number:</label>\n    <input type=\"number\" name=\"phone\" />\n\n    <h2>Education</h2>\n    <label>Highest Level of Education:</label>\n    <input type=\"text\" name=\"education\" />\n\n    <label>School/College/University:</label>\n    <input type=\"text\" name=\"educational_institute\" />\n\n    <h2>Skills and Qualifications</h2>\n    <label>Relevant Skills:</label>\n    <input type=\"text\" name=\"skills\" />\n    \n    <label>Major Achievements in Relevant Field:</label>\n    <input type=\"text\" name=\"achievements\" />\n\n    <h2>Experience</h2>\n    <label>Previous Employer:</label>\n    <input type=\"text\" name=\"previous_employer\" />\n\n    <label>Previous job role:</label>\n    <input type=\"text\" name=\"previous_job_role\" />\n\n    <h2>References</h2>\n    <label>Reference 1 Name:</label>\n    <input type=\"text\" name=\"reference_1\" />\n    \n    <label>Reference 1 Contact:</label>\n    <input type=\"text\" name=\"reference_1_contact\" />\n    \n    <label>Reference 2 Name:</label>\n    <input type=\"text\" name=\"reference_2\" />\n    \n    <label>Reference 2 Contact:</label>\n    <input type=\"text\" name=\"reference_2_contact\" />\n\n<input type=\"submit\" value=\"Submit\" />\n</form>\n</body>\n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d9c4820f-a61d-4783-ac42-df8ce80a20ee",
+  "instruction": "Generate a list of healthy home-cooked meals that can be easily cooked in less than 15 minutes.",
+  "input": "",
+  "output": "1. Spaghetti Bolognese\n2. Grilled Chicken & Sweet Potato Salad\n3. Egg & Vegetable Stir Fry\n4. Quinoa & Spinach Salad\n5. Turkey Burgers & Sweet Potato Fries\n6. Salmon & Green Beans\n7. Peanut Butter & Banana Toast\n8. Tuna & Avocado Wrap\n9. Veggie Fried Rice\n10. Omelette & Avocado Toast \n11. Cauliflower & Broccoli Cheese Casserole\n12. Greek Yogurt Bowl\n13. Chicken & Broccoli with Rice\n14. Avocado & Black Bean Quesadilla\n15. Zucchini & Carrot Soup",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "84aa00ad-3e84-4b78-b75e-48afd764de93",
+  "instruction": "Find the most frequent character in a given string.",
+  "input": "my_string = 'thequickbrownfoxjumpsoverthelazydog'",
+  "output": "def find_most_frequent(s):\n    # check for valid input\n    assert isinstance(s, str), 'Input must be a string.'\n    # create a dictionary for character counts\n    count_dict = {} \n\n    # find all characters\n    for i in range(len(s)): \n        if s[i] in count_dict: \n            count_dict[s[i]] += 1\n        else: \n            count_dict[s[i]] = 1\n\n    # find most frequent character\n    max_count = 0\n    frequent_char = ''\n    for char in count_dict:\n        if count_dict[char] > max_count:\n            max_count = count_dict[char]\n            frequent_char = char\n\n    # return most frequent character\n    return frequent_char",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

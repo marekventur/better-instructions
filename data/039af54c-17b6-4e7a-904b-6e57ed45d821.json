@@ -1,0 +1,12 @@
+{
+  "id": "039af54c-17b6-4e7a-904b-6e57ed45d821",
+  "instruction": "Write a script to query a database.",
+  "input": "Database Information: Database containing user information",
+  "output": "SELECT * FROM Users \nWHERE age > 18\nAND country = 'US'",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

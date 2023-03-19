@@ -1,0 +1,12 @@
+{
+  "id": "99513ed2-3b8d-47d8-b8d8-4246fe3f72fa",
+  "instruction": "Describe in detail the process of creating an API.",
+  "input": "",
+  "output": "Creating an API involves several steps. First, the API must be designed to meet the needs and expected use-cases. This includes mapping out data structures, endpoints, and expected interactions between clients and the API. Next, the API data and operations must be exposed with the proper URL schema, HTTP methods, and API verbs. This information should be laid out in a well-defined API specification or documentation. After the API has been designed it must be implemented on a development or production-ready server, depending on the user\u2019s needs. This requires configuring the server environment and applying the appropriate security measures for any data or operations normally exposed to the public. Finally, the API must be tested to ensure both functional and non-functional requirements are met. This includes testing every endpoint and automated testing of certain scenarios and edge cases. Once the tests have been completed the API can be deployed and released to the public.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

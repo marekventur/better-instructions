@@ -1,0 +1,12 @@
+{
+  "id": "e9211c16-73db-47ed-8d37-d43138e66cdd",
+  "instruction": "Take the given facts and turn it into a coherent story.",
+  "input": "Kevin is a lobster. Bob is a horse. They went to the beach on vacation.",
+  "output": "Kevin the lobster and Bob the horse were best friends. They decided to take a vacation to the beach, where they swam in the ocean and played in the sand.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

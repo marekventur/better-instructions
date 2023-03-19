@@ -1,0 +1,12 @@
+{
+  "id": "9d9669f0-2b27-40bd-811a-c5d63a1905cb",
+  "instruction": "Create a quiz that asks about the first Thanksgiving.",
+  "input": "",
+  "output": "1. In which year was the first Thanksgiving held?\n2. Who ordered the first Thanksgiving feast?\n3. What two cultures were invited to the first Thanksgiving?\n4. How long lasted the first Thanksgiving feast?\n5. What were some of the food served at the first Thanksgiving?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

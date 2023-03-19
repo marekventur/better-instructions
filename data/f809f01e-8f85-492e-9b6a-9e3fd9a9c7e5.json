@@ -1,0 +1,12 @@
+{
+  "id": "f809f01e-8f85-492e-9b6a-9e3fd9a9c7e5",
+  "instruction": "Select the most appropriate answer to the question.",
+  "input": "What document do you need to access a website?",
+  "output": "A user ID and password.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

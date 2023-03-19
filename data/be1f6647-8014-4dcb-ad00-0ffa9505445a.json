@@ -1,0 +1,12 @@
+{
+  "id": "be1f6647-8014-4dcb-ad00-0ffa9505445a",
+  "instruction": "Generate a one line description about the following song:",
+  "input": "Song title: Sugar.\nArtist: Maroon 5.",
+  "output": "Maroon 5's \"Sugar\" is a catchy and upbeat love song.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

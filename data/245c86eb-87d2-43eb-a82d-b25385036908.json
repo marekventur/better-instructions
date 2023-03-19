@@ -1,0 +1,12 @@
+{
+  "id": "245c86eb-87d2-43eb-a82d-b25385036908",
+  "instruction": "Adapt the given text to the passive voice.",
+  "input": "John cooked dinner.",
+  "output": "Dinner was cooked by John.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

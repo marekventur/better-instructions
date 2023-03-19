@@ -1,0 +1,12 @@
+{
+  "id": "8d36c83f-ace7-41bd-b224-5fb3752301fa",
+  "instruction": "Categorize the user as \"cautious\" or \"risk-taker\" according to the info given",
+  "input": "She rarely invests money and only occasionally lends money to people she trusts.",
+  "output": "cautious",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

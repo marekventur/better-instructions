@@ -1,0 +1,12 @@
+{
+  "id": "ad7c0783-3617-4a95-96fa-b548a7bc3ad2",
+  "instruction": "Given a scenario, formulate a logical condition.",
+  "input": "Scenario: You want to grant access to a certain document to people only after they have filled out a form.",
+  "output": "if (form.isFilled && form.isCorrect) {\n  grantAccess();\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

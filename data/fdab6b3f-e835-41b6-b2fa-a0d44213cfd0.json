@@ -1,0 +1,12 @@
+{
+  "id": "fdab6b3f-e835-41b6-b2fa-a0d44213cfd0",
+  "instruction": "Rearrange the list of words to form a coherent sentence.",
+  "input": "film the interested viewer oldest",
+  "output": "The oldest viewer is interested in the film.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

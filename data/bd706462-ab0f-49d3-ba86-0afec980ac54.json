@@ -1,0 +1,12 @@
+{
+  "id": "bd706462-ab0f-49d3-ba86-0afec980ac54",
+  "instruction": "Given one variable and its value, identify the type of the variable.",
+  "input": "String variable | \"Hello World\"",
+  "output": "The variable is a String.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

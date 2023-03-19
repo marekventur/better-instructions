@@ -1,0 +1,12 @@
+{
+  "id": "7dffa178-9a23-41d0-b60b-50c6790cb125",
+  "instruction": "Give one example of an ethical issue in the use of big data.",
+  "input": "",
+  "output": "One ethical issue in the use of big data is the potential for discrimination. Big data models are built on the premise that patterns in past data can be used to predict future outcomes. However, if these models are based on data that is biased or discriminatory, they will lead to decisions that are themselves biased or discriminatory. This could manifest in the form of unequal access to services, such as credit or employment opportunities, based on race, religion, gender, or any other demographic factor. Ethics in big data must ensure that data and algorithms are not used to discriminate against any particular group.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

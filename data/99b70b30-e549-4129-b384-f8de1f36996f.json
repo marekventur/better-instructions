@@ -1,0 +1,12 @@
+{
+  "id": "99b70b30-e549-4129-b384-f8de1f36996f",
+  "instruction": "Classify these animals as either omnivores, herbivores, or carnivores",
+  "input": "Gorilla, lion, koala",
+  "output": "Gorilla: Herbivore\nLion: Carnivore\nKoala: Herbivore",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

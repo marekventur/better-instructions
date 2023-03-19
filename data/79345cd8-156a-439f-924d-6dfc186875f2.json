@@ -1,0 +1,12 @@
+{
+  "id": "79345cd8-156a-439f-924d-6dfc186875f2",
+  "instruction": "Correct the following sentence by adding punctuation and capitalization in the right places.",
+  "input": "it was a cold winters day",
+  "output": "It was a cold winter's day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

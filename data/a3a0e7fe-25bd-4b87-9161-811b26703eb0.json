@@ -1,0 +1,12 @@
+{
+  "id": "a3a0e7fe-25bd-4b87-9161-811b26703eb0",
+  "instruction": "Split the following sentence into two declarative sentences: \"The food was delicious and the service was excellent\".",
+  "input": "",
+  "output": "The food was delicious. The service was excellent.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

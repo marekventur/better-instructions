@@ -1,0 +1,12 @@
+{
+  "id": "7c25608f-2c78-4e19-a3a5-2a3e272e9808",
+  "instruction": "Identify the type of the news article.",
+  "input": "Google has acquired an AI startup that specializes in natural language processing.",
+  "output": "Business",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

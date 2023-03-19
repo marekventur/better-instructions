@@ -1,0 +1,12 @@
+{
+  "id": "f81bbf96-04a6-4525-b79f-8135a6a19322",
+  "instruction": "Construct a regular expression to match a password which contains one or multiple lowercase letters and one or multiple uppercase letters.",
+  "input": "",
+  "output": "The regular expression to match a password which contains one or multiple lowercase letters and one or multiple uppercase letters is: ^(?=.*[a-z])(?=.*[A-Z])[a-zA-Z]+$",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

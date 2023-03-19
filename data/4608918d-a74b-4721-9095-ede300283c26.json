@@ -1,0 +1,12 @@
+{
+  "id": "4608918d-a74b-4721-9095-ede300283c26",
+  "instruction": "Determine whether a dish is vegan or not.",
+  "input": "A pasta dish with Parmesan cheese",
+  "output": "No, this dish is not vegan. Parmesan cheese contains animal-derived ingredients, making it non-vegan.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

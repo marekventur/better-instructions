@@ -1,0 +1,12 @@
+{
+  "id": "034fa0e3-76b0-4e29-85b6-f89dc1d17924",
+  "instruction": "Classify the following text as either a talk show or a news article.",
+  "input": "The host of the show announced a surprise guest appearance by the president of the United States.",
+  "output": "This text is classified as a talk show.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

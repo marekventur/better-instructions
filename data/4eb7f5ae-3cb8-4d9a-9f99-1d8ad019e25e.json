@@ -1,0 +1,12 @@
+{
+  "id": "4eb7f5ae-3cb8-4d9a-9f99-1d8ad019e25e",
+  "instruction": "Analyze the sentence and identify the type of sentence it is.",
+  "input": "The snow was melting.",
+  "output": "Declarative.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

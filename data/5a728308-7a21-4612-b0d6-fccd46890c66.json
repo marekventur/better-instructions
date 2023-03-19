@@ -1,0 +1,12 @@
+{
+  "id": "5a728308-7a21-4612-b0d6-fccd46890c66",
+  "instruction": "Given a database of customer information and purchase history, classify customers as high-value or low-value.",
+  "input": "John Smith, age 30, has purchased three items from the store over the last six months. He has a total purchase history of $250 USD.",
+  "output": "Low-value customer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

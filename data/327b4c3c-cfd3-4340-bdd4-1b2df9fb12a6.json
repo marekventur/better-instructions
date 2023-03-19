@@ -1,0 +1,12 @@
+{
+  "id": "327b4c3c-cfd3-4340-bdd4-1b2df9fb12a6",
+  "instruction": "Create a simile to compare item X with item Y.",
+  "input": "X = Heavy rain\nY = An endless waterfall",
+  "output": "The heavy rain was like an endless waterfall cascading down from the sky.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

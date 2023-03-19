@@ -1,0 +1,12 @@
+{
+  "id": "4cb749b5-2290-4516-85d9-1da802499ee7",
+  "instruction": "Describe how machine learning is used in this system.",
+  "input": "A system that recognizes hand-written digits.",
+  "output": "Machine learning is used in this system to learn patterns in handwritten digits. It uses a training phase to identify features of the digits such as shape, weight, stroke and spacing in order to distinguish them from one another. During the testing phase, the ML model makes predictions on new hand-written digits by analyzing the same features with the previously trained ones.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

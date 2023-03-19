@@ -1,0 +1,12 @@
+{
+  "id": "639d2a9a-de57-4f60-afa3-d4153c1a9cc4",
+  "instruction": "Calculate the total sum of the numeric values in the input sentence, then provide your answer.",
+  "input": "I have 1 apple, 2 bananas and 3 oranges.",
+  "output": "6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

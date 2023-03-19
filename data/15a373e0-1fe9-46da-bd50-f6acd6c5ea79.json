@@ -1,0 +1,12 @@
+{
+  "id": "15a373e0-1fe9-46da-bd50-f6acd6c5ea79",
+  "instruction": "Describe the characteristics of the most powerful supercomputer in the world.",
+  "input": "",
+  "output": "The most powerful supercomputer in the world is the Fujitsu A64FX. It has 48,896 ARM-based cores, and a peak theoretical performance of 415.5 petaflops. It also features over 32 TB of RAM, and a total of 25.6 Pbytes of main memory. It is connected with low-latency, high-bandwidth interconnects that enable high-performance computing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

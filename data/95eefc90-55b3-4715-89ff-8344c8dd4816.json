@@ -1,0 +1,12 @@
+{
+  "id": "95eefc90-55b3-4715-89ff-8344c8dd4816",
+  "instruction": "Add a sentence to the following sentence highlighting the importance of the action.",
+  "input": "He opened the door.",
+  "output": "He opened the door, emphasizing the importance of the action.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

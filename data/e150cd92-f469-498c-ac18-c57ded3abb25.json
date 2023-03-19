@@ -1,0 +1,12 @@
+{
+  "id": "e150cd92-f469-498c-ac18-c57ded3abb25",
+  "instruction": "Name five web technologies used for web development.",
+  "input": "",
+  "output": "Five web technologies used for web development are HTML, CSS, JavaScript, AJAX, and PHP. HTML provides the foundation for the structure of a web page, while CSS controls the style and layout of the page. JavaScript enables the creation of interactive webpages, while AJAX enables developers to send and receive data asynchronously. PHP is a powerful scripting language used to build dynamic websites and web applications.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

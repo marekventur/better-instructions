@@ -1,0 +1,12 @@
+{
+  "id": "fb86e8b0-a4e4-4845-a4cb-07ec9b678cf8",
+  "instruction": "Describe the places mentioned in the following sentence.",
+  "input": "My son and I went from the beach to the mall and then to the park to eat lunch.",
+  "output": "The beach was a sandy shore with crashing waves, the mall had bustling crowds of shoppers, and the park was a tranquil green space with picnic tables.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

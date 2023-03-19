@@ -1,0 +1,12 @@
+{
+  "id": "43b6586c-45c1-4321-95d8-0426c581e573",
+  "instruction": "Given a set of words, determine their parts of speech.",
+  "input": "Word: intelligence",
+  "output": "The word \"intelligence\" is a noun.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

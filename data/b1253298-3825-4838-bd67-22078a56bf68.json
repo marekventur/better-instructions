@@ -1,0 +1,12 @@
+{
+  "id": "b1253298-3825-4838-bd67-22078a56bf68",
+  "instruction": "Find the derivative of the following equation with respect to x:",
+  "input": "y=5x^2 - 3x",
+  "output": "10x - 3.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

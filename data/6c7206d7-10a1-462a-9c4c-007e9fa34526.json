@@ -1,0 +1,12 @@
+{
+  "id": "6c7206d7-10a1-462a-9c4c-007e9fa34526",
+  "instruction": "Find a solution to the following Sudoku game.",
+  "input": "8*6....194\n.2.3578...\n.9.8.....6\n7..954....\n.45.1..793\n....783..2\n6.....2.5.\n...9486.2.\n297....*83",
+  "output": "8462735194\n5267357841\n1948571 236\n7 62594381\n3458129793\n6157839462\n6194382571\n8195486372\n2973146583",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

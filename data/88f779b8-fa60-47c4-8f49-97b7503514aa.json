@@ -1,0 +1,12 @@
+{
+  "id": "88f779b8-fa60-47c4-8f49-97b7503514aa",
+  "instruction": "Provide a short summary of the following book review.",
+  "input": "Book: The Hunger Games\nBook Review:\nThe Hunger Games follows sixteen-year-old Katniss Everdeen, as she struggles to survive the annual Hunger Games, a fight to the death amongst twenty-four teenagers. Not only must she battle the other players, but she must also fight against the oppressive Capitol that controls her fate.",
+  "output": "The Hunger Games is a novel about sixteen-year-old Katniss Everdeen who participates in the annual Hunger Games, a fight to the death amongst twenty-four teenagers. Katniss not only must battle the other players, but also the oppressive Capitol that controls her fate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

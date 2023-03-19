@@ -1,0 +1,12 @@
+{
+  "id": "a4b2bfdf-6640-4fbf-8c08-06929783eb67",
+  "instruction": "Provide the cause for the following display.",
+  "input": "My x-ray shows a slight decrease in density from my last one",
+  "output": "The cause of the decrease in density on your x-ray may be due to a weakening of the bones or to a decrease in calcium intake. Other potential causes could include thyroid problems which can cause an imbalance in calcium, vitamin D deficiency, autoimmune diseases, or medications that can interfere with the body's ability to absorb calcium. It's best to consult a doctor to determine the cause.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "45df1c01-3a15-4ccb-8c67-08441c2ae800",
+  "instruction": "Provide an example of a query that you can use to search for a particular book in a library catalog.",
+  "input": "",
+  "output": "Here is an example of a query that can be used to search for a book in a library catalog: \"title='The Catcher in the Rye' AND author='J.D. Salinger'\". This query will search for the book \"The Catcher in the Rye\" by J.D. Salinger in the library catalog.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

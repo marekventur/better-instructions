@@ -1,0 +1,12 @@
+{
+  "id": "41355b20-8e8e-4344-aa8f-e82bc180f93a",
+  "instruction": "Construct a query to find all rows in the table which meets certain conditions.",
+  "input": "Table: Customers \nConditions: date of birth = 15/07/1996",
+  "output": "SELECT * FROM Customers WHERE date_of_birth = '15/07/1996';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

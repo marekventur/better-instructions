@@ -1,0 +1,12 @@
+{
+  "id": "564dfac1-9e25-4fd7-b950-72472d9408fa",
+  "instruction": "Can you find the sentence fragment in the following text?",
+  "input": "The new law will make it easier for people to access health care, as well as providing more support for those in need.",
+  "output": "The sentence fragment is: \"for those in need.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

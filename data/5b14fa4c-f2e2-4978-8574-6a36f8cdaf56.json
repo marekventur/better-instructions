@@ -1,0 +1,12 @@
+{
+  "id": "5b14fa4c-f2e2-4978-8574-6a36f8cdaf56",
+  "instruction": "Given a type of food, explain how to cook it.",
+  "input": "Lasagna",
+  "output": "Lasagna is a layered Italian dish. To make it, you need to cook pre-boiled lasagna noodles, then layer them with your favorite pasta sauce, cheese, and additional ingredients like vegetables or meats. After layering, bake the lasagna in the oven for 25-30 minutes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

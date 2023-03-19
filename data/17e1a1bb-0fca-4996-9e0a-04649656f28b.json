@@ -1,0 +1,12 @@
+{
+  "id": "17e1a1bb-0fca-4996-9e0a-04649656f28b",
+  "instruction": "Predict the output given this input.",
+  "input": "(A) The lioness is aggressive",
+  "output": "True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7a15e7b0-437f-4ac4-bc39-eb93a74cd21d",
+  "instruction": "Evaluate the following statement and give a score of 1 to 5 (1 being the lowest).",
+  "input": "This film is worth watching.",
+  "output": "5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

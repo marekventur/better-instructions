@@ -1,0 +1,12 @@
+{
+  "id": "5a312df4-38c8-4fb9-94bd-c2d57ad03d6f",
+  "instruction": "Provide an example of asymmetric encryption",
+  "input": "",
+  "output": "An example of asymmetric encryption is public-key cryptography. In public-key cryptography, two different keys are generated for encrypting and decrypting the data. The encryption key is made available to the public, while the decryption key is only known by the recipient. This means that the encrypted data can be sent to anyone, but only the intended recipient can decrypt it using their decryption key. This provides a secure way to send messages between parties without either having to share their encryption key with the other.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

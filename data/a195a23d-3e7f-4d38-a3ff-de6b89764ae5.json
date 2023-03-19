@@ -1,0 +1,12 @@
+{
+  "id": "a195a23d-3e7f-4d38-a3ff-de6b89764ae5",
+  "instruction": "Group the given words into a compound noun.",
+  "input": "Words: sea, gull",
+  "output": "Seagull.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cb7b9b89-83b8-4d59-bf18-eb39c373fa68",
+  "instruction": "What is the current demand for the product?\nOutput the current demand, measured in number of orders.",
+  "input": "iPhone 11",
+  "output": "The current demand for the iPhone 11 is high, with over 200,000 orders placed per day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

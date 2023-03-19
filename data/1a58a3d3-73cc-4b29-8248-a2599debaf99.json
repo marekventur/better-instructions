@@ -1,0 +1,12 @@
+{
+  "id": "1a58a3d3-73cc-4b29-8248-a2599debaf99",
+  "instruction": "Generate a question from the following sentence",
+  "input": "The Eiffel Tower was constructed in 1889.",
+  "output": "When was the Eiffel Tower constructed?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

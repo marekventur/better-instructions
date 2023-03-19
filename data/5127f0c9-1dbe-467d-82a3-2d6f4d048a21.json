@@ -1,0 +1,12 @@
+{
+  "id": "5127f0c9-1dbe-467d-82a3-2d6f4d048a21",
+  "instruction": "Find the length of a line segment given the following coordinates.",
+  "input": "Points (3, 4) and (7, 9).",
+  "output": "The length of the line segment given the points (3, 4) and (7, 9) is 6 units.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "78697871-6aa8-45cd-a165-baa4cf86b180",
+  "instruction": "Create a Twitter bio using the given user's information.",
+  "input": "User name:  @michaelsheridan\nOccupation: Computer scientist\nInterest: Video games",
+  "output": "Hey, I'm Michael Sheridan, a computer scientist and avid gamer. I love testing the limits of games and exploring the technology behind them. Follow me for the latest tech news, gaming conversations and endless gaming fun!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

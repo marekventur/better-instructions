@@ -1,0 +1,12 @@
+{
+  "id": "89b60ee7-bcca-4ae2-a158-aae924ccaa0d",
+  "instruction": "Find a recipe for strawberry smoothie.",
+  "input": "",
+  "output": "A recipe for a strawberry smoothie is: \n- 1 cup of fresh strawberries \n- 1 cup of plain yogurt \n- 1 ripe banana \n- 1 tablespoon of honey \n- \u00bd cup of orange juice \n- 1 cup of ice \n\nInstructions: \n1. Put the strawberries, yogurt, banana, honey, and orange juice in a blender and blend until smooth. \n2. Add the ice and blend again until everything is combined. \n3. Pour into glasses and serve.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

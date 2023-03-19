@@ -1,0 +1,12 @@
+{
+  "id": "948748a6-7563-40d3-99ce-3c078a2ada81",
+  "instruction": "Given the data, classify the items into their appropriate categories.",
+  "input": "Object1: Hat\nObject2: Painting\nObject3: Hammer",
+  "output": "Object1: Hat - Clothing\nObject2: Painting - Art\nObject3: Hammer - Tool",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

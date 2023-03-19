@@ -1,0 +1,12 @@
+{
+  "id": "29e349a7-893e-48a7-9132-217b1600f3b2",
+  "instruction": "Interpret the given expression using symbolic logic.",
+  "input": "(p \u2192 q) \u2227 (q \u2192 r)",
+  "output": "The expression can be interpreted as \"If p then q and if q then r\". This implies that if p is true, then q and r will both be true.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

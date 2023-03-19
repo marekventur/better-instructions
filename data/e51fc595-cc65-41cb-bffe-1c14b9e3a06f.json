@@ -1,0 +1,12 @@
+{
+  "id": "e51fc595-cc65-41cb-bffe-1c14b9e3a06f",
+  "instruction": "Conjugate the verb in parenthesis to the past perfect tense and fill in the blank.",
+  "input": "She (go) to the store yesterday.",
+  "output": "She had gone to the store yesterday.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

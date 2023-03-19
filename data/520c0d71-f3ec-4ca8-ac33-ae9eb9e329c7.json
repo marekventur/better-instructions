@@ -1,0 +1,12 @@
+{
+  "id": "520c0d71-f3ec-4ca8-ac33-ae9eb9e329c7",
+  "instruction": "Given the 3 items, categorize them based on the provided criterion.",
+  "input": "Items: Soccer, Basketball, Hockey\nCriterion: Team Sports",
+  "output": "Soccer, Basketball, and Hockey are all team sports.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

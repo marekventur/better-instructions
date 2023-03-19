@@ -1,0 +1,12 @@
+{
+  "id": "ce5a170c-90da-4be8-9cfd-01380dd969cb",
+  "instruction": "Identify the type of the given sentence. Output 1 for declarative, 2 for interrogative, and 3 for imperative",
+  "input": "Where are you going?",
+  "output": "2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

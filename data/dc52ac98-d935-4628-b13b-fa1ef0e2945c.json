@@ -1,0 +1,12 @@
+{
+  "id": "dc52ac98-d935-4628-b13b-fa1ef0e2945c",
+  "instruction": "Create a bot that can moderate a discussion forum.",
+  "input": "",
+  "output": "The bot should be able to detect offensive language, flag inappropriate posts, and send out reminders about the forum's rules. In addition, the bot should have the capability to delete or hide posts and block users who break the rules. The bot should also be able to distinguish between criticism and trolling by using natural language processing. Finally, the bot should be able to assign moderators responsabilities, such as handling appeals, responding to user inquiries, and resolving conflicts.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

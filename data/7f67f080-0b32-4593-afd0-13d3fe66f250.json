@@ -1,0 +1,12 @@
+{
+  "id": "7f67f080-0b32-4593-afd0-13d3fe66f250",
+  "instruction": "State the primary purpose of a feature extraction algorithm.",
+  "input": "",
+  "output": "The primary purpose of a feature extraction algorithm is to identify meaningful features from a set of data and transform them into a more compact representation. This reduces the complexity of the data, making it easier to analyze, classify, and cluster.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

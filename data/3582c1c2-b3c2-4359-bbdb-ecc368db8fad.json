@@ -1,0 +1,12 @@
+{
+  "id": "3582c1c2-b3c2-4359-bbdb-ecc368db8fad",
+  "instruction": "Create a new recipe using the given ingredients and include the cooking method.",
+  "input": "Cheese, onion, tomato",
+  "output": "Cheesy Onion Tomato Tart: Preheat oven to 375\u00b0F (190\u00b0C). Grease an 8-inch (20 cm) tart pan with butter. In a medium bowl, mix 1 cup (125 g) shredded cheese with 1 diced small onion, 1 diced tomato, and 3 tablespoons of all-purpose flour. Mix until combined. Place the mixture into the tart pan. Bake for 30 minutes. Cut into wedges and serve.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

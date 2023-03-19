@@ -1,0 +1,12 @@
+{
+  "id": "acbc74ce-73d3-4e6a-87c0-092c4678b55c",
+  "instruction": "Create a table that compares and contrasts two countries of your choice",
+  "input": "",
+  "output": "Country \t| India \t| China\n------------|---------|---------\nPopulation \t| 1.37B \t| 1.44B\nGDP         | 2.94T \t| 14.14T\nLanguage    | Hindi   | Mandarin\nCapital     | New Delhi | Beijing\nGovernment  | Federal Parliamentary democracy | Unitary Marxist-Leninist one-party socialist republic",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

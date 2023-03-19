@@ -1,0 +1,12 @@
+{
+  "id": "19eedea5-093a-4a4e-a1b1-281801c8c142",
+  "instruction": "Capitalize all the letters in the following sentence.",
+  "input": "i love the place where i live.",
+  "output": "I LOVE THE PLACE WHERE I LIVE.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

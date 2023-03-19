@@ -1,0 +1,12 @@
+{
+  "id": "d4f522df-ea38-4a23-a4c9-5eed4b9bdf7b",
+  "instruction": "Find any mistakes in the following sentence and give me the corrected sentence.",
+  "input": "He had to work really hardly to get the job.",
+  "output": "He had to work really hard to get the job.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

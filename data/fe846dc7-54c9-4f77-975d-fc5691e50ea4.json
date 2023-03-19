@@ -1,0 +1,12 @@
+{
+  "id": "fe846dc7-54c9-4f77-975d-fc5691e50ea4",
+  "instruction": "Generate a list of tasks to complete a given project.",
+  "input": "Project:  Launching a new website",
+  "output": "- Identify project requirements \n- Research content and design ideas\n- Develop project plan\n- Purchase hosting and domain\n- Design website layout\n- Create website content\n- Develop website functionality\n- Test the website\n- Implement SEO\n- Add website tracking\n- Monitor website performance\n- Make any necessary changes\n- Prepare marketing plan\n- Launch website\n- Monitor website launch\n- Track website analytics\n- Update website regularly\n- Monitor website performance\n- Run website maintenance\n- Troubleshoot any issues",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

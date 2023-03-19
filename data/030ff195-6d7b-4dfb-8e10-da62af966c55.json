@@ -1,0 +1,12 @@
+{
+  "id": "030ff195-6d7b-4dfb-8e10-da62af966c55",
+  "instruction": "Given two code snippets, identify which lines of code produce errors.",
+  "input": "Snippet 1:\nx = 10\ny = 20\nresult = x * y\n\nSnippet 2: \nx = 10\ny = \u201chello\u201d\nresult = x * y",
+  "output": "The line of code `result = x * y` in Snippet 2 produces an error because the variables `x` and `y` have incompatible types.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

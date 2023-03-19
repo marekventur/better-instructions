@@ -1,0 +1,12 @@
+{
+  "id": "49101488-9e75-420c-9261-3c2e9aecf46c",
+  "instruction": "Given two numbers, calculate their average.",
+  "input": "87 and 12",
+  "output": "The average of 87 and 12 is 49.5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

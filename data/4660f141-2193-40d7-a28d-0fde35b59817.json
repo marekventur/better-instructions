@@ -1,0 +1,12 @@
+{
+  "id": "4660f141-2193-40d7-a28d-0fde35b59817",
+  "instruction": "Generate a list of 10 items a family would need to buy if they were getting ready for a camping trip.",
+  "input": "",
+  "output": "1. Tents \n2. Sleeping bags  \n3. Camping stove/kitchen supplies\n4. Flashlights/lanterns \n5. Clothing (extra layers, rain gear, etc.) \n6. First aid kit \n7. Toiletries \n8. Cooler \n9. Insect repellent \n10. Matches/fire starters",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

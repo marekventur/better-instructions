@@ -1,0 +1,12 @@
+{
+  "id": "1726dc55-eba4-4901-aecc-def64879211d",
+  "instruction": "Read the provided input and generate a summary of the given text.",
+  "input": "Technology has revolutionized the way businesses conduct their operations. Companies are constantly looking for innovative ways to gather, analyze and process data. Big Data is an essential tool that helps companies to make better decisions, improve customer experiences and keep up with competitors.",
+  "output": "Technology has allowed businesses to modernize and innovate the way they conduct operations. Companies rely on Big Data to make more informed decisions and stay competitive. Using Big Data, businesses can utilize data analytics to gain insights, improve customer experiences and keep up with their competition.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

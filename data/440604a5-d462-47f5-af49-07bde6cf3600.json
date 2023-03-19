@@ -1,0 +1,12 @@
+{
+  "id": "440604a5-d462-47f5-af49-07bde6cf3600",
+  "instruction": "Take the following equation and convert it into an equivalent form using the distributive law.",
+  "input": "2x + 4y + 5z = 7",
+  "output": "2x + 4y + 5z = 7\n\n2x + 4y + 5z = 7\n\n2(x + 2y + 2.5z) = 7\n\n2(x + 2y + 2.5z) = 14\n\nx + 2y + 2.5z = 7",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

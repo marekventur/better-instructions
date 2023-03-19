@@ -1,0 +1,12 @@
+{
+  "id": "ec30eb21-f8fb-47fa-8621-bab8ba5492da",
+  "instruction": "Classify the following sentence as either a metaphor or hyperbole.",
+  "input": "The room was so hot it felt like a sauna.",
+  "output": "Metaphor.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

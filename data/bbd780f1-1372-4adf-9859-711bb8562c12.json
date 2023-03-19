@@ -1,0 +1,12 @@
+{
+  "id": "bbd780f1-1372-4adf-9859-711bb8562c12",
+  "instruction": "Given a text passage and a target word, find the most similar words to the target word.",
+  "input": "The passage is :\n\n``As he walked through the city, the sky blue and sun beaming in the sky. Bob admired the wide range of colors that the trees and buildings presented.``\n\nTarget word :\n\nsky",
+  "output": "The most similar words to \"sky\" are \"blue\", \"beaming\", \"colors\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

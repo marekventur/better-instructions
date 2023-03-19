@@ -1,0 +1,12 @@
+{
+  "id": "6ab0e6e8-14e0-4d97-9a79-90d0a784bb47",
+  "instruction": "Arrange a meeting between me and a customer.",
+  "input": "The customer's name is Jane Smith.",
+  "output": "I have sent an email to Jane Smith requesting a meeting at your convenience. Please let me know what time works best for you.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

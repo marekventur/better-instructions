@@ -1,0 +1,12 @@
+{
+  "id": "2d87644f-72da-4091-8736-d5d07af49187",
+  "instruction": "Classify a fish as either an anadromous or a catadromous species.",
+  "input": "Sockeye Salmon",
+  "output": "Anadromous. Sockeye Salmon are anadromous fish, meaning they migrate from fresh water to salt water to complete their life cycle. They start their life in fresh water, then migrate down to the ocean where they live and grow before returning to freshwater to spawn.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

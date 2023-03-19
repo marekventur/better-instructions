@@ -1,0 +1,12 @@
+{
+  "id": "5faa74b5-327f-4ddc-baa7-d9f3e20bbff6",
+  "instruction": "Arrange the words to build a correct sentence",
+  "input": "beautiful young the was she",
+  "output": "She was the beautiful young.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

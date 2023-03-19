@@ -1,0 +1,12 @@
+{
+  "id": "a6ef28b8-4c51-439e-b58a-0c9b401590a4",
+  "instruction": "Given an article on the topic, evaluate its bias.",
+  "input": "https://www.theatlantic.com/technology/archive/2020/09/tiktok-trump-ban/615995/",
+  "output": "This article about the potential ban of TikTok in the US appears to be biased in favor of the company. The author references the potential loss of jobs from the potential ban and paints a sympathetic portrait of the company and its users. They also provide anecdotes that emphasize the impact the ban might have.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

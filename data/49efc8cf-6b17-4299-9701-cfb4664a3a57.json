@@ -1,0 +1,12 @@
+{
+  "id": "49efc8cf-6b17-4299-9701-cfb4664a3a57",
+  "instruction": "Given a list of activities, generate a schedule for completing the activities within one day.",
+  "input": "Wake up, Cooking, Reading, Sleep",
+  "output": "Schedule for the day:\n\n7:00 am: Wake up\n\n7:30 am: Cooking\n\n9:00 am: Reading\n\n11:00 pm: Sleep",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

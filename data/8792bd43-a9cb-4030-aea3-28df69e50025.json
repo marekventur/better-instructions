@@ -1,0 +1,12 @@
+{
+  "id": "8792bd43-a9cb-4030-aea3-28df69e50025",
+  "instruction": "Compare and contrast China's and the U.S.'s approach to regulating internet privacy.",
+  "input": "",
+  "output": "China's approach to regulating internet privacy is much stricter than the U.S.' approach. In China, internet companies are required to follow strict regulatory rules and have to obtain user consent before they can collect and use personal data. Additionally, the Chinese government closely monitors and censors content on the internet. In the U.S., on the other hand, companies may collect and use user data without obtaining direct consent from users, although policies from the Federal Trade Commission guidelines do require companies to provide details about how their data is used. Furthermore, there are no major restrictions on content in the U.S., although there are some laws against certain types of content.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

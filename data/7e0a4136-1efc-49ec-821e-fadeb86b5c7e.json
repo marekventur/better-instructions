@@ -1,0 +1,12 @@
+{
+  "id": "7e0a4136-1efc-49ec-821e-fadeb86b5c7e",
+  "instruction": "Given the provided dataset, find the mean of the variable \"income\".",
+  "input": "Dataset of 500 people with the variable \"income\".",
+  "output": "The mean income is $50,000.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

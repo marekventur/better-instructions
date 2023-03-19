@@ -1,0 +1,12 @@
+{
+  "id": "1af3ec9b-1198-4e7c-b7e5-e102f0cfb8ef",
+  "instruction": "Generate a valid foreign language translation.",
+  "input": "The cat is sleeping",
+  "output": "Le chat dort. (French translation)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

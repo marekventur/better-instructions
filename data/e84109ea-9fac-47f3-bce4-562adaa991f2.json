@@ -1,0 +1,12 @@
+{
+  "id": "e84109ea-9fac-47f3-bce4-562adaa991f2",
+  "instruction": "Construct five queries for a given database.",
+  "input": "Table: Items",
+  "output": "1. SELECT * FROM Items;\n2. SELECT ItemID, ItemName, Price FROM Items;\n3. SELECT ItemName FROM Items WHERE Price > 100;\n4. SELECT * FROM Items WHERE ItemName LIKE '%book%';\n5. UPDATE Items SET Price = 150 WHERE ItemID = 4;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

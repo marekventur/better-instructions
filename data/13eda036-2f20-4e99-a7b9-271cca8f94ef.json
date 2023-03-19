@@ -1,0 +1,12 @@
+{
+  "id": "13eda036-2f20-4e99-a7b9-271cca8f94ef",
+  "instruction": "Classify what type of composition is presented in the given text.",
+  "input": "This is a poem about a young girl's experience of growing up and longing for the freedom of adulthood.",
+  "output": "The text presented is a poem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

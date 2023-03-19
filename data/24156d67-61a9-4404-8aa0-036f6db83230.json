@@ -1,0 +1,12 @@
+{
+  "id": "24156d67-61a9-4404-8aa0-036f6db83230",
+  "instruction": "In this task, you need to convert numbers from words to digits.\nOutput should also be a number, for example \"twelve\" should be output as \"12\".",
+  "input": "forty eight",
+  "output": "48",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

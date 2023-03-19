@@ -1,0 +1,12 @@
+{
+  "id": "63605313-71f6-41e4-b9f7-54fd8980e520",
+  "instruction": "Given two histograms, compare the two and output the details of their differences.",
+  "input": "Histogram 1: \n\n![alt text](https://www.mathsisfun.com/data/images/histogram-example.svg \"Histogram 1\")\n\nHistogram 2:\n\n![alt text](https://www.mathsisfun.com/data/images/histogram-example2.svg \"Histogram 2\")",
+  "output": "The two histograms show different distributions of data. Histogram 1 has a more uniform distribution with more values spread throughout the range, while Histogram 2 shows more extreme values bunched at the left side of the range. Furthermore, Histogram 1 has a higher peak at the center compared to Histogram 2. Therefore, Histogram 1 has a higher central tendency compared to Histogram 2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

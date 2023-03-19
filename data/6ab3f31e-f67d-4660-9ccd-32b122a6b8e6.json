@@ -1,0 +1,12 @@
+{
+  "id": "6ab3f31e-f67d-4660-9ccd-32b122a6b8e6",
+  "instruction": "Write a few questions about the article about India's water crisis.",
+  "input": "Article: India is facing a severe water crisis due to overuse of natural resources and mismanagement of water supply.",
+  "output": "What are the causes of India's water crisis?\nWhat are the effects of the water crisis?\nWhat measures have been taken to address the crisis?\nWhat can be done to prevent further water shortages?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

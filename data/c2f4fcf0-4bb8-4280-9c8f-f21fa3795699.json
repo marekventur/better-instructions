@@ -1,0 +1,12 @@
+{
+  "id": "c2f4fcf0-4bb8-4280-9c8f-f21fa3795699",
+  "instruction": "Come up with additional topics that could be discussed in the given article.",
+  "input": "The article looks into the history of immigration in the U.S.",
+  "output": "- Current immigration policies and their impacts on immigrants in the U.S.\n- Impact of immigration on the job market and economy \n- Stories of immigrants and their experiences \n- Challenges faced by immigration and proposed solutions \n- Impact of immigration on public discourse around the world \n- The changing immigration numbers over the years",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

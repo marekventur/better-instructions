@@ -1,0 +1,12 @@
+{
+  "id": "62630bfb-bbc2-4974-808b-4ac98627edc5",
+  "instruction": "Write a letter introducing yourself as a new hire to your company.",
+  "input": "I am Jane Smith, a newly hired Data Scientist at ABC Inc.",
+  "output": "Dear colleagues, \n\nMy name is Jane Smith and I'm delighted to join ABC Inc. as the newest Data Scientist. As you know, I have a degree in Machine Learning and a passion for data. Throughout my studies, I have developed special skills in analyzing data to identify trends and draw meaningful insights. I'm looking forward to sharing my knowledge and expertise with my team and colleagues. \n\nI'm eager to join the team and start contributing to the success of ABC Inc. I'm sure I can be an asset to our company and I'm excited to learn from all of you.\n\nSincerely, \nJane Smith.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

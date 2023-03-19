@@ -1,0 +1,12 @@
+{
+  "id": "a5d04066-ab7d-4db8-a1be-7a55801edb70",
+  "instruction": "Summarize the primary differences between the US and Canadian health care systems.",
+  "input": "",
+  "output": "The primary differences between the US and Canadian health care systems are the type of coverage offered and the cost of care. In the US, health insurance is largely provided through employer-sponsored plans and private insurance companies, while in Canada, health care is provided by a single-payer government-funded system. Additionally, in the US, citizens are expected to pay for most of their health care costs out of pocket, while in Canada, the government fully covers most health care costs. As a result, health care in the US is much more expensive than in Canada, with citizens in the US spending an average of nearly $10,000 per person per year on health care, compared to less than $4,000 in Canada.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

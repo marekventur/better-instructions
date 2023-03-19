@@ -1,0 +1,12 @@
+{
+  "id": "6f67ef32-157b-4c42-990d-fa173b4ef142",
+  "instruction": "Output the number of vowels in a given sentence",
+  "input": "This is a sentence with multiple vowels",
+  "output": "The sentence has 6 vowels.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

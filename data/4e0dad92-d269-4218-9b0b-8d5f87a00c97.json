@@ -1,0 +1,12 @@
+{
+  "id": "4e0dad92-d269-4218-9b0b-8d5f87a00c97",
+  "instruction": "Classify the given animal into one of these categories: mammal, fish, amphibian, reptile, or bird.",
+  "input": "dog",
+  "output": "Mammal",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

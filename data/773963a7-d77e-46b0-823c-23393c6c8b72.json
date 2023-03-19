@@ -1,0 +1,12 @@
+{
+  "id": "773963a7-d77e-46b0-823c-23393c6c8b72",
+  "instruction": "Provide input to the following instructions to test the GPT model.",
+  "input": "Instruction: Summarise the given article.\nInput:\nHuman intelligence has fascinated scientists who have sought to understand its nature and capabilities for centuries. Advances in technology have enabled us to create powerful AI systems that can learn to perform certain tasks on their own. Recent breakthroughs in machine learning have enabled their application to real-world tasks, such as recognizing objects in images and even automating some aspects of decision-making.",
+  "output": "<noinput> The article discussed the long-standing interest of scientists in human intelligence, and how advances in technology have allowed us to create AI systems that are capable of learning and performing complex tasks, such as image recognition and decision-making. Recent breakthroughs in machine learning have enabled these AI systems to be applied to real-world tasks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

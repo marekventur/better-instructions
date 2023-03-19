@@ -1,0 +1,12 @@
+{
+  "id": "0162170e-a9e9-4e25-96c7-a17b54d861f8",
+  "instruction": "Given a sentences, identify the subject and the object.",
+  "input": "He has been playing soccer every weekend.",
+  "output": "Subject: He\nObject: soccer",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

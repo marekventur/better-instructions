@@ -1,0 +1,12 @@
+{
+  "id": "53822d72-8be3-4a2d-82dc-6543a50bc8a3",
+  "instruction": "Write a function which reverses the order of words in a sentence.",
+  "input": "",
+  "output": "def reverse_words(sentence): \n    words = sentence.split(' ') \n    reversed_words = words[::-1] \n    reversed_sentence = ' '.join(reversed_words) \n    return reversed_sentence",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

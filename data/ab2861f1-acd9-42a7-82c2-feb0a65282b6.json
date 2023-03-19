@@ -1,0 +1,12 @@
+{
+  "id": "ab2861f1-acd9-42a7-82c2-feb0a65282b6",
+  "instruction": "Construct an HTML table to display a list of five languages and their corresponding countries.",
+  "input": "",
+  "output": "<table> \n<tr> \n<td> Language </td> \n<td> Country </td> \n</tr>\n<tr> \n  <td> English </td> \n  <td> United States </td> \n</tr> \n<tr> \n  <td> Spanish </td> \n  <td> Spain </td> \n</tr> \n<tr> \n  <td> French </td> \n  <td> France </td> \n</tr> \n<tr> \n  <td> German </td> \n  <td> Germany </td> \n</tr> \n<tr> \n  <td> Japanese </td> \n  <td> Japan </td> \n</tr> \n</table>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

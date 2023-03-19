@@ -1,0 +1,12 @@
+{
+  "id": "1fbcaf1b-e5e8-4171-bfcb-d60d9f6dfeee",
+  "instruction": "Emphasize one word in this sentence",
+  "input": "He just wanted to be heard",
+  "output": "He just wanted to be HEARD.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

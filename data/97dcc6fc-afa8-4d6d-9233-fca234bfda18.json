@@ -1,0 +1,12 @@
+{
+  "id": "97dcc6fc-afa8-4d6d-9233-fca234bfda18",
+  "instruction": "Find the independent clause (main clause) of a given sentence.",
+  "input": "I went to the store, but it was closed.",
+  "output": "I went to the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a9a395cb-5c42-417e-aff6-3642b30134b6",
+  "instruction": "Convert this temperature in Celsius to Fahrenheit.",
+  "input": "Temparature: 22\u00b0 Celsius",
+  "output": "71.6\u00b0 Fahrenheit",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

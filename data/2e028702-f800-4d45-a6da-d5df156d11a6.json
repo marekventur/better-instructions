@@ -1,0 +1,12 @@
+{
+  "id": "2e028702-f800-4d45-a6da-d5df156d11a6",
+  "instruction": "Describe the philosophy behind the given methodology.",
+  "input": "Agile Methodology",
+  "output": "The Agile Methodology is a project management approach that emphasizes collaboration, flexibility and ongoing improvement. It is based on the idea that teams and individuals should be given the autonomy to create their own solutions and take ownership of their work. The Agile Methodology also promotes an iterative approach, in which teams move quickly from idea to development and learn from their mistakes, making small adjustments along the way. The process is designed to be repeatable and easily adapted, allowing teams to adjust the tasks and techniques based on user feedback. Ultimately, the Agile Methodology allows teams to create innovative products and services that meet the needs of customers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

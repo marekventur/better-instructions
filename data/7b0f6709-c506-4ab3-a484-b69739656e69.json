@@ -1,0 +1,12 @@
+{
+  "id": "7b0f6709-c506-4ab3-a484-b69739656e69",
+  "instruction": "Find the place value of the given digit in the number.",
+  "input": "Number: 3758\nDigit: 7",
+  "output": "The place value of the digit 7 in the number 3758 is hundreds.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

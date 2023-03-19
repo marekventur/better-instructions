@@ -1,0 +1,12 @@
+{
+  "id": "f1e188f0-bf2c-43ae-a98f-019d19d66865",
+  "instruction": "Classify this object into either 'animal' or 'plant'.",
+  "input": "Oak tree",
+  "output": "Plant.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

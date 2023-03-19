@@ -1,0 +1,12 @@
+{
+  "id": "0181c6ca-f941-4bf8-9571-f203a9fff8d7",
+  "instruction": "Generate a code in Python that calculates the square root of any given number.",
+  "input": "",
+  "output": "def square_root(num):\n    return num ** (1/2)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

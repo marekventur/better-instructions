@@ -1,0 +1,12 @@
+{
+  "id": "b09f2934-2dd6-4abe-8de0-76f4f6a6c793",
+  "instruction": "Re-write the sentence to remove wordiness and use better tone.",
+  "input": "We apologize in advance for any inconvenience that this may cause",
+  "output": "We apologize for any inconvenience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

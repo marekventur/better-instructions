@@ -1,0 +1,12 @@
+{
+  "id": "ce5a668c-4cae-46d3-b05c-73d73a108938",
+  "instruction": "Create a chart detailing the monthly rent prices of five different cities.",
+  "input": "",
+  "output": "| City | Rent Price |\n|------|-----------|\n|New York City|$2,215|\n|Los Angeles|$1,768|\n|Chicago|$1,482|\n|Dallas|$1,114|\n|Houston|$1,093|",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

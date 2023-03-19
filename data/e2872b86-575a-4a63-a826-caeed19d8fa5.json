@@ -1,0 +1,12 @@
+{
+  "id": "e2872b86-575a-4a63-a826-caeed19d8fa5",
+  "instruction": "Coach the assistant to classify the following sentence as either \"Positive\" or \"Negative\":\nI love the new product.",
+  "input": "",
+  "output": "Classify the sentence as \"Positive\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

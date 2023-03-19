@@ -1,0 +1,12 @@
+{
+  "id": "b6e2e153-7176-4a62-8da5-8308157ed75f",
+  "instruction": "Explain the operational steps for back-propagation in a neural network.",
+  "input": "",
+  "output": "Back-propagation is an important component of learning in neural networks. The operational steps for back-propagation involve propagating the errors from the output layer back to the input layer, through each of the hidden layers. The error is then used to adjust the weights in the network to reduce error and improve the performance of the model. First, the errors are calculated at the output layer, then back propagated through the network to determine the error at the input layer. Then, the weights of the network are updated using the calculated errors. This process is repeated until the model converges to its optimal state.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

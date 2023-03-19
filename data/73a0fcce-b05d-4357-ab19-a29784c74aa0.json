@@ -1,0 +1,12 @@
+{
+  "id": "73a0fcce-b05d-4357-ab19-a29784c74aa0",
+  "instruction": "Add animations to the following program.",
+  "input": "Menu - \n1. Add\n2. Subtract\n3. Quit",
+  "output": "Menu - \n1. Add  <span class=\"anim-grow\">[+] </span>\n2. Subtract <span class=\"anim-shrink\">[-] </span>\n3. Quit <span class=\"anim-exit\">[X] </span>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

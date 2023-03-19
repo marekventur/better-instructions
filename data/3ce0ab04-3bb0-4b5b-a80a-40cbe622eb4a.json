@@ -1,0 +1,12 @@
+{
+  "id": "3ce0ab04-3bb0-4b5b-a80a-40cbe622eb4a",
+  "instruction": "Identify 5 potential biases in the following sentence.",
+  "input": "\"All women are bad at math.\"",
+  "output": "1. Gender bias \n2. Obvious double standards \n3. Misogyny \n4. Generalization \n5. Stereotyping",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

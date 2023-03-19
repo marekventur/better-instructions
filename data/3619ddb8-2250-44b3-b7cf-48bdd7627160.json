@@ -1,0 +1,12 @@
+{
+  "id": "3619ddb8-2250-44b3-b7cf-48bdd7627160",
+  "instruction": "Pick the sentence that most closely reflects the given opinion",
+  "input": "I prefer to do other activities than shop on the weekends",
+  "output": "I would rather spend my weekends doing recreational activities than shopping.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

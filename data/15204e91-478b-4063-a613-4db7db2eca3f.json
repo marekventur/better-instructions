@@ -1,0 +1,12 @@
+{
+  "id": "15204e91-478b-4063-a613-4db7db2eca3f",
+  "instruction": "Rearrange this sentence to get valid English.",
+  "input": "book reading is my favorite hobby.",
+  "output": "Reading books is my favorite hobby.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

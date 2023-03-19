@@ -1,0 +1,12 @@
+{
+  "id": "f46f7b73-640f-476e-a9c3-05766ca5576d",
+  "instruction": "Given a piece of text, determine the main emotion portrayed.",
+  "input": "He seemed crestfallen after hearing the news.",
+  "output": "Sadness",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

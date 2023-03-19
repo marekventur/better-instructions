@@ -1,0 +1,12 @@
+{
+  "id": "4ac86f4c-7263-4cec-8f11-3e739c67abdd",
+  "instruction": "Identify the misplaced modifier and write the sentence without it.",
+  "input": "The cat sitting on the window was frightened by the thunder.",
+  "output": "The cat on the window was frightened by the thunder.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

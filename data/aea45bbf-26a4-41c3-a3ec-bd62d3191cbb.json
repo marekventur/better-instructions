@@ -1,0 +1,12 @@
+{
+  "id": "aea45bbf-26a4-41c3-a3ec-bd62d3191cbb",
+  "instruction": "Come up with an algorithm for predicting house prices in a given city.",
+  "input": "",
+  "output": "The algorithm should include multiple factors such as location, size and number of rooms, local amenities, as well as supply and demand in the area. Additionally, it should also take into account historical housing trends, economic conditions, and any external events that may affect real estate values. The data should be analyzed by the algorithm to generate an accurate prediction of house prices in a given city.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

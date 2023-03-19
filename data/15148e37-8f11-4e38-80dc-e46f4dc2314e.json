@@ -1,0 +1,12 @@
+{
+  "id": "15148e37-8f11-4e38-80dc-e46f4dc2314e",
+  "instruction": "Place the given phrases in the correct order to form a sentence.",
+  "input": "It not is on job the that difficult.",
+  "output": "It is not difficult that job on the.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

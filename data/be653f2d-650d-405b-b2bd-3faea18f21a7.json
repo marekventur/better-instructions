@@ -1,0 +1,12 @@
+{
+  "id": "be653f2d-650d-405b-b2bd-3faea18f21a7",
+  "instruction": "Detect if the sentence indicates positive sentiment or negative sentiment.",
+  "input": "I'm feeling exhausted lately.",
+  "output": "negative sentiment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

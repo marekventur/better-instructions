@@ -1,0 +1,12 @@
+{
+  "id": "7c2238e0-cc07-4d9b-af43-df3fb609b14c",
+  "instruction": "Given a list of two or more colors, generate a sentence to describe the colors.",
+  "input": "Turquoise and orange",
+  "output": "The bright turquoise and vibrant orange colors create a cheerful and uplifting ambiance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

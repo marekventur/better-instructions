@@ -1,0 +1,12 @@
+{
+  "id": "1ce41875-a8fd-442d-9ac1-ec6a2de9da7a",
+  "instruction": "Given a customer complaint, provide customer service resolutions.",
+  "input": "I haven't received my package after I placed an order a week ago.",
+  "output": "We apologize for the inconvenience. Let's try reaching out to the shipping carrier to get more information.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "24e56736-c29f-4fd3-9b45-084c381a5c86",
+  "instruction": "Indicate the associated energy level of each reactant below:",
+  "input": "H2 + O2",
+  "output": "H2 - Low energy, O2 - High energy",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

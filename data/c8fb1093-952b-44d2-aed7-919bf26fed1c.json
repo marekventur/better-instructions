@@ -1,0 +1,12 @@
+{
+  "id": "c8fb1093-952b-44d2-aed7-919bf26fed1c",
+  "instruction": "Given a scenario, come up with a few questions to ask the relevant parties.",
+  "input": "Your friend is thinking of starting his own business.",
+  "output": "- What do you envision the product or service to be?\n- What have you done to research the viability of the venture? \n- Have you considered the startup and operational costs?\n- What kind of timeline are you anticipating for the business? \n- How will you handle the marketing and promotion of the business?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

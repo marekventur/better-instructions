@@ -1,0 +1,12 @@
+{
+  "id": "bea79fab-4314-4a47-b56d-cc304875c7f0",
+  "instruction": "What is a PHP superglobal variable?",
+  "input": "",
+  "output": "A PHP superglobal variable is a variable that is available in all scopes and is automatically created by PHP to store specific information. These variables are prefixed with \"$_\" and contain information such as the current file name, get and post requests, session information, and environment variables.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

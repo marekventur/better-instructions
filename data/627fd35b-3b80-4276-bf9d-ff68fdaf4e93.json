@@ -1,0 +1,12 @@
+{
+  "id": "627fd35b-3b80-4276-bf9d-ff68fdaf4e93",
+  "instruction": "What is the difference between a regular expression (RegEx) and a wildcard using in programming language?",
+  "input": "",
+  "output": "Regular expressions are a sequence of characters used to match a pattern in a string. They are used to validate and extract information from a string, while wildcards are special characters that represent multiple characters. Wildcards are used in commands and programs to match a group of related characters and can be used to access files and directories in the Operating System.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

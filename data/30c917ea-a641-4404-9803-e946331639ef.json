@@ -1,0 +1,12 @@
+{
+  "id": "30c917ea-a641-4404-9803-e946331639ef",
+  "instruction": "Create a complex sentence using the provided simple sentence and coordinating conjunction.",
+  "input": "He was tired. But",
+  "output": "He was tired, but he kept working.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

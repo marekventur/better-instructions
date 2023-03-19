@@ -1,0 +1,12 @@
+{
+  "id": "80539e94-8ebe-4471-982e-2c18a5955cfb",
+  "instruction": "Describe how to model a curve in linear regression.",
+  "input": "",
+  "output": "Modelling a curve in linear regression involves including higher order terms in your model which are functions of the independent variables. These higher order terms represent the curvature of the underlying data, and can be added sequentially until an acceptable fit to the data is achieved. This can be done by adding in powers of the independent variables, such as including x^2 and x^3, or by using other curve fitting techniques such as polynomial regression.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "569736d0-0696-4406-be35-e1ae1b2c937e",
+  "instruction": "Convert this 6-digit hexcode to a RGB value.",
+  "input": "\"A11F19\"",
+  "output": "The hexcode \"A11F19\" is equivalent to a RGB value of 161, 31, and 25.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

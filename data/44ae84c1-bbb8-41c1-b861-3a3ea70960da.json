@@ -1,0 +1,12 @@
+{
+  "id": "44ae84c1-bbb8-41c1-b861-3a3ea70960da",
+  "instruction": "Write a detailed introduction to the subject of machine learning.",
+  "input": "",
+  "output": "Machine learning is a branch of artificial intelligence (AI) that enables computers, systems, and programs to learn and improve from experience without being explicitly programmed. It involves using algorithms that can analyze data and make predictions and decisions by recognizing patterns in complex data sets. The goal of machine learning is to develop algorithms and models that can learn from data, identify patterns in the data, and make decisions and predictions based on what has been learned. Machine learning algorithms can be trained on a variety of data types, from text to images and from audio to video, and can be used in many different applications, including medical diagnosis, autonomous vehicles, stock market prediction, fraud detection, and natural language processing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

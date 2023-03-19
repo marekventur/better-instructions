@@ -1,0 +1,12 @@
+{
+  "id": "067266c8-cb42-4779-bbc5-63a817911186",
+  "instruction": "Edit the following sentence for clarity:\n\n\"A species of mammal is one that has warm blood and gives birth to live young\"",
+  "input": "A species of mammal is one that has warm blood and gives birth to live young",
+  "output": "A species of mammal is one that has warm-blooded young, which are born alive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

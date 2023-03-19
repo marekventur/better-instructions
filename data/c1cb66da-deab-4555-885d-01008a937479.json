@@ -1,0 +1,12 @@
+{
+  "id": "c1cb66da-deab-4555-885d-01008a937479",
+  "instruction": "Analyze this text and classify it as opinion, fact or fallacy.",
+  "input": "Having more money will make you happier.",
+  "output": "Opinion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

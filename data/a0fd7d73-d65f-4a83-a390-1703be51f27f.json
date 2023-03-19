@@ -1,0 +1,12 @@
+{
+  "id": "a0fd7d73-d65f-4a83-a390-1703be51f27f",
+  "instruction": "Describe a smart contract.",
+  "input": "",
+  "output": "A smart contract is a self-executing contract that facilitates, verifies, and enforces the terms of an agreement, without the need for a third-party intermediary. Unlike traditional contracts, smart contracts are stored and executed on distributed ledger technology such as blockchain and are typically programmed in a high-level language like Solidity. Smart contracts can be used for a variety of applications, such as automating payments, exchanging assets, building trust and reputation systems, executing legal processes, and more.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

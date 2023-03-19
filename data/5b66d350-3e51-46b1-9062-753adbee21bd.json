@@ -1,0 +1,12 @@
+{
+  "id": "5b66d350-3e51-46b1-9062-753adbee21bd",
+  "instruction": "Take an existing sentence and insert an appropriate adverb to give more information about the action expressed by the verb in the sentence",
+  "input": "The firefighters ran bravely into the burning building.",
+  "output": "The firefighters bravely ran desperately into the burning building.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

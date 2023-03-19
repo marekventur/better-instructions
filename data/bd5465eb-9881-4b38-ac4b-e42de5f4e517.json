@@ -1,0 +1,12 @@
+{
+  "id": "bd5465eb-9881-4b38-ac4b-e42de5f4e517",
+  "instruction": "Use the information provided to generate a website screenshot.",
+  "input": "Website URL: https://github.com/",
+  "output": "[screenshot of Github website]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

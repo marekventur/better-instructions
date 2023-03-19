@@ -1,0 +1,12 @@
+{
+  "id": "3af1f63a-ad42-402c-9282-5a86bf53de8f",
+  "instruction": "Generate a list of potential tourist attractions for a city.",
+  "input": "New York City",
+  "output": "Potential tourist attractions in New York City include the Statue of Liberty, Empire State Building, Central Park, Times Square, Brooklyn Bridge, Rockefeller Center, Metropolitan Museum of Art, 9/11 Memorial and Museum, Chrysler Building, American Museum of Natural History, Broadway, High Line, and Smithsonian Museum of the American Indian.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

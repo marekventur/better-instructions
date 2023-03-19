@@ -1,0 +1,12 @@
+{
+  "id": "a9067237-a4c0-4688-b3ca-01bd3f4ea079",
+  "instruction": "Rearrange this list of words and punctuation into a meaningful sentence.",
+  "input": "over, the, challenges, solved, can, AI",
+  "output": "AI can solve the challenges over.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

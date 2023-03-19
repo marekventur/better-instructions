@@ -1,0 +1,12 @@
+{
+  "id": "565416b3-945a-434a-aa04-cd1581c99506",
+  "instruction": "Classify the following emotion.",
+  "input": "He was filled with dread.",
+  "output": "Fear",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

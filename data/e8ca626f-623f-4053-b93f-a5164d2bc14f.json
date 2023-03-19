@@ -1,0 +1,12 @@
+{
+  "id": "e8ca626f-623f-4053-b93f-a5164d2bc14f",
+  "instruction": "Formulate a hypothesis about the given data.",
+  "input": "Data showing the average score of students in different classes.",
+  "output": "Hypothesis: The average score of students in the classes with more experienced teachers is higher than the average score of students in the classes with less experienced teachers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bbee843b-81af-40b9-b4b7-020fe9834b9b",
+  "instruction": "Insert a comma in the appropriate places to make it a valid sentence",
+  "input": "He is a brave intelligent honest person",
+  "output": "He is a brave, intelligent, honest person.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

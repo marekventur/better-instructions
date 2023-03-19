@@ -1,0 +1,12 @@
+{
+  "id": "7d377d5c-0117-4626-8483-2a1d0e5c693c",
+  "instruction": "Rewrite the sentence in the passive voice.",
+  "input": "She found the lost key.",
+  "output": "The lost key was found by her.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

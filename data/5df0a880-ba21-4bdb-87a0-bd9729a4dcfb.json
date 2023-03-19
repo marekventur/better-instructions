@@ -1,0 +1,12 @@
+{
+  "id": "5df0a880-ba21-4bdb-87a0-bd9729a4dcfb",
+  "instruction": "Describe a use case for artificial intelligence in healthcare.",
+  "input": "",
+  "output": "One use case for artificial intelligence in healthcare is AI-assisted diagnoses. AI algorithms can be trained to detect certain health problems by analyzing medical images and data, such as MRI scans and genetic sequencing. This can help speed up the diagnosis process and also provide doctors with more accurate and comprehensive results. In addition, AI can also be used to help personalize treatments, by using data to predict how well a particular treatment will work for a particular patient. Furthermore, AI can also be used to automate mundane tasks, such as processing patient records and tracking patient treatments. This increases efficiency in the healthcare system and frees up resources for more high-value activities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

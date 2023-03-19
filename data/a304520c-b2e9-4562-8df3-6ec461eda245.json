@@ -1,0 +1,12 @@
+{
+  "id": "a304520c-b2e9-4562-8df3-6ec461eda245",
+  "instruction": "Fetch the last record from a table called 'Employees'",
+  "input": "",
+  "output": "SELECT * FROM `Employees` ORDER BY `id` DESC LIMIT 1;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

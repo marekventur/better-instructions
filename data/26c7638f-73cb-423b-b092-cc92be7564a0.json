@@ -1,0 +1,12 @@
+{
+  "id": "26c7638f-73cb-423b-b092-cc92be7564a0",
+  "instruction": "Group the following items based on given criteria.",
+  "input": "Apple, Banana, Orange, Carrot\nCriteria: Types of Fruit",
+  "output": "Apple, Banana and Orange are all types of fruit. Carrot is not a type of fruit.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

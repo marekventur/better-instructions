@@ -1,0 +1,12 @@
+{
+  "id": "bd01cebd-500b-411d-8755-2c8b3a9012b6",
+  "instruction": "Generate a descriptive report about this input",
+  "input": "A video clip shows a man jumping off a bridge",
+  "output": "The video clip depicts a man making a daring leap off a bridge into the river below. His body is in midair, and the water is a deep shade of blue. His facial expression reveals a combination of excitement and apprehension. The scene is framed by the bridge railing, the vast sky above, and the quiet river below. It is a dramatic moment that is sure to be remembered for a long time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

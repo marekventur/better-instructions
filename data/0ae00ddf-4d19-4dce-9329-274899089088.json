@@ -1,0 +1,12 @@
+{
+  "id": "0ae00ddf-4d19-4dce-9329-274899089088",
+  "instruction": "Search for examples of regular and irregular verbs in the given sentence.",
+  "input": "She jumps around the room.",
+  "output": "Regular verb: jumps\nIrregular verb: around",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

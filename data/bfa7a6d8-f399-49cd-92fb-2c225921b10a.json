@@ -1,0 +1,12 @@
+{
+  "id": "bfa7a6d8-f399-49cd-92fb-2c225921b10a",
+  "instruction": "Parse the following natural language query into a SQL query.",
+  "input": "What are the names of the instructors teaching in the \u2018CS\u2019 department?\n\nGiven two tables: instructor, department",
+  "output": "SELECT i.Name FROM instructor i JOIN department d ON i.dept_name = d.name WHERE d.name = 'CS'",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

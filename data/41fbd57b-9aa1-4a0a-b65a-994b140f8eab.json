@@ -1,0 +1,12 @@
+{
+  "id": "41fbd57b-9aa1-4a0a-b65a-994b140f8eab",
+  "instruction": "Compute the surface area of a hexagonal prism.",
+  "input": "lateral_edge = 10\nheight = 6",
+  "output": "def calculate_surface_area(lateral_edge, height):\n    \"\"\" Calculates the surface area of a hexagonal prism.\n\n    :param lateral_edge: The length of the lateral edge in cm, an integer\n    :param height: The height of the prism in cm, an integer\n    :return: The surface area of the hexagonal prism in cm2, an integer\n    \"\"\"\n    return 3 * lateral_edge**2 + 3 * height * lateral_edge + (3 * (3**0.5)/2) * lateral_edge**2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

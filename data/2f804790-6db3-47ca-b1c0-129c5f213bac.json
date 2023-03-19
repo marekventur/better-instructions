@@ -1,0 +1,12 @@
+{
+  "id": "2f804790-6db3-47ca-b1c0-129c5f213bac",
+  "instruction": "Given two pieces of text, select one of two types of transition words (addition or comparison) in order to connect them.",
+  "input": "Her eyes sparkled. Her smile was contagious.",
+  "output": "Her eyes sparkled, and her smile was contagious.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

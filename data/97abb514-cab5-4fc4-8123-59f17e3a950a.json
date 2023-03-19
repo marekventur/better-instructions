@@ -1,0 +1,12 @@
+{
+  "id": "97abb514-cab5-4fc4-8123-59f17e3a950a",
+  "instruction": "Describe the main difference between an Ann and a CNN",
+  "input": "",
+  "output": "The main difference between an Artificial Neural Network (ANN) and a Convolutional Neural Network (CNN) is that an ANN is a basic feed-forward neural network with a set of input and output layers, while a CNN is a type of neural network that is typically used for image- or video-based applications. Counvolutional Neural Networks use convolutional layers to extract features from data, allowing for more efficient and effective feature extraction and image recognition.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

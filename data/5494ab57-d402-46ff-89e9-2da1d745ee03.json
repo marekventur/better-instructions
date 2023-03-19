@@ -1,0 +1,12 @@
+{
+  "id": "5494ab57-d402-46ff-89e9-2da1d745ee03",
+  "instruction": "How would you describe the following food dish?",
+  "input": "![alt text](https://images.unsplash.com/photo-1597454021291-2039c513b1aa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1054&q=80)",
+  "output": "This dish is made of a variety of vegetables, including carrots, red onions, bell peppers, and eggplant. The vegetables are cooked until tender with a light glaze of olive oil, garlic, and oregano. Served over a bed of couscous, this dish is sure to delight any palate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

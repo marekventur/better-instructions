@@ -1,0 +1,12 @@
+{
+  "id": "6e86d687-3c12-4ccf-bfe5-411c43d1b109",
+  "instruction": "Given the following sentence, generate two sentence variations that maintain the same meaning.",
+  "input": "He is a talented musician.",
+  "output": "He has a knack for music.\nHe is musically gifted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bab1fdce-4120-4a0b-a6fd-a2f16234993c",
+  "instruction": "Given two strings, write a program to check if one is a permutation of the other.",
+  "input": "String one: abcd\nString two: cdab",
+  "output": "Yes, string two is a permutation of string one.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

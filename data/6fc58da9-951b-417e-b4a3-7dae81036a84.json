@@ -1,0 +1,12 @@
+{
+  "id": "6fc58da9-951b-417e-b4a3-7dae81036a84",
+  "instruction": "In the following sentence, change the adjective to a different degree.",
+  "input": "This is fairly easy.",
+  "output": "This is quite easy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

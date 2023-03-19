@@ -1,0 +1,12 @@
+{
+  "id": "8e79a71b-c004-49c6-8c03-ae8c16b5195e",
+  "instruction": "Analyze the given sentence for its figurative language.",
+  "input": "The bird was singing its heart out.",
+  "output": "The sentence uses metaphor to illustrate the intensity of the bird's singing.  The phrase \"singing its heart out\" means singing with a lot of energy and emotion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

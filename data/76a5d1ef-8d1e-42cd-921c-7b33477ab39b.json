@@ -1,0 +1,12 @@
+{
+  "id": "76a5d1ef-8d1e-42cd-921c-7b33477ab39b",
+  "instruction": "Reinterpret a given statement in a different and valid way.",
+  "input": "It is wrong to hit someone.",
+  "output": "You should avoid physical contact with someone else.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

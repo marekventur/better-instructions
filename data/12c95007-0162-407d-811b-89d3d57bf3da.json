@@ -1,0 +1,12 @@
+{
+  "id": "12c95007-0162-407d-811b-89d3d57bf3da",
+  "instruction": "Given the following input, how would you automate the task?",
+  "input": "Change addresses for all employees",
+  "output": "The task can be automated by creating a script to go through the list of employees and editing their address information in the database. The script would need to take into account any customer records related to the employee and make sure to update them accordingly. Additionally, the script should include a validation step to ensure that all changes are properly executed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

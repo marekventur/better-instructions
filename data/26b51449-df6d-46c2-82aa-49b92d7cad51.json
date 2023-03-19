@@ -1,0 +1,12 @@
+{
+  "id": "26b51449-df6d-46c2-82aa-49b92d7cad51",
+  "instruction": "Create a story arc that introduces a character given a short description. You may provide more details and events.",
+  "input": "A 5-year-old boy who loves to ask questions but hates following rules",
+  "output": "Once there was a 5-year-old boy named Alex who had an insatiable curiosity. He was always asking questions, and rarely followed the rules. \n\nThis quality often got him into trouble with his parents, teachers, and even the librarian at the library. He was always asking why this happened or what would happen if he tried something different. \n\nOne day, his curiosity got the better of him, and he started to wander away from home. He stumbled into an old temple in the forest, and suddenly something magical happened. There was a strange glowing object in the middle of the temple, which spoke to him and gave him a magical gift.\n\nThe gift was the ability to ask questions and get the answers he desired. With this newfound power, he started to explore the world around him, and help others with his newfound power. He used his newfound knowledge to help people with their questions and problems, becoming an invaluable resource in the community.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

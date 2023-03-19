@@ -1,0 +1,12 @@
+{
+  "id": "0f788397-95f1-49dc-9d62-bed85160fa38",
+  "instruction": "Create a for loop for the given list of items",
+  "input": "list = [\u201ca\u201d, \u201cb\u201d, \u201cc\u201d]",
+  "output": "for item in list:\n    print(item)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a090e0f5-ee56-4e53-8d3e-e7cf2762e3c1",
+  "instruction": "Tell me the answer to this math problem",
+  "input": "6 + 8",
+  "output": "The answer to 6 + 8 is 14.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

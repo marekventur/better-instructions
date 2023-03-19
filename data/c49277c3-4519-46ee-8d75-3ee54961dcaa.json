@@ -1,0 +1,12 @@
+{
+  "id": "c49277c3-4519-46ee-8d75-3ee54961dcaa",
+  "instruction": "Divide a party of 10 into two even teams.",
+  "input": "Rohan, Sarah, Jane, Richard, Chloe, Mark, Lily, Harry, Olivia, and Sam",
+  "output": "Team 1: Rohan, Sarah, Richard, Mark, Lily, Harry,\nTeam 2: Jane, Chloe, Olivia, Sam",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

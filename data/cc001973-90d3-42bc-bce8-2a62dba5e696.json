@@ -1,0 +1,12 @@
+{
+  "id": "cc001973-90d3-42bc-bce8-2a62dba5e696",
+  "instruction": "Explain the concept of template matching",
+  "input": "",
+  "output": "Template matching is the process of searching an image to find a given pattern, usually with the aim of determining whether the pattern matches the expected template. It relies on the comparison of adjacent pixels in an image to determine areas that match the given pattern. It is commonly used for facial recognition, document analysis, and speech recognition.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

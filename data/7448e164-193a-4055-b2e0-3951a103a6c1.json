@@ -1,0 +1,12 @@
+{
+  "id": "7448e164-193a-4055-b2e0-3951a103a6c1",
+  "instruction": "Generate a Python program to print the sum of first 25 natural numbers",
+  "input": "",
+  "output": "sum = 0\nfor i in range(1,26):\n  sum = sum + i\n\nprint(\"The sum of the first 25 natural numbers is:\", sum)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1edb71b9-b3fb-471b-9d99-e50bd527f278",
+  "instruction": "Construct a visual representation of the following two equations.",
+  "input": "x + 2y = 6\n3x - 4y = 4",
+  "output": "The visual representation of the equations would be a graph with x-axis and y-axis, representing the x and y variables respectively. There would be two lines: one representing the equation x + 2y = 6 and the other representing the equation 3x - 4y = 4. The two lines intersect at the point (2,1) which is the solution for the system.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bd9bff18-b4da-4398-ab10-e871259ac91c",
+  "instruction": "Edit the following sentence to make it more concise: \"She thought that it might be a good idea to purchase a new couch but she wasn't sure if it was a wise decision.\"",
+  "input": "\"She thought that it might be a good idea to purchase a new couch but she wasn't sure if it was a wise decision.\"",
+  "output": "She considered buying a new couch, unsure if it was wise.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

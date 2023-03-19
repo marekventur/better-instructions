@@ -1,0 +1,12 @@
+{
+  "id": "f511aca8-c3d5-4e4b-bdbe-1347ee79d409",
+  "instruction": "Read the sentence and modify it by making it more precise.",
+  "input": "The government will help support small businesses.",
+  "output": "The government will provide financial support to small businesses to help them stay afloat.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

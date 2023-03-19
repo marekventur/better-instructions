@@ -1,0 +1,12 @@
+{
+  "id": "bef68bee-22b5-4c77-8d65-deb330d085c2",
+  "instruction": "Generate a new sentence that includes the given adjective in its comparative form.",
+  "input": "Tough",
+  "output": "Nothing is tougher than the diamond.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

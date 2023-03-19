@@ -1,0 +1,12 @@
+{
+  "id": "fa02fbfe-8f7c-46d3-abb3-ffbd45e259ba",
+  "instruction": "What is the issue in the given passage ?",
+  "input": "Air pollution is the primary cause of a growing public health crisis in the United States. Some of the most commonly found pollutants include ozone, nitrogen dioxide and particulate matter. These pollutants have been linked to serious health conditions, including asthma and emphysema.",
+  "output": "The issue in the given passage is air pollution and the health consequences it can cause.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

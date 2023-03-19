@@ -1,0 +1,12 @@
+{
+  "id": "3d8e94c8-d87f-44ce-b461-8e9ad3a24868",
+  "instruction": "Take a message and make it briefer while preserving the same meaning.",
+  "input": "I think it's important to check in on the project progress every two weeks.",
+  "output": "Check in on project progress every two weeks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

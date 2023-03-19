@@ -1,0 +1,12 @@
+{
+  "id": "e1e80468-6596-4dfc-8bbf-eb25da33e4dc",
+  "instruction": "Write a function to convert a year from Gregorian calendar to Mayan calendar",
+  "input": "",
+  "output": "def mayan_calendar(year):\n    base_date = 1518 #representation of Dec 21, 2012 in Gregorian calendar\n    days_in_year = 365 #days in a year\n    cycles_in_year = 5 #Mayan calendar has 5 cycles of 260 days per year\n    diff = year - base_date \n    mayan_year = diff*cycles_in_year\n    return mayan_year",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

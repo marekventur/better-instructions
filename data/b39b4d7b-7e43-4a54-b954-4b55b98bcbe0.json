@@ -1,0 +1,12 @@
+{
+  "id": "b39b4d7b-7e43-4a54-b954-4b55b98bcbe0",
+  "instruction": "Please state a conclusion that can be derived from the given statement.",
+  "input": "The number of citizens in the city has increased significantly in the last two years.",
+  "output": "The population of the city has grown rapidly in recent years.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

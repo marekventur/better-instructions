@@ -1,0 +1,12 @@
+{
+  "id": "bd28535b-24b4-4369-be12-47e480202aef",
+  "instruction": "Compare and contrast a relational database and a non-relational database.",
+  "input": "",
+  "output": "A relational database stores data in tables that are related or linked to each other. This structure enables the data to be easily accessed and updated. A non-relational database on the other hand stores data in a more flexible, unstructured way. This flexibility allows the data to be more easily scaled and adapted to changing needs. Relational databases offer better data reliability and security, while non-relational databases offer better scalability and flexibility.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

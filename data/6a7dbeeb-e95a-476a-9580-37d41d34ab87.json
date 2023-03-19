@@ -1,0 +1,12 @@
+{
+  "id": "6a7dbeeb-e95a-476a-9580-37d41d34ab87",
+  "instruction": "Identify the topic for the given paragraph of text.",
+  "input": "In the United States, many people celebrate Thanksgiving Day on the fourth Thursday of November. It is a time to give thanks for the blessing of the harvest and of the preceding year.",
+  "output": "The topic of the given paragraph is Thanksgiving Day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

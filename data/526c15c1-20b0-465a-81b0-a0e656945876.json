@@ -1,0 +1,12 @@
+{
+  "id": "526c15c1-20b0-465a-81b0-a0e656945876",
+  "instruction": "Architact a machine learning algorithm to solve the following problem",
+  "input": "Predict the stock market prices",
+  "output": "A suitable machine learning algorithm to solve this problem could be a supervised learning algorithm like Linear Regression, Random Forests, or Support Vector Machines. The input data could include historical stock prices, market trends, and other relevant financial indicators. The algorithm should then be trained on this data so that it can accurately predict stock prices.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

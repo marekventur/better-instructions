@@ -1,0 +1,12 @@
+{
+  "id": "f1edbb85-d8f9-4aa1-9b8d-e74536dd4ff4",
+  "instruction": "Identify the sentence structure and output the appropriate label.",
+  "input": "He answered the questions quickly.",
+  "output": "Simple Sentence",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2ce220dd-2ef3-4c51-941f-0c980bf126e2",
+  "instruction": "Sort the following paper topics from least to most controversial",
+  "input": "- The Advantages of Single-Sex Education\n- Whether Video Games Promote Violence\n- The Benefits of Vaccinating Children",
+  "output": "1. The Advantages of Single-Sex Education\n2. The Benefits of Vaccinating Children\n3. Whether Video Games Promote Violence",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

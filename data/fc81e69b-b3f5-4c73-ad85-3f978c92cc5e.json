@@ -1,0 +1,12 @@
+{
+  "id": "fc81e69b-b3f5-4c73-ad85-3f978c92cc5e",
+  "instruction": "Refactor the following code to optimize it for speed and ease of use.",
+  "input": "def check_prime(num):\n    for n in range(2, num):\n        if num % n == 0:\n            return False\n    return True",
+  "output": "def check_prime(num):\n    if num < 2:\n        return False\n\n    # check only odd numbers\n    if num % 2 == 0:\n        return False\n    \n    for n in range(3, int(num**0.5)+1, 2):\n        if num % n == 0:\n            return False\n    return True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

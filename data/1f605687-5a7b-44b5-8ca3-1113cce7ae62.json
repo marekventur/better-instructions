@@ -1,0 +1,12 @@
+{
+  "id": "1f605687-5a7b-44b5-8ca3-1113cce7ae62",
+  "instruction": "Given the following pieces of data, diagnose and classify the condition.",
+  "input": "- Patient is experiencing a sharp pain in the shoulder\n- Patient reports difficulty in arm movement",
+  "output": "The patient is likely experiencing Pain and dysfunction in the shoulder, which is a type of shoulder impingement syndrome.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "052ffe4a-9aa4-47f4-95dd-33db35852a66",
+  "instruction": "Rewrite the following sentence so that it is in future perfect tense and includes the given word.",
+  "input": "Word: accomplished\nSentence: He will have accomplished the task by tomorrow.",
+  "output": "He will have accomplished the task by tomorrow night.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

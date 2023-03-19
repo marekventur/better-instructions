@@ -1,0 +1,12 @@
+{
+  "id": "bd3c485b-f01e-4a74-a7a4-7be221558671",
+  "instruction": "Determine the order of magnitude of the given number",
+  "input": "Number: 1234",
+  "output": "The order of magnitude of 1234 is 3.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

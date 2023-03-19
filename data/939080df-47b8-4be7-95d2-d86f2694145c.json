@@ -1,0 +1,12 @@
+{
+  "id": "939080df-47b8-4be7-95d2-d86f2694145c",
+  "instruction": "Guess the number in the given range.",
+  "input": "1-10",
+  "output": "I guess the number is 8.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

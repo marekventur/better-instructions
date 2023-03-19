@@ -1,0 +1,12 @@
+{
+  "id": "ddeca8bd-fd47-4ce3-98b8-87984c52632f",
+  "instruction": "Generate a classification-based question about the following product.",
+  "input": "Product: Smartphone",
+  "output": "What type of smartphone do you prefer: iOS, Android, or another operating system?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

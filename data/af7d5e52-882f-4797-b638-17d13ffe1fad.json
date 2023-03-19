@@ -1,0 +1,12 @@
+{
+  "id": "af7d5e52-882f-4797-b638-17d13ffe1fad",
+  "instruction": "Design a product given the specific requirements.",
+  "input": "Product: Smartwatch \nRequirements: \n- Low cost \n- Easy to use \n- High battery life",
+  "output": "A smartwatch designed for low cost, easy use and high battery life should have a simple, stylish design. The body of the watch should be lightweight and feature a display that is easy to see in daylight. The buttons should be clearly labeled, intuitive and easy to press. To maximize battery life, the watch should feature a battery-saving mode for when it is not in use. The watch should also be compatible with the most popular smart phone models and support wireless connection. The watch should use a proprietary operating system designed for ease of use, with features such as a step tracker and alarms.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0d7f9bb1-dc52-4092-9f47-faa915ab25a5",
+  "instruction": "Given the following two segments of text, find the differences.",
+  "input": "Text 1: She went to the store\nText 2: She walked to the store",
+  "output": "The difference between the two segments is that the first one states \"She went to the store\", while the second one states \"She walked to the store\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

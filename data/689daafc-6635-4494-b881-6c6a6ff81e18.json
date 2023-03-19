@@ -1,0 +1,12 @@
+{
+  "id": "689daafc-6635-4494-b881-6c6a6ff81e18",
+  "instruction": "Create a new variable that contains the value of variable1 multiplied by variable2.",
+  "input": "variable1 = 5\nvariable2 = 10",
+  "output": "new_variable = 50",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

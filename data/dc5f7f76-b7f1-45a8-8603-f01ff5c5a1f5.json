@@ -1,0 +1,12 @@
+{
+  "id": "dc5f7f76-b7f1-45a8-8603-f01ff5c5a1f5",
+  "instruction": "Generate a two-player game that can be played with paper and pencil.",
+  "input": "",
+  "output": "Fractured Fingers is a two-player game that can be played with paper and pencil. The players draw a grid of squares on the paper, mark each of the squares with a number, and then take turns assigning letters to each square. If a player completes a horizontal, vertical or diagonal line of four letters, then they score winning points. The first player to reach five winning points is the winner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2afbe68b-1df6-4850-9019-f7804c264400",
+  "instruction": "Verify that the statement is true or false.",
+  "input": "Fungi are multicellular organisms.",
+  "output": "False",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "edea8836-7f99-4d53-95a9-bd8b56162643",
+  "instruction": "Given a list of ingredients, suggest one way to cook the dish.",
+  "input": "Beef, cabbage, carrots, potatoes",
+  "output": "Make a beef and cabbage stew with carrots and potatoes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

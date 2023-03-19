@@ -1,0 +1,12 @@
+{
+  "id": "8310c5f5-85c0-4e2d-a6c4-e1b34f0a8ce4",
+  "instruction": "Suggest five activities that would make the given country attractive for potential tourists.",
+  "input": "Australia",
+  "output": "- Explore the Great Barrier Reef\n- Visit the Uluru (Ayers Rock)\n- Take a nature walk in the Daintree Rainforest\n- Make a trip down to the Great Ocean Road\n- Go on a wine tour in the Barossa Valley",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d2684d84-c2c4-4fc7-b82b-42734f9c7d39",
+  "instruction": "Analyze the article and answer what the author is trying to argue",
+  "input": "The article \u201cThe Dark Side of Consuming Too Much Social Media\u201d discuss the negative consequences of overuse of social media.",
+  "output": "The author is arguing that overuse of social media can lead to serious adverse effects for individuals. These effects range from increased risk of depression or anxiety, to decreased attention spans and impaired cognitive capabilities. The author warns of the potential harms of spending too much time on social media, especially for teens and young adults.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f2d6bdaf-86ac-43a7-a68c-8219316e9aa5",
+  "instruction": "Compose an email to your boss informing him that you are taking a sick leave today.",
+  "input": "",
+  "output": "Dear [Boss Name],\n\nI am emailing to inform you that I am taking a sick leave today. I am feeling under the weather and am not in a condition to come to the office. I promise to make up the work when I return.\n\nThank you for understanding.\n\n[Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

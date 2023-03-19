@@ -1,0 +1,12 @@
+{
+  "id": "cbb7a220-40b9-4d5e-8a68-9d57c13c8ced",
+  "instruction": "Generate a valid HTML page given the following content.",
+  "input": "Header: Welcome to My Website\nContent: \nThis is my website where I feature my photography work. I hope you enjoy looking through my portfolio!",
+  "output": "<!DOCTYPE html>\n<html>\n   <head>\n      <title>Welcome to My Website</title>\n   </head>\n   <body>\n      <h1>Welcome to My Website</h1>\n      <p>This is my website where I feature my photography work. I hope you enjoy looking through my portfolio!</p>\n   </body>\n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

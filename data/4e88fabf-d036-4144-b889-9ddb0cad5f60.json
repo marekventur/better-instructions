@@ -1,0 +1,12 @@
+{
+  "id": "4e88fabf-d036-4144-b889-9ddb0cad5f60",
+  "instruction": "Formulate a set of instructions to help a user setup a virtual machine.",
+  "input": "",
+  "output": "Instructions for setting up a virtual machine: \n1. Download and install the appropriate software for the virtual machine. \n2. Specify the number of CPUs and the amount of RAM you need. \n3. Configure the virtual machine with the necessary operating system and applications.\n4. Set up the network connections such as the IP address and subnet mask. \n5. Configure the security settings of the virtual machine. \n6. Test the virtual machine by running a series of tests. \n7. Once the tests are completed, the virtual machine is ready to be used.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

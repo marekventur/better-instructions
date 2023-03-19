@@ -1,0 +1,12 @@
+{
+  "id": "f6f0a15d-b891-4cfa-8fbc-f2a380b41f15",
+  "instruction": "Generate a unique email subject for the following message.",
+  "input": "Dear [Name], \n\nThis is a reminder that our Customer Advisory meeting is tomorrow at 9am. \n\nPlease prepare any questions you have for the meeting in advance.\n\nThank you,\n[Your Name]",
+  "output": "Prepare for tomorrow's Customer Advisory Meeting - Don't Forget!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

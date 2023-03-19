@@ -1,0 +1,12 @@
+{
+  "id": "6960f9c6-2998-4ed0-9065-aea93702eeb4",
+  "instruction": "Given two sentences, rewrite them in a way that resembles active voice.",
+  "input": "The book was read by her.\nThe draft was written by him.",
+  "output": "She read the book.\nHe wrote the draft.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

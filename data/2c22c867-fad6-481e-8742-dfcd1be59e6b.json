@@ -1,0 +1,12 @@
+{
+  "id": "2c22c867-fad6-481e-8742-dfcd1be59e6b",
+  "instruction": "Explain the purpose of an entity recognition algorithm.",
+  "input": "",
+  "output": "An entity recognition algorithm is used to identify and classify the words in a given text into predefined classes like persons, locations, organizations, products, etc. It can be used to extract semantic information from natural language text and map it to a knowledge base, which can then be used to answer questions, provide insights, and generate predictions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

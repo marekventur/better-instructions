@@ -1,0 +1,12 @@
+{
+  "id": "b074826f-9097-4ad3-9780-88105d9f733d",
+  "instruction": "Design a mobile app interface.",
+  "input": "App Name: Grocery List",
+  "output": "Create a mobile app interface that allows users to create lists of their grocery items. Provide a visual representation of the list, and make it easy to add, delete, and reorganize items. Allow users to assign categories to items and quickly find them in each category. Provide an efficient method of marking items when they are purchased or moved to the cart, and allow for multiple lists to be saved for quick access.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

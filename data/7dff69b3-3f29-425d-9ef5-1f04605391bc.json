@@ -1,0 +1,12 @@
+{
+  "id": "7dff69b3-3f29-425d-9ef5-1f04605391bc",
+  "instruction": "Classify the type of the following sentence.",
+  "input": "She laughed jovially.",
+  "output": "Declarative sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

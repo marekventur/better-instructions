@@ -1,0 +1,12 @@
+{
+  "id": "b17e34dd-cac9-494a-8fdf-47f2191c319c",
+  "instruction": "Edit the following text by correcting any grammatical errors",
+  "input": "The restaurant has been nominated for several award, including best steakhouse and the highest evaluated experiance.",
+  "output": "The restaurant has been nominated for several awards, including best steakhouse and the highest evaluated experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

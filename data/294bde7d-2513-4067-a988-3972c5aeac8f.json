@@ -1,0 +1,12 @@
+{
+  "id": "294bde7d-2513-4067-a988-3972c5aeac8f",
+  "instruction": "Determine the equation of the line that passes through the points (-3,1) and (2,5).",
+  "input": "(-3,1), (2,5)",
+  "output": "The equation of the line that passes through the points (-3,1) and (2,5) is y = 2x + 1.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

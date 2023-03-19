@@ -1,0 +1,12 @@
+{
+  "id": "5fc7e6e2-7e95-4775-926e-61ed8fd4d9f5",
+  "instruction": "List the total number of elements in this list.",
+  "input": "[1, 2, 3, 4, 5, 6]",
+  "output": "6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

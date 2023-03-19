@@ -1,0 +1,12 @@
+{
+  "id": "d8b6cc4a-3b80-469d-bce7-26b60dc0e769",
+  "instruction": "Find the sum of the values in the given sequence",
+  "input": "1, 4, 6, 2, 7",
+  "output": "20",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

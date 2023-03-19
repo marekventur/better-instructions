@@ -1,0 +1,12 @@
+{
+  "id": "3d980704-39d1-43a7-b661-f56f476f1257",
+  "instruction": "List some disadvantages of using computer vision in artificial intelligence applications.",
+  "input": "",
+  "output": "Some disadvantages of using computer vision in artificial intelligence applications include high computational power requirements, limited accuracy, and the need for large datasets to train the models. Additionally, computer vision can struggle when faced with large datasets or when given tasks that require context-awareness. Computer vision algorithms can also be susceptible to a wide range of variables, such as changes in lighting, textures, or objects and may be unable to detect mislabeled objects or small objects in an image.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

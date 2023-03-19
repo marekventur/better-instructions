@@ -1,0 +1,12 @@
+{
+  "id": "9d49a805-0580-4f22-a585-a3fd7a7ead46",
+  "instruction": "Give me an example of a stochastic gradient descent algorithm.",
+  "input": "",
+  "output": "An example of a stochastic gradient descent algorithm is linear regression. Using this algorithm, a linear regression model can be updated after each training example by subtracting a small step from the current weights in the direction of the negative gradient of the loss function with respect to those weights.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

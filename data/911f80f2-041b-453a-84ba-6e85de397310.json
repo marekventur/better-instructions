@@ -1,0 +1,12 @@
+{
+  "id": "911f80f2-041b-453a-84ba-6e85de397310",
+  "instruction": "Identify the person being described in the passage",
+  "input": "The person was an artist and had a strong passion for nature.",
+  "output": "The person being described is an artist with a passion for nature.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

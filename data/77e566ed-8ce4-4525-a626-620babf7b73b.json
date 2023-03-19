@@ -1,0 +1,12 @@
+{
+  "id": "77e566ed-8ce4-4525-a626-620babf7b73b",
+  "instruction": "Is the author of the following document biased?",
+  "input": "Document: Despite intense criticism from environmentalists, President Trump is still pushing ahead with his plan to reduce wilderness protections.",
+  "output": "Yes, the author appears to be biased against President Trump's plan to reduce wilderness protections.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

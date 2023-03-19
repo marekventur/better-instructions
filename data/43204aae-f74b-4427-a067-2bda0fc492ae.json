@@ -1,0 +1,12 @@
+{
+  "id": "43204aae-f74b-4427-a067-2bda0fc492ae",
+  "instruction": "Generate an appropriate response when a customer request assistance.",
+  "input": "I would like to know how to return an item.",
+  "output": "I'm sorry to hear that. Let me direct you to our Returns page so you can begin the process. Is there anything else I can help you with?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7f17edcf-4e13-4d4b-a8a3-bb23e31a153c",
+  "instruction": "Name 6 components of an artificial neural network",
+  "input": "",
+  "output": "The components of an artificial neural network include input units, hidden units, output units, weights, biases, and activation functions. The input units are responsible for receiving the inputs from the data. The hidden units process the inputs and generate the outputs, while the output unit generates the output of the neural network. The weights and biases determine the strength of the connections between the units. Finally, the activation functions determine the output of the neural network based on the sum of the weighted inputs from the previous layer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

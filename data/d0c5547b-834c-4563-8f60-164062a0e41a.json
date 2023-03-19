@@ -1,0 +1,12 @@
+{
+  "id": "d0c5547b-834c-4563-8f60-164062a0e41a",
+  "instruction": "Assume you are a customer service representative. Please provide customer service to a customer regarding their difficulties in accessing a website.",
+  "input": "The customer states that they have been unable to sign in for the past four days.",
+  "output": "That must be really frustrating! Let me see what I can do to help. First, let me check if there is something wrong on our end. Can you confirm for me what browser you have been using?  Additionally, could you provide me with your username and any other information that may help me diagnose the issue? I apologize for the inconvenience and will do my best to help you get access to the website as soon as possible.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

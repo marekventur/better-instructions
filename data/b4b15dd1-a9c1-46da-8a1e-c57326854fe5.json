@@ -1,0 +1,12 @@
+{
+  "id": "b4b15dd1-a9c1-46da-8a1e-c57326854fe5",
+  "instruction": "Pose a follow-up question based on given statement.",
+  "input": "Oxfam International works to combat poverty and inequality.",
+  "output": "What specific initiatives does Oxfam International take to achieve this aim?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

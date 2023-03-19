@@ -1,0 +1,12 @@
+{
+  "id": "f2bc8338-2c1e-473a-bafe-d1684ef7e9ee",
+  "instruction": "Generate a tweet of maximum 280 characters based on the following speech.",
+  "input": "President Obama said, \"Change will not come if we wait for some other person or if we wait for some other time. We are the ones we've been waiting for. We are the change that we seek.\"",
+  "output": "We are the ones that can create the change we wish to see in the world. Let's stand together and make it happen! #Change #MakingItHappen #BeTheChangeYouSeek #Obama",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

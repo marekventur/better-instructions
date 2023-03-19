@@ -1,0 +1,12 @@
+{
+  "id": "fcf0ef37-81a1-45e0-8885-a8980a20fce0",
+  "instruction": "Make a prediction about the stock market given the economic data.",
+  "input": "Due to the coronavirus pandemic, unemployment rate has risen from 4.5% to 10.2% in the past 5 months.",
+  "output": "Given the rise in unemployment rate, it is expected that the stock market will experience a decrease in price in the coming weeks. This could be due to investors being unwilling to take risks with their investments in an uncertain economic environment. Additionally, fewer people being employed could lead to reduced consumer spending, which may further cause a decrease in stock prices.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

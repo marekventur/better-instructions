@@ -1,0 +1,12 @@
+{
+  "id": "cd2248de-38ce-46e7-8344-c3c0ea8ff627",
+  "instruction": "Analyze the following Shakespearean sonnet.",
+  "input": "Shall I compare thee to a summer's day?\nThou art more lovely and more temperate:\nRough winds do shake the darling buds of May,\nAnd summer's lease hath all too short a date",
+  "output": "This poem compares the subject to a summer's day, noting that the subject is more beautiful and controlled than a summer day. The poet goes on to say that even though summer might be lovely and pleasant, it quickly passes by, reminding the reader of life's fleetingness.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

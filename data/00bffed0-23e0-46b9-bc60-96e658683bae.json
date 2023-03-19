@@ -1,0 +1,12 @@
+{
+  "id": "00bffed0-23e0-46b9-bc60-96e658683bae",
+  "instruction": "Explain what is a feature vector.",
+  "input": "",
+  "output": "A feature vector is a set of numbers used to represent a particular object, feature, or data point. It is often used in machine learning algorithms for data analysis and pattern recognition. A feature vector is a one-dimensional array of numbers that describes the characteristics of the object. The feature vector captures the essential characteristics of the object and disregards any irrelevant details. Each entry in the feature vector corresponds to a certain property or feature of the object, and the combination of these values makes it possible to differentiate the object from other objects in the same dataset. Feature vectors can be used for classification, regression, clustering, and other machine learning tasks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

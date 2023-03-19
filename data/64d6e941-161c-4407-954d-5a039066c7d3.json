@@ -1,0 +1,12 @@
+{
+  "id": "64d6e941-161c-4407-954d-5a039066c7d3",
+  "instruction": "Predict the probability of an event happening given the following information.",
+  "input": "The event \"The Celtics win the game\" has a success rate of 80% over the last 10 games.",
+  "output": "The probability of the Celtics winning the game is 80%.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

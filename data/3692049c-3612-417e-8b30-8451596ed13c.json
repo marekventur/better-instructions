@@ -1,0 +1,12 @@
+{
+  "id": "3692049c-3612-417e-8b30-8451596ed13c",
+  "instruction": "Remove any potential double-negatives used in the given sentence.",
+  "input": "I don't have no money.",
+  "output": "I don't have any money.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

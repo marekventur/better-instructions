@@ -1,0 +1,12 @@
+{
+  "id": "65433d7b-d032-46df-bba7-5894046ef280",
+  "instruction": "Create a string which captures the following sentence properly.",
+  "input": "He said, \"I want to go to the movies tonight.\"",
+  "output": "The string 'He said, \\\"I want to go to the movies tonight.\\\"' captures the sentence correctly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

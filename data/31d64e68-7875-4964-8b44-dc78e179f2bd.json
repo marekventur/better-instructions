@@ -1,0 +1,12 @@
+{
+  "id": "31d64e68-7875-4964-8b44-dc78e179f2bd",
+  "instruction": "Match the following items in correct chronological order.",
+  "input": "World War 2, World War 1, The Great Depression",
+  "output": "World War 1, The Great Depression, World War 2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

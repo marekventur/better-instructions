@@ -1,0 +1,12 @@
+{
+  "id": "fa6e3a0e-c762-4cfd-8988-ece619bfbbb5",
+  "instruction": "Given two text documents, determine which one is the most relevant given a keyword.",
+  "input": "Document 1: Acme Corp had challenges with quality and customer service last year\nDocument 2: Acme Corp had a successful year with high profits and customer satisfaction\nKeyword: customer service",
+  "output": "Document 1 is the most relevant, since it mentions the keyword \"customer service\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

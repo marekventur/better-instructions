@@ -1,0 +1,12 @@
+{
+  "id": "c1855464-d9e6-4a2b-8986-98710a1d5ecb",
+  "instruction": "Construct a SQL query that finds all rows in a table with 'apple' in their description.",
+  "input": "",
+  "output": "SELECT * FROM TableName\nWHERE description LIKE 'apple%';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

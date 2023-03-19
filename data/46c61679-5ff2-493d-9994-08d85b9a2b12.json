@@ -1,0 +1,12 @@
+{
+  "id": "46c61679-5ff2-493d-9994-08d85b9a2b12",
+  "instruction": "Reorder the given sentence to create a sentence with a structure ending with a gerund.",
+  "input": "The team brainstormed solutions for the problem.",
+  "output": "The team brainstormed for solutions to the problem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

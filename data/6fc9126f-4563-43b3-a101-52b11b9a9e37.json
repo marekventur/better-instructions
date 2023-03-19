@@ -1,0 +1,12 @@
+{
+  "id": "6fc9126f-4563-43b3-a101-52b11b9a9e37",
+  "instruction": "Edit this sentence and make sure it is grammatically correct.",
+  "input": "I went to the shopping mall, and made sure buy some presents.",
+  "output": "I went to the shopping mall and made sure to buy some presents.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

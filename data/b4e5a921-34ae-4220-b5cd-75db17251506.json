@@ -1,0 +1,12 @@
+{
+  "id": "b4e5a921-34ae-4220-b5cd-75db17251506",
+  "instruction": "Categorize the given restaurant into budget, mid-range, and luxury",
+  "input": "Bob's Burgers",
+  "output": "Bob's Burgers would be categorized as a budget restaurant.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

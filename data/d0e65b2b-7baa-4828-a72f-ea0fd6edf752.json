@@ -1,0 +1,12 @@
+{
+  "id": "d0e65b2b-7baa-4828-a72f-ea0fd6edf752",
+  "instruction": "What is the output of the given program?",
+  "input": "a = 8\nb = 5\nc = a + b",
+  "output": "The output of the given program is 13.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

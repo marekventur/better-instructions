@@ -1,0 +1,12 @@
+{
+  "id": "94fb7b81-d89e-4548-8a6d-e452c1243cc4",
+  "instruction": "Given a current popular movie, generate a funny one-liner tryptic joke about it.",
+  "input": "Black Panther",
+  "output": "Q: What did Black Panther say when he needed a new costume? \nA: \"Suit Up!\"\nQ: What does Black Panther keep in his fridge?\nA: Wakanda booze!\nQ: How do you make Black Panther proud?\nA: Excel in the things he believes in!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

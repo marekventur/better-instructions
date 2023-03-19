@@ -1,0 +1,12 @@
+{
+  "id": "f15186b3-4cee-4d87-8e05-fde5920806d1",
+  "instruction": "Given the word \u201ccat\u201d, list three other words that are related to it.",
+  "input": "",
+  "output": "Dog, kitten, feline.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a8d17fdd-52dd-435f-91fc-1e7f66b7f954",
+  "instruction": "Create a regex pattern to match all lowercase hexadecimal words",
+  "input": "",
+  "output": "^[0-9a-f]+$",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

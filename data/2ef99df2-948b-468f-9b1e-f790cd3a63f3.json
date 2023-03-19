@@ -1,0 +1,12 @@
+{
+  "id": "2ef99df2-948b-468f-9b1e-f790cd3a63f3",
+  "instruction": "Rearrange the pieces of the story to make a logical sequence.",
+  "input": "Piece 1: They start to paint the walls\nPiece 2: The family moves into their new home\nPiece 3: They go looking for furniture\nPiece 4: They have to fix the plumbing",
+  "output": "1. The family moves into their new home\n2. They have to fix the plumbing\n3. They go looking for furniture\n4. They start to paint the walls",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

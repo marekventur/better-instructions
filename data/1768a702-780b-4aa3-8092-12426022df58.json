@@ -1,0 +1,12 @@
+{
+  "id": "1768a702-780b-4aa3-8092-12426022df58",
+  "instruction": "Output a sentence containing the given phrase and a verb.",
+  "input": "\"virtual assistant\"",
+  "output": "I am using a virtual assistant to help me manage my busy schedule.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

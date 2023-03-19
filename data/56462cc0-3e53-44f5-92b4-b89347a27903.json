@@ -1,0 +1,12 @@
+{
+  "id": "56462cc0-3e53-44f5-92b4-b89347a27903",
+  "instruction": "Edit the keyword list by removing any negative words.",
+  "input": "angry, pessimistic, joyous, sad",
+  "output": "joyous, optimistic",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

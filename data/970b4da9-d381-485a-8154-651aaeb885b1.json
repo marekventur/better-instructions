@@ -1,0 +1,12 @@
+{
+  "id": "970b4da9-d381-485a-8154-651aaeb885b1",
+  "instruction": "Compare 2D and 3D shapes.",
+  "input": "",
+  "output": "2D shapes are flat and have only two dimensions (width and length) while 3D shapes have a third dimension (depth) and are not flat. 2D shapes can be described by their perimeter or circumference while 3D shapes can be described by their surface area and volume. 2D shapes have properties such as angle sum and internal angle size, which are not true of 3D shapes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "69b10124-7329-4748-b8ef-7f768569059e",
+  "instruction": "Parse the following sentence and create a dictionary for the given structure",
+  "input": "Jack is a 21 years old student from New York",
+  "output": "Dictionary structure:\n{\n    'Name': 'Jack',\n    'Age': 21,\n    'Occupation': 'student',\n    'Location': 'New York' \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

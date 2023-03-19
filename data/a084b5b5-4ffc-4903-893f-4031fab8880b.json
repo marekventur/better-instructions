@@ -1,0 +1,12 @@
+{
+  "id": "a084b5b5-4ffc-4903-893f-4031fab8880b",
+  "instruction": "Given a string \"cat\", find the shortest palindrome",
+  "input": "cat",
+  "output": "The shortest palindrome which can be formed using the string \"cat\" is \"tacocat\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0cd0de9d-cd9f-403c-82e9-a4a8880c9031",
+  "instruction": "Take the input string and construct a new phrase that has the same meaning",
+  "input": "\"Open up the doors\"",
+  "output": "Unlock the doors",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5f487a52-2027-451d-85f3-35551604b631",
+  "instruction": "Create a to-do list based on the given instructions.",
+  "input": "Prepare for presentation tomorrow, write a report for the meeting, and finalize plans for next month's conference.",
+  "output": "To-do List: \n1. Prepare presentation for tomorrow. \n2. Write report for meeting. \n3. Finalize plans for next month's conference. \n4. Create slides for presentation. \n5. Research and gather data for report. \n6. Create a budget for next month's conference. \n7. Outline presentation. \n8. Make a list of questions to ask during the meeting. \n9. Contact potential speakers for next month's conference. \n10. Proofread and edit report. \n11. Practice presenting.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

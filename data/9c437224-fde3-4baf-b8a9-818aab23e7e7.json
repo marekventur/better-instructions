@@ -1,0 +1,12 @@
+{
+  "id": "9c437224-fde3-4baf-b8a9-818aab23e7e7",
+  "instruction": "Produce the name of an in-fiction character based on the given description",
+  "input": "The character is an alchemist and a noble.",
+  "output": "Herbert of Warwick.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

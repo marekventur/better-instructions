@@ -1,0 +1,12 @@
+{
+  "id": "ef89afae-d25c-4f9f-89fe-b6e602f6ba07",
+  "instruction": "Amazon is a Fortune 500 company. Classify it as a manufacturing company, service company, or technology company.",
+  "input": "",
+  "output": "Technology company.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

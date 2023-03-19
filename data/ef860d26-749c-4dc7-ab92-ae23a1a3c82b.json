@@ -1,0 +1,12 @@
+{
+  "id": "ef860d26-749c-4dc7-ab92-ae23a1a3c82b",
+  "instruction": "Create a sentence that elegantly describes the given painting.",
+  "input": "[https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_Annunciation_Rubens.jpg/1200px-The_Annunciation_Rubens.jpg]",
+  "output": "The seamless blending of majesty and grace in the painting inspires awe and reverence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

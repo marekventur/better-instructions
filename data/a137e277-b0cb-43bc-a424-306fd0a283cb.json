@@ -1,0 +1,12 @@
+{
+  "id": "a137e277-b0cb-43bc-a424-306fd0a283cb",
+  "instruction": "Compose a tweet according to the given facts.",
+  "input": "Hashtag: #TakeCare\nMessage: Make sure you take time for yourself today.",
+  "output": "Take time for yourself today. #TakeCare",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

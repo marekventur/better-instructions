@@ -1,0 +1,12 @@
+{
+  "id": "889e5a7e-4de7-46d6-85d7-02fe587b4620",
+  "instruction": "Construct a recipe for vegetable soup using the following ingredients.",
+  "input": "Onion, carrots, celery, zucchini, potato, vegetable broth",
+  "output": "Vegetable Soup Recipe \n\nIngredients: \n-1 onion, chopped \n-2 carrots, chopped \n-2 stalks celery, chopped \n-1 zucchini, chopped \n-1 potato, diced \n-1 quart vegetable broth  \n\nInstructions: \n1. Heat 1 tablespoon of oil in a large pot over medium heat. \n2. Add the onion, carrots, and celery and cook until they are soft and golden, about 5 minutes. \n3. Stir in the zucchini and potato and cook for an additional 5 minutes stirring occasionally. \n4. Pour in the vegetable broth and bring to a low boil. \n5. Reduce heat to low and simmer, covered, until all of the vegetables are tender, about 15 minutes. \n6. Serve hot. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

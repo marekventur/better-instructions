@@ -1,0 +1,12 @@
+{
+  "id": "8e2419ab-7789-4453-83a8-e81f54f55fc6",
+  "instruction": "Suppose the following is an input sentence. Rewrite it to be more concise.",
+  "input": "I hope that it will be sunny on Tuesday",
+  "output": "I hope Tuesday is sunny.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "67362d83-ead6-4dcb-8899-9e0eca1a68a5",
+  "instruction": "Label the sentiment for the given text.",
+  "input": "The restaurant had terrible service and left us feeling frustrated.",
+  "output": "Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

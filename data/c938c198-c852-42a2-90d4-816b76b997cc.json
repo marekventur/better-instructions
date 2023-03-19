@@ -1,0 +1,12 @@
+{
+  "id": "c938c198-c852-42a2-90d4-816b76b997cc",
+  "instruction": "Combine two text inputs and output a single valid sentence.",
+  "input": "Text 1: I like eating.\nText 2: Apples are delicious.",
+  "output": "I like eating apples because they are delicious.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

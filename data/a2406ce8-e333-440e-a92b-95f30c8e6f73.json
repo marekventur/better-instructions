@@ -1,0 +1,12 @@
+{
+  "id": "a2406ce8-e333-440e-a92b-95f30c8e6f73",
+  "instruction": "Explain what a blockchain is in simple terms.",
+  "input": "",
+  "output": "A blockchain is a type of digital ledger that records transactions in a secure and immutable manner. It is a distributed system, meaning that it does not rely on any single entity for data storage. Each transaction is stored in a block and the blocks are strung together and secured cryptographically, forming a chain of blocks. This chain of blocks allows for a distributed and tamper-proof system of record-keeping, making it a secure and reliable way of storing and transferring data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0cc86fcb-cf9d-43fb-a54c-a633f0d190a1",
+  "instruction": "Write pseudocode for a Merge Sort algorithm.",
+  "input": "",
+  "output": "MergeSort(A, startIndex, endIndex):\n    // If there is only one element in the array, return\n    if startIndex == endIndex:\n        return\n\n    middleIndex = (startIndex + endIndex) / 2\n\n    // Sort the left half of the array\n    MergeSort(A, startIndex, middleIndex)\n\n    // Sort the right half of the array\n    MergeSort(A, middleIndex + 1, endIndex)\n\n    // Merge the two sorted arrays\n    Merge(A, startIndex, endIndex)\n\nMerge(A, startIndex, endIndex):\n    middleIndex = (startIndex + endIndex) / 2\n    leftIndex = startIndex\n    rightIndex = middleIndex + 1\n\n    // Temporary array to hold the sorted array\n    tempArray[]\n\n    // Iterate through both halves of the array\n    for i in range(startIndex, endIndex+1):\n        // If left half is done iterating, add from right half\n        if leftIndex > middleIndex:\n            tempArray[i] = A[rightIndex]\n            rightIndex++\n\n        // If right half is done iterating, add from left half\n        else if rightIndex > endIndex:\n            tempArray[i] = A[leftIndex]\n            leftIndex++\n\n        // Compare current element and add the smaller element\n        else if A[leftIndex] < A[rightIndex]:\n            tempArray[i] = A[leftIndex]\n            leftIndex++\n        else:\n            tempArray[i] = A[rightIndex]\n            rightIndex++\n\n    // Copy the tempArray back to A\n    for i in range(startIndex, endIndex+1):\n        A[i] = tempArray[i]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

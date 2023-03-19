@@ -1,0 +1,12 @@
+{
+  "id": "baa1dddb-4d3a-4e30-9ee6-449571667c17",
+  "instruction": "Classify the following list of plant species.",
+  "input": "Oak Tree, Rosebush, Tulip, Maple Tree",
+  "output": "Oak Tree: Tree\nRosebush: Bush\nTulip: Flower\nMaple Tree: Tree",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

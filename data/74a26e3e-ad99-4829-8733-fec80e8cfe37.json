@@ -1,0 +1,12 @@
+{
+  "id": "74a26e3e-ad99-4829-8733-fec80e8cfe37",
+  "instruction": "Analyze the following artist's piece of work.",
+  "input": "A painting of a beach scene with a wooden boat in the foreground.",
+  "output": "The painting is depicting a beach scene with a wooden boat in the foreground. The colors used in the painting indicate a tranquil atmosphere, while the boat at the front of the painting gives the scene a feeling of movement and energy. The artist appears to be focused on conveying the idea of a relaxing day at the beach, as the colors are calming and the boat creates a subtle suggestion of motion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

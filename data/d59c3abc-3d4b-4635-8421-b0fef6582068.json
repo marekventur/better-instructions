@@ -1,0 +1,12 @@
+{
+  "id": "d59c3abc-3d4b-4635-8421-b0fef6582068",
+  "instruction": "Classify this sentence as a product review, legal document, fiction, or philosophical proposition.",
+  "input": "\"Life is nothing more than an oscillation between joy and suffering.\"",
+  "output": "Philosophical Proposition.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

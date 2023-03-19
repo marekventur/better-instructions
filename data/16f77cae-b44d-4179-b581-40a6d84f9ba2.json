@@ -1,0 +1,12 @@
+{
+  "id": "16f77cae-b44d-4179-b581-40a6d84f9ba2",
+  "instruction": "Classify the following information into the appropriate type of fruit.",
+  "input": "Kiwi",
+  "output": "Fruit: Kiwi",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

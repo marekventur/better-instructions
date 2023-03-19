@@ -1,0 +1,12 @@
+{
+  "id": "4bfd56e0-6110-4654-bbff-104cef7f13b7",
+  "instruction": "Given this legal document, explain the implications of the fine print.",
+  "input": "A contract for the purchase of a house with a clause detailing the transfer of ownership of the property to the buyer.",
+  "output": "The fine print in this contract states that upon the completion of the sale, ownership of the property shall be transferred to the buyer. This gives the buyer legal rights over the property and responsibilities as the new owner, including the payment of all taxes and duties associated with the property. The buyer also has the right to repurpose the property in any way they see fit, provided it does not infringe upon any laws or regulations.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

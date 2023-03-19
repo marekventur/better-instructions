@@ -1,0 +1,12 @@
+{
+  "id": "d02b799c-ee91-4d0d-b10a-27bc0bdb2740",
+  "instruction": "Classify the following musical genres:",
+  "input": "- Punk\n- Jazz\n- Heavy metal",
+  "output": "- Punk: Genre of rock music that developed in the mid-1970s and typically lyrics with hard-edged melodies and singing styles, stripped-down instrumentation, and often political, anti-establishment lyrics.\n- Jazz: A genre of music that originated in the late 19th and early 20th centuries, characterized by blue notes, improvisation, swing, call and response, polyrhythms, and syncopation.\n- Heavy metal: A genre of rock music that developed in the late 1960s and early 1970s, characterized by aggressive, driving rhythms and amplified distorted guitars, bass, drums and vocals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a6c2c11a-f8f1-458b-8965-313172538602",
+  "instruction": "Rewrite the sentence to avoid repetition",
+  "input": "The cat jumped and the cat leaped.",
+  "output": "The cat jumped and leapt.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

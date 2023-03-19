@@ -1,0 +1,12 @@
+{
+  "id": "a8ce1de5-30ae-4fe5-8f02-6c20af042d5f",
+  "instruction": "Reverse engineer the algorithm by predicting the output for a given input.",
+  "input": "Input: A\nOutput: B",
+  "output": "Given the input of 'A', the output of the algorithm is predicted to be 'B'.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

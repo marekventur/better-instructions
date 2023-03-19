@@ -1,0 +1,12 @@
+{
+  "id": "33fedb64-6595-47d9-8365-e76aaf5cfed0",
+  "instruction": "Given a recipe, edit the instructions to make it vegetarian.",
+  "input": "Ingredients: 500 grams of beef, 1 onion, 4 cloves of garlic\n\nInstructions:\n1. Chop onion and garlic.\n2. Heat pan over medium-high heat, add beef, and cook for 5 minutes.",
+  "output": "Ingredients: 500 grams of vegetable protein (e.g. tofu, seitan, tempeh), 1 onion, 4 cloves of garlic\n\nInstructions: \n1. Chop onion and garlic.\n2. Heat pan over medium-high heat, add vegetable protein, and cook for 5 minutes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "83dde90f-1100-454b-bd97-24e199e6ac0a",
+  "instruction": "Generate a hypothesis for this sentence.",
+  "input": "The plants in this area have been dying out at an alarming rate.",
+  "output": "The hypothesis is that an environmental factor such as increased levels of pollution or decreased water availability is causing the plants in this area to die out.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

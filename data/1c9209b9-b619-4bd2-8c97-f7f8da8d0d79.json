@@ -1,0 +1,12 @@
+{
+  "id": "1c9209b9-b619-4bd2-8c97-f7f8da8d0d79",
+  "instruction": "Create a search query that finds webpages containing specific information",
+  "input": "Search term: Puppy Adoption",
+  "output": "The search query should be \"Puppy Adoption site:example.com\". This will limit the search results to pages from the example.com domain, which contain information about puppy adoption.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

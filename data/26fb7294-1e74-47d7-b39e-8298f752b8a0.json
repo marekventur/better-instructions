@@ -1,0 +1,12 @@
+{
+  "id": "26fb7294-1e74-47d7-b39e-8298f752b8a0",
+  "instruction": "Given the code snippet, identify and fix any syntax error:\n\ndef findSum(a, b):\n    return a+b",
+  "input": "",
+  "output": "No syntax error.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2d117e4b-300b-408a-be1e-ad8a95ee3887",
+  "instruction": "F igure out commonality between the two paragraphs",
+  "input": "Paragraph 1: Education is the key to success. It provides us with the skills and knowledge needed to thrive.\nParagraph 2: Technology helps us learn in new ways, makes it easier to access information and has made communication simpler and global.",
+  "output": "The commonality between the two paragraphs is that they both emphasize the importance of having access to knowledge and skills. Education provides people with the knowledge and skills needed to be successful, and technology provides a new way to learn, access information, and communicate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

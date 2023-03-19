@@ -1,0 +1,12 @@
+{
+  "id": "f3363770-04aa-4a08-afa8-dba3ec0e74f1",
+  "instruction": "Given the following dataset, find the median value.",
+  "input": "{2, 4, 6, 7, 8, 9, 10, 12, 14}",
+  "output": "8",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

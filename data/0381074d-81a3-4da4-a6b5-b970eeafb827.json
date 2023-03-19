@@ -1,0 +1,12 @@
+{
+  "id": "0381074d-81a3-4da4-a6b5-b970eeafb827",
+  "instruction": "Calculate the estimated time it would take to reach a destination driving at a speed of 80 miles per hour.",
+  "input": "Distance: 400 miles",
+  "output": "It would take approximately 5 hours to reach the destination driving at 80 miles per hour.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "12cde7b8-3cd1-4c5b-8d09-cf49c7437b0d",
+  "instruction": "Given a string, write a code snippet to reverse the order of the words.",
+  "input": "\"Hello World\"",
+  "output": "const reverseString = str =>\n  str\n    .split(\" \")\n    .reverse()\n    .join(\" \");\n    \nreverseString(\"Hello World\"); // Output: \"World Hello\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

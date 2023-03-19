@@ -1,0 +1,12 @@
+{
+  "id": "ebfcd063-baa2-42fe-bd5e-e71a85f44f7e",
+  "instruction": "Write a CSS code to provide an animation on hover.",
+  "input": "",
+  "output": "The CSS code to provide an animation on hover is:\n\n.element {\n  transition: all 0.5s ease-in-out;\n}\n\n.element:hover {\n  transform: scale3d(1.1, 1.1, 1.1);\n  animation-name: animation-on-hover;\n  animation-duration: 0.3s;\n}\n\n@keyframes animation-on-hover {\n  0% {\n    border-radius: 0px;\n    background-color: blue;\n  }\n  100% {\n    border-radius: 20px;\n    background-color: yellow;\n  }\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

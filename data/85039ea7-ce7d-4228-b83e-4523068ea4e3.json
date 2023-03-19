@@ -1,0 +1,12 @@
+{
+  "id": "85039ea7-ce7d-4228-b83e-4523068ea4e3",
+  "instruction": "Summarize the purpose of a unit testing strategy.",
+  "input": "",
+  "output": "The purpose of a unit testing strategy is to ensure the quality and accuracy of software by breaking it down into smaller units that can be tested for correct output. This is done through a process of automation that tests individual units against expected results, thereby identifying any potential errors in the software. Unit testing is a critical component of the development process, ensuring that the software is bug-free and capable of performing as intended.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

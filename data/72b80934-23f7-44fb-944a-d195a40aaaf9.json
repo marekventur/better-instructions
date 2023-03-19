@@ -1,0 +1,12 @@
+{
+  "id": "72b80934-23f7-44fb-944a-d195a40aaaf9",
+  "instruction": "Given two words, find a connecting word that links the two.",
+  "input": "Cats and Dogs",
+  "output": "and",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

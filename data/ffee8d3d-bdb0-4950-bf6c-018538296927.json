@@ -1,0 +1,12 @@
+{
+  "id": "ffee8d3d-bdb0-4950-bf6c-018538296927",
+  "instruction": "Rewrite this expression to allow for a different result: (1 + 2) x 3.",
+  "input": "",
+  "output": "(1 + 2) \u00f7 3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

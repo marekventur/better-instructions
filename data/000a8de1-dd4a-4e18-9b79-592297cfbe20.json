@@ -1,0 +1,12 @@
+{
+  "id": "000a8de1-dd4a-4e18-9b79-592297cfbe20",
+  "instruction": "Edit the given code to add error handling.",
+  "input": "def calculate_sum(numbers):\n    sum = 0\n    for num in numbers:\n        sum += num\n    return sum",
+  "output": "def calculate_sum(numbers):\n    try:\n        sum = 0\n        for num in numbers:\n            sum += num\n        return sum\n    except TypeError:\n        print(\"The given input is not a list of integers.\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1d1c8cfe-fe5b-4572-8800-7e8b2bde7c42",
+  "instruction": "Please estimate the size of the circumference of the following circle",
+  "input": "The diameter of the circle is 12 cm",
+  "output": "The circumference of the circle is approximately 37.68 cm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "82139ff1-50fb-45ba-8169-ad1c246d4d00",
+  "instruction": "Construct a survey that meets the given criterion.",
+  "input": "Survey about online shopping",
+  "output": "1. On a scale from 1 to 5, how often do you shop online?\n2. What is the main purpose of your online shopping?\n3. How would you rate your overall shopping experience?\n4. Which website do you prefer to shop from?\n5. Is online shopping more convenient than shopping in store?\n6. What do you think about the quality of the products you purchase online?\n7. Have you ever experienced any difficulty returning an item you bought online?\n8. What factors do you consider before purchasing an item online?\n9. What do you think could be done to improve your online shopping experience?\n10. Are you more likely to shop online in the future?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

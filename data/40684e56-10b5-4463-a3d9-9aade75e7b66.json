@@ -1,0 +1,12 @@
+{
+  "id": "40684e56-10b5-4463-a3d9-9aade75e7b66",
+  "instruction": "Evaluate the severity of the issue in this situation.",
+  "input": "The software crashed in the middle of working.",
+  "output": "The issue is very severe since the software crashed during operation. It is likely that any data that hadn't been saved will be lost, which could have serious consequences. Additionally, the software crashing could have caused a security breach or might have caused other programs to malfunction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

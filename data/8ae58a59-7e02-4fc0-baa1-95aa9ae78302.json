@@ -1,0 +1,12 @@
+{
+  "id": "8ae58a59-7e02-4fc0-baa1-95aa9ae78302",
+  "instruction": "Generate a list of criteria for selecting a pet",
+  "input": "",
+  "output": "When selecting a pet, one should consider these factors: \n1. Financial cost of necessary care and supplies\n2. Time commitment needed to care for the pet\n3. Compatibility with the pet and home lifestyle\n4. Appropriateness of the pet's size and energy level to a given home\n5. Should be compatible with other family pets, if any \n6. Age and health of the pet \n7. Access to veterinary care\n8. Risk of introducing disease to humans \n9. Ability to properly socialize the pet\n10. Preparation for potential behavioral issues.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

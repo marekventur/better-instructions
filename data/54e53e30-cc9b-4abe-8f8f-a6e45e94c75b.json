@@ -1,0 +1,12 @@
+{
+  "id": "54e53e30-cc9b-4abe-8f8f-a6e45e94c75b",
+  "instruction": "Generate a set of questions you can use as interview questions.",
+  "input": "",
+  "output": "- What challenges have you faced in the past?\n- Describe a difficult problem you've solved.\n- What process do you use to make decisions?\n- How do you handle stress and pressure in your work?\n- How do you handle difficult conversations with colleagues?\n- Why do you want this job?\n- What experience do you have in this field?\n- How do you keep your skills and knowledge up to date?\n- How do you handle criticism in the workplace?\n- What methods do you use to stay organized and focused?\n- How do you go about problem-solving?\n- What do you think are the most important traits for success in this role?\n- What do you consider your biggest professional achievement?\n- How do you handle working under a tight timeline?\n- What teams have you worked on and what did you contribute?\n- What do you think are the challenges of working in this field?\n- How would you manage a challenging project?\n- What do you think sets you apart from other candidates? \n-Describe a difficult situation you overcame with a creative solution.\n- Describe a big change you initiated in a previous job.\n- How do you prefer to receive feedback?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

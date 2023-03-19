@@ -1,0 +1,12 @@
+{
+  "id": "f0421fc5-0563-4744-b24c-821e38038864",
+  "instruction": "Given a country, list three of its popular tourist destinations.",
+  "input": "India",
+  "output": "Popular tourist destinations in India include the Taj Mahal in Agra, the Golden Temple in Amritsar, and the Gateway of India in Mumbai.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

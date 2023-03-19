@@ -1,0 +1,12 @@
+{
+  "id": "79b9a1d2-2081-4d93-9e9b-871822dccbb5",
+  "instruction": "Summarize the main idea of the following article\n\nInput: https://domoregood.org/2020/07/02/green-business-returns/",
+  "input": "https://domoregood.org/2020/07/02/green-business-returns/",
+  "output": "This article discusses the benefits of companies providing environmentally friendly services, known as green businesses. It highlights the ways green businesses can create economic value and benefit the environment by reducing emissions, conserving energy, and promoting sustainability. The article also outlines the challenges that may arise when running a green business, from legislative regulations to changing consumer demands.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

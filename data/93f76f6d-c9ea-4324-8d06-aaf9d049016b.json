@@ -1,0 +1,12 @@
+{
+  "id": "93f76f6d-c9ea-4324-8d06-aaf9d049016b",
+  "instruction": "Create a program that checks if a given number is prime or not.",
+  "input": "",
+  "output": "def isPrime(n): \n    if n <= 1: \n        return False\n    \n    for i in range(2, n): \n        if n % i == 0: \n            return False\n  \n    return True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

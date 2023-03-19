@@ -1,0 +1,12 @@
+{
+  "id": "3649558c-be31-44d1-b82f-705d662be2ab",
+  "instruction": "Arrange the following items according to size.",
+  "input": "iPhone\niPad",
+  "output": "The iPhone should be placed before the iPad, as it has the smaller size.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3ba6327b-7b74-4177-bbbd-07432f0b8d3c",
+  "instruction": "Insert a relative clause into the following statement.",
+  "input": "We need a new plan.",
+  "output": "We need a new plan which we can implement quickly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "98659d55-04b2-40e2-8017-80543bfe7d7f",
+  "instruction": "Create an example input given the instruction, \"Find the average temperature of Los Angeles on a given date\".",
+  "input": "Date: December 15, 2020",
+  "output": "The average temperature of Los Angeles on December 15, 2020 is 70.5 degrees Fahrenheit.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

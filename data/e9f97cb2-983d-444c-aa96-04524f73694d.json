@@ -1,0 +1,12 @@
+{
+  "id": "e9f97cb2-983d-444c-aa96-04524f73694d",
+  "instruction": "In this task, you are given a sentence and a phrase from the sentence, you need to restate the whole sentence using the provided phrase.",
+  "input": "Sentence: \u201cI will not give in to the pressure.\u201d\nThe given phrase: \u201cgive in\u201d",
+  "output": "I will not succumb to the pressure.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b0eeef44-70e0-4cb2-844f-9af60ade94e9",
+  "instruction": "Given the provided sentence, extract one of the leadership qualities implied by the sentence.",
+  "input": "He took ownership of the project and worked hard to ensure its successful completion.",
+  "output": "Taking ownership.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

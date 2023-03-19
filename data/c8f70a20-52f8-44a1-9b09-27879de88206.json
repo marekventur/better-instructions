@@ -1,0 +1,12 @@
+{
+  "id": "c8f70a20-52f8-44a1-9b09-27879de88206",
+  "instruction": "Create an appropriate input to the command to produce the output.",
+  "input": "Command: \"List all the words starting with letter 'A'.\"\nOutput: \nApple, air, animal, Astronaut",
+  "output": "<noinput>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

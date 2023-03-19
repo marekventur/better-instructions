@@ -1,0 +1,12 @@
+{
+  "id": "37dd6ae6-8137-40cf-bd37-a9985f1df654",
+  "instruction": "Invent a new recipe using five of the ingredients below.",
+  "input": "Sea salt, olive oil, fish, potatoes, tomatoes",
+  "output": "Fish and Potato Bake \u2013 a simple yet delicious dish! Preheat oven to 350\u00b0F. In a bowl, mix together potatoes, diced tomatoes, 1 tablespoon of olive oil, 1/2 teaspoon of sea salt, and 1/2 teaspoon of your favorite spices. Put the mixture in a casserole dish and top it with four fillets of your favorite fish. Drizzle with 1 tablespoon of olive oil and sprinkle with 1/2 teaspoon of sea salt. Bake for 35-45 minutes until the fish is cooked through and the potatoes are tender. Serve with your favorite side dish and enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

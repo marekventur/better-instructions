@@ -1,0 +1,12 @@
+{
+  "id": "1ce6b045-e979-4639-9060-92d6f3b4468e",
+  "instruction": "Given two words, come up with a compound word that joins the two words together.",
+  "input": "Words:Life and Scientist",
+  "output": "Lifescientist",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

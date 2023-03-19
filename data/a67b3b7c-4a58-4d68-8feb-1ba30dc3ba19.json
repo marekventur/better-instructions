@@ -1,0 +1,12 @@
+{
+  "id": "a67b3b7c-4a58-4d68-8feb-1ba30dc3ba19",
+  "instruction": "Combine two texts and transform them into a persuasive speech.",
+  "input": "Text 1: Climate change is happening. \nText 2: We need to take action now.",
+  "output": "We must take action now to address climate change, for it is the most pressing issue of our time. Its effects are becoming more and more visible, from rising sea levels, to severe weather events, to disruptions in global food markets. We have seen what it can do, and we must all work together in order to mitigate its worst effects. We owe it to future generations to make sure that our planet is still livable for them.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

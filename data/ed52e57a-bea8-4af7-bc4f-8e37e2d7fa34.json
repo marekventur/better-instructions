@@ -1,0 +1,12 @@
+{
+  "id": "ed52e57a-bea8-4af7-bc4f-8e37e2d7fa34",
+  "instruction": "Explain why computers use binary code",
+  "input": "",
+  "output": "Computers use binary code because it is an efficient representation of data. Binary code is a form of data that consists of only two values, 0 and 1. It is easy for computers to store and process this data, as the two values represent two distinct states, off and on. By using binary code, computers can efficiently store and process large amounts of information, as each bit is a single output that can be used to represent various pieces of data and instructions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5ad8761a-7f0a-4dd2-ab8c-b3483c1d69da",
+  "instruction": "Generate a list of the top 10 causes of global warming.",
+  "input": "",
+  "output": "1. The burning of fossil fuels such as coal, oil and natural gas for energy. \n2. Deforestation and the destruction of wildlife habitats.\n3. The release of methane from livestock and other agricultural activities.\n4. The production of ozone-depleting chemicals such as chlorofluorocarbons.\n5. The emission of greenhouse gases from vehicles, aircrafts, and other modes of transport.\n6. The emission of cooling aerosols and particulate matter into the atmosphere.\n7. The release of nitrous oxide from fertilizers and other sources.\n8. Soil degradation, which reduces the soil's ability to absorb carbon dioxide.\n9. The melting of polar ice caps and glaciers due to rising temperatures.\n10. Urbanization, which increases the release of heat-trapping pollution.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

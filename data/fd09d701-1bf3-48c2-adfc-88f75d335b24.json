@@ -1,0 +1,12 @@
+{
+  "id": "fd09d701-1bf3-48c2-adfc-88f75d335b24",
+  "instruction": "Apply the given typographic style to the provided sentence.",
+  "input": "This is a great day to be alive!",
+  "output": "<span style=\"font-style: italic; font-size: larger;\"><em>This is a great day to be alive!</em></span>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

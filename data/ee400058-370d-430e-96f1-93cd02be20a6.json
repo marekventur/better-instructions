@@ -1,0 +1,12 @@
+{
+  "id": "ee400058-370d-430e-96f1-93cd02be20a6",
+  "instruction": "Describe how an AC system works.",
+  "input": "",
+  "output": "An AC system essentially works by compressing a gas that is typically a refrigerant, to absorb heat from indoors. The compressed refrigerant is then expanded to release its heat outdoors. This creates a cooling effect as the heat is transferred from inside to outside. The refrigerant is then sent back to be cooled and re-compressed, repeating the cycle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

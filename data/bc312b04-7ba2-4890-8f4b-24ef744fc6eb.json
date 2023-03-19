@@ -1,0 +1,12 @@
+{
+  "id": "bc312b04-7ba2-4890-8f4b-24ef744fc6eb",
+  "instruction": "Generate a teaser for the given film.",
+  "input": "The Lord of the Rings.",
+  "output": "From the creators of The Lord of the Rings comes a thrilling epic adventure like no other! Follow the journey of a daring fellowship battle against the forces of evil in Middle Earth. Discover the fate of a kingdom as they fight to restore the order between the races of men, elves, and dwarves. Join them in the greatest adventure yet - The Lord of the Rings!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

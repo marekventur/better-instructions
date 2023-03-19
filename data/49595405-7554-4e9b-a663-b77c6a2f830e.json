@@ -1,0 +1,12 @@
+{
+  "id": "49595405-7554-4e9b-a663-b77c6a2f830e",
+  "instruction": "Create a program that evaluates student performance.",
+  "input": "",
+  "output": "The program should accept student data in the form of a set of grades, test scores, and other performance metrics for a given semester. It should then calculate a final grade for the student and a grade point average for the semester. The program should also generate a report card which shows grades for each class and the cumulative grade point average. Finally, the report card should generate a message to the student outlining their performance and providing feedback.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

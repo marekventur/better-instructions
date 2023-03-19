@@ -1,0 +1,12 @@
+{
+  "id": "27dda867-ed11-43c2-afac-1f5d9de5b5ae",
+  "instruction": "Given a mathematical equation, explain the meaning behind the equation in plain English.",
+  "input": "r = 1 + sin\u03b8",
+  "output": "The equation states that the radius (r) of a circle is equal to one plus the sine of the angle (\u03b8).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

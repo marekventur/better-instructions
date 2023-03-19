@@ -1,0 +1,12 @@
+{
+  "id": "a776c06f-1a0b-4025-9691-5d769f0ff9f0",
+  "instruction": "Generate 5 questions about the poem \"Ode to a Nightingale\".",
+  "input": "",
+  "output": "1. What theme is prevalent in the poem \"Ode to a Nightingale\"?\n2. How does the nightingale inspire the speaker of the poem?\n3. What imagery does the poem use to describe the nightingale?\n4. What is the tone of the poem?\n5. What emotion is the speaker of the poem trying to convey?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "789c9a02-6bcd-43a1-801f-812321a605fd",
+  "instruction": "Classify the following sentence as belonging to Fiction or Non-Fiction: \"The Soviet Union launched the Sputnik satellite in October 1957.\"",
+  "input": "",
+  "output": "Non-Fiction",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

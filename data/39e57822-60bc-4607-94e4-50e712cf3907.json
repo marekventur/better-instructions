@@ -1,0 +1,12 @@
+{
+  "id": "39e57822-60bc-4607-94e4-50e712cf3907",
+  "instruction": "Explain the workings of a refrigerator.",
+  "input": "",
+  "output": "A refrigerator works by using an electrical compressor to circulate a refrigerant gas, usually Freon, and circulate it between the evaporator and condenser coils. The refrigerant in the evaporator coils absorbs heat from the warm air inside the refrigerator, cooling the air down. The refrigerant is then sent to the compressor, where it is compressed, raising the temperature and turning it into a hot gas. The hot gas then goes to the condenser, where it releases its heat to the outside environment and is cooled back down into liquid form. The liquid refrigerant is then sent back to the evaporator, completing the cycle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

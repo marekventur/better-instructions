@@ -1,0 +1,12 @@
+{
+  "id": "d157b230-ec83-42b0-9e56-7648b05ec889",
+  "instruction": "Is the following statement true or false? \"The Earth is the only planet in our solar system with an atmosphere.\"",
+  "input": "",
+  "output": "False. The gas giants Jupiter, Saturn, Neptune, and Uranus also have atmospheres composed mostly of hydrogen and helium.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

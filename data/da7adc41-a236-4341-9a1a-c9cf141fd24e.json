@@ -1,0 +1,12 @@
+{
+  "id": "da7adc41-a236-4341-9a1a-c9cf141fd24e",
+  "instruction": "Tell me whether the following sentence contains a metaphor or not. Output \"metaphor\" or \"no\".",
+  "input": "Life is a roller coaster.",
+  "output": "Metaphor",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

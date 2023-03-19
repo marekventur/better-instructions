@@ -1,0 +1,12 @@
+{
+  "id": "1a08b432-db98-4710-9d51-59ab37a852a7",
+  "instruction": "Give an example of a PHP-MySQL based login system.",
+  "input": "",
+  "output": "A PHP-MySQL based login system consists of creating a HTML form, creating MySQL database with table for user authentication, writing PHP script for database connection and authentication, and creating a PHP file for authentication. To create the HTML form, we need to include the necessary form fields, such as email and password; then we can create a MySQL database with table that stores the users' credentials. After that, we need to write a PHP script to connect to the database and retrieve the required user credentials. Finally, we need to create a PHP page for authentication. This page will take the form data and compare it with the data from the database, and if it matches, a successful login will be performed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

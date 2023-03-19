@@ -1,0 +1,12 @@
+{
+  "id": "0e6ade6b-5a01-4130-9b69-11b63a5f60ed",
+  "instruction": "Generate a summary of a recent news article in less than 100 words.",
+  "input": "https://www.cnn.com/2021/04/08/us/texas-blackouts-energy-spike/index.html",
+  "output": "In response to the worsening winter weather conditions in Texas and other parts of the United States, millions of Texans have been struggling with days-long blackouts and soaring energy costs. Due to weather-sensitive electricity generation sources and grid maintenance, energy providers have been unable to keep up with the energy demands. This has resulted in homes and businesses being left without power and businesses seeking to recover the lost profits. The US Energy Secretary has announced an investigation into the matter and an $80 million aid package for the affected people and businesses.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

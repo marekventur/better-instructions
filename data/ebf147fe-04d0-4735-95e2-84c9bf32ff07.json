@@ -1,0 +1,12 @@
+{
+  "id": "ebf147fe-04d0-4735-95e2-84c9bf32ff07",
+  "instruction": "Given a sentence, edit it to include the word \"because\"",
+  "input": "I chose to go",
+  "output": "I chose to go because",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "54542121-94b7-4acb-8aa5-2138f98980d7",
+  "instruction": "Discard all characters that are not letters from the following string.",
+  "input": "\"It's time to 52x3 goodbye.\"",
+  "output": "Its timetogoodbye",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "34a086e4-5bac-410a-9073-4588ae7bd365",
+  "instruction": "Take this list of ingredients, and give me a vegetarian dish.",
+  "input": "Ingredients: lettuce, tomatoes, peppers, mushrooms, avocado, beans",
+  "output": "Vegetarian taco salad made with lettuce, tomatoes, peppers, mushrooms, avocado, and beans. It can be served with a homemade dressing of olive oil, lime juice, chili powder, and garlic. Add some tortilla chips to make it a meal or top with cheese or sour cream for a delicious vegan dish.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

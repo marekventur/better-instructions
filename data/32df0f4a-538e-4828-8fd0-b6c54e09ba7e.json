@@ -1,0 +1,12 @@
+{
+  "id": "32df0f4a-538e-4828-8fd0-b6c54e09ba7e",
+  "instruction": "Generate a sentence that contains the given words.",
+  "input": "magic, castle, king",
+  "output": "The king of the magic castle cast a spell that mesmerized everyone.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

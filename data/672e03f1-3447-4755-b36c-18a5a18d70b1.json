@@ -1,0 +1,12 @@
+{
+  "id": "672e03f1-3447-4755-b36c-18a5a18d70b1",
+  "instruction": "Create a survey that could be used to evaluate the design of a mobile app.",
+  "input": "",
+  "output": "1. How easy do you find the app to understand? \n2. Do you find the app easy to navigate?\n3. Are there features you would like to see added to the app?\n4. Are there any features you found confusing or unnecessary?\n5. Do you feel like the app provides all the information you need?\n6. Do you find the visuals in the app aesthetically pleasing?\n7. How satisfied are you with the overall speed and performance of the app?\n8. Do you find any of the graphics or visuals distracting?\n9. Do you feel like the app is easy to use on a mobile phone?\n10. How likely are you to recommend this app to a friend or colleague?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0762f6d7-78ff-40ed-8d7c-4780c1fced93",
+  "instruction": "Given an input of a text, suggest three words that could replace the word \"said\".",
+  "input": "He said, \u201cI don't think this is a good idea.\u201d",
+  "output": "He proclaimed, \u201cI don't think this is a good idea.\u201d\nHe asserted, \u201cI don't think this is a good idea.\u201d\nHe opined, \u201cI don't think this is a good idea.\u201d",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

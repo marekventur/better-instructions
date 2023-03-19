@@ -1,0 +1,12 @@
+{
+  "id": "27223805-95b7-4302-bfb1-3b30e92a095b",
+  "instruction": "Analyze the answer to the following quiz question and provide a justification for the correctness/incorrectness of the answer.",
+  "input": "Question: What type of governing system is the United Kingdom?\nAnswer: The United Kingdom is a parliamentary democracy.",
+  "output": "The answer of \"The United Kingdom is a parliamentary democracy\" is correct. A parliamentary democracy is a type of government in which the executive is chosen by the legislative and can be held accountable to the legislative for decisions made. This type of governing system is a feature of the United Kingdom\u2019s government.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

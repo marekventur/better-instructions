@@ -1,0 +1,12 @@
+{
+  "id": "3564b389-0109-4d89-9340-d11584de6c74",
+  "instruction": "Identify and classify the different types of words in the given sentence.",
+  "input": "I was eating a ice cream cone while sitting on a bench.",
+  "output": "I (pronoun), was (verb), eating (verb), a (determiner), ice (noun), cream (noun), cone (noun), while (conjunction), sitting (verb), on (preposition), a (determiner), bench (noun).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

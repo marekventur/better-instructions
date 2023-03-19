@@ -1,0 +1,12 @@
+{
+  "id": "209b3690-aaf2-4ede-a73c-461001d34e0e",
+  "instruction": "Explain the usage of the keyword \"public\" in Java.",
+  "input": "",
+  "output": "In Java, the keyword \"public\" is used to declare a class, method, or field accessible to all the other classes. Public classes and methods are accessible from anywhere in the code, while public fields can be accessed directly by any class in the same package. A public class must always be declared in its own .java file with the same name as the class. A public method must also be declared in its class, with the same name and parameter types as the method.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

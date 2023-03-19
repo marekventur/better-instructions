@@ -1,0 +1,12 @@
+{
+  "id": "3b47a66a-4466-4adc-8c82-bf4a37e111c7",
+  "instruction": "Classify the following sentence as either correct or incorrect grammar:\n\n\"She likes ice cream it is tasty.\"",
+  "input": "Sentence: She likes ice cream it is tasty.",
+  "output": "Incorrect grammar. It should be \"She likes ice cream; it is tasty.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

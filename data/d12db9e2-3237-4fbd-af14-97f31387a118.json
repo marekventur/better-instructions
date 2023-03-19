@@ -1,0 +1,12 @@
+{
+  "id": "d12db9e2-3237-4fbd-af14-97f31387a118",
+  "instruction": "Given the following statement, classify it as true of false.",
+  "input": "The Earth is the only planet in the solar system with water.",
+  "output": "False. There is evidence of water on several other planets in the solar system, such as Mars and Jupiter.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

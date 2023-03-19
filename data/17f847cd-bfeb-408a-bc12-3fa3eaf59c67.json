@@ -1,0 +1,12 @@
+{
+  "id": "17f847cd-bfeb-408a-bc12-3fa3eaf59c67",
+  "instruction": "Create a basic recipe for a delicious entr\u00e9e.",
+  "input": "",
+  "output": "Vegetable pasta with olive tapenade:\nIngredients:\n\u2022 1 pound whole wheat spaghetti\n\u2022 1/2 cup kalamata olives, pitted and sliced\n\u2022 1/4 cup capers\n\u2022 2 minced garlic cloves\n\u2022 2 tablespoons extra virgin olive oil\n\u2022 2 tablespoons fresh parsley, chopped\n\u2022 1/4 teaspoon red pepper flakes\n\u2022 Salt and pepper to taste\nInstructions:\n1. Cook the spaghetti al dente according to package instructions.\n2. Meanwhile, blend the olives, capers and garlic in a food processor.\n3. Heat the olive oil in a skillet. Add the olive mixture and saut\u00e9 for 2 minutes.\n4. Add the parsley, red pepper flakes, salt and pepper, then stir.\n5. Drain the spaghetti, reserve 1/2 cup of cooking liquid, and add the spaghetti to the skillet.\n6. Cook for 1 minute, stirring, and add some of the reserved cooking liquid if necessary until desired consistency.\n7. Serve with extra parsley and red pepper flakes, if desired.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

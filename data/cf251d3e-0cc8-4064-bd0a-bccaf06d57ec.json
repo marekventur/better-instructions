@@ -1,0 +1,12 @@
+{
+  "id": "cf251d3e-0cc8-4064-bd0a-bccaf06d57ec",
+  "instruction": "Generate the quivalent hexadecimal code of the RGB color code given below.",
+  "input": "rgb(255, 47, 147)",
+  "output": "#FF2F93",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

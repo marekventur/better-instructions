@@ -1,0 +1,12 @@
+{
+  "id": "25faff3c-2bd0-4c5f-8143-86377a2aeb30",
+  "instruction": "Add the verbs \"play\", \"jump\", and \"laugh\" to a sentence.",
+  "input": "The kids",
+  "output": "The kids played, jumped, and laughed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

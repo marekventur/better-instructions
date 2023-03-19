@@ -1,0 +1,12 @@
+{
+  "id": "ebcb1c94-fbfc-4287-a268-7eeed4f8d2ec",
+  "instruction": "Generate a set of six questions that can be asked to investigate the following topic.",
+  "input": "Topic: The geological formation of mountains",
+  "output": "1. What geological processes lead to the formation of mountains?\n2. What types of rocks compose the majority of mountains? \n3. What is the difference between folded and fault-block mountains?\n4. How does elevation affect the climate and flora of mountain regions?\n5. Does mountain formation ever cause earthquakes or other seismic activity?\n6. How do mountain ranges impact global weather patterns?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

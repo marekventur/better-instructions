@@ -1,0 +1,12 @@
+{
+  "id": "bb0a3437-08a9-475f-a1b0-e2608e1369e6",
+  "instruction": "Do sentiment analysis on the statement and output a sentiment score.",
+  "input": "The government has done a really good job in handling the pandemic.",
+  "output": "Positive sentiment with a score of 0.7.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

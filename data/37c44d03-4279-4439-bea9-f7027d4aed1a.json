@@ -1,0 +1,12 @@
+{
+  "id": "37c44d03-4279-4439-bea9-f7027d4aed1a",
+  "instruction": "Select a design pattern and describe it.",
+  "input": "",
+  "output": "The Iterator design pattern is a design pattern that allows an object to traverse a collection of objects. This pattern works by providing a way to access the elements of a collection sequentially without exposing its underlying representation. By having a separate iterator object that can be used to traverse the collection, the collection can be modified independently of the iterator, allowing for changes in the collection whilst still allowing the elements to be accessed. The Iterator pattern makes it easy to traverse a collection while still providing the flexibility to modify it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

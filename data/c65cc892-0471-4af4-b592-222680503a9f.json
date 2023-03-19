@@ -1,0 +1,12 @@
+{
+  "id": "c65cc892-0471-4af4-b592-222680503a9f",
+  "instruction": "Design a conversation between a customer and a customer service representative to help the customer resolve their issue.",
+  "input": "Customer: I purchased a product 2 weeks ago and it has now stopped working.",
+  "output": "Customer: I purchased a product 2 weeks ago and it has now stopped working.\n\nCustomer Service Representative: I'm so sorry to hear that. Could you please tell me what product you bought, so that I can look into this and determine a resolution? \n\nCustomer: I bought a laptop from your store two weeks ago.\n\nCustomer Service Representative: Okay, I will check into this. Can you please provide the order ID number and a copy of the proof of purchase? \n\nCustomer: Yes, here is the order ID number and proof of purchase. \n\nCustomer Service Representative: Perfect, thank you for that. I will look into this for you and get back to you with a resolution as soon as possible. In the meantime, is there anything else I can help you with?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

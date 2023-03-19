@@ -1,0 +1,12 @@
+{
+  "id": "0a9908fc-b391-47b1-b4f9-b237e1ac50bc",
+  "instruction": "Summarize the given text in 5-8 sentences.",
+  "input": "The German Health Interview and Examination Survey for Children and Adolescents (KiGGS) is one of the largest and most comprehensive surveys ever conducted on the health and lifestyle of young people in Germany. It started in 2003 and looks at the physical and mental health of German children and adolescents between the ages of 0 and 17. In addition to providing insight into the general health of the population, KiGGS also investigates other aspects of health such as physical activity, nutrition, and family environment, as well as socio-economic determinants of health.",
+  "output": "The German Health Interview and Examination Survey for Children and Adolescents (KiGGS) is a broad survey that provides insight into the health and lifestyle of young people in Germany. The survey started in 2003 and examines the physical and mental health of children aged 0-17 from all over the country. On top of exploring general health, the survey also investigates other areas such as physical activity and nutrition, family environment, as well as social and economic factors that influence health. It is one of the largest and most comprehensive surveys of this kind and provides invaluable data for public health professionals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

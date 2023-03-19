@@ -1,0 +1,12 @@
+{
+  "id": "28602de5-c47c-4099-8a1c-bc80744911f0",
+  "instruction": "Find a stock's closing price on a given day.",
+  "input": "Apple's stock price on June 15, 2021",
+  "output": "On June 15, 2021, Apple's stock closed at $132.32.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

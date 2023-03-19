@@ -1,0 +1,12 @@
+{
+  "id": "0b08bcbc-5064-4854-bf9e-9ddab7887a36",
+  "instruction": "Separate the following words into its corresponding parts of speech and label each of them.",
+  "input": "Unforgiving",
+  "output": "Adjective: Unforgiving",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

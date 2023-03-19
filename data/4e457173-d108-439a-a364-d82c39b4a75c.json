@@ -1,0 +1,12 @@
+{
+  "id": "4e457173-d108-439a-a364-d82c39b4a75c",
+  "instruction": "What are some best practices for protecting sensitive data?",
+  "input": "",
+  "output": "Some best practices for protecting sensitive data include encrypting data both in transit and at rest; using secure storage systems such as virtual private clouds and data warehouses; restricting access to sensitive data to only those who need it; conducting regular security audits and testing; ensuring all data is backed up regularly; regularly patching applications and operating systems; and training employees about data security best practices.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

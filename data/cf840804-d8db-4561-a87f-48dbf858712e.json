@@ -1,0 +1,12 @@
+{
+  "id": "cf840804-d8db-4561-a87f-48dbf858712e",
+  "instruction": "Categorize the type of pronouns used in this sentence.",
+  "input": "She was happy for him.",
+  "output": "The pronouns used in this sentence are \"She\" (personal pronoun) and \"him\" (object pronoun).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

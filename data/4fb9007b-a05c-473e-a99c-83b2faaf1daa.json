@@ -1,0 +1,12 @@
+{
+  "id": "4fb9007b-a05c-473e-a99c-83b2faaf1daa",
+  "instruction": "Notice and correct the spelling mistake in the following sentence.",
+  "input": "The gallery contaianed hundreds of art peices.",
+  "output": "The gallery contained hundreds of art pieces.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

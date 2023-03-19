@@ -1,0 +1,12 @@
+{
+  "id": "e1b585fa-9370-447c-8f40-1f60a71d8324",
+  "instruction": "Write the code for a function that takes an array of integers and returns the sum.",
+  "input": "[1,2,3,4,5]",
+  "output": "def sum_array(arr): \n  total = 0\n  for x in arr: \n    total += x \n  return total",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

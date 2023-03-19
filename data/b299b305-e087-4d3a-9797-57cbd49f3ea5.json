@@ -1,0 +1,12 @@
+{
+  "id": "b299b305-e087-4d3a-9797-57cbd49f3ea5",
+  "instruction": "Given a product, categorize four ways it can improve the user's life",
+  "input": "Product: Alarm Clock",
+  "output": "An alarm clock can improve the user's life in four ways:\n1. An alarm clock can help people stick to a regular sleep schedule, improving their overall well-being.\n2. An alarm clock can act as a reminder for important tasks and events, helping people stay organized and on task.\n3. An alarm clock can aid in increasing productivity, helping people make the most of their available time.\n4. An alarm clock can provide a sense of security, offering peace of mind that the user won't oversleep or miss important appointments.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

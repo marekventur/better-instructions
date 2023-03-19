@@ -1,0 +1,12 @@
+{
+  "id": "d684f6a8-2510-4815-bb36-40459c4bd6de",
+  "instruction": "Summarize the given passage in no more than 25 words.",
+  "input": "The automotive industry is constantly adapting and evolving to meet the changing needs of customers. Automakers are leveraging new technologies to design more efficient, safer and greener vehicles that offer improved performance and enhanced comfort for improved customer experiences.",
+  "output": "Automotive industry is developing to meet customer needs and improve experience by using new technologies to make more efficient, safer and greener vehicles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

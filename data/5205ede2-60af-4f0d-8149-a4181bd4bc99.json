@@ -1,0 +1,12 @@
+{
+  "id": "5205ede2-60af-4f0d-8149-a4181bd4bc99",
+  "instruction": "Classify the following sentence as either stating a fact or expressing an opinion.",
+  "input": "Facebook's new policy on data privacy is a positive step.",
+  "output": "Expressing an opinion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

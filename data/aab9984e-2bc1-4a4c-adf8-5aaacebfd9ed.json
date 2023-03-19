@@ -1,0 +1,12 @@
+{
+  "id": "aab9984e-2bc1-4a4c-adf8-5aaacebfd9ed",
+  "instruction": "Transform the sentence into a question related to the topic.",
+  "input": "Google uses machine learning to analyze the data.",
+  "output": "What type of data does Google use machine learning to analyze?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

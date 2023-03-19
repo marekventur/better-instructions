@@ -1,0 +1,12 @@
+{
+  "id": "30942a7a-85ab-4dce-b3b1-2c4e1aa24761",
+  "instruction": "Insert the correct punctuation at the provided places in the following sentence.",
+  "input": "Jane silently opened the door",
+  "output": "Jane, silently opened the door.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

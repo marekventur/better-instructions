@@ -1,0 +1,12 @@
+{
+  "id": "48e6f4c2-1cf7-4f71-9429-d23ed64f4a20",
+  "instruction": "Given a celebrity, find an appropriate gift.",
+  "input": "Elon Musk",
+  "output": "One could give Elon Musk a Tesla Roadster or a SpaceX mug or t-shirt.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

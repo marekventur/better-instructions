@@ -1,0 +1,12 @@
+{
+  "id": "b6fafaa7-d686-48d5-90c2-198e9e77cdf0",
+  "instruction": "Suggest a strategy for solving this Rubik's cube puzzle.",
+  "input": "",
+  "output": "The most widely used strategies for solving Rubik's cubes are the layer-by-layer approach or the beginner's method, Fridrich's rotational method and the Corners First method. The layer-by-layer approach requires users to understand the basic moves of the cube. In the beginner's method, the user must first solve two layers at a time before moving to the third. Fridrich's rotational method is a bit more involved and requires an understanding of cube notation and algorithms. Finally, the Corners First method requires some prior knowledge of cubes although it can be learned on the go.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

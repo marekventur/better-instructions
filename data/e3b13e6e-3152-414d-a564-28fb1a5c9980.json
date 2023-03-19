@@ -1,0 +1,12 @@
+{
+  "id": "e3b13e6e-3152-414d-a564-28fb1a5c9980",
+  "instruction": "Categorize the following items into three distinct sets:",
+  "input": "Cat, Dog, Tiger",
+  "output": "Set 1: Cat\nSet 2: Dog\nSet 3: Tiger",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

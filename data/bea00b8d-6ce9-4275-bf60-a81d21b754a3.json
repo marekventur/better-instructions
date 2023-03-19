@@ -1,0 +1,12 @@
+{
+  "id": "bea00b8d-6ce9-4275-bf60-a81d21b754a3",
+  "instruction": "Evaluate the following piece of code and write a few sentences about what it does.",
+  "input": "def calculate_distance(x1, y1, x2, y2):\n    return((x2-x1)**2 + (y2-y1)**2)**0.5",
+  "output": "This code defines a function called calculate_distance which takes four arguments (x1, y1, x2, y2) which represent two coordinates in a two-dimensional space. The function then calculates the distance between these two points and returns the result.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

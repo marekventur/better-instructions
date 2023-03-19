@@ -1,0 +1,12 @@
+{
+  "id": "09332126-4bac-4d5b-917e-701dbc90e8d4",
+  "instruction": "Given a sentence, generate the reverse of it.",
+  "input": "The earth is round.",
+  "output": "Round is the earth.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

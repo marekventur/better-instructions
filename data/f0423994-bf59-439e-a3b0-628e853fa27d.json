@@ -1,0 +1,12 @@
+{
+  "id": "f0423994-bf59-439e-a3b0-628e853fa27d",
+  "instruction": "Analyze this sentence and provide a grammatically correct rephrase.",
+  "input": "My brother is not clever enough as my sister.",
+  "output": "My sister is more clever than my brother.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

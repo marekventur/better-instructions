@@ -1,0 +1,12 @@
+{
+  "id": "fbfa01d5-f7b0-45e9-b206-b6d3c4528d2f",
+  "instruction": "Create 5 open ended questions about a given topic.",
+  "input": "3D printing",
+  "output": "1. What are the advantages and disadvantages of 3D printing? \n2. How is 3D printing being used in various industries?\n3. What are the main components of a 3D printing machine?\n4. How does the technology of 3D printing work?\n5. What are the current trends in 3D printing?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "08ad1f04-0d4d-46e4-a3e9-faa33c2a83fc",
+  "instruction": "Generate a poem with the given topic. Output a poem of at least 5 lines.",
+  "input": "Spring",
+  "output": "The trees unfold their secrets,\nBudding green in the early morning sunlight.\nThe cardinal skies of remembered nights,\nRising from the mists of forgotten years.\nSplashes of bright color on the earth,\nKnown only in the vernal wake.\nLush grasses swaying with the breeze,\nAs the sun's arms embrace the season of spring.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "45d08c3f-374c-4c5c-a9a1-44022177e5e8",
+  "instruction": "Draft a press release for a new store opening",
+  "input": "Name of Store: The Green Convenience\nLocation: 100 Maroondah Highway",
+  "output": "We are delighted to announce the opening of a new convenience store, The Green Convenience, located at 100 Maroondah Highway. We will be providing our customers with all their grocery needs, plus a variety of organic and ethical products from local produce suppliers. Our store will be open seven days a week and our staff are passionate about providing the best customer service. \n\nWe are committed to having a positive impact on the environment and are dedicated to sourcing green and sustainable products. Our range will include organic fruit, vegetables, and fresh juices, as well as eco-friendly cleaning and skincare products. Additionally, we are taking measures to reduce single-use plastics and offer discounts to customers who bring reusable bags and containers. The Green Convenience is looking forward to becoming part of the community and everyone is welcome to come down and explore our range of premium goods.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

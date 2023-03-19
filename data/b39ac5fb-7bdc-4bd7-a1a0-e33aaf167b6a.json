@@ -1,0 +1,12 @@
+{
+  "id": "b39ac5fb-7bdc-4bd7-a1a0-e33aaf167b6a",
+  "instruction": "Train a GPT 3 language model to generate a realistic fake review for a given product.",
+  "input": "Product: IKEA side table",
+  "output": "I recently bought the IKEA side table for my living room and I am so pleased with it! The table looks great and fits perfectly into the corner. It's sturdy and easy to assemble. I've had it for a few weeks now and it's still in excellent condition. I would highly recommend this side table to anyone looking for a good quality piece of furniture at an affordable price. Great purchase!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

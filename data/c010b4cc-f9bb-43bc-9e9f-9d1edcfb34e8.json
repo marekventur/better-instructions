@@ -1,0 +1,12 @@
+{
+  "id": "c010b4cc-f9bb-43bc-9e9f-9d1edcfb34e8",
+  "instruction": "How can Machine Learning be used to identify spam emails?",
+  "input": "",
+  "output": "Machine Learning can be used to identify spam emails by training a model on a set of known spam emails and a set of known legitimate emails. The model can then be used to classify new incoming emails as either spam or not spam based on the words and phrases contained in them.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

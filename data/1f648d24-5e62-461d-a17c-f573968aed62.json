@@ -1,0 +1,12 @@
+{
+  "id": "1f648d24-5e62-461d-a17c-f573968aed62",
+  "instruction": "Describe the differences between BDD & TDD",
+  "input": "",
+  "output": "Behavior Driven Development (BDD) focuses on the behavior of the system being developed, while Test Driven Development (TDD) focuses on the tests that must be written to verify the behavior. TDD involves writing a test first and then writing the code to pass it, while BDD involves writing a test feature first and then developing the code to make it pass.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

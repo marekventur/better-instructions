@@ -1,0 +1,12 @@
+{
+  "id": "f2c7ebe0-0e18-4604-89e1-6eb2116f6bb2",
+  "instruction": "Construct a data table showing the differences between Keynesian and classical economics.",
+  "input": "",
+  "output": "| Keynesian Economics | Classical Economics |\n|--------------------|---------------------|\n| Favors active government intervention in the economy | Favors laissez-faire economic policies|\n| Emphasizes the role of aggregate demand in economic growth | Emphasizes the role of savings and investments in economic growth|\n| Believes that markets may under-supply goods and services due to imperfection and rigidity | Believes that markets are always self-correcting and will always achieve equilibrium|\n| Belief in the importance of counter-cyclical fiscal policy | Belief in the importance of fiscal policy that is neutral over the business cycle|\n| Generally emphasizes the use of fiscal policy to affect economic activity | Generally emphasizes the use of monetary policy to affect economic activity|",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

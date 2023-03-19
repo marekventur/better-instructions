@@ -1,0 +1,12 @@
+{
+  "id": "055b35d2-cee0-449a-b1d6-d4aa3c7d5527",
+  "instruction": "Create a timeline showing this person's life milestones.",
+  "input": "Albert Einstein",
+  "output": "1879: Born in Ulm, Germany\n\n1900: Graduated from the Z\u00fcrich Polytechnic\n\n1905: Published five scientific papers\n\n1915: Published the General Theory of Relativity\n\n1921: Awarded the Nobel Prize in Physics\n\n1939: Warned President Roosevelt about the potential of a nuclear weapon\n\n1955: Died in Princeton, New Jersey",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "687a7db2-f245-4a8c-8764-a7c6e428212d",
+  "instruction": "Categorize the following text into one of the genres: Comedy, Thriller, Romance, or Drama.",
+  "input": "Two kids from very different backgrounds meet in summer camp and form an unlikely friendship.",
+  "output": "Drama.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

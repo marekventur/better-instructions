@@ -1,0 +1,12 @@
+{
+  "id": "b1a4b80f-c3bf-457d-9bb9-17edf2401719",
+  "instruction": "Given a factsheet, figure out the company's estimated market share.",
+  "input": "Company: Cybex \nProducts: Security Solutions \nRevenue: 800 million dollars \nNumber of Competitors: 15",
+  "output": "The estimated market share of Cybex can be calculated by taking its total revenue of 800 million dollars and dividing by the aggregate revenue of all competitors. Assuming consistent revenue across all 15 competitors, the estimated market share of Cybex would be (800/15) \u00d7 100 = 53.3%. The estimated market share can be used to measure the relative size and performance of Cybex compared to its competitors in the security solutions space.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

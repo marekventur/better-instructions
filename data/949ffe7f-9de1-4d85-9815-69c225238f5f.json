@@ -1,0 +1,12 @@
+{
+  "id": "949ffe7f-9de1-4d85-9815-69c225238f5f",
+  "instruction": "Reorganize this sentence so that the words are in alphabetical order.",
+  "input": "Bitten by a dog",
+  "output": "A bitten dog by",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

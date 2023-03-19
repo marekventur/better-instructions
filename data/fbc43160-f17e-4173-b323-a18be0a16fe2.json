@@ -1,0 +1,12 @@
+{
+  "id": "fbc43160-f17e-4173-b323-a18be0a16fe2",
+  "instruction": "Choose the most appropriate adjective to describe the city.",
+  "input": "The city of Las Vegas is known for its bright lights and vibrant nightlife.",
+  "output": "The city of Las Vegas is known for its vibrant and energetic nightlife.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

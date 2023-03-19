@@ -1,0 +1,12 @@
+{
+  "id": "e163198f-2dee-46f6-8f4c-29b60fdda76a",
+  "instruction": "Compare and contrast geometric and arithmetic progressions.",
+  "input": "",
+  "output": "Both geometric and arithmetic progressions are series of numbers that follow a certain pattern. In an Arithmetic Progression (AP), each term is found by adding a constant value to the previous term. On the other hand, in a Geometric Progression (GP), each term is found by multiplying the previous term by constant value. While an AP involves the addition of numbers, a GP involves the multiplication of numbers. Additionally, the sum of terms in an AP over time will approach infinity, while the sum of terms in a GP will eventually settle at a fixed value.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

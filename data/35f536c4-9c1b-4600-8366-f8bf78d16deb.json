@@ -1,0 +1,12 @@
+{
+  "id": "35f536c4-9c1b-4600-8366-f8bf78d16deb",
+  "instruction": "Write a comparison between a laptop and a desktop.",
+  "input": "No input",
+  "output": "Laptops and desktops are both essential components of computing, but they come with distinct advantages and disadvantages. Generally, laptops are more portable and take up less space than desktop computers, but are more limited in their upgradability and power. Desktops, on the other hand, often feature more expansion capabilities and more powerful hardware, but they are less portable and require more space. Ultimately, the best option depends on the user's needs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

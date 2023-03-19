@@ -1,0 +1,12 @@
+{
+  "id": "5eec537d-9b04-4e9b-b11d-07ef61adffd0",
+  "instruction": "predict the consequences of a recession on the housing market.",
+  "input": "",
+  "output": "During a recession, the housing market typically experiences declines in both home prices and in the number of sales. This is due to decreased consumer confidence, high unemployment, and tightening credit conditions. Homeowners may also face difficulty in refinancing existing mortgages due to high interest rates or decreased home values. Furthermore, if the recession is prolonged or severe, it could lead to an increase in foreclosures and a decrease in new home construction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

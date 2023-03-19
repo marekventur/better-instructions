@@ -1,0 +1,12 @@
+{
+  "id": "c5408ff5-5837-4841-bc80-59dd95fe9d06",
+  "instruction": "Generate five questions about the following article with one sentence answer each.",
+  "input": "Apple Inc. recently released its new iPhone 12 that supports 5G technology.",
+  "output": "1. What company recently released the new iPhone 12?\nAnswer: Apple Inc.\n\n2. What type of technology does the new iPhone 12 support?\nAnswer: 5G technology \n\n3. What features does the new iPhone 12 offer?\nAnswer: It supports 5G technology.\n\n4. Are there any other products released along with the new iPhone 12?\nAnswer: Not yet.\n\n5. Are there any special offers on the new iPhone 12?\nAnswer: Not yet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

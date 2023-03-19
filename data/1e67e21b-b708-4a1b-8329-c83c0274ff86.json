@@ -1,0 +1,12 @@
+{
+  "id": "1e67e21b-b708-4a1b-8329-c83c0274ff86",
+  "instruction": "Suggest a better way to construct the sentence.",
+  "input": "I will have gone to the store.",
+  "output": "I will have been to the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

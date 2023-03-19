@@ -1,0 +1,12 @@
+{
+  "id": "9feb73ef-b8e6-426a-a934-90f3ca375bcb",
+  "instruction": "Given the following molecules, list their components.",
+  "input": "H2O",
+  "output": "H2O is composed of two hydrogen atoms and one oxygen atom.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

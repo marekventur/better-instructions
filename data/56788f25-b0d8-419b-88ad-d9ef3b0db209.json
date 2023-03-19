@@ -1,0 +1,12 @@
+{
+  "id": "56788f25-b0d8-419b-88ad-d9ef3b0db209",
+  "instruction": "Generate 2 rhyming lines for the following line.",
+  "input": "She popped the question",
+  "output": "She threw a suggestion, \nAnd made sure to mention.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

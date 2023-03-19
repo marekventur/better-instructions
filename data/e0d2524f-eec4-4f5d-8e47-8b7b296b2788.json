@@ -1,0 +1,12 @@
+{
+  "id": "e0d2524f-eec4-4f5d-8e47-8b7b296b2788",
+  "instruction": "What is the underlying principle of OOP?",
+  "input": "",
+  "output": "The underlying principle of OOP is modularity, which makes it easier to maintain, extend, and adjust the program code. This is done by breaking the program code into discrete, distinct modules that represent objects, which are defined by their attributes and the operations that can be applied to them. This allows for code reuse and modularity through inheritance, which is when a new object can be created by using the characteristics of an existing object.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

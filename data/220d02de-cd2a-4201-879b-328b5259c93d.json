@@ -1,0 +1,12 @@
+{
+  "id": "220d02de-cd2a-4201-879b-328b5259c93d",
+  "instruction": "Given a political opinion essay, detect fallacies within the text.",
+  "input": "The school district should increase funding for the music program \u2013 it\u2019s been proven that studying music has a positive effect on test scores and learning.",
+  "output": "The statement is committing the fallacy of appeal to authority. While it is true that music programs may have a positive effect on test scores, the statement does not provide evidence that the school district should increase funding for the music program.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

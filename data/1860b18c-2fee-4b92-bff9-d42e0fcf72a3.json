@@ -1,0 +1,12 @@
+{
+  "id": "1860b18c-2fee-4b92-bff9-d42e0fcf72a3",
+  "instruction": "Based on the following information, come up with a set of instructions for using a product.",
+  "input": "The product is a Bluetooth speaker.",
+  "output": "Instructions for using a Bluetooth Speaker:\n1. Turn on the speaker and pair it with your device via Bluetooth. \n2. Connect your device to the Bluetooth speaker. \n3. Adjust the volume levels to the desired setting. \n4. Play your audio. \n5. To turn off the speaker, press and hold the power button for 1-2 seconds.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

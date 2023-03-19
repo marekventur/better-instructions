@@ -1,0 +1,12 @@
+{
+  "id": "a282f592-04f7-4fd0-a97c-a41654915e3d",
+  "instruction": "Classify each of the following words as an adjective, verb, noun, or adverb.",
+  "input": "challenge",
+  "output": "Noun",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

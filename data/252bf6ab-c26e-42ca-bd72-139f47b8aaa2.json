@@ -1,0 +1,12 @@
+{
+  "id": "252bf6ab-c26e-42ca-bd72-139f47b8aaa2",
+  "instruction": "Edit the following sentence, 'We could've brought our bikes with us if there was' to be grammatically correct.",
+  "input": "We could've brought our bikes with us if there was",
+  "output": "No, it is not grammatical. Here is the correct version: We could have brought our bikes with us if there had been.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

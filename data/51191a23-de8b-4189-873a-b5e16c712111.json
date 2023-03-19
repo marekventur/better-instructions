@@ -1,0 +1,12 @@
+{
+  "id": "51191a23-de8b-4189-873a-b5e16c712111",
+  "instruction": "Create a product design document for a sunrise alarm clock.",
+  "input": "",
+  "output": "Product design document for the sunrise alarm clock will include details on the following components: \n\n- User interface: The features of the user interface will be straight-forward and organized. They will include setting the alarm time, setting a sunrise time and configuring alarm settings.\n\n- Sunrise simulation: The sunrise alarm will create a gradual lighting effect beginning 15/30 minutes before the alarm time as a simulated sunrise.\n\n- Alarm sound: The alarm sound can be customized from a selection of sounds.\n\n- Alerts: The sunrise alarm will be able to alert the user with a selection of messages the night before or in the morning when the alarm is about to go off.\n\n- Connectivity: The sunrise alarm will be able to connect to local wifi or Bluetooth, allowing users to control the alarm from a remote device.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

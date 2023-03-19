@@ -1,0 +1,12 @@
+{
+  "id": "fdddbb72-c564-4c4d-ae9f-c7478a490c65",
+  "instruction": "Write a for-loop for a given programming language.",
+  "input": "Programming Language: Python",
+  "output": "for i in range(10):\n    print(i)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

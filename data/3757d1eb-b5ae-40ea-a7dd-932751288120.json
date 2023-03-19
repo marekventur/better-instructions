@@ -1,0 +1,12 @@
+{
+  "id": "3757d1eb-b5ae-40ea-a7dd-932751288120",
+  "instruction": "Compare the dietary needs of cats and dogs.",
+  "input": "",
+  "output": "Cats and dogs have different dietary needs. Cats require a high protein diet and should not eat grains, while dogs can better tolerate a more varied diet and can benefit from grains. Cats require taurine, an amino acid that is absent from grain-based diets, while dogs can make their own. Cats also require more water, so access to fresh water should always be provided.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

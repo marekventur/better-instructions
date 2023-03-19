@@ -1,0 +1,12 @@
+{
+  "id": "b82bf9eb-c4e8-42e1-a90e-124c2d1bc0b7",
+  "instruction": "Determine the truth value of this statement: \"All carnivores have four legs.\"",
+  "input": "",
+  "output": "This statement is false, as not all carnivores have four legs. For example, snakes are carnivores but do not possess four legs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

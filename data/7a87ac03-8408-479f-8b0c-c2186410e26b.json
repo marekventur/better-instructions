@@ -1,0 +1,12 @@
+{
+  "id": "7a87ac03-8408-479f-8b0c-c2186410e26b",
+  "instruction": "Given two lyrics, compare the type of rhyme used.",
+  "input": "Lyric1: Who could deny this \nLyric2: Lying is a crime",
+  "output": "The type of rhyme used in Lyric1 is an imperfect/slant rhyme, while Lyric2 uses a perfect/true rhyme.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

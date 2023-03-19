@@ -1,0 +1,12 @@
+{
+  "id": "0d57ed31-39e1-4d1e-8c6e-359e299cda73",
+  "instruction": "Given the following parameters, design an algorithm to solve the problem.",
+  "input": "Given a list of integers and the target sum, find all combinations of numbers from the list that add up to the target sum.",
+  "output": "Algorithm:\n\n-First declare a List to store the result. \n-Create a recursive function with two parameters: a list containing the elements and the target sum. \n-Base case: If the target sum is found, add the list to the result.\n-Else: Iterate through each element in the list. \n-For each element, subtract that from the target sum and recursively call the same function with the remaining list and the new target sum. \n-After the recursion finishes, remove the current element from the list and continue the loop. \n-After the iteration is finished, return the result.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

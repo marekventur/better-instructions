@@ -1,0 +1,12 @@
+{
+  "id": "cc2015f5-8780-40c9-a612-250237645717",
+  "instruction": "Tell me what is meant by the term \u2018recursion\u2019",
+  "input": "",
+  "output": "Recursion is a technique for solving a problem by breaking it down into smaller subproblems of the same type. It is commonly used in computer programming to make algorithms more efficient by repeating a process until a certain condition is met. For example, when a program encounters a problem that has a similar structure to the problem it has already solved, it can use recursion to reuse the solutions it has already found.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

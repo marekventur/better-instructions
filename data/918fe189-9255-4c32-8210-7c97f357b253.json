@@ -1,0 +1,12 @@
+{
+  "id": "918fe189-9255-4c32-8210-7c97f357b253",
+  "instruction": "Generate a list of at least five computer algorithms that are used in Natural Language Processing.",
+  "input": "",
+  "output": "1. N-Gram Modeling\n2. Part-of-Speech Tagging\n3. Constituency Parsing\n4. Dependency Parsing\n5. Named Entity Recognition\n6. Word Embedding\n7. Topic Modeling\n8. Machine Translation\n9. Text Summarization\n10. Text-to-Speech Synthesis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

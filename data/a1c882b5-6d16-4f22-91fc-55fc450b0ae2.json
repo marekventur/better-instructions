@@ -1,0 +1,12 @@
+{
+  "id": "a1c882b5-6d16-4f22-91fc-55fc450b0ae2",
+  "instruction": "Reorder the following list to make a logical sequence",
+  "input": "Paint the wall, Cut the wood, Buy the supplies",
+  "output": "Buy the supplies, Cut the wood, Paint the wall",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

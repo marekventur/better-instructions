@@ -1,0 +1,12 @@
+{
+  "id": "1f54832b-47ad-4f6a-a5fb-0d72981476fe",
+  "instruction": "Find an available time slot for both parties.",
+  "input": "Alice is available from 10 am to 11 am on 12 April. Steve is available from 12 pm to 3 pm on the same day",
+  "output": "Alice and Steve can meet from 11am to 12 pm on 12 April.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

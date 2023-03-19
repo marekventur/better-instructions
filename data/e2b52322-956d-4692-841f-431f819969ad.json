@@ -1,0 +1,12 @@
+{
+  "id": "e2b52322-956d-4692-841f-431f819969ad",
+  "instruction": "Generate 4 sentence using the given words.",
+  "input": "Words: bridge, dolphin, sunset, steam",
+  "output": "1. The bridge curved like a rainbow in the dying light of the sunset.\n2. The steam billowed out of the engine as the dolphin leapt gracefully over the waves.\n3. Against the backdrop of the sunset, the steam curled up into the air like wisps of a ghost.\n4. The beauty of the dying light illuminated the bridge and the dolphin as they processed over the waters.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

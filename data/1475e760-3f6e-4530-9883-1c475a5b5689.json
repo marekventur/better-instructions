@@ -1,0 +1,12 @@
+{
+  "id": "1475e760-3f6e-4530-9883-1c475a5b5689",
+  "instruction": "Construct a bio for an author.",
+  "input": "J.K. Rowling",
+  "output": "J.K. Rowling is the best selling author of the world-renowned Harry Potter series, which has become one of the most widely read and beloved fantasy series of all time. With her epic story of an ordinary boy who discovers he is a wizard, Rowling has opened up a world of exploration and imagination for readers of all ages. She is also the creator of the wildly successful Fantastic Beasts franchise, and the author of several other books as well as many charitable works.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

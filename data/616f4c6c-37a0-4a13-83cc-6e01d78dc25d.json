@@ -1,0 +1,12 @@
+{
+  "id": "616f4c6c-37a0-4a13-83cc-6e01d78dc25d",
+  "instruction": "Construct a quadratic equation with integer coefficients whose roots are 3 and -5.",
+  "input": "",
+  "output": "The quadratic equation with integer coefficients that has roots 3 and -5 is x^2 + 2x - 15 = 0.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

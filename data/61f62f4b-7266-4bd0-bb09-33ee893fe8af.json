@@ -1,0 +1,12 @@
+{
+  "id": "61f62f4b-7266-4bd0-bb09-33ee893fe8af",
+  "instruction": "What is the derivative of the function y = cos(x)?",
+  "input": "",
+  "output": "-sin(x)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

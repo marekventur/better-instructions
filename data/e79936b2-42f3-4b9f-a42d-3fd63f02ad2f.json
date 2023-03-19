@@ -1,0 +1,12 @@
+{
+  "id": "e79936b2-42f3-4b9f-a42d-3fd63f02ad2f",
+  "instruction": "Describe the events in the order they occur.",
+  "input": "Visit to the beach, meal at a restaurant, rollercoaster ride.",
+  "output": "First, you visit the beach, then you go to a restaurant for a meal, and finally you take a ride on a rollercoaster.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

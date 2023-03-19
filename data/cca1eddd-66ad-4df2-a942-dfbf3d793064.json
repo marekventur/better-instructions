@@ -1,0 +1,12 @@
+{
+  "id": "cca1eddd-66ad-4df2-a942-dfbf3d793064",
+  "instruction": "Summarize the main points of the given article using 100 words or less.",
+  "input": "https://www.theverge.com/2021/3/25/22350066/apple-app-tracking-transparency-transparency-nutrition-privacy-ads-on-ios",
+  "output": "Apple recently announced App Tracking Transparency (ATT) with iOS 14.5, giving users the ability to completely opt out of tracking their data inside of apps. ATT will affect the advertising industry by requiring transparency on how this data is tracked, how it used, and who it's shared with. By limiting targeted advertising, users will be able to choose the ads they see, promote a healthier online environment, and enforce greater data privacy regulations if need be.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

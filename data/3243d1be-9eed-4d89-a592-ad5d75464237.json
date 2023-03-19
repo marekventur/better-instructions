@@ -1,0 +1,12 @@
+{
+  "id": "3243d1be-9eed-4d89-a592-ad5d75464237",
+  "instruction": "You are given a code, you need to suggest an improvement for its performance.",
+  "input": "int sum = 0; \nfor (int i = 0; i < 10; i++) { \n   sum = sum + i; \n}",
+  "output": "The code can be improved by replacing the 'for' loop with the optimized 'while' loop which can have improved performance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

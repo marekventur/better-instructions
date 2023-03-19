@@ -1,0 +1,12 @@
+{
+  "id": "730746e6-fdde-4d40-8903-216c48f93eb6",
+  "instruction": "Find a way to replace the word \"large\" by using a synonym.",
+  "input": "The elephant is a large animal.",
+  "output": "The elephant is a huge animal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

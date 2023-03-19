@@ -1,0 +1,12 @@
+{
+  "id": "c1415f55-8c23-4fd3-a52c-61cc2e104a5a",
+  "instruction": "Explain how to write a user manual for a new software program.",
+  "input": "",
+  "output": "To write a user manual for a new software program, you need to identify the target users, determine their level of experience, create a structure for the manual, gather necessary information, and make the manual easy to use. \n\nFirst, try to identify the target users of the software. This will help you determine the level of detail and complexity that should be included in the user manual. Once you know who the users are, you can create a structure for the manual. This should include a table of contents, introductions, step-by-step instructions, troubleshooting tips, and a conclusion.\n\nNext, you need to gather the necessary information. Research existing user manuals to get an idea of what should be included. You should also consult with the developers and testers to get information about the software.\n\nFinally, make the user manual easy to use. Use visuals whenever possible to illustrate concepts and instructions. Avoid using technical jargon and use simple language instead. Make sure the manual is organized in a logical order and make sure the instructions are easy to understand and follow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

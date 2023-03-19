@@ -1,0 +1,12 @@
+{
+  "id": "c04178c5-4fca-4eb6-acb4-9737506dda1e",
+  "instruction": "What is an example of structured data?",
+  "input": "",
+  "output": "An example of structured data is relational data stored in tables or databases. This type of data has a clear and well-defined structure, where each entry has categories that are consistent with each other. This can be contrasted with unstructured data, which does not follow an organized, predefined structure and is not as easy to analyze. Other examples of structured data include data from spreadsheets or other tabular forms, as well as images with meta-data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7529ff56-8bb2-4b76-a746-dc9b0152a508",
+  "instruction": "Create a list of items or features required to complete the given project",
+  "input": "A mobile web application for a grocery delivery service",
+  "output": "Requirements for Mobile Web Application for Grocery Delivery Service:\n\n1. Shopping cart with payment gateway \n2. User accounts to track orders, store preferences and delivery information\n3. Ability to search and filter products \n4. Shopping list for recurring orders\n5. Time-slot based delivery options \n6. Delivery notifications and tracking \n7. Loyalty programs \n8. Rewards for referral and promotions \n9. Adaptive design for different mobile devices",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

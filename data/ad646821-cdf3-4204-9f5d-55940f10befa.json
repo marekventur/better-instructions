@@ -1,0 +1,12 @@
+{
+  "id": "ad646821-cdf3-4204-9f5d-55940f10befa",
+  "instruction": "Correct the grammar of the sentence",
+  "input": "The car ran it's engine.",
+  "output": "The car ran its engine.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

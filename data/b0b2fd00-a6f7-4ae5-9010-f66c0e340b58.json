@@ -1,0 +1,12 @@
+{
+  "id": "b0b2fd00-a6f7-4ae5-9010-f66c0e340b58",
+  "instruction": "Improve the grammar of the given text.",
+  "input": "It was a dull and boring morning, the sky was grey and the school it was empty",
+  "output": "It was a dull and boring morning; the sky was grey and the school was empty.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

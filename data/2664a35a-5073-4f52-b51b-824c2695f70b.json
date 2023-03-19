@@ -1,0 +1,12 @@
+{
+  "id": "2664a35a-5073-4f52-b51b-824c2695f70b",
+  "instruction": "Create a dialogue between two people that incorporates the given ideas.",
+  "input": "Ideas: money saving tips, weekly budget",
+  "output": "Person 1: I'm really trying to get better at saving money. Do you have any tips?\n\nPerson 2: Absolutely! I like to set a weekly budget for myself and stick to it. That way, it's easier to monitor what I'm spending so I can save more. \n\nPerson 1: That's a great idea \u2013 I'm going to give it a try!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

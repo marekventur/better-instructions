@@ -1,0 +1,12 @@
+{
+  "id": "6edd7abf-7496-41be-98da-45b8544be3cb",
+  "instruction": "Find the area of the triangle using the length of its three sides",
+  "input": "A = 4, B = 9, C = 8",
+  "output": "The area of the triangle is 18.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

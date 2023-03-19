@@ -1,0 +1,12 @@
+{
+  "id": "2fa0301a-6292-41d4-854d-e9e4ed78604f",
+  "instruction": "Given a list of ingredients, come up with an interesting way to cook them.",
+  "input": "Salmon, garlic, butter, lemon.",
+  "output": "Make a garlic butter sauce by melting the butter and saut\u00e9ing the garlic until golden. Brush the salmon with the sauce and place it on a sheet tray. Squeeze the lemon juice over the salmon and bake in the oven until cooked through. Serve with a side of your favorite vegetable.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

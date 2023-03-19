@@ -1,0 +1,12 @@
+{
+  "id": "41c678c9-85da-4c7d-9ece-dbdc584367e8",
+  "instruction": "Edit the given sentence according to a given set of edits. Output the edited sentence.",
+  "input": "Sentence to be edited: The film is start with an exciting song.\nEdits: Change \"start\" to \"beginning\", add \"cool\" after \"exciting\"",
+  "output": "The film is beginning with an exciting cool song.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

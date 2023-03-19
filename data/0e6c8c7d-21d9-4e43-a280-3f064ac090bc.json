@@ -1,0 +1,12 @@
+{
+  "id": "0e6c8c7d-21d9-4e43-a280-3f064ac090bc",
+  "instruction": "Generate a list of 5 books, written by a female author, that you would recommend to someone who is looking for a new book to read.",
+  "input": "",
+  "output": "1. Little Women by Louisa May Alcott\n2. Beloved by Toni Morrison\n3. Pride and Prejudice by Jane Austen\n4. The Color Purple by Alice Walker\n5. The Handmaid\u2019s Tale by Margaret Atwood",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

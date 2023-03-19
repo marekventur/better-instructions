@@ -1,0 +1,12 @@
+{
+  "id": "81886f84-602a-4fcf-b2d3-ff2316006235",
+  "instruction": "Replace the <mask> token in the text below with appropriate words.",
+  "input": "This <mask> cake is a classic dessert that can be enjoyed by anyone.",
+  "output": "This chocolate cake is a classic dessert that can be enjoyed by anyone.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

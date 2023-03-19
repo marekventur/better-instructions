@@ -1,0 +1,12 @@
+{
+  "id": "1e4edeb8-230e-4e35-95d8-31dd415d6d7e",
+  "instruction": "Insert the missing punctuation, capitalization and other symbols in the following sentence.",
+  "input": "the rocks flew out of the volcano",
+  "output": "The rocks flew out of the volcano.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

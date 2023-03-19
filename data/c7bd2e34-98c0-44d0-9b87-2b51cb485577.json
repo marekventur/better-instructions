@@ -1,0 +1,12 @@
+{
+  "id": "c7bd2e34-98c0-44d0-9b87-2b51cb485577",
+  "instruction": "Provide the input data to go with the given instruction.",
+  "input": "Instruction: Identify the most common word in the given text.",
+  "output": "Input: The quick brown fox jumped over the lazy dog.\nOutput: The most common word in the text is \"the\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

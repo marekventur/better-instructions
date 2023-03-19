@@ -1,0 +1,12 @@
+{
+  "id": "906c55e0-5c1f-4297-9fbe-a67c56703c31",
+  "instruction": "Is the following message polite?",
+  "input": "Get your stuff together by tomorrow.",
+  "output": "No, this message is not polite.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

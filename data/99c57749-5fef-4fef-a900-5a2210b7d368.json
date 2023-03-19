@@ -1,0 +1,12 @@
+{
+  "id": "99c57749-5fef-4fef-a900-5a2210b7d368",
+  "instruction": "Identify the most important advice out of the given.",
+  "input": "Do your research before investing, stay calm in volatile markets and invest in a diverse portfolio.",
+  "output": "Do your research before investing is the most important advice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

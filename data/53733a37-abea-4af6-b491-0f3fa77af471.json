@@ -1,0 +1,12 @@
+{
+  "id": "53733a37-abea-4af6-b491-0f3fa77af471",
+  "instruction": "Determine the position of the given keyword in the sentence.",
+  "input": "Sentence: It is important to stay curious and keep learning\nKeyword: learning",
+  "output": "The keyword 'learning' is placed at the end of the sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

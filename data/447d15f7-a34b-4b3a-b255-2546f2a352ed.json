@@ -1,0 +1,12 @@
+{
+  "id": "447d15f7-a34b-4b3a-b255-2546f2a352ed",
+  "instruction": "Generate a classification model using the following data",
+  "input": "Temperature, Humidity, Wind_Speed, Outdoor_Activity\n\n50,30, 6, Hiking\n60,25, 3, Sunbathing\n45,50, 30, Rainy\n80,20, 8, Swimming",
+  "output": "The classification model can determine an outdoor activity given the temperature, humidity and wind speed. For example, if the temperature is 50 degrees, humidity is 30%, and wind speed is 6, the outdoor activity is likely to be hiking. Similarly, if the temperature is 80 degrees, humidity is 20%, and wind speed is 8, the outdoor activity is likely to be swimming.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

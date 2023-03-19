@@ -1,0 +1,12 @@
+{
+  "id": "16a61068-29e6-49dc-a9db-298feefdfbd9",
+  "instruction": "Given a product, create an advertisement slogan for it.",
+  "input": "toothpaste",
+  "output": "\"Brush better with toothpaste \u2013 for healthier teeth and happier smiles!\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

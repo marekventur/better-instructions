@@ -1,0 +1,12 @@
+{
+  "id": "255a2637-123d-4567-a21b-397e400e01b3",
+  "instruction": "Explain why the probability of a fair coin landing on heads is 0.5",
+  "input": "",
+  "output": "The probability of a fair coin landing on heads is 0.5 because there are only two possible outcomes when flipping a fair coin: heads or tails. Because each side of the coin is equally likely to be face up when the coin is flipped, each outcome has an equal probability of occurring. The probability of a head will always be the same as the probability of a tail, which is 0.5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

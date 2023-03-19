@@ -1,0 +1,12 @@
+{
+  "id": "d8240b95-1d6f-43b9-86b8-939607a20a06",
+  "instruction": "Create a function which takes two numbers as argument and returns the product",
+  "input": "",
+  "output": "def product(x, y):\n  return x * y",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

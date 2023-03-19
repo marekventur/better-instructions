@@ -1,0 +1,12 @@
+{
+  "id": "b785fcf1-335d-4bae-9b4d-65f29a53e905",
+  "instruction": "Given the story below, write a 3-4 sentence sequel.",
+  "input": "Alice and the White Rabbit decided to go on an adventure together.",
+  "output": "Alice and the White Rabbit went to a mysterious forest and encountered many strange creatures along the way. They found a portal that led to a magical world, full of wonders and puzzles. After hours of exploration, they finally made it to the end of their journey - a castle full of secrets. Now the two of them were determined to uncover all the secrets this new world held and take a piece of it with them as a souvenir.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

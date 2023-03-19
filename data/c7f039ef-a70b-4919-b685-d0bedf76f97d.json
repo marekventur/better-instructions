@@ -1,0 +1,12 @@
+{
+  "id": "c7f039ef-a70b-4919-b685-d0bedf76f97d",
+  "instruction": "Write a short example of dialog between two people discussing a recent news article.",
+  "input": "The recent news article is about a study which found that middle-aged people are more likely to suffer from mental health issues.",
+  "output": "Person 1: \"Did you hear about the new study about mental health issues?\"\nPerson 2: \"Yes, I did. It's really concerning how it found more and more middle-aged people are dealing with mental health issues. Do you think there might be any way to help people deal with this?\" \nPerson 1: \"I think it's really important to try and reduce the stigma around mental health and make sure people feel safer discussing their issues. There are also lots of treatments available, so I think it's important to raise awareness and encourage people to seek help if they need it.\" \nPerson 2: \"I agree, I think it's crucial that we make sure no one is going through these issues alone, and that help is available.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

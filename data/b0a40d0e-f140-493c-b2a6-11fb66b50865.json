@@ -1,0 +1,12 @@
+{
+  "id": "b0a40d0e-f140-493c-b2a6-11fb66b50865",
+  "instruction": "Given a sentence, list all the adjectives, \"The beautiful girl at the party smiled.\"",
+  "input": "",
+  "output": "Beautiful.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

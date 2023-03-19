@@ -1,0 +1,12 @@
+{
+  "id": "8c516954-6ffe-428b-92d9-ff9d442ac80b",
+  "instruction": "Make a list of five questions related to a recent news article.",
+  "input": "An article published on October 10th, 2019 titled \"Women Move Closer to Majority on Corporate Boards\"",
+  "output": "1. What percentage of seats on corporate boards are currently occupied by women?\n2. What key changes in government policy have led to increased female representation on corporate boards?\n3. How have different countries successively tackled gender imbalance in the corporate boardroom?\n4. What additional measures can be taken to further ensure female representation in corporate boardrooms?\n5. What roles do major corporations play in addressing gender inequality in the corporate boardroom?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

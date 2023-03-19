@@ -1,0 +1,12 @@
+{
+  "id": "e665ab7e-1eb1-47f7-8a13-111103050ce3",
+  "instruction": "Describe the basic idea behind a neural network.",
+  "input": "",
+  "output": "A neural network is a machine learning model composed of interconnected layers of artificial neurons that use a predictive algorithm to map input data to a desired output. Its purpose is to learn from data and recognize patterns, creating predictions based on the information it receives from the input layer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

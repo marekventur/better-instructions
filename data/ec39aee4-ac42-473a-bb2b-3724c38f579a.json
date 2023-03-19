@@ -1,0 +1,12 @@
+{
+  "id": "ec39aee4-ac42-473a-bb2b-3724c38f579a",
+  "instruction": "Given an array of objects, create an object with the property and its corresponding counts",
+  "input": "[\u201ca\u201d, \u201cb\u201d, \u201ca\u201d, \u201cc\u201d]",
+  "output": "{\n    \"a\": 2,\n    \"b\": 1,\n    \"c\": 1\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

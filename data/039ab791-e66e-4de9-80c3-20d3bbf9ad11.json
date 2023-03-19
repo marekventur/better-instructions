@@ -1,0 +1,12 @@
+{
+  "id": "039ab791-e66e-4de9-80c3-20d3bbf9ad11",
+  "instruction": "Analyze the following sentence for dependencies\n\nAt the end of the week, I want to take a vacation",
+  "input": "At the end of the week, I want to take a vacation",
+  "output": "The sentence contains two dependency relations: \n\nOne is the Subject-Verb relation between \"I\" and \"want\", and the other is the temporal relation between \"week\" and \"take\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

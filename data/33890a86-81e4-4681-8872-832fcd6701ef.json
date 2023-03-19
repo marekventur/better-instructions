@@ -1,0 +1,12 @@
+{
+  "id": "33890a86-81e4-4681-8872-832fcd6701ef",
+  "instruction": "Edit the sentence: \"Unfortunately, the store will be close today.\"",
+  "input": "Unfortunately, the store will be close today.",
+  "output": "Unfortunately, the store will be closed today.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

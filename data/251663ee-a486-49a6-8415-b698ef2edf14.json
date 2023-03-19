@@ -1,0 +1,12 @@
+{
+  "id": "251663ee-a486-49a6-8415-b698ef2edf14",
+  "instruction": "Find a source where a topic from a given field is discusseds",
+  "input": "Mechatronics",
+  "output": "Wikipedia is a good source to get an overview of the topic of mechatronics. Additionally, the International Journal of Mechatronics and Automation provides a peer-reviewed source of knowledge and research in the field of mechatronics.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

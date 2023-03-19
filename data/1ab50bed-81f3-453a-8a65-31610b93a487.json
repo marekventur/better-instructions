@@ -1,0 +1,12 @@
+{
+  "id": "1ab50bed-81f3-453a-8a65-31610b93a487",
+  "instruction": "Generate a code snippet for automating a task.",
+  "input": "A script that automates the process of sending emails.",
+  "output": "import smtplib\n\n# Establish a secure session with gmail's outgoing SMTP server \n# using your gmail account\nserver = smtplib.SMTP(\"smtp.gmail.com\", 587)\nserver.starttls()\nserver.login('my_gmail_address@gmail.com', 'my_password')\n\n# Send text message through SMS gateway of destination number\ndef send_sms(number, message):\n    server.sendmail(\n      'my_gmail_address@gmail.com',\n      number,\n      message\n    )\n\ndef send_emails():\n    # Set destination numbers\n    numbers = ['1111111111']\n      \n    # Set content of the text message\n    message = \"This is an automated message sent via email.\"\n    \n    # send each SMS\n    for number in numbers:\n        send_sms(number, message)\n\n# calling the main block\nif __name__ == '__main__':\n    send_emails()",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

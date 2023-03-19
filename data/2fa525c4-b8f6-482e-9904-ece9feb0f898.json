@@ -1,0 +1,12 @@
+{
+  "id": "2fa525c4-b8f6-482e-9904-ece9feb0f898",
+  "instruction": "Create a word cloud based on the given set of words",
+  "input": "home, school, work, family",
+  "output": "A word cloud made of the words \"home\", \"school\", \"work\", and \"family\" would show them arranged as a circle with the words \"home\" and \"family\" at the top, \"school\" and \"work\" at the bottom, and the other two words scattered throughout.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

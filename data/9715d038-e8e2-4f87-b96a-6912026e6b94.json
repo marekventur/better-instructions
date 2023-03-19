@@ -1,0 +1,12 @@
+{
+  "id": "9715d038-e8e2-4f87-b96a-6912026e6b94",
+  "instruction": "Recognize the sentiment of this sentence.",
+  "input": "I'm really happy with how my life is going.",
+  "output": "The sentiment of the sentence is positive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

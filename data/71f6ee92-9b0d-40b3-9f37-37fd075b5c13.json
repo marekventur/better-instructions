@@ -1,0 +1,12 @@
+{
+  "id": "71f6ee92-9b0d-40b3-9f37-37fd075b5c13",
+  "instruction": "Identify if this sentence is an example of alliteration.",
+  "input": "The slippery snake slithered quickly.",
+  "output": "Yes, this sentence is an example of alliteration. It has a repetition of 's' sounds, which creates a poetic sound.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

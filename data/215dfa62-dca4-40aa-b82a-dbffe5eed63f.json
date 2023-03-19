@@ -1,0 +1,12 @@
+{
+  "id": "215dfa62-dca4-40aa-b82a-dbffe5eed63f",
+  "instruction": "Please classify this song as either jazz, blues, or hip-hop.",
+  "input": "Song Title: \"Money\" by Pink Floyd",
+  "output": "This song is classified as jazz.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

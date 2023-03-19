@@ -1,0 +1,12 @@
+{
+  "id": "d9546e84-da1c-4947-b726-01445feae1c2",
+  "instruction": "Categorize the following post as either a personal or professional post.",
+  "input": "Just had the best dinner with my team from work!",
+  "output": "Personal post.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

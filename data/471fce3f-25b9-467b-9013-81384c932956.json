@@ -1,0 +1,12 @@
+{
+  "id": "471fce3f-25b9-467b-9013-81384c932956",
+  "instruction": "We have a meeting today at 10am. Set a reminder for 10 minutes before the meeting.",
+  "input": "",
+  "output": "Reminder set for 9:50am: Meeting in 10 minutes!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

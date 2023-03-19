@@ -1,0 +1,12 @@
+{
+  "id": "b47eb2a3-c9e5-46c9-982b-d6a070a7637f",
+  "instruction": "Convert the input text to Pig Latin.",
+  "input": "I like apples.",
+  "output": "Iikelay applesay.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

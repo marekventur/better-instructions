@@ -1,0 +1,12 @@
+{
+  "id": "f07ec046-45d3-489d-a470-65a29ca444e3",
+  "instruction": "Calculate how many weeks are between two dates",
+  "input": "Start date: June 15, 2020\nEnd date: October 4, 2020",
+  "output": "14 weeks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

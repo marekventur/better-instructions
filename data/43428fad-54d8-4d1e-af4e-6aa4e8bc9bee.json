@@ -1,0 +1,12 @@
+{
+  "id": "43428fad-54d8-4d1e-af4e-6aa4e8bc9bee",
+  "instruction": "Delete a specific word from the following sentence .",
+  "input": "This is the best course I have ever taken.",
+  "output": "This is the best I have ever taken.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

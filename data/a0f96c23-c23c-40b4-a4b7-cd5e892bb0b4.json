@@ -1,0 +1,12 @@
+{
+  "id": "a0f96c23-c23c-40b4-a4b7-cd5e892bb0b4",
+  "instruction": "Conduct a search query to get the current price of a purchase item.",
+  "input": "Lenovo ThinkPad X1 Carbon 2020",
+  "output": "The current price of a Lenovo ThinkPad X1 Carbon 2020 is around $1,799.99 on Amazon.com and $1,794.35 on BestBuy.com.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

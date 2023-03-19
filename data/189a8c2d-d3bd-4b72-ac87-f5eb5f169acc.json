@@ -1,0 +1,12 @@
+{
+  "id": "189a8c2d-d3bd-4b72-ac87-f5eb5f169acc",
+  "instruction": "Create a travel itinerary for a family of four.",
+  "input": "",
+  "output": "Day 1:\n-Visit the Natural History Museum\n-Have lunch at the National Gallery\n-Explore the National Portrait Gallery\n\nDay 2:\n-Spend the morning at the Science Museum\n-Have lunch at the Design Museum\n-Spend the afternoon at the Tate Modern\n\nDay 3:\n-Visit the Tower Bridge\n-Visit London Zoo\n-Tour Buckingham Palace\n\nDay 4:\n-Visit Kensington Palace\n-Have lunch at the HMS Belfast\n-Explore the London Eye",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

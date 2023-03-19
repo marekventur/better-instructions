@@ -1,0 +1,12 @@
+{
+  "id": "5c0adbb6-0d23-4390-a27b-246709965b79",
+  "instruction": "Add the word 'beautiful' to the sentence.",
+  "input": "The dress was subtle but",
+  "output": "The dress was subtle but beautiful",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e31d14b0-0fd8-41f0-8b0a-72673ba22d29",
+  "instruction": "Given the temperature is 80 degrees Fahrenheit, convert it to Celsius.",
+  "input": "80 degrees Fahrenheit",
+  "output": "80 degrees Fahrenheit is equal to 26.67 degrees Celsius.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

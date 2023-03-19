@@ -1,0 +1,12 @@
+{
+  "id": "fea8a518-2634-4674-9c24-f1faea4f39f8",
+  "instruction": "Sort the following numbers in descending order with the highest number first.",
+  "input": "52 58 40 26",
+  "output": "58 52 40 26",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

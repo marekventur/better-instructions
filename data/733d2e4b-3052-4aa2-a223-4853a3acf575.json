@@ -1,0 +1,12 @@
+{
+  "id": "733d2e4b-3052-4aa2-a223-4853a3acf575",
+  "instruction": "Distinguish two different opinions from the text.",
+  "input": "Some argue that video games can improve cognitive function and foster creativity, while others argue that video games can be distracting and potentially harm physical and mental health.",
+  "output": "Opinion 1: Video games can improve cognitive function and foster creativity.\n \nOpinion 2: Video games can be distracting and potentially harm physical and mental health.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

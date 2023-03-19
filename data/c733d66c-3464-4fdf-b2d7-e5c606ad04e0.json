@@ -1,0 +1,12 @@
+{
+  "id": "c733d66c-3464-4fdf-b2d7-e5c606ad04e0",
+  "instruction": "Find the hypotenuse of the right triangle.",
+  "input": "Side A = 8 cm, Side B = 6 cm",
+  "output": "The hypotenuse of the right triangle is 10 cm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "65146a29-6539-42af-836f-57ffe7bd6482",
+  "instruction": "Create a new list that contains only the even numbers from the given list.",
+  "input": "[3, 8, 13, 4, 17, 30]",
+  "output": "[8, 4, 30]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

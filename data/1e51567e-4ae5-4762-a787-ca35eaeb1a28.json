@@ -1,0 +1,12 @@
+{
+  "id": "1e51567e-4ae5-4762-a787-ca35eaeb1a28",
+  "instruction": "Given a list of emotions, narrate a story depicting the mixed emotions.",
+  "input": "Fear, joy, despair",
+  "output": "The little girl was overcome with a mix of emotions - fear, joy, and despair. She was scared of the dark alley she had to traverse to get to her friend's house, filled with anticipation for the surprise birthday party she was about to experience, but also feeling a little hopeless about the situation she was in. Nevertheless, she took a deep breath and walked forward, determined to make it to the party in time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

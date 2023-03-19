@@ -1,0 +1,12 @@
+{
+  "id": "d5f3341c-4fa4-4329-a095-98891b38b68b",
+  "instruction": "Create a function in Python that takes two positive integers and returns the sum of their cubes.",
+  "input": "",
+  "output": "def sum_of_cubes(x, y):\n    return x**3 + y**3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

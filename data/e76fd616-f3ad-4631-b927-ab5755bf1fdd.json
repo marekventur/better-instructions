@@ -1,0 +1,12 @@
+{
+  "id": "e76fd616-f3ad-4631-b927-ab5755bf1fdd",
+  "instruction": "Arrange the following words in alphabetical order. Output the words straight out.",
+  "input": "dolphin, apple, banana",
+  "output": "apple, banana, dolphin",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

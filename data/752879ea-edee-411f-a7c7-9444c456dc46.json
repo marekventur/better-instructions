@@ -1,0 +1,12 @@
+{
+  "id": "752879ea-edee-411f-a7c7-9444c456dc46",
+  "instruction": "Design an algorithm to sort a given list.",
+  "input": "[4, 1, 6, 5, 2]",
+  "output": "A sorting algorithm for the given list can use the following steps:\n1. Compare the first two elements and swap them if the first element is greater than the second element.\n2. Continue doing the same with the next two elements until the end of the list is reached.\n3. Repeat steps 1 and 2 until the list is in sorted order.\nThe sorted list would be: [1, 2, 4, 5, 6].",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

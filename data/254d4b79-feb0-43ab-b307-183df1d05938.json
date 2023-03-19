@@ -1,0 +1,12 @@
+{
+  "id": "254d4b79-feb0-43ab-b307-183df1d05938",
+  "instruction": "Classify this statement: I'm going to finish this project tomorrow",
+  "input": "I'm going to finish this project tomorrow",
+  "output": "This statement is a statement of intention.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

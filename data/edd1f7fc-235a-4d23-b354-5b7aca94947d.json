@@ -1,0 +1,12 @@
+{
+  "id": "edd1f7fc-235a-4d23-b354-5b7aca94947d",
+  "instruction": "Insert a word to replace the blank.",
+  "input": "Kerry is so cautious _____ she often plans her decisions several times over.",
+  "output": "Kerry is so cautious that she often plans her decisions several times over.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

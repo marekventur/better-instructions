@@ -1,0 +1,12 @@
+{
+  "id": "1f0ca60a-a984-4c46-85a5-bd30349290ca",
+  "instruction": "Set up a meeting with three people who you've never met via email.",
+  "input": "People: John, Jenny and Chris",
+  "output": "Dear John, Jenny and Chris,\n\nMy name is [Your Name], and I would like to invite all three of you to a meeting. I believe that we have a few interests in common that we can all benefit from discussing, so I would like to hear each of your opinions.\n\nWhen would be a convenient time for you to meet? I am available at the following times: [list of available times]. I look forward to hearing from you and getting to know more about each other.\n\nThank you,\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

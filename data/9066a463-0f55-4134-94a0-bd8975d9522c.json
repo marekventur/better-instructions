@@ -1,0 +1,12 @@
+{
+  "id": "9066a463-0f55-4134-94a0-bd8975d9522c",
+  "instruction": "Develop a system that can detect cyberbullying.",
+  "input": "",
+  "output": "The system should employ natural language processing algorithms to analyze text and detect signs of cyberbullying such as personal attacks, threats, and derogatory language. The system should also consider the contextual information such as the age and relationship of the participants to better detect cyberbullying.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

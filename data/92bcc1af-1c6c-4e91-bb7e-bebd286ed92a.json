@@ -1,0 +1,12 @@
+{
+  "id": "92bcc1af-1c6c-4e91-bb7e-bebd286ed92a",
+  "instruction": "Given a set of eight numbers (1,2, 3, 4, 5, 6, 7, 8), generate a sentence that reflects their order.",
+  "input": "",
+  "output": "The numbers 1, 2, 3, 4, 5, 6, 7, and 8 were counted in ascending order.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

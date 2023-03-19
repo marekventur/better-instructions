@@ -1,0 +1,12 @@
+{
+  "id": "02d882be-b832-4694-af61-fcc576279060",
+  "instruction": "Simplify the following expression: (3x - 6)(2x + 9).",
+  "input": "",
+  "output": "The simplified expression is 6x^2 + 15x - 54.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

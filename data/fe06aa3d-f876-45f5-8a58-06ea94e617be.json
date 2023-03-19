@@ -1,0 +1,12 @@
+{
+  "id": "fe06aa3d-f876-45f5-8a58-06ea94e617be",
+  "instruction": "Change the existing sentence to use a more precise and specific word.",
+  "input": "He spent his life on a journey of self-discovery.",
+  "output": "He spent his life on a voyage of self-exploration.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

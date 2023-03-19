@@ -1,0 +1,12 @@
+{
+  "id": "bfb31c04-f9fa-4bd3-85f7-149409562c05",
+  "instruction": "What are the three features of a cloud-based Database-as-a-Service (DBaaS)?",
+  "input": "",
+  "output": "The three main features of a cloud-based DBaaS are scalability, cost efficiency, and backups. Scalability allows you to increase or decrease the resources used by the DBaaS with ease. DBaaS is cost efficient because you only pay for the resources you need, when you need them. Finally, backups enable you to restore the database if necessary.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

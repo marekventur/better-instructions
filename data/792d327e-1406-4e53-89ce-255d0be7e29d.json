@@ -1,0 +1,12 @@
+{
+  "id": "792d327e-1406-4e53-89ce-255d0be7e29d",
+  "instruction": "Write a poem describing the beauty of 'X'.",
+  "input": "X: A lake",
+  "output": "A lake of radiant beauty,\nLie serene and glistening.\nReflecting the sky above,\nLike a majestic mirror.\n\nGraceful wafts of wind~\nRipples glint in the sun.\nA sanctuary of tranquility,\nBringing peace to every one.\n\nIts glittering depths dazzles,\nThe depths that sparkle and shine.\nA haven of tender beauty,\nOf Nature's most precious design.\n\nTowards the shore birds flock in,\nSeeking the shallow arc.\nFilling the air with melodies,\nOf the music of nature's park.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

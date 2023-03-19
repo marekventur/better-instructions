@@ -1,0 +1,12 @@
+{
+  "id": "c0bdc232-6de8-4ad7-a396-2fc4023b91a4",
+  "instruction": "From the following list of words, find the synonym of \"preposterous\".",
+  "input": "absurd, ridiculous, outrageous, comical",
+  "output": "absurd",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

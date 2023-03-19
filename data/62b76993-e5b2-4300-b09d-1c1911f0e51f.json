@@ -1,0 +1,12 @@
+{
+  "id": "62b76993-e5b2-4300-b09d-1c1911f0e51f",
+  "instruction": "Rewrite the following sentences so they are in the passive voice.",
+  "input": "She signed the contract.",
+  "output": "The contract was signed by her.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

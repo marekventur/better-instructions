@@ -1,0 +1,12 @@
+{
+  "id": "2ee284e5-111f-4bb4-a3ad-24be9d909983",
+  "instruction": "Write a line of code to insert the following data into a table called \u2018Orders\u2019.",
+  "input": "Object {order_id: \"ABC123\", quantity: \"10\", price: \"17.99\"}",
+  "output": "INSERT INTO Orders (order_id, quantity, price) VALUES (\"ABC123\", \"10\", 17.99);",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

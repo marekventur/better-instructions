@@ -1,0 +1,12 @@
+{
+  "id": "443d5c11-4f0b-4b57-babb-9f30b48709e3",
+  "instruction": "Classify the following text into either Business, Sports, Politics, or Entertainment.",
+  "input": "The Senate passed a bill yesterday to fund the rebuilding of infrastructure.",
+  "output": "Politics",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

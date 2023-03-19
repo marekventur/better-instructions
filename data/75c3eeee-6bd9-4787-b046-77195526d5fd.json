@@ -1,0 +1,12 @@
+{
+  "id": "75c3eeee-6bd9-4787-b046-77195526d5fd",
+  "instruction": "Compare and contrast the two given news articles.",
+  "input": "Article 1: https://www.nytimes.com/2020/10/19/world/europe/turkey-migrant-route.html\nArticle 2: https://www.nytimes.com/2020/10/19/world/europe/greece-migrant-rescue.html",
+  "output": "Both articles focus on the current migrant and refugee crisis in Europe. In the first article, the crisis is addressed from a Turkish perspective. The article outlines the country\u2019s efforts to stem the number of migrants arriving from Syria, Iraq, and Afghanistan. In addition, the article looks at the increasing number of summer boat travelers attempting to take the passage from Turkey to the Greek islands. The second article looks at the crisis from a Greek perspective. It addresses the actions taken by Greek authorities, such as patrols in the Aegean Sea and implementing more efficient dismissal processing in refugee camps. Furthermore, the article examines the operations of the Greek rescue ship, Dia Nefsi, which assists with rescue operations on the sea. Despite the two different perspectives, both articles agree that the migrant and refugee crisis in Europe needs to addressed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

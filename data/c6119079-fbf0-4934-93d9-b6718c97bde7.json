@@ -1,0 +1,12 @@
+{
+  "id": "c6119079-fbf0-4934-93d9-b6718c97bde7",
+  "instruction": "List down three properties of a given material.",
+  "input": "Lithium",
+  "output": "- Lithium is a soft, silver-white alkali metal. \n- It has the lowest density of all solid elements. \n- It has the highest electrochemical potential and is the lightest of all metals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

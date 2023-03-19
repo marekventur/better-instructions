@@ -1,0 +1,12 @@
+{
+  "id": "bc508cb1-a774-4767-9549-46236fcb31e0",
+  "instruction": "Analyze the given sentence and provide 2 examples of similes:",
+  "input": "The wind was as strong as an elephant.",
+  "output": "A\nThe wind was as powerful as a bulldozer.\nB\nThe wind was as fierce as a lion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

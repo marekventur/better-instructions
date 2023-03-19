@@ -1,0 +1,12 @@
+{
+  "id": "9d24bf09-4661-4a8c-9321-f40612313788",
+  "instruction": "Using the given facts, can you come up with a hypothesis to explain the problem?",
+  "input": "Cats in the neighborhood are meowing loudly and blocking roads.",
+  "output": "The hypothesis is that the cats are being attracted by the smell of food coming from one of the nearby homes and gathering there, which is causing them to meow loudly and block the roads.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

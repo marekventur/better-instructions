@@ -1,0 +1,12 @@
+{
+  "id": "fa4c3a30-d070-4457-ad76-33294d937508",
+  "instruction": "Write a web crawler to extract emails from a website.",
+  "input": "",
+  "output": "import requests \nfrom bs4 import BeautifulSoup\n\ndef crawler(url):\n    # Request the page from the given URL\n    resp = requests.get(url)\n    # Create the BeautifulSoup object\n    soup = BeautifulSoup(resp.text, 'html.parser')\n    \n    # Find all email addresses on the page\n    emails = [a.attrs.get('href') for a in soup.select('a[href^=mailto:]')]\n    \n    return emails",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

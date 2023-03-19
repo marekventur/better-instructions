@@ -1,0 +1,12 @@
+{
+  "id": "3fe2bf5e-d2c5-4f0d-a578-ea66df1942f4",
+  "instruction": "Make a correction to the given sentence in the most appropriate way.",
+  "input": "In the Western part of Europe, are many countries.",
+  "output": "In the Western part of Europe, there are many countries.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

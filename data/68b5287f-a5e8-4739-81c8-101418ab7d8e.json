@@ -1,0 +1,12 @@
+{
+  "id": "68b5287f-a5e8-4739-81c8-101418ab7d8e",
+  "instruction": "Calculate the average order value for the past month.",
+  "input": "A dataset containing a list of orders (order number, product, quantity, and price) in the past month.",
+  "output": "To calculate the average order value for the past month, add up the total amount of all the orders in the dataset, then divide it by the total number of orders in the dataset. For example, if the total amount of all orders is $1000 and there are 10 orders in the dataset, then the average order value is $100.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3274bc55-e6a3-4441-8c14-569416ca108f",
+  "instruction": "Select the best photo from the following choice of four photos.",
+  "input": "(1) A portrait photo of a bird flying in front of a lake, \n(2) A photo of a sunrise over the horizon, \n(3) A photo of a city skyline, \n(4) A landscape photo of a mountain and valley.",
+  "output": "The best photo from the four choices is (2) A photo of a sunrise over the horizon. It has vibrant colors, an intriguing sky, and serene beauty.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

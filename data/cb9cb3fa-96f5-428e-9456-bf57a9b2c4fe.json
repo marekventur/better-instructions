@@ -1,0 +1,12 @@
+{
+  "id": "cb9cb3fa-96f5-428e-9456-bf57a9b2c4fe",
+  "instruction": "Find the root causes of global warming.",
+  "input": "",
+  "output": "Global warming is largely caused by the emission of greenhouse gases such as carbon dioxide, methane, and nitrous oxide, which trap heat in the atmosphere. These gases can be emitted from natural sources such as volcanic eruptions and wildfires, but the largest contributors to global warming are from human activities. Burning fossil fuels for energy, industrial activities, land-use changes such as deforestation, and intensive animal agriculture are the main sources of human-caused greenhouse gas emission. Additionally, the emission of other air pollutants such as aerosols, ozone, and black carbon particles, which can interact with and exacerbate global warming, can also be caused by human activities. \n \nIn summary, the root causes of global warming are emissions of greenhouse gases, air pollutants, and other human activities that contribute to the buildup of these gases in the atmosphere.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

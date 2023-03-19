@@ -1,0 +1,12 @@
+{
+  "id": "07e2019d-2d8b-4f71-bd31-ad846bd1f358",
+  "instruction": "Extract the information from the input string.",
+  "input": "The meeting is scheduled for 02/20/2021 at 12:00 pm.",
+  "output": "Date: 02/20/2021 \nTime: 12:00 pm",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

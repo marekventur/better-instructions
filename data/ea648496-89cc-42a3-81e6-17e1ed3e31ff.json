@@ -1,0 +1,12 @@
+{
+  "id": "ea648496-89cc-42a3-81e6-17e1ed3e31ff",
+  "instruction": "In the following document, replace the phrase \u201cinvestment program\u201d with \u201cbusiness strategy\u201d",
+  "input": "We are launching an investment program to help grow our company.",
+  "output": "We are launching a business strategy to help grow our company.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

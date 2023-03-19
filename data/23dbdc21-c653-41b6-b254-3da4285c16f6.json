@@ -1,0 +1,12 @@
+{
+  "id": "23dbdc21-c653-41b6-b254-3da4285c16f6",
+  "instruction": "We have some data about different cities. Generate a description for each record that is one sentence long.",
+  "input": "New York City | population | 8 million \nLos Angeles | population | 4 million",
+  "output": "New York City is a city of 8 million people, while Los Angeles has a population of 4 million.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

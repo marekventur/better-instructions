@@ -1,0 +1,12 @@
+{
+  "id": "105f1b87-c91b-43df-b8ac-41da8c8e04b7",
+  "instruction": "Rewrite the following sentence in a more concise way: \"The dog that I saw in the park, it was black in color.\"",
+  "input": "The dog that I saw in the park, it was black in color.",
+  "output": "I saw a black dog in the park.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

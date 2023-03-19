@@ -1,0 +1,12 @@
+{
+  "id": "0ca01880-de43-4790-9ea5-8886a0b22f7b",
+  "instruction": "Given a list of words, group them into two sets according to their part of speech, nouns and verbs",
+  "input": "laugh, jump, walk, family",
+  "output": "Nouns: family\nVerbs: laugh, jump, walk",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

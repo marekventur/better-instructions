@@ -1,0 +1,12 @@
+{
+  "id": "bbfe71ce-d72e-4568-a819-2ec6b3b0b896",
+  "instruction": "Find the mistake in the following sentence and correct it",
+  "input": "He sadly said his farewells",
+  "output": "He sadly said his farewell.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

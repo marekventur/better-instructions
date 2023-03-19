@@ -1,0 +1,12 @@
+{
+  "id": "4f28a95c-5575-444e-a851-7d094b717201",
+  "instruction": "Create an algorithm for sorting the following input in ascending order.",
+  "input": "2, 5, 1, 4, 9",
+  "output": "1. Declare a variable for the unsorted array of integers.\n2. Initialize the variable to the given input. \n3. Establish a loop from the smallest index to the largest index.\n4. Within the loop, compare the current element with each other element within the range.\n5. Swap the elements if the current element is greater than the other element.\n6. Once the loop completes the array will be sorted in ascending order.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

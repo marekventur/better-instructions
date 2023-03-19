@@ -1,0 +1,12 @@
+{
+  "id": "b3bc3402-1518-410a-b6ef-6d3fc07c1800",
+  "instruction": "Construct a data model for a hospital.",
+  "input": "",
+  "output": "A hospital data model should contain entities for patients, staff, rooms, appointments, treatments, and medications. Each entity should have attributes to represent the details of the hospital data. For example, a patient entity should have attributes such as name, age, address, and phone number. Additionally, relationships need to be constructed between the entities to represent the data structure. For example, a patient can have a one-to-many relationship with appointments, as a patient can have multiple appointments.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

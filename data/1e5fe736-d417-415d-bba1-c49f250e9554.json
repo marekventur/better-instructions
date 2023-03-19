@@ -1,0 +1,12 @@
+{
+  "id": "1e5fe736-d417-415d-bba1-c49f250e9554",
+  "instruction": "Sum up the ratings for the following reviews.",
+  "input": "Review 1: 4 Stars\nReview 2: 3 Stars\nReview 3: 5 Stars",
+  "output": "12 Stars",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

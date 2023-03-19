@@ -1,0 +1,12 @@
+{
+  "id": "aa413183-3bb8-4d6e-b459-247deef65371",
+  "instruction": "Write a function that returns the codes of the characters of a given string.",
+  "input": "string str = \"Hello World!\";",
+  "output": "void getCharCodes(string str) {\n    for (int i = 0; i < str.length(); i++) {\n        cout << \"Character \" << str[i] << \" has the code: \" << (int)str[i] << endl;\n    }\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

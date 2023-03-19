@@ -1,0 +1,12 @@
+{
+  "id": "3de45166-3667-431e-8cea-8064d2bfbb9e",
+  "instruction": "Create a recipe containing at least 3 ingredients.",
+  "input": "",
+  "output": "This recipe contains three ingredients and is perfect for a quick and easy snack. \nIngredients: 1 cup of popcorn kernels, 2 tablespoons of melted butter, and 1 teaspoon of dried oregano. \nMethod: Place the popcorn kernels into a medium-sized pot and heat over medium-high heat. Cover the pan and shake it occasionally until the popcorn is mostly popped. Melt the butter in a bowl and stir in the dried oregano. Pour the butter over the popcorn, stirring to coat all of the popcorn evenly. Serve warm and enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

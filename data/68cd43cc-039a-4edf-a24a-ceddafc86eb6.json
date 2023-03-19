@@ -1,0 +1,12 @@
+{
+  "id": "68cd43cc-039a-4edf-a24a-ceddafc86eb6",
+  "instruction": "Name three ways to prevent software bugs.",
+  "input": "",
+  "output": "Three ways to prevent software bugs include 1) writing quality code by utilizing version control and testing systems, 2) thoroughly testing the software after making changes and before releasing to production, and 3) implementing automation for continuous testing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

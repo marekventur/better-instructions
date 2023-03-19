@@ -1,0 +1,12 @@
+{
+  "id": "c0429459-5ef5-403b-b4c3-559f9f9c14fb",
+  "instruction": "Given a sentence, fill in the blank with the most suitable noun from a selected list of nouns.",
+  "input": "The teacher was teaching the students ________ \nNouns: mathematics, history, chemistry",
+  "output": "The teacher was teaching the students mathematics",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

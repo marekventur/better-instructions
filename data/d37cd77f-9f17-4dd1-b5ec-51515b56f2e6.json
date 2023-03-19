@@ -1,0 +1,12 @@
+{
+  "id": "d37cd77f-9f17-4dd1-b5ec-51515b56f2e6",
+  "instruction": "Generate a list of questions for a job interview for a Sales Manager.",
+  "input": "",
+  "output": "- What experience do you have in sales management? \n- What strategies do you use to motivate a sales team? \n- How do you handle a challenging customer? \n- How do you evaluate the success of a sales campaign?\n- What methods do you use to build strong customer relationships?\n- How do you track sales and performance metrics?\n- Have you ever developed a sales training program?\n- What approach do you use to set sales goals?\n- What strategies do you use to stay organized in your sales role?\n- How do you respond when sales targets are not met?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

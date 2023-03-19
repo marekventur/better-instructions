@@ -1,0 +1,12 @@
+{
+  "id": "a5f97fb4-2ac7-45a4-9c21-b89435fb841e",
+  "instruction": "Generate an article title given the topic.",
+  "input": "Topic: The Best Journalism Practices",
+  "output": "\"5 Essential Tips For Becoming A Great Journalist\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

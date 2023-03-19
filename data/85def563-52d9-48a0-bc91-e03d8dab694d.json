@@ -1,0 +1,12 @@
+{
+  "id": "85def563-52d9-48a0-bc91-e03d8dab694d",
+  "instruction": "Given the following list of colors, find a combination for an eye-catching wall decoration.",
+  "input": "* Blue\n* Green\n* Red",
+  "output": "A combination of blue, green, and red would make a vibrant and eye-catching wall decoration.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

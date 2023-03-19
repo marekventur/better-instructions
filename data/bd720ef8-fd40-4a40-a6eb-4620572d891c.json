@@ -1,0 +1,12 @@
+{
+  "id": "bd720ef8-fd40-4a40-a6eb-4620572d891c",
+  "instruction": "Determine whether an input is a palindrome",
+  "input": "racecar",
+  "output": "Yes, 'racecar' is a palindrome.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

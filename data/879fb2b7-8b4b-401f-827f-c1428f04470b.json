@@ -1,0 +1,12 @@
+{
+  "id": "879fb2b7-8b4b-401f-827f-c1428f04470b",
+  "instruction": "Choose 3 topics from the list and create a short article about each of them.",
+  "input": "Topics:\n- Human cloning\n- Global pandemics\n- Automation technology",
+  "output": "1. Human Cloning\nHuman cloning is a process of creating duplicate copies of an organism by using the process of asexual reproduction. It is currently a highly controversial topic as it can be used for many purposes such as cloning body parts for treatment of diseases and for replacing certain organs in the body.\n\n2. Global Pandemics\nGlobal pandemics are disease outbreaks that span large geographic areas and impact human health on a large scale. The most recent global pandemic has been COVID-19, which has infected millions of people worldwide and impacted economies and businesses globally.\n\n3. Automation Technology\nAutomation technology is the use of machines and computer systems to automate repetitive and repetitive tasks. Automation technology allows businesses to free up resources, streamline production processes, and increase profits.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

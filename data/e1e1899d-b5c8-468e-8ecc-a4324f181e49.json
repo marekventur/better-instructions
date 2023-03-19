@@ -1,0 +1,12 @@
+{
+  "id": "e1e1899d-b5c8-468e-8ecc-a4324f181e49",
+  "instruction": "Evaluate the following website on a scale of 1-10.",
+  "input": "(Website URL)",
+  "output": "I would rate this website an 8 out of 10. The design is attractive and modern, and it has a lot of useful content. Navigation is easy and the load times are fast. The only room for improvement would be in the search functionality, which could be made more precise and user-friendly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

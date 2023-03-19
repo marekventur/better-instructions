@@ -1,0 +1,12 @@
+{
+  "id": "2d5f1cb5-088e-4aa5-ba9b-62c7aa759b32",
+  "instruction": "How would you modify the given sentence so that it has a different meaning?",
+  "input": "I always wake up early.",
+  "output": "I seldom wake up early.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3919cb30-49a7-4720-aac3-8b25d6af566b",
+  "instruction": "Eliminate any incorrect words or phrases from the sentence.",
+  "input": "It's very kind of your of you to do this.",
+  "output": "It's very kind of you to do this.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9fd47627-a955-446c-a0ed-ba999ffd64f8",
+  "instruction": "Create a system to organize employee data and track performance.",
+  "input": "",
+  "output": "The system should involve having a database to store employee data, such as personal details, contact information, job title, salary, and performance metrics. The database should also have a way to store records of any training the employee has had, as well as performance evaluations and reviews. \n\nThe system should also feature an intuitive user-interface with the ability to add, modify, and delete data. It should also have an automated alert system to notify managers of any changes or upcoming deadlines. Finally, the system should include analytics capabilities to measure employee performance and track performance over time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

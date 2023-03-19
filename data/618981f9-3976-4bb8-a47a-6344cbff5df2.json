@@ -1,0 +1,12 @@
+{
+  "id": "618981f9-3976-4bb8-a47a-6344cbff5df2",
+  "instruction": "Rank the following in terms of importance",
+  "input": "Jobs, education, health",
+  "output": "In terms of importance, health should be ranked first, followed by education, and then jobs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

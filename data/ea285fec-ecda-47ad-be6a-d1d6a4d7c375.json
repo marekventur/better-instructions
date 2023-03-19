@@ -1,0 +1,12 @@
+{
+  "id": "ea285fec-ecda-47ad-be6a-d1d6a4d7c375",
+  "instruction": "Determine the truth value of the statement.",
+  "input": "All cats are blue.",
+  "output": "False.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

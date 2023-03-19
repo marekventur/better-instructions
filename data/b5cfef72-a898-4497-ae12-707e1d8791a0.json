@@ -1,0 +1,12 @@
+{
+  "id": "b5cfef72-a898-4497-ae12-707e1d8791a0",
+  "instruction": "Find the word with the most occurences in the following sentence.",
+  "input": "The cat in the hat can run and jump.",
+  "output": "The (3 occurences)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

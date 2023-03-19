@@ -1,0 +1,12 @@
+{
+  "id": "607240fa-3e65-4456-986a-a8874dd3fa9d",
+  "instruction": "Classify these following films as either comedy or drama.",
+  "input": "The Godfather, Spider-Man, Forrest Gump",
+  "output": "The Godfather - Drama\nSpider-Man - Comedy\nForrest Gump - Drama",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

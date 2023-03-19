@@ -1,0 +1,12 @@
+{
+  "id": "5b425bac-a6a0-4337-baa9-57cafbd10054",
+  "instruction": "Classify the following sentence into one of the following labels: [positive, negative, neutral]",
+  "input": "My laptop seems to be slow today.",
+  "output": "Neutral",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

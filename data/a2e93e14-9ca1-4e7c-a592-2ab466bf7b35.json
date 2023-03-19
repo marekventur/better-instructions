@@ -1,0 +1,12 @@
+{
+  "id": "a2e93e14-9ca1-4e7c-a592-2ab466bf7b35",
+  "instruction": "Construct a table of the countries in Europe and their corresponding capital cities.",
+  "input": "",
+  "output": "Country | Capital\n------------| -------------\nFrance | Paris\nGermany | Berlin\nItaly | Rome\nSpain | Madrid\nGreece | Athens\nNetherlands | Amsterdam\nUkraine | Kyiv\nDenmark | Copenhagen\nSweden | Stockholm\nUnited Kingdom | London",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

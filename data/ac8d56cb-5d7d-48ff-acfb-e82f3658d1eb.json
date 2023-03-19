@@ -1,0 +1,12 @@
+{
+  "id": "ac8d56cb-5d7d-48ff-acfb-e82f3658d1eb",
+  "instruction": "Change an exclamatory sentence to an interrogative sentence",
+  "input": "She is beautiful!",
+  "output": "Is she beautiful?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

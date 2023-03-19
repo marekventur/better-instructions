@@ -1,0 +1,12 @@
+{
+  "id": "982f1a14-2610-4e05-b210-1206067516e5",
+  "instruction": "Create a greeting for a customer who just made a purchase.",
+  "input": "The customer just purchased a pair of headphones.",
+  "output": "Thank you for your purchase! We hope you enjoy using your new headphones.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

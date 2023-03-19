@@ -1,0 +1,12 @@
+{
+  "id": "adca4739-90aa-4474-b5de-9a7e68b40c37",
+  "instruction": "Given the following paragraph, identify and list the animals mentioned in it.",
+  "input": "The monkey climbed up the tree and the lion roared. In the distance, the elephants trumpeted and the birds chirped.",
+  "output": "Monkey, lion, elephants, birds.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "711e2b62-ba15-4682-ac33-9924fa7711dc",
+  "instruction": "Paraphrase a given sentence.",
+  "input": "I ate some pizza for dinner.",
+  "output": "I had pizza for my evening meal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

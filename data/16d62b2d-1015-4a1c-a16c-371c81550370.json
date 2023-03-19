@@ -1,0 +1,12 @@
+{
+  "id": "16d62b2d-1015-4a1c-a16c-371c81550370",
+  "instruction": "Compute the derivative of 2x^2 + 5x.",
+  "input": "",
+  "output": "4x + 5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d6c62b9a-1586-4de8-a49e-f39fcd8e3af7",
+  "instruction": "Take a text of any length and rephrase it as a haiku poem.",
+  "input": "Life is too short to waste away.",
+  "output": "Life fleeting always passes/Enjoy now for it slips away/Cherish moments worthwhile",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

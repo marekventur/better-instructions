@@ -1,0 +1,12 @@
+{
+  "id": "033cc760-0b7a-4733-b5ef-17338f6c687d",
+  "instruction": "Come up with three questions to test a GPT model for text summarization",
+  "input": "",
+  "output": "1. Given a long text, can the GPT model accurately summarize the key points? \n2. Given two different summaries of the same text, can the GPT model identify which one is the best summary? \n3. Is the GPT model able to capture the overall tone of the text when summarizing it?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

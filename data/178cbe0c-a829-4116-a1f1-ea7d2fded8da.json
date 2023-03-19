@@ -1,0 +1,12 @@
+{
+  "id": "178cbe0c-a829-4116-a1f1-ea7d2fded8da",
+  "instruction": "In this task, you will make changes to an existing sentence by replacing some of the words with synonyms and rearranging the words.",
+  "input": "The manager yelled at the employee for making a mistake.",
+  "output": "The manager vociferated at the worker for producing an error.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

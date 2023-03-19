@@ -1,0 +1,12 @@
+{
+  "id": "f2ecd25e-afb7-4e92-913e-0536c52d9fd0",
+  "instruction": "Explain why this action is a good choice",
+  "input": "Action: Change from traditional light bulbs to LED bulbs",
+  "output": "Choosing LED bulbs is a great choice because they provide the same amount of light as traditional bulbs, but use significantly less energy and therefore have a significantly smaller carbon footprint. LEDs also tend to last longer and cost less over time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

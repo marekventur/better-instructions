@@ -1,0 +1,12 @@
+{
+  "id": "2d2ce601-50e0-4cfc-9cfe-0ee63aaae09c",
+  "instruction": "Replace the mask with a proper verb in present continuous tense that can substitute for the sentence.",
+  "input": "The train <mask> away from the station.",
+  "output": "The train is pulling away from the station.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bef26942-0d55-44d0-bf06-38baacb309c9",
+  "instruction": "Construct a SQL query to identify the top 5 users with the most transactions",
+  "input": "No input",
+  "output": "SELECT users.name, COUNT(transactions.id) AS total_transaction\nFROM users INNER JOIN transactions ON users.id = transactions.user_id\nGROUP BY users.name\nORDER BY total_transactions DESC\nLIMIT 5;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

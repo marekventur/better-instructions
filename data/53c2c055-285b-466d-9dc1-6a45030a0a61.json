@@ -1,0 +1,12 @@
+{
+  "id": "53c2c055-285b-466d-9dc1-6a45030a0a61",
+  "instruction": "Classify this object as either a flora, fauna, or mineral.",
+  "input": "Wood",
+  "output": "Flora",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

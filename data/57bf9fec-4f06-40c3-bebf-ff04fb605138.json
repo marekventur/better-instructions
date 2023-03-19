@@ -1,0 +1,12 @@
+{
+  "id": "57bf9fec-4f06-40c3-bebf-ff04fb605138",
+  "instruction": "Create a program that logs the temperature of the computer and limits its usage depending on the given value.",
+  "input": "",
+  "output": "The program should continuously measure the temperature of the computer in the background and display a warning when the temperature exceeds a pre-defined threshold. If the temperature reaches a critical level, the program should take corrective measures to reduce the temperature such as limiting the usage of the computer by alerting the user and throttling the performance of the processor to prevent the system from overheating.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

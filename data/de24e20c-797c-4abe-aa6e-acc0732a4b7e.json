@@ -1,0 +1,12 @@
+{
+  "id": "de24e20c-797c-4abe-aa6e-acc0732a4b7e",
+  "instruction": "Provide an example of a haiku with the given words.",
+  "input": "Midnight, dreams, stars",
+  "output": "Dreams come alive at midnight \nStars shine bright in the sky",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

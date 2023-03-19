@@ -1,0 +1,12 @@
+{
+  "id": "4162d967-7f2c-424a-ba89-68d40dcd2164",
+  "instruction": "Classify the following sentence: She quickly ran away.",
+  "input": "She quickly ran away.",
+  "output": "This sentence is classified as an action.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

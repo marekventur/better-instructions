@@ -1,0 +1,12 @@
+{
+  "id": "d8b4b327-6038-4380-b708-d32bef5f4a42",
+  "instruction": "Can you change the sentence to use a synonym for the word 'acquire'?",
+  "input": "The company has been trying to acquire new customers.",
+  "output": "The company has been trying to obtain new customers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

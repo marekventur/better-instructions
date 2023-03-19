@@ -1,0 +1,12 @@
+{
+  "id": "cdcaf41d-9faa-46b0-adb6-dc111033380e",
+  "instruction": "Based on the given context, identify the most likely genre of the story.",
+  "input": "The protagonist was a young girl, who had the mystical ability to see into the future.",
+  "output": "Fantasy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

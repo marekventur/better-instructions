@@ -1,0 +1,12 @@
+{
+  "id": "73431c19-3332-437f-a91e-68e0044fecc1",
+  "instruction": "Edit the following sentence for verb tense",
+  "input": "He swimmed across the lake",
+  "output": "He swam across the lake.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

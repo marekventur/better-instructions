@@ -1,0 +1,12 @@
+{
+  "id": "f8f0f270-4824-4b6e-83b3-186bd445b0be",
+  "instruction": "Write a CSS rule to center the words \"center me\" in the page.",
+  "input": "",
+  "output": "div {\n    text-align: center;\n}\n\n#center me {\n    text-align: center;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

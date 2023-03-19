@@ -1,0 +1,12 @@
+{
+  "id": "e6a0cc29-2bf0-4930-b79f-f096adc5c39f",
+  "instruction": "Identify two arguments used in the text.",
+  "input": "The rule that requires employers to provide access to health insurance for their employees should remain in place.",
+  "output": "Argument 1: Employers should be required to provide access to health insurance for their employees.\n\nArgument 2: The rule should remain in place.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

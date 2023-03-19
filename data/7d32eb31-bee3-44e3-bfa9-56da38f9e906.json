@@ -1,0 +1,12 @@
+{
+  "id": "7d32eb31-bee3-44e3-bfa9-56da38f9e906",
+  "instruction": "Update the given document with the provided information",
+  "input": "Document:\n\nJohn Smith is a software engineer who has been working at ABC Corp for the past 7 years. He has extensive experience in software development and product design. \n\nAdditional Information: \n\n- John was promoted to Technical Lead in 2018\n- His team is working on the new XYZ project",
+  "output": "John Smith is a software engineer and Technical Lead who has been working at ABC Corp for the past 7 years. His extensive experience in software development and product design has been instrumental in their new XYZ project. In 2018, he was also promoted to Technical Lead.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

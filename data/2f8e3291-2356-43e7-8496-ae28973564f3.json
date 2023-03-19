@@ -1,0 +1,12 @@
+{
+  "id": "2f8e3291-2356-43e7-8496-ae28973564f3",
+  "instruction": "Change this sentence from past tense to future tense.",
+  "input": "He walked away from the conversation.",
+  "output": "He will walk away from the conversation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "94bfe155-ecc9-4498-a1ea-9670151941b6",
+  "instruction": "Given a weather forecast, list possible outdoor activities that can be done.",
+  "input": "Weather forecast: partly cloudy",
+  "output": "Possible activities that can be done under partly cloudy skies include going for a hike, having a picnic, playing frisbee, golfing, and going for a bike ride.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

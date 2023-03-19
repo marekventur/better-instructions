@@ -1,0 +1,12 @@
+{
+  "id": "62d0e3d1-5016-4829-a0c6-5b0ae61d778f",
+  "instruction": "Explain what \"encrypted data\" is",
+  "input": "",
+  "output": "Encrypted data is data that has been converted into a secure format that is unreadable to any but those who possess the proper decryption keys. It is a way of keeping data secure and private from unwanted access or modification. Encrypted data can only be decrypted using a specialized algorithm and the appropriate key.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

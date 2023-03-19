@@ -1,0 +1,12 @@
+{
+  "id": "83fc86be-61b7-4280-8b05-ffa37366707d",
+  "instruction": "Classify the following expression as a negative statement.",
+  "input": "I don't understand the question.",
+  "output": "Yes, the statement \"I don't understand the question\" is a negative statement.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

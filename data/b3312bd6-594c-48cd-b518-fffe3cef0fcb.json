@@ -1,0 +1,12 @@
+{
+  "id": "b3312bd6-594c-48cd-b518-fffe3cef0fcb",
+  "instruction": "Process a speech with a text-generating model.",
+  "input": "A speech given by Sir Winston Churchill at Harvard University in September 1943",
+  "output": "The text-generating model processes the speech given by Sir Winston Churchill at Harvard University in September 1943 and outputs a summary of the speech. The summary includes Churchill's main points about the essential dignity and unity of all humanity, which he argued was essential to making the world a better place. The summary also highlights his call to face a future of opportunity together instead of succumbing to the dangers of prejudice and intolerance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

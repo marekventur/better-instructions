@@ -1,0 +1,12 @@
+{
+  "id": "60fc9c6c-ebdb-42ee-97e1-bb577c2792e6",
+  "instruction": "Provide three possible analogies for the following statement",
+  "input": "Software is like a puzzle",
+  "output": "1. Software development is like putting together a jigsaw puzzle - each piece has to fit perfectly together for the whole to work. \n2. Writing software is like solving a complicated jigsaw puzzle - each piece has to fit in the right place for it to work. \n3. Developing software is like completing a 3D puzzle - each component must be put in the right place for the application to work.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

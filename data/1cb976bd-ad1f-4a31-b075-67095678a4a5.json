@@ -1,0 +1,12 @@
+{
+  "id": "1cb976bd-ad1f-4a31-b075-67095678a4a5",
+  "instruction": "Summarize the lyrics of a song.",
+  "input": "Song title: \"Firework\" by Katy Perry",
+  "output": "\"Firework\" tells listeners to hold onto their unique and powerful potential and that this potential can be used to make the world a brighter place. It encourages people to light up the sky and be unafraid to make their dreams come true. The song emphasizes self-worth and the power of turning doubt into confidence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1b8df257-cc4d-48dc-827e-f40ee8b4e751",
+  "instruction": "Compare the given two pieces of artwork and tell us how they are similar and different.",
+  "input": "[Image 1]\n\n[Image 2]",
+  "output": "The two pieces of artwork are similar in that they both incorporate highly stylized and vibrant colors. They are different in that Image 1 uses blocky shapes and geometric patterns, while Image 2 uses more organic shapes and lines.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

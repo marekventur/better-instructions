@@ -1,0 +1,12 @@
+{
+  "id": "244ea6e4-56fd-42ba-8e3b-4911297b7348",
+  "instruction": "Create a script for performing basic computations with text data.",
+  "input": "",
+  "output": "import string\n\n# define a function to remove punctuation from a text data string\ndef rem_punct(text):\n    no_punct = \"\"\n    for char in text:\n        if char not in string.punctuation:\n            no_punct = no_punct + char\n    return no_punct\n\n# define a function for counting number of words in a text data string\ndef word_count(words):\n    count = 0\n    for word in words.split():\n        count+=1\n    return count\n\n# define a function for calculating the average length of words\ndef avg_word_length(words):\n    count = 0\n    total_length = 0\n    for word in words.split():\n        total_length += len(word)\n        count+=1\n    return total_length/count",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

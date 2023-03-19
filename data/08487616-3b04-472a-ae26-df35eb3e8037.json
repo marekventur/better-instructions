@@ -1,0 +1,12 @@
+{
+  "id": "08487616-3b04-472a-ae26-df35eb3e8037",
+  "instruction": "Arrange the following musical notes in order from lowest to highest pitch.",
+  "input": "G, A, B, C",
+  "output": "G, A, B, C",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

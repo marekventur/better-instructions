@@ -1,0 +1,12 @@
+{
+  "id": "58a711c3-b2b9-4b41-9bad-d83058cfcf66",
+  "instruction": "Create a class in Java that implements a data structure.",
+  "input": "",
+  "output": "public class MyDataStructure {\n    private int length;\n    private int array[];\n \n    public MyDataStructure(int size) {\n        this.length = size;\n        array = new int[size];\n    }\n \n    public void add(int value) {\n        if (length == array.length) {\n            increaseSize();\n        }\n        array[length++] = value;\n    }\n \n    private void increaseSize() {\n        int newLength = array.length * 2;\n        int[] newArray = new int[newLength];\n        for (int i = 0; i < length; i++) {\n            newArray[i] = array[i];\n        }\n        array = newArray;\n    }\n \n    public void get(int index) {\n        if (index < 0 || index >= length) {\n            throw new IndexOutOfBoundsException();\n        }\n        return array[index];\n    }\n \n    public void remove(int value) {\n        for (int i = 0; i < length; i++) {\n            if (array[i] == value) {\n                for (int j = i; j < length-1; j++) {\n                    array[j] = array[j+1];\n                }\n                length--;\n                return;\n            }\n        }\n    }\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

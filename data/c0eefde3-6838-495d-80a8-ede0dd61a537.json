@@ -1,0 +1,12 @@
+{
+  "id": "c0eefde3-6838-495d-80a8-ede0dd61a537",
+  "instruction": "Suggest any two new features that can be added to the product.",
+  "input": "Given a product that can generate automated reports in multiple formats.",
+  "output": "1. Ability to automatically schedule weekly, monthly and yearly reports.\n2. Ability to compare data from different reports and generate insights.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

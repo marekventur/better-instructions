@@ -1,0 +1,12 @@
+{
+  "id": "7edbc4bf-9abc-4512-b182-7d340862b8d3",
+  "instruction": "Write a description of the architecture of a deep neural network model.",
+  "input": "",
+  "output": "A deep neural network consists of an input layer connected to one or more hidden layers, where each hidden layer is composed of neurons that use a non-linear activation function. The output layer is then connected to the last layer in the network. The weights and biases of the neurons in each layer of the network are adjusted during the training process, which involves the use of a cost function and an optimization algorithm, such as gradient descent, to find the set of weights and biases that best optimize the cost function.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

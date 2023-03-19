@@ -1,0 +1,12 @@
+{
+  "id": "3b0bd74c-9a45-499a-be07-6696b048cadd",
+  "instruction": "Edit this sentence for clarity: \"I seen a bear in the woods.\"",
+  "input": "I seen a bear in the woods.",
+  "output": "I saw a bear in the woods.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

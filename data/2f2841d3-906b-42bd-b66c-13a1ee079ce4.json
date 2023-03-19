@@ -1,0 +1,12 @@
+{
+  "id": "2f2841d3-906b-42bd-b66c-13a1ee079ce4",
+  "instruction": "Edit the given sentence so it becomes more linguistically natural.",
+  "input": "I am comfortable with the new friend which I have made.",
+  "output": "I am comfortable with the new friend I have made.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

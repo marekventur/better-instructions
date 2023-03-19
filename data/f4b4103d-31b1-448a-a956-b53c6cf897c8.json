@@ -1,0 +1,12 @@
+{
+  "id": "f4b4103d-31b1-448a-a956-b53c6cf897c8",
+  "instruction": "Given a list of five items, categorize them.",
+  "input": "pen, paper, food, book, computer",
+  "output": "Stationery: Pen, Paper.\nFood.\nBooks: Book.\nTechnology: Computer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

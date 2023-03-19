@@ -1,0 +1,12 @@
+{
+  "id": "6aa1dd64-7e7a-4b6f-a7f0-bc93d8ccc226",
+  "instruction": "Given two sentences, determine which one is written in active voice and which one is written in passive voice.",
+  "input": "He pushed the door.\nThe door was pushed by him.",
+  "output": "The first sentence is in active voice, and the second is in passive voice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "49a79828-8883-4cd3-8fec-f0481466cfcd",
+  "instruction": "Choose a topic and create 15 questions to ask about it.",
+  "input": "Topic: Carnival Ride Safety",
+  "output": "1. What safety measures are employed on carnival rides?\n2. Are carnival rides regularly inspected for malfunctions?\n3. How often are the safety harnesses and seatbelts checked?\n4. How can carnival-goers tell if a ride is safe?\n5. What is the process for investigating accidents on carnival rides?\n6. How are ride operators trained to handle any potential risks?\n7. What materials are used to construct carnival rides?\n8. Are there any age requirements for riding a carnival ride?\n9. What techniques can riders employ for avoiding motion sickness?\n10. Are motion sickness remedies offered on carnival rides?\n11. Are the designs of rides regulated to meet minimum safety requirements?\n12. What is the process for verifying that a ride is safe to operate?\n13. How can safety violations be reported to relevant authorities?\n14. How often should riders inspect their own safety harnesses before riding?\n15. Are there any special precautions taken for riders with disabilities?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

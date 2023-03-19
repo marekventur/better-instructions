@@ -1,0 +1,12 @@
+{
+  "id": "0b28a578-ec4a-4563-9611-e5c586852f6d",
+  "instruction": "Create a personalized email signature.",
+  "input": "John Doe",
+  "output": "John Doe\nDirector of Marketing\nabc@somecompany.com\nwww.somecompany.com",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "84628dd2-1b98-4c99-a624-241b7c2e21b8",
+  "instruction": "Given a list of ingredients, suggest a McDonald\u2019s menu item.",
+  "input": "beef, cheese, lettuce, tomato",
+  "output": "A classic Big Mac would be a great choice with those ingredients, as it contains a beef patty, cheese, lettuce, tomatoes, pickles and special sauce.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

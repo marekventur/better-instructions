@@ -1,0 +1,12 @@
+{
+  "id": "6b2e6b37-b33b-4fdd-80ef-1b55fd1177b3",
+  "instruction": "Given the following input, create a classification statement that describes the input.",
+  "input": "Cloud computing is a service which enables users to access applications hosted remotely over the internet.",
+  "output": "Cloud computing is a network-based service which allows users to use and access applications which are hosted remotely.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1eae2bd0-8177-45da-b488-2be33c7ac3a5",
+  "instruction": "What is a disadvantage of using a deep learning network to perform object detection?",
+  "input": "",
+  "output": "A disadvantage of using a deep learning network to perform object detection is that it requires a large amount of data to obtain good performance. Additionally, these models can be difficult to interpret, making it difficult to understand why a particular result was produced. Finally, deep learning networks are computationally expensive, requiring a lot of processing power to execute.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1dd9346b-cdd3-48fc-a1e4-7916ca1c5119",
+  "instruction": "Produce the below square matrix from the given list.",
+  "input": "[1,7,8,9]",
+  "output": "[[1,7]\n [8,9]]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fee82a6c-9d2b-4460-9c10-ac62d6f473a6",
+  "instruction": "Group the given list into 3 Groups.",
+  "input": "[\"a\", \"b\", \"c\", \"d\", \"e\", \"f\", \"g\"]",
+  "output": "Group 1: [\"a\", \"b\", \"c\"]\nGroup 2: [\"d\", \"e\", \"f\"]\nGroup 3: [\"g\"]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

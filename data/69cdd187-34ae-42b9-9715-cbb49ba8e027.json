@@ -1,0 +1,12 @@
+{
+  "id": "69cdd187-34ae-42b9-9715-cbb49ba8e027",
+  "instruction": "What environment variables are necessary to run a Java program?",
+  "input": "",
+  "output": "The following environment variables are necessary to run a Java program: \n\nJAVA_HOME, which specifies the directory where the Java runtime environment is installed; PATH, which specifies the directories where executable programs are located; and CLASSPATH, which specifies the locations of Java class files.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

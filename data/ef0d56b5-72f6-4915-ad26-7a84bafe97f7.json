@@ -1,0 +1,12 @@
+{
+  "id": "ef0d56b5-72f6-4915-ad26-7a84bafe97f7",
+  "instruction": "Given a musical instrument, explain the way it is played.",
+  "input": "Marimba",
+  "output": "The marimba is played with mallets, bar by bar. The right hand plays higher notes while the left hand plays lower notes. The player strikes the bars at various strengths to create different volumes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

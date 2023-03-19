@@ -1,0 +1,12 @@
+{
+  "id": "c406bcf9-abed-44d4-bddd-e19be26bfcc9",
+  "instruction": "Explain the theorem of Pythagoras.",
+  "input": "",
+  "output": "The theorem of Pythagoras states that in a right-angled triangle, the square of the hypotenuse (the side opposite to the right angle) is equal to the sum of the squares of the other two sides. In other words, a2 + b2 = c2 , where c is the hypotenuse and a and b are the other sides.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

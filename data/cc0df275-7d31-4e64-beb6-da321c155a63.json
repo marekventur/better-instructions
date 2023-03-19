@@ -1,0 +1,12 @@
+{
+  "id": "cc0df275-7d31-4e64-beb6-da321c155a63",
+  "instruction": "Convert the sentence in to its negative form without changing the meaning.",
+  "input": "I saw a movie last night.",
+  "output": "I did not see a movie last night.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

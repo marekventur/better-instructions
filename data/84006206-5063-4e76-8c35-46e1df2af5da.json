@@ -1,0 +1,12 @@
+{
+  "id": "84006206-5063-4e76-8c35-46e1df2af5da",
+  "instruction": "Transform the given sentence by changing the adjectives.",
+  "input": "She was short and slim",
+  "output": "She was tall and curvy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

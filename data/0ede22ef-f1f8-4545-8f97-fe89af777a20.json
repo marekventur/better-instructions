@@ -1,0 +1,12 @@
+{
+  "id": "0ede22ef-f1f8-4545-8f97-fe89af777a20",
+  "instruction": "Generate a comprehensive list of all the animals mentioned in this article about the African safari",
+  "input": "The African savannah is home to many amazing species of animals. Some of the most iconic animals of the savannah are the African elephant, African lion, and giraffe. Other animals that also call the African savannah their home include the zebra, buffalo, cheetah, and hyena.",
+  "output": "African elephant, African lion, giraffe, zebra, buffalo, cheetah, hyena.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

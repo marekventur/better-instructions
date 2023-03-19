@@ -1,0 +1,12 @@
+{
+  "id": "a6e7c0e9-36b6-4fce-ace3-85b0346deeb4",
+  "instruction": "Give different perspectives on the following statement.",
+  "input": "\"Everyone should take the same test\"",
+  "output": "Positive Perspective:\nHaving everyone take the same test can provide an unbiased way to determine a student's current level of knowledge and ability.\n\nNegative Perspective:\nHaving everyone take the same test can prevent individuals from proving their unique strengths and abilities, as the test only provides a general overview of knowledge.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "20bec48c-c1a7-4146-849a-5251748d5e77",
+  "instruction": "Classify the sentence \"The sky is blue\"",
+  "input": "The sky is blue",
+  "output": "The sentence \"The sky is blue\" is a simple declarative statement.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

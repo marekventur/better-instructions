@@ -1,0 +1,12 @@
+{
+  "id": "90a0be52-fcb9-4531-9a1f-98945a57214d",
+  "instruction": "Delete any words in the following sentence that are unnecessary.",
+  "input": "This picture of an elephant is absolutely breathtaking.",
+  "output": "This picture of an elephant is breathtaking.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

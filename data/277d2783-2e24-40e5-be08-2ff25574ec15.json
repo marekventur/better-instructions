@@ -1,0 +1,12 @@
+{
+  "id": "277d2783-2e24-40e5-be08-2ff25574ec15",
+  "instruction": "Come up with a step-by-step procedure for washing dishes.",
+  "input": "",
+  "output": "1. Gather all the dishes that need to be washed.\n2. Rinse off the dishes with warm water.\n3. Apply dish soap to one side of the brush and scrub away the stuck-on food.\n4. Rinse the soap off the dishes in the sink.\n5. Place the dishes in a dish rack to dry.\n6. Wipe down the sink with a clean cloth.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

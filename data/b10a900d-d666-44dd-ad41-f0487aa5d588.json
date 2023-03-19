@@ -1,0 +1,12 @@
+{
+  "id": "b10a900d-d666-44dd-ad41-f0487aa5d588",
+  "instruction": "Decide if the following sentence is a cause and effect sentence.",
+  "input": "The virus has caused an increase in deaths.",
+  "output": "Yes, the sentence is a cause and effect sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

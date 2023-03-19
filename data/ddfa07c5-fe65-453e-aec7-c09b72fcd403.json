@@ -1,0 +1,12 @@
+{
+  "id": "ddfa07c5-fe65-453e-aec7-c09b72fcd403",
+  "instruction": "Given the following details, write a short paragraph about a vacation destination.",
+  "input": "Destination: Mexico \nTime of Year: Summer \nActivities: Swimming, fishing, snorkeling, zip-lining",
+  "output": "Mexico is a great vacation destination during the summer. With its hot temperatures and sunny skies, you will have the perfect conditions to enjoy swimming, fishing, snorkeling, and zip-lining. The Caribbean and Pacific coastlines offer a variety of experiences, from pristine beaches to ancient ruins. You can explore the culture with local street markets and vibrant cities, or experience the serenity of the country with Mayan villages and traditional haciendas. If you're looking for an adventure-packed summer vacation, Mexico is the place!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

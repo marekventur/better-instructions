@@ -1,0 +1,12 @@
+{
+  "id": "b36f4586-183e-45de-9cc5-b123865443fd",
+  "instruction": "Generate a short story from a single sentence input.",
+  "input": "The lazy elephant was strolling in the jungle.",
+  "output": "The lazy elephant was strolling lazily through the jungle, taking his time to admire the lush flora and fauna around him. As he continued his walk, he slowly noticed something in the distance - a small clearing in the center of the jungle. He slowly made his way towards it and as he entered the clearing, he saw a figure seated in the middle. The figure was looking up at the sky and appeared to be deep in thought. As the elephant approached the figure, it slowly turned around and with a gasp, the figure realized it was an elephant. \n\nThe figure stood up and tossed something towards the elephant. To the figure's surprise, the elephant caught it in its trunk and let out a relieved sigh. The figure then walked towards the elephant, bowed and remarked, \"Hello old friend, we haven't seen each other for some time! It's good to have you back!\" The elephant, understanding the figure's sentiment, nodded and the two sat together, in the clearing, admiring the beauty of the jungle and catching up on old stories.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

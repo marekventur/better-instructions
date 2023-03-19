@@ -1,0 +1,12 @@
+{
+  "id": "7c01047c-18da-418b-b16f-2b05df5bf801",
+  "instruction": "Create a Markov Chain to simulate how a person would arrive late to work.",
+  "input": "",
+  "output": "A Markov Chain is a stochastic process in which the probability of each state depends only on the current state, not any other states. The states could represent different events that could occur when a person is trying to arrive late to work. The possible states could be:\n\n1. Woke up late\n2. Got ready slowly\n3. Travel delayed\n4. Got stuck in traffic\n5. Arrived late to work \n\nThe transition probabilities from one state to the other would depend on how likely each event is. For example, the transition probability from \"Woke up late\" to \"Got ready slowly\" will likely be higher than the transition probability from \"Woke up late\" to \"Got stuck in traffic\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

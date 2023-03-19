@@ -1,0 +1,12 @@
+{
+  "id": "e50b04c1-0294-4826-8631-bc32dd14e899",
+  "instruction": "Summarize the article: How To Play Solitaire",
+  "input": "https://www.wikihow.com/Play-Solitaire",
+  "output": "Solitaire is a popular card game that can be played with a single deck of cards. The goal of the game is to arrange all the cards in order by rank and suit in a set of four foundation piles. To do this, the player must build piles of cards in rank order by suit in either an ascending or descending order. Cards can be moved around the tableau, the initial decks that are dealt, until all the cards are organized into the required foundation piles. Players have to have strategy, luck, and focus to win the game.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

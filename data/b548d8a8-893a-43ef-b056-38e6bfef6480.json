@@ -1,0 +1,12 @@
+{
+  "id": "b548d8a8-893a-43ef-b056-38e6bfef6480",
+  "instruction": "Given the context, choose the right answer to fill in the blank.",
+  "input": "The food tastes ___________.\nA) Happy\nB) Healthy\nC) Delicious\nD) Sorrowful",
+  "output": "C) Delicious",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

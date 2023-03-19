@@ -1,0 +1,12 @@
+{
+  "id": "1cc71278-280c-4f01-aa27-065c8ab742d2",
+  "instruction": "Create a backup plan for a data center in the event of a natural disaster.",
+  "input": "",
+  "output": "A backup plan for a data center in the event of a natural disaster should include data replication technologies, offsite backups, and cloud storage solutions. Additionally, having a hardened data center with power backups, as well as redundant systems in place, can help maintain operations in the case of a disaster.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

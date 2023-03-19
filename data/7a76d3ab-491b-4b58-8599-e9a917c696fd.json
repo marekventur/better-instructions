@@ -1,0 +1,12 @@
+{
+  "id": "7a76d3ab-491b-4b58-8599-e9a917c696fd",
+  "instruction": "Give two reasons you believe X is better than Y.",
+  "input": "X: Dogs\nY: Cats",
+  "output": "Dogs are more loyal than cats, and they are much better at providing unconditional love and companionship. Additionally, they are more active and require more maintenance, so you'll need to invest more time and effort with them.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

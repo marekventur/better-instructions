@@ -1,0 +1,12 @@
+{
+  "id": "4d6b075e-3316-48f6-adee-31da67dad284",
+  "instruction": "Given the table below, classify each sentence according to whether it is a definition, a fact, or an opinion.",
+  "input": "|Sentence|\n|--------|\n|Fruit is a food group that is usually sweet and contains seeds.|\n|Apples are a type of fruit.|\n|Apples are the best-tasting fruit.|",
+  "output": "Definition. Fruit is a food group that is usually sweet and contains seeds.\nFact. Apples are a type of fruit.\nOpinion. Apples are the best-tasting fruit.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

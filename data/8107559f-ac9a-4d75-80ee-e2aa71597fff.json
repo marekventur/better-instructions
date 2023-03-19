@@ -1,0 +1,12 @@
+{
+  "id": "8107559f-ac9a-4d75-80ee-e2aa71597fff",
+  "instruction": "Given the following sentences, find the one that is grammatically incorrect.",
+  "input": "A)His parents forbid him from going.\nB)Them going was forbid by his parents.\nC)They forbid him going.\nD)His parents forbade him to go.",
+  "output": "B)Them going was forbid by his parents.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

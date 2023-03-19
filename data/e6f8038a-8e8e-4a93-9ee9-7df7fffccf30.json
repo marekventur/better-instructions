@@ -1,0 +1,12 @@
+{
+  "id": "e6f8038a-8e8e-4a93-9ee9-7df7fffccf30",
+  "instruction": "Count how many characters are in the sentence",
+  "input": "Have a nice day!",
+  "output": "12 characters",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

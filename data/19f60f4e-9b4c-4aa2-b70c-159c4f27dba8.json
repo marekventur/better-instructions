@@ -1,0 +1,12 @@
+{
+  "id": "19f60f4e-9b4c-4aa2-b70c-159c4f27dba8",
+  "instruction": "Identify the correctly capitalized sentences below.",
+  "input": "A- The sky is blue\nB- The sky is Blue",
+  "output": "B: The sky is Blue",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

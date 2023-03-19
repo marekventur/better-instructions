@@ -1,0 +1,12 @@
+{
+  "id": "648d6cad-1bf3-4544-8584-a6d7a9f3c67b",
+  "instruction": "Expand the following sentence to include more detail about the topic.",
+  "input": "The Grand Canyon is a popular tourist destination.",
+  "output": "The Grand Canyon is a popular tourist destination, located in northern Arizona, USA. Its vast overlooks, ravines, and rocky pathways span over 277 miles of the Colorado River, and is a source of fascination for many visitors from all corners of the world. Hiking, rafting, and camping are just a few of the activities available in this breathtakingly beautiful location.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "efb33005-21ab-480d-b2d0-2ff334de270e",
+  "instruction": "Compare the differences between two search engine algorithms.",
+  "input": "Google and Bing",
+  "output": "Google and Bing are two of the most popular search engine algorithms. Google uses a more sophisticated ranking system that considers factors such as relevance, freshness and authority of pages. Bing employs a web crawling system that looks for web pages through web links and content. Bing is more user-friendly and allows for greater customization of search results, while Google emphasizes the search engine optimization of webpages and focuses more on ranking content.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

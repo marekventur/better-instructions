@@ -1,0 +1,12 @@
+{
+  "id": "17e103a5-0049-4302-8177-ff3bb2e7d345",
+  "instruction": "Given three countries, create a cross-cultural dish combining them.",
+  "input": "India, Mexico and Italy",
+  "output": "A fusion dish combining elements of Indian, Mexican and Italian cuisines can be made with ground beef, garam masala, jalapenos, tomato sauce, oregano and mozzarella cheese. To prepare, saut\u00e9 the ground beef in the garam masala and jalapenos until cooked through. Add the tomato sauce and oregano and simmer for 5 minutes. Finally, top with mozzarella cheese and bake until the cheese is melted and bubbling.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

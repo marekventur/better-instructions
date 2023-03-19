@@ -1,0 +1,12 @@
+{
+  "id": "bcc4eab0-3541-4ad3-87c9-7b987652bec6",
+  "instruction": "Given a website link, classify the website.",
+  "input": "https://www.nytimes.com/",
+  "output": "This website is a news website.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

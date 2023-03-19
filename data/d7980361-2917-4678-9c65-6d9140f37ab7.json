@@ -1,0 +1,12 @@
+{
+  "id": "d7980361-2917-4678-9c65-6d9140f37ab7",
+  "instruction": "What score did the student get on the exam?",
+  "input": "The student took the test and answered 93 out of 100 candidates correctly.",
+  "output": "The student scored 93% on the exam.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

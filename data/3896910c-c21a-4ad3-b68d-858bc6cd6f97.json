@@ -1,0 +1,12 @@
+{
+  "id": "3896910c-c21a-4ad3-b68d-858bc6cd6f97",
+  "instruction": "Provide a summarization of the article.",
+  "input": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+  "output": "Artificial Intelligence, commonly known as AI, refers to the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, and problem-solving. AI has the ability to perform tasks such as object recognition, speech recognition, language translation, decision making, and potentially even self-awareness. AI can be incorporated into many different areas of everyday life, including finance, government, gaming, healthcare, and consumer products.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

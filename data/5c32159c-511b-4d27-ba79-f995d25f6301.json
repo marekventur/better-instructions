@@ -1,0 +1,12 @@
+{
+  "id": "5c32159c-511b-4d27-ba79-f995d25f6301",
+  "instruction": "Come up with an appropriate dialogue between a customer and a shop assistant.",
+  "input": "",
+  "output": "Customer: Hi there, do you have any apparel for an upcoming formal event?\n\nShop Assistant: Absolutely! We have lots of elegant eveningwear for special occasions. What style and size were you looking for? \n\nCustomer: I need a floor length black gown, size 8.\n\nShop Assistant: I think we have exactly what you're looking for. Just let me check in the back room.\n\nCustomer: Great, thanks! \n\nShop Assistant: Of course. I'll be right back!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2c632bc3-ec72-416f-9abc-6a3d96ec9776",
+  "instruction": "Cut this sentence in half for a tweet:",
+  "input": "I just bought a new car and I am so excited to drive it!",
+  "output": "I just bought a new car and I am so excited! #Driving #NewCar",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1115b711-414b-4974-8bff-f9988f2d4f0c",
+  "instruction": "Create a chatbot script with 5 conversational turns",
+  "input": "",
+  "output": "User: Hi, what can I do for you?\n\nChatbot: Hi there! I'm here to help you find the perfect product for your needs. How can I help you today?\n\nUser: I'm looking for a laptop.\n\nChatbot: Great choice! Do you have any particular brand or specifications in mind?\n\nUser: I need something in the mid-range that has at least 8GB of RAM.\n\nChatbot: I can definitely help you out with that! I recommend a 15-inch HP laptop with 8GB of RAM, a Core i5 processor, and 256GB of storage. What do you think?\n\nUser: That sounds perfect, I'll take it!\n\nChatbot: Great! The laptop has been added to your cart. Anything else I can help you with?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

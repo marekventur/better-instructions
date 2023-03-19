@@ -1,0 +1,12 @@
+{
+  "id": "6eabd92e-b918-4abe-b47f-609b41f9862c",
+  "instruction": "Insert punctuation marks into the following sentence.",
+  "input": "We had a good time",
+  "output": "We had a good time!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

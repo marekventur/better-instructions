@@ -1,0 +1,12 @@
+{
+  "id": "887ed484-d2f4-4ed9-a2db-816adafed7e6",
+  "instruction": "Given the following scenario, come up with an appropriate negotiation strategy.",
+  "input": "You are trying to buy a car from a used car dealership and you want to negotiate the price.",
+  "output": "Negotiation Strategy: \n1. Research the fair market value of the car to determine the average price for it. \n2. When at the dealership, make a reasonable offer that is lower than the market value. \n3. If the dealer rejects the offer, mention other dealers offering the same car for a lower price.\n4. Ask for additional services and discounts, such as an extended warranty. \n5. Stick to your budget and stay firm with your offer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8ae3298f-a02a-483c-b936-426a2799b98d",
+  "instruction": "Determine the best course of action in the following scenario.",
+  "input": "You are a student who did not study for the upcoming exam.",
+  "output": "The best course of action would be to focus on getting the most out of the limited amount of time there is before the exam. This could include reviewing concepts and topics covered in class, studying practice problems and questions, and asking peers and instructors for help. Additionally, taking steps to ensure good mental and physical health such as getting enough sleep and exercising could help improve learning and focus.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

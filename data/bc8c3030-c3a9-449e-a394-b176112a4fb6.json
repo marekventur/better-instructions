@@ -1,0 +1,12 @@
+{
+  "id": "bc8c3030-c3a9-449e-a394-b176112a4fb6",
+  "instruction": "Recommend a movie based on this description",
+  "input": "Romantic comedy involving a quirky couple",
+  "output": "You might like the movie \"Crazy, Stupid, Love\" starring Steve Carell and Ryan Gosling. It is a romantic comedy that follows the story of a quirky couple.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

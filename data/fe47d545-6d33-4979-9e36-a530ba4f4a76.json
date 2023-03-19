@@ -1,0 +1,12 @@
+{
+  "id": "fe47d545-6d33-4979-9e36-a530ba4f4a76",
+  "instruction": "Add some relevant dialogue to the following story.",
+  "input": "Ann and her friend Alex were watching the sunset from a park.",
+  "output": "\"It's so beautiful,\" Ann said softly.\n\n\"It really is,\" Alex agreed. \"Look at the way the sky is turning all sorts of colors. Red, orange, pink.\"\n\nAnn smiled. \"It reminds me of the sunsets my parents used to take me to when I was younger. I used to think I could reach out and touch the sky.\"\n\nAlex laughed. \"That's a nice thought. I wish I could reach out and catch a bit of this sunset.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

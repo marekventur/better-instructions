@@ -1,0 +1,12 @@
+{
+  "id": "d8a3569a-11ff-45a4-a2c6-cf0d40162348",
+  "instruction": "Tell me the structure of a blog post",
+  "input": "",
+  "output": "A blog post typically consists of four main parts: Introduction, Body, Conclusion, and Resources. The introduction is where one introduces the topic and sets the tone for the entire post. The body of the post is where the majority of the content is, usually composed of several smaller sections logically grouped together and including thorough explanations, examples, and possibly quotes from guest authors or external sources. The conclusion wraps up the post and often offers a summary of the main points of the post and/or encourages action from the reader. Finally, a blog post can also end with some resources for further reading or to access related content.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

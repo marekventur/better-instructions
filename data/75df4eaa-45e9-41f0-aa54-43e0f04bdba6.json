@@ -1,0 +1,12 @@
+{
+  "id": "75df4eaa-45e9-41f0-aa54-43e0f04bdba6",
+  "instruction": "Construct an example of a \u200bstructured conversation in which a user requests a customer service representative to send a copy of a receipt.",
+  "input": "",
+  "output": "User: Hi, I purchased something from your online store recently and I need a copy of my receipt. \n\nCustomer Service Representative: Hi there! What was the purchase date and the name of the item purchased? \n\nUser: The purchase date was yesterday and I purchased a pair of sneakers.\n\nCustomer Service Representative: Got it! I'll send you a copy of the receipt by email. Is this the correct email address? [Provide email address] \n\nUser: Yes, that's correct. Thanks for your help.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

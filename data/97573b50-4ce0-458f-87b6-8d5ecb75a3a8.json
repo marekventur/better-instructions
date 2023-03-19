@@ -1,0 +1,12 @@
+{
+  "id": "97573b50-4ce0-458f-87b6-8d5ecb75a3a8",
+  "instruction": "Find the correct order of the given list",
+  "input": "salt, cheese, pickles, pepper",
+  "output": "salt, pepper, cheese, pickles",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3268ce1a-b5e5-4f10-83ec-9329f92e6c93",
+  "instruction": "Given a list of books, give the names of the authors",
+  "input": "The Great Gatsby, The Catcher in the Rye, The Hitchhiker's Guide to The Galaxy",
+  "output": "The Great Gatsby - F. Scott Fitzgerald\nThe Catcher in the Rye - J.D. Salinger\nThe Hitchhiker's Guide to The Galaxy - Douglas Adams",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

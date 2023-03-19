@@ -1,0 +1,12 @@
+{
+  "id": "efbced59-96a3-4d5e-bf5d-efb4abd00867",
+  "instruction": "Output a list of the top 10 French romantic films.",
+  "input": "",
+  "output": "1. Amelie\n2. Le Fabuleux Destin d\u2019Am\u00e9lie Poulain\n3. 8 \u00bd\n4. La Vie en Rose\n5. Belle De Jour\n6. La Haine\n7. Jules et Jim\n8. Les 400 Coups\n9. Un Homme et une Femme\n10. Les Enfants du Paradis",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

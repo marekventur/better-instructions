@@ -1,0 +1,12 @@
+{
+  "id": "215587d4-758f-4de2-8bc2-f91cd2c0fabd",
+  "instruction": "Select the food item that is low in sodium.",
+  "input": "Pizza, Apple, Salmon, Hot Dog",
+  "output": "Apple",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

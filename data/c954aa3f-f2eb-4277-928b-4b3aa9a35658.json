@@ -1,0 +1,12 @@
+{
+  "id": "c954aa3f-f2eb-4277-928b-4b3aa9a35658",
+  "instruction": "For the given sentence, find the correct antonym for the underlined word.",
+  "input": "The cat was sleeping soundly in the sun.",
+  "output": "The cat was awake restlessly in the sun.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

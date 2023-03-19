@@ -1,0 +1,12 @@
+{
+  "id": "b4efdbd6-2a1f-404c-9a79-88eb52b8f9c8",
+  "instruction": "Revisit the given statement, and edit it so that it has the same meaning but reads better.",
+  "input": "The man is able to swim very, very well since he has practise daily.",
+  "output": "The man swims very well as a result of his daily practice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

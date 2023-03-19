@@ -1,0 +1,12 @@
+{
+  "id": "89ab39ed-ec13-4ca2-931c-ba714ddb5a49",
+  "instruction": "Explain the difference between a personal computer and a server",
+  "input": "",
+  "output": "A personal computer (PC) is a desktop or laptop device that is typically used by an individual for personal activities. It connected to other devices within the same network and can access online services. A server is a computer that is designed to manage, store and link multiple computers and applications together. It is typically used to provide services to a large number of users, such as online applications and websites. Servers are generally more powerful than personal computers and have larger data storage and processing capabilities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

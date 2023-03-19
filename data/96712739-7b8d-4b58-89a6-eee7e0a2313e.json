@@ -1,0 +1,12 @@
+{
+  "id": "96712739-7b8d-4b58-89a6-eee7e0a2313e",
+  "instruction": "Generate code to print out the answer 5 squared.",
+  "input": "",
+  "output": "Console.WriteLine(5 * 5);",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

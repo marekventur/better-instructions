@@ -1,0 +1,12 @@
+{
+  "id": "d76d6c9e-b8b6-4591-aaed-1f8b93b72195",
+  "instruction": "Explain how the given topics are connected.",
+  "input": "Chemistry and Biology",
+  "output": "Chemistry and biology are closely intertwined fields of study. Chemistry helps to explore the chemical processes necessary for life to exist, such as photosynthesis. It also  serves as a foundation for studying and understanding the molecules involved in metabolism and genetic processes. On the other hand, biology uses the knowledge of chemistry to understand the structure and function of living organisms, from single cells to complex organisms such as humans. Therefore, chemistry and biology are closely intertwined, with one aiding in the understanding of the other.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

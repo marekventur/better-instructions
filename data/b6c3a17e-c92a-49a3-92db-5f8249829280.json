@@ -1,0 +1,12 @@
+{
+  "id": "b6c3a17e-c92a-49a3-92db-5f8249829280",
+  "instruction": "Create 10 multiple choice questions and answers on a given topic.",
+  "input": "Topic: United States Constitution",
+  "output": "1. What is the supreme law of the United States?\nA. The Declaration of Independence \nB. The United States Constitution\nC. The Bill of Rights\nD. The Articles of Confederation\nAnswer: B. The United States Constitution\n\n2. What document did the US Constitution replace?\nA. The Magna Carta \nB. The Declaration of Independence\nC. The Bill of Rights\nD. The Articles of Confederation\nAnswer: D. The Articles of Confederation\n\n3. How many amendments does the US Constitution have?\nA. 10 \nB. 22\nC. 27\nD. 45\nAnswer: C. 27\n\n4. Which part of the Constitution deals with elections and how members of Congress are chosen?\nA. The Preamble \nB. Article I\nC. The Bill of Rights\nD. The Amendments\nAnswer: B. Article I\n\n5. What is the minimum age requirement to be President of the United States?\nA. 18 years \nB. 21 years\nC. 25 years\nD. 35 years\nAnswer: D. 35 years\n\n6. What is the legal document that grants citizens certain civil liberties?\nA. The Constitution \nB. The Declaration of Independence\nC. The Bill of Rights\nD. The Articles of Confederation\nAnswer: C. The Bill of Rights\n\n7. How often does Congress have to count the population according to Article I of the Constitution?\nA. Every 10 years \nB. Every 4 years\nC. Every 8 years\nD. Every 5 years\nAnswer: A. Every 10 years\n\n8. Who is the Commander-in-Chief of the armed forces according to Article II of Constitution?\nA. The President \nB. The Vice President\nC. The Speaker of the House\nD. The Chief Justice\nAnswer: A. The President\n\n9. What is the purpose of the Amendments to the Constitution?\nA. To alter the existing Constitution\nB. To explain how to interpret the Constitution\nC. To expand the powers of Congress\nD. To protect certain fundamental rights\nAnswer: D. To protect certain fundamental rights\n\n10. What is the process to make changes to the Constitution?\nA. Congressional majority vote\nB. Supreme Court ruling\nC. Presidential signature\nD. Ratification by the states\nAnswer: D. Ratification by the states",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

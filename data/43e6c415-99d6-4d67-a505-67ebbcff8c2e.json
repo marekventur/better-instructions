@@ -1,0 +1,12 @@
+{
+  "id": "43e6c415-99d6-4d67-a505-67ebbcff8c2e",
+  "instruction": "How would you uninstall a program or application?",
+  "input": "",
+  "output": "On Windows, you can uninstall a program or application by accessing the Control Panel, selecting the program, and clicking the Uninstall button. On MacOS, open the Applications folder and drag the program to the trash.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

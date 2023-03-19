@@ -1,0 +1,12 @@
+{
+  "id": "f44f55c1-3fc1-40f0-8444-2bf720e65199",
+  "instruction": "Evaluate how suitable the following business model is for a new startup.",
+  "input": "Business Model: Online subscription service for clothes rental.",
+  "output": "The online subscription service for clothes rental is a suitable business model for a new startup. It has the potential to be profitable and allow customers to access a wide range of clothing items for a much lower cost than purchasing them outright. This business model also offers scalability, since the inventory does not need to be stored on site and can easily be expanded with more products. Additionally, it has a high potential for customer loyalty and recurring revenue with subscription-based services.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

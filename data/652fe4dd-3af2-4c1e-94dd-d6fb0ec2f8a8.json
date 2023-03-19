@@ -1,0 +1,12 @@
+{
+  "id": "652fe4dd-3af2-4c1e-94dd-d6fb0ec2f8a8",
+  "instruction": "Create a simple face recognition program.",
+  "input": "",
+  "output": "This program should be able to recognize a person's face by training it on a set of facial images. It should also be able to detect faces in an image by detecting shapes and features like eyes, nose, and mouth. Furthermore, it should also be able to draw a bounding box around a known face in an image.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

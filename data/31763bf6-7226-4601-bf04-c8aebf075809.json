@@ -1,0 +1,12 @@
+{
+  "id": "31763bf6-7226-4601-bf04-c8aebf075809",
+  "instruction": "Given the sentence, output a sentence using a simliar syntax.",
+  "input": "The dog barked loudly.",
+  "output": "The cat meowed ferociously.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

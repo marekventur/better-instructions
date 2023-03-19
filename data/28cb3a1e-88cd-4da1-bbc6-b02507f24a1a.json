@@ -1,0 +1,12 @@
+{
+  "id": "28cb3a1e-88cd-4da1-bbc6-b02507f24a1a",
+  "instruction": "From the input text, identify all pronouns used.",
+  "input": "Goldfish are common pets that require little maintenance.",
+  "output": "Pronouns used: they",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

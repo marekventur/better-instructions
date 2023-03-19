@@ -1,0 +1,12 @@
+{
+  "id": "ba4ea06c-9ef1-4b90-a483-a0fe8c20520e",
+  "instruction": "Name the capital cities of the following three countries",
+  "input": "India, Canada, Egypt",
+  "output": "India: New Delhi. Canada: Ottawa. Egypt: Cairo.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

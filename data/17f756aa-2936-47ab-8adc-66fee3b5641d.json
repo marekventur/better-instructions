@@ -1,0 +1,12 @@
+{
+  "id": "17f756aa-2936-47ab-8adc-66fee3b5641d",
+  "instruction": "Group the following words into a sentence that is grammatically correct and expresses a complete thought.",
+  "input": "so excited; finally hiking; the mountain",
+  "output": "I am so excited to finally be hiking the mountain.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

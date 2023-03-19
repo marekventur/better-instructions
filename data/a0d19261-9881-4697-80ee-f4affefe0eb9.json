@@ -1,0 +1,12 @@
+{
+  "id": "a0d19261-9881-4697-80ee-f4affefe0eb9",
+  "instruction": "Generate a blog post about the new iPhone release",
+  "input": "iPhone 12",
+  "output": "Apple recently released the new iPhone 12, and it's an exciting upgrade from the last generation. The design is sleeker and slimmer, with an edge-to-edge display to maximize your experience. The new A14 Bionic chip delivers lightning-fast performance and a longer battery life to keep you going longer. The improved camera and new Night Mode feature allow you to capture stunning images even in low light. And the latest iOS operating system offers a host of features to help make your life easier. With the new iPhone 12, Apple has once again set the bar high for cutting-edge smartphone technology.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

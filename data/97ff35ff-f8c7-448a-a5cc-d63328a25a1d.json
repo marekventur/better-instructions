@@ -1,0 +1,12 @@
+{
+  "id": "97ff35ff-f8c7-448a-a5cc-d63328a25a1d",
+  "instruction": "Create a sample discussion guide for a focus group.",
+  "input": "",
+  "output": "Welcome to the focus group. We\u2019re so glad to have you here today. Before we begin, we\u2019d like to get to know you a bit better. \n\n- Please tell us a bit about yourself: your occupation, your interests, and what you enjoy doing in your free time.\n\n- How much experience do you have with our product?\n\n- What do you like most about our product?\n\n- What are your thoughts about the features of our product?\n\n- How could our product be improved to better meet your needs and expectations?\n\n- What do you think about the overall user experience of our product?\n\n- What do you think about the competitor's products and how would you compare them to our product?\n\n- Are there any features that you'd like to see added to our product or existing features that you'd like to see improved?\n\n- Is there anything else you'd like to share?\n\nThank you all for your participation. Your input is greatly appreciated.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cd2f7f06-37c7-4532-ac58-c6ead3db657c",
+  "instruction": "Determine if the following sentence contains any errors in parallelism. If yes, make necessary changes.",
+  "input": "The individual should bring their laptop, headphones and books.",
+  "output": "The individual should bring their laptop, headphones, and books.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

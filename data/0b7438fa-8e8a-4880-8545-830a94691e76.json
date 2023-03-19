@@ -1,0 +1,12 @@
+{
+  "id": "0b7438fa-8e8a-4880-8545-830a94691e76",
+  "instruction": "Analyze the given stock market chart.",
+  "input": "Stock market chart.",
+  "output": "This chart shows the price of a particular stock over the past few months. There appears to be a stable trend upwards, with short-term fluctuations every now and then. The highest point so far has been around $100, while the lowest point has been around $55. Overall, it looks like a good investment opportunity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

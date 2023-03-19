@@ -1,0 +1,12 @@
+{
+  "id": "0c40871d-9a8f-479d-b9a1-1c0803232465",
+  "instruction": "From the following passage, identify the transition word used in the third sentence.",
+  "input": "Alice felt a bit overwhelmed by the responsibility of the job. She had never done something like this before. Nevertheless, she was determined to take it on.",
+  "output": "Nevertheless",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

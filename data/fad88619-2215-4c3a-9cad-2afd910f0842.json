@@ -1,0 +1,12 @@
+{
+  "id": "fad88619-2215-4c3a-9cad-2afd910f0842",
+  "instruction": "Describe the structure of the content in the given text.",
+  "input": "The results of the study showed a significant difference between the two groups. The study also found that the treatment was effective for a wide range of conditions.",
+  "output": "The text is structured in two main parts, first discussing the results of the study, then talking about the effectiveness of the treatment. The first part outlines the differences between the two groups, while the second part goes into the specifics of its effectiveness.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

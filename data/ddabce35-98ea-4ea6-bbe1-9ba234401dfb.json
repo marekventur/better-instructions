@@ -1,0 +1,12 @@
+{
+  "id": "ddabce35-98ea-4ea6-bbe1-9ba234401dfb",
+  "instruction": "Given a complex mathematical equation, solve for a specific variable.",
+  "input": "Solve for x: y = 4x^2 + 3x - 10",
+  "output": "x = -2 or x = 1/2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

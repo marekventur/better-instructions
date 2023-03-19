@@ -1,0 +1,12 @@
+{
+  "id": "76e0beb4-5d21-4cb2-bb38-3124a7e2157d",
+  "instruction": "Classify the given three animals as either a Mammal, Reptile, or Bird.",
+  "input": "Monkey, Turtle, Hawk",
+  "output": "Monkey: Mammal \nTurtle: Reptile \nHawk: Bird",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

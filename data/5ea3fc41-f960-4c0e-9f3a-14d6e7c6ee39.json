@@ -1,0 +1,12 @@
+{
+  "id": "5ea3fc41-f960-4c0e-9f3a-14d6e7c6ee39",
+  "instruction": "Generate a list of questions to properly evaluate an employee's performance.",
+  "input": "",
+  "output": "- What successes have you achieved this year?\n- How did you work to improve your skills and knowledge?\n- What challenges have you faced this year and how did you handle them?\n- Is there anything you could have done differently in your role or on your projects?\n- How did you collaborate with team members and other departments?\n- What impact have you had on your team and the greater organization?  \n- How did you balance meeting deadlines and maintaining quality?\n- What processes have you implemented to help streamline your role?\n- What critical thinking skills have you used to solve problems?\n- How have your interactions with customers and vendors been?\n- Is there any other feedback on your performance that you would like to share?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

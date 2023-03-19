@@ -1,0 +1,12 @@
+{
+  "id": "c37d1f51-32d5-4b8c-9280-5267a23a61c1",
+  "instruction": "Select the antonym of the word in bold.",
+  "input": "He was able to occupy the seat with ease.",
+  "output": "He was able to relinquish the seat with ease.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

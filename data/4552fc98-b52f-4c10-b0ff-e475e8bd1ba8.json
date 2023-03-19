@@ -1,0 +1,12 @@
+{
+  "id": "4552fc98-b52f-4c10-b0ff-e475e8bd1ba8",
+  "instruction": "For the given list of items, classify them into two categories.",
+  "input": "Carrot, Apple, Pumpkin, Orange",
+  "output": "Fruits: Apple, Orange\nVegetables: Carrot, Pumpkin",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

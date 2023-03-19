@@ -1,0 +1,12 @@
+{
+  "id": "f716d89e-342a-4b2c-97dc-e9e9abcdd514",
+  "instruction": "Write a loop to print the characters in a given string.",
+  "input": "stackoverflow",
+  "output": "for char in 'stackoverflow':\n    print(char)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

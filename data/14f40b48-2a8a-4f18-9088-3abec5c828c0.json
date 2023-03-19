@@ -1,0 +1,12 @@
+{
+  "id": "14f40b48-2a8a-4f18-9088-3abec5c828c0",
+  "instruction": "Make a list of steps required to bake a cake.",
+  "input": "",
+  "output": "1. Preheat the oven to the desired temperature.\n2. Grease and flour a cake pan.\n3. In a large bowl, mix together the dry cake ingredients.\n4. In a separate bowl, mix together the wet ingredients.\n5. Pour the wet ingredients into the dry ingredients and mix until just combined.\n6. Pour the batter into the cake pan.\n7. Place the cake in the oven and bake for the desired amount of time.\n8. Let the cake cool for a few minutes before removing from the pan.\n9. Decorate the cake as desired.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

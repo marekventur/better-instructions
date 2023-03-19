@@ -1,0 +1,12 @@
+{
+  "id": "2c276389-3e43-4e47-a730-756c73cc98f6",
+  "instruction": "Give four examples of natural language processing tasks",
+  "input": "",
+  "output": "1. Text classification: This is the task of classifying text into predefined categories, such as sentiment classification or topic categorization.\n2. Text summarization: This is the task of generating a condensed summary of a text that retains its key information.\n3. Language translation: This is the task of translating text from one language to another, such as English to Spanish.\n4. Entity extraction: This is the task of extracting entities, such as names or places, from a text using natural language processing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

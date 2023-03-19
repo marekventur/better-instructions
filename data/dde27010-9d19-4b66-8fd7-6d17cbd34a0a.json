@@ -1,0 +1,12 @@
+{
+  "id": "dde27010-9d19-4b66-8fd7-6d17cbd34a0a",
+  "instruction": "Describe the gravitational force between two objects with given mass and distance.",
+  "input": "mass = 20 kg and distance = 2 meters",
+  "output": "The gravitational force between two objects with mass 20 kg and distance 2 meters is equal to 0.0016 Newtons. This is calculated using the formula F = G x (m1 x m2) / d2, where G is the gravitational constant (6.67 x 10-11 N m2 / kg2).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

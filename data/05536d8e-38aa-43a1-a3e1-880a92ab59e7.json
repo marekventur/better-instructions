@@ -1,0 +1,12 @@
+{
+  "id": "05536d8e-38aa-43a1-a3e1-880a92ab59e7",
+  "instruction": "Classify each of the following statements as true or false.\nTrue or false: Internet communication is always private.",
+  "input": "",
+  "output": "False. Internet communication is not always private, as it can be monitored and intercepted by third parties.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2bab01b2-6e02-42fe-a04a-7e64504a30f0",
+  "instruction": "Organize the given information on a timeline.",
+  "input": "The invention of the telephone, The Wright Brothers' first flight, The Civil War",
+  "output": "- 1876: Invention of the telephone\n- 1903: The Wright Brothers' first flight\n- 1861-1865: The Civil War",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

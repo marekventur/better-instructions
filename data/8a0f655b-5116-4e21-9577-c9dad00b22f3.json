@@ -1,0 +1,12 @@
+{
+  "id": "8a0f655b-5116-4e21-9577-c9dad00b22f3",
+  "instruction": "Edit the text below to make it gender-inclusive.",
+  "input": "The doctor encouraged his patient to make healthier decisions.",
+  "output": "The doctor encouraged their patient to make healthier decisions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

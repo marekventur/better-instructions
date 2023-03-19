@@ -1,0 +1,12 @@
+{
+  "id": "fe10c373-fb0b-4cfb-9ff9-daaf7e21347d",
+  "instruction": "What is the main difference between random forests and decision trees?",
+  "input": "",
+  "output": "The main difference between random forests and decision trees is that random forests use multiple decision trees to reduce the risk of overfitting by reducing the complexity of the model while also providing a more accurate prediction. In contrast, decision trees use a single decision tree, making them prone to overfitting, which can lead to inaccurate predictions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

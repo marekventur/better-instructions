@@ -1,0 +1,12 @@
+{
+  "id": "34f63a19-72c7-4d17-bbbb-0ebcb80b8ee8",
+  "instruction": "Given a list of numbers, find the 3rd largest number.",
+  "input": "[1,7,9,11,12,14,18,21]",
+  "output": "The 3rd largest number in the list is 14.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

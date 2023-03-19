@@ -1,0 +1,12 @@
+{
+  "id": "57ea1307-ece8-4de4-8cf1-6c0adbc48ecb",
+  "instruction": "Classify the following as a good or bad example of communication.",
+  "input": "John said to his coworker, \"You are incompetent!\"",
+  "output": "Bad example of communication.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

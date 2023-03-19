@@ -1,0 +1,12 @@
+{
+  "id": "d38fcb62-63dc-4ea1-9549-c1db2e51752f",
+  "instruction": "Convert the input into Morse code.",
+  "input": "SOS",
+  "output": "\u00b7\u00b7\u00b7\u2013\u2013\u2013\u2013\u00b7\u00b7\u00b7",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

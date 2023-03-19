@@ -1,0 +1,12 @@
+{
+  "id": "6145dd31-5eed-488e-9f6e-93d6022da1fc",
+  "instruction": "Give advice to the given scenario",
+  "input": "Your roommate is struggling to finish their project and they're starting to feel pressure from their peers and family.",
+  "output": "It can be very stressful when you are working on a project and feeling pressure from all sides. The best advice I can give to your roommate is to firstly recognize where the pressure is coming from and why, and then work out a plan to manage it. For example, if their peers are pressuring them, then setting clear boundaries of the timeline in which they should complete the project would help. If family is pressuring them, then communicating the issue and setting realistic expectations is the key. Finally, they should also find ways to relax and take breaks to avoid burnout.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

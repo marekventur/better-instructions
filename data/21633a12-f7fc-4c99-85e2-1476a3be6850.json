@@ -1,0 +1,12 @@
+{
+  "id": "21633a12-f7fc-4c99-85e2-1476a3be6850",
+  "instruction": "Evaluate the bias of the statement",
+  "input": "All environmental regulations are pointless and a waste of time.",
+  "output": "The statement is biased as it portrays environmental regulations as universally ineffective and wastes of time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

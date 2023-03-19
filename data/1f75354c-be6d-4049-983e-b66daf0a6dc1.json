@@ -1,0 +1,12 @@
+{
+  "id": "1f75354c-be6d-4049-983e-b66daf0a6dc1",
+  "instruction": "Scan and remove any inappropriate content from the following text.",
+  "input": "This text has some inappropriate content, such as the f-word, s-word, and b-word.",
+  "output": "This text has some inappropriate content, such as the  word, word, and word.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

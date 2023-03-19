@@ -1,0 +1,12 @@
+{
+  "id": "6447c45e-e699-4043-9482-db098f7f057a",
+  "instruction": "Sort the following words by length, shortest to longest.",
+  "input": "book, pencil, chair, keyboard",
+  "output": "Pencil, chair, book, keyboard.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

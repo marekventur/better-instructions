@@ -1,0 +1,12 @@
+{
+  "id": "867564a9-2a3e-465a-9c9d-18eb8333a828",
+  "instruction": "Name three items that make up a typical networking cable.",
+  "input": "",
+  "output": "A typical networking cable typically consists of three items: an RJ-45 connector, a plastic sheath, and four to eight twisted pairs of copper wires. The RJ-45 connector plugs into wall jacks and Ethernet ports and serves as a way for the cable to be connected securely. The sheath provides insulation, reinforcement, and protection against electrical interference. The twisted pairs of copper wires are used to transmit data signals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

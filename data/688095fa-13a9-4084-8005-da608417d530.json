@@ -1,0 +1,12 @@
+{
+  "id": "688095fa-13a9-4084-8005-da608417d530",
+  "instruction": "Transform the provided sentence into a statement that is more polite in tone.",
+  "input": "Give me that book now!",
+  "output": "Could you please give me that book?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

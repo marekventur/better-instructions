@@ -1,0 +1,12 @@
+{
+  "id": "df9603fc-092f-4ec9-8ca5-115e37931169",
+  "instruction": "Create an algorithm to sort a given array of numbers.",
+  "input": "[7, 1, 3, 5, 9]",
+  "output": "\"\"\"\nSort a given array of numbers algorithm\n\"\"\"\ndef sort(array): \n    # loop through all elements\n    for i in range(len(array)):\n        # select the current element\n        current = array[i]\n        # look for the smallest element in the array\n        min_index = i\n        for j in range(i + 1, len(array)):\n            if array[j] < array[min_index]:\n                min_index = j\n        # swap the smallest element and the current element\n        array[min_index], array[i] = array[i], array[min_index]\n    return array\n\nif __name__ == '__main__':\n    print(sort([7, 1, 3, 5, 9]))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

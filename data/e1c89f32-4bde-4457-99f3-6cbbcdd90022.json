@@ -1,0 +1,12 @@
+{
+  "id": "e1c89f32-4bde-4457-99f3-6cbbcdd90022",
+  "instruction": "Given the two terms, decide which one has the higher value.",
+  "input": "Velocity vs. Acceleration",
+  "output": "Velocity has a higher value than acceleration.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

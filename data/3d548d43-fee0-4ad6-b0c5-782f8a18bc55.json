@@ -1,0 +1,12 @@
+{
+  "id": "3d548d43-fee0-4ad6-b0c5-782f8a18bc55",
+  "instruction": "Classify the movie \"The Wolf of Wall Street\" as a comedy or drama.",
+  "input": "",
+  "output": "The Wolf of Wall Street is a drama film, not a comedy. It follows the rise and fall of Jordan Belfort, as he engages in criminal activities and is eventually apprehended by the FBI. The movie is based on real events and contains strong language, violence, and some sexual content, making it much more suitable for a drama than a comedy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

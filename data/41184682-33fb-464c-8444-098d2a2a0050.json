@@ -1,0 +1,12 @@
+{
+  "id": "41184682-33fb-464c-8444-098d2a2a0050",
+  "instruction": "Create a taxonomy of animals in the given list.",
+  "input": "horses, cows, pigs, sheep",
+  "output": "Mammals:\n- Horses\n- Cows\n- Pigs\n- Sheep",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

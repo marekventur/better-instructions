@@ -1,0 +1,12 @@
+{
+  "id": "c7df025a-e03b-4513-b7f5-22cacf8d67f2",
+  "instruction": "Create a positive customer support response.",
+  "input": "Customer: What time does the store close?",
+  "output": "Waitress: The store closes at 10pm. Is there anything else I can help you with?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

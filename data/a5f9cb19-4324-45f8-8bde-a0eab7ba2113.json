@@ -1,0 +1,12 @@
+{
+  "id": "a5f9cb19-4324-45f8-8bde-a0eab7ba2113",
+  "instruction": "Reorganize the following pieces of information into a well-structured outline.",
+  "input": "\u2022 Causes of Air Pollution \n\u2022 Health Risks associated with Air Pollution \n\u2022 Prevention Strategies",
+  "output": "I. Causes of Air Pollution \nA. Natural Causes \nB. Human-made causes \nII. Health Risks associated with Air Pollution \nA. Respiratory Diseases \nB. Cardiovascular Diseases \nC. Lung Cancer \nIII. Prevention Strategies \nA. Reduce the Consumption of Fossil Fuels \nB. Adopt Sustainable Practices \nC. Implement Innovative Solutions",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

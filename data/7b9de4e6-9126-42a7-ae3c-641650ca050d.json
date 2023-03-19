@@ -1,0 +1,12 @@
+{
+  "id": "7b9de4e6-9126-42a7-ae3c-641650ca050d",
+  "instruction": "Rewrite the following paragraph adding adjectives and adverbs.",
+  "input": "John walked into the room. He smiled.",
+  "output": "John strolled jauntily into the room, a broad smile lighting up his face.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

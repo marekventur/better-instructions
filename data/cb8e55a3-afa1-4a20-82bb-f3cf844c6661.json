@@ -1,0 +1,12 @@
+{
+  "id": "cb8e55a3-afa1-4a20-82bb-f3cf844c6661",
+  "instruction": "Determine the pair of numbers with the greatest product.",
+  "input": "0 and -4",
+  "output": "The pair of numbers with the greatest product is 0 and -4, which has a product of 0.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

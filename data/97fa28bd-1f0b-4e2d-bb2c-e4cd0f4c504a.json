@@ -1,0 +1,12 @@
+{
+  "id": "97fa28bd-1f0b-4e2d-bb2c-e4cd0f4c504a",
+  "instruction": "Choose an appropriate response to the following micro-story. Output should be less than 50 words.",
+  "input": "Karen and Pete were hiking in the woods when Karen saw a large bear.",
+  "output": "Pete took Karen's hand and calmly said, \"Karen, I promise you'll be okay. We just need to stay still and the bear will probably move away without noticing us.\" He watched the bear cautiously, ready to act if the bear came too close.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

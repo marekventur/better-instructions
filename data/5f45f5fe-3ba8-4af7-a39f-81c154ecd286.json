@@ -1,0 +1,12 @@
+{
+  "id": "5f45f5fe-3ba8-4af7-a39f-81c154ecd286",
+  "instruction": "Write two facts about net neutrality.",
+  "input": "",
+  "output": "1. Net neutrality is the principle that all data on the Internet should be treated equally by Internet service providers, regardless of its content or the user that consumes it. \n2. In 2015, the Federal Communications Commission (FCC) voted to classify broadband Internet access service as a \u201ctelecommunications service\u201d rather than an \u201cinformation service,\u201d thus recognizing the principals of net neutrality.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

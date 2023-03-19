@@ -1,0 +1,12 @@
+{
+  "id": "f9685e80-e292-46b9-9ef8-e7db53da195b",
+  "instruction": "Delete words from this sentence and rewrite it so that it remains grammatically correct.\n\nMy friends and I were planning to play tennis later",
+  "input": "",
+  "output": "We were planning to play tennis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

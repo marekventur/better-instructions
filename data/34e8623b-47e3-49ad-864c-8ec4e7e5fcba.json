@@ -1,0 +1,12 @@
+{
+  "id": "34e8623b-47e3-49ad-864c-8ec4e7e5fcba",
+  "instruction": "Pick a side and construct an argument for the following statement.",
+  "input": "There should be mandatory vaccinations for children in the United States.",
+  "output": "Mandatory vaccinations for children in the United States should be a priority. Vaccines are an effective way to protect children from preventable diseases, and make it possible for them to attend school and participate in other activities safely. Vaccinations also protect those with weakened immune systems who cannot get the vaccines themselves, and help control the spread of disease in the wider community. Additionally, the vast majority of research shows that there are no serious negative long-term impacts associated with vaccinations. Mandatory vaccinations should be a priority in order to protect children, our communities, and the nation as a whole.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

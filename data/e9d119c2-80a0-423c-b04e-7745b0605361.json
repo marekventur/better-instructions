@@ -1,0 +1,12 @@
+{
+  "id": "e9d119c2-80a0-423c-b04e-7745b0605361",
+  "instruction": "Generate a card for a wedding invitation.",
+  "input": "Bride and Groom Names: David and Sarah Smith",
+  "output": "We cordially invite you to the wedding of David and Sarah Smith on Saturday, June 26th, 2021 at 2 pm at Saint John's Church.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ff8e9ce0-2a10-4ce6-b0fc-69148214e4a7",
+  "instruction": "Determine which dataset is more useful",
+  "input": "Option A - Patient survey results\nOption B - Patient medical records",
+  "output": "Option B - Patient medical records is more useful. Patient surveys provide only limited insight into a patient\u2019s medical conditions, whereas patient medical records provide much greater detail into a patient's conditions and can also be used to track changes over time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

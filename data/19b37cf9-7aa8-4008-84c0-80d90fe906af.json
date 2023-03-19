@@ -1,0 +1,12 @@
+{
+  "id": "19b37cf9-7aa8-4008-84c0-80d90fe906af",
+  "instruction": "Edit the following sentence so it no longer contains a double negative.",
+  "input": "I don't like nothing.",
+  "output": "I don't like anything.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

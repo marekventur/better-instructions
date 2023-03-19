@@ -1,0 +1,12 @@
+{
+  "id": "3360f516-9400-4873-9b50-04597a32c551",
+  "instruction": "Describe the concept of Hierarchical Database.",
+  "input": "",
+  "output": "Hierarchical database is a type of database structure in which data is stored and organized in a hierarchical structure. This structure is similar to a tree structure, with a single root node as the topmost node of the tree, subsequent levels of data branching off from the root node. Each node in the tree can contain one or more data items, and data items can be linked together by logical relationships, such as parent-child relationships. In a hierarchical database, information is accessed using a unique path, making the data easier to access and manage.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

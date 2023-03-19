@@ -1,0 +1,12 @@
+{
+  "id": "dbc86e36-1688-4ba2-9e97-df57c71c306c",
+  "instruction": "Identify any 5 valid assumptions a user may make while reading the following article",
+  "input": "In a landmark case, a small town in Utah has become the first in the nation to be declared an autonomous zone.",
+  "output": "1. The autonomous zone is limited to the town in Utah.\n2. The autonomous zone will have its own rules and laws.\n3. The residents of this town will have more autonomy than other towns.\n4. This town is the first of its kind in the nation.\n5. This case may set a precedent for other towns to become autonomous zones.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

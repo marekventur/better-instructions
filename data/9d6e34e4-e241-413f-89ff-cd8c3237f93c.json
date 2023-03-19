@@ -1,0 +1,12 @@
+{
+  "id": "9d6e34e4-e241-413f-89ff-cd8c3237f93c",
+  "instruction": "Summarize the given article and keep the summary to less than 50 words.",
+  "input": "https://www.sciencemag.org/news/2019/04/biased-algorithms-are-killing-people-prominent-ai-researchers-warn",
+  "output": "AI algorithms have experienced moral hazard due to imprecise decision-making processes, and AI researchers are warning that if the issue isn\u2019t addressed, algorithms will result in wrongful death and other adverse outcomes. AI researchers are issuing warnings that biased algorithms have the potential to cause serious harm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

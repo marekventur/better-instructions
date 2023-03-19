@@ -1,0 +1,12 @@
+{
+  "id": "d02e5acd-ef1e-4463-b05b-0adb28776e22",
+  "instruction": "Take a Wikipedia article and rewrite it in your own words.",
+  "input": "https://en.wikipedia.org/wiki/Volcanology",
+  "output": "Volcanology is a branch of geology that studies and investigates the formation and behavior of volcanoes. It focuses on understanding their structure, origin, and processes, as well as potential dangers. Furthermore, volcanology studies include topics such as assessing eruptive activity, the less hazardous effusive eruptions, and the effects of volcanic activity on the local and global environment, climate and seismic activity. Volcanologists also form predictions with regards to the risks posed by volcanoes, in an attempt to minimize future loss of life.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

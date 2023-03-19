@@ -1,0 +1,12 @@
+{
+  "id": "43db596a-88f9-43cc-886a-a2fcc28c2849",
+  "instruction": "Greet an incoming guest.",
+  "input": "John Smith",
+  "output": "Welcome, John Smith!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1c4619cc-0b50-4e2e-9de8-a1c0a0afa169",
+  "instruction": "Change the word \"muggy\" to another word with a similar meaning.",
+  "input": "muggy",
+  "output": "humid",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

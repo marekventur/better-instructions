@@ -1,0 +1,12 @@
+{
+  "id": "d7a23082-f595-466a-b686-7e8d2b067489",
+  "instruction": "Rating predictions: Predict the rating of a review with the text",
+  "input": "Text: \"The food was amazing. Highly recommend!\"",
+  "output": "The review is likely to receive a rating of 5/5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

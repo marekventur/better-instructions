@@ -1,0 +1,12 @@
+{
+  "id": "56e71419-c0e6-4280-8cb1-a4cd25a959f0",
+  "instruction": "Identify the appropriate pronoun to complete this sentence.",
+  "input": "___ never wants to study for tests.",
+  "output": "He/She never wants to study for tests.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

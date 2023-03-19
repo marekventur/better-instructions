@@ -1,0 +1,12 @@
+{
+  "id": "9a9b778c-5bdd-408e-927a-85e23e12f237",
+  "instruction": "Classify the sentence as affirmative or negative.",
+  "input": "He had no patience for the game.",
+  "output": "The sentence is negative.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

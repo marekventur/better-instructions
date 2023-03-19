@@ -1,0 +1,12 @@
+{
+  "id": "6a59ff1d-5056-49a3-8531-75297ba69505",
+  "instruction": "Characterize the protagonist in the book.",
+  "input": "Book: Jane Eyre",
+  "output": "Jane Eyre is a strong-willed, independent, and determined young woman, who is often portrayed as a resourceful and tenacious fighter against the oppressive forces of her environment. She is determined not to be anything less than a beacon of liberty, who through her independent will, courage, and unwavering faith in justice, guides the way towards a brighter tomorrow for all.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

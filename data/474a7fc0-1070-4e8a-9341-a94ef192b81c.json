@@ -1,0 +1,12 @@
+{
+  "id": "474a7fc0-1070-4e8a-9341-a94ef192b81c",
+  "instruction": "Assign the word 'Proficient' the appropriate synonyms for each given sentence.",
+  "input": "He earned a certificate for completing the course.",
+  "output": "He earned a certificate for demonstrating proficiency in the course.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

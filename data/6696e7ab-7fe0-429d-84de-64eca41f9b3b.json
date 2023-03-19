@@ -1,0 +1,12 @@
+{
+  "id": "6696e7ab-7fe0-429d-84de-64eca41f9b3b",
+  "instruction": "Detect if the following phrase is in proper English",
+  "input": "We goin' for shopping",
+  "output": "The phrase is not in proper English.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

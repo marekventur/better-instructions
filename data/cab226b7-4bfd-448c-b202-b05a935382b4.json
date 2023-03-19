@@ -1,0 +1,12 @@
+{
+  "id": "cab226b7-4bfd-448c-b202-b05a935382b4",
+  "instruction": "Given an array of numbers ranging from 0 to 10, output the number of its elements that are divisible by 3.",
+  "input": "[3, 6, 4, 7, 8, 10, 0, 9]",
+  "output": "3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

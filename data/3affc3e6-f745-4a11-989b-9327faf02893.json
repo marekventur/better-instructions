@@ -1,0 +1,12 @@
+{
+  "id": "3affc3e6-f745-4a11-989b-9327faf02893",
+  "instruction": "Create a timeline for tasks needed to complete the project.",
+  "input": "This is a project to build a prototype for a mobile app.",
+  "output": "Task timeline: \n\nDay 1: Develop project plan and design wireframes \nDay 2: Create database and basic API\nDay 3: Develop front-end UI prototype \nDay 4: Debug the prototype and associated components \nDay 5: Final testing, optimization, and deployment of the prototype",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

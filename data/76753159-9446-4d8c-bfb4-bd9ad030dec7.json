@@ -1,0 +1,12 @@
+{
+  "id": "76753159-9446-4d8c-bfb4-bd9ad030dec7",
+  "instruction": "Explain the concept of numerical integration.",
+  "input": "",
+  "output": "Numerical integration is a method of approximating an integral by numerical methods. It involves breaking down the integral into smaller, simpler integrals and replacing these with sums or other approximations using numerical methods. These numerical methods can be used to approximate the area under a curve and calculate integrals. The most common numerical method is the trapezoidal rule, which approximates the integral by dividing it into rectangles and adding their areas together.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

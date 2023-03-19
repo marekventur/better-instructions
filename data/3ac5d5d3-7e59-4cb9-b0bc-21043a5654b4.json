@@ -1,0 +1,12 @@
+{
+  "id": "3ac5d5d3-7e59-4cb9-b0bc-21043a5654b4",
+  "instruction": "Rewrite the following sentence using active voice.",
+  "input": "The news report was read by the captain.",
+  "output": "The captain read the news report.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

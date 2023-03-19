@@ -1,0 +1,12 @@
+{
+  "id": "5b8d76cf-3298-4cb8-8a21-0703f894fb43",
+  "instruction": "Generate a limerick that rhymes with the given word.",
+  "input": "Fox",
+  "output": "A fox who remarkably worked on apps \nFound a bug that caused many many laps \nHe fixed it right away \nNow you can play all day\nThat fox was so smart and had great savvy apps!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

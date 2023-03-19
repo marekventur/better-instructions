@@ -1,0 +1,12 @@
+{
+  "id": "4ee3d7b6-962b-4dc9-992b-7bdb1afbc249",
+  "instruction": "Generate a string of numbers that follows this pattern: 6, 11, 16, 21, ...",
+  "input": "",
+  "output": "6, 11, 16, 21, 26, 31, 36, 41, 46, 51, 56, 61, 66, 71, 76, 81, 86, 91, 96",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

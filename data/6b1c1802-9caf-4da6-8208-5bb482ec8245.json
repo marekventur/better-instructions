@@ -1,0 +1,12 @@
+{
+  "id": "6b1c1802-9caf-4da6-8208-5bb482ec8245",
+  "instruction": "Construct a quiz question about the country of France.",
+  "input": "",
+  "output": "What is the capital of France?\n\nA. Monaco\nB. London\nC. Paris\nD. Madrid",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6461180d-f97f-45b8-bd25-a07978e30bac",
+  "instruction": "You are provided with a medical condition. Write a 3-5 sentence description of the medical condition:",
+  "input": "Moyamoya Syndrome",
+  "output": "Moyamoya Syndrome is a rare, progressive cerebrovascular disorder characterized by a network of abnormal vessels at the base of the brain. These fragile vessels can easily rupture causing stroke or bleeding in the brain. Symptoms of Moyamoya syndrome include paralysis of the face, headaches, seizures, developmental delays, and strokes. Diagnostic tests such as computerized tomography (CT) and magnetic resonance imaging (MRI) scans are used to diagnose Moyamoya Syndrome. Treatment includes surgical revascularization, drugs, and physical therapy. For some people, prognosis is good with successful treatment, however, Moyamoya Syndrome can be lifelong and can lead to long-term complications.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3bde812e-1508-4da7-8310-8134167aef85",
+  "instruction": "Identify if the following sentence is present perfect or present simple. Output 1 for present perfect, and 0 for present simple.",
+  "input": "I have heard this song before.",
+  "output": "1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ea98434f-9be1-4c87-961a-da0390ddb476",
+  "instruction": "Calculate the average temperature in degrees Celsius for the given list of temperatures.",
+  "input": "22, 23, 24, 25, 22",
+  "output": "23 degrees Celsius",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

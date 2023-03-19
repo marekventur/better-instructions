@@ -1,0 +1,12 @@
+{
+  "id": "349fc27d-e7b2-49d0-b743-855ceaf2f1de",
+  "instruction": "Suggest some ways to optimize a given webpage.",
+  "input": "",
+  "output": "Improve page loading times by optimizing images and using caching for static assets. Minify HTML, JS, and CSS code to reduce the amount of data being loaded. Enable compression with GZIP or Brotli. Use fewer external scripts and stylesheets. Take advantage of browser preloading and prefetching resources. Reduce the number of redirects and HTTP requests that must be made.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

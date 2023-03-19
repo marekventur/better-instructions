@@ -1,0 +1,12 @@
+{
+  "id": "8fb71797-56f3-4d38-adfb-db9bb38d4b40",
+  "instruction": "Construct a valid database query from the following parameters.",
+  "input": "SELECT * FROM Customers WHERE Country=\"USA\";",
+  "output": "SELECT * FROM Customers WHERE Country=\"USA\";",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

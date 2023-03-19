@@ -1,0 +1,12 @@
+{
+  "id": "aef9cda4-38d1-4ca4-bb40-2b1daab35bbe",
+  "instruction": "Generate a hypothesis about how Amazon\u2019s recommendation system works.",
+  "input": "",
+  "output": "The hypothesis is that Amazon\u2019s recommendation system uses machine learning algorithms to analyze customer browsing and purchase history, as well as other data gathered from the customer (such as demographics, interests, and preferences). Based on this data, the system is able to generate personalized product recommendations for each customer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

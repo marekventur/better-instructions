@@ -1,0 +1,12 @@
+{
+  "id": "88f5a45c-934e-479c-97b5-c959c1a5ae21",
+  "instruction": "Classify this passage as either a personal or informative essay.",
+  "input": "Road trips have been a part of my life ever since I can remember. As a child, my parents would load me and my siblings up into a car and we'd drive from our hometown to visit relatives or enjoy a weekend camping adventure.",
+  "output": "Personal Essay.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8e186352-9eb5-43fd-9b05-c6029c5a2a5f",
+  "instruction": "Describe the best practices for using a relational database.",
+  "input": "",
+  "output": "The best practices for using a relational database include normalizing the data, defining proper constraints, using indexes for faster lookups, ensuring data integrity, and following a consistent data model where possible. It is important to have a properly designed database schema, and to minimize data duplication. It is also essential to have proper backups and logging in place to ensure recoverability in case of unexpected events or errors. Finally, it is crucial to test the database thoroughly to ensure it is working as intended.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

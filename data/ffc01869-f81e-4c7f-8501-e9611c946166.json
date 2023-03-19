@@ -1,0 +1,12 @@
+{
+  "id": "ffc01869-f81e-4c7f-8501-e9611c946166",
+  "instruction": "Given a dialogue, write an appropriate response for the end of the dialogue",
+  "input": "Person A:\nI'm having trouble understanding the instructions for this project\n\nPerson B:",
+  "output": "That's okay, I can explain it step by step and we can go through it together. What part are you having trouble with?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

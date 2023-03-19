@@ -1,0 +1,12 @@
+{
+  "id": "cb27b93f-d5c3-4e4a-87a3-23813f7c2b4a",
+  "instruction": "Replace underscores with the correct pronouns.",
+  "input": "Jane___ a teacher.",
+  "output": "Jane is a teacher.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

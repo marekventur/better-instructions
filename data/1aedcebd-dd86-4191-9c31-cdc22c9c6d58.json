@@ -1,0 +1,12 @@
+{
+  "id": "1aedcebd-dd86-4191-9c31-cdc22c9c6d58",
+  "instruction": "Output the title of the TV show given a description",
+  "input": "A show about a criminal who fights against the establishment",
+  "output": "Breaking Bad",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "03d5d5b3-bf28-49dc-9ced-9f406b74f690",
+  "instruction": "How will you use a for loop in C++?",
+  "input": "",
+  "output": "A for loop can be used in C++ to iterate through a collection of items, like an array, and access each item one by one. The loop takes three parameters: the iterator, the value of the iterator in each iteration, and the collection in which to iterate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

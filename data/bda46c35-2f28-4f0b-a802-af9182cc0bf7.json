@@ -1,0 +1,12 @@
+{
+  "id": "bda46c35-2f28-4f0b-a802-af9182cc0bf7",
+  "instruction": "Given a piece of text, determine the most frequent word.",
+  "input": "This is a random sentence for analyzing the most frequent word in a sentence.",
+  "output": "The most frequent word in the sentence is \"a\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

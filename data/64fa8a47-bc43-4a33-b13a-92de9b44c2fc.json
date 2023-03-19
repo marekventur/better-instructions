@@ -1,0 +1,12 @@
+{
+  "id": "64fa8a47-bc43-4a33-b13a-92de9b44c2fc",
+  "instruction": "Write a short review about the book you have read recently",
+  "input": "The author of the book is John Doe and the title of the book is \u2018Science of Learning\u2019",
+  "output": "I recently read the book \u2018Science of Learning\u2019 by John Doe. It explores the various scientific principles behind effective learning and provides useful strategies on how to retain information and increase focus. It was an informative read with a lot of practical tips that helped me improve my learning efficiency.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c7849da5-9283-43fc-8554-639347489708",
+  "instruction": "Create a classification task by clustering the given list of items.",
+  "input": "Apples, oranges, bananas, strawberries, pineapples",
+  "output": "Class 1: Apples, Oranges\nClass 2: Bananas, Strawberries\nClass 3: Pineapples",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

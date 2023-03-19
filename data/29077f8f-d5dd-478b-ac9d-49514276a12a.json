@@ -1,0 +1,12 @@
+{
+  "id": "29077f8f-d5dd-478b-ac9d-49514276a12a",
+  "instruction": "Generate a pseudocode for sorting an array.",
+  "input": "",
+  "output": "a. Set a pointer low to the first element in the array\nb. Set a pointer high to the last element in the array\nc. While the low pointer is less than the high pointer \nd. If the element at the low pointer is higher than the element at the high pointer \n  i. Swap the elements\n  ii. Increment the low pointer by 1\n  iii. Decrement the high pointer by 1\ne. Repeat step c until the low pointer is equal or higher than the high pointer\nf. Sort the elements in the subarray between the two pointers using the same procedure \ng. Repeat until the subarray is fully sorted",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

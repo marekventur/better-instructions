@@ -1,0 +1,12 @@
+{
+  "id": "ec33b78a-3596-4e67-a1d5-4d4f5af9f2e2",
+  "instruction": "Generate a list of tips to teach someone how to play chess.",
+  "input": "",
+  "output": "- Learn the names and values of the pieces.\n- Understand basic chess moves, including special moves like castling.\n- Become familiar with the concepts of check, checkmate, and stalemate.\n- Get to know the value of each piece and when to exchange them.\n- Learn the strategies such as controlling the center, developing your pieces, attack and defend, and calculated risks.\n- Watch how experts play chess and observe how they created successful strategies.\n- Try to think several moves ahead.\n- Learn about some basic chess openings and closing.\n- Learn when it is applicable to sacrifice pieces for the overall gain. \n- Experiment with different moves in practice games.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

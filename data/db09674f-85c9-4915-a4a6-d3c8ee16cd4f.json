@@ -1,0 +1,12 @@
+{
+  "id": "db09674f-85c9-4915-a4a6-d3c8ee16cd4f",
+  "instruction": "Explain how to solve a mathematical equation.",
+  "input": "2x + 4 = 10",
+  "output": "To solve this equation, start by subtracting 4 from both sides of the equation. This gives you 2x = 6. Then, divide both sides of the equation by 2. This gives you x = 3, so the solution to the equation is x = 3.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

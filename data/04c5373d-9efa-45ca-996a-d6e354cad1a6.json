@@ -1,0 +1,12 @@
+{
+  "id": "04c5373d-9efa-45ca-996a-d6e354cad1a6",
+  "instruction": "Create an API endpoint for retrieving information about the latest book.",
+  "input": "",
+  "output": "GET /books/latest HTTP/1.1\nHost: api.example.com",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

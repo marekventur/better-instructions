@@ -1,0 +1,12 @@
+{
+  "id": "5adfa7e9-bdbb-4ddb-afec-d3a5b92425f8",
+  "instruction": "Compose a haiku poem containing the following words.",
+  "input": "Spring, river, sunset",
+  "output": "At spring's first rainbows<br>\nThe river runs in thought away<br>From setting sun's embrace",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

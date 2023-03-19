@@ -1,0 +1,12 @@
+{
+  "id": "e3f8863c-4a51-44aa-81d7-250193d7f7b2",
+  "instruction": "Design an educational game to help children learn the capital cities of countries in a fun way.",
+  "input": "",
+  "output": "The game can start with a map of the world and a list of countries and their capital cities. Each round, the players have to guess the correct capital city for a given country. Players get points for answering correctly, and have to work together to find the right answer. Additional points could be earned for answering quickly. After a certain amount of rounds, the players with the most points win the game.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

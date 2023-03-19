@@ -1,0 +1,12 @@
+{
+  "id": "54cf63fd-63e4-4a32-9f3b-9d690353ca9e",
+  "instruction": "Given a phrase, Identify the grammar rule and parts of speech it follows.",
+  "input": "Phrase: A fool's errand",
+  "output": "The phrase follows the grammar rule of a compound noun, with \"fool\" being a noun and \"errand\" being a noun. Both words are singular and in the common case.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

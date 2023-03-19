@@ -1,0 +1,12 @@
+{
+  "id": "c77b3f93-38d2-49d7-b28e-ca47ebb33558",
+  "instruction": "Search the web for reviews related to a product.",
+  "input": "Samsung Galaxy S20",
+  "output": "After searching the web, I found several reviews related to the Samsung Galaxy S",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

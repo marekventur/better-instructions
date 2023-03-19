@@ -1,0 +1,12 @@
+{
+  "id": "ab08e227-2065-4c1d-8383-79c82305aa9d",
+  "instruction": "Give 3 possible solutions to the following problem.",
+  "input": "There's a rat in my house.",
+  "output": "1. Contact an exterminator and have them professionally remove the rat.\n2. Set up humane traps in your home to catch and release the rat somewhere else.\n3. Use natural rodent repellents such as peppermint oil and ammonia-soaked cotton balls to drive the rat away.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

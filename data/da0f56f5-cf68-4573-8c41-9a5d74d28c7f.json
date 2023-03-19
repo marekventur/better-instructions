@@ -1,0 +1,12 @@
+{
+  "id": "da0f56f5-cf68-4573-8c41-9a5d74d28c7f",
+  "instruction": "Answer this true-or-false question.",
+  "input": "Aardvarks are native to South America.",
+  "output": "False, Aardvarks are native to Africa.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

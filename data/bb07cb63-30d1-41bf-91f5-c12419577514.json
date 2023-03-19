@@ -1,0 +1,12 @@
+{
+  "id": "bb07cb63-30d1-41bf-91f5-c12419577514",
+  "instruction": "Describe the similarities between decision trees and random forests.",
+  "input": "",
+  "output": "Decision trees and random forests are both supervised machine learning models that are used for classification problems. Both models use a tree-like structure to make decisions. In a decision tree, each node is a decision point and the model descends down the tree until it reaches a leaf node, which is the prediction. A random forest is similar, but instead of a single decision tree, it includes multiple decision trees trained on slightly different data and combined together. The result is a better prediction model with improved accuracy and reduced overfitting.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

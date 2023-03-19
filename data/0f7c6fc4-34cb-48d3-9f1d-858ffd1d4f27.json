@@ -1,0 +1,12 @@
+{
+  "id": "0f7c6fc4-34cb-48d3-9f1d-858ffd1d4f27",
+  "instruction": "Merge the two lists into one list by removing any duplicate elements.",
+  "input": "List 1: [1, 2, 3, 4, 5]\nList 2: [2, 3, 4, 6, 7]",
+  "output": "[1, 2, 3, 4, 5, 6, 7]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

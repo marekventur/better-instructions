@@ -1,0 +1,12 @@
+{
+  "id": "6eb4e224-fb5d-44ae-a2be-e641b4e6b022",
+  "instruction": "Construct a query for finding information about 3D printing",
+  "input": "",
+  "output": "Query: \"3D Printing\" OR \"Additive Manufacturing\" OR \"Rapid Prototyping\" OR \"3D Modeling\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

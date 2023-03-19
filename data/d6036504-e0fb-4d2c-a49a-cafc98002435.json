@@ -1,0 +1,12 @@
+{
+  "id": "d6036504-e0fb-4d2c-a49a-cafc98002435",
+  "instruction": "Find a random animal in a database and classify it as endangered or not endangered.",
+  "input": "",
+  "output": "The Nycteribiidae bat is not endangered. This bat species is found in the tropical regions of Africa, Asia and the Caribbean. It has a wide range, and its population is considered to be stable.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

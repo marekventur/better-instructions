@@ -1,0 +1,12 @@
+{
+  "id": "35387920-c1a8-4fd2-a122-0e68b14a86dc",
+  "instruction": "Construct an appropriate input to the following instruction: Generate an outfit suggestion for a summer night out.",
+  "input": "Temperature: 76\u00b0F \nLocation: Beach\nPreference: Casual",
+  "output": "It's 76\u00b0F at the beach and you want a casual outfit suggestion for a summer night out.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

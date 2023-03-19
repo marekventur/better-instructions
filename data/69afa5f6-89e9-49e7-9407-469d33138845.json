@@ -1,0 +1,12 @@
+{
+  "id": "69afa5f6-89e9-49e7-9407-469d33138845",
+  "instruction": "Generate a valid C++ code to print out a two-dimensional array",
+  "input": "",
+  "output": "for (int i = 0; i < array_size; i++)\n{\n    for (int j = 0; j < array_size; j++)\n    {\n        cout << array[i][j] << \" \";\n    }\n    cout << endl;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2e58b6d8-ead5-42f3-a47a-1f5ee080655f",
+  "instruction": "Create a timeline describing the history of the internet",
+  "input": "",
+  "output": "1968: ARPANET, the first internet network, is created.\n 1973: TCP/IP is created, allowing computers to communicate with each other.\n 1983: DNS is created to simplify the communication process. \n 1989: The World Wide Web is created, giving birth to the public internet.\n 1995: JavaScript is developed, introducing dynamic content to the web.\n 2001: Wikipedia is launched, providing an online encyclopedia.\n 2004: Facebook is launched, growing quickly to 1 billion users.\n 2007: Apple introduces the iPhone, making mobile devices commonplace.\n 2009: Cloud computing begins to revolutionize data storage. \n 2011: HTML5 is released, encouraging richer web experiences.\n 2013: The Internet of Things (IoT) emerges, connecting dozens of durable devices. \n 2015: \"Voice first\" technology, such as Amazon's Alexa, launches.\n 2018: 5G networks begin rolling out, allowing for faster connection speeds.\n 2020: AI begins to be used to power home assistants like Alexa.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

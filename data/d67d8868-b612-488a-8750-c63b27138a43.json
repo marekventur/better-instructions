@@ -1,0 +1,12 @@
+{
+  "id": "d67d8868-b612-488a-8750-c63b27138a43",
+  "instruction": "Categorize the following superhero movie.",
+  "input": "The Avengers",
+  "output": "The Avengers is a superhero movie in the Marvel Cinematic Universe. It is based on the Marvel comic book series of the same name.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

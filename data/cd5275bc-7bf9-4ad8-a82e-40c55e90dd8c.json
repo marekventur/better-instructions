@@ -1,0 +1,12 @@
+{
+  "id": "cd5275bc-7bf9-4ad8-a82e-40c55e90dd8c",
+  "instruction": "Outline a plan of action if a customer has an issue with their purchase",
+  "input": "",
+  "output": "1. Listen to the customer\u2019s concerns and understand their issue.\n2. Collect appropriate information (order ID, customer details, etc.)\u00a0in order to assist the customer. \n3. Suggest possible solutions and ask the customer which option they prefer.\n4. Follow up with the customer to ensure that their issue is resolved.\n5. Log the customer\u2019s complaint and response for future reference.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a06c292e-2a21-4436-80d1-a06f1390ab55",
+  "instruction": "Infer what the author meant in the following sentence.",
+  "input": "He said he was feeling blue.",
+  "output": "He said he was feeling sad.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

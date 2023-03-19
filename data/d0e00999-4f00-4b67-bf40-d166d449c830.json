@@ -1,0 +1,12 @@
+{
+  "id": "d0e00999-4f00-4b67-bf40-d166d449c830",
+  "instruction": "Identify a weakness of using text-based dialogue with a conversational AI.",
+  "input": "",
+  "output": "One weakness of using text-based dialogue with a conversational AI is that it can be difficult for the AI to recognize subtle nuances in language. Without being able to accurately detect and interpret the user's intent, the AI may provide the wrong response or be unable to understand the conversation. Additionally, text-based dialogue may not always be the most engaging or user-friendly way of interacting with an AI.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

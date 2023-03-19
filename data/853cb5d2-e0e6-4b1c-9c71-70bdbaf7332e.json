@@ -1,0 +1,12 @@
+{
+  "id": "853cb5d2-e0e6-4b1c-9c71-70bdbaf7332e",
+  "instruction": "Compose a tweet introducing yourself that is less than 140 characters.",
+  "input": "",
+  "output": "Hi there! I'm [Name], an [occupation] and an [hobby] enthusiast. I'm here to share stories about [topic] and connect with like-minded people. #[hashtag]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

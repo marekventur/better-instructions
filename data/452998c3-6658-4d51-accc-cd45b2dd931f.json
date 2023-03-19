@@ -1,0 +1,12 @@
+{
+  "id": "452998c3-6658-4d51-accc-cd45b2dd931f",
+  "instruction": "State the differences between two given objects.",
+  "input": "Object 1: Apple, Object 2: Orange",
+  "output": "The main difference between an apple and an orange is their appearance. Apples are typically round and smooth, with a hard red, green, or yellow skin. Oranges have a rough, bright orange skin, and they are typically round or oval in shape. Apples tend to have a sweet, tart flavor and a crisp, juicy texture when eaten, while oranges are typically sweeter and have a less crisp texture when eaten. nutritionally, apples are rich in Vitamin C and dietary fiber, while oranges are rich in Vitamin C, thiamin, folate and potassium.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

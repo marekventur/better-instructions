@@ -1,0 +1,12 @@
+{
+  "id": "96cf78fb-318d-4309-a959-061ecf97cebb",
+  "instruction": "Change the verb tense in the following sentence from Present Perfect to Simple Present.",
+  "input": "I have forgotten my umbrella.",
+  "output": "I forget my umbrella.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

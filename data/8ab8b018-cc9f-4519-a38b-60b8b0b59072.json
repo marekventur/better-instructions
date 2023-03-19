@@ -1,0 +1,12 @@
+{
+  "id": "8ab8b018-cc9f-4519-a38b-60b8b0b59072",
+  "instruction": "Identify which of the following is a primary source and which is a secondary source.",
+  "input": "A book written by a historian about World War II and a diary written by a soldier during World War II",
+  "output": "The diary is a primary source and the book is a secondary source.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

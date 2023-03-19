@@ -1,0 +1,12 @@
+{
+  "id": "3219d449-c715-4d75-9773-76406e4b0e59",
+  "instruction": "Sort the nouns into two meaningful groups.",
+  "input": "Car, Television, Leaf, Cake",
+  "output": "Objects: Car, Television, Cake \nNatural Elements: Leaf",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

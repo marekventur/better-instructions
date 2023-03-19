@@ -1,0 +1,12 @@
+{
+  "id": "43ee68ca-27d3-4ebd-acba-90edd9243a07",
+  "instruction": "Explain the general mechanism behind solar cells.",
+  "input": "",
+  "output": "Solar cells are devices that convert sunlight into electricity. They are made of layers of semiconductors that absorb the sunlight and create an electric field. When light particles, called photons, hit the solar cell and are absorbed by the materials within, they knock electrons loose from the atoms in the material. This creates a flow of electricity when the solar cell is connected to an electrical circuit.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0a9a78a2-3e09-4eac-a1cf-84189d00233b",
+  "instruction": "Add a comma to separate the dependent clause and independent clause.",
+  "input": "After I finished the project I went home",
+  "output": "After I finished the project, I went home.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

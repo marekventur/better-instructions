@@ -1,0 +1,12 @@
+{
+  "id": "00a4baaa-5c8c-4531-87d8-6756a96adfb2",
+  "instruction": "Create a recipe for \"Penne Alla Vodka\".",
+  "input": "",
+  "output": "Ingredients:\n- 1 lb penne pasta\n- 2 tablespoons olive oil \n- 1 shallot, finely chopped\n- 2 cloves garlic, minced\n- 1 cup of heavy cream\n- \u00bc cup vodka\n- 2 tablespoons tomato paste\n- \u00bd cup Parmesan cheese, grated\n- 2 tablespoons fresh parsley, chopped\n- Salt and black pepper to taste\n\nInstructions:\n1. Bring a large pot of salted water to a boil and cook the penne until al dente.\n2. Meanwhile, in a large skillet, heat the olive oil over medium heat and cook the shallots and garlic until fragrant and lightly browned, about 2 minutes.\n3. Add the cream, vodka, and tomato paste and reduce heat to low. Simmer the sauce until it thickens, about 10 minutes.\n4. Drain the penne and return to the pot. Add the sauce and mix to coat the pasta. Transfer to a serving dish and top with Parmesan cheese, parsley, salt and black pepper.\n5. Serve hot and enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

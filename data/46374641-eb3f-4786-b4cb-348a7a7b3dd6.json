@@ -1,0 +1,12 @@
+{
+  "id": "46374641-eb3f-4786-b4cb-348a7a7b3dd6",
+  "instruction": "Rearrange the following list aphabetically.",
+  "input": "Cake, Hat, Desk, Apple",
+  "output": "Apple, Cake, Desk, Hat",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b565e9fb-a0da-41b7-a1fa-f68f513e7bd4",
+  "instruction": "Provide a brief analysis of the given poem.",
+  "input": "\"Still I Rise\" by Maya Angelou\n\nYou may write me down in history\nWith your bitter, twisted lies,\nYou may trod me in the very dirt\nBut still, like dust, I'll rise.",
+  "output": "\"Still I Rise\" by Maya Angelou is a powerful poem that celebrates resilience and perseverance in the face of adversity. The poem speaks to the power of human spirit to overcome hardship and shatters the oppressive forces of bias and hate. In the first two lines, the speaker stands tall in the face of criticism and brutality and rises to challenge lies and injustice. The poem speaks of the strength of the human spirit and reminds readers that even though they may get knocked down, they will still rise.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "47f7cf4a-8b2b-4111-b645-e7dd8e396f48",
+  "instruction": "Identify a common problem with the given sentence.",
+  "input": "The dog is was barking at the cat.",
+  "output": "The common problem with the given sentence is incorrect verb tense. The verb \"was\" should be changed to \"were\" to make the sentence grammatically correct.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

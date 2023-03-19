@@ -1,0 +1,12 @@
+{
+  "id": "5674500b-54a4-4677-b50a-500357f2abde",
+  "instruction": "Discover which word in the sentence carries the most weight.",
+  "input": "She ordered Chinese food for dinner.",
+  "output": "Dinner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

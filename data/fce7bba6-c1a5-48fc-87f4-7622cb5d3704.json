@@ -1,0 +1,12 @@
+{
+  "id": "fce7bba6-c1a5-48fc-87f4-7622cb5d3704",
+  "instruction": "Given a movie genre, come up with some questions someone might ask while they are watching the movie.",
+  "input": "Action",
+  "output": "-What tricks and stunts did we see in this action movie?\n-What kind of weapons are on display throughout the movie?\n-How did our hero manage to pull of that daring escape?\n-What kind of stunts were most impressive?\n-How creative were the fight scenes?\n-Did the action scenes seem realistic?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

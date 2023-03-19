@@ -1,0 +1,12 @@
+{
+  "id": "5a3c309e-2b83-4083-b78f-4cbd9865332a",
+  "instruction": "Create a database query to list the names of all employees in a company.",
+  "input": "",
+  "output": "SELECT name FROM employees;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

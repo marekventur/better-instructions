@@ -1,0 +1,12 @@
+{
+  "id": "314bb822-d4f1-408d-87d1-5da240421a88",
+  "instruction": "Imagine a situation and then write a scenario for a conversation in a natural language.",
+  "input": "Two tourists visiting a new museum.",
+  "output": "Tourist 1: Wow, this museum is amazing! \nTourist 2: I know, right? I haven't been to a place like this in a while. \nTourist 1: I'm so glad we decided to come here! \nTourist 2: Yeah, me too. Let's explore the museum and see what we can learn.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

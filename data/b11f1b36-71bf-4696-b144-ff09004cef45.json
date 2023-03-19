@@ -1,0 +1,12 @@
+{
+  "id": "b11f1b36-71bf-4696-b144-ff09004cef45",
+  "instruction": "Transform the following sentence by replacing \u201cwas\u201d with \u201cwere\u201d.",
+  "input": "The dog was happy when it heard the sound.",
+  "output": "The dog were happy when it heard the sound.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

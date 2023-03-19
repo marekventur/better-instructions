@@ -1,0 +1,12 @@
+{
+  "id": "8de84643-68df-40db-b226-7f8b0ee7db05",
+  "instruction": "Explain the differences between an open-ended and a close-ended question.",
+  "input": "",
+  "output": "Open-ended questions do not have a fixed answer, allowing the respondent to provide any kind of answer. These questions usually begin with words such as \u201cwhat,\u201d \u201chow,\u201d \u201cwhy,\u201d or \u201cdescribe\u201d. They can generate a lot of valuable insights. On the other hand, close-ended questions can be answered with a simple \u201cyes\u201d or \u201cno\u201d, or with a fixed selection of responses. These questions often begin with \u201cdo\u201d, \u201care\u201d, or \u201cwould\u201d. They are useful for collecting quantitative data, but not for gathering qualitative information.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

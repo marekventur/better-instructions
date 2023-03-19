@@ -1,0 +1,12 @@
+{
+  "id": "6b91127e-55e1-49fc-813d-768d485bd807",
+  "instruction": "Fix the underlying message of the following sentence.",
+  "input": "You don't need to bother.",
+  "output": "I will be happy to help you.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

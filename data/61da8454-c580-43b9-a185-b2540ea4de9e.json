@@ -1,0 +1,12 @@
+{
+  "id": "61da8454-c580-43b9-a185-b2540ea4de9e",
+  "instruction": "Rewrite the sentence to include the given words.",
+  "input": "The child was seen walking at night,\nWords: stealthily",
+  "output": "The child was seen stealthily walking at night.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

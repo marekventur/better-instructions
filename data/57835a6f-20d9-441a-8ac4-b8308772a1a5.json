@@ -1,0 +1,12 @@
+{
+  "id": "57835a6f-20d9-441a-8ac4-b8308772a1a5",
+  "instruction": "Order the steps to produce a cake.",
+  "input": "flour, eggs, baking powder, butter, sugar",
+  "output": "Mix the flour, baking powder and sugar together. Cream the butter and eggs together, then add to the dry ingredients. Mix everything until you have a smooth batter. Put the batter in a cake tin and bake for the desired time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d762167b-0781-477c-80e5-e488571b9a19",
+  "instruction": "Create a web page with a heading saying: \"Welcome to our website\"",
+  "input": "",
+  "output": "<html>\n<head>\n    <title>Welcome to our website</title>\n</head>\n<body>\n    <h1>Welcome to our website</h1>\n</body>\n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

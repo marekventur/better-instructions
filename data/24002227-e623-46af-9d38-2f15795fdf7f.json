@@ -1,0 +1,12 @@
+{
+  "id": "24002227-e623-46af-9d38-2f15795fdf7f",
+  "instruction": "Find the indirect object in the sentence\nThe children gave their teacher a gift.",
+  "input": "",
+  "output": "The indirect object in the sentence is \"teacher\", as it is the recipient of the direct object \"a gift\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

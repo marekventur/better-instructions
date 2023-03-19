@@ -1,0 +1,12 @@
+{
+  "id": "559f2041-b032-45c9-8146-bd269acf9bb6",
+  "instruction": "Using the given example, frame a multiple choice question.",
+  "input": "False Belief: It is not possible to switch from a Major to a Minor in the same semester.",
+  "output": "Which one of the following statements is not true? \nA. You can switch from a Major to a Minor within the same semester. \nB. It is impossible to switch from a Major to a Minor within the same semester. \nC. It is possible to switch from a Minor to a Major within the same semester. \nD. It is unlikely to switch from a Minor to a Major within the same semester.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "01c3ab94-51bd-4bb3-9c62-faddf6d36744",
+  "instruction": "Suggest a way to optimize the given code for efficiency.",
+  "input": "def calculate_total_sum(list): \n  sum = 0\n  for element in list: \n    sum += element \n  return sum",
+  "output": "Optimize by replacing the for loop with the built-in sum() function which allows for faster calculation and improved efficiency.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

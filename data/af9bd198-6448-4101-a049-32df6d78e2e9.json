@@ -1,0 +1,12 @@
+{
+  "id": "af9bd198-6448-4101-a049-32df6d78e2e9",
+  "instruction": "Design a database schema to track a user's orders.",
+  "input": "",
+  "output": "The database schema should include two main tables: Users and Orders. The Users table should include the following fields: ID (primary key), name, email address, mailing address, and phone number. The Orders table should include the following fields: ID (primary key), order ID, user ID (foreign key), item name, item price, and quantity.\n\nThe database should also include two associative tables\u2014Order Merchandise and Shipment Details\u2014to track the items in each order and their associated shipment details, respectively. The Order Merchandise table should include the following fields: Order ID (foreign key) and Item ID (foreign key). The Shipment Details table should include the following fields: Order ID (foreign key) and Shipping Information (address, delivery date, etc).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

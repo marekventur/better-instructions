@@ -1,0 +1,12 @@
+{
+  "id": "0c8323fc-7149-4258-af46-46ebd1ade1f6",
+  "instruction": "Given the steps for making a cake, classify them according to their order.",
+  "input": "Mix the ingredients, preheat the oven, bake, cool",
+  "output": "1. Mix the ingredients\n2. Preheat the oven\n3. Bake\n4. Cool",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

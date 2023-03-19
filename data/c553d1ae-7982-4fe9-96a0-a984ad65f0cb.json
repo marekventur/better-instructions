@@ -1,0 +1,12 @@
+{
+  "id": "c553d1ae-7982-4fe9-96a0-a984ad65f0cb",
+  "instruction": "Edit the following sentence to make it more concise.",
+  "input": "He ran to the bus stop in order to catch the bus that was due to arrive in five minutes.",
+  "output": "He ran to the bus stop, due to arrive in five minutes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

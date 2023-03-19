@@ -1,0 +1,12 @@
+{
+  "id": "dce7478f-05af-4b0d-b2fd-5d159636419b",
+  "instruction": "Given the facts, compose a compelling story.",
+  "input": "Facts: \n- Person Y grew up in a large family where discipline was strictly enforced.\n- Person Y always excelled in school and was recognized for his hard work and talent.\n- Person Y attended a prestigious college and received a full scholarship.\n- Person Y was able to leverage his education to start a successful tech company.",
+  "output": "Person Y had always wanted to go to college, but he knew that his large family could not afford it. Despite the strict discipline his parents enforced, he studied hard and was determined to get the best education he could. Thanks to his hard work and dedication, he was eventually recognized for his talent and accepted to one of the most prestigious universities in the country. He was granted a full scholarship, and he was able to focus on his studies and graduate with honors.\n\nAfter college, Person Y leveraged the knowledge he gained from his degree to start his own tech company. He was confident in his ideas and knew that his hard work and dedication would take him far. He was right, and his company was a success. He was soon making more money than he ever thought possible, and he was proud to share his success with his family and community. He was an inspiration not only to his family, but to anyone who wanted to follow their dreams.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

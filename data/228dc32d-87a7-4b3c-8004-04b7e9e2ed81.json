@@ -1,0 +1,12 @@
+{
+  "id": "228dc32d-87a7-4b3c-8004-04b7e9e2ed81",
+  "instruction": "Find the type of an equation with the given line.",
+  "input": "y=3x+2",
+  "output": "The given line is a linear equation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

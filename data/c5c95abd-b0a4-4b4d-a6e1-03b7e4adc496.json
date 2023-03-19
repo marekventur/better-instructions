@@ -1,0 +1,12 @@
+{
+  "id": "c5c95abd-b0a4-4b4d-a6e1-03b7e4adc496",
+  "instruction": "Select the most appropriate input for the following command, \"Calculate the average gpa of students who attend Georgetown University.\"",
+  "input": "Georgetown University",
+  "output": "Georgetown University Student GPA records.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

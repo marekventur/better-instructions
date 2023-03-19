@@ -1,0 +1,12 @@
+{
+  "id": "fb8c0e55-d8f0-41e6-9ac2-a58792f21111",
+  "instruction": "How do self-driving cars sense the world around them?",
+  "input": "",
+  "output": "Self-driving cars use sensors to perceive the world around them, such as radar, lidar, cameras, and ultrasound. Radar and lidar use pulses of radio or light waves to detect the shape, size and speed of objects by measuring how long it takes for the waves to bounce off the object and return. Cameras are used to detect colors, shapes, and movements. Ultrasound is used to detect nearby objects or obstacles.  The data from these sensors is combined with artificial intelligence and machine learning algorithms to enable self-driving cars to navigate their environment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

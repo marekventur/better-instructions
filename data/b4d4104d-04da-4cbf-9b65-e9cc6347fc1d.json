@@ -1,0 +1,12 @@
+{
+  "id": "b4d4104d-04da-4cbf-9b65-e9cc6347fc1d",
+  "instruction": "You are provided with a list of spelling words. Output only the words that do not contain the letter 'e'.",
+  "input": "apple, coach, tree, paper, bee, school",
+  "output": "apple, coach, paper, school",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

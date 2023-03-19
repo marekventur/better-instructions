@@ -1,0 +1,12 @@
+{
+  "id": "0db8e2e9-9be8-4b03-a28f-1e3588f96e56",
+  "instruction": "Write an email to your professor expressing your concerns about a difficult exam.",
+  "input": "",
+  "output": "Dear Professor [NAME], \n\nI am writing to express my concerns about the upcoming exam for [COURSE NAME]. I feel that the material covered in the course and the exam questions presented to us are very difficult and I am struggling to keep up with the material. \n\nI would greatly appreciate it if you can provide extra support or resources that might help me understand the material better and also provide me more time to study and prepare for the exam. I am confident that I can perform better on the exam if I am provided with the additional support. \n\nThank you for your time and consideration.\n\nSincerely,\n[YOUR NAME]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

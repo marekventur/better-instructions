@@ -1,0 +1,12 @@
+{
+  "id": "a38f6427-68a5-4c11-9511-c45454c8eb50",
+  "instruction": "From the provided article, write a summary that states the author\u2019s main argument.",
+  "input": "This article discusses the benefits of meditation for helping people reduce stress and cope better with difficult situations.",
+  "output": "This article argues that meditation can provide important mental health benefits by helping people cope with difficult situations and reduce their stress levels. The article also covers potential risks associated with improper meditation, such as increased levels of anxiety and distraction. The author concludes that, when practiced correctly, meditation can be an effective tool for helping individuals reduce stress and lead more calm and satisfying lives.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

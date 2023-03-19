@@ -1,0 +1,12 @@
+{
+  "id": "ff8e2612-75ab-486a-9c80-a347c9f4b885",
+  "instruction": "Describe in your own words what is cosine similarity.",
+  "input": "",
+  "output": "Cosine similarity is a measure of similarity between two vectors, usually in a multi-dimensional space. It quantifies how closely two vectors point in the same direction and is based on the dot product of the two vectors. It takes values between 0 and 1, with 1 indicating perfect similarity. It is often used in information retrieval, machine translation, and natural language processing tasks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3ef1c4f0-5868-4a26-ba11-ff14788c2495",
+  "instruction": "Suggest an appropriate word to fill in the blank.",
+  "input": "The logo was brightly _______.",
+  "output": "The logo was brightly illuminated.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

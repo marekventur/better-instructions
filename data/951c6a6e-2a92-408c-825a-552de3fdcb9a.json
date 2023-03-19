@@ -1,0 +1,12 @@
+{
+  "id": "951c6a6e-2a92-408c-825a-552de3fdcb9a",
+  "instruction": "Build a neural network to predict which movies will be successful.",
+  "input": "",
+  "output": "A neural network can be built to predict which movies will be successful by inputting features such as the film's genre, budget, cast, reviews, as well as other factors such as the box office performance of similar films. The network should then be trained on a labeled dataset to produce accurate predictions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ca380fd8-a294-4b56-a532-2996a1ec6ad2",
+  "instruction": "Edit the following sentence so that it maintains its original meaning.",
+  "input": "Daniel should wear the pant how he wants.",
+  "output": "Daniel should wear the pants as he wishes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

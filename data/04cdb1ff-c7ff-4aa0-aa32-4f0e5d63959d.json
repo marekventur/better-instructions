@@ -1,0 +1,12 @@
+{
+  "id": "04cdb1ff-c7ff-4aa0-aa32-4f0e5d63959d",
+  "instruction": "Create a quiz question with the following options: A, B, C, D",
+  "input": "",
+  "output": "What is the capital city of Spain?\nA. Madrid \nB. Barcelona \nC. Valencia\nD. Seville",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

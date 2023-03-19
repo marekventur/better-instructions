@@ -1,0 +1,12 @@
+{
+  "id": "f67cc5a4-11d3-4b89-88e2-07e487f2959e",
+  "instruction": "What actions should a company take to prevent data breaches?",
+  "input": "",
+  "output": "Companies should take a multi-layered approach to preventing data breaches. They should ensure that all their data is stored securely in the cloud with encryption, use two-factor authentication for employee logins, create secure passwords and change them frequently, ensure that the latest security updates are installed on all computers, regularly run security scans and password audits, and train employees on how to handle sensitive information securely.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

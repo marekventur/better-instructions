@@ -1,0 +1,12 @@
+{
+  "id": "210b6040-b00b-4fd5-868e-4c56b82eb4f2",
+  "instruction": "Translate the following sentence from English to Spanish. Output less than 25 words",
+  "input": "I am learning Spanish.",
+  "output": "Estoy aprendiendo espa\u00f1ol.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

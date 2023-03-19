@@ -1,0 +1,12 @@
+{
+  "id": "e14bff9e-0677-48fe-a84f-663e1dcad227",
+  "instruction": "Summarize this recent news article about electric vehicles.",
+  "input": "Electric vehicles are becoming increasingly popular, with sales rising every month. A big part of this success is due to recent innovations in battery technology, which have allowed electric cars to travel further than ever before. Several countries have already announced plans to phase out gas-powered vehicles entirely, with the UK leading the way in switching most of its vehicles to electric.",
+  "output": "Electric vehicles are becoming increasingly popular as sales rise due to improved battery technology. This technology has allowed for longer travel distances for electric cars, which has led several countries to announce plans for phasing out gas-powered vehicles. The UK is leading the way in transitioning to electric vehicles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

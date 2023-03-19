@@ -1,0 +1,12 @@
+{
+  "id": "d5fcb366-978c-4221-800f-e6598c5c20ec",
+  "instruction": "Cut the following paragraph about renewable energy into 5 concise sentences.",
+  "input": "Renewable energy is energy that is generated from natural processes such as sunlight, wind, tides, and geothermal heat, which are renewable (naturally replenished). This contrasts with non-renewable sources such as fossil fuels, which are exhausted once used. Renewable energy is not free or infinite but is plentiful compared to conventional sources. It helps to reduce environmental damage, greenhouse gas emissions and air pollution. Renewable energy is an important part of a low carbon, clean energy system and is fundamental to achieving energy security and sustainable development.",
+  "output": "Renewable energy is energy generated from natural processes like sunlight, wind, tides, and geothermal heat. It is renewable and not free or infinite, but is plentiful compared to conventional sources. Renewable energy helps to reduce environmental damage, greenhouse gas emissions and air pollution. It is an important part of a low carbon, clean energy system and is fundamental to achieving energy security and sustainable development.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

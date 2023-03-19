@@ -1,0 +1,12 @@
+{
+  "id": "b544c397-75f1-426a-9911-ca6523608fd5",
+  "instruction": "Identify the main point of the following article:\n\nhttps://www.bbc.com/news/business-54050430",
+  "input": "",
+  "output": "The main point of the article is that recently there has been a trend of companies using younger workers to create episodic content for streaming services, such as Netflix and Amazon Prime. This has been both good news for these companies, and for young workers who have been able to gain valuable experience, but it has also raised questions about whether this trend is doing enough to support other demographics in the industry and prevent the loss of experienced workers due to unpaid internships.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

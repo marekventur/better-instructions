@@ -1,0 +1,12 @@
+{
+  "id": "c2136bc0-21fb-4078-802a-2126cf7abfd2",
+  "instruction": "Determine the best option for investment.",
+  "input": "I have $20,000 and I want to invest in stocks.",
+  "output": "It is recommended to diversify your investments for optimal returns and less risk. With $20,000, you could invest in a combination of stocks, bonds, mutual funds, index funds, and exchange-traded funds (ETFs). Each of these options has different levels of risk and rewards, so it is important to understand the details of each option before committing to any investments.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

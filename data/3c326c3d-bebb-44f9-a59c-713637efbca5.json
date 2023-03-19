@@ -1,0 +1,12 @@
+{
+  "id": "3c326c3d-bebb-44f9-a59c-713637efbca5",
+  "instruction": "Remove the hyperbolic phrase from the following sentence: It was unbelievably hot in the room.",
+  "input": "No input",
+  "output": "It was hot in the room.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

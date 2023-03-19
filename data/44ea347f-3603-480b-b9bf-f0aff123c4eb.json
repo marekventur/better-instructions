@@ -1,0 +1,12 @@
+{
+  "id": "44ea347f-3603-480b-b9bf-f0aff123c4eb",
+  "instruction": "Tell if this sentence is grammatically correct.",
+  "input": "I was seen a movie.",
+  "output": "No.  The sentence should be \"I saw a movie.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

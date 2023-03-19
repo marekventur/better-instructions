@@ -1,0 +1,12 @@
+{
+  "id": "11e20935-9750-4d16-bd9e-76473f34c6ed",
+  "instruction": "Write a code in Python that will generate a random string of 5 upper-case letters.",
+  "input": "",
+  "output": "import string \nimport random \n\ndef generate_random_string(): \n    characters = string.ascii_uppercase\n    random_string = \"\".join(random.choice(characters) for x in range(5))\n    return random_string\n\nprint(generate_random_string())",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

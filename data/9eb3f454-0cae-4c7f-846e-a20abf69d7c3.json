@@ -1,0 +1,12 @@
+{
+  "id": "9eb3f454-0cae-4c7f-846e-a20abf69d7c3",
+  "instruction": "Describe the architecture of the PyTorch framework.",
+  "input": "",
+  "output": "PyTorch is an open source deep learning library developed by Facebook's AI Research lab. It is based on Torch, a numerical computing library based on the programming language Lua. PyTorch provides two core features: a powerful multidimensional tensor library optimized for speed and flexibility and a deep learning library for efficiently building and deploying deep neural networks. It offers a dynamic computation graph based on a tape-based auto-differentiation system, which enables efficient building, training, and executing of deep learning models. PyTorch also provides APIs for various optimization algorithms, along with utilities to help with serialization, data loading, and visualizing models. The library is designed to be highly extensible and easy to integrate with other libraries and frameworks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

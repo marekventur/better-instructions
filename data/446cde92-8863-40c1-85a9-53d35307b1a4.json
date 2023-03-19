@@ -1,0 +1,12 @@
+{
+  "id": "446cde92-8863-40c1-85a9-53d35307b1a4",
+  "instruction": "Type a valid HTML code for creating a button.",
+  "input": "",
+  "output": "<button type=\"button\">Click me</button>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

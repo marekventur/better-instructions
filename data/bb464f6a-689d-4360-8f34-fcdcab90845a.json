@@ -1,0 +1,12 @@
+{
+  "id": "bb464f6a-689d-4360-8f34-fcdcab90845a",
+  "instruction": "Edit the given sentence to change the tense",
+  "input": "He is visiting his parents tomorrow.",
+  "output": "He will be visiting his parents tomorrow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

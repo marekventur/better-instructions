@@ -1,0 +1,12 @@
+{
+  "id": "b000fc6f-1ead-413e-a0df-b24fea7f3f05",
+  "instruction": "Come up with a set of criteria for code readability",
+  "input": "",
+  "output": "The criteria for code readability include: \n- Easily identifiable structure, such as indentation, clear variable and function names, and grouping related elements. \n- Consistent style across the code, including formatting and coding conventions. \n- Avoiding unnecessary complexity and the use of clever approaches. \n- Minimal usage of nesting, so the code does not become too complicated.\n- The code should be self-documenting by using meaningful variable and function names.\n- Proper documentation should be included to explain the purpose of the code and its components. \n- Comments should be included to explain particularly difficult or intricate parts of the code.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

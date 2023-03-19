@@ -1,0 +1,12 @@
+{
+  "id": "0732b319-2d66-4303-94bc-80430a31c937",
+  "instruction": "Edit the text so that there is no repetition of words or phrases.\n\nI love to love love reading stories.",
+  "input": "I love to love reading stories.",
+  "output": "I enjoy reading stories.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

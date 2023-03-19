@@ -1,0 +1,12 @@
+{
+  "id": "271c7724-9e22-4cb9-a276-8914f481bd7a",
+  "instruction": "Input a sentence, and output the same sentence with a capitalized i.",
+  "input": "i love to write",
+  "output": "I love to write",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

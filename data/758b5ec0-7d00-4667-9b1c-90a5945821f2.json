@@ -1,0 +1,12 @@
+{
+  "id": "758b5ec0-7d00-4667-9b1c-90a5945821f2",
+  "instruction": "Analyze the given poem and briefly explain its main message.",
+  "input": "The poem reads as follows:\n\nThe world will keep spinning\nAs it always has been\nBut that doesn't mean that you,\nAre ever really unseen",
+  "output": "The poem conveys the message that everyone has unique value and is an irreplaceable part of the world, even though the world carries on as it always has. The poem reminds the reader not to take for granted the importance of their individual presence and contribution in life.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3880c719-978a-4788-80fe-fd55e8c50932",
+  "instruction": "Create a program that can detect a respiratory illness.",
+  "input": "",
+  "output": "The program should start by collecting patient data such as age, gender, and medical history. It should then look for symptoms typically associated with respiratory illnesses such as a fever, coughing, and shortness of breath. It should also check symptoms such as chest pain, fatigue, and sore throat, as they could be signs of a respiratory illness. The program should have the ability to assess the severity of the illness and suggest a specialized treatment plan. It should also have the ability to differentiate between different types of illnesses and recommend a combination of medical and self-care treatments that best fit the patient's condition.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

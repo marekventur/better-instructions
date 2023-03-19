@@ -1,0 +1,12 @@
+{
+  "id": "d61b470c-cf99-46fc-9a45-d3d884eef96b",
+  "instruction": "Given an article about the pandemic, quantify the impact",
+  "input": "The COVID-19 pandemic has had a devastating impact on people's lives all over the world, disrupting health care systems, economies and everyday life.",
+  "output": "The COVID-19 pandemic has caused over 110 million confirmed cases worldwide, leading to over 2.4 million deaths and severe economic losses of over $10 trillion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e25c823e-7659-4fed-bce1-355a74305170",
+  "instruction": "Convert the following to a yes or no question:",
+  "input": "Is the color red?",
+  "output": "Is the color red? (Yes / No)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

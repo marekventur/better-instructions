@@ -1,0 +1,12 @@
+{
+  "id": "c850fdf0-e464-42f2-83a5-3cb82e05567c",
+  "instruction": "Explain why the given investment is a bad decision.",
+  "input": "Buying shares in a tech company with no competitive edge",
+  "output": "Investing in a company with no competitive edge is a bad decision because it does not have a unique product or service to stand out from its competitors. This lack of a competitive edge means that the company is likely to lose customers to its competitors which will lead to lower earnings. Additionally, the lack of a competitive edge also means that it will be difficult for the company to find investors to fund its operations, meaning that it may not survive in the long run.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

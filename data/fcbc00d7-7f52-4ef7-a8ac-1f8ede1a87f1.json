@@ -1,0 +1,12 @@
+{
+  "id": "fcbc00d7-7f52-4ef7-a8ac-1f8ede1a87f1",
+  "instruction": "Take the following sentence and write the opposite meaning.",
+  "input": "I have enough money to make ends meet.",
+  "output": "I do not have enough money to make ends meet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

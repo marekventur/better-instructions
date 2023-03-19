@@ -1,0 +1,12 @@
+{
+  "id": "5f20db33-728e-4003-bcb4-f5e83b369e5f",
+  "instruction": "Classify this article (\"Soy, or soja, is a type of bean originating in East Asia, and is becoming increasingly popular worldwide\") as either fact or opinion.",
+  "input": "",
+  "output": "This article is a fact.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

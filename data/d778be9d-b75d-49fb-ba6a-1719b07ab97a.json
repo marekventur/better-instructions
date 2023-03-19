@@ -1,0 +1,12 @@
+{
+  "id": "d778be9d-b75d-49fb-ba6a-1719b07ab97a",
+  "instruction": "Given a dialogue, provide a suitable reply for Person A",
+  "input": "Person A: I can't seem to find the right solution \nPerson B:",
+  "output": "Have you thought about reaching out to someone for help? There may be someone who can provide a better perspective or more insight on the matter.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

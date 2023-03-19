@@ -1,0 +1,12 @@
+{
+  "id": "96b3a1f0-f3b1-43b8-8416-2677b882168d",
+  "instruction": "Create a script that would display the given data as a pie chart.",
+  "input": "Data: {\n    \"January\": 20,\n    \"February\": 15,\n    \"March\": 10,\n    \"April\": 25,\n    \"May\": 30\n    }",
+  "output": "<html>\n<head>\n  <title>Pie Chart</title>\n</head>\n<body>\n  <canvas id=\"pieChart\" width=\"400\" height=\"400\"></canvas>\n  \n  <script>\n    const data = {\n      \"January\": 20,\n      \"February\": 15,\n      \"March\": 10,\n      \"April\": 25,\n      \"May\": 30\n    };\n\n    const pieChart = document.getElementById(\"pieChart\").getContext(\"2d\");\n\n    let pieChartData = { \n      labels: [\"January\", \"February\", \"March\", \"April\", \"May\"],\n      datasets: [\n        {   \n            label: \"Monthly Data\",\n            data: [data[\"January\"], data[\"February\"], data[\"March\"], data[\"April\"], data[\"May\"]],\n            backgroundColor: [\n              'rgba(255, 206, 86, 0.8)',\n              'rgba(54, 162, 235, 0.8)',\n              'rgba(153, 102, 255, 0.8)',\n              'rgba(75, 192, 192, 0.8)',\n              'rgba(255, 159, 64, 0.8)'\n            ]\n        }\n      ]\n    };\n\n    let pieChartOptions = {\n        responsive: true\n    };\n\n    let myPieChart = new Chart(pieChart, {\n        type: 'pie',\n        data: pieChartData,\n        options: pieChartOptions\n    });\n  </script>\n</body>\n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

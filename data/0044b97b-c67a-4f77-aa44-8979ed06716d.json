@@ -1,0 +1,12 @@
+{
+  "id": "0044b97b-c67a-4f77-aa44-8979ed06716d",
+  "instruction": "Convert the given paragraph into present simple tense.",
+  "input": "I am living in India; it is a great country with many cultures.",
+  "output": "I live in India; it is a great country with many cultures.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

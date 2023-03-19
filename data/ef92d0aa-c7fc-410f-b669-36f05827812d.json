@@ -1,0 +1,12 @@
+{
+  "id": "ef92d0aa-c7fc-410f-b669-36f05827812d",
+  "instruction": "Describe the 3D printing process",
+  "input": "",
+  "output": "3D printing is a process in which a three-dimensional object is built layer by layer using a computer-aided design (CAD) program, instead of using traditional techniques to make the object. In 3D printing, a 3D model is designed, either in STL file format or another 3D program. The file is then loaded into a 3D printer, where it is printed layer by layer with special material. The material is heated and applied in thin layers over the course of the printing process. The result is a 3D object that can be used for a variety of applications.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

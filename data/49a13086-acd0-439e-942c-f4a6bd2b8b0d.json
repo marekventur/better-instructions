@@ -1,0 +1,12 @@
+{
+  "id": "49a13086-acd0-439e-942c-f4a6bd2b8b0d",
+  "instruction": "Given the following input, generate a 3-sentence dialogue between a customer and an auto-mechanic.",
+  "input": "The customer's car won't start and their brakes are squeaking.",
+  "output": "Customer: My car won't start and my brakes are squeaking. Can you help me out?\nAuto-mechanic: Sure thing! Can you tell me more about the symptoms of your car?\nCustomer: Well, when I turn the key it just won't start and I hear a squeaking coming from the brakes.\nAuto-mechanic: Got it! We'll run a diagnostic to pinpoint the root of the issues and get you back on the road as soon as possible.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

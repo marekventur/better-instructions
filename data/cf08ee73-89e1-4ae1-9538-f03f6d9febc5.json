@@ -1,0 +1,12 @@
+{
+  "id": "cf08ee73-89e1-4ae1-9538-f03f6d9febc5",
+  "instruction": "Create a new line containing the current date and time in the following format: <!-- Tuesday, March 10th, 2020 - 11:24 AM -->",
+  "input": "",
+  "output": "<!-- Tuesday, March 10th, 2020 - 11:24 AM -->",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

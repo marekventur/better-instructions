@@ -1,0 +1,12 @@
+{
+  "id": "1a1e77a1-d280-4cf0-9cba-d79eeb3c806a",
+  "instruction": "Transform this sentence using a synonym for the word 'Great'.",
+  "input": "This is a great achievement.",
+  "output": "This is a formidable achievement.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

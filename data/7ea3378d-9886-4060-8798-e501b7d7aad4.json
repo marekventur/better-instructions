@@ -1,0 +1,12 @@
+{
+  "id": "7ea3378d-9886-4060-8798-e501b7d7aad4",
+  "instruction": "Find the most efficient way to store a large set of data in a database.",
+  "input": "",
+  "output": "One of the most efficient ways to store a large set of data in a database is to use an indexing system. Indexing will allow for faster retrieval of the data by providing an efficient way to locate the data. Indexing can also reduce space consumption in the database since it eliminates the need to store duplicate data. Furthermore, indexes can be used to apply constraints to the data and ensure that it adheres to the domain constraints.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

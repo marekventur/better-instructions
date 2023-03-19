@@ -1,0 +1,12 @@
+{
+  "id": "25e72604-2f92-487c-b976-084756388b87",
+  "instruction": "Create a chart showing the ratios of different planets to each other.",
+  "input": "The radius of Jupiter is 69,911 km, and the radius of Earth is 6,371 km.",
+  "output": "Planet \tRadius (km)\nJupiter \t69,911\nEarth \t    6,371\nRatio \t    10.97:1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

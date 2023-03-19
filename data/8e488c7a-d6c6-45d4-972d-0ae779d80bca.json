@@ -1,0 +1,12 @@
+{
+  "id": "8e488c7a-d6c6-45d4-972d-0ae779d80bca",
+  "instruction": "Identify what type of clause is in the sentence below.",
+  "input": "Since it had been a long time, she decided to watch a movie.",
+  "output": "The sentence contains a subordinate clause - \"since it had been a long time\". A subordinate clause is a clause which cannot stand alone, and must be attached to an independent clause. In this sentence, the subordinate clause specifies the reason why \"she decided to watch a movie\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

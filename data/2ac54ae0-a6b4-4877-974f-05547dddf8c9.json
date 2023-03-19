@@ -1,0 +1,12 @@
+{
+  "id": "2ac54ae0-a6b4-4877-974f-05547dddf8c9",
+  "instruction": "You are provided with a sentence, edit the sentence to make it more concise.",
+  "input": "I know you are trying to understand the concept, however, I don't know what else to say, so I'm going to leave it like this.",
+  "output": "I know you are trying to understand the concept, but I don't know what else to say, so I'll leave it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

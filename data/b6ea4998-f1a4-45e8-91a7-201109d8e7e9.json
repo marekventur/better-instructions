@@ -1,0 +1,12 @@
+{
+  "id": "b6ea4998-f1a4-45e8-91a7-201109d8e7e9",
+  "instruction": "Categorize the following vehicles as slow, moderate, or fast: car, boat, jet",
+  "input": "",
+  "output": "Car: Moderate \nBoat: Slow \nJet: Fast",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

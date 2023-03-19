@@ -1,0 +1,12 @@
+{
+  "id": "7239ddd1-b0d9-4ebf-9215-17920371eebd",
+  "instruction": "Come up with an algorithm to multiply two given numbers.",
+  "input": "9, 5",
+  "output": "def multiply(num1, num2):\n  result = 0\n  for i in range(num1):\n    result = result + num2\n  return result",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

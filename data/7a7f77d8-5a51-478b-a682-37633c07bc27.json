@@ -1,0 +1,12 @@
+{
+  "id": "7a7f77d8-5a51-478b-a682-37633c07bc27",
+  "instruction": "Given a song, generate a few opening lines for a review about the song.",
+  "input": "Song: \"What I've Done\" by Linkin Park",
+  "output": "Linkin Park\u2019s \"What I\u2019ve Done\" is an intensely powerful song that brings to light a somber and thought-provoking message. The opening lines draw the listener in with hauntingly captivating vocals and instrumentals. The lyrics evoke a sense of remorse and distress as they chronicle the emotions surrounding life\u2019s mistakes and the consequences they bring.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

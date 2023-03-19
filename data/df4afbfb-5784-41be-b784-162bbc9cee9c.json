@@ -1,0 +1,12 @@
+{
+  "id": "df4afbfb-5784-41be-b784-162bbc9cee9c",
+  "instruction": "Which of the following countries is the least populated?",
+  "input": "A. France \nB. England \nC. Russia \nD. Japan",
+  "output": "D. Japan",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

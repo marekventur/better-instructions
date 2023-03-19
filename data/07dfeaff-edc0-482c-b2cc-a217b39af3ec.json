@@ -1,0 +1,12 @@
+{
+  "id": "07dfeaff-edc0-482c-b2cc-a217b39af3ec",
+  "instruction": "Reverse engineer the following algorithm and explain how it works.",
+  "input": "Subtract 3 from 4, add 2, and multiply by 7.",
+  "output": "The algorithm works by subtracting 3 from 4, which gives a result of 1. Then it adds 2 to the result, giving a new result of 3. Finally, it multiplies 3 by 7, resulting in a final answer of 21. Thus, the result of the algorithm is 21.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

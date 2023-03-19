@@ -1,0 +1,12 @@
+{
+  "id": "9ebe3a08-8476-455b-b1f2-3840d4c11670",
+  "instruction": "Name a popular musical artist from a given country.",
+  "input": "Japan",
+  "output": "Famous Japanese musical artists include Kyary Pamyu Pamyu, BABYMETAL, Miyavi, Perfume, and T.M.Revolution.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

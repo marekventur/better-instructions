@@ -1,0 +1,12 @@
+{
+  "id": "582025b2-cd0c-423a-a002-df58adf63823",
+  "instruction": "Given a few simple ingredients, come up with a unique recipe.",
+  "input": "Oats, banana, yogurt",
+  "output": "Banana Oat Breakfast Bowl: In a blender, combine 1/2 cup oats, one banana, and 1/2 cup yogurt. Blend until smooth. Pour the mixture into two individual bowls. Toppings of your choice (blueberries, almonds, coconut flakes) optional. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

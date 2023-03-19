@@ -1,0 +1,12 @@
+{
+  "id": "b2631cb9-47a1-47cf-894c-6e208e29d32e",
+  "instruction": "Change the given noun clause into an adjective clause.",
+  "input": "The idea that he is successful",
+  "output": "That he is successful is the idea.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "37126d8e-515c-4864-9ba0-65a999a31828",
+  "instruction": "Using the given pieces of text, output a new sentence which combines the two using appropriate transition words.",
+  "input": "The results were bad. We need to take action.",
+  "output": "Therefore, we need to take action due to the poor results.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

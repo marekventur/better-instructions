@@ -1,0 +1,12 @@
+{
+  "id": "7b5a8f6a-852e-433d-8ef9-f76047f95c2c",
+  "instruction": "Classify the following celebrity as either \"actor\" or \"musician\":",
+  "input": "Tom Cruise",
+  "output": "Actor",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

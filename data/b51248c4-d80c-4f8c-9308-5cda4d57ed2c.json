@@ -1,0 +1,12 @@
+{
+  "id": "b51248c4-d80c-4f8c-9308-5cda4d57ed2c",
+  "instruction": "Create a table that compares and contrasts the characteristics of an oak tree and a pine tree.",
+  "input": "",
+  "output": "Characteristic | Oak Tree | Pine Tree \n---------------| -------- | ---------\nHeight | up to 80ft tall | up to 200ft tall \nLeaves | toothed leaves | needles \nFruit | acorns | pine cones \nShape | usually rounded | usually conical \nBark | deeply furrowed brown bark | thin, flaky bark \nWood | hard and heavy | soft and light \nLifespan | up to 1000 years | up to 600 years",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

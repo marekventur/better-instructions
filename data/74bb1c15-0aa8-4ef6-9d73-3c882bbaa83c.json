@@ -1,0 +1,12 @@
+{
+  "id": "74bb1c15-0aa8-4ef6-9d73-3c882bbaa83c",
+  "instruction": "Summarize a news report about a protest in the given location.",
+  "input": "Honolulu, HI",
+  "output": "Hundreds of people in Honolulu, HI gathered in protest to denounce police violence. Demonstrators marched peacefully in the streets, holding signs and chanting slogans in support of an end to systemic racism. They also called for accountability from police officers and local policies to protect marginalized communities from law enforcement brutality.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

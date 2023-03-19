@@ -1,0 +1,12 @@
+{
+  "id": "d35f3f15-995f-4b64-bf55-2acd31f14ef0",
+  "instruction": "Design a mathematical model to predict house prices.",
+  "input": "",
+  "output": "A mathematical model to predict house prices can be created by considering the following factors: size, location, condition, and other environmental variables such as the availability of public services, proximity to employment centers, local crime rates, and local amenities. Data from these factors can be used to create a regression model that can accurately predict house prices.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

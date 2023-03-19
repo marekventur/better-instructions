@@ -1,0 +1,12 @@
+{
+  "id": "1e7e1232-517b-412a-972d-634dc67419d6",
+  "instruction": "For the following sentence, point out the grammatical mistakes and suggest a fix for each mistake.",
+  "input": "There is three mistakes.",
+  "output": "The sentence contains a factual error (there is not three mistakes), a subject-verb agreement error (there is instead of there are), and a number agreement error (three instead of two). A corrected version of the sentence would be: \"There are two mistakes.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

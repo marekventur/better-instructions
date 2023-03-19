@@ -1,0 +1,12 @@
+{
+  "id": "0b54a593-8b63-4bf1-94b1-82ffa966bd2b",
+  "instruction": "Given a dataset of stock prices for 3 companies, classify which stocks have higher prices.",
+  "input": "Company A: $35\nCompany B: $80\nCompany C: $45",
+  "output": "Company B has the highest stock price.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

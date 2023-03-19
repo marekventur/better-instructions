@@ -1,0 +1,12 @@
+{
+  "id": "08b028b1-1fee-4eef-b87a-aee73f4b90a0",
+  "instruction": "Given the phrase, rephrase it without changing the original meaning.",
+  "input": "\"Don't count your chickens before they hatch\"",
+  "output": "Don't celebrate success before it has been achieved.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

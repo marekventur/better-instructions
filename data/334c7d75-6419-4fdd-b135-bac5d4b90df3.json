@@ -1,0 +1,12 @@
+{
+  "id": "334c7d75-6419-4fdd-b135-bac5d4b90df3",
+  "instruction": "Given the following text and the task written after it, rewrite the first sentence to make the task easier to understand.",
+  "input": "Add blueberries, raspberries, and strawberries to the mashed banana, and then mix everything together.\nTask: Make a smoothie.",
+  "output": "Add blueberries, raspberries, strawberries, and mashed banana to a blender, and blend until smooth. Task: Make a smoothie.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

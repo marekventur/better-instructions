@@ -1,0 +1,12 @@
+{
+  "id": "e6bca773-3a71-4041-802d-62b54dd79157",
+  "instruction": "Generate a couple of interesting dialogue lines for a conversation between two characters in a story.",
+  "input": "Location: Outside a cafe \nTime: Afternoon\nCharacters: Two strangers\nSituation: Both characters are running late",
+  "output": "Stranger 1: I'm so sorry, I was supposed to meet a friend here and I'm running a few minutes late. \nStranger 2: Oh, don't worry. I'm running late too. I could use a few more minutes to catch my breath.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

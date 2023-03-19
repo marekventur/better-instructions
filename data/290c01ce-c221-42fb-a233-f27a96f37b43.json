@@ -1,0 +1,12 @@
+{
+  "id": "290c01ce-c221-42fb-a233-f27a96f37b43",
+  "instruction": "Put the following events in chronological order.",
+  "input": "World War I, Moon landing, World War II",
+  "output": "World War I, World War II, Moon landing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

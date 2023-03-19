@@ -1,0 +1,12 @@
+{
+  "id": "762bd4e7-0028-4615-946e-13ad00b3e185",
+  "instruction": "Detect the sentiment of the sentence: \"Using this product is a great experience.\"",
+  "input": "",
+  "output": "The sentiment of the sentence is positive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

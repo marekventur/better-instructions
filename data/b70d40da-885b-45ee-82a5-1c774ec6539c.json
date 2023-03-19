@@ -1,0 +1,12 @@
+{
+  "id": "b70d40da-885b-45ee-82a5-1c774ec6539c",
+  "instruction": "Enumerate the features of an ideal algorithm.",
+  "input": "",
+  "output": "An ideal algorithm should have the following features: it should be accurate, efficient, have a low time complexity, have an ease of adaptation to new data, and have robustness to handle exceptions. Additionally, the algorithm should be able to learn from its past mistakes, as well be easy to implement and debug.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

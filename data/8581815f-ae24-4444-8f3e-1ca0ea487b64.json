@@ -1,0 +1,12 @@
+{
+  "id": "8581815f-ae24-4444-8f3e-1ca0ea487b64",
+  "instruction": "Given a list of ingredients and a recipe, document the ingredients in the recipe.",
+  "input": "Ingredients: sugar, eggs, butter\nRecipe: Cookies",
+  "output": "The recipe for cookies requires sugar, eggs, and butter.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8922f39f-c969-4a2f-9f27-5a0a17d6de05",
+  "instruction": "Write a description of the character in the following sentence.",
+  "input": "The grumpy old man was sitting in the corner.",
+  "output": "The grumpy old man was a surly fellow who shuffled about with hunched shoulders, even when he was sitting down. He was dressed in baggy trousers and a threadbare coat, and his gray hair was slicked back in a way that made it seem like it had never been washed. He usually sat alone in the corner, scowling at anyone who dared to glance in his direction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

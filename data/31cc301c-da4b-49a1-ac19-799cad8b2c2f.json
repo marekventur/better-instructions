@@ -1,0 +1,12 @@
+{
+  "id": "31cc301c-da4b-49a1-ac19-799cad8b2c2f",
+  "instruction": "Classify the following sentence as an assertion, a contrast, a rhetorical question or an inquiry.",
+  "input": "Do you think I should go for it?",
+  "output": "Rhetorical Question",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

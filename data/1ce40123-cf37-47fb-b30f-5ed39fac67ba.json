@@ -1,0 +1,12 @@
+{
+  "id": "1ce40123-cf37-47fb-b30f-5ed39fac67ba",
+  "instruction": "Put the following words into the order they appear in the alphabet.",
+  "input": "Alice, Town, Lives, In",
+  "output": "Alice, In, Lives, Town",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

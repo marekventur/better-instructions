@@ -1,0 +1,12 @@
+{
+  "id": "07e6fd41-f149-4c02-bf13-a6d3a8e8bb37",
+  "instruction": "Find the largest number in the following list.",
+  "input": "[-10, 8, 0, 18, 1]",
+  "output": "18",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

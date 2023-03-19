@@ -1,0 +1,12 @@
+{
+  "id": "39f26902-4412-459a-9709-e5560eb7b8ec",
+  "instruction": "Find the most recommended restaurant in the city",
+  "input": "Las Vegas",
+  "output": "The most highly recommended restaurant in Las Vegas is the Wolfgang Puck Bar & Grill, located at the MGM Grand Hotel & Casino.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

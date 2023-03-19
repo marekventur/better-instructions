@@ -1,0 +1,12 @@
+{
+  "id": "44afd6a0-792e-4472-aff2-289aedfacb43",
+  "instruction": "Identify the category that best describes the movie.",
+  "input": "India's Daughter",
+  "output": "Documentary",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

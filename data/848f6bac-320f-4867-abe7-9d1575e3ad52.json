@@ -1,0 +1,12 @@
+{
+  "id": "848f6bac-320f-4867-abe7-9d1575e3ad52",
+  "instruction": "Edit the spelling mistakes in the given sentence.",
+  "input": "Today is a beutful sunny day.",
+  "output": "Today is a beautiful sunny day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

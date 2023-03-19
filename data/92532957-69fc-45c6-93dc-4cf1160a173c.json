@@ -1,0 +1,12 @@
+{
+  "id": "92532957-69fc-45c6-93dc-4cf1160a173c",
+  "instruction": "What is Statement Coverage?",
+  "input": "",
+  "output": "Statement coverage is a software testing technique which determines the percentage of code lines that have been executed during the software testing process. The goal of statement coverage is to gain an understanding of which lines of code have been tested and to ensure that all lines of code have been reachable by test cases.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

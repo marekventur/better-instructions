@@ -1,0 +1,12 @@
+{
+  "id": "771202dd-05f5-4f9a-a1a7-dd80b88b5788",
+  "instruction": "Update the code below so it will run on Python 3.",
+  "input": "#!/usr/bin/python\n# Hello world python program\n\nprint \"Hello World!\"",
+  "output": "#!/usr/bin/python3\n# Hello world python program\n\nprint(\"Hello World!\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

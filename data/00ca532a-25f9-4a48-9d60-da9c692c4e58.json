@@ -1,0 +1,12 @@
+{
+  "id": "00ca532a-25f9-4a48-9d60-da9c692c4e58",
+  "instruction": "Arrange the set in lexicographical order.",
+  "input": "{\"apples\", \"bananas\", \"pears\", \"oranges\"}",
+  "output": "{\"apples\", \"bananas\", \"oranges\", \"pears\"}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

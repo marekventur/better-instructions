@@ -1,0 +1,12 @@
+{
+  "id": "d5b01fec-2c9a-4b3e-8387-65e6e74f2784",
+  "instruction": "Given a list of items, suggest a way to upcycle them.",
+  "input": "Newspapers, bottles, cans",
+  "output": "Newspapers can be upcycled into wrapping paper, bookmarks, and journals. Bottles can be upcycled into vases, planters, and windchimes. Cans can be upcycled into candle holders, wall art, and storage containers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

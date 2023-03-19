@@ -1,0 +1,12 @@
+{
+  "id": "f0767bab-f60d-480c-b703-0d30401ed704",
+  "instruction": "Input a header and contents of a Wikipedia entry covering a movie, output an article in MLA format.",
+  "input": "Header: The Godfather\nContents: The Godfather is a 1972 American crime film directed by Francis Ford Coppola which stars Marlon Brando and Al Pacino as the leaders of a fictional New York crime family.",
+  "output": "\"The Godfather\". Dir. Francis Ford Coppola. Perf. Marlon Brando and Al Pacino. 1972. Film.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

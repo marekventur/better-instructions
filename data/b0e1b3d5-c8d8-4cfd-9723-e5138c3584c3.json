@@ -1,0 +1,12 @@
+{
+  "id": "b0e1b3d5-c8d8-4cfd-9723-e5138c3584c3",
+  "instruction": "Design a two-player game that can be played with a set of 20 cards.",
+  "input": "",
+  "output": "The game is a race to get the most cards. It is designed for two players. Each player is given a set of 20 cards, which consist of 7 green cards, 7 blue cards, and 6 red cards. The green cards signify coins, the blue cards signify actions, and the red cards signify power-ups. \n\nEach player will take turns drawing a card from the deck. If a green card is drawn, the player earns one coin. If a blue card is drawn, the player may choose to play an action card from their hand (e.g. draw an extra card from the deck, steal coins from their opponent, skip the opponent's turn). The red cards are special cards that the player can use during their turn to gain an advantage. At the end of each turn, the player must discard one card from their hand. \n\nThe game ends after 10 turns or when one player has collected the most coins. The winner is the player with the most coins at the end of the game.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

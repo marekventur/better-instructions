@@ -1,0 +1,12 @@
+{
+  "id": "ec93ff77-5387-4751-abdd-633decd3936a",
+  "instruction": "Summarize a news article about the conflict between India and Pakistan.",
+  "input": "Link: https://www.bbc.com/news/world-asia-india-51698326",
+  "output": "The conflict between India and Pakistan is a long-standing issue that has been in the news again lately. Tensions have escalated in recent weeks due to the Indian government's move to revoke the special status of the Indian administered Kashmir. This has been met with backlash from Pakistan, with both sides conducting air strikes and launching a series of inflammatory rhetoric. With no sign of an immediate resolution, the conflict is expected to continue and the international community is monitoring the situation with concern.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

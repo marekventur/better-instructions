@@ -1,0 +1,12 @@
+{
+  "id": "2d7bc4ac-b934-4f1f-bdae-852257a150ac",
+  "instruction": "Construct a query to list the titles of all books written by John Smith",
+  "input": "",
+  "output": "SELECT title FROM books WHERE author = 'John Smith'",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

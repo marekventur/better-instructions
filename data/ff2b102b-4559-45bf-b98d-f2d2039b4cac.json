@@ -1,0 +1,12 @@
+{
+  "id": "ff2b102b-4559-45bf-b98d-f2d2039b4cac",
+  "instruction": "Calculate the total cost of the following items.",
+  "input": "3 laptop - $1100 each, 2 monitors - $200 each",
+  "output": "The total cost of the laptops and monitors is $3900.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

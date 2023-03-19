@@ -1,0 +1,12 @@
+{
+  "id": "dab2e429-2f68-42b3-87aa-4e4232d28ce7",
+  "instruction": "Sort the following words alphabetically.",
+  "input": "Sports, dance, basketball",
+  "output": "Dance, basketball, sports",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

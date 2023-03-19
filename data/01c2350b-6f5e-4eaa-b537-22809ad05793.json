@@ -1,0 +1,12 @@
+{
+  "id": "01c2350b-6f5e-4eaa-b537-22809ad05793",
+  "instruction": "Simplify the following definition: \n\"The magnitude of an earthquake is a measure of the energy released during the event and is based on the amplitude of the waves recorded on a seismograph.\"",
+  "input": "",
+  "output": "An earthquake's magnitude is its intensity, based on seismic waves.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

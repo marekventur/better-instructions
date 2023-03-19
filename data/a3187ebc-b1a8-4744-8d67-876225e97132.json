@@ -1,0 +1,12 @@
+{
+  "id": "a3187ebc-b1a8-4744-8d67-876225e97132",
+  "instruction": "Rewrite the sentence so that it does not contain any passive voice.",
+  "input": "The experiment was conducted by the scientist.",
+  "output": "The scientist conducted the experiment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

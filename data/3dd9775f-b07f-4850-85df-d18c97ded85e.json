@@ -1,0 +1,12 @@
+{
+  "id": "3dd9775f-b07f-4850-85df-d18c97ded85e",
+  "instruction": "Repeat the input 5 times.",
+  "input": "Hello",
+  "output": "Hello \nHello \nHello \nHello \nHello",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

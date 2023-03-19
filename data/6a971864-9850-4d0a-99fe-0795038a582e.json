@@ -1,0 +1,12 @@
+{
+  "id": "6a971864-9850-4d0a-99fe-0795038a582e",
+  "instruction": "Identify the subset of the articles of clothing mentioned in the sentence.",
+  "input": "She was wearing a skirt, jacket, and sandals.",
+  "output": "skirt, jacket, sandals",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

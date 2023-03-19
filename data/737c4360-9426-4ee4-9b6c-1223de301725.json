@@ -1,0 +1,12 @@
+{
+  "id": "737c4360-9426-4ee4-9b6c-1223de301725",
+  "instruction": "Identify the reason why a certain event happened.",
+  "input": "The protests following police brutality in the US have spread to other countries.",
+  "output": "The reason why the protests following police brutality in the US have spread to other countries is due to the growing awareness of this issue across the world. Social media has enabled the spread of information, with many people connecting the issue of police brutality to other similar issues in their own countries and communities. This has led to a collective feeling of injustice, leading to the protests in other countries.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

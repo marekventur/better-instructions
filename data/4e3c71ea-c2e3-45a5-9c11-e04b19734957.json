@@ -1,0 +1,12 @@
+{
+  "id": "4e3c71ea-c2e3-45a5-9c11-e04b19734957",
+  "instruction": "Complete the following sql query to select names from the Employees table where the city is London.",
+  "input": "SELECT <mask>\nFROM Employees\nWHERE city = 'London'",
+  "output": "SELECT name \nFROM Employees\nWHERE city = 'London'",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

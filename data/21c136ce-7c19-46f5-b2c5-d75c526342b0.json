@@ -1,0 +1,12 @@
+{
+  "id": "21c136ce-7c19-46f5-b2c5-d75c526342b0",
+  "instruction": "Create a slideshow to present a given topic.",
+  "input": "Robotics",
+  "output": "Create a slideshow with the following topics: \n1. What is Robotics? \n2. History of Robotics \n3. Robotics & Automation \n4. Types of Robots \n5. Applications of Robotics \n6. Challenges in Robotics",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

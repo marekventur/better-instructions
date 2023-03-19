@@ -1,0 +1,12 @@
+{
+  "id": "cba78772-2e70-4e6d-80b0-bb1239a38a83",
+  "instruction": "Given a news article, rewrite it in the style of an opinion piece.",
+  "input": "Tesla reported record sales during the first quarter of 2021.",
+  "output": "Tesla pulled off a remarkable feat as it reported record sales for the first quarter of 2021. Not only does it show that their cars are increasingly popular with consumers, but it also reflects the resilience of their business model in the face of a pandemic. With the shift to electric vehicles already underway, Tesla's success is likely to continue into the future.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

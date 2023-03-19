@@ -1,0 +1,12 @@
+{
+  "id": "08829735-f561-4664-9941-5335e31b9499",
+  "instruction": "Simplify this math equation",
+  "input": "y + 8 + 4y",
+  "output": "5y + 8",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

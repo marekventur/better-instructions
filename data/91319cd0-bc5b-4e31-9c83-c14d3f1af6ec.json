@@ -1,0 +1,12 @@
+{
+  "id": "91319cd0-bc5b-4e31-9c83-c14d3f1af6ec",
+  "instruction": "What is a virtual private network (VPN)?",
+  "input": "",
+  "output": "A virtual private network (VPN) is a technology that allows a user to access the internet safely and securely by encrypting the user's data and sending it through a secure virtual tunnel. This secure tunnel protects the user's data from eavesdroppers and hackers while they are online.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

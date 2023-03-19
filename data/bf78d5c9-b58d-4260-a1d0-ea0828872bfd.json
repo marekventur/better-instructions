@@ -1,0 +1,12 @@
+{
+  "id": "bf78d5c9-b58d-4260-a1d0-ea0828872bfd",
+  "instruction": "Paraphrase the sentence such that it retains the same meaning.",
+  "input": "The server crashed and caused data losses.",
+  "output": "The server malfunctioned, resulting in a loss of data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

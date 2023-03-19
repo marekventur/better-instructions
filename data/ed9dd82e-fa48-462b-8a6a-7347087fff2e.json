@@ -1,0 +1,12 @@
+{
+  "id": "ed9dd82e-fa48-462b-8a6a-7347087fff2e",
+  "instruction": "Suggest modifications to the following sentence to make the sentence sound more natural.",
+  "input": "The house was brightest in the sunlight.",
+  "output": "The house shone brightly in the sunlight.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

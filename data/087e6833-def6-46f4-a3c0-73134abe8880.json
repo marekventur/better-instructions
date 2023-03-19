@@ -1,0 +1,12 @@
+{
+  "id": "087e6833-def6-46f4-a3c0-73134abe8880",
+  "instruction": "Clean the given data so that it is suitable for a Machine Learning model.",
+  "input": "[1.2, 0.6, a, 0.25, b, c, 0.7]",
+  "output": "[1.2, 0.6, 0.0, 0.25, 0.0, 0.0, 0.7]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

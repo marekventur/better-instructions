@@ -1,0 +1,12 @@
+{
+  "id": "b9b41e01-d95f-47d1-a464-1faf0884fa9e",
+  "instruction": "Construct an algorithm for detecting fake news.",
+  "input": "",
+  "output": "An algorithm for detecting fake news would start by collecting data on articles or posts and then analyzing them. It could use sentiment analysis to measure the sentiment expressed by the text and determine whether the sentiment is consistent with established facts. Additionally, it could look at the source of the article and identify any potential bias from the author. It could also look at the form of the article and check for any signs of misinformation or manipulation of facts. Finally, it could filter out any content containing profanity or other inappropriate language.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

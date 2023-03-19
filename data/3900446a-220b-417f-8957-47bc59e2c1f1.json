@@ -1,0 +1,12 @@
+{
+  "id": "3900446a-220b-417f-8957-47bc59e2c1f1",
+  "instruction": "Change the sentence from indicative to interrogative.",
+  "input": "The dog is running in the park.",
+  "output": "Is the dog running in the park?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7da14fb3-999f-4fe5-b912-3cb145541076",
+  "instruction": "Generate a detailed outline for a news report about a natural disaster.",
+  "input": "",
+  "output": "I. Introduction \nA. Overview of natural disaster\nB. Impact on affected areas \n\nII. Background Information \nA. Areas most affected \nB. Timeline of events \nC. Weather conditions\n\nIII. Report from the Scene \nA. Interviews with victims and witnesses\nB. First responders \n\nIV. Effects of the Disaster \nA. Physical damage \nB. Economic damage\nC. Aftermath and clean up \n\nV. Solutions \nA. Rescue and relief operations \nB. Long-term plans for affected areas \n\nVI. Conclusion \nA. Summary of effects \nB. Hopes for the future",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

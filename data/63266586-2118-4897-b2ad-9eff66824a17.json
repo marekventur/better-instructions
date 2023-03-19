@@ -1,0 +1,12 @@
+{
+  "id": "63266586-2118-4897-b2ad-9eff66824a17",
+  "instruction": "Create a program to print out the elements of a list in sorted order",
+  "input": "",
+  "output": "def printSorted(list):\n    list.sort()\n    for i in list:\n        print(i)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

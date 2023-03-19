@@ -1,0 +1,12 @@
+{
+  "id": "0dbf9763-9919-43bb-9bfb-679762ee03c0",
+  "instruction": "State two differences between supervised and unsupervised learning.",
+  "input": "",
+  "output": "The two main differences between supervised and unsupervised learning are that supervised learning requires labeled data while unsupervised learning does not, and supervised learning uses a quantity of data to predict a future outcome while unsupervised learning finds patterns or relationships within a dataset without predicting a specific outcome.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

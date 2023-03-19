@@ -1,0 +1,12 @@
+{
+  "id": "2e2d6726-b8d6-4ba2-8afd-d797193d43bd",
+  "instruction": "Classify the following news article into one of the three given tags.",
+  "input": "A powerful earthquake struck Alaska on November 30.",
+  "output": "Environment",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a0b031cf-a393-4759-8110-1020647527a8",
+  "instruction": "Create a press release for the launch of a new charity event.",
+  "input": "Charity Event: Run-a-thon for Change",
+  "output": "[Organization Name] is proud to announce its upcoming charity event, Run-a-thon for Change. The 10-mile run will be held on [Date], and will benefit local charities and aid in their fight against [Social Issue]. All proceeds will go to help those in need and make a difference in our community. \n\nAnyone can join in on the effort to create positive change - sign up now and help us make a difference!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

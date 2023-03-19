@@ -1,0 +1,12 @@
+{
+  "id": "6388c989-280f-4f59-81f3-5fa62b037f5e",
+  "instruction": "Construct a conversation between two people about the following article.",
+  "input": "A recent study from the University of Southern California found that the amount of online time consumed by people exposed to the Internet doubled from 2009 to 2019.",
+  "output": "Person 1: Have you seen the study they released from the University of Southern California?\n\nPerson 2: No, what study?\n\nPerson 1: It was about how much time people are spending online.\n\nPerson 2: Really? What did it say?\n\nPerson 1: It said that the amount of time people were spending online doubled from 2009 to 2019. It's pretty shocking.\n\nPerson 2: Yeah, that is a bit surprising. It's especially concerning since it's the younger generation who spend the most time online.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

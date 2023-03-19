@@ -1,0 +1,12 @@
+{
+  "id": "c8f60ad9-26f5-40d4-b958-0b24fd9582c0",
+  "instruction": "Given a search query, identify the intent of the query.",
+  "input": "\"How to get a passport in the US?\"",
+  "output": "Inquire information",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4824bea2-03e9-4617-903d-1b9658a1d344",
+  "instruction": "How do computer networks work?",
+  "input": "",
+  "output": "Computer networks rely on a combination of hardware, software, and protocols to exchange information over a network. The hardware contains the physical components used for communication such as routers, hubs, and cables. The software consists of the protocols and algorithms used for communication such as TCP/IP. These two components interact to enable communication across devices over the network.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

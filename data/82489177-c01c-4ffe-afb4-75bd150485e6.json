@@ -1,0 +1,12 @@
+{
+  "id": "82489177-c01c-4ffe-afb4-75bd150485e6",
+  "instruction": "Edit the following sentence in the most natural way to make it active voice:",
+  "input": "The media campaign was led by the team.",
+  "output": "The team led the media campaign.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

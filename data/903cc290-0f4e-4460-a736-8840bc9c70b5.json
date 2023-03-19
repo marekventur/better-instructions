@@ -1,0 +1,12 @@
+{
+  "id": "903cc290-0f4e-4460-a736-8840bc9c70b5",
+  "instruction": "Redact the following passage to remove the confidential information, while keeping the meaning intact.",
+  "input": "John Smith is a software engineer at the ABC Company. His office address is 8 Main Street, Anytown.",
+  "output": "John Smith is a software engineer at the ABC Company. His office address is [REDACTED].",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6a901220-b1e2-472b-a180-3d9622feaaec",
+  "instruction": "How does a bot give an answer to a query?",
+  "input": "",
+  "output": "A bot typically uses natural language processing (NLP) to analyze the query and generate an appropriate response. It indexes through its knowledge base and uses text-matching algorithms to find the most relevant answer to the query. This answer is then presented to the user in a clear and concise manner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

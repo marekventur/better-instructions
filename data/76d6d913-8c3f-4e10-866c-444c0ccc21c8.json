@@ -1,0 +1,12 @@
+{
+  "id": "76d6d913-8c3f-4e10-866c-444c0ccc21c8",
+  "instruction": "How does this sentence make you feel? Output one of the following: angry, sad, happy, worried.",
+  "input": "I have to go back to work tomorrow",
+  "output": "Worried",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

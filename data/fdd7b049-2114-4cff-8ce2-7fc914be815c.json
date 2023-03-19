@@ -1,0 +1,12 @@
+{
+  "id": "fdd7b049-2114-4cff-8ce2-7fc914be815c",
+  "instruction": "Make a list of five questions to ask when researching the given industry.",
+  "input": "Software Development",
+  "output": "- What tools or languages are most commonly used in the software development industry?\n- What types of certifications or licenses are important for software developers?\n- How has the software development industry evolved over the last few years?\n- What kind of career paths can software developers pursue?\n- What types of risks are associated with software development and how can they be mitigated?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

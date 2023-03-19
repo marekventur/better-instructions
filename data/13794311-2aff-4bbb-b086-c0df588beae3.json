@@ -1,0 +1,12 @@
+{
+  "id": "13794311-2aff-4bbb-b086-c0df588beae3",
+  "instruction": "Construct a database system to store customer records in a car dealership.",
+  "input": "",
+  "output": "The database should have tables to store customer records, including contact information, vehicle information, purchase history, service records, and more. The customer table should include a unique customer ID, first and last name, address, email address, phone number, and other contact details. The vehicle table should store information such as the vehicle model, make, year, and date of purchase. The purchase table should include details about the sale and the service table should store records of any maintenance or repairs done to the customer\u2019s vehicle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

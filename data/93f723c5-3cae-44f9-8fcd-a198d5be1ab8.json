@@ -1,0 +1,12 @@
+{
+  "id": "93f723c5-3cae-44f9-8fcd-a198d5be1ab8",
+  "instruction": "Generate HTML code to create a simple table with the following information",
+  "input": "Title | Artist | Year\nDespacito | Luis Fonsi | 2017\nShape Of You | Ed Sheeran | 2017",
+  "output": "<table>\n  <tr>\n    <th>Title</th>\n    <th>Artist</th>\n    <th>Year</th>\n  </tr>\n  <tr>\n    <td>Despacito</td>\n    <td>Luis Fonsi</td>\n    <td>2017</td>\n  </tr>\n  <tr>\n    <td>Shape Of You</td>\n    <td>Ed Sheeran</td>\n    <td>2017</td>\n  </tr>\n</table>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

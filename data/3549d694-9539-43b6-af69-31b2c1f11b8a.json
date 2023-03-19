@@ -1,0 +1,12 @@
+{
+  "id": "3549d694-9539-43b6-af69-31b2c1f11b8a",
+  "instruction": "Provide the missing word in the given sentence.",
+  "input": "The sun rose __ the horizon.",
+  "output": "over",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

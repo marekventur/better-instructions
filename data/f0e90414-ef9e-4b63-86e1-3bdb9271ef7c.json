@@ -1,0 +1,12 @@
+{
+  "id": "f0e90414-ef9e-4b63-86e1-3bdb9271ef7c",
+  "instruction": "Given the following sentence, output the root word of the verbs: The chickens were clucking and pecking.",
+  "input": "The chickens were clucking and pecking.",
+  "output": "cluck (verb) and peck (verb).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

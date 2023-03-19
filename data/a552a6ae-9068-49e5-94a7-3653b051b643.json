@@ -1,0 +1,12 @@
+{
+  "id": "a552a6ae-9068-49e5-94a7-3653b051b643",
+  "instruction": "Rearrange the criteria in the following statement in descending order by importance",
+  "input": "affordability, quality, usability",
+  "output": "quality, usability, affordability",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "336c5ab3-c56f-47ec-95d0-7205d2800c4f",
+  "instruction": "Describe the best practices for secure coding.",
+  "input": "",
+  "output": "Secure coding best practices involve writing code that is secure, robust and reliable. This includes ensuring code is well-structured, modular and optimized, as well as implementing secure coding standards. When writing code, developers should always strive to prevent known coding vulnerabilities, such as injection attacks and buffer overflows, and should minimize potential attack points. Additionally, developers should use secure coding frameworks and libraries, as well as regularly update and patch any vulnerabilities. Finally, developers should also employ secure coding principles, such as input validation and output sanitization.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

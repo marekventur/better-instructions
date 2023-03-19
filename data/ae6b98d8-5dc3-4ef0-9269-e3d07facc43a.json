@@ -1,0 +1,12 @@
+{
+  "id": "ae6b98d8-5dc3-4ef0-9269-e3d07facc43a",
+  "instruction": "Construct a query that will display customer data.",
+  "input": "",
+  "output": "SELECT * FROM Customer WHERE Customer_ID = <ID>;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

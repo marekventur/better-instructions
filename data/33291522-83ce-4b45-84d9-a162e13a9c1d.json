@@ -1,0 +1,12 @@
+{
+  "id": "33291522-83ce-4b45-84d9-a162e13a9c1d",
+  "instruction": "Suggest a metric to measure the accuracy of a forecasting system.",
+  "input": "",
+  "output": "A metric to measure the accuracy of a forecasting system could be the Root Mean Squared Error (RMSE). This is a commonly used measure of the magnitude of differences between predicted and actual values. It is calculated by taking the square root of the mean of the squared differences between prediction and actual observations. The smaller the RMSE, the better the forecast model's accuracy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

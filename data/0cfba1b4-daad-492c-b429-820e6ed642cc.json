@@ -1,0 +1,12 @@
+{
+  "id": "0cfba1b4-daad-492c-b429-820e6ed642cc",
+  "instruction": "Given a string, reverse it and print it out.",
+  "input": "hello",
+  "output": "olleh",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

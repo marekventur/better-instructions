@@ -1,0 +1,12 @@
+{
+  "id": "a5a59377-6156-4bcd-92fe-d12d9110d8a6",
+  "instruction": "Convert this integer to binary.",
+  "input": "1000",
+  "output": "1111101000",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

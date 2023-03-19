@@ -1,0 +1,12 @@
+{
+  "id": "54a6a6ef-67a5-4e38-affd-f84258fc070d",
+  "instruction": "Identify the plagiarized sentences from the text.",
+  "input": "This is the original sentence: I went to the store to buy some apples.\nThis sentence is a plagiarized version of the original sentence: I went to the shop to buy some apples.",
+  "output": "The plagiarized sentence is \"I went to the shop to buy some apples.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

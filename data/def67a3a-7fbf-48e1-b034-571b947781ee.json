@@ -1,0 +1,12 @@
+{
+  "id": "def67a3a-7fbf-48e1-b034-571b947781ee",
+  "instruction": "Generate a sample dataset with 3 columns and 10 rows.",
+  "input": "",
+  "output": "Col1\tCol2\tCol3\n10\t4\t\"a\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

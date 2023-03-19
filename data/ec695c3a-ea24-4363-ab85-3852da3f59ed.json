@@ -1,0 +1,12 @@
+{
+  "id": "ec695c3a-ea24-4363-ab85-3852da3f59ed",
+  "instruction": "Create a \"How To\" guide for using a toaster.",
+  "input": "",
+  "output": "How To Use a Toaster:\n1. Plug the toaster into an electrical outlet.\n2. Push the lever down to open the toaster.\n3. Place the desired item in the slots, being careful not to put anything metal in the toaster.\n4. Select the toasting level you would like.\n5. Push down the lever again to start toasting. \n6. When the cycle is done the slots will pop the item up.\n7. Remove the item from the toaster.\n8. Unplug the toaster from the electrical outlet and enjoy your toast!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4bd01e32-8c50-4a4c-b990-926640608c49",
+  "instruction": "Select which of the statements are false.",
+  "input": "A) Penguins live in the desert \nB) Penguins live in the Arctic \nC) Penguins eat plants",
+  "output": "A) Penguins live in the desert.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4acd53c9-2878-4d0b-83c4-8920b8d2363e",
+  "instruction": "Classify the given animal into a particular family.",
+  "input": "Camel",
+  "output": "The camel belongs to the family Camelidae.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

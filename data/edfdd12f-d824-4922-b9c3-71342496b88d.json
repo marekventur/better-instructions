@@ -1,0 +1,12 @@
+{
+  "id": "edfdd12f-d824-4922-b9c3-71342496b88d",
+  "instruction": "Reorganise this paragraph so that it reads more clearly.",
+  "input": "Creative writing is a form of artistic expression, using one\u2019s imagination and crafted words to create something new and unique. Creative writing can be used for entertainment, for educational purposes, or for self-expression. To be successfully creative requires knowledge in literary techniques and the economy and precision of words to convey a message effectively.",
+  "output": "Creative writing is an artistic form of expression that uses one\u2019s imagination and crafted words to create something entirely new and unique. It can be used for various purposes such as entertainment, educational objectives, and self-expression. To write creatively, it is important to be familiar with literary techniques and to be efficient with words in order to successfully convey a message.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

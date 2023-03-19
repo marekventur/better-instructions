@@ -1,0 +1,12 @@
+{
+  "id": "bc3b6929-a128-4c65-834a-6aac9bbac738",
+  "instruction": "Provide a specific example of a computer program using machine learning.",
+  "input": "",
+  "output": "One example of a computer program using machine learning is a spam filter. It is trained using labeled emails as input and can then be used to filter incoming emails by classifying them as spam or not spam.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e24ab746-757a-4177-a8ec-21cdaf6f3386",
+  "instruction": "Make a wallet friendly dish using the following ingredients: potatoes, zucchini, tomatoes, and peppers.",
+  "input": "Potatoes, zucchini, tomatoes, and peppers.",
+  "output": "One possible recipe could be to make a vegan pizza with potatoes, zucchini, tomatoes, and peppers. Start by preheating the oven to 375 degrees. Cut the potatoes, zucchini, tomatoes, and peppers into cubes, and then spread them to a single layer on a greased baking sheet. Bake for 15 minutes. After the vegetables are done baking, transfer them to a large bowl. In a separate bowl, mix 1/4 cup olive oil and 1/4 teaspoon salt. Toss the vegetables in the oil mixture and spread them back on the baking sheet. Bake for another 15 minutes until the vegetables are slightly crispy. When finished, take them off the baking sheet, and transfer to a plate. Serve and enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

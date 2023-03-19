@@ -1,0 +1,12 @@
+{
+  "id": "0eb0477c-74f3-49f0-87c5-8b803a32c2b2",
+  "instruction": "Suggest two possible alternatives for this item.",
+  "input": "Advil",
+  "output": "Ibuprofen or Tylenol",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

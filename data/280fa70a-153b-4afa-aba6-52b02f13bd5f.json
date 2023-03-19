@@ -1,0 +1,12 @@
+{
+  "id": "280fa70a-153b-4afa-aba6-52b02f13bd5f",
+  "instruction": "Edit the following email to ensure the tone is professional",
+  "input": "Hi [person name],\n\nI'm emailing you to see if you could please help me with my essay. It's due tomorrow and I didn't have time to finish it! Is there any chance you could help me out?\n\nThanks,\n[my name]",
+  "output": "Hello [person name],\n\nI appreciate your help in advance and apologize for the short notice. I am writing to ask for your assistance with my essay, which is due by tomorrow. Would you be able to help me out?\n\nThank you,\n[my name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

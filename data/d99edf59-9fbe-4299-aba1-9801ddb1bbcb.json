@@ -1,0 +1,12 @@
+{
+  "id": "d99edf59-9fbe-4299-aba1-9801ddb1bbcb",
+  "instruction": "Reverse-engineer this code so that it processes a given input.",
+  "input": "\"\"\"\ndef process_input(data):\n    result = ''\n    # Process the data\n    \n    return result\n\"\"\"",
+  "output": "\"\"\"\ndef process_input(data):\n    result = ''\n    for char in data:\n        result += char.upper()\n    return result\n\"\"\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

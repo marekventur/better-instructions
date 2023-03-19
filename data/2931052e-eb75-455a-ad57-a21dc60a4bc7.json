@@ -1,0 +1,12 @@
+{
+  "id": "2931052e-eb75-455a-ad57-a21dc60a4bc7",
+  "instruction": "Generate a formal apology letter.",
+  "input": "I am sorry for not submitting my assignment on time.",
+  "output": "Dear [Name],\n\nI apologize for submitting my assignment late. I understand that submitting work on time is key to your trust in me. I am responsible for the delay and I take full accountability for it. I sincerely regret any inconvenience caused by my actions.\n\nI guarantee that I will take all necessary steps to ensure that such an incident does not happen again. Rest assured, I will do my best to make up for my mistakes.\n\nI look forward to the opportunity of restoring your trust in me.\n\nSincerely,\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

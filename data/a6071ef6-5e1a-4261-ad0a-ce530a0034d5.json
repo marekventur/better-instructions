@@ -1,0 +1,12 @@
+{
+  "id": "a6071ef6-5e1a-4261-ad0a-ce530a0034d5",
+  "instruction": "Following the given instructions, create a spreadsheet model of a 3D cube.",
+  "input": "The bottom should be two cells wide, two cells tall, and goes from A1 to B2.",
+  "output": "+------+------+\n|A1    |B1    |\n+----------+\n|A2    |B2    |\n+------+------+",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

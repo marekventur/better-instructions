@@ -1,0 +1,12 @@
+{
+  "id": "c4938872-6c80-4c14-ac38-b5ca81280cf2",
+  "instruction": "List five animals found in given habitat.",
+  "input": "Habitat: African Savanna",
+  "output": "1. Lion\n2. African Elephant\n3. Giraffe\n4. African Wild Dog\n5. Black Rhino",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "97faaa88-199d-42f8-ae01-0257730eab05",
+  "instruction": "Given some comments, label each of them as positive or negative.",
+  "input": "* Amazing product!\n* Unsatisfactory service, will never come back",
+  "output": "Positive\nNegative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

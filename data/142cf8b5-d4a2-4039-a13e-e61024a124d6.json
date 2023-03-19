@@ -1,0 +1,12 @@
+{
+  "id": "142cf8b5-d4a2-4039-a13e-e61024a124d6",
+  "instruction": "Explain how solar energy works.",
+  "input": "",
+  "output": "Solar energy works by capturing the energy from the sun in the form of solar radiation and converting it into electricity. Photovoltaic (PV) cells, which are the most commonly used solar energy technology, are made of semiconductor materials and use a process called the photovoltaic effect. When sunlight hits the cells, the photons in the light interact with the semiconductor material, creating an electric field and generating an electric current. This current is captured and used to generate electricity. Solar energy is a clean, renewable energy source that is becoming increasingly popular, as it is environmentally friendly and cost-effective.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

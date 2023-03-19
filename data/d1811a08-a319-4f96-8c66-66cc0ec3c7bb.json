@@ -1,0 +1,12 @@
+{
+  "id": "d1811a08-a319-4f96-8c66-66cc0ec3c7bb",
+  "instruction": "Given the following information, create an appropriate reaction",
+  "input": "You got an A+ on the test",
+  "output": "Woohoo! I\u2019m so happy I got an A+ on the test!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

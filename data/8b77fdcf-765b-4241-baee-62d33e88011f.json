@@ -1,0 +1,12 @@
+{
+  "id": "8b77fdcf-765b-4241-baee-62d33e88011f",
+  "instruction": "Estimate the temperature of given substance.",
+  "input": "Substance: Water",
+  "output": "14\u00b0C (57\u00b0F).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

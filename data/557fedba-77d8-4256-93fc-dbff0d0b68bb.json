@@ -1,0 +1,12 @@
+{
+  "id": "557fedba-77d8-4256-93fc-dbff0d0b68bb",
+  "instruction": "Evaluate the below math equation.",
+  "input": "(2+3)(3-2)",
+  "output": "The equation evaluates to 3.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

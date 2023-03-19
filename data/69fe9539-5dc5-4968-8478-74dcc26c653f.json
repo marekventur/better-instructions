@@ -1,0 +1,12 @@
+{
+  "id": "69fe9539-5dc5-4968-8478-74dcc26c653f",
+  "instruction": "Generate a shopping list for 10 people to make grilled cheeseburgers.",
+  "input": "",
+  "output": "Shopping list for 10 people making grilled cheeseburgers:\n\n- 20 hamburger buns\n- 2 pounds ground beef\n- 8 ounces cheddar cheese, shredded\n- 8 ounces mozzarella cheese, shredded\n- 1/4 cup onion, diced\n- 1/4 cup green pepper, chopped\n- 2 tablespoons Worcestershire sauce\n- 2 tablespoons Italian seasoning\n- 2 garlic cloves, minced\n- 2 tablespoons olive oil\n- Salt and freshly ground pepper to taste\n- 10 slices American cheese",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5a2115ad-6e26-4e20-bad5-da0cae8c5d45",
+  "instruction": "Given an array of integers, return the two indices of the two numbers such that they add up to a specific target.\nOutput two integers.",
+  "input": "arr = [2, 5, 11, 15], target =13",
+  "output": "0 3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

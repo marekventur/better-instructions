@@ -1,0 +1,12 @@
+{
+  "id": "7ced6af7-5e12-4448-a27b-235e0f648b00",
+  "instruction": "Automatically detect and classify from the following text if it is expressing a positive or negative sentiment:",
+  "input": "The customer service was terrible and it took them an hour to answer my question.",
+  "output": "Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

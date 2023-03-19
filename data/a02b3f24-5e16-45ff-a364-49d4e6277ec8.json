@@ -1,0 +1,12 @@
+{
+  "id": "a02b3f24-5e16-45ff-a364-49d4e6277ec8",
+  "instruction": "Given a list of natural disasters and their description, generate a poem about them.",
+  "input": "Tsunami: A huge wave caused by the displacement of a large body of water\nWildfire: Fire that burns large areas of land\nVolcano: An opening in the Earth's surface from which lava, ash, and gas can be released",
+  "output": "A tsunami is a massive wave that's chaotic and sudden,\nAs it crashes, havoc and devastation are sure to come.\nA wildfire burns across the land with its devastating heat,\nLeaving a trail of destruction in its burning retreat.\nAnd a volcano below, a powerful force so strong,\nAn eruption of lava and ash, a relentless onslaught.\nThese natural disasters create a terror without compare,\nThey have the power to wreak havoc, leaving destruction everywhere.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

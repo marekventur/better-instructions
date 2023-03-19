@@ -1,0 +1,12 @@
+{
+  "id": "e1c8bc9a-e42a-454c-978d-b2cb7acad24f",
+  "instruction": "Reformat this list into an argumentative essay structure.",
+  "input": "- Digital journalism has become increasingly prevalent in recent years \n- Advantages of digital journalism, such as promptly disseminating news and more diversity in views \n- Challenges of digital journalism, such as cybercrime, disinformation, and user privacy",
+  "output": "Digital journalism has become wide-spread in the past few years due to improvements in technology. As the demand for information increases, digital journalism provides numerous advantages, such as instant news sharing and a greater diversity of opinions. However, some of the challenges that come with digital journalism, such as cybercrime, disinformation and user privacy, cannot be ignored.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

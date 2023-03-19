@@ -1,0 +1,12 @@
+{
+  "id": "891148da-e008-477e-9056-b13d0ba3eeae",
+  "instruction": "Given the current weather conditions, what items should the user bring if they are going camping?",
+  "input": "It is raining and the temperature is 50\u00b0F",
+  "output": "If you are going camping in the rain and 50\u00b0F, you should bring rain gear, warm clothing, a tent, a sleeping bag, a sleeping pad, a stove, cookware, and an additional layer of insulation such as a quilt or a blanket. Additionally, you should have some sturdy and waterproof shoes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

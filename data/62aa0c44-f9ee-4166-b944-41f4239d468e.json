@@ -1,0 +1,12 @@
+{
+  "id": "62aa0c44-f9ee-4166-b944-41f4239d468e",
+  "instruction": "Read the following poem and write a response that criticizes the poem\u2019s structure.",
+  "input": "The forest speaks in the morning\nUnfurling birdsong and eventually light\nThis gentle reminder of what was forgotten\nLife is but an interpretation of the night",
+  "output": "The poem struggles with form and structure as it shifts in both tone and topic from the first line to the last. The lack of grammatical rhyme and consistency in meter makes it unclear what the true message of the poem is. Additionally, by shifting so quickly from the imagery of a forest in the morning to an interpretation of life, the poem does not give the audience enough time to explore the forest before moving onto the final line. This makes the poem feel disjointed and lacks a sense of resolution.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

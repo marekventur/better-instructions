@@ -1,0 +1,12 @@
+{
+  "id": "f757a496-cb2c-4bca-9335-2595f6e3d9b5",
+  "instruction": "Arrange the following list of ingredients into five separate recipes.",
+  "input": "- Olive oil \n- Tomatoes\n- Cheese\n- Basil\n- Salt\n- Onions\n- Pepper\n- Garlic",
+  "output": "Recipe 1: Tomato & Basil Pizza: \n- Olive oil\n- Tomatoes\n- Cheese\n- Basil\n- Salt\n\nRecipe 2: Tomato & Olive Garlic Toast: \n- Olive oil\n- Tomatoes\n- Garlic\n- Salt\n\nRecipe 3: Olive Basil Bruschetta: \n- Olive oil \n- Basil\n- Salt\n- Pepper\n\nRecipe 4: Spinach and Onion Pie: \n- Olive oil \n- Onions\n- Cheese\n- Salt\n- Pepper\n\nRecipe 5: Classic Italian Pasta:\n- Olive oil\n- Tomatoes\n- Onions\n- Garlic\n- Basil \n- Salt\n- Pepper",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

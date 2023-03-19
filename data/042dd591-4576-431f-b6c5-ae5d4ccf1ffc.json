@@ -1,0 +1,12 @@
+{
+  "id": "042dd591-4576-431f-b6c5-ae5d4ccf1ffc",
+  "instruction": "Categorize a list of places into two groups",
+  "input": "Tokyo, London, New York, Sydney",
+  "output": "Group A: Tokyo, London, New York\nGroup B: Sydney",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

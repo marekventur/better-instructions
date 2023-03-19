@@ -1,0 +1,12 @@
+{
+  "id": "cac6df28-af5c-4041-a2dd-a6c4f59a357f",
+  "instruction": "Write instructions for setting up a simple homepage for a website.",
+  "input": "",
+  "output": "Below are the instructions for setting up a simple homepage for a website:\n1. Create a new document using an HTML editor such as Sublime Text, Atom or Notepad++.\n2. Link to any external style sheets and scripts in the head section of the page. \n3. Add the page title to the <title> element in the head section.\n4. Add the main content to the <body> element in the page's main section.\n5. Link to any internal webpages or external websites in the body.\n6. Add any images and videos in the appropriate section.\n7. Close off all elements with the appropriate closing tags.\n8. Test the page to make sure it looks and functions correctly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

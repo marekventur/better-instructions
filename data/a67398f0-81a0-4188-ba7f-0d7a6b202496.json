@@ -1,0 +1,12 @@
+{
+  "id": "a67398f0-81a0-4188-ba7f-0d7a6b202496",
+  "instruction": "Rank the following countries by population size.",
+  "input": "Australia, India, Argentina",
+  "output": "India, Australia, Argentina",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

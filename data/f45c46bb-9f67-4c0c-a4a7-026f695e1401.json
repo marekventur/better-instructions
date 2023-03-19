@@ -1,0 +1,12 @@
+{
+  "id": "f45c46bb-9f67-4c0c-a4a7-026f695e1401",
+  "instruction": "Construct an SQL table with the following columns: _id, name, phone, email.",
+  "input": "",
+  "output": "Table: contact_info\n\nFields:\n_id: INTEGER\nname: VARCHAR (255)\nphone: VARCHAR (255)\nemail: VARCHAR (255)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

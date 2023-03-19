@@ -1,0 +1,12 @@
+{
+  "id": "08e474ec-096d-4a41-80b0-ef39a9316ddb",
+  "instruction": "Find and replace all misspelled words in the sentence.",
+  "input": "We need to acomplish this tusk by end of day.",
+  "output": "We need to accomplish this task by end of day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

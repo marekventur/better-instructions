@@ -1,0 +1,12 @@
+{
+  "id": "c63b7ca7-01aa-44f6-91fc-2f4f4e2615f6",
+  "instruction": "Change this sentence from Present Progressive to Simple Present",
+  "input": "I am planning a surprise party.",
+  "output": "I plan a surprise party.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

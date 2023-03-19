@@ -1,0 +1,12 @@
+{
+  "id": "00f17873-f8bf-4fbf-adef-025099642822",
+  "instruction": "Add two sentences to this text to help establish a clear sequence of events.",
+  "input": "John had been sick for a few days. He decided to go see a doctor.",
+  "output": "John made an appointment with his doctor and went in for a check-up. After helping him diagnose the issue, the doctor prescribed John medicine and instructed him to rest.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

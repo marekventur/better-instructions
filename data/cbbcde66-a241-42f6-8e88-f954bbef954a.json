@@ -1,0 +1,12 @@
+{
+  "id": "cbbcde66-a241-42f6-8e88-f954bbef954a",
+  "instruction": "Rewrite the following sentence to make it parallel in structure",
+  "input": "He likes to play soccer and basketball and swim",
+  "output": "He likes to play soccer, basketball, and swim.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

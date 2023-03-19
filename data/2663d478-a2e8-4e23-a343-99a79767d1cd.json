@@ -1,0 +1,12 @@
+{
+  "id": "2663d478-a2e8-4e23-a343-99a79767d1cd",
+  "instruction": "Report the main findings of the following study.",
+  "input": "https://pubmed.ncbi.nlm.nih.gov/27121023/",
+  "output": "This study examined the effect of cognitive-behavioral therapy (CBT) on depressive symptoms in older adults. The results showed that CBT was effective in reducing depressive symptoms and improving quality of life. The study also found that the effects of CBT were sustained over time and that improved mental health was maintained even six months after the intervention.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

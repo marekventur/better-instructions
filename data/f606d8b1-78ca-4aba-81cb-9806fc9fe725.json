@@ -1,0 +1,12 @@
+{
+  "id": "f606d8b1-78ca-4aba-81cb-9806fc9fe725",
+  "instruction": "Edit the following newsletter email",
+  "input": "Hello everyone!\n\nWe're excited to announce that we've released new features to our platform. We hope you find them useful and make your work easier.",
+  "output": "Hello, \n\nWe're thrilled to share that we've added some great new features to our platform that we think you'll love! These tools should make your work easier and more efficient. Let us know what you think!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6fbd1818-ec80-4f13-ad3a-3ed9fa96216d",
+  "instruction": "Analyze the data and list the possible solutions.",
+  "input": "Data: The survey of 2000 students demonstrated that most of the students can\u2019t afford the tuition at the school.",
+  "output": "The results of the survey of 2000 students suggest that financial constraints are impeding adequate access to the educational resources available at the school. To address this issue, the school could offer financial aid for those in need, provide scholarships, work with the government to provide grants, develop tuition payment plans, or reduce tuition costs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "56c396e6-7ec5-403c-8c47-aa440ebac8b1",
+  "instruction": "You are given a data set and asked to create a visualization that would highlight the main trends in the data.",
+  "input": "<data set included in email>",
+  "output": "A visualization of the data set that would highlight important trends would be a line or bar graph that plots the data points. The graph should clearly display the trend over time as well as the overall trend in the data. The graph should also include labeling of the axes to make the data easier to interpret.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

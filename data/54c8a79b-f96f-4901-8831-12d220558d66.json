@@ -1,0 +1,12 @@
+{
+  "id": "54c8a79b-f96f-4901-8831-12d220558d66",
+  "instruction": "Given a data set, analyze the impact of different input variables on the output.",
+  "input": "Data Set:\nX1: Age\nX2: Income\nY: Happiness",
+  "output": "This data set would investigate the impact of Age and Income on Happiness. Age is associated with wisdom and can often be associated with greater levels of happiness due to the ability to reflect on past mistakes and successes. Income on the other hand, has an inverse relationship with happiness, as once a certain minimum level of income is reached further increases to income yield no incremental benefit in reported happiness.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "61931ab4-aa18-407c-88d2-18f98b791ca6",
+  "instruction": "Compare two items and identify the differences.",
+  "input": "iPhone 11 and iPhone 12",
+  "output": "The iPhone 11 is slightly larger, with a 6.1 inch display compared to the 6.7 inch display of the iPhone 12. The iPhone 12 has a better camera system, with a wider angle lens, night mode, and better image stabilization features. The 11 has a softer and curvier design, while the 12 has a more angular look and feel. The 12 also supports the new 5G network, while the 11 does not.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

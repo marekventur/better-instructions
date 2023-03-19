@@ -1,0 +1,12 @@
+{
+  "id": "d7fd8886-3154-4169-8fcf-017995ddd89c",
+  "instruction": "Explain why the coffee shop is more expensive.",
+  "input": "This coffee shop has a higher price than other coffee shops.",
+  "output": "The coffee shop could be more expensive for a variety of reasons. It may offer higher-quality beans, more unique brewing methods, and locally-sourced ingredients that cost more than mass-produced products. It could also be based in a wealthier area with higher rental rates. Additionally, the shop may provide additional services or amenities, such as free WiFi, plush seating, and customer-focused service, that increase the overall cost of the product.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

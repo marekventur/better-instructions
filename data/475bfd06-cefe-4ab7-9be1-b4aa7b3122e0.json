@@ -1,0 +1,12 @@
+{
+  "id": "475bfd06-cefe-4ab7-9be1-b4aa7b3122e0",
+  "instruction": "Compose 10 questions related to the following topic:",
+  "input": "The history of the American Revolution",
+  "output": "-What caused the American Revolution? \n-When did the American Revolution start and end?\n-Why did the American colonists revolt?\n-Who were the major figures of the American Revolution?\n-What were some major battles of the American Revolution?\n-How did the war change the relationship between Britain and its North American colonies?\n-Did the American Revolution produce any lasting changes?\n-What were the economic and social impacts of the American Revolution?\n-What role did the French and Native Americans play in the American Revolution?\n-What were the political implications of the American Revolution?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

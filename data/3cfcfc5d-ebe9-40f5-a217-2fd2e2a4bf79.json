@@ -1,0 +1,12 @@
+{
+  "id": "3cfcfc5d-ebe9-40f5-a217-2fd2e2a4bf79",
+  "instruction": "Reword the given passage in a shorter and simpler way.",
+  "input": "The effects of a poor diet on health are not just limited to the risks of obesity, but can also lead to deficiencies, depletion of vitamins and minerals, and being more vulnerable to diseases.",
+  "output": "A poor diet can damage health by causing obesity, deficiencies, vitamin/mineral depletion and disease vulnerability.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

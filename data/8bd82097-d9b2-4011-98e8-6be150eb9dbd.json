@@ -1,0 +1,12 @@
+{
+  "id": "8bd82097-d9b2-4011-98e8-6be150eb9dbd",
+  "instruction": "Reverse engineer the following object piece by piece and describe each part.",
+  "input": "Object: Pen",
+  "output": "The pen consists of three main parts: the cap, the body, and the nib. The cap is usually colored a dark color and screws onto the body of the pen. On one end of the body of the pen is a small opening, the nib. The nib is usually a metal or plastic tip that comes into direct contact with paper when writing. The other end of the body has a pocket clip and there is usually a ridged design around the middle of the pen for a secure grip.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

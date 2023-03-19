@@ -1,0 +1,12 @@
+{
+  "id": "38728574-0fb0-4ddd-8a70-d750ce0e2248",
+  "instruction": "Explain why artificial neural networks are the most commonly used deep learning models.",
+  "input": "",
+  "output": "Artificial neural networks are the most commonly used deep learning models because they are able to approximate non-linear functions. They structure their operations as a network of nodes and can accurately process complex data inputs more accurately than traditional machine learning algorithms. Additionally, they have the ability to self-adjust their parameters, making them better able to understand and learn from complex data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

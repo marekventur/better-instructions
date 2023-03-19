@@ -1,0 +1,12 @@
+{
+  "id": "2907acff-b0e8-4421-ae6b-0b0b9e0768c7",
+  "instruction": "Add a contradiction to the given sentence.",
+  "input": "The birds flew south for the winter.",
+  "output": "The birds flew south for the winter, but some chose to stay in the north.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

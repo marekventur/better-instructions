@@ -1,0 +1,12 @@
+{
+  "id": "d1494426-d5ea-4170-977f-429da0e3b011",
+  "instruction": "Create a list of adjectives to describe the given noun.",
+  "input": "Noun: Cat",
+  "output": "- Cute\n- Fluffy\n- Playful\n- Mischievous\n- Sly\n- Energetic\n- Inquisitive\n- Fuzzy\n- Sassy\n- Snuggly\n- Majestic\n- Clever\n- Adorable",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

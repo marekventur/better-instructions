@@ -1,0 +1,12 @@
+{
+  "id": "59c94267-ae4f-492a-b392-62d9349f6a08",
+  "instruction": "Write a regex pattern to match strings of the form a-zA-Z0-9.",
+  "input": "",
+  "output": "The regex pattern to match strings of the form a-zA-Z0-9 is: /^[a-zA-Z0-9]+$/",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

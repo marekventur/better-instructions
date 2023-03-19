@@ -1,0 +1,12 @@
+{
+  "id": "e1e3439c-c4f6-43dd-ba29-b614cd2c2c08",
+  "instruction": "Generate a sample of a cover letter for a job in accounting.",
+  "input": "Noinput",
+  "output": "Dear [Hiring Manager],\n\nI am writing to apply for the position of Junior Accountant at [Company Name]. I am confident that my education and experience in accounting make me an excellent candidate for the role.\n\nI have a Bachelor's Degree in Accounting from [School] and two years of experience in the field. During my previous employment, I handled accounts receivable, accounts payable, payroll and more. I am particularly adept with software like QuickBooks and Peachtree. In addition, I have developed strong problem-solving and communication skills that I believe make me the ideal candidate for this position. \n\nI am excited to work with your team and bring my valuable experience and skills to the table. Please do not hesitate to contact me if you have any questions or require additional information. I look forward to hearing from you.\n\nSincerely, \n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

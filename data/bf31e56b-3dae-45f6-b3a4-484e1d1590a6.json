@@ -1,0 +1,12 @@
+{
+  "id": "bf31e56b-3dae-45f6-b3a4-484e1d1590a6",
+  "instruction": "List differences between American and British English.",
+  "input": "",
+  "output": "The main differences between American and British English include vocabulary and spelling. In American English, some words take on different spellings or pronunciations, such as 'color' (British: colour) and 'wagon' (British: waggon). American English dialects also have different word choices, such as 'elevator' (British: lift) and 'trunk' (British: boot). American English speakers generally use a less formal form of grammar, such as using 'I got' instead of 'I have gotten.' British English follows a more traditional form of grammar, such as using 'have gotten.' American English also places less emphasis on the use of the subjunctive mood than British English. Additionally, Americans use 'gotten' as the past participle for 'get,' while the British use 'got.'",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

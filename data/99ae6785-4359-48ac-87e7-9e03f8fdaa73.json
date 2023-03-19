@@ -1,0 +1,12 @@
+{
+  "id": "99ae6785-4359-48ac-87e7-9e03f8fdaa73",
+  "instruction": "Write an algorithm to calculate the sum of two given integers.",
+  "input": "",
+  "output": "def calculate_sum(a, b):\n    # initialize result to 0\n    result = 0\n    \n    # add two input numbers\n    result = a + b\n    \n    # return result\n    return result",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

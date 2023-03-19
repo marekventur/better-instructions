@@ -1,0 +1,12 @@
+{
+  "id": "6c07af2c-4a9e-4846-9996-a914d2e13737",
+  "instruction": "Assign a percentage to this statement",
+  "input": "Most people prefer chocolate over vanilla",
+  "output": "80%",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

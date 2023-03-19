@@ -1,0 +1,12 @@
+{
+  "id": "96e525cd-9730-4e6b-b869-b3047813285d",
+  "instruction": "Extract the topic of the given story.",
+  "input": "James and his family were camping in the lake near their house. They built a tent and enjoyed a campfire and some marshmallows.",
+  "output": "Family Camping",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

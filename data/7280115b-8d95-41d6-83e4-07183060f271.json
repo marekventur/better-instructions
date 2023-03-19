@@ -1,0 +1,12 @@
+{
+  "id": "7280115b-8d95-41d6-83e4-07183060f271",
+  "instruction": "Connect an artificial neural network with a convolutional neural network.",
+  "input": "",
+  "output": "An artificial neural network can be connected to a convolutional neural network by transferring feature maps from the convolutional neural network to the artificial neural network for further processing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

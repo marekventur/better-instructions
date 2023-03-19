@@ -1,0 +1,12 @@
+{
+  "id": "63e5e4fc-dbb8-442a-94d6-da71234225dc",
+  "instruction": "Classify the following figure as a conic section.",
+  "input": "![alt text](https://www.teaching.ucla.edu/sites/default/files/files/figure%208_dash_ellipse.png)",
+  "output": "Ellipse.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

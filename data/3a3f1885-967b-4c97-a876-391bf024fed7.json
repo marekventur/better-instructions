@@ -1,0 +1,12 @@
+{
+  "id": "3a3f1885-967b-4c97-a876-391bf024fed7",
+  "instruction": "Create a chart showing the data of internet users by country.",
+  "input": "Country: China, India, US, Brazil, Spain\nInternet Users (in millions): 854.8, 504.0, 302.5, 142.5, 45.5",
+  "output": "Country | Internet Users (in millions) \n------- | -------------------------- \nChina | 854.8 \nIndia | 504.0 \nUS | 302.5 \nBrazil | 142.5 \nSpain | 45.5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

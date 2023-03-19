@@ -1,0 +1,12 @@
+{
+  "id": "265e4422-abad-4b07-a4a5-5294f8f39008",
+  "instruction": "Compare and contrast the benefits of using Apache Cassandra and MongoDB.",
+  "input": "",
+  "output": "Apache Cassandra and MongoDB are two popular data stores used in software applications. Cassandra is a highly scalable, open source, NoSQL database developed by the Apache Software Foundation, while MongoDB is an open-source document-oriented database developed by MongoDB, Inc. Cassandra is known for its high availability and scalability, whereas MongoDB offers high performance and scalability. Cassandra is best suited for applications with large amounts of data, while MongoDB is more suitable for applications with a large number of reads and writes. Cassandra also provides more flexibility in data modeling, while MongoDB offers features such as replication and sharding.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

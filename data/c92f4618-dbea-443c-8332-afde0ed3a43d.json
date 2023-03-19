@@ -1,0 +1,12 @@
+{
+  "id": "c92f4618-dbea-443c-8332-afde0ed3a43d",
+  "instruction": "Name the type of triangle based on the given side length.",
+  "input": "2, 3, 4",
+  "output": "Scalene triangle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

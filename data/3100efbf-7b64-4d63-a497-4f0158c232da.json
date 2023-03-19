@@ -1,0 +1,12 @@
+{
+  "id": "3100efbf-7b64-4d63-a497-4f0158c232da",
+  "instruction": "Create a survey that collects data about people\u2019s skills in the areas of Mathematics, Science, and English.",
+  "input": "",
+  "output": "1. How would you rate your knowledge of Mathematics?\n2. How would you rate your knowledge of Science?\n3. How would you rate your knowledge of English?\n4. Are you currently taking any Mathematics classes?\n5. Are you currently taking any Science classes?\n6. Are you currently taking any English classes?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1c99255e-7e15-4bad-9313-0199d27cb590",
+  "instruction": "Transform this sentence from active to passive voice:",
+  "input": "He is eating a sandwich.",
+  "output": "A sandwich is being eaten by him.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

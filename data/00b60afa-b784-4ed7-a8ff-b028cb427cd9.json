@@ -1,0 +1,12 @@
+{
+  "id": "00b60afa-b784-4ed7-a8ff-b028cb427cd9",
+  "instruction": "Describe the painting using 3 adjectives.",
+  "input": "[painting.jpg]",
+  "output": "Astonishing, vibrant, striking.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

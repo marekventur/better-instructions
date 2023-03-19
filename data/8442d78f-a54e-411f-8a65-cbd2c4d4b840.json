@@ -1,0 +1,12 @@
+{
+  "id": "8442d78f-a54e-411f-8a65-cbd2c4d4b840",
+  "instruction": "Edit the given code to optimize its performance.",
+  "input": "for i in range(N):\n    for j in range(N-1):\n        sum += A[i][j]",
+  "output": "sum = 0\nfor j in range(N-1):\n    for i in range(N):\n        sum += A[i][j]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

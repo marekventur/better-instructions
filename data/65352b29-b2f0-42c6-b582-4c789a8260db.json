@@ -1,0 +1,12 @@
+{
+  "id": "65352b29-b2f0-42c6-b582-4c789a8260db",
+  "instruction": "Add values to the following list [3, 4, 5]",
+  "input": "[3, 4, <noinput>]",
+  "output": "[3, 4, 5]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

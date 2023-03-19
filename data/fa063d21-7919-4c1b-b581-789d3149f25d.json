@@ -1,0 +1,12 @@
+{
+  "id": "fa063d21-7919-4c1b-b581-789d3149f25d",
+  "instruction": "Identify the food associated with the following region",
+  "input": "The Northeastern United States -",
+  "output": "Traditional Northeastern food is primarily a blend of various European cuisines. Popular dishes include seafood dishes like clam chowder, dishes featuring seafood like the Lobster Roll, Italian-American dishes like manicotti and pizza, and Jewish-influenced dishes like pastrami and knishes. Barbecue is also popular in some areas, with the St. Louis-style ribs being particularly well-known in the Midwest. Additionally, Philadelphia-style sandwiches, such as cheesesteaks and hoagies, are iconic in the region.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7d02407e-3857-415a-a3ae-caabba7c61a3",
+  "instruction": "Find the latest news article on the given topic.",
+  "input": "Climate change",
+  "output": "[Article title], published on [date], by [author or publication].",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

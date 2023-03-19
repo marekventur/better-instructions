@@ -1,0 +1,12 @@
+{
+  "id": "b7faa9ed-c272-49d6-b7fd-66bcd3ebd436",
+  "instruction": "Identify 3 different features of the given product.",
+  "input": "Apple Watch Series 6",
+  "output": "The Apple Watch Series 6 features GPS, an Always-On Retina display, and the ability to take ECG readings.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

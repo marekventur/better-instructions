@@ -1,0 +1,12 @@
+{
+  "id": "ad1aefcb-0613-453e-b6ca-a69d54c3d73f",
+  "instruction": "Rewrite the sentence so the intended meaning does not change, but the sentence structure is altered.",
+  "input": "The movie had a tragic ending.",
+  "output": "The ending of the movie was tragic.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

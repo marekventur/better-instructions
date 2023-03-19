@@ -1,0 +1,12 @@
+{
+  "id": "34c42659-e736-4d16-a94b-9af3c001e9b3",
+  "instruction": "Find the weight of the object.",
+  "input": "The object has a mass of 5kg and a volume of 0.25L.",
+  "output": "The weight of the object can be calculated by using the formula Weight = Mass x Gravity. Therefore, the weight of the object is 40 Newtons (4kg \u00d7 10 N/kg = 40 N).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e680af28-ba4b-413b-b687-c6f1b2771791",
+  "instruction": "This is an editing task. Identify the mistakes in the given sentence and edit it",
+  "input": "She cutted the apples into small slices",
+  "output": "She cut the apples into small slices.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

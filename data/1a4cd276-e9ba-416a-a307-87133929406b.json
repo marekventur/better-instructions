@@ -1,0 +1,12 @@
+{
+  "id": "1a4cd276-e9ba-416a-a307-87133929406b",
+  "instruction": "Step by step, how would you solve this equation?",
+  "input": "(7x + 7)/(3x + 4) = 5",
+  "output": "Step 1: Multiply both sides of the equation by 3x + 4:\n\n7x + 7 = 5(3x + 4) \n\nStep 2: Simplify the left side of the equation:\n\n7x = 5(3x) + 5(4)\n\nStep 3: Expand 5(3x) + 5(4): \n7x  = 15x + 20\n\nStep 4: Subtract 15x from both sides of the equation:\n\n7x \u2013 15x = 20\n\nStep 5: Simplify the left side of the equation:\n\n-8x = 20\n\nStep 6: Divide both sides of the equation by -8:\n\nx = -2.5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

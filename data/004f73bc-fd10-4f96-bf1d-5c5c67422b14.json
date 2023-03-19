@@ -1,0 +1,12 @@
+{
+  "id": "004f73bc-fd10-4f96-bf1d-5c5c67422b14",
+  "instruction": "Classify the following sentences as statements, questions or commands.",
+  "input": "Can you please help me?",
+  "output": "Question",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

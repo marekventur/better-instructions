@@ -1,0 +1,12 @@
+{
+  "id": "d5cc7bdc-9fee-423f-92ee-25acf5cf89f1",
+  "instruction": "Calculate the compound interest on a deposited of $1000 with the interest rate of 5%.",
+  "input": "",
+  "output": "The compound interest on a deposited of $1000 with an interest rate of 5% is $51.11. This means that the total amount payable would be $1051.11. The formula used to calculate compound interest is A = P (1 + r/n) ^ nt, where A is the final amount, P is the principal, r is the rate of interest, n is the number of times interest is compounded per year, and t is the time in years.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

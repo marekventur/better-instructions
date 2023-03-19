@@ -1,0 +1,12 @@
+{
+  "id": "d0c20935-537f-4b38-8ec5-28ab8463d67f",
+  "instruction": "Summarize the recent news article \"The latest on AI\" in less than 50 words.",
+  "input": "https://www.example.com/news/ai-latest-update",
+  "output": "The latest news on AI includes advancements in the field, such as new AI-based technologies to help people with disabilities, from wheelchairs that use AI to detect obstacles to voice assistant systems that can identify a person's emotional state. There is increasing evidence that AI is helping to improve many aspects of life.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

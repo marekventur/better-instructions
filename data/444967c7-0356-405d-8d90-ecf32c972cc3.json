@@ -1,0 +1,12 @@
+{
+  "id": "444967c7-0356-405d-8d90-ecf32c972cc3",
+  "instruction": "Write a C code to print the following statement.",
+  "input": "Jingle bells, jingle bells, Jingle all the way",
+  "output": "#include<stdio.h>\n\nint main() \n{ \n  printf(\"Jingle bells, jingle bells, Jingle all the way\\n\"); \n  return 0; \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

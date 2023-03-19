@@ -1,0 +1,12 @@
+{
+  "id": "0403ba66-a977-4f50-b360-5e2874092f3d",
+  "instruction": "Identify the type of figurative language used in the phrase.",
+  "input": "\"The heat built up like a pressure cooker\"",
+  "output": "The phrase uses a metaphor to compare the heat to a pressure cooker.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

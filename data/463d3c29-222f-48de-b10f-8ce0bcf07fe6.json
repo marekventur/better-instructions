@@ -1,0 +1,12 @@
+{
+  "id": "463d3c29-222f-48de-b10f-8ce0bcf07fe6",
+  "instruction": "Come up with 5 multiple-choice questions about the movie \"The Godfather\".",
+  "input": "",
+  "output": "1. What year was the movie \"The Godfather\" released?\nA. 1968\nB. 1971\nC. 1994\nD. 2003\n\n2. Who wrote the novel on which \"The Godfather\" movie is based?\nA. Francis Ford Coppola\nB. Steven Spielberg\nC. Mario Puzo\nD. Martin Scorsese\n\n3. What is the name of the clan in \"The Godfather\"?\nA. Corleone\nB. Medici\nC. Gambino \nD. Lucchese\n\n4. How many Academy Awards did the movie \"The Godfather\" win?\nA. 0\nB. 1\nC. 3 \nD. 5\n\n5. Who plays the role of Michael Corleone in the movie \"The Godfather\"?\nA. Al Pacino\nB. Robert De Niro\nC. Marlon Brando\nD. Leonardo DiCaprio",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8d271e13-f575-4dca-96e9-43344b6ad47f",
+  "instruction": "Describe the mood of this poem",
+  "input": "The sun it rises\nFrom east to west\nIts light it guides us\nTo heal and rest",
+  "output": "The poem conveys a feeling of hope and optimism. It speaks of the healing power of the sun and its light, which brings warmth and life to the world. The imagery of the sun rising in the east and setting in the west suggests the cyclical nature of life and the promise of new beginnings and possibilities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

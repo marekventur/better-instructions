@@ -1,0 +1,12 @@
+{
+  "id": "809ff763-dee0-4723-832e-498ccbfff56f",
+  "instruction": "How would you classify the following type of transaction?",
+  "input": "A customer orders a product online, pays using their credit card, and has it shipped to them.",
+  "output": "This is a purchase transaction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

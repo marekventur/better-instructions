@@ -1,0 +1,12 @@
+{
+  "id": "c2fb0a17-1077-42f1-91c9-64aa5163c88f",
+  "instruction": "Pick the most relevant idea from the paragraph.",
+  "input": "In general, school systems around the world are designed to ensure that students receive the best education possible. Different countries have different approaches, but all have a common goal: that every student should be able to develop their skills and abilities to reach their fullest potential. Examples of this include offering additional courses and tutoring to struggling students and providing a variety of extracurricular activities to allow them to pursue interests outside of their studies.",
+  "output": "The goal of school systems around the world is to ensure that students receive the best education possible and are able to reach their fullest potential.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

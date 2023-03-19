@@ -1,0 +1,12 @@
+{
+  "id": "9b816430-4a42-4334-939b-89976e44352e",
+  "instruction": "How does the news article characterize North Korea's ambitions?",
+  "input": "The Trump Administration\u2019s latest set of sanctions against North Korea has only served to worsen the already tense relations between the two countries. With the latest missile test, North Korea has made it clear that it has no plans of relenting on its aggressive military and nuclear ambitions.",
+  "output": "North Korea has aggressive military and nuclear ambitions that it is not willing to back down from.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "db4066d0-d178-4c8e-9d7c-3167aba0da72",
+  "instruction": "Explain how a random forest algorithm achieves higher accuracy than individual decision trees.",
+  "input": "",
+  "output": "A random forest is an ensemble-based method of achieving higher accuracy than individual decision trees. It works by aggregating the predictions of multiple decision trees using an ensemble approach. Each of these decision trees makes an independent prediction, and the individual predictions are combined either by averaging the probabilities or by taking the majority vote.  This approach reduces the variance of the predictions made by the decision trees, making the resulting predictions more accurate. Additionally, it also reduces the amount of overfitting incurred by the decision trees since it combines independent decisions made by each tree together, thus smoothing out any random fluctuations.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

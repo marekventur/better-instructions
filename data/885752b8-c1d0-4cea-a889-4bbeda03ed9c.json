@@ -1,0 +1,12 @@
+{
+  "id": "885752b8-c1d0-4cea-a889-4bbeda03ed9c",
+  "instruction": "Reorder the following verbs in the order that they occurred in the text.",
+  "input": "ran, held, shouted",
+  "output": "held, shouted, ran",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

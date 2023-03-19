@@ -1,0 +1,12 @@
+{
+  "id": "7b805f88-3a38-4885-8e99-d9379561ccc9",
+  "instruction": "Take an existing text and delete any redundant or irrelevant phrases that might clutter the structure of the text.",
+  "input": "At first, the morning rain was gentle and serene but then suddenly the skies opened up and began to pour with great intensity.",
+  "output": "The rain began gentle, then suddenly intensified.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

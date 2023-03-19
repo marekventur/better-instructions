@@ -1,0 +1,12 @@
+{
+  "id": "5a4fd576-fbe6-4dd3-9c34-73ece466f7fc",
+  "instruction": "Determine the execution path for the following code:",
+  "input": "if (x > 10)\n    print(x);\nelse\n    print (y);",
+  "output": "If x is greater than 10, the execution path will print x. If it is not, the execution path will print y.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

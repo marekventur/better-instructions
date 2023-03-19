@@ -1,0 +1,12 @@
+{
+  "id": "f77843e5-4fbd-4aab-bc72-dd1251eb3f5e",
+  "instruction": "Categorize the following states according to the number of electoral votes they have.",
+  "input": "New York, Pennsylvania, California, Virginia",
+  "output": "High number of electoral votes: California (55), New York (29)\nMedium number of electoral votes: Virginia (13) \nLow number of electoral votes: Pennsylvania (20)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

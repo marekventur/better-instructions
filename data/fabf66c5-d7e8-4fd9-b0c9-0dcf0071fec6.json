@@ -1,0 +1,12 @@
+{
+  "id": "fabf66c5-d7e8-4fd9-b0c9-0dcf0071fec6",
+  "instruction": "Construct a SQL query to find all records from the table \"inventory\" that have a quantity greater than 10.",
+  "input": "",
+  "output": "SELECT * FROM inventory WHERE quantity > 10;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

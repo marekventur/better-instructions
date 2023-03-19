@@ -1,0 +1,12 @@
+{
+  "id": "097650b2-8290-4948-8b74-2d483fab0988",
+  "instruction": "Categorize the following objects into two different groups, and explain why you chose them.",
+  "input": "A computer, a car, a shoe, a chair",
+  "output": "I would categorize the objects into two groups: man-made objects and natural objects. The computer, car, shoe, and chair are all man-made objects, items that have been created, designed, and assembled by people. On the other hand, a natural object would be something that is found in nature and has no human intervention.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

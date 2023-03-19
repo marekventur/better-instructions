@@ -1,0 +1,12 @@
+{
+  "id": "8fa34e77-73a5-40b1-ba47-597d1a664d50",
+  "instruction": "Given a list of geographical features, classify each one as either a natural or man-made feature.",
+  "input": "River, Street, Beach",
+  "output": "River (natural), Street (man-made), Beach (natural)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

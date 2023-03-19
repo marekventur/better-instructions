@@ -1,0 +1,12 @@
+{
+  "id": "ba7e98fc-641e-4f85-ad73-f7c3193a2bfa",
+  "instruction": "Create a natural language query to find the population of a given city.",
+  "input": "",
+  "output": "What is the population of [city]?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

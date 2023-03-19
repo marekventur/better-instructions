@@ -1,0 +1,12 @@
+{
+  "id": "8af78992-0c60-45d9-9321-63cb54927866",
+  "instruction": "Explain what a recursive function is in 50 words or less.",
+  "input": "",
+  "output": "A recursive function is a function that calls itself during execution, using its return value in the same call. This process repeats until the return value meets a given criteria at which point, the recursive loop ends. A recursive function can be used to simplify complex problems, resulting in shorter and more concise code.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

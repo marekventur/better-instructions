@@ -1,0 +1,12 @@
+{
+  "id": "cb2b4591-39ba-4b1e-8eb6-302bbdc2ca79",
+  "instruction": "Simplify the following sentence using proper grammar rules.",
+  "input": "This task that is a bit too much for me",
+  "output": "This task is too much for me.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

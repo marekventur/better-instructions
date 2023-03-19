@@ -1,0 +1,12 @@
+{
+  "id": "6e07426a-edf7-46d6-babf-52c0fe2a3cc1",
+  "instruction": "Annotate this tweet as 'humorous', 'political', 'unsafe' or 'neutral'.",
+  "input": "The president hasn't done anything bad this week.",
+  "output": "neutral",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3ce187da-279d-4d5e-a170-49da10bdacb3",
+  "instruction": "Given the following sentence, edit it for clarity and succinctness.",
+  "input": "Due to the fact that he was unable to find the solution to his problem, he became very discouraged.",
+  "output": "He grew discouraged when he couldn't find a solution.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

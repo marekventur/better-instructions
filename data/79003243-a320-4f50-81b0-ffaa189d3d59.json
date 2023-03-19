@@ -1,0 +1,12 @@
+{
+  "id": "79003243-a320-4f50-81b0-ffaa189d3d59",
+  "instruction": "Reorder the following list of instructions in a logical way",
+  "input": "Finish the presentation, Set alarms, Respond to emails",
+  "output": "1. Respond to emails\n2. Set alarms\n3. Finish the presentation",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b01dd857-97c8-4e34-8b47-abb77bab0416",
+  "instruction": "Make a one sentence prediction of the stock market using the given information.",
+  "input": "Data: The S&P 500 index is currently trading higher for the seventh consecutive day.",
+  "output": "The S&P 500 index is expected to continue rising in the short term.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

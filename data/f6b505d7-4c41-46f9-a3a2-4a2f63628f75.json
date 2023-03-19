@@ -1,0 +1,12 @@
+{
+  "id": "f6b505d7-4c41-46f9-a3a2-4a2f63628f75",
+  "instruction": "Edit the following sentence \"I wants to visit Europe in my holidays.\"",
+  "input": "I wants to visit Europe in my holidays.",
+  "output": "I want to visit Europe during my holidays.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

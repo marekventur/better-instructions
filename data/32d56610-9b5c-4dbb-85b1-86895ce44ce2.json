@@ -1,0 +1,12 @@
+{
+  "id": "32d56610-9b5c-4dbb-85b1-86895ce44ce2",
+  "instruction": "Create an algorithm to find the next palindrome number given a starting point.",
+  "input": "",
+  "output": "The algorithm to find the next palindrome number given a starting point is as follows:\n\nStep 1: Take the number as the starting point.\nStep 2: Reverse the number, call it nrev.\nStep 3: If nrev is greater than the starting point, then nrev is the next palindrome.\nStep 4: If nrev is less than the starting point, add 1 to the starting point, then calculate nrev for the new number. If nrev is greater than the new number, then nrev is the next palindrome.\nStep 5: If nrev is still lesser than the new number repeat steps 4 and 5 until the next palindrome is found.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

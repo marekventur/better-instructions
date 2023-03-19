@@ -1,0 +1,12 @@
+{
+  "id": "ee9af356-b41c-41a5-88e4-cd39bb4a6279",
+  "instruction": "Find the data points which violate the specified rule.",
+  "input": "5, 10, 15, 20, 25, 30\nRule: All numbers greater than 22",
+  "output": "25, 30",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

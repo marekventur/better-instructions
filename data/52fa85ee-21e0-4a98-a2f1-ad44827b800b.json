@@ -1,0 +1,12 @@
+{
+  "id": "52fa85ee-21e0-4a98-a2f1-ad44827b800b",
+  "instruction": "Select the sentence that best summarizes the output of the Python code below.",
+  "input": "arr = [5, 10, 15]\nfor i, j in enumerate(arr):\n    arr[i] = j*2",
+  "output": "The sentence that best summarizes the output of the Python code is: \nThe code multiplies each element in the list by 2 and returns a list with the double values.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

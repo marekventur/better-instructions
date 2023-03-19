@@ -1,0 +1,12 @@
+{
+  "id": "f1c74e9d-b8a4-47b1-a216-eed186ffa2af",
+  "instruction": "Construct a query to select all the sales data from 2019.",
+  "input": "",
+  "output": "SELECT * FROM sales WHERE sales_date BETWEEN '2019-01-01' AND '2019-12-31';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

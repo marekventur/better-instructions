@@ -1,0 +1,12 @@
+{
+  "id": "f85164fa-5828-421e-bcc6-bdeb53689b09",
+  "instruction": "Consider the given statement and state whether it is true or false.",
+  "input": "Apples are members of the citrus family.",
+  "output": "False. Apples are not members of the citrus family.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

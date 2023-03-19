@@ -1,0 +1,12 @@
+{
+  "id": "2b2b0be4-cb79-4e6d-862a-3a771288e85f",
+  "instruction": "Select the best headline for the following article.",
+  "input": "Article:\n\nThis week's news offers compelling evidence that renewable energy sources are becoming increasingly accessible and cost-effective. Solar panels and wind turbines can provide clean, renewable power for homes and businesses, while new innovations in technology are making solar panels more efficient and cost-effective than ever.",
+  "output": "Clean, Renewable Energy Becomes Increasingly Accessible and Cost-Effective.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

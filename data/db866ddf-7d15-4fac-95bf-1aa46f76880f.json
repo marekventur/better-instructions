@@ -1,0 +1,12 @@
+{
+  "id": "db866ddf-7d15-4fac-95bf-1aa46f76880f",
+  "instruction": "Categorize a job application into one of the following five categories:\nAccounting, Programming, Sales and marketing, Design, and Art.",
+  "input": "I recently applied for a position as a software engineer.",
+  "output": "Programming",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

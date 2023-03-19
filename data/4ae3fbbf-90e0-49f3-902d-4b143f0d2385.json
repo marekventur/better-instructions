@@ -1,0 +1,12 @@
+{
+  "id": "4ae3fbbf-90e0-49f3-902d-4b143f0d2385",
+  "instruction": "Identify the speaker of these lines.",
+  "input": "\"Oh what a rogue and peasant slave am I\"",
+  "output": "Shakespeare, from \"Hamlet\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

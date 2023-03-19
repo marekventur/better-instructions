@@ -1,0 +1,12 @@
+{
+  "id": "c57ce71b-4e36-459b-b1b4-0fa0f5fa3f72",
+  "instruction": "Ask the assistant to click a certain link on a website.",
+  "input": "The link is https://example.com",
+  "output": "I have clicked the link.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

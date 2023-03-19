@@ -1,0 +1,12 @@
+{
+  "id": "2448dcfc-d06f-498b-b1ba-2fe54523da05",
+  "instruction": "Suggest a meal to make using only the following ingredients.",
+  "input": "eggs, spinach, red onion, garlic, tomatoes.",
+  "output": "You can make a garden omelette. Start by whisking the eggs together in a bowl. Heat some oil in a skillet on medium-high flame and add the red onion. Cook until softened, then add the garlic, tomatoes, and spinach. Cook until the spinach begins to wilt, then add the eggs. Cook until the eggs are just set and the top of the omelette looks done. Serve and enjoy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

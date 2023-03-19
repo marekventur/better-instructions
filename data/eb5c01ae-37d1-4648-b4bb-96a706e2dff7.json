@@ -1,0 +1,12 @@
+{
+  "id": "eb5c01ae-37d1-4648-b4bb-96a706e2dff7",
+  "instruction": "Explain what is cross-validation and why is it important?",
+  "input": "",
+  "output": "Cross-validation is a type of model evaluation technique which is used to assess how well a model is performing. It is commonly used in machine learning and statistics to estimate the skill of a model on unseen data. It involves splitting the data into k-folds (usually 5 or 10) and each fold is tested using a different combination of the features from the training set. This helps to identify the most accurate combination of features and avoids overfitting the model. Cross-validation allows for a more accurate prediction of the model performance on unseen test data, which is why it is important for ensuring a higher quality and accuracy of the model.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

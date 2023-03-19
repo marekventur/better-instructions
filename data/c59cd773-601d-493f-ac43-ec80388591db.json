@@ -1,0 +1,12 @@
+{
+  "id": "c59cd773-601d-493f-ac43-ec80388591db",
+  "instruction": "Using the provided ingredients, come up with a recipe.",
+  "input": "Carrots, celery, onions",
+  "output": "Roasted Carrot, Celery and Onion Soup\n\nIngredients:\n- 3 cups chopped carrots\n- 2 cups chopped celery\n- 1 cup chopped onions\n- 1 tablespoon olive oil\n- \u00bd teaspoon garlic powder\n- \u00bd teaspoon dried thyme\n- 4 cups vegetable stock\n- Salt and pepper to taste\n\nInstructions:\n1. Preheat the oven to 350\u00b0F.\n2. In a large bowl, combine the carrots, celery, onions, olive oil, garlic powder and thyme.\n3. Spread the mixture onto a baking sheet or dish and bake for 25 minutes, or until the vegetables are just tender.\n4. Place the roasted vegetables into a large pot and add the vegetable stock.\n5. Simmer for 10 minutes.\n6. Use an immersion blender to puree the soup until smooth.\n7. Season with salt and pepper, to taste.\n8. Serve warm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

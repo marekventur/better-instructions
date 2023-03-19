@@ -1,0 +1,12 @@
+{
+  "id": "36395b7b-1c9e-4fbf-bc2a-4f4d72481258",
+  "instruction": "Explain the differences between two given data structures",
+  "input": "Arrays and linked lists",
+  "output": "Arrays and linked lists are both linear data structures, but they differ in several important ways. Arrays store data items at contiguous memory locations and use indexes to access the items. The items in an array must be of the same type, and can be accessed in constant time. Linked lists, on the other hand, store data items at non-contiguous memory locations and use links to access the items. Linked lists allow for heterogeneous data types and can be traversed in linear time. Additionally, linked lists are more dynamic, as they can grow and shrink easily, while arrays are more static and require some type of resizing if the list gets too large.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

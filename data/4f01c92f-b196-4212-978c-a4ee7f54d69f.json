@@ -1,0 +1,12 @@
+{
+  "id": "4f01c92f-b196-4212-978c-a4ee7f54d69f",
+  "instruction": "Classify an animal based on the physical descriptions given.",
+  "input": "Animal: Elephant\nPhysical Description: Large land animal with a long and flexible trunk and thick, grey skin.",
+  "output": "Elephant is classified as a mammal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

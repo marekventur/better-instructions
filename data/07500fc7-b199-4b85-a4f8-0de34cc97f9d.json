@@ -1,0 +1,12 @@
+{
+  "id": "07500fc7-b199-4b85-a4f8-0de34cc97f9d",
+  "instruction": "Compose an email to a customer acknowledging their complaint and apologize for the inconvenience caused.",
+  "input": "",
+  "output": "Dear Customer,\n\nWe are sorry to hear about your experience with our product. We take customer feedback very seriously, and we sincerely apologize for any inconvenience this has caused you. We are actively looking into the issue and will get back to you with a resolution as soon as possible.\n\nThank you for your time and patience,\n<Your Company Name>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

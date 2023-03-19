@@ -1,0 +1,12 @@
+{
+  "id": "90a04ffd-08dc-4bbd-9510-ca610d64b2dc",
+  "instruction": "Classify the type of point (maximum, minimum, or none) at the critical point of the differential equation y=3x^3 + 10x^2 + 5.",
+  "input": "",
+  "output": "The critical point of the differential equation y=3x^3 + 10x^2 + 5 is x = -1/2, and it is a local minimum.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

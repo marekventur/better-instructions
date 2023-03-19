@@ -1,0 +1,12 @@
+{
+  "id": "fbb7f628-5717-4115-abf4-139c889fbffc",
+  "instruction": "Rank the given list of work skills in order of importance.",
+  "input": "Attention to detail, problem-solving, leadership, teamwork.",
+  "output": "Rank of work skills in order of importance:\n1. Problem-solving \n2. Leadership \n3. Teamwork \n4. Attention to detail",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

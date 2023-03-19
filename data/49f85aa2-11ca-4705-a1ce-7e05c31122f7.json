@@ -1,0 +1,12 @@
+{
+  "id": "49f85aa2-11ca-4705-a1ce-7e05c31122f7",
+  "instruction": "Rewrite the sentence as a yes or no question.",
+  "input": "I completed the task.",
+  "output": "Did you complete the task?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

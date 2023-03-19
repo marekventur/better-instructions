@@ -1,0 +1,12 @@
+{
+  "id": "edec42c8-eac6-43af-8846-2d2f6219e2d4",
+  "instruction": "Combine given sentences in different ways while maintaining the same meaning.",
+  "input": "The train was already late. It was raining cats and dogs.",
+  "output": "The train, already late, was arriving in a downpour of cats and dogs. \nIt was raining cats and dogs, and the train was already late.\nWhilst it was raining cats and dogs, the train arrived late. \nThe train, running late, was further delayed by a downpour of cats and dogs. \nThe train, which was already late, came during a pouring rain of cats and dogs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

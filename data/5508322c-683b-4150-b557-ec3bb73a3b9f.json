@@ -1,0 +1,12 @@
+{
+  "id": "5508322c-683b-4150-b557-ec3bb73a3b9f",
+  "instruction": "How can a GPT language model help with natural language understanding?",
+  "input": "",
+  "output": "A GPT language model can help with natural language understanding tasks by extracting meaning from text through natural language analysis. By predicting the next word or phrase given some previously seen text, a GPT language model is able to extract semantic meaning from sentences and generate a representation of the text which can be used for further analysis. This extracted meaning can then be used for tasks such as information extraction, sentiment analysis, entity extraction, and more. Additionally, a GPT language model can be used to generate easily understandable summaries of text documents and articles, by compressing the text into a shorter, more coherent summary.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

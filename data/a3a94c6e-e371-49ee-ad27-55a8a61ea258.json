@@ -1,0 +1,12 @@
+{
+  "id": "a3a94c6e-e371-49ee-ad27-55a8a61ea258",
+  "instruction": "Capitalize the first letter in each word of the sentence.",
+  "input": "there is no reason for it to be this way",
+  "output": "There Is No Reason For It To Be This Way",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

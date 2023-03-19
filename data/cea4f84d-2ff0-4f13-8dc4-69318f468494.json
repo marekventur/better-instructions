@@ -1,0 +1,12 @@
+{
+  "id": "cea4f84d-2ff0-4f13-8dc4-69318f468494",
+  "instruction": "Explain the concept behind a neural network.",
+  "input": "",
+  "output": "A neural network is a machine learning system that consists of layers of interconnected nodes, or neurons. Each of these layers performs a specific tasks and passes the results to the next layer. The layers in the network combine the results from each layer to produce an overall result. A neural network is trained using a set of input data and has the ability to learn from the data and improve its performance over time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

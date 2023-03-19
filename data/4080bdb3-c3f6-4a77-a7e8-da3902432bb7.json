@@ -1,0 +1,12 @@
+{
+  "id": "4080bdb3-c3f6-4a77-a7e8-da3902432bb7",
+  "instruction": "Construct a SQL query to select the names of customers whose orders were delivered after April 13, 2021",
+  "input": "",
+  "output": "SELECT customer_name \nFROM orders \nWHERE delivery_date > '2021-04-13';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

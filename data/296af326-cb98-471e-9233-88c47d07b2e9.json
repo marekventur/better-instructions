@@ -1,0 +1,12 @@
+{
+  "id": "296af326-cb98-471e-9233-88c47d07b2e9",
+  "instruction": "Classify the given hospital score into grade A, B, C, or D.",
+  "input": "4.7",
+  "output": "Grade A.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

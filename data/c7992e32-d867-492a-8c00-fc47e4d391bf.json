@@ -1,0 +1,12 @@
+{
+  "id": "c7992e32-d867-492a-8c00-fc47e4d391bf",
+  "instruction": "Process the following production log, extract the timestamps and output the difference between the timestamps in minutes.",
+  "input": "Started at 14:30\nCompleted at 16:45",
+  "output": "135 minutes",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

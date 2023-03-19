@@ -1,0 +1,12 @@
+{
+  "id": "d4001d1b-0344-4eff-8a11-bbd2868c2c39",
+  "instruction": "Create a function that takes three parameters - an array, a start index, and an end index - and reverses the order of the elements in the array from the start index to the end index.",
+  "input": "arr = [1, 2, 3, 4, 5, 6], startIndex = 1, endIndex = 4",
+  "output": "def reverse(arr, startIndex, endIndex): \n  arr[startIndex:endIndex + 1] = arr[endIndex:startIndex - 1:-1] \n  return arr \n  \nreverse([1, 2, 3, 4, 5, 6], 1, 4) # Output : [1, 5, 4, 3, 2, 6]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

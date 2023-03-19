@@ -1,0 +1,12 @@
+{
+  "id": "52f71cbc-18de-4060-9937-6d9fce65a468",
+  "instruction": "Add three correct suffixes for the following words.",
+  "input": "",
+  "output": "Sight \n\u2013 sights \n\u2013 sighting \n\u2013 sighted\n\nHate \n\u2013 hated \n\u2013 hater \n\u2013 hating\n\nSing \n\u2013 singer \n\u2013 singing \n\u2013 sung",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

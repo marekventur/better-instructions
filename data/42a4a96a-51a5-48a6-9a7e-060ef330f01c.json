@@ -1,0 +1,12 @@
+{
+  "id": "42a4a96a-51a5-48a6-9a7e-060ef330f01c",
+  "instruction": "Given two lists, combine them into one list.",
+  "input": "List 1: [1, 2, 3], List 2: [4, 5, 6]",
+  "output": "[1, 2, 3, 4, 5, 6]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d0263dc0-2466-47a5-abb4-526f5c6d65ae",
+  "instruction": "Rewrite this sentence to make it more grammatically correct.",
+  "input": "This cake tastes deliciously.",
+  "output": "This cake tastes delicious.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

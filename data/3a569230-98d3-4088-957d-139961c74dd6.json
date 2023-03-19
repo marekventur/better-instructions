@@ -1,0 +1,12 @@
+{
+  "id": "3a569230-98d3-4088-957d-139961c74dd6",
+  "instruction": "Review the given resume and provide one improvement suggestion.",
+  "input": "A resume for a software engineer",
+  "output": "One improvement suggestion would be to use more descriptive language when outlining job experiences. This would help to better demonstrate the candidate's technical skills and how they were utilized in the workplace.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

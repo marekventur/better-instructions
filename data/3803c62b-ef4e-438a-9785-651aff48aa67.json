@@ -1,0 +1,12 @@
+{
+  "id": "3803c62b-ef4e-438a-9785-651aff48aa67",
+  "instruction": "Edit the following sentence: \"The woman enjoyed very much the movie.\"",
+  "input": "The woman really enjoyed the movie.",
+  "output": "The woman really enjoyed the movie a lot.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b649708a-fd75-442b-bfe4-ff935b883e80",
+  "instruction": "Identify the geographical area this dish originates from.",
+  "input": "Sushi",
+  "output": "Sushi originates from Japan.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

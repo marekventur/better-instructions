@@ -1,0 +1,12 @@
+{
+  "id": "249aab05-3457-4e42-b1ae-4e82f0c96af0",
+  "instruction": "Rearrange the order of the sentences so that the paragraph conveys a logical flow of ideas.",
+  "input": "The second path resulting in increased automation is from B2C companies that want to compete with the big players. To do this, B2C companies need to be able to move quickly and provide unmatched customer experiences. AI solutions are a great choice for this as AI systems can adapt quickly to new trends and provide real-time personalized experiences.",
+  "output": "To compete with the big players, B2C companies need to be able to move quickly and provide unmatched customer experiences. AI solutions are a great choice for this as AI systems can adapt quickly to new trends and provide real-time personalized experiences. Thus, this second path leading to increased automation comes from B2C companies.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b7835f1d-9314-4ee7-b378-3b9e73dfe00d",
+  "instruction": "Compare and contrast a top-down and a bottom-up approach.",
+  "input": "",
+  "output": "A top-down approach is a strategy where a problem is broken down into smaller components. Solutions for those components are then derived based on the overall goal. In the top-down approach, the solution is developed based on abstract principles and goals, and the details are filled in later. On the other hand, the bottom-up approach starts with the details and works towards the overall goal. Solutions are developed by building upon the basic elements and constructing the larger concept from them. The top-down approach is often used in organizations or when making policy decisions, while the bottom-up approach is often used in the development of a product or system.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

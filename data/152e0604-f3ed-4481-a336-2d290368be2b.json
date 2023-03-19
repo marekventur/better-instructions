@@ -1,0 +1,12 @@
+{
+  "id": "152e0604-f3ed-4481-a336-2d290368be2b",
+  "instruction": "What is the best way to solve this algebraic equation?",
+  "input": "2x + 10 = 20",
+  "output": "The best way to solve this equation is to subtract 10 from both sides, so it becomes 2x = 10. Then, divide both sides by 2 to get x = 5. Thus, the answer is x = 5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

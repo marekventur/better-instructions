@@ -1,0 +1,12 @@
+{
+  "id": "746794bd-691a-4c81-ab4e-849775d1d1cd",
+  "instruction": "Given the following list of characters, create a list of options for a different way the protagonist can resolve their struggles at the end.",
+  "input": "Protagonist: an ambitious, young lawyer\nAntagonist: the CEO of a large corporation",
+  "output": "The protagonist could resolve their struggles at the end by:\n- Negotiating an agreement with the CEO of the large corporation.\n- Coming up with an innovative solution to their problem.\n- Suing the corporation with support of their colleagues.\n- Joining forces with the CEO to benefit both parties.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

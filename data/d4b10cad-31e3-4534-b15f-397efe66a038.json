@@ -1,0 +1,12 @@
+{
+  "id": "d4b10cad-31e3-4534-b15f-397efe66a038",
+  "instruction": "What is the Ideal Gas Law?",
+  "input": "",
+  "output": "The Ideal Gas Law is an equation of state which describes the properties of an ideal gas. It states that for a given amount of an enclosed gas, the product of its pressure, volume, and temperature is proportional to the number of moles of gas. The equation of the Ideal Gas Law is PV = nRT, where P is pressure, V is volume, n is the number of moles, R is the ideal gas constant, and T is temperature.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

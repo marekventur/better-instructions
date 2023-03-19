@@ -1,0 +1,12 @@
+{
+  "id": "bf07246b-4e98-4b5a-a51b-06c5e5ab914e",
+  "instruction": "Find any two characters in the story who have the same behavior.",
+  "input": "Once upon a time there was a king who liked to listen to music. He had a loyal servant who was very good at playing the guitar. The king liked him very much.\nOne day the king decided to take a walk in the forest and take some of his servants along. One of them was the loyal servant who had been playing the guitar.",
+  "output": "The king and the loyal servant both enjoy music and are loyal to each other. They both take walks in the forest and accompany each other.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

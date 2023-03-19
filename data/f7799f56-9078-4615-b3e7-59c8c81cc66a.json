@@ -1,0 +1,12 @@
+{
+  "id": "f7799f56-9078-4615-b3e7-59c8c81cc66a",
+  "instruction": "Edit the following sentence so it is clear and concise",
+  "input": "The teacher who was speaking was from England, which is located in Europe.",
+  "output": "The teacher from England, in Europe, was speaking.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

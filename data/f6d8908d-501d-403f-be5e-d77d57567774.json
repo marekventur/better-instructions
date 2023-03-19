@@ -1,0 +1,12 @@
+{
+  "id": "f6d8908d-501d-403f-be5e-d77d57567774",
+  "instruction": "Cut the following sentence into two, keeping the meaning intact.",
+  "input": "He came out of the house and suddenly remembered he had forgotten to bring his wallet.",
+  "output": "He came out of the house and suddenly remembered. He had forgotten to bring his wallet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

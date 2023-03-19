@@ -1,0 +1,12 @@
+{
+  "id": "bfddcc97-5be8-478e-8b63-8704538420e5",
+  "instruction": "Create a recipe for a peanut butter chocolate chip cookie.",
+  "input": "Ingredients: \n- 1/2 cup butter\n- 1/2 cup peanut butter\n- 1/2 cup white sugar\n- 1/2 cup brown sugar\n- 1 egg \n- 1 1/2 cup all-purpose flour\n- 1 teaspoon baking soda\n- 1 teaspoon baking powder\n- pinch of salt\n- 1 teaspoon vanilla extract\n- 1/2 cup semi-sweet chocolate chips",
+  "output": "Peanut Butter Chocolate Chip Cookie Recipe:\n\n1. Preheat oven to 350\u00b0F (175\u00b0C).\n\n2. Cream the butter, peanut butter, white sugar and brown sugar in a large bowl until smooth.\n\n3. Beat in the egg.\n\n4. Add in the flour, baking soda, baking powder, salt and vanilla extract and mix until a dough forms.\n\n5. Fold in the chocolate chips.\n\n6. Drop spoonfuls of dough onto an ungreased baking sheet.\n\n7. Bake for 12 minutes, or until golden brown.\n\n8. Let cool for 5 minutes before transferring to a cooling rack.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

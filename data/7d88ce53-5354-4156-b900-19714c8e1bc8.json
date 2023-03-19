@@ -1,0 +1,12 @@
+{
+  "id": "7d88ce53-5354-4156-b900-19714c8e1bc8",
+  "instruction": "Specify technical skills that are required for Data Scientist role.",
+  "input": "",
+  "output": "Data Scientists should be well-versed in programming languages such as Python, R, and/or SQL. They should also have expertise in technologies such as Apache Hadoop and/or Spark for data manipulation, storage, and analysis. Additionally, data scientists should have expertise in machine learning and AI technologies such as deep learning, natural language processing, and computer vision. Finally, data scientists should be comfortable with the various data visualization and reporting tools available.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

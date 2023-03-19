@@ -1,0 +1,12 @@
+{
+  "id": "056188a2-0879-418b-8fea-b34787da29d2",
+  "instruction": "Given the input, describe the setting of the scene.",
+  "input": "The character is walking through a lush forest.",
+  "output": "The character is walking through a lush, green forest filled with tall trees, vibrant plants, and the soft rustling of wildlife. Sunlight filters through the canopy above, creating dappled shadows that dance and flicker across the grounds. The air is alive and fresh, scented with the sweet aroma of wildflowers and pine needles. Birds call and sing from the treetops, creating a peaceful atmosphere.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

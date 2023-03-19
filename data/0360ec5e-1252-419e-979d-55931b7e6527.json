@@ -1,0 +1,12 @@
+{
+  "id": "0360ec5e-1252-419e-979d-55931b7e6527",
+  "instruction": "Recount the following story in the form of a haiku.",
+  "input": "Story:\n\nThere was a farmer who had a donkey. The donkey fell down into a well. The farmer thought that the donkey was dead, so he decided to bury it in the well and cover it with dirt.",
+  "output": "Farmer and donkey, one\nDust filled well, hopes were gone\nBut they saved the day",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

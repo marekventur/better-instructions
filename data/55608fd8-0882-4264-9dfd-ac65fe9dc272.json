@@ -1,0 +1,12 @@
+{
+  "id": "55608fd8-0882-4264-9dfd-ac65fe9dc272",
+  "instruction": "Evaluate this answer to the question.",
+  "input": "What is the purpose of stock buybacks? \n\nAnswer:\nStock buybacks allow companies to increase their earnings per share.",
+  "output": "This answer is correct. Stock buybacks allow companies to use available funds to repurchase their own shares, which reduces the number of shares circualting and results in an increase in the earnings per share. This can be a useful tool for companies to increase shareholder value.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

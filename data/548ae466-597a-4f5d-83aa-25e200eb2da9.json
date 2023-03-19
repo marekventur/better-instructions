@@ -1,0 +1,12 @@
+{
+  "id": "548ae466-597a-4f5d-83aa-25e200eb2da9",
+  "instruction": "Read the sentence and answer if the pronoun is an objective, possessive, or reflexive pronoun.",
+  "input": "He saw his reflection in the mirror.",
+  "output": "Possessive pronoun.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

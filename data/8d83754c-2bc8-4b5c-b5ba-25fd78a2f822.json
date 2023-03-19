@@ -1,0 +1,12 @@
+{
+  "id": "8d83754c-2bc8-4b5c-b5ba-25fd78a2f822",
+  "instruction": "Find the synonym of the given word from the option list.",
+  "input": "Grim",
+  "output": "Frightful, dire, horrible, dreadful, terrifying",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

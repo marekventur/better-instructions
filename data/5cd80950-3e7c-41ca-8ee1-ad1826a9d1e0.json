@@ -1,0 +1,12 @@
+{
+  "id": "5cd80950-3e7c-41ca-8ee1-ad1826a9d1e0",
+  "instruction": "Refer to the given list and calculate the average.",
+  "input": "[5, 10, 15, 20]",
+  "output": "The average is 12.5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

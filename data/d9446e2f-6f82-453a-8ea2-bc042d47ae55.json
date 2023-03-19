@@ -1,0 +1,12 @@
+{
+  "id": "d9446e2f-6f82-453a-8ea2-bc042d47ae55",
+  "instruction": "Reverse the following string without using any loops.",
+  "input": "\"Hello World\"",
+  "output": "\"dlroW olleH\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

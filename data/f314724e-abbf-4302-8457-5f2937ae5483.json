@@ -1,0 +1,12 @@
+{
+  "id": "f314724e-abbf-4302-8457-5f2937ae5483",
+  "instruction": "Analyze the given sentence and tell if the speaker is being sarcastic.",
+  "input": "I'm so excited to be awake at 5 am.",
+  "output": "Yes, the speaker is being sarcastic.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

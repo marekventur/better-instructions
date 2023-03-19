@@ -1,0 +1,12 @@
+{
+  "id": "f2806498-1067-4c7a-96c1-faaf6f37beb1",
+  "instruction": "Compose an e-mail to a professor submitting the final version of an assignment.",
+  "input": "Dear Professor Smith,",
+  "output": "Dear Professor Smith,\n\nI am writing to submit my final version of the assignment for your course, entitled \"The Effects of Climate Change on Human Society\". I have taken into consideration all the feedback you provided during my previous submissions and I believe that the final version accurately reflects the guidelines you have set out.\n\nI hope you will enjoy reading this last version, and I look forward to hearing your thoughts.\n\nThank you for your time and your support throughout this semester.\n\nSincerely, \n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

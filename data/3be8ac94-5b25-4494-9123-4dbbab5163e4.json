@@ -1,0 +1,12 @@
+{
+  "id": "3be8ac94-5b25-4494-9123-4dbbab5163e4",
+  "instruction": "What is the formula for the acceleration due to gravity?",
+  "input": "",
+  "output": "The formula for the acceleration due to gravity is g = G * m / r2, where G is the gravitational constant, m is the mass of the object, and r is the distance between the object and the center of the object being gravitationally attracted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

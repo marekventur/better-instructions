@@ -1,0 +1,12 @@
+{
+  "id": "552507b0-45d2-43e6-8e0a-31db56fa2fee",
+  "instruction": "Perform the appropriate data cleaning technique on the given data set.",
+  "input": "Data set with columns \"Country\", \"City\", \"Population\"",
+  "output": "The appropriate data cleaning technique to perform on the given dataset is to check for missing and incorrect data. Missing data can be identified by looking for any empty cells in the data set. Incorrect data can be identified by checking that the data is valid, such as making sure the \"Country\" column only contains valid country names. Once any invalid or missing data is identified, it should be replaced or removed, as appropriate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

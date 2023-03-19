@@ -1,0 +1,12 @@
+{
+  "id": "8341b647-3fa0-428b-a40e-4f65f04639b7",
+  "instruction": "Find the corresponding ISBN number for a book.",
+  "input": "Book title: The Great Gatsby",
+  "output": "The ISBN number for The Great Gatsby is 9780743273565.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

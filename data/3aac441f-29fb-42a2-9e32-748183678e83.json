@@ -1,0 +1,12 @@
+{
+  "id": "3aac441f-29fb-42a2-9e32-748183678e83",
+  "instruction": "Find the area of a rectangle given the following lengths.",
+  "input": "Length = 10 cm, Width = 5 cm",
+  "output": "The area of the rectangle is 50 cm2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

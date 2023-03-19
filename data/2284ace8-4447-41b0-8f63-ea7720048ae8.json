@@ -1,0 +1,12 @@
+{
+  "id": "2284ace8-4447-41b0-8f63-ea7720048ae8",
+  "instruction": "Generate a list of five books that John should read, based on the given description.",
+  "input": "John is a 15 year old high school student who loves to read fantasy novels.",
+  "output": "1. A Court of Thorns and Roses by Sarah J. Maas\n2. The Alchemists of Loom by Elise Kova\n3. The Cruel Prince by Holly Black\n4. Children of Blood and Bone by Tomi Adeyemi\n5. The Way of Kings by Brandon Sanderson",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

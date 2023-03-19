@@ -1,0 +1,12 @@
+{
+  "id": "c1a0a3a0-fee0-4eeb-8d85-025706c90694",
+  "instruction": "Describe the technology used in online banking.",
+  "input": "",
+  "output": "Online banking typically uses secure encryption technologies such as two-factor authentication, data backups, and firewalls to protect users\u2019 data and transactions. It also utilizes non-traditional authentication techniques such as retina scans and voice recognition to provide an additional layer of security. Additionally, online banking is often conducted over secure networks and websites, employing advanced password protection and other measures to guard against cyber attacks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "641803f7-8b96-485f-ba65-d4ad99d6f3f8",
+  "instruction": "Guess the age of this person.",
+  "input": "She has shoulder-length hair and faint wrinkles around her eyes.",
+  "output": "Based on her physical appearance, she is likely between 35 and 50 years old.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

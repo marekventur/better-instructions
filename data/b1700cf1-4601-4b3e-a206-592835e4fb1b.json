@@ -1,0 +1,12 @@
+{
+  "id": "b1700cf1-4601-4b3e-a206-592835e4fb1b",
+  "instruction": "Aim to reduce the following sentence without changing its meaning",
+  "input": "When he came in, he woke everyone up",
+  "output": "He woke everyone on entering.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

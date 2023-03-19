@@ -1,0 +1,12 @@
+{
+  "id": "d8e40af3-9f6b-42b4-8679-e5142d4a2e5a",
+  "instruction": "Generate a response to this customer complaint.",
+  "input": "Customer: I'm not happy with the quality of the product I received.",
+  "output": "I'm sorry to hear you're not satisfied with the product. We take customer satisfaction very seriously and we want to make sure you're happy with your purchase. We would love to make it right by offering an exchange or a refund if you are not satisfied. Please let me know how you would like to proceed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

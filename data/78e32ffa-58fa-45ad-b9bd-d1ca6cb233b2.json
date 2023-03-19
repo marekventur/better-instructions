@@ -1,0 +1,12 @@
+{
+  "id": "78e32ffa-58fa-45ad-b9bd-d1ca6cb233b2",
+  "instruction": "Design a system for managing employees' time off requests.",
+  "input": "",
+  "output": "A system for managing employees' time off requests should have the ability to automatically track each request and keep a record of all approved and denied requests. Employees should also be able to submit requests through the system and check their own requests for status updates. Furthermore, managers should be able to have an overview of their team's time off requests and could be notified through the system whenever a request is submitted. The system should also provide the ability to set rules for requesting time off and automatically deny requests that do not adhere to company guidelines.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

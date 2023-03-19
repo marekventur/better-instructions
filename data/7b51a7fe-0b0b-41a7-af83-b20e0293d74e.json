@@ -1,0 +1,12 @@
+{
+  "id": "7b51a7fe-0b0b-41a7-af83-b20e0293d74e",
+  "instruction": "Complete the following code snippet with the necessary pieces.",
+  "input": "# Complete the following code snippet\n\ndef process_data(data):\n    for x in data:\n        _______________\n        _______________\n        _______________",
+  "output": "# Complete the following code snippet\n\ndef process_data(data):\n    for x in data:\n        output = process(x)\n        store(output)\n        print(output)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

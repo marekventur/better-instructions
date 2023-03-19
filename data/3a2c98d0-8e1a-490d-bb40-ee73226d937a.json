@@ -1,0 +1,12 @@
+{
+  "id": "3a2c98d0-8e1a-490d-bb40-ee73226d937a",
+  "instruction": "Determine the product of 3x + 5y",
+  "input": "x = 2, y = 3",
+  "output": "The product of 3x + 5y is 21, where x = 2 and y = 3.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

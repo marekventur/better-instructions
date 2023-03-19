@@ -1,0 +1,12 @@
+{
+  "id": "13a83075-cb6b-4a15-a74c-fc108fdad946",
+  "instruction": "Resolve the pronoun ambiguity of the given sentence",
+  "input": "Jack drove his car to school",
+  "output": "Jack drove his own car to school.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

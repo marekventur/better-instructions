@@ -1,0 +1,12 @@
+{
+  "id": "48980c71-497d-4465-b399-492833aeb15b",
+  "instruction": "In the given sentence, highlight the parts of speech containing the word \u2018happy\u2019.",
+  "input": "Sentence: She was so happy and relieved to find a new job.",
+  "output": "She was so [Adjective] and [Adjective] to find a new job.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

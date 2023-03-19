@@ -1,0 +1,12 @@
+{
+  "id": "22efc898-8339-49fc-94fc-58b996db37ae",
+  "instruction": "Based on the following data, predict the closure price of a stock tomorrow.",
+  "input": "Today's stock price: 8.50",
+  "output": "The predicted closure price of the stock tomorrow is 8.58.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

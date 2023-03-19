@@ -1,0 +1,12 @@
+{
+  "id": "1d9cae7d-a416-4174-bcd3-9cd63d057d4f",
+  "instruction": "Calculate the following math equation.",
+  "input": "7+10*2",
+  "output": "27",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

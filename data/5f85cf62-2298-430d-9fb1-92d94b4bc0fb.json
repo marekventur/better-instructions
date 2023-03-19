@@ -1,0 +1,12 @@
+{
+  "id": "5f85cf62-2298-430d-9fb1-92d94b4bc0fb",
+  "instruction": "Generate a list of countries and their respective flags.",
+  "input": "",
+  "output": "United States - flag with red, white and blue stripes; \n\nUnited Kingdom - flag with red, white and blue stripes and a Union Jack at the top left corner; \n\nFrance - flag with a blue, white and red vertical tricolour;\n\nGermany - flag with a black, red and gold tricolour;\n\nChina - flag with a red field with five golden stars;\n\nJapan - flag with a red disc in the centre of white;\n\nIndia - flag with a horizontal tricolour of orange, white and green;\n\nCanada - flag with a white base, with a red maple leaf in the centre;\n\nAustralia - flag with a blue base, with a white Commonwealth Star and six white pointed stars;\n\nRussia - flag with three horizontal bands of colors, white, blue and red.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

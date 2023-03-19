@@ -1,0 +1,12 @@
+{
+  "id": "7aea7579-4c6e-48eb-8914-c804cf32b609",
+  "instruction": "Generate a set of instructions to assemble the given object.",
+  "input": "Lego set",
+  "output": "- Carefully follow the instructions in the LEGO set booklet. \n- Sort the pieces according to colors and shapes. \n- Referencing the instructions, start assembling the pieces. \n- Regularly check that all the pieces are secured in place.\n- Continue assembling until all pieces are connected.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

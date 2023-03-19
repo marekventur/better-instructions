@@ -1,0 +1,12 @@
+{
+  "id": "93e9f732-2dcb-4327-85ca-a884b853d8f0",
+  "instruction": "Rank the following basketball players according to their points scored",
+  "input": "Michael Jordan, LeBron James, Kobe Bryant",
+  "output": "Kobe Bryant, LeBron James, Michael Jordan.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

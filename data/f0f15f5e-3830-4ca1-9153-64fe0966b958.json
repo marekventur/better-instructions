@@ -1,0 +1,12 @@
+{
+  "id": "f0f15f5e-3830-4ca1-9153-64fe0966b958",
+  "instruction": "Compare the two given phenomena in 24 words or less.",
+  "input": "Studying | Going to the movies",
+  "output": "Studying requires hard work and dedication, whereas going to the movies is a fun way to relax and enjoy yourself.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

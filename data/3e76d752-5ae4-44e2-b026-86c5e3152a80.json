@@ -1,0 +1,12 @@
+{
+  "id": "3e76d752-5ae4-44e2-b026-86c5e3152a80",
+  "instruction": "Explain how neural networks learn.",
+  "input": "",
+  "output": "Neural networks learn by adjusting weights and biases of the connections between its neurons. This adjustment is based on a comparison between the expected output (based on training data) and the actual output for a given input. The weights and biases are adjusted based on this comparison and the overall process is referred to as training. During training, the neural network is exposed to various inputs and their known outputs. Each time the neural network gets an input, it modifies its weights and bias values to try and get as close as possible to the expected output. The weights and bias values are updated after each iteration of the training process until the network is able to accurately predict the outcomes for inputs it has never seen before.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

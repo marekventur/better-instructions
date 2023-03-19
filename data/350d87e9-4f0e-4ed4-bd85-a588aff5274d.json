@@ -1,0 +1,12 @@
+{
+  "id": "350d87e9-4f0e-4ed4-bd85-a588aff5274d",
+  "instruction": "Remove the given noun from the text",
+  "input": "The orange juice was too sour",
+  "output": "The juice was too sour",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

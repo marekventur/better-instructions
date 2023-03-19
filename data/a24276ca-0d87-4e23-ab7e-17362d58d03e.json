@@ -1,0 +1,12 @@
+{
+  "id": "a24276ca-0d87-4e23-ab7e-17362d58d03e",
+  "instruction": "Create an algorithm for detecting plagiarism in a document.",
+  "input": "",
+  "output": "1. Accept a document as input\n2. Convert the document into a set of tokens\n3. Create a hash of each token\n4. Compare the hashes with a database of known plagiarized content\n5. If any of the hash matches, flag the document as plagiarized \n6. If none of the hashes match, the document is considered to be non-plagiarized",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

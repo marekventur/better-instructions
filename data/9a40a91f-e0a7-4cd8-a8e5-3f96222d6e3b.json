@@ -1,0 +1,12 @@
+{
+  "id": "9a40a91f-e0a7-4cd8-a8e5-3f96222d6e3b",
+  "instruction": "Rewrite the sentence with better lexical choice and verb tense.",
+  "input": "He had went to the store.",
+  "output": "He had gone to the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dd50321c-b1dc-46d7-ac70-104884fe5996",
+  "instruction": "Compose a script of a customer service call using the given input.",
+  "input": "Company: ABC, Customer: Jane",
+  "output": "Agent: Hi Jane, this is ABC's customer support team. How can I help you today?\n\nJane: I'm having trouble using my account on your website.\n\nAgent: Are you using the correct login credentials?\n\nJane: Yes, I'm sure they're correct.\n\nAgent: Are you having any trouble connecting to the internet?\n\nJane: No, I'm connected.\n\nAgent: Okay, let me see if I can help. Can you please try accessing the website again and tell me if you get the same error? \n\nJane: Sure, I'll try.\n\nAgent: Great. Let me know how it goes. Is there anything else I can help you with? \n\nJane: No that's all. Thanks for your help.\n\nAgent: Of course, you're welcome. Have a great day!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

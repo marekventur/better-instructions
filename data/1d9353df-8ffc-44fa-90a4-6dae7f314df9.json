@@ -1,0 +1,12 @@
+{
+  "id": "1d9353df-8ffc-44fa-90a4-6dae7f314df9",
+  "instruction": "Edit the following sentence (highlight changes in bold)",
+  "input": "We use computers for gaming and entertainment",
+  "output": "We use computers for gaming, entertainment, and work.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

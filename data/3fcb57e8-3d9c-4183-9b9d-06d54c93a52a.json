@@ -1,0 +1,12 @@
+{
+  "id": "3fcb57e8-3d9c-4183-9b9d-06d54c93a52a",
+  "instruction": "Provide a rationale for why you think the given statement is false.",
+  "input": "Smoke detectors are not effective in cases of fire.",
+  "output": "Smoke detectors are actually highly effective in cases of fire as they can detect smoke and heat, sound an alarm, and alert people in the vicinity to the danger. They can provide an early warning, giving people enough time to evacuate the building and contact the fire department. The detection and alerting capabilities of smoke detectors thus makes them an invaluable tool for preventing the spread of a fire.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

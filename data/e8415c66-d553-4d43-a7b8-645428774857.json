@@ -1,0 +1,12 @@
+{
+  "id": "e8415c66-d553-4d43-a7b8-645428774857",
+  "instruction": "Suggest a recipe for vegan crepes",
+  "input": "",
+  "output": "Vegan Crepes: \nIngredients:\n\u2022 2 cups all-purpose flour \n\u2022 2 cups almond milk \n\u2022 2 tablespoons white sugar \n\u2022 1 teaspoon vanilla extract \n\u2022 2 tablespoons olive oil  \n\u2022 \u00bd teaspoon salt \n\nInstructions:\n1. In a blender or food processor, combine all ingredients and blend until smooth.\n2. Heat a lightly oiled crepe pan over medium-high heat.\n3. Pour a small amount of the batter into the pan and spread it to form a thin layer. \n4. Cook the crepe for 1-2 minutes, until the edges start to crisp and the bottom begins to lightly brown.\n5. Flip the crepe and cook for another 1-2 minutes until the other side begins to brown. \n6. Serve warm with your favorite toppings!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

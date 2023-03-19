@@ -1,0 +1,12 @@
+{
+  "id": "a31a7ee1-ef50-4a0c-bac8-9227e95d5acc",
+  "instruction": "Given a list of words, find the odd one out.",
+  "input": "dog, cat, plane",
+  "output": "Plane is the odd one out.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

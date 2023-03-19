@@ -1,0 +1,12 @@
+{
+  "id": "93acb2a2-967d-418f-aa86-1d875ebdea9b",
+  "instruction": "Given a subject and an object, generate a metaphor to describe their relationship.",
+  "input": "Subject: A teacher \nObject: A student",
+  "output": "A teacher is like a lighthouse for students, lighting the way to knowledge, understanding and success.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

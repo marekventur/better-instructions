@@ -1,0 +1,12 @@
+{
+  "id": "fc12073c-273d-4daa-8f40-4f228e2a7535",
+  "instruction": "Classify the following articles according to their topics.",
+  "input": "Article 1: \n\"China is set to launch its first manned space mission.\"\nArticle 2: \n\"Researchers are investigating potential treatments for Parkinson's disease.\"",
+  "output": "Article 1: Space\nArticle 2: Medicine & Health Science",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

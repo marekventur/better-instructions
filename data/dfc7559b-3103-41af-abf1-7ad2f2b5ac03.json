@@ -1,0 +1,12 @@
+{
+  "id": "dfc7559b-3103-41af-abf1-7ad2f2b5ac03",
+  "instruction": "Classify the following poem as a free verse, sonnet, or epic.",
+  "input": "Roses are red,\nViolets are blue.\nThe sun is shining,\nBut I am too.",
+  "output": "Free Verse.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

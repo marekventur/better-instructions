@@ -1,0 +1,12 @@
+{
+  "id": "4491e560-c596-4c04-9376-21650243bd68",
+  "instruction": "Given a description, classify whether it is a mammal or not.\nOutput: \"Mammal\" or \"Not a Mammal\"",
+  "input": "A small black and white bird with a long beak",
+  "output": "Not a Mammal",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

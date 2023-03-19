@@ -1,0 +1,12 @@
+{
+  "id": "e76aa2c5-48ae-4d3a-949b-610da9ea0caa",
+  "instruction": "Are these two words related? Note down the relation if possible",
+  "input": "Deduction & Logic",
+  "output": "Yes, deduction and logic are related. Deduction is a logical process of reasoning which involves drawing conclusions based on previously known information.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

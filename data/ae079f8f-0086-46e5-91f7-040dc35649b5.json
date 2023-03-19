@@ -1,0 +1,12 @@
+{
+  "id": "ae079f8f-0086-46e5-91f7-040dc35649b5",
+  "instruction": "Edit the following passage to eliminate grammar mistakes.",
+  "input": "The man look happy, were it not for the rain clouds.",
+  "output": "The man looked happy, were it not for the rain clouds.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

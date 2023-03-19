@@ -1,0 +1,12 @@
+{
+  "id": "03b2f022-7a91-42c9-8883-4dfe7397aa6e",
+  "instruction": "Choose the best password for a given service.",
+  "input": "Online banking",
+  "output": "The best password for online banking is one that is long and complex, contains a mix of letters, uppercase and lowercase letters, numbers, and symbols, and is unique to the service. It should also be changed regularly to help ensure the highest level of security.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

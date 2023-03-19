@@ -1,0 +1,12 @@
+{
+  "id": "bb1025fb-a742-4d9b-b113-c20499d44e5c",
+  "instruction": "Generate a one sentence summary for a given article.",
+  "input": "Article:  People living in poverty often face extreme financial hardship, lack of access to basic services, and few opportunities for upward mobility.",
+  "output": "Poverty creates a cycle of unequal access to resources, jeopardizing the chances for a better life for those who experience it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

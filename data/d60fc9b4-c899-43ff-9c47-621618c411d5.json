@@ -1,0 +1,12 @@
+{
+  "id": "d60fc9b4-c899-43ff-9c47-621618c411d5",
+  "instruction": "Explain the concept of the blockchain.",
+  "input": "",
+  "output": "The blockchain is a distributed ledger technology that is used to store and record transactions. It is secured using a network of computers distributed around the world, which makes it both secure and decentralized as there is no central authority controlling the data stored in it. Each \"block\" within the blockchain contains a unique record of a transaction or event that is recorded to the blockchain in a cryptographically secure manner. The blockchain is immutable, meaning that once a transaction is recorded, it cannot be altered or deleted, providing a permanent and secure record of information.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

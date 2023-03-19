@@ -1,0 +1,12 @@
+{
+  "id": "45b51d23-8918-4415-8892-c67ba12de6af",
+  "instruction": "Generate a travel itinerary for a three-day city trip to London.",
+  "input": "",
+  "output": "Day 1: \n- Visit the British Museum\n- Head over to the Tower Bridge and take pictures\n- Shop at the famous Portobello Market\n- Catch a show at the West End Theatre\n\nDay 2: \n- Explore Westminster and take pictures of Big Ben, Westminster Abbey and the Houses of Parliament\n- Take a river cruise along the Thames\n- Spend the afternoon in one of the many parks, like Hyde Park\n\nDay 3: \n- Visit Shakespeare\u2019s Globe Theater\n- Take a pub-crawl in Covent Garden\n- Stop by Buckingham Palace and take pictures\n- Go on a London Eye ride",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

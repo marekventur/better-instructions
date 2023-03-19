@@ -1,0 +1,12 @@
+{
+  "id": "12ce156d-9e16-46a8-9c22-030b33eba566",
+  "instruction": "Write an algorithm that checks if the given number is prime.",
+  "input": "7",
+  "output": "The algorithm should check for prime numbers as follows:\n\nStep 1: Create a loop that iterates over all numbers between 2 and the given number.- \nStep 2: For each number, check if the given number is evenly divisible by it.\nStep 3: If the given number is evenly divisible by any number, then it is not a prime number.\nStep 4: If the given number is not divisible by any number, then it is a prime number.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

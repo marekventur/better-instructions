@@ -1,0 +1,12 @@
+{
+  "id": "5b89c914-7798-49ca-9bb3-5ad2ca262af3",
+  "instruction": "Given the sentence, edit the pronoun and make it gender-neutral.",
+  "input": "He is one of the most renowned researchers in the field.",
+  "output": "They are one of the most renowned researchers in the field.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

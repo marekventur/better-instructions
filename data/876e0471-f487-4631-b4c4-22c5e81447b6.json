@@ -1,0 +1,12 @@
+{
+  "id": "876e0471-f487-4631-b4c4-22c5e81447b6",
+  "instruction": "Edit the following text and provide a logical paragraph.",
+  "input": "Animals cats have fur that is soft and silky. Animals cats have",
+  "output": "Animals such as cats have fur that is soft and silky. They use this fur to protect themselves from the cold, as well as to help them camouflage in their environment. Cats also have sharp claws and teeth that they use to hunt and defend themselves. Their sharp eyesight and acute hearing allows them to detect and stalk prey, as well as detect any potential threats. Cats have evolved to be highly efficient and adaptable to their environment, which often helps them to thrive in a variety of habitats.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

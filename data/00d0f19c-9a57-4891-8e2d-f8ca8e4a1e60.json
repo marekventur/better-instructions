@@ -1,0 +1,12 @@
+{
+  "id": "00d0f19c-9a57-4891-8e2d-f8ca8e4a1e60",
+  "instruction": "Language models often err in understanding the difference between 'your' and 'you're'. Therefore, given the sentence below, edit it to resolve this ambiguity.",
+  "input": "Your wrong about that",
+  "output": "You're wrong about that.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

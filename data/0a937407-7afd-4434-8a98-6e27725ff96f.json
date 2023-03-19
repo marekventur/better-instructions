@@ -1,0 +1,12 @@
+{
+  "id": "0a937407-7afd-4434-8a98-6e27725ff96f",
+  "instruction": "Single out the names from the following sentence.",
+  "input": "My brother Tom and sister Jane are coming over to visit.",
+  "output": "Tom\nJane",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

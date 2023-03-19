@@ -1,0 +1,12 @@
+{
+  "id": "e435f39b-a68b-4da9-b45a-c1759e5b1eec",
+  "instruction": "Create a dating profile using the given information",
+  "input": "Name: Tim\nAge: 28\nOccupation: Teacher\nInterests: Art, music, cooking",
+  "output": "Hi there! I'm Tim, a 28 year old teacher with a passion for art, music, and cooking. I'm looking to connect with someone who loves to learn and explore new experiences. I'm a big believer in the power of connection and communication, and I'm always searching for someone to share my passions with. In my free time, I love listening to music, exploring art galleries and spending time in the kitchen trying new recipes. I'm looking forward to getting to know someone special and finding out what we have in common.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

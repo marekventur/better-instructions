@@ -1,0 +1,12 @@
+{
+  "id": "c3646c48-608f-4034-bcab-e562ca196160",
+  "instruction": "Provide a solution for solving a Rubik's Cube.",
+  "input": "",
+  "output": "The most common method for solving a Rubik's cube is the layer-by-layer method. This method involves solving the cube in layers, starting with the top layer and then the middle layer, and then the bottom layer. First, you should get the top layer pieces into their proper positions. Then, you should solve the middle layer by moving the appropriate pieces into their proper positions. Finally, you should solve the bottom layer by making just a few turns. Once you have completed the layer-by-layer method, you should have a completely solved cube.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

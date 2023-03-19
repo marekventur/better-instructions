@@ -1,0 +1,12 @@
+{
+  "id": "338a753a-d899-4aec-b788-ea5fcadbf355",
+  "instruction": "Order the following 3 numbers from biggest to smallest.",
+  "input": "2, 5, 9",
+  "output": "9, 5, 2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

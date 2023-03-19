@@ -1,0 +1,12 @@
+{
+  "id": "30574eac-dfc0-4624-9ab2-472054c14097",
+  "instruction": "Convert the negative number to a positive number.",
+  "input": "-32",
+  "output": "32",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

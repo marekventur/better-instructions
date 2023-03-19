@@ -1,0 +1,12 @@
+{
+  "id": "8b98e840-f550-41ca-8a32-ceb02b34e309",
+  "instruction": "Rewrite the given poem so that it rhymes",
+  "input": "This world was far from perfect,\nAs the shadows have shown.\nThe wickedness won\u2019t relent,\nAs the risks have grown.",
+  "output": "This world was far from fair,\nAs the shadows did declare.\nThe wickedness does ensnare,\nWith risks so dire.\nThe darkness creeps around,\nIt can never be found.\nThe truth will never astound,\nTill it's permanently bound.\nHope is lost in the night,\nAs it fades out of sight.\nBut one day it'll be alright,\nAnd the darkness will take flight.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

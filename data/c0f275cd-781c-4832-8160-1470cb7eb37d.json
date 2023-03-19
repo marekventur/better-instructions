@@ -1,0 +1,12 @@
+{
+  "id": "c0f275cd-781c-4832-8160-1470cb7eb37d",
+  "instruction": "Create a grocery list for a week's worth of meals.",
+  "input": "Meals for the week: Spaghetti, tacos, grilled chicken, stir-fry",
+  "output": "Grocery list: \n\n- Spaghetti: Onion, garlic, ground beef, canned tomatoes, oregano \n- Tacos: ground beef, taco shells, lettuce, cheese, tomatoes, onion, avocado \n- Grilled chicken: chicken breasts or thighs, marinade, salt, pepper \n- Stir-Fry: vegetables (broccoli, carrots, snow peas, bell pepper), ginger, garlic, soy sauce, cooked rice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

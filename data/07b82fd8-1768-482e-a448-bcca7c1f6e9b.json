@@ -1,0 +1,12 @@
+{
+  "id": "07b82fd8-1768-482e-a448-bcca7c1f6e9b",
+  "instruction": "Select and sort the following numbers from largest to smallest.",
+  "input": "9.6, -13.4, 0",
+  "output": "9.6, 0, -13.4",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

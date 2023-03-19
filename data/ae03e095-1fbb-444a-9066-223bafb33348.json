@@ -1,0 +1,12 @@
+{
+  "id": "ae03e095-1fbb-444a-9066-223bafb33348",
+  "instruction": "Change the following sentence from active to passive voice: \"I changed the plan\"",
+  "input": "I changed the plan",
+  "output": "The plan was changed by me.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

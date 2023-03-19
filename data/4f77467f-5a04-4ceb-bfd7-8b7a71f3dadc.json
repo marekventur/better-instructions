@@ -1,0 +1,12 @@
+{
+  "id": "4f77467f-5a04-4ceb-bfd7-8b7a71f3dadc",
+  "instruction": "Given a sentence with a missing word, supply the word that best fits.",
+  "input": "She was_____ at the results.",
+  "output": "shocked",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

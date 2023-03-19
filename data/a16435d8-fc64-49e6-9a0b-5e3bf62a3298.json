@@ -1,0 +1,12 @@
+{
+  "id": "a16435d8-fc64-49e6-9a0b-5e3bf62a3298",
+  "instruction": "Convert the following latitude and longitude coordinates into an address",
+  "input": "Latitude: 38.8895, Longitude: -77.0352",
+  "output": "1600 Pennsylvania Ave NW, Washington, DC 20500",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

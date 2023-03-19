@@ -1,0 +1,12 @@
+{
+  "id": "888f6a14-21e8-47db-942e-26837e2afe36",
+  "instruction": "Add a verb to make this sentence complete.",
+  "input": "John",
+  "output": "John walked.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1f003ad3-6c73-49d1-ad4c-74ae9c70210d",
+  "instruction": "Specify the ideal temperature for a given animal species.",
+  "input": "Animal Species: Bald Eagles",
+  "output": "Bald Eagles prefer temperatures around -30\u00b0 Celsius, but can survive temperatures as low as -50\u00b0 Celsius in the winter. During their nesting season, bald eagles prefer temperatures of 18\u00b0 Celsius or higher.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

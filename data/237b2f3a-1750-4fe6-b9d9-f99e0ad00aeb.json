@@ -1,0 +1,12 @@
+{
+  "id": "237b2f3a-1750-4fe6-b9d9-f99e0ad00aeb",
+  "instruction": "Suggest solutions to the problem stated in the passage.",
+  "input": "A major issue facing the country is the increasing gap between the rich and the poor.",
+  "output": "Possible solutions to the problem of the increasing gap between the rich and the poor include raising the minimum wage, taxing the wealthy more and using the revenue to fund social programs, closing tax loopholes for large corporations, and enacting more rigorous regulations on banks and other financial institutions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

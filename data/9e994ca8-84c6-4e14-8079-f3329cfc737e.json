@@ -1,0 +1,12 @@
+{
+  "id": "9e994ca8-84c6-4e14-8079-f3329cfc737e",
+  "instruction": "Based on the given information, produce 5 questions that could potentially be asked in an interview.",
+  "input": "The candidate has 8 years of experience in marketing and sales.",
+  "output": "1. What is your experience in marketing and sales?\n2. Describe a key contribution you\u2019ve made in the past year.\n3. What methods do you use to research marketing trends and best practices?\n4. Could you share an example of a successful marketing campaign you\u2019ve been involved in?\n5. What do you believe are the biggest challenges in marketing and sales today?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

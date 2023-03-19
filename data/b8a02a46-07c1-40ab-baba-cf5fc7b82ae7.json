@@ -1,0 +1,12 @@
+{
+  "id": "b8a02a46-07c1-40ab-baba-cf5fc7b82ae7",
+  "instruction": "Describe the benefits of product X to prospective customers.",
+  "input": "Product X: A new mobile phone",
+  "output": "Product X is a great new mobile phone that offers a number of benefits to its users. It has a sleek, modern design and a powerful processor, allowing for fast and responsive performance. The device sports a large, high-resolution display with vibrant colors, making for an immersive and enjoyable viewing experience. Additionally, the phone comes with advanced security features and long-lasting battery life, making it a reliable and secure device.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

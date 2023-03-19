@@ -1,0 +1,12 @@
+{
+  "id": "c65db74f-93d7-45aa-ba32-9a5725665113",
+  "instruction": "Compose an email to accept a job offer",
+  "input": "Company Name: Amazon",
+  "output": "Dear Cervantes Wilkins, \n\nI am writing in response to the job offer I received from Amazon. I am pleased and honored to accept the offer and am looking forward to joining your team. I am confident that I can contribute significant value to your company and I am delighted to become part of the team. \n\nI am happy to confirm my willingness to work as a full-time employee at Amazon. I can also provide you with my bank account details so that you can initiate the bank transfer for my first salary.\n\nI look forward to meeting everyone and starting work as soon as possible. Please let me know the procedures and paperwork I need to take care of.\n\nThank you for this opportunity.\n\nSincerely,\n\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

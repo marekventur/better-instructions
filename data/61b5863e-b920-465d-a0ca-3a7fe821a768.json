@@ -1,0 +1,12 @@
+{
+  "id": "61b5863e-b920-465d-a0ca-3a7fe821a768",
+  "instruction": "Construct a sentence using the active voice and the given words.",
+  "input": "A noise was heard",
+  "output": "Someone heard a noise.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

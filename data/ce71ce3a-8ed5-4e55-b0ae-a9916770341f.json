@@ -1,0 +1,12 @@
+{
+  "id": "ce71ce3a-8ed5-4e55-b0ae-a9916770341f",
+  "instruction": "Give an example of a context-free grammar.",
+  "input": "",
+  "output": "A simple example of a context-free grammar is the following: \n\nS \u2192 A B\nA \u2192 C\nB \u2192 D | E\nC \u2192 F\nD \u2192 G\nE \u2192 G\nF \u2192 a\nG \u2192 b\n\nThis grammar has one start symbol (S), three non-terminal symbols (A, B and C) and two terminal symbols (a and b). It has two production rules: S \u2192 A B, and C \u2192 F. This grammar generates strings of symbols of the form a b b.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

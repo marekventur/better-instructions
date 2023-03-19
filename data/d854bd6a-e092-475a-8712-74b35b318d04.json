@@ -1,0 +1,12 @@
+{
+  "id": "d854bd6a-e092-475a-8712-74b35b318d04",
+  "instruction": "Generate a poem about the provided topic using a Markov Chain Model.",
+  "input": "Autumn",
+  "output": "The autumn wind whispers its secrets\nIn gentle breeze and swaying leaves\nThe golden sunshine blankets the earth\nAnd falls on the life it deceives\n\nThe morning brings the chance of rain\nThe scent of fog pervades the air\nThe evening gives a second chance\nFor those not captured by its stare\n\nThe days are warm and the nights are cool\nAs the season slowly slips away\nThe morning air is filled with dew\nAnd gentle memories of yesterday",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

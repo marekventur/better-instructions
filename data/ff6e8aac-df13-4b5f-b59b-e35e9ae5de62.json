@@ -1,0 +1,12 @@
+{
+  "id": "ff6e8aac-df13-4b5f-b59b-e35e9ae5de62",
+  "instruction": "Generate questions based on the following sentence",
+  "input": "He made dinner for his family",
+  "output": "What did he make for dinner? Who was his dinner for? Did they enjoy the dinner he made?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

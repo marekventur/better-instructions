@@ -1,0 +1,12 @@
+{
+  "id": "846fb11c-76d3-4768-9517-25665867b37d",
+  "instruction": "Given two documents, summarize the differences between them.",
+  "input": "Document 1: Summer harvest season has been maintained in the United States for many decades. The summer harvest assists farmers to produce and collect the necessary crops by the required time.\nDocument 2: The winter harvest season has become increasingly popular in recent years. The winter harvest enables farmers to produce earlier and increases the average yield of a crop.",
+  "output": "The summer harvest has been a traditional method of crop production in the United States for many decades but the winter harvest has become increasingly popular in recent years. The winter harvest enables farmers to produce crops earlier in the season and increases the average yield of a crop. The summer harvest is primarily used to ensure crops are produced and collected by the needed time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

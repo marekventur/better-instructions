@@ -1,0 +1,12 @@
+{
+  "id": "53229672-f44d-4358-83ef-c3d425bb392a",
+  "instruction": "Analyze the performance of the stock.",
+  "input": "The stock has increased by 10% in the past 3 months.",
+  "output": "The performance of the stock has been positive in the last three months, as it has seen an increase of 10%. This could indicate that the stock is performing well and investors are becoming more confident in the company's prospects.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

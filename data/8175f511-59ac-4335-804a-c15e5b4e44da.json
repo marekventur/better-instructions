@@ -1,0 +1,12 @@
+{
+  "id": "8175f511-59ac-4335-804a-c15e5b4e44da",
+  "instruction": "Change the past tense in the following sentence to the present tense.",
+  "input": "He was sleeping in his bed.",
+  "output": "He is sleeping in his bed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

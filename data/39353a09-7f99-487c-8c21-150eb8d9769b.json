@@ -1,0 +1,12 @@
+{
+  "id": "39353a09-7f99-487c-8c21-150eb8d9769b",
+  "instruction": "Are there any potential ethical issues related to using AI to assist with medical diagnosis?",
+  "input": "",
+  "output": "Yes, there are potential ethical issues related to using AI to assist with medical diagnosis. These issues include the potential for algorithmic bias to be embedded in the AI system, as well as the possibility of AI overdiagnosis. Additionally, it is difficult to ensure that AI systems are providing equitable access to healthcare which could lead to potential healthcare inequality. Furthermore, while AI may help with the accuracy of medical diagnostics, there is the risk that it will replace human healthcare workers and create job loss.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

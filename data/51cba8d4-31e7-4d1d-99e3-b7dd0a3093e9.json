@@ -1,0 +1,12 @@
+{
+  "id": "51cba8d4-31e7-4d1d-99e3-b7dd0a3093e9",
+  "instruction": "Given a hypothesis, identify and explain the related independent and dependent variables.",
+  "input": "Hypothesis: Increasing physical activity can improve mental health.",
+  "output": "The dependent variable in this hypothesis is mental health, as it is the outcome of the experiment, and the independent variable is physical activity, as it is the factor that is manipulated in order to observe the effect that it has on the dependent variable. In this experiment, physical activity is increased in order to observe its effect on mental health. It is expected that with increased physical activity, the participants' mental health will improve.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

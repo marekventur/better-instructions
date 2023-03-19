@@ -1,0 +1,12 @@
+{
+  "id": "179fd808-096c-4e30-a670-de5a3096d455",
+  "instruction": "Given two text samples, classify whether they were written by the same person or not.",
+  "input": "Sample 1: \"Hello, I am really looking forward to this weekend!\"\nSample 2: \"I hope the weather is nice and I can enjoy the outdoors!\"",
+  "output": "Yes, the two samples were written by the same person.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

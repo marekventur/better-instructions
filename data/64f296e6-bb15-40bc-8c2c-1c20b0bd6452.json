@@ -1,0 +1,12 @@
+{
+  "id": "64f296e6-bb15-40bc-8c2c-1c20b0bd6452",
+  "instruction": "Generate a definition of sentiment analysis.",
+  "input": "",
+  "output": "Sentiment analysis is a process of understanding and extracting subjective information from text or other data sources to determine the attitude, opinion, or emotion of the writer or speaker. It is used to detect emotion or opinion in reviews or social media posts, for example, in order to understand how customers feel about a product or service.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "eea0b363-7cab-46ec-b7f8-358f7c52969b",
+  "instruction": "Calculate the mean of the numbers 3, 4, 6, 10, 11",
+  "input": "",
+  "output": "The mean of the numbers 3, 4, 6, 10, 11 is 6.4. This is calculated by adding the numbers together and then dividing by the number of values (5). (3 + 4 + 6 + 10 + 11 = 34; 34 / 5 = 6.4).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "63e768cc-3191-485e-a7b4-4cbb0a1e8aab",
+  "instruction": "Generate a quiz about physics.",
+  "input": "",
+  "output": "1. What is the formula for calculating the momentum of an object? \nA) p = mv \nB) p = m/v \nC) p = v/m \nD) p = F/m \n\n2. What is the equation for energy? \nA) E = mc2 \nB) E = mv2 \nC) E = mp2 \nD) E = m/v2 \n\n3. What unit is used to measure potential energy? \nA) Joules \nB) Watts \nC) Newtons \nD) Volts",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

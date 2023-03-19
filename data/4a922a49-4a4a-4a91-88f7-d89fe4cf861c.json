@@ -1,0 +1,12 @@
+{
+  "id": "4a922a49-4a4a-4a91-88f7-d89fe4cf861c",
+  "instruction": "Compare and contrast Object-Oriented Programming and Functional Programming.",
+  "input": "",
+  "output": "Object-oriented programming (OOP) and functional programming (FP) are two distinct programming paradigms that have different approaches to the development and structure of software programs. \n\nIn OOP, the focus is on creating objects, which are interfaces to real-world entities and data structured data. OOP encourages code reuse and extensibility with an emphasis on code organization and modularity. It also relies heavily on classes, which define how objects should behave, and objects that follow the rules defined by the classes.\n\nFunctional programming focuses on the evaluation of expressions and functions that take inputs and return outputs. It avoids using shared state or mutable data, instead opting to use pure functions. The emphasis on declarative programming and stateless functions makes FP code easier to debug, test and reuse.\n\nIn OOP, the underlying methodology of programming revolves around objects and methods. Whereas, in Functional Programming, the underlying methodology revolves around mathematical functions. OOP uses classes as templates for objects that represent real-world entities, whereas FP relies heavily on composition to create functions from simpler ones. Finally, OOP emphasizes on mutable data, whereas FP emphasizes on immutable data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

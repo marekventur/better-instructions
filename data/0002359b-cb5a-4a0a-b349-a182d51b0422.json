@@ -1,0 +1,12 @@
+{
+  "id": "0002359b-cb5a-4a0a-b349-a182d51b0422",
+  "instruction": "Generate a greeting script for a virtual assistant.",
+  "input": "",
+  "output": "Welcome! Thanks for reaching out. I'm here to help. How can I assist you today?\nIf you're looking for information, I can help you find relevant articles, provide answers to frequently asked questions, or direct you to the right place for assistance. \nIf you're ready to start, let me know and I'll walk you through the process. Or, feel free to ask me any questions that you may have. \nThanks for reaching out, and I look forward to helping you!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

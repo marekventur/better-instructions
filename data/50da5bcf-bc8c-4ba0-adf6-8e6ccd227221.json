@@ -1,0 +1,12 @@
+{
+  "id": "50da5bcf-bc8c-4ba0-adf6-8e6ccd227221",
+  "instruction": "Generate an API call to get the weather data for a given city.",
+  "input": "Chandigarh",
+  "output": "The API call to get the weather data for a given city is: http://api.openweathermap.org/data/2.5/weather?q=Chandigarh&appid=APPID.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

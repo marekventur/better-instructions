@@ -1,0 +1,12 @@
+{
+  "id": "f7dc1280-0f4e-4a5d-901d-51b4a3c41dc6",
+  "instruction": "Compare the cost of two online services.",
+  "input": "Netflix vs Hulu",
+  "output": "Netflix offers a variety of plans ranging from $8.99 to $15.99 per month, while Hulu's plans range from $5.99 to $11.99 per month. Netflix offers more HD streaming options and a larger library, but Hulu offers certain live TV features and a free trial.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6075ead4-c9af-43f3-98c1-b90245a7a082",
+  "instruction": "Construct an appropriate logic statement",
+  "input": "A \u2260 B and C",
+  "output": "(A \u2260 B) and C",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

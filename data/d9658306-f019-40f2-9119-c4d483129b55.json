@@ -1,0 +1,12 @@
+{
+  "id": "d9658306-f019-40f2-9119-c4d483129b55",
+  "instruction": "Cut the sentence in two equal parts to make two meaningful sentences.",
+  "input": "She went to the store and bought food for dinner.",
+  "output": "She went to the store. She bought food for dinner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

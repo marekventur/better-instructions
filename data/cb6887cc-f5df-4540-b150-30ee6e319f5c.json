@@ -1,0 +1,12 @@
+{
+  "id": "cb6887cc-f5df-4540-b150-30ee6e319f5c",
+  "instruction": "Given the input, generate a list of five adjectives.",
+  "input": "Character",
+  "output": "Strong, courageous, resilient, determined, independent.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

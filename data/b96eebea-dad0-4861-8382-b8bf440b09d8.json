@@ -1,0 +1,12 @@
+{
+  "id": "b96eebea-dad0-4861-8382-b8bf440b09d8",
+  "instruction": "Delete the unnecessary phrase in this sentence.",
+  "input": "He made sure that the document was accurate, and furthermore he checked it twice.",
+  "output": "He made sure that the document was accurate and checked it twice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

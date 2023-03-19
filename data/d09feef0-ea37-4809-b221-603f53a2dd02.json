@@ -1,0 +1,12 @@
+{
+  "id": "d09feef0-ea37-4809-b221-603f53a2dd02",
+  "instruction": "Given a text, classify the sentiment expressed",
+  "input": "I never realized how much I was missing out until I got the opportunity.",
+  "output": "Sentiment: Positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "adfb1acd-d926-4f80-8ed8-6b4da8dc79b0",
+  "instruction": "Organize the following three activities in chronological order.",
+  "input": "A) Paying the rent\nB) Washing the dishes\nC) Taking out the garbage",
+  "output": "A) Paying the rent \nB) Taking out the garbage \nC) Washing the dishes",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

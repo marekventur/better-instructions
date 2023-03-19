@@ -1,0 +1,12 @@
+{
+  "id": "95851bee-a4ba-4fdf-a475-4e9ad3b75dfa",
+  "instruction": "Construct an HTML page with a single heading",
+  "input": "",
+  "output": "<html>\n    <head>\n        <title>My Page</title>\n    </head>\n    <body>\n        <h1>Welcome to My Page</h1>\n    </body>\n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

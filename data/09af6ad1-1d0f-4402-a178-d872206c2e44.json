@@ -1,0 +1,12 @@
+{
+  "id": "09af6ad1-1d0f-4402-a178-d872206c2e44",
+  "instruction": "Classify the following three emotions: happiness, guilt and sadness",
+  "input": "",
+  "output": "Happiness: Positive emotion\nGuilt: Negative emotion\nSadness: Negative emotion",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

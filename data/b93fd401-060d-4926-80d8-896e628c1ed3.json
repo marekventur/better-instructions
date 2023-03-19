@@ -1,0 +1,12 @@
+{
+  "id": "b93fd401-060d-4926-80d8-896e628c1ed3",
+  "instruction": "Output the different parts of speech that the given word belongs to.",
+  "input": "Write",
+  "output": "Verb, Noun, Adjective",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

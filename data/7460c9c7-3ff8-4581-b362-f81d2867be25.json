@@ -1,0 +1,12 @@
+{
+  "id": "7460c9c7-3ff8-4581-b362-f81d2867be25",
+  "instruction": "Find the angle given two sides of a triangle.",
+  "input": "Side 1: 5 units\nSide 2: 6 units",
+  "output": "The angle is 53.13 degrees.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

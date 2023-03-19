@@ -1,0 +1,12 @@
+{
+  "id": "0475bb94-f2d0-4404-a29b-9dbcb40b7d7f",
+  "instruction": "Given a dataset, create a histogram to illustrate its distribution.",
+  "input": "The age distribution of a population",
+  "output": "A histogram can be used to illustrate the age distribution of a population. The x-axis should list age groups, e.g. 0-10, 11-20, 21-30 and so on, while the Y-axis should list the frequency of occurrence within each age group. The height of the bar indicates the number of people within that age group.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

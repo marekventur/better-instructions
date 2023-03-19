@@ -1,0 +1,12 @@
+{
+  "id": "d089f085-f84b-41dd-a7ae-30b506a70748",
+  "instruction": "Suggest additional steps that could be taken in the given situation.",
+  "input": "A police officer has pulled over a driver for reckless driving in a residential area.",
+  "output": "The police officer could issue a citation to the driver for reckless driving and possibly suspend their license until they complete a course on traffic safety. The officer could also refer the driver to a driving school for additional instruction. Additionally, the officer may wish to contact the driver's insurance company to inform them of the incident in order to increase the driver's insurance rates.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

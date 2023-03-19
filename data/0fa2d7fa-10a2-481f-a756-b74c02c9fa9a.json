@@ -1,0 +1,12 @@
+{
+  "id": "0fa2d7fa-10a2-481f-a756-b74c02c9fa9a",
+  "instruction": "Give an example of a bias that could exist in an AI algorithm.",
+  "input": "",
+  "output": "An example of a bias that could exist in an AI algorithm is gender bias. This can be due to gender data used to train the algorithm or the underlying assumptions of the algorithm, which can lead to gender-either outcomes, such as sorting resumes according to gender or assigning job tasks and deadlines according to gender. This type of bias is largely unintentional and may be hard to identify, but can result in systemic gender discrimination.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

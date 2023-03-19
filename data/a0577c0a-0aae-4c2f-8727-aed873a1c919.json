@@ -1,0 +1,12 @@
+{
+  "id": "a0577c0a-0aae-4c2f-8727-aed873a1c919",
+  "instruction": "Extract five keywords from the text \u201cModern artificial intelligence systems are complex and deep.\u201d",
+  "input": "",
+  "output": "modern, artificial, intelligence, systems, complex.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

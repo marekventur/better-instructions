@@ -1,0 +1,12 @@
+{
+  "id": "3a0ff4f0-68d5-4d3e-b84e-9ee1c2af8225",
+  "instruction": "Given a geography question, provide a comprehensive answer.",
+  "input": "What is the largest country in the world?",
+  "output": "The largest country in the world is Russia, which spans over a total area of 17,098,242 square kilometers and covers 11.8% of the Earth's total land area. It is the largest country by landmass, and the 9th most populous country in the world according to the United Nations 2019 global population report. Russia has a population of around 144 million, the majority of whom live in the European part of the country, while the rest are spread across the central, Siberian and Far Eastern regions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

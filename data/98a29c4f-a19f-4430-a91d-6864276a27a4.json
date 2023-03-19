@@ -1,0 +1,12 @@
+{
+  "id": "98a29c4f-a19f-4430-a91d-6864276a27a4",
+  "instruction": "Classify this photo as either a landscape or portrait",
+  "input": "[Insert photo]",
+  "output": "This photo is a landscape.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

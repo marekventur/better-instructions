@@ -1,0 +1,12 @@
+{
+  "id": "f498ba00-d153-43fa-8c0a-f341d5d0cdf6",
+  "instruction": "Determine the structure of a DNA molecule.",
+  "input": "",
+  "output": "A DNA molecule consists of two strands of nucleotides spiraling around one another in a double helix shape. Each strand is made up of phosphate groups and the four nitrogenous bases: guanine (G), adenine (A), cytosine (C), and thymine (T). Each base is connected to a sugar molecule, making up the sugar-phosphate backbone of a DNA strand. The strands are linked together by hydrogen bonds between the nitrogenous bases: A-T, G-C, forming base pairs. These base pairs form the \"rungs\" of the DNA ladder, with a complete ladder representing one turn of the double helix structure.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

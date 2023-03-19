@@ -1,0 +1,12 @@
+{
+  "id": "66224ef4-bdb7-4901-a679-c18a613b4e07",
+  "instruction": "Convert the given time (in minutes) to hours and minutes.",
+  "input": "125",
+  "output": "2 hours and 5 minutes",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

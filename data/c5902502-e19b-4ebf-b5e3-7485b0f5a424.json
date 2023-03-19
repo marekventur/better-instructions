@@ -1,0 +1,12 @@
+{
+  "id": "c5902502-e19b-4ebf-b5e3-7485b0f5a424",
+  "instruction": "Outline the main points of this article",
+  "input": "https://time.com/5798772/behind-the-coronavirus-transmission-risk/",
+  "output": "The main points of this article are:\n- The risk of transmission of the coronavirus is determined based on the circumstances in which contact occurred, such as the length of time, the number of people involved, and whether the contact was indoors or outdoors. \n- People who are infected with the virus can spread it through the air, by touching surfaces, or by close contact (within 6 feet).\n- Coronaviruses are easily spread in poorly ventilated indoor settings, and activities such as singing, attending social gatherings, and exercising with a group can create a greater risk of transmission.\n- The risk of transmission is also greatly reduced by wearing a mask, social distancing, washing hands often, and regularly disinfecting surfaces.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

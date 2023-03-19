@@ -1,0 +1,12 @@
+{
+  "id": "2ca196bc-9877-41f4-982c-acdd1619442e",
+  "instruction": "Find the hidden message in the string of words",
+  "input": "coffee aficionado",
+  "output": "The hidden message is \"caffeine lover\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

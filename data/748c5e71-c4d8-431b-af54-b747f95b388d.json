@@ -1,0 +1,12 @@
+{
+  "id": "748c5e71-c4d8-431b-af54-b747f95b388d",
+  "instruction": "Change the following sentence from the past tense to the present tense.",
+  "input": "She cooked the dinner last night.",
+  "output": "She is cooking the dinner tonight.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

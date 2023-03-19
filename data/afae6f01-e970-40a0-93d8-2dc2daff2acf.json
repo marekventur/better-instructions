@@ -1,0 +1,12 @@
+{
+  "id": "afae6f01-e970-40a0-93d8-2dc2daff2acf",
+  "instruction": "Generate a connective to link the two statements.",
+  "input": "Statement 1: I like to listen to music. \nStatement 2: I read books in my free time.",
+  "output": "Furthermore,",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

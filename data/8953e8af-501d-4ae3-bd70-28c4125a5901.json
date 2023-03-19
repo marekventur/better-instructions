@@ -1,0 +1,12 @@
+{
+  "id": "8953e8af-501d-4ae3-bd70-28c4125a5901",
+  "instruction": "Classify the given article as a news report or an opinion piece.",
+  "input": "Article about politics",
+  "output": "This article is an opinion piece.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

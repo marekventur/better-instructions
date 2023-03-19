@@ -1,0 +1,12 @@
+{
+  "id": "f10b858e-74e2-40d6-8ee4-d50f049e9c68",
+  "instruction": "Summarize the main idea of this paragraph.",
+  "input": "While the cause of global warming is generally agreed upon, the extent to which humans are responsible is still heavily debated. The majority of climate experts agree that human activities, such as burning fossil fuels and deforestation, are probably responsible for at least a significant portion, if not the majority, of recent global warming.",
+  "output": "Global warming is widely accepted to be caused by human activities, including burning fossil fuels and deforestation, although the extent of human contribution is still debated. Most climate experts believe that humans are responsible for a significant portion of recent global warming.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

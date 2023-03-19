@@ -1,0 +1,12 @@
+{
+  "id": "e22b4579-310e-4988-af20-d6a7db7ab471",
+  "instruction": "Classify the following snippet of text.",
+  "input": "The sun is bright and the sky is blue.",
+  "output": "This text snippet is describing a natural phenomenon.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

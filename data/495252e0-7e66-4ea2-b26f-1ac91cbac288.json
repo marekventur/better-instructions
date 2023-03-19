@@ -1,0 +1,12 @@
+{
+  "id": "495252e0-7e66-4ea2-b26f-1ac91cbac288",
+  "instruction": "Implement a sorting algorithm to sort the followng array.",
+  "input": "[56, 45, 23, 17, 87, 32, 12]",
+  "output": "[12, 17, 23, 32, 45, 56, 87]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

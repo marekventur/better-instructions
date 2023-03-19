@@ -1,0 +1,12 @@
+{
+  "id": "cbead725-4c61-417f-88c8-a7cf5315fe39",
+  "instruction": "Identify the timezone for the following city.",
+  "input": "Tokyo",
+  "output": "Tokyo is located in the Japan Standard Time Zone, which is 9 hours ahead of Coordinated Universal Time (UTC).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

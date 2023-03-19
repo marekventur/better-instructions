@@ -1,0 +1,12 @@
+{
+  "id": "f8c70588-11a9-407f-8a11-e5902d1981d2",
+  "instruction": "Create an organization chart that describes the roles of the employees in a restaurant.",
+  "input": "",
+  "output": "General Manager\n  |-- Sous Chef\n  |-- Kitchen Manager\n  |-- Executive Chef \n  |-- Head Chef \n  |-- Line Cooks \n  |-- Dishwashers \n  |-- Servers \n  |-- Bartenders \n  |-- Hosts\n  |-- Bussers\n  |-- Food Runners\n  |-- Barbacks\n  |-- barista\n  |-- Cashiers\n  |-- Food Truck Drivers",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ab701bc8-d1f4-42aa-8ceb-d856c2fad5ff",
+  "instruction": "Create a conversation between two friends, one of them has to be indifferent towards the other person's opinion.",
+  "input": "Friends: John and Mia\nLocation: Mia's house",
+  "output": "Mia: Hey John, I'm thinking of taking up a new hobby. What do you think I should do?\nJohn: It doesn't really matter to me. Whatever you want to do is fine.\nMia: But I want to do something that you'll actually be interested in.\nJohn: Well, it's ultimately your decision, so why don't you just pick something that you really like and go with that? \nMia: Alright, I guess I'll try something new.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

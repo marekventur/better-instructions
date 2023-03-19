@@ -1,0 +1,12 @@
+{
+  "id": "e4028c38-6a94-4e2e-a6fb-e5627be923ec",
+  "instruction": "Classify the following paragraph according to lexical categories. Output NN, JJ, VB, etc.",
+  "input": "The little boy played happily in the garden.",
+  "output": "DT NN VBD ADV JJ IN DT NN.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

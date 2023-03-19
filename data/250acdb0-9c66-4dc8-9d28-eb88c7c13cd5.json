@@ -1,0 +1,12 @@
+{
+  "id": "250acdb0-9c66-4dc8-9d28-eb88c7c13cd5",
+  "instruction": "Classify the sentence in the input field.",
+  "input": "Public transport has been disrupted due to the pandemic.",
+  "output": "Statement",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

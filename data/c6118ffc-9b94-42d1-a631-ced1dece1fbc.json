@@ -1,0 +1,12 @@
+{
+  "id": "c6118ffc-9b94-42d1-a631-ced1dece1fbc",
+  "instruction": "Add 10 words to the given list so that all the words are related.",
+  "input": "Fire, Heat, Smoke",
+  "output": "Ash,Explosion, Fuel, Furnace,Charcoal, Torch, Flame, Ignite, Ember, Blaze.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "64cee3a1-012b-4eff-929b-aca10753dba1",
+  "instruction": "Given a piece of text, find the typos contained in the text.",
+  "input": "The qick broen fox jmps ofer the laazy dog",
+  "output": "The typos contained in the text are \"qick\", \"jmps\", \"laazy\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

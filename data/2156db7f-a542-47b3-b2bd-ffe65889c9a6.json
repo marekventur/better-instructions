@@ -1,0 +1,12 @@
+{
+  "id": "2156db7f-a542-47b3-b2bd-ffe65889c9a6",
+  "instruction": "Suggest a course of action based on the following circumstance:",
+  "input": "Your friend got into a car accident and needs help paying for the repairs.",
+  "output": "Set up a GoFundMe page to help your friend pay for the car repairs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

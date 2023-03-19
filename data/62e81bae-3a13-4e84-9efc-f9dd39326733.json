@@ -1,0 +1,12 @@
+{
+  "id": "62e81bae-3a13-4e84-9efc-f9dd39326733",
+  "instruction": "Classify the following phrases into two categories depending on if they describe a quality of a leader",
+  "input": "Persuasive, Dependable, Resourceful",
+  "output": "Qualities of a Leader: Persuasive, Dependable, Resourceful. \nNon-Leadership Qualities: None.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

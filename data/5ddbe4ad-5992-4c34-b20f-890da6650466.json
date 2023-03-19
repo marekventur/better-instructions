@@ -1,0 +1,12 @@
+{
+  "id": "5ddbe4ad-5992-4c34-b20f-890da6650466",
+  "instruction": "Create an indicative sentence that uses the given words.",
+  "input": "They, quickly",
+  "output": "They quickly finished the task.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

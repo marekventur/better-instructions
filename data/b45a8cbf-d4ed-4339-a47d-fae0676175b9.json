@@ -1,0 +1,12 @@
+{
+  "id": "b45a8cbf-d4ed-4339-a47d-fae0676175b9",
+  "instruction": "Analyze the following passage and identify any logical fallacies.",
+  "input": "We shouldn't allow genetically engineered food on our store shelves. After all, we're playing God if we do.",
+  "output": "The given passage presents the slippery slope fallacy as it assumes that allowing genetically engineered food will lead to us being like God. Another logical fallacy it presents is the appeal to fear, as it uses fear to try to rationalize not allowing genetically engineered food.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

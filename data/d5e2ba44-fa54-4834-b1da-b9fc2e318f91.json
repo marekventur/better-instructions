@@ -1,0 +1,12 @@
+{
+  "id": "d5e2ba44-fa54-4834-b1da-b9fc2e318f91",
+  "instruction": "Create a recipe for an omelette with a minimum of three ingredients.",
+  "input": "",
+  "output": "Ingredients: 2 eggs, 1 tablespoon of chopped onion, 1 tablespoon of grated cheese.\n\nInstructions:\n1. Heat a non-stick skillet over medium heat.\n2. Crack the eggs into a bowl and whisk until combined.\n3. Add the chopped onion and grated cheese to the egg mixture and whisk until combined.\n4. Add oil to the skillet and swirl to coat.\n5. Pour in the egg mixture and cook, stirring occasionally, until the eggs have set.\n6. Gently fold one side of the omelette over the other.\n7. Slide the omelette onto a plate and enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

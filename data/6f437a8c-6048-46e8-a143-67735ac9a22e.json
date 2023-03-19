@@ -1,0 +1,12 @@
+{
+  "id": "6f437a8c-6048-46e8-a143-67735ac9a22e",
+  "instruction": "Create a list of the given 5 numbers in descending order.",
+  "input": "5, 9, 4, 6, 7",
+  "output": "9, 7, 6, 5, 4",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

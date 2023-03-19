@@ -1,0 +1,12 @@
+{
+  "id": "574b0990-dd2d-41e0-a4ce-c3906ad64bac",
+  "instruction": "Change the voice of the sentence",
+  "input": "Dorian walks to the bus stop",
+  "output": "The bus stop is walked to by Dorian.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

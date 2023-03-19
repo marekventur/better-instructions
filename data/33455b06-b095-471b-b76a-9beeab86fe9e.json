@@ -1,0 +1,12 @@
+{
+  "id": "33455b06-b095-471b-b76a-9beeab86fe9e",
+  "instruction": "Name three common types of attack on computer networks.",
+  "input": "",
+  "output": "Three common types of attack on computer networks are: 1) Denial of Service (DoS) attacks, which flood the target with requests and prevent them from accessing their services; 2) Malware attacks, which inject malicious code onto a system in order to take control of it; and 3) Phishing attacks, which use malicious links or attachments to steal data or login credentials.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "aa1c6d6e-7115-418c-9e31-8a2e1326b3ff",
+  "instruction": "Generate an example of a (non-trivial) function in Python.",
+  "input": "",
+  "output": "def remove_duplicates_from_list(list): \n    new_list = [] \n    for item in list: \n        if item not in new_list: \n            new_list.append(item) \n    return new_list",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

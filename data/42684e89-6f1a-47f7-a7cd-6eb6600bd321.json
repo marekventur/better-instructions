@@ -1,0 +1,12 @@
+{
+  "id": "42684e89-6f1a-47f7-a7cd-6eb6600bd321",
+  "instruction": "Classify the given piece of text as either a news article or an opinion article",
+  "input": "Dr. Johnson believes vaccinations are essential for protecting children from many deadly diseases.",
+  "output": "This is a news article.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

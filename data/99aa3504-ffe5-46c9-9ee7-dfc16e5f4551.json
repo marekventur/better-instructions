@@ -1,0 +1,12 @@
+{
+  "id": "99aa3504-ffe5-46c9-9ee7-dfc16e5f4551",
+  "instruction": "Design a logic gate with the expression given.",
+  "input": "A AND B OR C",
+  "output": "A B C  | Q\n0 0 0  | 0\n0 0 1  | 1 \n0 1 0  | 0\n0 1 1  | 1\n1 0 0  | 0\n1 0 1  | 1\n1 1 0  | 1 \n1 1 1  | 1 \nOR\nA + (B AND C)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ffe389b8-5a05-4978-b081-dfab6533a556",
+  "instruction": "Make a prediction about the potential environmental impact of a new technology.",
+  "input": "New Technology: Electric vehicles",
+  "output": "The potential environmental impact of electric vehicles is positive, as they produce zero emissions and are much more efficient than traditional combustion engine vehicles. The availability of electric vehicles could lead to a decrease in air pollution and a reduction in dependence on fossil fuels. As electric vehicles become more widespread, they could provide an additional source of green energy and reduce the amount of greenhouse gas emissions released into the atmosphere.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

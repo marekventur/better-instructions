@@ -1,0 +1,12 @@
+{
+  "id": "9628a759-8f55-4963-bbf7-7fbe757fdafa",
+  "instruction": "Find and define five technical terms related to artificial intelligence.",
+  "input": "",
+  "output": "1. Machine Learning: A subset of artificial intelligence (AI) that uses algorithms to enable computer programs and systems to automatically improve and change their output with experience and new data.\n2. Natural Language Processing: A form of AI that deals with analyzing, understanding, and generating the language that humans use.\n3. Neural Network: A computing system modeled after the human brain, in which a set of simple and interconnected \u201cneurons\u201d process various forms of data.\n4. Deep Learning: A branch of machine learning that uses multi-layered artificial neural networks to deliver state-of-the-art results in various tasks such as image recognition and natural language processing.\n5. Computer Vision: A field of AI that deals with automatic extraction, analysis, and understanding of visual data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

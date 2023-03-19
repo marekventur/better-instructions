@@ -1,0 +1,12 @@
+{
+  "id": "3a9e6101-6a85-4ad6-9c78-e83194982f4d",
+  "instruction": "Arrange the following ingredients to make an omelette.",
+  "input": "Eggs, soy sauce, green pepper",
+  "output": "Whisk the eggs in a bowl with a pinch of salt and the soy sauce. Heat oil in a pan, add the green pepper, and then pour in the eggs. Stir to combine and cook until the eggs are set. Enjoy your omelette!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

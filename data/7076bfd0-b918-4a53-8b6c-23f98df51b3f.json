@@ -1,0 +1,12 @@
+{
+  "id": "7076bfd0-b918-4a53-8b6c-23f98df51b3f",
+  "instruction": "Construct a function to count the number of words in a given text.",
+  "input": "",
+  "output": "def count_words(text):\n    text_lst = text.split()\n    return len(text_lst)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

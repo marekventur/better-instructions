@@ -1,0 +1,12 @@
+{
+  "id": "f17bf0d2-64eb-4751-b358-b2220d7eb7c5",
+  "instruction": "Generate a list of the five oldest places in the US.",
+  "input": "",
+  "output": "- St. Augustine, Florida (1565)\n- Jamestown, Virginia (1607)\n- Santa Fe, New Mexico (1610)\n- Plymouth, Massachusetts (1620)\n- Kecoughtan village, Virginia (1610)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

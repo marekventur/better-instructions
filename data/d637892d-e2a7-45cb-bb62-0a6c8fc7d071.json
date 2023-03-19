@@ -1,0 +1,12 @@
+{
+  "id": "d637892d-e2a7-45cb-bb62-0a6c8fc7d071",
+  "instruction": "Given a list of names, give characteristics of that particular name.",
+  "input": "Olivia, Robert",
+  "output": "Olivia is a beautiful name that emanates positivity and joy, while Robert is a classic, timeless name that connotes strength, honor, and integrity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

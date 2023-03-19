@@ -1,0 +1,12 @@
+{
+  "id": "63e0d652-2705-4c5f-a183-a2b3a9a924bf",
+  "instruction": "Fix the given code to make it correctly output the result 'hello'.",
+  "input": "function printHello() {\n    consoel.log('Hello')\n}",
+  "output": "function printHello() {\n    console.log('Hello');\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6ee4bf4b-f366-478d-a430-e22c8a83cee6",
+  "instruction": "Given an object in the room, list 5 things that could be done with the object.",
+  "input": "A Tree",
+  "output": "- Climb it.\n- Add decorations to it.\n- Use its wood to create furniture.\n- Build a tree house.\n- Plant more trees around it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

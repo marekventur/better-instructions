@@ -1,0 +1,12 @@
+{
+  "id": "77915c0e-38cf-4098-b980-57a15db149e3",
+  "instruction": "What steps should you take to improve your website's performance?",
+  "input": "",
+  "output": "There are several steps you can take to improve your website's performance. Firstly, you should optimize your site for speed by compressing images and minifying your CSS and JavaScript files. Secondly, you should ensure your website is well-structured and well-coded, as this will make loading pages faster. Thirdly, you can use caching techniques to improve page loading times. Finally, you could implement a content delivery network (CDN) to reduce loading times for users from different geographical regions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

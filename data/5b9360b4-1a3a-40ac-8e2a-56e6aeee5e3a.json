@@ -1,0 +1,12 @@
+{
+  "id": "5b9360b4-1a3a-40ac-8e2a-56e6aeee5e3a",
+  "instruction": "Given a profile of a person, come up with a descriptive phrase that summarizes the profile.",
+  "input": "John is a talented video editor born in New York. He loves traveling and has already been to 7 countries.",
+  "output": "Globetrotting Video Editor from New York.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

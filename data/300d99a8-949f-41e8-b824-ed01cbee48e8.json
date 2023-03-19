@@ -1,0 +1,12 @@
+{
+  "id": "300d99a8-949f-41e8-b824-ed01cbee48e8",
+  "instruction": "Generate a program that prints out the given list of numbers in reverse order.",
+  "input": "[1, 2, 3, 4, 5]",
+  "output": "#include <stdio.h>\n\nint main() \n{ \n    int arr[5] = {1, 2, 3, 4, 5}; \n  \n    // Print the list in reverse order \n    for (int i = 4; i >= 0; i--) \n        printf(\"%d\\n\", arr[i]); \n  \n    return 0; \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

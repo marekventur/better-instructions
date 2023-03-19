@@ -1,0 +1,12 @@
+{
+  "id": "f86661be-afd5-4c70-b63e-86f780216ff5",
+  "instruction": "Construct a SQL query to get the total number of sales from the table 'Orders'.",
+  "input": "",
+  "output": "The SQL query to get the total number of sales from the table 'Orders' is: \nSELECT COUNT(*) FROM Orders;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

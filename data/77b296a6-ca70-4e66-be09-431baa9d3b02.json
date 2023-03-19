@@ -1,0 +1,12 @@
+{
+  "id": "77b296a6-ca70-4e66-be09-431baa9d3b02",
+  "instruction": "Convert the following sentence into a question ending in \"wh\":",
+  "input": "The school is closed.",
+  "output": "Why is the school closed?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

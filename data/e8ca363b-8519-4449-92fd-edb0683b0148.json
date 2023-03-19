@@ -1,0 +1,12 @@
+{
+  "id": "e8ca363b-8519-4449-92fd-edb0683b0148",
+  "instruction": "Evaluate the following sentence. Output good or bad.",
+  "input": "I am extremely fascinated with the color of the ocean.",
+  "output": "good",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

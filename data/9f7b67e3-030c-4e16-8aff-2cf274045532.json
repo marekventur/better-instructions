@@ -1,0 +1,12 @@
+{
+  "id": "9f7b67e3-030c-4e16-8aff-2cf274045532",
+  "instruction": "Generate a neural network architecture for a binary visible object detector.",
+  "input": "",
+  "output": "The architecture of the neural network should begin with a convolutional layer with a 3x3 filter and a stride of 2. This should be followed by another convolutional layer with a 3x3 filter and a stride of 1. This should be followed by a max pooling layer with a 2x2 filter and a stride of 2. After this, there should be two more convolutional layers and a fully connected layer. The output should be a binary visible object detector.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

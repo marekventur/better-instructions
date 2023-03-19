@@ -1,0 +1,12 @@
+{
+  "id": "081048cb-eaae-4bd9-8e20-06ebdf0bb825",
+  "instruction": "Get the list of characters in the novel.",
+  "input": "The novel \"To Kill a Mockingbird\" by Harper Lee.",
+  "output": "The characters in the novel \"To Kill a Mockingbird\" are Atticus Finch, Scout Finch, Jem Finch, Tom Robinson, Calpurnia, Arthur (Boo) Radley, Bob Ewell, Mayella Ewell, Heck Tate, Mrs. Dubose, Miss Stephanie Crawford and Reverend Sykes, among others.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

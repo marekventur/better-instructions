@@ -1,0 +1,12 @@
+{
+  "id": "a5ea1a16-851e-45fc-bbb7-2178ce9792da",
+  "instruction": "Write a query to return all rows from a MySQL table named \"Items\" where the column \"category\" is \"clothing\" and the column \"color\" is either \"red\" or \"white\".",
+  "input": "",
+  "output": "SELECT * FROM Items WHERE category=\"clothing\" AND (color=\"red\" OR color=\"white\");",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

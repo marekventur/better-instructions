@@ -1,0 +1,12 @@
+{
+  "id": "ee7c6f12-6264-4875-9a04-a4d50212f8bf",
+  "instruction": "Given the following text, classify it under the category of humorous or serious.",
+  "input": "The teacher asked the student for a report on the cactus and the student accidentally wrote a report on the cabbage.",
+  "output": "Humorous",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

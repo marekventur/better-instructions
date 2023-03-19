@@ -1,0 +1,12 @@
+{
+  "id": "c0a67870-39bc-4e6e-b7b6-b7790f5a93ac",
+  "instruction": "How do you check the accuracy of a machine learning model?",
+  "input": "",
+  "output": "The accuracy of a machine learning model can be checked by splitting the data into a training set and a test set and then evaluating the model's performance on the test set. This can be done by comparing the predicted values with the actual values in the test set. Other metrics such as precision, recall, and F1-score can also be used to evaluate the model's performance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

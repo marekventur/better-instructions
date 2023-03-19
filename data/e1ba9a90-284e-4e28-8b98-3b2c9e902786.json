@@ -1,0 +1,12 @@
+{
+  "id": "e1ba9a90-284e-4e28-8b98-3b2c9e902786",
+  "instruction": "Summarize a review article about a recent movie.",
+  "input": "The article was posted by \"Movie Reviews\" last week and titled \"The Turning Review: A Gripping Horror That Stands Out From The Crowd\".",
+  "output": "The Turning is a 2020 horror film based on the 1898 gothic novella The Turn of the Screw by Henry James, who is known for his exploration of the supernatural. Directed by Floria Sigismondi, the movie is centered around young Kate and her nannying experience at the Entwistle's family estate. With an impressive and heartbreaking performance by Mackenzie Davis, some gripping terrifying scenes and a creepy and intense atmosphere, The Turning stands out from the crowd, delivering a surprisingly mature and involving viewing experience. Although it repeats some of the typical horror movie tropes, the movie is ideal for fans of suspenseful supernatural horror.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

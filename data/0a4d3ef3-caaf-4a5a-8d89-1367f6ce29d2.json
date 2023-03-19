@@ -1,0 +1,12 @@
+{
+  "id": "0a4d3ef3-caaf-4a5a-8d89-1367f6ce29d2",
+  "instruction": "Format the following sentence into an xml tag",
+  "input": "This is a sentence",
+  "output": "<sentence>This is a sentence</sentence>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

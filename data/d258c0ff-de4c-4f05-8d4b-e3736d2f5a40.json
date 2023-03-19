@@ -1,0 +1,12 @@
+{
+  "id": "d258c0ff-de4c-4f05-8d4b-e3736d2f5a40",
+  "instruction": "Guessing a country from the given flag, what country is this?",
+  "input": "![Image of Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Flag_of_Denmark.svg/1200px-Flag_of_Denmark.svg.png)",
+  "output": "This is the flag of Denmark.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

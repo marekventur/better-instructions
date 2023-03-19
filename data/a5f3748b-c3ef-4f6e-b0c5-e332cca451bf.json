@@ -1,0 +1,12 @@
+{
+  "id": "a5f3748b-c3ef-4f6e-b0c5-e332cca451bf",
+  "instruction": "Given the following problem, find the shortest path and output the nodes.",
+  "input": "Find the shortest path between node A and node E in the given graph.\n\nA--B--C--D--E",
+  "output": "A, B, C, D, E",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

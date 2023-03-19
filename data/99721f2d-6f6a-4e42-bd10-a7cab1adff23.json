@@ -1,0 +1,12 @@
+{
+  "id": "99721f2d-6f6a-4e42-bd10-a7cab1adff23",
+  "instruction": "Write a joke related to the given words.",
+  "input": "Doctor, police",
+  "output": "A doctor and a police officer walk into a bar. The bartender looks at them and says \u201cWhat can I get you?\u201d The police officer says, \u201cI\u2019ll have a shot of whiskey.\u201d The doctor says, \u201cI\u2019ll have a shot, too\u2026but make mine a double!\u201d",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

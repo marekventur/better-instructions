@@ -1,0 +1,12 @@
+{
+  "id": "9d85d429-19d1-4e72-bd50-55f5ef925d5e",
+  "instruction": "Categorize the following movies into either comedy or drama.",
+  "input": "The Usual Suspects, Amelie, Inception, Juno",
+  "output": "The Usual Suspects: Drama, Amelie: Comedy, Inception: Drama, Juno: Comedy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

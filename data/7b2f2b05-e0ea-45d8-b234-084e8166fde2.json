@@ -1,0 +1,12 @@
+{
+  "id": "7b2f2b05-e0ea-45d8-b234-084e8166fde2",
+  "instruction": "Come up with the five most important design principles for a web app.",
+  "input": "",
+  "output": "The five most important design principles for a web app are user experience, accessibility, responsiveness, security, and scalability. User experience should be carefully considered to ensure the app is as intuitive and user-friendly as possible. Accessibility should be a priority to ensure all users can have the same access and enjoy the same experience. Responsiveness should optimize the app across all devices, while security should ensure sensitive user data is always protected. Scalability should support the app's sustained growth to ensure performance and stability.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

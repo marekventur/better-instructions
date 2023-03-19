@@ -1,0 +1,12 @@
+{
+  "id": "565f26db-3e1e-4eb0-aa9b-86da3c1fce10",
+  "instruction": "Type a program to print the first 10 Fibonacci numbers.",
+  "input": "none",
+  "output": "a = 0\nb = 1\n \nprint(a, end = ' ')\nprint(b, end = ' ')\n \nfor i in range(2, 11):\n    c = a + b\n    print(c, end = ' ')\n    a = b\n    b = c",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

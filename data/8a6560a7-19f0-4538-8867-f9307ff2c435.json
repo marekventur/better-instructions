@@ -1,0 +1,12 @@
+{
+  "id": "8a6560a7-19f0-4538-8867-f9307ff2c435",
+  "instruction": "Create a set of steps for how to make homemade ice cream.",
+  "input": "",
+  "output": "1. Gather the necessary ingredients, including cream, sugar, and desired flavors or mix-ins. \n2. In a medium bowl, whisk together the cream and sugar until combined.\n3. Add in any desired flavors or mix-ins.\n4. Place the mixture into an ice cream maker and churn according to the manufacturer's instructions.\n5. Once the ice cream reaches the desired consistency, transfer it to a freezer-safe container and freeze for at least 2 hours.\n6. Once frozen, scoop and serve the homemade ice cream.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

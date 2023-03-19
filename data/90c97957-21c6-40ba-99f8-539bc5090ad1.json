@@ -1,0 +1,12 @@
+{
+  "id": "90c97957-21c6-40ba-99f8-539bc5090ad1",
+  "instruction": "Given a set of 5 numbers, write an equation using all 5 numbers that sums to 16.",
+  "input": "3, 5, 7, 8, 1",
+  "output": "3 + 5 + (7 - 8) + 1 = 16",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

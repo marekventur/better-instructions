@@ -1,0 +1,12 @@
+{
+  "id": "3ea1517c-a361-44f5-90c3-c27fe272e007",
+  "instruction": "List the required materials for the following recipe.",
+  "input": "Taco Salad",
+  "output": "You will need lettuce, tomatoes, ground beef, taco seasoning, black beans, corn, cheese, sour cream, and tortilla chips for the taco salad.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

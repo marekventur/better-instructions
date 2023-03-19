@@ -1,0 +1,12 @@
+{
+  "id": "93a7debc-b378-4651-a395-121f68c67c2a",
+  "instruction": "Create a sentence containing 3 adjectives in the opposite order of the following sentence:",
+  "input": "grand delicious perfect",
+  "output": "perfect delicious grand",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

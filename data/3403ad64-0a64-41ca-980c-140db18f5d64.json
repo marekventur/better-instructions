@@ -1,0 +1,12 @@
+{
+  "id": "3403ad64-0a64-41ca-980c-140db18f5d64",
+  "instruction": "Group the following sentences into a rundown of the topics discussed in a meeting.",
+  "input": "We went over the upcoming marketing strategy. We discussed the budget considerations. We talked about the progress of our latest project.",
+  "output": "- Overview of marketing strategy\n- Budget considerations\n- Latest project progress",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

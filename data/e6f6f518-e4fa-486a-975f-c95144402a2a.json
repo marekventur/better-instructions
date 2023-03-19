@@ -1,0 +1,12 @@
+{
+  "id": "e6f6f518-e4fa-486a-975f-c95144402a2a",
+  "instruction": "Write a function that adds two numbers",
+  "input": "",
+  "output": "def add_two_numbers(a, b): \n    return a + b",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

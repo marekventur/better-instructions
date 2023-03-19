@@ -1,0 +1,12 @@
+{
+  "id": "090f1a6e-b559-43dd-b40a-07af7d29a88a",
+  "instruction": "Find the surface areas of the following shapes.",
+  "input": "Shape: Cube, Rectangular Prism, Cylinder \nLength of edge for Cube : 4 cm \nLength, Width and Height for Rectangular Prism : 4 cm, 5 cm, 6 cm \nRadius and Height for Cylinder: 5 cm  and 10 cm",
+  "output": "Shape | Surface Area \n------- | --------- \nCube | 96 cm sq. \nRectangular Prism | 140 cm sq.\nCylinder | 314 cm sq.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

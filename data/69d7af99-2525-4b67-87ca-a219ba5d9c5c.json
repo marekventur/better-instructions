@@ -1,0 +1,12 @@
+{
+  "id": "69d7af99-2525-4b67-87ca-a219ba5d9c5c",
+  "instruction": "Rank these animals in order of aggressive behavior (1 being most aggressive, 4 being least aggressive).",
+  "input": "Penguin, Gorilla, Lion, Elephant",
+  "output": "Lion, Gorilla, Elephant, Penguin.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

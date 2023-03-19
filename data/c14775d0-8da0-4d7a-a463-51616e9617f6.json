@@ -1,0 +1,12 @@
+{
+  "id": "c14775d0-8da0-4d7a-a463-51616e9617f6",
+  "instruction": "Sort the following 10 fruits into three categories.",
+  "input": "Bananas, Apples, Pineapples, Plums, Cherries, Peaches, Grapes, Watermelons, Mangoes, Oranges",
+  "output": "Category 1: Bananas, Apples, Pineapples, Plums, Cherries\nCategory 2: Peaches, Grapes, Watermelons\nCategory 3: Mangoes, Oranges",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

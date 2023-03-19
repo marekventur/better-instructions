@@ -1,0 +1,12 @@
+{
+  "id": "7b4d6052-13d9-4ec7-be06-c63f4b4a891c",
+  "instruction": "Swap the words in the sentence to achieve a different meaning.",
+  "input": "The teacher is nice",
+  "output": "Nice is the teacher.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

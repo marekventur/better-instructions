@@ -1,0 +1,12 @@
+{
+  "id": "72e38255-4c26-4891-b2d8-0ff26ebc226a",
+  "instruction": "For the provided sentence, edit out the superfluous information.",
+  "input": "I wanted to thank you for your help in finding the right solution for our issue.",
+  "output": "Thank you for your help.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

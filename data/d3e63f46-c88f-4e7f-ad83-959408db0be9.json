@@ -1,0 +1,12 @@
+{
+  "id": "d3e63f46-c88f-4e7f-ad83-959408db0be9",
+  "instruction": "Correct the given sentence by changing grammatical errors.",
+  "input": "They gave me thates book.",
+  "output": "They gave me that book.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

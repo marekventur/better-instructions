@@ -1,0 +1,12 @@
+{
+  "id": "3d1fcc17-b5f4-4f1e-a85e-f39fe3fd0744",
+  "instruction": "Explain what deep learning is and how it is used in artificial intelligence.",
+  "input": "",
+  "output": "Deep learning is a subfield of machine learning which uses algorithms inspired by the structure and function of the brain's neural networks. It is used in artificial intelligence (AI) to enable machines and computers to learn from data and to build models of sequences, events and elements within datasets. By providing these networks with multiple layers of information, they can be trained to recognize patterns, classify and categorize input, and even generate new outcomes. Deep learning can be applied to enable computers to analyze large amounts of data to learn how to accurately make decisions, interact conversationally with humans, and even create art.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

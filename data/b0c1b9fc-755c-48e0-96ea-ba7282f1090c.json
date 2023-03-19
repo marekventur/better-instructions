@@ -1,0 +1,12 @@
+{
+  "id": "b0c1b9fc-755c-48e0-96ea-ba7282f1090c",
+  "instruction": "Summarize the following text for school children.",
+  "input": "The moon is the Earth's only natural satellite and was formed 4.5 billion years ago. It orbits the Earth at an average distance of 384,403 km, and has an average orbital speed of 1.022 km/s, altering its position relative to the Sun and Earth.",
+  "output": "The moon is a special satellite that has been orbiting Earth for billions of years. It's about 384,403 kilometres away from Earth, and is always moving at about 1.022 km/s.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

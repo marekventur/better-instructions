@@ -1,0 +1,12 @@
+{
+  "id": "43a1471a-962c-4246-bd96-54f09cb94582",
+  "instruction": "In this task, please locate the mistake in the given sentence",
+  "input": "I visited the store and buying a few things",
+  "output": "The mistake in the sentence is that \"buying\" should be \"bought\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

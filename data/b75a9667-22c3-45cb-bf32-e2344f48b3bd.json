@@ -1,0 +1,12 @@
+{
+  "id": "b75a9667-22c3-45cb-bf32-e2344f48b3bd",
+  "instruction": "Describe how the given speech could be considered non-intersectional.",
+  "input": "Person A: \u201cWe need to show solidarity for our Black brothers and sisters.\u201d",
+  "output": "Person A\u2019s statement is non-intersectional because it is limited to a single racial experience and does not acknowledge the diversity of experiences within the Black community. It also fails to recognize the experiences of other communities of color and fails to acknowledge multiple forms of oppression, including sexism, ableism, homophobia, and classism. By excluding intersectional analysis and considering only Black people as an identity group, Person A's statement is lacking in critical thought and ignores important elements.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

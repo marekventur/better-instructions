@@ -1,0 +1,12 @@
+{
+  "id": "4959b838-4bf4-4058-9acc-004169244196",
+  "instruction": "Find the mathematical formula that best describes the data set.",
+  "input": "A data set with 25 samples. Each sample has 5 elements.",
+  "output": "The best mathematical formula that describes the data set is a polynomial of degree 4 (n=4).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

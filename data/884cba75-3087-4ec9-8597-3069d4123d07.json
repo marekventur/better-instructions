@@ -1,0 +1,12 @@
+{
+  "id": "884cba75-3087-4ec9-8597-3069d4123d07",
+  "instruction": "Explain the given scientific principle.",
+  "input": "Newton's third law",
+  "output": "Newton's third law states that for every action, there is an equal and opposite reaction. This principle can be seen in motion and motion-related forces such as gravity, friction, and momentum. It explains why a ball thrown into the air will eventually come back down, as the force of gravity acts against the momentum of the ball. This law also explains why a car moving forwards will be pushed back by the road when the brakes are applied, as the force of friction acts against the momentum of the car. It further states that when two objects interact, they will experience equal and opposite forces.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

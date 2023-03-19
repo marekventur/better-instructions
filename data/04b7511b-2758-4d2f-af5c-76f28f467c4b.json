@@ -1,0 +1,12 @@
+{
+  "id": "04b7511b-2758-4d2f-af5c-76f28f467c4b",
+  "instruction": "Identify two verbs in the following sentence: \"He walked quickly to the store.\"",
+  "input": "He walked quickly to the store.",
+  "output": "Verbs: walked, quickly",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

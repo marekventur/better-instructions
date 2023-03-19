@@ -1,0 +1,12 @@
+{
+  "id": "f19af370-cbbd-402d-927e-8119030ff271",
+  "instruction": "Explain why deep neural networks are particularly useful for natural language understanding.",
+  "input": "",
+  "output": "Deep neural networks are particularly powerful tools for natural language understanding due to their ability to encode complex relationships between input and output data. They can learn patterns in the data that are hard to capture using traditional feature engineering techniques and are also able to capture long-term dependencies and context. This makes them well-suited for tasks such as machine translation, sentiment analysis and natural language generation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f9914b50-85cc-439a-a663-21934fdff28a",
+  "instruction": "Analyze the symbolism in this painting.",
+  "input": "[Image of a seascape painting]",
+  "output": "This seascape painting is a representation of the journey of life. The turbulent, stormy sea is a symbol of the challenges and obstacles we must face on our life's journey. The light of the sun emerging from the clouds is a symbol of hope and perseverance. The birds soaring in the sky represent freedom and the longing for adventure. Overarching all of these symbols is a message of resilience and strength in the face of difficulty.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

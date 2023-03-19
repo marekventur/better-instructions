@@ -1,0 +1,12 @@
+{
+  "id": "cdcfe23c-4bdb-45c9-abf3-de08991237d4",
+  "instruction": "Analyze the provided text and categorize it as  factual or opinion.",
+  "input": "The UK has one of the highest standards of living in the world.",
+  "output": "Factual",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

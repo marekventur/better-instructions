@@ -1,0 +1,12 @@
+{
+  "id": "a631bf23-3657-4d24-9508-8f4e6eed493c",
+  "instruction": "Search the internet and provide five different alternatives of the given synonyms.",
+  "input": "synonyms of 'rich'",
+  "output": "1. Affluent\n2. Well-off\n3. Wealthy\n4. Opulent\n5. Prosperous",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

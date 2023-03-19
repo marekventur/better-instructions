@@ -1,0 +1,12 @@
+{
+  "id": "06369fed-bbdf-4c46-815f-41b0831f45b5",
+  "instruction": "Sort these animals into two groups according to their diet.\n\nCows, Gorillas, Hummingbirds, Fish",
+  "input": "",
+  "output": "Herbivores: Cows, Gorillas\n\nCarnivores: Hummingbirds, Fish",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

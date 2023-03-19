@@ -1,0 +1,12 @@
+{
+  "id": "73901d06-973d-4549-b78a-7b742b5972d9",
+  "instruction": "Generate a list of questions related to a given topic.",
+  "input": "Innovation",
+  "output": "1. What are the most current trends in the field of innovation? \n2. What aspects of innovation offer the most potential for success? \n3. What challenges have businesses recently faced related to innovation? \n4. What strategies can businesses use to drive innovation? \n5. How have technological advances helped shape new models of innovation? \n6. What unique approaches to innovation have proven successful? \n7. What principles guide successful innovation projects? \n8. What opportunities for innovation exist in emerging markets?\n9. In what ways does collaboration foster innovation? \n10. How can ideas be leveraged to promote innovation?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

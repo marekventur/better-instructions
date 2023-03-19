@@ -1,0 +1,12 @@
+{
+  "id": "7e6ac835-d2af-414f-b8fa-a197f5f0b63d",
+  "instruction": "Describe a scenario where the given algorithm can be used to solve a problem.",
+  "input": "K-Nearest Neighbors (KNN) Algorithm",
+  "output": "KNN can be used to solve a variety of problems, such as pattern recognition, classification, and regression. For example, it could be used for predicting the prices of houses in a given area by looking at their characteristics and neighboring house prices. The algorithm will measure the similarity between each house and its nearest neighbors and will assign it a price based on their similarity. This is a common way of using KNN to solve a regression problem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

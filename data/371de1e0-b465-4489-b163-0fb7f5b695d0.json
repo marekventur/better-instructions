@@ -1,0 +1,12 @@
+{
+  "id": "371de1e0-b465-4489-b163-0fb7f5b695d0",
+  "instruction": "Given a restaurant menu, recommend one item.",
+  "input": "The menu contains items like Butter Chicken, Fried Rice, Tandoori Chicken, Chicken Tikka Masala, Dal Makhani, Egg Curry, Vegetable Biryani, etc.",
+  "output": "I recommend the Butter Chicken. It is a richly flavoured North Indian dish made with cream and a few spices.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

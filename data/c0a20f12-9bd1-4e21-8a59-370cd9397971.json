@@ -1,0 +1,12 @@
+{
+  "id": "c0a20f12-9bd1-4e21-8a59-370cd9397971",
+  "instruction": "Evaluate the following function at x = -5",
+  "input": "f(x) = x^2",
+  "output": "f(-5) = 25",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

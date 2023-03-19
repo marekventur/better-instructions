@@ -1,0 +1,12 @@
+{
+  "id": "04e482d1-91b2-4f2b-a9df-edfab24e7cce",
+  "instruction": "Re-order the words of the following sentence to create a grammatically correct sentence.",
+  "input": "often very different answers the same question",
+  "output": "The same question often elicits very different answers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

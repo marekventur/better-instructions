@@ -1,0 +1,12 @@
+{
+  "id": "fe06b1d7-e34f-4734-ae0f-cdde292f6862",
+  "instruction": "Given a sentence, count the number of words.",
+  "input": "It is a beautiful day.",
+  "output": "There are 4 words in the sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

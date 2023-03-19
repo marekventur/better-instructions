@@ -1,0 +1,12 @@
+{
+  "id": "763d60f9-101f-4160-bbf2-69a5f59bfddc",
+  "instruction": "Identify if the given sentence is using the active or passive voice.",
+  "input": "The professor was teaching the class.",
+  "output": "Passive voice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

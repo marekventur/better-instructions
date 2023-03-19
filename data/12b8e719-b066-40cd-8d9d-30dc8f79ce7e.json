@@ -1,0 +1,12 @@
+{
+  "id": "12b8e719-b066-40cd-8d9d-30dc8f79ce7e",
+  "instruction": "Identify the countries of origin for the following products.",
+  "input": "Lionel Messi, Red Bull, and Ferrari",
+  "output": "Lionel Messi: Argentina, \nRed Bull: Austria, \nFerrari: Italy",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

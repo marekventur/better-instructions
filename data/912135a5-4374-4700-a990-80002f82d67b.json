@@ -1,0 +1,12 @@
+{
+  "id": "912135a5-4374-4700-a990-80002f82d67b",
+  "instruction": "Analyze two websites for accessibility and make recommended improvements.",
+  "input": "Website 1: www.example.com \nWebsite 2: www.example2.com",
+  "output": "Website 1:\nThe color contrast does not meet standard accessibility requirements. Font size is too small for readability. Alt-text is lacking from many images which compromises accessibility. \n\nSuggested improvements: Increase the font size, add contrast to the background, add descriptive alt-text to the images. \n\nWebsite 2: \nLayout is too cramped and difficult to navigate. Navigation tab is placed at bottom of page which is not very prominent or accessible.\n\nSuggested improvements: Make elements more spaced out, reorganize the navigation so that it is placed at the top or side of the page.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

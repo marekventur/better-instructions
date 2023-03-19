@@ -1,0 +1,12 @@
+{
+  "id": "ec007f45-b280-459c-bb27-dcc3ea9b5638",
+  "instruction": "Classify the following sentence: \"I set the alarm to 5am\".",
+  "input": "",
+  "output": "The sentence is an imperative sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

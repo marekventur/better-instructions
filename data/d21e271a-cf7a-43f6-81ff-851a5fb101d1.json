@@ -1,0 +1,12 @@
+{
+  "id": "d21e271a-cf7a-43f6-81ff-851a5fb101d1",
+  "instruction": "Given two quotes, classify the political stance of the quotes.",
+  "input": "\"We must prioritize justice and equality over all else.\"\n\"The government should prioritize economic growth.\"",
+  "output": "Left-leaning, Right-leaning",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

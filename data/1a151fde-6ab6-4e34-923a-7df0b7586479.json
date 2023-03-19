@@ -1,0 +1,12 @@
+{
+  "id": "1a151fde-6ab6-4e34-923a-7df0b7586479",
+  "instruction": "Describe the given incident in a crisp and vivid way",
+  "input": "A woman was walking down the street when suddenly a car hit her.",
+  "output": "The woman was taken aback when a car careened past her and struck her off her feet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

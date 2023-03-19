@@ -1,0 +1,12 @@
+{
+  "id": "4040f550-61e4-4974-8d22-05981bf68f87",
+  "instruction": "Categorise the following organisms as producers, consumers or decomposers",
+  "input": "bacteria, grass, fox",
+  "output": "Bacteria: Decomposer\nGrass: Producer\nFox: Consumer",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

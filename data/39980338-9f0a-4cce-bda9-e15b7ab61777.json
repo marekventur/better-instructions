@@ -1,0 +1,12 @@
+{
+  "id": "39980338-9f0a-4cce-bda9-e15b7ab61777",
+  "instruction": "Classify the given sentence as either a statement, a question or a command.",
+  "input": "What is your name?",
+  "output": "Question",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

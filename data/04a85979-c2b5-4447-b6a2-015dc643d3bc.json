@@ -1,0 +1,12 @@
+{
+  "id": "04a85979-c2b5-4447-b6a2-015dc643d3bc",
+  "instruction": "Provide an output to the following function",
+  "input": "def words_in_sentence(sentence):\n  sentence = sentence.lower()\n  words = sentence.split(\" \")\n  return len(words) \n\nInput sentence: \"This is a sample sentence\"",
+  "output": "4",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

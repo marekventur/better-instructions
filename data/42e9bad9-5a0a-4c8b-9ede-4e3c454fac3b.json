@@ -1,0 +1,12 @@
+{
+  "id": "42e9bad9-5a0a-4c8b-9ede-4e3c454fac3b",
+  "instruction": "Identify a positive message in the following article.",
+  "input": "https://www.cnbc.com/2016/07/22/four-things-you-should-know-about-chinas-financial-market.html",
+  "output": "China's financial market is uniquely suited to facilitate increased access to previously-difficult-to-reach customers, creating new opportunities for businesses of all sizes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

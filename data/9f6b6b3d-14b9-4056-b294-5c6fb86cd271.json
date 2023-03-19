@@ -1,0 +1,12 @@
+{
+  "id": "9f6b6b3d-14b9-4056-b294-5c6fb86cd271",
+  "instruction": "Resolve a customer service issue with an unhappy customer",
+  "input": "The customer is unhappy about their order arriving late.",
+  "output": "I apologize for your order arriving later than expected. Our team takes customer satisfaction very seriously, so I'd like to investigate this further. Could you please provide me with some additional details, such as your order number and the expected delivery date? I'll look into this and do my best to resolve this issue as quickly as possible.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

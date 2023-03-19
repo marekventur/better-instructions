@@ -1,0 +1,12 @@
+{
+  "id": "8e6ed50a-da48-425c-b259-8ee40ea9289b",
+  "instruction": "Fix the typos from the following sentence.",
+  "input": "I struggel with my math homework",
+  "output": "I struggle with my math homework.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

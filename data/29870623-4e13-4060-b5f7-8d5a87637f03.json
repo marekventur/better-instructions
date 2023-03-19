@@ -1,0 +1,12 @@
+{
+  "id": "29870623-4e13-4060-b5f7-8d5a87637f03",
+  "instruction": "Find the length of the given word and add 3 to it.",
+  "input": "Mountains",
+  "output": "Length of the word \u201cMountains\u201d is 9, so 9 + 3 = 12.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

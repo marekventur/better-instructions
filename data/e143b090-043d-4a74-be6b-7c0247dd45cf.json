@@ -1,0 +1,12 @@
+{
+  "id": "e143b090-043d-4a74-be6b-7c0247dd45cf",
+  "instruction": "Rewrite the sentence given below, with the same meaning but in the present continuous.",
+  "input": "She is writing a novel",
+  "output": "She is currently writing a novel.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

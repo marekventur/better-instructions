@@ -1,0 +1,12 @@
+{
+  "id": "91e507ba-7a6b-46c3-a127-6f0fd336e17c",
+  "instruction": "Given two cities, calculate the estimated travel time by car.",
+  "input": "San Francisco and Los Angeles",
+  "output": "The estimated travel time by car from San Francisco to Los Angeles is 6 hours and 27 minutes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

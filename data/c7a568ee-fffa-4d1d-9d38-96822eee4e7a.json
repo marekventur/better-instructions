@@ -1,0 +1,12 @@
+{
+  "id": "c7a568ee-fffa-4d1d-9d38-96822eee4e7a",
+  "instruction": "Categorize this statement as a positive or negative statement.",
+  "input": "I'm not convinced that this is the right choice.",
+  "output": "Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

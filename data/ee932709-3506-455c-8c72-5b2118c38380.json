@@ -1,0 +1,12 @@
+{
+  "id": "ee932709-3506-455c-8c72-5b2118c38380",
+  "instruction": "Create a musical score with 4 beats",
+  "input": "",
+  "output": "|1 | 2 |3 | 4 |\n|:---:|:---:|:---:|:---:|\n|G |D |A |E |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

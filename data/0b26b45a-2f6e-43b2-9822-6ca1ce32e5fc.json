@@ -1,0 +1,12 @@
+{
+  "id": "0b26b45a-2f6e-43b2-9822-6ca1ce32e5fc",
+  "instruction": "Classification. Classify the given article into either \"Business\" or \"Politics\"",
+  "input": "The president has recently signed a policy to help curb climate change. It involves the implementation of new regulations and incentives to encourage renewable energy use and reduce emissions from industrial sources.",
+  "output": "Politics",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

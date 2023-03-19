@@ -1,0 +1,12 @@
+{
+  "id": "81144243-b196-4afb-b7a7-03e7245773a1",
+  "instruction": "Generate a script in Python that takes two integers and prints the sum of these numbers.",
+  "input": "",
+  "output": "def printSum(a, b): \n    print(\"The sum of \", a, \"and\", b, \"is\", a+b)\n  \n# Driver code \na = 5\nb = 10\nprintSum(a, b)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

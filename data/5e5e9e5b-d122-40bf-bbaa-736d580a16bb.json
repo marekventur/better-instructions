@@ -1,0 +1,12 @@
+{
+  "id": "5e5e9e5b-d122-40bf-bbaa-736d580a16bb",
+  "instruction": "Identify the part of speech for each of the words in the following sentence.",
+  "input": "I found an old photograph of my parents.",
+  "output": "I (pronoun) found (verb) an (article) old (adjective) photograph (noun) of (preposition) my (pronoun) parents (noun).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

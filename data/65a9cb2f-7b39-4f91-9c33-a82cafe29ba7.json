@@ -1,0 +1,12 @@
+{
+  "id": "65a9cb2f-7b39-4f91-9c33-a82cafe29ba7",
+  "instruction": "Output the use of \"then\" in the following sentence.",
+  "input": "I told you not to do it, but you did it anyway, then?",
+  "output": "Then (Adverb): used to introduce an inference based on what has already been said.  It links back to the idea that \"you did it anyway\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e0ce6abb-5453-4cfe-815c-336dfa4c3467",
+  "instruction": "Using the given example, rewrite the sentence in the present continuous tense.",
+  "input": "He was talking on the phone",
+  "output": "He is talking on the phone.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

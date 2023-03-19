@@ -1,0 +1,12 @@
+{
+  "id": "ea151cc1-940e-497b-9b6d-81f4565ceab6",
+  "instruction": "Determine if an event is a valid probability",
+  "input": "Flipping a coin and getting heads",
+  "output": "Yes, flipping a coin and getting heads is a valid probability event. The probability of heads being flipped is 50% (or 0.5).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

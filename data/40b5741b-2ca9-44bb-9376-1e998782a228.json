@@ -1,0 +1,12 @@
+{
+  "id": "40b5741b-2ca9-44bb-9376-1e998782a228",
+  "instruction": "Detect the SMS/text slang in the given message and translate it into formal English.",
+  "input": "Wag1 b fast, be4 we miss d train!",
+  "output": "Warning: Be quick, before we miss the train!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

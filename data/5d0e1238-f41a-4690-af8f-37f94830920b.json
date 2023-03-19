@@ -1,0 +1,12 @@
+{
+  "id": "5d0e1238-f41a-4690-af8f-37f94830920b",
+  "instruction": "Write three to five sentences describing the data visualization below:",
+  "input": "<image from a data visualization>",
+  "output": "The data visualization shows the median age of the U.S. population in 2019. It can be seen that the median age of the population increased from 24.9 years to 40.2 years between 1950 and 2019. The median age in 1950 was the lowest median age in the past 70 years, while the median age in 2019 was the highest. California had the highest median age at 43.7 years and Utah had the lowest median age at 30.8 years. In comparison, the national median age was 40.2 years in 2019. Overall, the data depicts a clear rise in the median age across the U.S. over the last seven decades.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

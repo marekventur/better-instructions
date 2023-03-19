@@ -1,0 +1,12 @@
+{
+  "id": "604fbdcf-f793-4fce-a327-ec737d585e6f",
+  "instruction": "Rewrite the sentence to fix the punctuation error.",
+  "input": "It is raining cats, and dogs",
+  "output": "It is raining cats and dogs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

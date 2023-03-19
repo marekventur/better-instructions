@@ -1,0 +1,12 @@
+{
+  "id": "b64fbd67-07b7-4b82-a394-39af84620c6f",
+  "instruction": "Generate an algorithm to detect the outliers in an array.",
+  "input": "[33, 29, 130, 21, 42, 11]",
+  "output": "This algorithm will detect the outliers in this array by checking each value against the average of the array, and flag values that are more than a certain number of standard deviations away from the average. For example, if the average is 35 and the standard deviation equals 10, values above 55 and below 15 would be considered outliers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

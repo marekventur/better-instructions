@@ -1,0 +1,12 @@
+{
+  "id": "1e983589-14c7-4cec-a7b9-9f8dd54e7641",
+  "instruction": "Guess which two people met in this location.",
+  "input": "<image of a train station>",
+  "output": "The two people that could have met in this location are likely a traveler and a station attendant.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

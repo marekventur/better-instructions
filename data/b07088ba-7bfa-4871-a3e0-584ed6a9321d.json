@@ -1,0 +1,12 @@
+{
+  "id": "b07088ba-7bfa-4871-a3e0-584ed6a9321d",
+  "instruction": "For the given HTML code, replace it with an XML equivalent code.",
+  "input": "<html>\n   <head>\n      <title>Test</title>\n   </head>\n   <body>\n      <p>Welcome to my website</p>\n   </body>\n</html>",
+  "output": "<xml>\n   <head>\n      <title>Test</title>\n   </head>\n   <body>\n      <p>Welcome to my website</p>\n   </body>\n</xml>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

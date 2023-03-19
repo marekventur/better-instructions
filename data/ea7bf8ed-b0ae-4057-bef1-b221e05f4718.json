@@ -1,0 +1,12 @@
+{
+  "id": "ea7bf8ed-b0ae-4057-bef1-b221e05f4718",
+  "instruction": "Find the adverbs in the following sentence and identify their purpose.",
+  "input": "I will quickly run to catch the bus.",
+  "output": "The adverb is \"quickly\" which is used to indicate the speed of the action.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

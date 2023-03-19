@@ -1,0 +1,12 @@
+{
+  "id": "086088e7-fc61-459c-8d39-3daa3033a19f",
+  "instruction": "Create an algorithm to calculate the area of a triangle",
+  "input": "",
+  "output": "def triangle_area(base, height):\n    return (base * height) / 2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

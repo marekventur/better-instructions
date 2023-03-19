@@ -1,0 +1,12 @@
+{
+  "id": "260147f3-2216-4837-81fb-258335bc7b90",
+  "instruction": "Calculate the discounted price of an item.",
+  "input": "Regular Price: $100 \nDiscount Rate: 0.2",
+  "output": "The discounted price of the item is $80.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

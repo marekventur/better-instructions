@@ -1,0 +1,12 @@
+{
+  "id": "ea09da4d-22d5-471e-9611-f842f9084879",
+  "instruction": "Construct a sentence using at least three of the given words.",
+  "input": "Feet, bicycle, aunt",
+  "output": "My aunt and I went for a bicycle ride on a sunny day and our feet felt rejuvenated.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

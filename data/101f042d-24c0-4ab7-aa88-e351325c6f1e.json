@@ -1,0 +1,12 @@
+{
+  "id": "101f042d-24c0-4ab7-aa88-e351325c6f1e",
+  "instruction": "Rewrite the following sentence with a pronoun. Output the rewritten sentence.",
+  "input": "The programmer who was working on the project was praised.",
+  "output": "They praised the programmer working on the project.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

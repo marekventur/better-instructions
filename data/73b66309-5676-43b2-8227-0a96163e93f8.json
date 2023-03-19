@@ -1,0 +1,12 @@
+{
+  "id": "73b66309-5676-43b2-8227-0a96163e93f8",
+  "instruction": "Analyze the given painting and provide a title.",
+  "input": "![alt text](https://images.pexels.com/photos/1500243/pexels-photo-1500243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)",
+  "output": "The title of this painting is \"Tranquility\". The painting captures a peaceful, contemplative moment, with the muted colors and the stillness of the lake reflecting the sky above. The lone figure highlighted in the painting gives the impression of being rooted in the moment, free from the hustle and bustle of the world and at one with nature.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

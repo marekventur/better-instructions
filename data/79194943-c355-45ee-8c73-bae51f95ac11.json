@@ -1,0 +1,12 @@
+{
+  "id": "79194943-c355-45ee-8c73-bae51f95ac11",
+  "instruction": "Replace words in the input sentence with their synonyms and keep the original context.",
+  "input": "John likes to ride his bicycle in the park.",
+  "output": "John enjoys pedalling his bike in the recreation area.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

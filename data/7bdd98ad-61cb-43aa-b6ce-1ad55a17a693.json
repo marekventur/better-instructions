@@ -1,0 +1,12 @@
+{
+  "id": "7bdd98ad-61cb-43aa-b6ce-1ad55a17a693",
+  "instruction": "Classify these animals as vertebrates or invertebrates: elephant, jellyfish.",
+  "input": "",
+  "output": "Vertebrates: Elephant\nInvertebrates: Jellyfish",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

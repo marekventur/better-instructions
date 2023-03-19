@@ -1,0 +1,12 @@
+{
+  "id": "4884be69-9baf-484a-98b8-177c48a32fbc",
+  "instruction": "Rename the variables in the equation",
+  "input": "A = 2B + 4",
+  "output": "X = 2Y + 4",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

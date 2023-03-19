@@ -1,0 +1,12 @@
+{
+  "id": "5c696a88-31fb-482b-acbe-44dee70d63ab",
+  "instruction": "Using the provided sentence, create a poem by combining it with another sentence.",
+  "input": "The sky was painted in the colors of the night.",
+  "output": "The stars twinkle in the velvet sky,\nA magical painting of starlight so bright.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

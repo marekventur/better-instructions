@@ -1,0 +1,12 @@
+{
+  "id": "7184b32d-3aa5-43d4-adf0-eaede20e53b8",
+  "instruction": "Write an algorithm to find the Top 3 movies with highest average rating.",
+  "input": "",
+  "output": "Step 1: Create a list of movies and ratings.\nStep 2: Sort the list in descending order based on the average rating.\nStep 3: Select the top 3 movies in the resulting list.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7b94304b-6539-4893-98a4-0274e88d196d",
+  "instruction": "Find the 10th letter of the following text: \"The quick brown fox jumped over the lazy dog\".",
+  "input": "",
+  "output": "The 10th letter of the text is \"o\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

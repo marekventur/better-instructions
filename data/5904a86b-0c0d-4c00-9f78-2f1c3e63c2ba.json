@@ -1,0 +1,12 @@
+{
+  "id": "5904a86b-0c0d-4c00-9f78-2f1c3e63c2ba",
+  "instruction": "Categorize the following statement: \"The dog jumped over the fence.\"",
+  "input": "",
+  "output": "Verb: jumped\nNoun: dog, fence\nAdverb: over",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

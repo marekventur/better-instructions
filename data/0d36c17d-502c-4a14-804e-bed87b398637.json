@@ -1,0 +1,12 @@
+{
+  "id": "0d36c17d-502c-4a14-804e-bed87b398637",
+  "instruction": "Greet a customer with a personalized message.",
+  "input": "John",
+  "output": "Hello John, welcome! How can I help you today?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

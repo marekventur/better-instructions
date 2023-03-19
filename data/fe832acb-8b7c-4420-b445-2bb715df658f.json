@@ -1,0 +1,12 @@
+{
+  "id": "fe832acb-8b7c-4420-b445-2bb715df658f",
+  "instruction": "Break this sentence into pieces.",
+  "input": "Let's go to the movies.",
+  "output": "Let's / go / to / the / movies.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f7625a20-5408-4ba3-8722-5df4e3864939",
+  "instruction": "Select the word that does not belong in the list.",
+  "input": "blue, pink, green, yellow",
+  "output": "Pink.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

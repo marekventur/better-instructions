@@ -1,0 +1,12 @@
+{
+  "id": "3bc958a4-a2ba-41a8-ab70-2e65d66c8594",
+  "instruction": "Under what scenarios would you use a convolutional neural network?",
+  "input": "",
+  "output": "Convolutional Neural Networks (CNNs) are often used for tasks such as image classification, object detection, and segmentation. They work by extracting relevant features from an image and using them to recognize patterns in the data. CNNs are also used for natural language processing tasks such as sentiment analysis and machine translation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

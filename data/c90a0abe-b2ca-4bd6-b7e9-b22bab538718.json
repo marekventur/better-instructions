@@ -1,0 +1,12 @@
+{
+  "id": "c90a0abe-b2ca-4bd6-b7e9-b22bab538718",
+  "instruction": "Given some ingredients, generate a recipe.",
+  "input": "2 tomatoes, 1 onion, 1 cup of cooked beans",
+  "output": "Chop the tomatoes and onion into small pieces. Then heat a tablespoon of oil in a pan. Add the tomatoes, onion, and cooked beans. Stir in 1 tablespoon of cumin and 1 teaspoon of oregano. Cook for 10 minutes and serve hot.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

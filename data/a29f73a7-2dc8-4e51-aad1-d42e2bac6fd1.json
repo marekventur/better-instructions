@@ -1,0 +1,12 @@
+{
+  "id": "a29f73a7-2dc8-4e51-aad1-d42e2bac6fd1",
+  "instruction": "Compare and contrast Dijkstra\u2019s algorithm and A* algorithm.",
+  "input": "",
+  "output": "The Dijkstra\u2019s algorithm and A* algorithm are both path finding algorithms used for solving the shortest path problem in a graph. Both algorithms guarantee to find the optimal path from the source node to the goal node. \n\nThe main difference between these algorithms is that the Dijkstra's algorithm uses a Breadth-first search approach, while the A* algorithm adopts a Heuristic-based search approach. Dijkstra's algorithm is a simple and straightforward pathfinding algorithm, while the A* algorithm is more complex and efficient and uses the heuristic function to determine the most efficient path. Additionally, Dijkstra\u2019s algorithm is not informed and uses uniform-cost search while A* is informed and uses the heuristic cost.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

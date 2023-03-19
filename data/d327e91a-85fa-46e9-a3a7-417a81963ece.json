@@ -1,0 +1,12 @@
+{
+  "id": "d327e91a-85fa-46e9-a3a7-417a81963ece",
+  "instruction": "Classify each of the following as either a \u201cCarbohydrate\u201d, \u201cFats\u201d, or \u201cProtein\u201d.",
+  "input": "Whole grain bread",
+  "output": "Carbohydrate",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

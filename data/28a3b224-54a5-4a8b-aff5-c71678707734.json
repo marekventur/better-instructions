@@ -1,0 +1,12 @@
+{
+  "id": "28a3b224-54a5-4a8b-aff5-c71678707734",
+  "instruction": "Write an email to persuade your manager to grant you a pay raise.",
+  "input": "",
+  "output": "Subject: Request for pay raise\n\nDear [Manager],\n\nI am writing to request a raise in my salary, as I feel that I have put in a lot of hard work and dedication to the work I have been doing. I have been working diligently for the past [x] months and I have consistently met or exceeded expectations. I have also taken on additional responsibilities, such as [list tasks].\n\nI am confident that my performance has earned me a pay raise and that it would be beneficial for both myself and the company.\n\nI am looking forward to your response.\n\nSincerely,\n[Your name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "afb41d25-9903-4597-bb18-c274e90efb2d",
+  "instruction": "Generate an example of dialogue between two characters who disagree.",
+  "input": "",
+  "output": "Character 1: \"I don't think that's a good idea, it could cause a lot of problems.\" \nCharacter 2: \"I disagree, this decision could really improve our performance. We should try it out.\" \nCharacter 1: \"I still think that is too risky. We should stick to the plan we already have in place.\" \nCharacter 2: \"But if it works, it could help us reach our goals much faster.\" \nCharacter 1: \"I understand, but we can't rush into something without testing it first. Let's take the time to evaluate it properly.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

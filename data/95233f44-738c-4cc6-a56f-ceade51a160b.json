@@ -1,0 +1,12 @@
+{
+  "id": "95233f44-738c-4cc6-a56f-ceade51a160b",
+  "instruction": "Which of these words is an adverb?",
+  "input": "sadly, away, quickly",
+  "output": "The word that is an adverb is \"quickly\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

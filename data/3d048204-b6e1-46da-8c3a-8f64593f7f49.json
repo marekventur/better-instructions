@@ -1,0 +1,12 @@
+{
+  "id": "3d048204-b6e1-46da-8c3a-8f64593f7f49",
+  "instruction": "Propose a personal budget for a family of three with a budget of $3000 per month.",
+  "input": "",
+  "output": "For a family of three with a budget of $3000 per month, a suggested personal budget could look like this: \n- Rent/mortgage: $1,000\n- Groceries & household items: $500\n- Utilities (heat, electricity, water): $200\n- Transportation: $200\n- Medical & dental expenses: $200\n- Cell phone & internet: $90\n- Clothing & personal care: $300 \n- Savings & investments: $500\n- Recreational activities: $200 \n\nTotal Monthly Spending: $3000",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

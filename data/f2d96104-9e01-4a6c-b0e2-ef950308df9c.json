@@ -1,0 +1,12 @@
+{
+  "id": "f2d96104-9e01-4a6c-b0e2-ef950308df9c",
+  "instruction": "Retrieve the noun from the sentence.",
+  "input": "Apple recently released their new iPhone model.",
+  "output": "iPhone",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

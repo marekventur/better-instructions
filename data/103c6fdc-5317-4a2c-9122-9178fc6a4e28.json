@@ -1,0 +1,12 @@
+{
+  "id": "103c6fdc-5317-4a2c-9122-9178fc6a4e28",
+  "instruction": "Extract the main verb from the following sentence and classify it according to its tense.",
+  "input": "She is eating lunch",
+  "output": "Verb: eat, Tense: present continuous",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

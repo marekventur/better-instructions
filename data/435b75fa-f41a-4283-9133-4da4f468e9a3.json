@@ -1,0 +1,12 @@
+{
+  "id": "435b75fa-f41a-4283-9133-4da4f468e9a3",
+  "instruction": "Explain the process for creating a word cloud visualization and the software needed for the task.",
+  "input": "",
+  "output": "Creating a word cloud visualization involves using software to generate an image composed of words or phrases in varying sizes and fonts. To create a word cloud, a text document containing the words or phrases you want to be included in the visualization is first imported into the software. The software then generates a word cloud image based on the frequency of the words or phrases in the imported text. Popular software used to create a word cloud visualization include Wordle, Tagxedo, and Wordclouds.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

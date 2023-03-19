@@ -1,0 +1,12 @@
+{
+  "id": "886e5cd9-b974-49f9-b54f-8ebb0a5e2936",
+  "instruction": "Give the corresponding forecasted quantity value for the given market data.",
+  "input": "The market experienced high volatility on July 29, closing 2.3% above the opening price.",
+  "output": "The forecasted quantity value on July 29 is 2.3%.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "091e0bb7-e700-4e8f-a4c6-bd1622d9055b",
+  "instruction": "Replace all instances of the placeholder \"$VARIABLE1\" with the correct answer.",
+  "input": "The result of the calculation is $VARIABLE1.",
+  "output": "The result of the calculation is 4.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

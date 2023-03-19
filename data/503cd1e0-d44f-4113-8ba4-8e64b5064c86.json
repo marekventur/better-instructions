@@ -1,0 +1,12 @@
+{
+  "id": "503cd1e0-d44f-4113-8ba4-8e64b5064c86",
+  "instruction": "Rewrite the sentence so that it has the same meaning, but no two words start with the same letter.",
+  "input": "The flowers in the garden were blooming brightly.",
+  "output": "Blossoms in the garden glowed splendidly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

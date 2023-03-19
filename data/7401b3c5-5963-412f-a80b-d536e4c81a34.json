@@ -1,0 +1,12 @@
+{
+  "id": "7401b3c5-5963-412f-a80b-d536e4c81a34",
+  "instruction": "Given a DNA sequence, identify the nucleobase composition.",
+  "input": "AGCTCATACAGACTAC",
+  "output": "The DNA sequence given has 6 Adenine, 4 Cytosine, 2 Guanine, and 4 Thymine nucleobases.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

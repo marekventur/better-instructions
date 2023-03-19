@@ -1,0 +1,12 @@
+{
+  "id": "0fae6a12-7528-40de-8476-42e4325de3ef",
+  "instruction": "If the given equation was true, what would be the value of x?",
+  "input": "x + 8 = 10",
+  "output": "2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

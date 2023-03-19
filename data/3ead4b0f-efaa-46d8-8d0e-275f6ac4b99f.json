@@ -1,0 +1,12 @@
+{
+  "id": "3ead4b0f-efaa-46d8-8d0e-275f6ac4b99f",
+  "instruction": "Given the following facts, tell a joke.",
+  "input": "Rabbit, pie, carrot",
+  "output": "What did the rabbit bake in a pie? A car-rot!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

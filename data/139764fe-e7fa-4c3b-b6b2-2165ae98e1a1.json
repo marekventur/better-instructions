@@ -1,0 +1,12 @@
+{
+  "id": "139764fe-e7fa-4c3b-b6b2-2165ae98e1a1",
+  "instruction": "Describe the difference between active and passive voice.",
+  "input": "",
+  "output": "The difference between active and passive voice is based on the way in which the sentence is structured and which words in the sentence are emphasized. In an active voice sentence, the subject of the sentence performs the action, while in a passive voice sentence, the subject receives the action. For example, in the sentence \u201cThe teacher taught the students,\u201d the subject of the sentence is \u201cthe teacher,\u201d and the action is \u201ctaught.\u201d This is an active voice sentence. However, in the sentence \u201cThe students were taught by the teacher,\u201d the subject of the sentence is \u201cthe students,\u201d and the action is \u201cwere taught.\u201d This is a passive voice sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b4beebd0-b2b6-428a-a1a3-c2a287ecacf9",
+  "instruction": "Edit and reformat the following sentence.",
+  "input": "It is encouraged that people to wear face masks when they go out.",
+  "output": "People are encouraged to wear face masks when they go out.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2671e731-8804-4a00-8e9f-54f4c8ffb468",
+  "instruction": "In the following sentence, identify the noun, verb, and adjective in the sentence.",
+  "input": "She eagerly observed the stars.",
+  "output": "Noun: stars; Verb: observed; Adjective: eagerly",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

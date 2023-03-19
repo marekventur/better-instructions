@@ -1,0 +1,12 @@
+{
+  "id": "dfdb61ec-4d10-4bee-860c-4276112bafb7",
+  "instruction": "Create a JSON string to store this data.",
+  "input": "Name: David Smith \nDate of Birth: March 4th, 1996\nAge: 25",
+  "output": "{\"name\": \"David Smith\", \"date_of_birth\": \"March 4th, 1996\", \"age\": 25}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

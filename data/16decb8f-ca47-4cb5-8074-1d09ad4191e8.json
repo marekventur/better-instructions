@@ -1,0 +1,12 @@
+{
+  "id": "16decb8f-ca47-4cb5-8074-1d09ad4191e8",
+  "instruction": "Calculate the answer for the given math calculation and output the answer.",
+  "input": "2+6",
+  "output": "8",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

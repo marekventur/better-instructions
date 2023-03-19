@@ -1,0 +1,12 @@
+{
+  "id": "223d21f3-4c0e-4ade-b96d-a75b929ae223",
+  "instruction": "Given the title of a book, explain why someone should read it.",
+  "input": "The Great Gatsby",
+  "output": "The Great Gatsby by F. Scott Fitzgerald is worth reading because it carries a poignant message of the idea of the \u201cAmerican Dream.\u201d It is a captivating journey through Gatsby\u2019s life and his relentless ambition to achieve his idea of perfection against all odds. Metaphorically speaking, the story teaches readers to never give up and enjoy life despite its harshness. It is an emotional roller-coaster ride full of love, tragedy, betrayal, and class inequality. With plenty of themes, motifs, and symbols to uncover, this novel is a must-read for anyone looking for an engaging read.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

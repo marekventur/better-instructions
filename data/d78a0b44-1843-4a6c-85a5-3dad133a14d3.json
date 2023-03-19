@@ -1,0 +1,12 @@
+{
+  "id": "d78a0b44-1843-4a6c-85a5-3dad133a14d3",
+  "instruction": "Design an interface for a cryptocurrency trading platform.",
+  "input": "",
+  "output": "An interface for a cryptocurrency trading platform should allow users to easily view current prices, trends, and market news. The interface should have an intuitive design that allows users to quickly switch between different cryptocurrencies and view price charts, technical indicators, and other data. It should also provide the option to set up notifications that alert users when prices reach certain levels or there is a significant market event. Additionally, the platform should offer user-friendly order execution, portfolio tracking, and other features that allow users to easily manage their trading activities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

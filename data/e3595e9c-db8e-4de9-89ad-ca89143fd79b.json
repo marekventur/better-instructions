@@ -1,0 +1,12 @@
+{
+  "id": "e3595e9c-db8e-4de9-89ad-ca89143fd79b",
+  "instruction": "Output a 3-5 sentence definition of the term \"computer virus\".",
+  "input": "",
+  "output": "A computer virus is a type of malicious software that is designed to replicate itself and spread to other computers. It is usually spread through emails, downloads and removable storage media, and can cause damage to data, programs, and software applications. It is important to implement protective measures such as anti-virus software and keeping your systems updated in order to prevent a computer virus from infecting your computer. Additionally, it is wise to be vigilant of unfamiliar links or websites and to only open emails or attachments from people you trust.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

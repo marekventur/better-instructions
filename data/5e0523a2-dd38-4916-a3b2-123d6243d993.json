@@ -1,0 +1,12 @@
+{
+  "id": "5e0523a2-dd38-4916-a3b2-123d6243d993",
+  "instruction": "Create a python script to print the message \u201cHello World\u201d 10 times.",
+  "input": "",
+  "output": "for _ in range(10):\n    print(\"Hello World\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

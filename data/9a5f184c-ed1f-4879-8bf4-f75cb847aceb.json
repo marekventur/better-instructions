@@ -1,0 +1,12 @@
+{
+  "id": "9a5f184c-ed1f-4879-8bf4-f75cb847aceb",
+  "instruction": "Classify the following tweet as being positive, negative, or neutral: \"My textbooks are still on the way!\".",
+  "input": "",
+  "output": "Neutral. The tweet does not explicitly express any positive or negative sentiment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

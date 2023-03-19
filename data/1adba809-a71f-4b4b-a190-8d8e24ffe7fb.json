@@ -1,0 +1,12 @@
+{
+  "id": "1adba809-a71f-4b4b-a190-8d8e24ffe7fb",
+  "instruction": "Generate a short narrative that explains the given concept.",
+  "input": "A public good is a commodity or service that is non-excludable and non-rivalrous",
+  "output": "A public good is a commodity or service that is available to everyone and cannot be restricted or blocked by individuals or organizations. It also doesn\u2019t get \u201cused up\u201d when accessed, meaning it can be consumed by everyone at the same time. A classical example of a public good is national defense - the security it provides is non-excludable and non-rivalrous, which means it can be enjoyed by everyone without fear of exclusion and without being \u201cused up\u201d by others. Other examples of public goods include streetlights, healthcare, education, and many of the services provided by the government.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

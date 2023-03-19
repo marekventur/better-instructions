@@ -1,0 +1,12 @@
+{
+  "id": "3ccc1b90-82c4-4e4f-8432-187f1b3e894e",
+  "instruction": "Classify the following food into non-vegetarian or vegetarian.",
+  "input": "Cheese",
+  "output": "Cheese is a vegetarian food.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

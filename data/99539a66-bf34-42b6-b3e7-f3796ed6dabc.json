@@ -1,0 +1,12 @@
+{
+  "id": "99539a66-bf34-42b6-b3e7-f3796ed6dabc",
+  "instruction": "Describe a possible cause of the given symptom.",
+  "input": "Migraine",
+  "output": "A migraine can be caused by a variety of factors, including genetics, hormones, stress, lack of sleep, and diet. Certain foods, drinks (such as caffeine, alcohol, and artificial sweeteners), and anti-inflammatory medications, may trigger a migraine attack. Changes in the weather, strong odors, and environmental factors may also be responsible. Additionally, certain activities such as intense exercise, skipped meals, and even excessive talking or laughing can increase the likelihood of a migraine.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

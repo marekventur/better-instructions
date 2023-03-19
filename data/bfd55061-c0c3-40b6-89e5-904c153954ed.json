@@ -1,0 +1,12 @@
+{
+  "id": "bfd55061-c0c3-40b6-89e5-904c153954ed",
+  "instruction": "Given the company itself, compare and contrast its strengths and weaknesses",
+  "input": "Company: Apple",
+  "output": "Apple is one of the largest and most successful technology companies in the world. Its strengths include its strong brand recognition, innovative products, and a loyal customer base. Its weaknesses include its reliance on the iPhone as a main product, limited geographic presence, and lower average revenue per user. Apple is also facing increasing competition from rivals such as Google and Samsung. Additionally, its product strategy has been criticized for being too rigid, leading to a lack of product diversification. Despite these weaknesses, Apple remains one of the most recognizable and successful technology companies in the world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

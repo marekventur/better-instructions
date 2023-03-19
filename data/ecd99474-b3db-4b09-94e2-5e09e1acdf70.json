@@ -1,0 +1,12 @@
+{
+  "id": "ecd99474-b3db-4b09-94e2-5e09e1acdf70",
+  "instruction": "Formulate an appropriate multiple-choice question based on the given fact.",
+  "input": "Fact: Beavers are the national animal of Canada",
+  "output": "Which is the national animal of Canada?\na. Elephant\nb. Beaver\nc. Tiger\nd. Fox",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

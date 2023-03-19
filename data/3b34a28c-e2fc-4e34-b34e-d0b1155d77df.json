@@ -1,0 +1,12 @@
+{
+  "id": "3b34a28c-e2fc-4e34-b34e-d0b1155d77df",
+  "instruction": "Identify which of the given facts are true.",
+  "input": "- The capital of France is Vienna.\n- The capital of France is Paris.",
+  "output": "The fact that the capital of France is Paris is true. The fact that the capital of France is Vienna is false.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

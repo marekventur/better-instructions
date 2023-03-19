@@ -1,0 +1,12 @@
+{
+  "id": "f57d114f-152f-4c0b-ab61-d1b8d9cdf750",
+  "instruction": "Find the odd one out between the words provided.",
+  "input": "Bee, Caterpillar, Ant",
+  "output": "Bee",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

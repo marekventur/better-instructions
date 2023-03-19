@@ -1,0 +1,12 @@
+{
+  "id": "7d540e19-88d9-49fd-bcba-5a585a33b5c3",
+  "instruction": "Calculate the following mathematical expression: 4 + 5(6-3).",
+  "input": "",
+  "output": "The result of the expression is 29. The calculation proceeds as follows: 4 + 5(6-3) = 4 + 5(3) = 4 + 15 = 19.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

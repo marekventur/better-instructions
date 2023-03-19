@@ -1,0 +1,12 @@
+{
+  "id": "d396519d-13aa-4697-9833-0926b271d858",
+  "instruction": "Given the following definition, build a sentence using the word.",
+  "input": "To send away abruptly or angrily",
+  "output": "He angrily dismissed me without even giving me an explanation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "17697c88-2bc6-408b-bf30-6427cf78f16a",
+  "instruction": "Classify these two animals as carnivore or herbivore.",
+  "input": "Lion and Gorilla",
+  "output": "The lion is a carnivore and the gorilla is an herbivore.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "843a056b-49c6-4401-b7a6-b3471f545eba",
+  "instruction": "Given an article, convert it into a list of bullet points.",
+  "input": "Article: \nThe global pandemic is causing uncertainty and stress for many people. Besides the health risks, the economic impact has been significant and the effects will last longer than the initial disruption.",
+  "output": "- The global pandemic has had a significant impact on people's health and safety. \n- Economic impacts are widespread and will last longer than the initial disruption. \n- People are feeling uncertain and stressed during this time. \n- Social distancing restrictions have been put in place to slow the spread of the virus.\n- Mental health and wellbeing should be prioritized during this time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

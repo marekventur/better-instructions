@@ -1,0 +1,12 @@
+{
+  "id": "f66d68bb-7f0c-417d-95e1-e25f59b10adf",
+  "instruction": "Identify whether a content of the text is object-oriented programming or not.",
+  "input": "Classes and objects are the cornerstone of object-oriented programming.",
+  "output": "Yes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

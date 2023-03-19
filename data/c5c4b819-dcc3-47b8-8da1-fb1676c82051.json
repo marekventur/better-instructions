@@ -1,0 +1,12 @@
+{
+  "id": "c5c4b819-dcc3-47b8-8da1-fb1676c82051",
+  "instruction": "Categorize the given item as either a plant or animal.",
+  "input": "A fox",
+  "output": "Animal",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

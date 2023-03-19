@@ -1,0 +1,12 @@
+{
+  "id": "893cdf09-6955-4949-84a1-c24970cf998f",
+  "instruction": "Rewrite the following sentence toavoid repetition.",
+  "input": "The students the students",
+  "output": "The students all",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

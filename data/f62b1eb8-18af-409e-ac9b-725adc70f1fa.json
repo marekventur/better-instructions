@@ -1,0 +1,12 @@
+{
+  "id": "f62b1eb8-18af-409e-ac9b-725adc70f1fa",
+  "instruction": "Collect and organize the important points from the following text.",
+  "input": "The Hubble Space Telescope is a space telescope which is used to observe the universe from outside of Earth's atmosphere. It was launched in 1990 and is still in use today. Its primary goal is to provide data for understanding the origin, structure and evolution of galaxies.",
+  "output": "- The Hubble Space Telescope was launched in 1990\n- It is used to observe the universe from outside of Earth's atmosphere\n- Can provide data for understanding the origin, structure and evolution of galaxies\n- Still in use today",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

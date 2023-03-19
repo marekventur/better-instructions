@@ -1,0 +1,12 @@
+{
+  "id": "beec5e67-419c-4624-853f-0ee917de3050",
+  "instruction": "Edit the following sentence: \"Today, I did a lot of shopping online.\"",
+  "input": "Today, I did a lot of shopping online.",
+  "output": "Today, I did a lot of shopping online and saved a lot of money.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

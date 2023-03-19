@@ -1,0 +1,12 @@
+{
+  "id": "2029525b-27f6-41af-a789-367271d73a9a",
+  "instruction": "Compare the benefits of a given product to its drawbacks.",
+  "input": "Electric Cars",
+  "output": "The benefits of electric cars include lower emissions, greater fuel efficiency, and quiet operation. On the other hand, they typically cost more than standard cars, require greater charging times, and have limited range.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

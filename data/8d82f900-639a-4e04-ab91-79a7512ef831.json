@@ -1,0 +1,12 @@
+{
+  "id": "8d82f900-639a-4e04-ab91-79a7512ef831",
+  "instruction": "Given the following list of words, combine them in a way that makes a meaningful sentence.",
+  "input": "Words: Political, Worship, United, States",
+  "output": "The United States is a politically worshipping country.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

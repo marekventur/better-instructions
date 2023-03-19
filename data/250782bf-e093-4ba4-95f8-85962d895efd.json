@@ -1,0 +1,12 @@
+{
+  "id": "250782bf-e093-4ba4-95f8-85962d895efd",
+  "instruction": "Transform a set of facts into a short poem.",
+  "input": "Facts:\n- The protagonist was born in London\n- She studied philosophy\n- She is an environmental activist",
+  "output": "From London she was born,\nStudies of philosophy and reason to scorn,\nAn environmental advocate brave and strong,\nDedicating her life's narrative to this song.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

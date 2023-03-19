@@ -1,0 +1,12 @@
+{
+  "id": "3f5109b0-8f6b-4b91-b931-4c79e414f7c7",
+  "instruction": "Calculate the average speed of a car traveling 120 miles in 2 hours.",
+  "input": "120 miles in 2 hours",
+  "output": "The average speed of the car is 60 miles per hour.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

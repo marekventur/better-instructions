@@ -1,0 +1,12 @@
+{
+  "id": "609f8455-f5ef-4440-9db7-e360490021da",
+  "instruction": "Select an article to read from the list below.",
+  "input": "1. \"The Impact of Social Media on Language\"\n2. \"Social Media and its Impact on Education\"",
+  "output": "1. \"The Impact of Social Media on Language\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "61da365c-0c1d-4a31-93c9-681bc1116386",
+  "instruction": "Format the following sentence so that it begins with a capital letter and ends with a period.\n\nmy name is gary",
+  "input": "my name is gary",
+  "output": "My name is Gary.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

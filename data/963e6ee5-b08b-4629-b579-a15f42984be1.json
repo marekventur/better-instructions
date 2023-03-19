@@ -1,0 +1,12 @@
+{
+  "id": "963e6ee5-b08b-4629-b579-a15f42984be1",
+  "instruction": "Generate a programming code fragment to print out multiplication table up to 10.",
+  "input": "",
+  "output": "for i in range(1, 11):\n  for j in range(1, 11):\n    print(\"{0} x {1} = {2:2}\".format(i, j, i*j))\n  print(\"\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

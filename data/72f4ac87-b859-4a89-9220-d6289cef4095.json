@@ -1,0 +1,12 @@
+{
+  "id": "72f4ac87-b859-4a89-9220-d6289cef4095",
+  "instruction": "Compare and contrast Integer and Floating-Point Number",
+  "input": "",
+  "output": "Integer numbers refer to whole numbers, both positive and negative, while floating-point numbers refer to numbers with a fractional part. Integer numbers are more precise and can range from -2,147,483,648 to 2,147,483,647, while floating-point numbers are less precise and can range from 3.40282e+38 to -3.40282e+38. In addition, integer numbers are used to represent fixed values, while floating-point numbers can represent both fixed and dynamic values.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "16cff943-2453-4f6f-aeea-f030785a3af2",
+  "instruction": "Create a new adjective by combining two given words.",
+  "input": "Cloudy and Sunny",
+  "output": "Cloudysunny \u2013 a term which could can be used to describe clear weather with some variation in cloud cover.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

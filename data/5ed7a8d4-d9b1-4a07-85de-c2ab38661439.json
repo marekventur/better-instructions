@@ -1,0 +1,12 @@
+{
+  "id": "5ed7a8d4-d9b1-4a07-85de-c2ab38661439",
+  "instruction": "Explain the difference between a linear and a nonlinear equation.",
+  "input": "",
+  "output": "A linear equation is a mathematical equation where all terms are linear, meaning that any terms that have a variable or exponent must have the same power or exponent. A nonlinear equation is an equation that is not linear and involves terms with variables and exponents that may have different power or exponents. In linear equations, the solution is always a single point, while in nonlinear equations, the solutions may be multiple points or a curve.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

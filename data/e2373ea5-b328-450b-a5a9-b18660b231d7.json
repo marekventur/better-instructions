@@ -1,0 +1,12 @@
+{
+  "id": "e2373ea5-b328-450b-a5a9-b18660b231d7",
+  "instruction": "Write an algorithm to sort the following array using insertion sort.",
+  "input": "[3, 2, 4, 1, 5]",
+  "output": "// implementation of insertion sort \nstatic void sort(int arr[]) { \n    int n = arr.length; \n    for (int i = 1; i < n; ++i) { \n        int key = arr[i]; \n        int j = i - 1; \n  \n        /* Move elements of arr[0..i-1], that are \n           greater than key, to one position ahead \n           of their current position */\n        while (j >= 0 && arr[j] > key) { \n            arr[j + 1] = arr[j]; \n            j = j - 1; \n        } \n        arr[j + 1] = key; \n    } \n} \n \n// Driver code \npublic static void main(String[] args) { \n    int arr[] = { 3, 2, 4, 1, 5 }; \n  \n    sort(arr); \n  \n    System.out.println(\"Sorted array\"); \n    printArray(arr); \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

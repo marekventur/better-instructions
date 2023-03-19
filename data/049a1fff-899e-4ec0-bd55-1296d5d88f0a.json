@@ -1,0 +1,12 @@
+{
+  "id": "049a1fff-899e-4ec0-bd55-1296d5d88f0a",
+  "instruction": "Extract the prices for each item from the sentence.",
+  "input": "The store is selling oranges for $1.50 per pound and apples for $2.00 per pound.",
+  "output": "$1.50/pound, $2.00/pound.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

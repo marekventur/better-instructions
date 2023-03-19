@@ -1,0 +1,12 @@
+{
+  "id": "3d9bb0d8-5542-49d3-ba1c-2a9beeed8871",
+  "instruction": "Given a list of spelling words, suggest a mnemonic to remember them.",
+  "input": "joke, mingle, join",
+  "output": "John Mighty Just Enjoyed Meeting Louis (John - joke, Mighty - mingle, Just - join)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

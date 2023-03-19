@@ -1,0 +1,12 @@
+{
+  "id": "6d08cb46-50df-4eb7-b14a-1c8d7dbeaf1e",
+  "instruction": "Compose a verse of a song.",
+  "input": "The pain of a lost love.",
+  "output": "Verse: \n\nI'm walking a tightrope, my heart so on fire,\nMy love taken away, never will expire. \nThe pain is deep inside and feels like a blade,\nSo here I stand, alone, my memories not to fade.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bb807d74-9919-4048-9830-18dd53ba8676",
+  "instruction": "Summarize this article about advances in medical imaging.",
+  "input": "Research into medical imaging technology has advanced enormously in the past decade. This has enabled medical practitioners to diagnose illnesses and conditions with far higher accuracy than ever before, thus significantly reducing the need for risky and costly invasive procedures.",
+  "output": "Medical imaging technology has made strides in the past 10 years, allowing doctors to diagnose conditions with exceptional accuracy, reducing the need for risky, costly surgical procedures.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

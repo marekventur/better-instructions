@@ -1,0 +1,12 @@
+{
+  "id": "c2107427-b9b3-4ea8-902b-b3b4d50ea97d",
+  "instruction": "Classify an input string as either a noun or a verb.",
+  "input": "run",
+  "output": "Verb.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

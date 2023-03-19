@@ -1,0 +1,12 @@
+{
+  "id": "1e2677a8-4a32-4800-8d31-83b6f171cb4c",
+  "instruction": "Arrange the following words in order to form a meaningful sentence. Output the sentence.",
+  "input": "the, heard, I, song",
+  "output": "I heard the song.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

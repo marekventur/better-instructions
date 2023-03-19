@@ -1,0 +1,12 @@
+{
+  "id": "a61479f8-20ac-44c9-bc26-46d507956d2e",
+  "instruction": "Convert the following hexadecimal number to octal.",
+  "input": "DB",
+  "output": "333",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

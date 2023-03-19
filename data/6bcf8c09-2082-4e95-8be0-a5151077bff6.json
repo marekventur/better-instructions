@@ -1,0 +1,12 @@
+{
+  "id": "6bcf8c09-2082-4e95-8be0-a5151077bff6",
+  "instruction": "Generate dialog between two characters given their traits.",
+  "input": "Character 1: Know-it-all and judgmental\nCharacter 2: Shy and self-conscious",
+  "output": "Character 1: \"You're so timid, you should really stop being so scared all the time. You should be able to do more than this!\"\n\nCharacter 2: \"I'm trying my best, but it's difficult for me. Everyone is watching and I'm scared of failure...\"\n\nCharacter 1: \"Don't worry, you'll figure it out eventually. Just don't be scared to take a chance. Sometimes, when you try something new, it can lead to wonderful surprises!\"\n\nCharacter 2: \"I guess you're right. Thank you for the encouragement.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

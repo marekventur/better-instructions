@@ -1,0 +1,12 @@
+{
+  "id": "ad62eecf-5c7a-42bc-bb5b-93dd11870e6b",
+  "instruction": "Give guidance for how to handle a difficult situation",
+  "input": "You receive an angry email from a customer",
+  "output": "When dealing with an angry customer, it is important to remain calm and professional. Acknowledge the customer's feelings, explain the situation from your perspective and explain the next steps you\u2019ll take to resolve the problem. Encourage the customer to open up and express their thoughts and feelings. Make sure that you listen to the customer and take their concerns seriously. Finally, apologize for their experience and let them know what measures are being taken to ensure that their issue is dealt with as soon as possible.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

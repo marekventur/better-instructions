@@ -1,0 +1,12 @@
+{
+  "id": "048d6615-271c-4bf1-bc74-a69759214aa0",
+  "instruction": "Given categories of animals (mammal, reptile, fish, bird, amphibian), classify a squirrel into one of them",
+  "input": "",
+  "output": "Squirrels are mammals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

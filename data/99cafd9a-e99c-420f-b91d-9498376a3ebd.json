@@ -1,0 +1,12 @@
+{
+  "id": "99cafd9a-e99c-420f-b91d-9498376a3ebd",
+  "instruction": "Write a query in SQL for finding the average age of a specific customer group.",
+  "input": "SELECT * FROM customer",
+  "output": "SELECT AVG(age) from customer GROUP BY customerGroup;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

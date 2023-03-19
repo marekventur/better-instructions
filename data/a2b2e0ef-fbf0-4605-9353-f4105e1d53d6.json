@@ -1,0 +1,12 @@
+{
+  "id": "a2b2e0ef-fbf0-4605-9353-f4105e1d53d6",
+  "instruction": "Given a paragraph, summarize it into one sentence.",
+  "input": "For the first time in history, technological advances in the internet and artificial intelligence have allowed us to communicate quickly, efficiently, and securely on an unprecedented scale.",
+  "output": "New technology has opened up unprecedented opportunities for quick, secure, and efficient communication.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

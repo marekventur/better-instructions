@@ -1,0 +1,12 @@
+{
+  "id": "1d84e5d3-1c42-4cfa-b707-e45a60fcd374",
+  "instruction": "Write a regular expression that can match a valid email address.",
+  "input": "",
+  "output": "The regular expression that can match a valid email address is \"\\S+@\\S+\\.\\S+\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

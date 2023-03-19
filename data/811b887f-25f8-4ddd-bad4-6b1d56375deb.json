@@ -1,0 +1,12 @@
+{
+  "id": "811b887f-25f8-4ddd-bad4-6b1d56375deb",
+  "instruction": "Rewrite the sentence to eliminate any ambiguity.",
+  "input": "He returned the book he borrowed last week.",
+  "output": "He returned the book that he had borrowed last week.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

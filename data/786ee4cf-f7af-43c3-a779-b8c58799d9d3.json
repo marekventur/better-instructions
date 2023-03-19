@@ -1,0 +1,12 @@
+{
+  "id": "786ee4cf-f7af-43c3-a779-b8c58799d9d3",
+  "instruction": "Take a statement from the given text and turn it into an interrogative sentence.",
+  "input": "John loves to read books.",
+  "output": "Does John love to read books?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

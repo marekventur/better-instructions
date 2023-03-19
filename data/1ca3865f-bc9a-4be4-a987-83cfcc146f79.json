@@ -1,0 +1,12 @@
+{
+  "id": "1ca3865f-bc9a-4be4-a987-83cfcc146f79",
+  "instruction": "Describe the process of adding a new printer to a network.",
+  "input": "",
+  "output": "The process of adding a new printer to a network involves a few simple steps. First, you should connect the printer to a network port or router using an Ethernet cable, and make sure it is powered up and ready to print. Then, you should download any necessary drivers from the manufacturer\u2019s website and install them on your computer. Finally, you should configure the printer to the network, which involves finding its IP address, setting up security settings, and sharing the printer on the network so that other users can access it. Once these steps are completed, the printer should be successfully added to the network and ready to use.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

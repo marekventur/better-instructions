@@ -1,0 +1,12 @@
+{
+  "id": "de127ed5-23c5-4996-b9a9-589f96ab5462",
+  "instruction": "Classify the flower species according to their colors.",
+  "input": "Red Rose, White Daisy, Blue Hydrangea",
+  "output": "Red Rose -- Red\nWhite Daisy -- White\nBlue Hydrangea -- Blue",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

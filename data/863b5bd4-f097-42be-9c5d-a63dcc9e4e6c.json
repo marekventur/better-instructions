@@ -1,0 +1,12 @@
+{
+  "id": "863b5bd4-f097-42be-9c5d-a63dcc9e4e6c",
+  "instruction": "Select the sentence that has the correct capitalization.",
+  "input": "A) i love reading books\nB) I Love Reading Books\nC) I love Reading Books",
+  "output": "B) I Love Reading Books",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

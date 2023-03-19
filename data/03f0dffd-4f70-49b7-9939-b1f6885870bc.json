@@ -1,0 +1,12 @@
+{
+  "id": "03f0dffd-4f70-49b7-9939-b1f6885870bc",
+  "instruction": "Provide an example of a binary classification model",
+  "input": "",
+  "output": "A binary classification model is a supervised learning model that predicts the value of a binary target variable. For example, a binary classification model could be used to predict whether a customer will buy a product or not, or whether an email is spam or not. The model is trained using labeled input data, and the output is typically a probability.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a704c40e-e3bc-4fae-9511-415c525e5856",
+  "instruction": "Create a task to detect all the words in a given sentence that are all-caps.",
+  "input": "PowerBI IS One OF THE BEST Data Visualization TOOLS.",
+  "output": "Detect all the words in the sentence \"PowerBI IS One OF THE BEST Data Visualization TOOLS.\" that are all-caps. Output: PowerBI, BEST.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "82e547f7-1dd0-4606-8a5d-7843799ce050",
+  "instruction": "Given the context, determine if the statement is true or false.",
+  "input": "Context: \nThe sun is not the largest star in the universe. \nStatement:\nThe sun is the smallest star in the universe.",
+  "output": "False",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

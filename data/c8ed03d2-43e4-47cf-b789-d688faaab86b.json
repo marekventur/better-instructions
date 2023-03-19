@@ -1,0 +1,12 @@
+{
+  "id": "c8ed03d2-43e4-47cf-b789-d688faaab86b",
+  "instruction": "Label the parts of speech for the following sentence:\nA lawyer was buying some books",
+  "input": "",
+  "output": "A (article) lawyer (noun) was (verb) buying (verb) some (determiner) books (noun).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

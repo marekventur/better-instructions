@@ -1,0 +1,12 @@
+{
+  "id": "ea463d25-9cc1-492e-ae66-7922bbb34ae1",
+  "instruction": "Write a function that checks a string for all unique characters.",
+  "input": "",
+  "output": "function uniqueCharacters(string) { \n    \n    let unique = true; \n    \n    for (let i = 0; i < string.length; i++) { \n        for (let j = i + 1; j < string.length; j++) { \n            if (string[i] == string[j]) { \n                unique = false; \n            } \n        } \n    } \n\n    return unique; \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "aa66f4d5-2eee-43d4-8dd8-1b8a4ea29aca",
+  "instruction": "Identify the gender of a person using only the pronouns \"they\" and \"she\".",
+  "input": "",
+  "output": "If the person is referred to with the pronoun \"they\", they are most likely gender non-binary. If the person is referred to with the pronoun \"she\", they are likely a female.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

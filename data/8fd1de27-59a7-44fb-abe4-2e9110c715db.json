@@ -1,0 +1,12 @@
+{
+  "id": "8fd1de27-59a7-44fb-abe4-2e9110c715db",
+  "instruction": "Take a given statement and make it more persuasive.",
+  "input": "We should make public transportation more accessible",
+  "output": "Making public transportation more accessible should be a priority as it would reduce our reliance on cars and lower air pollution significantly. Additionally, accessible public transportation would improve economic opportunities and reduce commute times, helping to create a more equitable and productive society.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

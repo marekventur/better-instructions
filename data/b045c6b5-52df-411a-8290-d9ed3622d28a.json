@@ -1,0 +1,12 @@
+{
+  "id": "b045c6b5-52df-411a-8290-d9ed3622d28a",
+  "instruction": "Clean up a set of customer reviews and rewrite some grammatically incorrect sentences. The output should be the fully edited customer reviews.",
+  "input": "This place has the grateest food i have ever tasted. The costumer services was also ABSOLUTELY phenominal!",
+  "output": "This place has the greatest food I have ever tasted. The customer service was also absolutely phenomenal!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "880b3990-2bb3-41e5-a4c0-bb83b899062b",
+  "instruction": "Reformat this website's HTML code to make it more robust",
+  "input": "<html>\n<head>\n<title>My Website</title>\n</head>\n<body>\n\n<h1>My Website</h1>\n\n<p>Welcome to my website!</p>\n\n</body>\n</html>",
+  "output": "<html>\n<head>\n    <title>My Website</title>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n</head>\n<body>\n    <h1>My Website</h1>\n    <p>Welcome to my website!</p>\n</body>\n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

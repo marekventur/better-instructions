@@ -1,0 +1,12 @@
+{
+  "id": "84f68104-efaa-4bab-8eae-6977b61446d4",
+  "instruction": "Rearrange the words below to form a grammatically correct sentence. Output the sentence.",
+  "input": "strong flavor a had delightful soup",
+  "output": "A delightful soup had a strong flavor.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a852dbbd-065f-45b1-a2ce-a5bb7c82530d",
+  "instruction": "Outline the problem proposed in an article.",
+  "input": "Article Title: \"The Flaws of Standardized Testing\"",
+  "output": "This article argues that standardized testing can be flawed and unreliable due to its subjective nature. It claims that the tests measure only a narrow range of knowledge and skills, are not well-suited to measure learning, and can lead to inaccurate representation of student performance. Furthermore, it suggests that tests can put unnecessary pressure on students, and can lead to negative reinforcement and self-doubt.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

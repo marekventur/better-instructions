@@ -1,0 +1,12 @@
+{
+  "id": "dc4b159f-8455-4b4b-a50d-060f93070ce0",
+  "instruction": "Generate a valid HTML tag based on the given parameters.",
+  "input": "Element name: meta, attribute: charset, value: iso-8859-1",
+  "output": "<meta charset=\"iso-8859-1\">",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

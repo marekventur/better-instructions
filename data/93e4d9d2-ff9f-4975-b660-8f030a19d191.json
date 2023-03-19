@@ -1,0 +1,12 @@
+{
+  "id": "93e4d9d2-ff9f-4975-b660-8f030a19d191",
+  "instruction": "Create a MySQL query to select all the data from a `customer` table.",
+  "input": "",
+  "output": "SELECT * FROM customer;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

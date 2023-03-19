@@ -1,0 +1,12 @@
+{
+  "id": "abb8617a-d3de-4358-8bdb-bd54785abb43",
+  "instruction": "Generate a realistic answer given the following question.",
+  "input": "Question: How long does it take to get to the moon?",
+  "output": "It takes about 3 days to get to the moon using a modern rocket. The journey involves multiple stages, with several stages of acceleration and deceleration needing to be completed for a successful trip to the moon.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

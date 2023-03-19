@@ -1,0 +1,12 @@
+{
+  "id": "aa6deb8b-970b-44fe-93c0-b25c2918c921",
+  "instruction": "Policy-ify the below statement.",
+  "input": "Employees should wear clean and pressed uniforms when on duty.",
+  "output": "All employees must ensure their uniforms are clean, ironed and in a presentable condition when attending work. Uniforms worn by employees should reflect the professional image of the company, and failure to do so may result in disciplinary action being taken.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

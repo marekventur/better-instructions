@@ -1,0 +1,12 @@
+{
+  "id": "4db3e788-3fae-439b-bc0e-c6065c62e7bd",
+  "instruction": "Analyze two datasets and develop an algorithm to classify them.",
+  "input": "Datasets: \nDataset A: Data of students' performance in past exams\nDataset B: Data of students' performance in current exams",
+  "output": "The algorithm should analyze both datasets, collect features such as test scores and class attendance records, and compare them to each other. If a student's scores in the current exam is higher than their scores in past exams, then the algorithm should classify them as \u201cimproved\u201d. If a student's scores in the current exam is lower than their scores in past exams, then the algorithm should classify them as \u201cdeteriorated\u201d. Furthermore, if the scores in the current exam are exactly the same as the scores in the past exam, then the algorithm should classify them as \u201csame\u201d.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

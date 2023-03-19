@@ -1,0 +1,12 @@
+{
+  "id": "d77caee1-5de4-442b-8a78-5c17dae734b1",
+  "instruction": "Construct an algorithm to find the area of a triangle given its three side lengths.",
+  "input": "",
+  "output": "1. Define three variables to represent the three side lengths of the triangle.\n2. Calculate the semiperimeter of the triangle (s) by adding the three side lengths and dividing by two.\n3. Calculate the area of the triangle (A) using Heron's Formula: A = \u221a(s*(s-a)*(s-b)*(s-c)), where a, b, and c are the side lengths.\n4. Return the value of A.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

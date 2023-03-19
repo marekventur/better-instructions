@@ -1,0 +1,12 @@
+{
+  "id": "efdb8968-e82c-4eed-9cfd-9109be73db33",
+  "instruction": "Evaluate the sentence using the BERT model.",
+  "input": "The show was extremely funny.",
+  "output": "0.9381531715393066",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

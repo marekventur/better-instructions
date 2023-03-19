@@ -1,0 +1,12 @@
+{
+  "id": "06ca918f-8f60-40a3-8979-ba00aeede9b2",
+  "instruction": "Order four numbers from greatest to least.",
+  "input": "7, -4, 5, 1",
+  "output": "7, 5, 1, -4",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

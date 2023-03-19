@@ -1,0 +1,12 @@
+{
+  "id": "527ec9df-c40e-4d49-a811-88f2bd54b32d",
+  "instruction": "Construct a regular expression that matches a five-digit zipcode",
+  "input": "",
+  "output": "The regular expression for matching a five-digit zipcode is `\\d{5}`.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

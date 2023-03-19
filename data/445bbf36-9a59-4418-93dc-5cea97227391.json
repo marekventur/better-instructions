@@ -1,0 +1,12 @@
+{
+  "id": "445bbf36-9a59-4418-93dc-5cea97227391",
+  "instruction": "Identify famous quotes from given author.",
+  "input": "Author: Albert Einstein",
+  "output": "Some of Albert Einstein's most famous quotes include:\n-\"Imagination is more important than knowledge.\"\n-\"In the middle of difficulty lies opportunity.\"\n-\"Look deep into nature and you will understand everything better.\"\n-\"The important thing is not to stop questioning.\"\n-\"Anyone who has never made a mistake has never tried anything new.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

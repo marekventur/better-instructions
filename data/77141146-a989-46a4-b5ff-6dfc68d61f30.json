@@ -1,0 +1,12 @@
+{
+  "id": "77141146-a989-46a4-b5ff-6dfc68d61f30",
+  "instruction": "Compile the following program in Java.",
+  "input": "public class HelloWorld {\n    public static void main(String[] args) {\n        System.out.println(\"Hello World!\");\n    }\n}",
+  "output": "javac HelloWorld.java",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

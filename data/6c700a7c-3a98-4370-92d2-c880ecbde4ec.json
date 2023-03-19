@@ -1,0 +1,12 @@
+{
+  "id": "6c700a7c-3a98-4370-92d2-c880ecbde4ec",
+  "instruction": "Evaluate the following statement on a scale of 1 to 10, with 1 being the least accurate, and 10 being the most accurate.",
+  "input": "Social media is a powerful tool for connecting people all over the world.",
+  "output": "10",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

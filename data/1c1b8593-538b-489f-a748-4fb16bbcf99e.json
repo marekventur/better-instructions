@@ -1,0 +1,12 @@
+{
+  "id": "1c1b8593-538b-489f-a748-4fb16bbcf99e",
+  "instruction": "Compose a musical piece that follows the chorus of a particular song.",
+  "input": "Chorus:  \"One step forward and two steps back, \nCan\u2019t find my way and it's just a fact\"",
+  "output": "Verse 1\nI'm feeling lost and so confused,\nGoing in circles, I'm starting to lose\nThe courage I had and my enthusiasm,\nBetween the confusion and the indifference\n\nChorus:\nOne step forward and two steps back, \nCan\u2019t find my way and it's just a fact\n\nVerse 2\nMy desire for success, it's not in doubt\nBut I can't seem to make anything work out\nStuck in this game, that's just too hard\nBetween giving up and reaching for the stars\n\nChorus:\nOne step forward and two steps back, \nCan\u2019t find my way and it's just a fact\n\nBridge:\nIf I just keep trying, if I keep moving ahead\nI know I can make it, can learn what I need\n\nChorus\nOne step forward and two steps back, \nCan\u2019t find my way and it's just a fact",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

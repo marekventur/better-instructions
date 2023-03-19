@@ -1,0 +1,12 @@
+{
+  "id": "036fddf4-ea54-4446-bcd1-44f43108cb3c",
+  "instruction": "Given a family budget and financial goals, create a budget plan.",
+  "input": "Family Budget:\nIncome: $15,000\nSavings Goal: $2,500\nLiving Expenses: $11,000",
+  "output": "The budget plan should include income, expenses, and savings goals. For example, a family with an income of $15,000, living expenses of $11,000, and a savings goal of $2,500 should set aside $2,500 for savings, allocate $11,000 for living expenses, and have $1,500 left for other discretionary spending. The family should also plan for unexpected expenses, such as emergency medical costs or car repairs, by setting aside 5-10% of their income each month in an emergency fund.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

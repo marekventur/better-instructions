@@ -1,0 +1,12 @@
+{
+  "id": "b8130192-2f79-488e-8278-c77840415ae3",
+  "instruction": "Create a 5-step to-do list for tomorrow.",
+  "input": "",
+  "output": "1. Wake up at 8am\n2. Start the day with a 30-minute walk\n3. Have breakfast \n4. Work on the project for three hours\n5. Have a healthy lunch \n6. Take a break \n7. Work on the project for two hours \n8. Spend time with family \n9. Have a healthy dinner \n10. Wind down for the evening",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

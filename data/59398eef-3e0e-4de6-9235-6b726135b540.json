@@ -1,0 +1,12 @@
+{
+  "id": "59398eef-3e0e-4de6-9235-6b726135b540",
+  "instruction": "Given the input, create a hypothetical experiment to test the hypothesis.",
+  "input": "The hypothesis is that increasing the amount of space for plants will increase the amount of oxygen produced.",
+  "output": "A hypothetical experiment to test the hypothesis that increasing the amount of space for plants will increase the amount of oxygen produced can be conducted by preparing two identical growing environments for a few weeks, then introducing additional space for the plants in one environment and observing the oxygen levels in both environments to measure the difference.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

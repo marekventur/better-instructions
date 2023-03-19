@@ -1,0 +1,12 @@
+{
+  "id": "38affb0b-2b3c-4d9b-9ffc-c30e9698d509",
+  "instruction": "Identify and explain the mistakes in this English sentence.",
+  "input": "I likes to cook.",
+  "output": "The sentence contains a mistake in grammar. The subject is \"I\" which is singular and the verb should be in the singular form, \"like\". Therefore, the correct sentence should be \"I like to cook.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

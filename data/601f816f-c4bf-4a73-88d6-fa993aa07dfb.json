@@ -1,0 +1,12 @@
+{
+  "id": "601f816f-c4bf-4a73-88d6-fa993aa07dfb",
+  "instruction": "Given a movie title, list three things that make it a classic.",
+  "input": "The Godfather",
+  "output": "The Godfather is considered a classic due to its iconic performances by Marlon Brando, Al Pacino and Robert Duvall, its memorable soundtrack, and its intricate plot that follows a complex family dynamic in a powerful mafia organization. The movie is considered one of the most influential films ever made, and its impact is still widely felt in the entertainment industry today.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

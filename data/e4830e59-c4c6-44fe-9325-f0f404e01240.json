@@ -1,0 +1,12 @@
+{
+  "id": "e4830e59-c4c6-44fe-9325-f0f404e01240",
+  "instruction": "Generate a Visual Studio Code (vscode) command for formatting the document.",
+  "input": "",
+  "output": "In Visual Studio Code press Ctrl + Shift + P to open the command palette. Then type \"Format Document\" and press Enter. This will format the document according to the language's formatting rules.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

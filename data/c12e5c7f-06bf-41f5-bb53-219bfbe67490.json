@@ -1,0 +1,12 @@
+{
+  "id": "c12e5c7f-06bf-41f5-bb53-219bfbe67490",
+  "instruction": "Compare and contrast two type of programming language.",
+  "input": "OOP and Functional",
+  "output": "Object-Oriented Programming (OOP) and Functional Programming (FP) are two different paradigms for programming languages. OOP is focused on objects and utilizes methods and data to manipulate them. It is useful in modeling real-world entities like people, places and things. Functional programming is based on the concept of functions and uses functions to manipulate data. It is useful in creating programs that are easy to modify and maintain. OOP is more focused on creating software components, while FP is focused on solving specific problems. OOP is procedural and relies heavily on code, while functional programming is declarative and more concise in nature. OOP is more popular than functional programming and is used more for commercial applications and web-based development.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a3734ef7-7bf6-4750-9cbd-9b71f21d1229",
+  "instruction": "Create a model that classifies the following dataset into two categories.",
+  "input": "Cup, Car, Carrot, Shirt",
+  "output": "The model will classify the dataset into two categories: \"objects\" (cup, car, carrot) and \"clothing\" (shirt).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

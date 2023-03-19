@@ -1,0 +1,12 @@
+{
+  "id": "adbe4ba4-b598-4689-accb-a1fac7a09421",
+  "instruction": "Reconstruct the given extract in a formal style",
+  "input": "The friendly animal, of course, was a dog.",
+  "output": "It was a dog which was evidently friendly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

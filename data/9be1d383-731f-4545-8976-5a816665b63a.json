@@ -1,0 +1,12 @@
+{
+  "id": "9be1d383-731f-4545-8976-5a816665b63a",
+  "instruction": "Given a hypothetical scenario, come up with the most likely opinion of a person.",
+  "input": "Given the strict lockdown due to the coronavirus pandemic, what do you think an elderly person would feel?",
+  "output": "The elderly person would feel concerned, scared and frustrated due to the loss of freedom and not being able to visit family and friends.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c24e4a5b-d594-46cc-acde-1ee0e2c4ac35",
+  "instruction": "Construct a chatbot dialogue for a customer service that is looking to help customers order a particular product.",
+  "input": "Product: Nike Air Max Shoes",
+  "output": "Customer: Hi, I'm interested in buying a pair of Nike Air Max Shoes. \nChatbot: Hi there! How can I help?\nCustomer: What do these shoes have to offer?\nChatbot: The Nike Air Max Shoes offer unbeatable cushioning, breathable fabric, and a ultra-lightweight design. Plus, they come in a variety of colors and sizes. How can I help you today?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

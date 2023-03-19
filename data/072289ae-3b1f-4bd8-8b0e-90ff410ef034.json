@@ -1,0 +1,12 @@
+{
+  "id": "072289ae-3b1f-4bd8-8b0e-90ff410ef034",
+  "instruction": "Create a fact sheet outlining the differences between two products.",
+  "input": "Two models of electric bicycles",
+  "output": "Comparing Electric Bicycle Models \n\nModel A: \n\u2022 Battery: 48V/17.5 Ah \n\u2022 Weight: 32 kg \n\u2022 Speed: up to 25 km/h\n\u2022 Motor: 250W geared motor\n\u2022 Range: up to 90 km \n\u2022 Price: $1,500\n\nModel B: \n\u2022 Battery: 48V/15 Ah \n\u2022 Weight: 28 kg \n\u2022 Speed: up to 40 km/h\n\u2022 Motor: 350W geared motor\n\u2022 Range: up to 70 km \n\u2022 Price: $1,650\n\nModel A has a larger battery capacity, is lighter in weight, has a lower top speed, and yields a longer range than Model B. Model B has a more powerful motor, a higher top speed, and a higher price.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

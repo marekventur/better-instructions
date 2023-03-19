@@ -1,0 +1,12 @@
+{
+  "id": "8d4cf33b-c449-4906-bb87-606941243837",
+  "instruction": "Suggest three common techniques used for the given task.",
+  "input": "Data analysis",
+  "output": "Three common techniques used for data analysis are clustering, which groups objects with similar characteristics into clusters; regression analysis, which measures the relationships between variables; and classification, which uses labeled data to map new data-points.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

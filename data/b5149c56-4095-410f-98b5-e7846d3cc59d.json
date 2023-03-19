@@ -1,0 +1,12 @@
+{
+  "id": "b5149c56-4095-410f-98b5-e7846d3cc59d",
+  "instruction": "Is the statement correct?",
+  "input": "A neutron is a stable subatomic particle.",
+  "output": "Yes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

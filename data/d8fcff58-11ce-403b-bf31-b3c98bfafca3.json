@@ -1,0 +1,12 @@
+{
+  "id": "d8fcff58-11ce-403b-bf31-b3c98bfafca3",
+  "instruction": "Take some text and edit it to add descriptive words to it.",
+  "input": "The wind was blowing.",
+  "output": "The chilly wind was gently blowing, rustling the leaves and bringing with it a hint of winter.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

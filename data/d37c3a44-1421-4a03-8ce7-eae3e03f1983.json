@@ -1,0 +1,12 @@
+{
+  "id": "d37c3a44-1421-4a03-8ce7-eae3e03f1983",
+  "instruction": "Given the following context, generate a headline for a news story.",
+  "input": "The elected mayor of the city has been accused of embezzlement.",
+  "output": "Mayor Accused of Embezzling Funds From City Coffers",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

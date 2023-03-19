@@ -1,0 +1,12 @@
+{
+  "id": "6c1e7edc-f57e-40f3-b3ca-046e81df4774",
+  "instruction": "Given the definition of a term, provide a sentence that uses the correct usage of the term.",
+  "input": "Declension - the action of terminating or altering the form of a word when indicating its grammatical case, gender, number, or person.",
+  "output": "The morphology of Latin nouns is characterized by their declension into five different cases: nominative, accusative, genitive, dative, and ablative.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

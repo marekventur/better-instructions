@@ -1,0 +1,12 @@
+{
+  "id": "249fe41f-feb0-41cd-8a60-d9f0a80501af",
+  "instruction": "Classify the following movie as a romantic, comedy, or drama",
+  "input": "The Notebook",
+  "output": "Romantic",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

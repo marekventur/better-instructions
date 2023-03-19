@@ -1,0 +1,12 @@
+{
+  "id": "5cce1477-95d0-4f2e-bdc3-ee32b1c5c940",
+  "instruction": "Construct a logical argument in support of the statement.",
+  "input": "Reading books is beneficial for children.",
+  "output": "Reading books can help children develop cognitive skills and expand their knowledge of the world, as well as provide them with the tools to interpret and analyze information. Additionally, books can help improve language skills and develop vocabulary, as well as cultivate imaginative thinking and self-expression. This all leads to better academic performance and encourages life-long learning.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

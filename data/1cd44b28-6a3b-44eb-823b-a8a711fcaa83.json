@@ -1,0 +1,12 @@
+{
+  "id": "1cd44b28-6a3b-44eb-823b-a8a711fcaa83",
+  "instruction": "Describe any three types of visualization and provide one example of each.",
+  "input": "",
+  "output": "Types of visualization include line graphs, scatter plots, and heat maps. A line graph is a type of chart which shows a line drawn between data points, often used to show change over time. An example of a line graph is a graph showing a country's GDP over a period of time. A scatter plot is used to identify relationships between two variables; the closer the data points, the stronger the correlation. An example of a scatter plot is a graph showing a correlation between income and education level in a city. A heat map is a type of chart which uses color-coding to visually represent data; darker colors represent higher values and lighter colors represent lower values. An example of a heat map is a map of earthquake activity, where darker colors represent a higher magnitude.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

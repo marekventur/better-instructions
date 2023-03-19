@@ -1,0 +1,12 @@
+{
+  "id": "b9a4a212-d3d9-4772-abb7-fc1dd6ef15f8",
+  "instruction": "Classify the following poem as either a narrative or a lyrical poem.",
+  "input": "Roses are red \nViolets are blue \nSugar is sweet \nAnd so are you",
+  "output": "Lyrical poem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

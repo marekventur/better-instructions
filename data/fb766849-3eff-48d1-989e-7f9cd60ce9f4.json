@@ -1,0 +1,12 @@
+{
+  "id": "fb766849-3eff-48d1-989e-7f9cd60ce9f4",
+  "instruction": "Format the following song to the correct APA standard",
+  "input": "Michael Jackson, Bad\n1987",
+  "output": "Jackson, M. (1987). Bad. On Bad [album]. Epic Records.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

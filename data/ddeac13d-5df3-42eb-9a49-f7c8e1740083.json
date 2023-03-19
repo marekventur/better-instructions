@@ -1,0 +1,12 @@
+{
+  "id": "ddeac13d-5df3-42eb-9a49-f7c8e1740083",
+  "instruction": "Arrange the words in an appropriate grammar structure.",
+  "input": "bigger than elephant the",
+  "output": "The elephant is bigger than",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

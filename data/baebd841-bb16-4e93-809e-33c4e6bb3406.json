@@ -1,0 +1,12 @@
+{
+  "id": "baebd841-bb16-4e93-809e-33c4e6bb3406",
+  "instruction": "Classify the following objects into their appropriate groups: apple, banana, lettuce, automobile.",
+  "input": "",
+  "output": "Fruit: apple, banana, lettuce\nVehicle: automobile",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

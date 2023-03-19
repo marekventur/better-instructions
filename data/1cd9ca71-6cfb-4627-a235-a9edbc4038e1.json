@@ -1,0 +1,12 @@
+{
+  "id": "1cd9ca71-6cfb-4627-a235-a9edbc4038e1",
+  "instruction": "Analyze a given poem.",
+  "input": "\"The Road Not Taken\" by Robert Frost",
+  "output": "\"The Road Not Taken\" by Robert Frost is a poem about a traveler faced with making a difficult decision in life. The traveler must decide which of two roads to take, both of which appear equally worn and equally inviting. The traveler eventually takes the less-traveled road because it holds more potential and offers more opportunities. The poem suggests that life is full of choices and that it\u2019s important to choose wisely. It also suggests that it\u2019s important to be adventurous and take risks in life. The poem serves as a reminder that the choices we make in life can have serious consequences. We must take responsibility for our actions and strive to make the most of our life\u2019s journey.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

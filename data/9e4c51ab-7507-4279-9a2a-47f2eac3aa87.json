@@ -1,0 +1,12 @@
+{
+  "id": "9e4c51ab-7507-4279-9a2a-47f2eac3aa87",
+  "instruction": "Create a rhyming poem of two lines for the given word.",
+  "input": "Mountain",
+  "output": "White snow on the peak,\nAll set for the fountains to seep.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

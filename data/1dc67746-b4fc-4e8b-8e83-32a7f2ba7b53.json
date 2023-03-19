@@ -1,0 +1,12 @@
+{
+  "id": "1dc67746-b4fc-4e8b-8e83-32a7f2ba7b53",
+  "instruction": "Given the following DNA sequence, find the complementary RNA sequence.",
+  "input": "AATGCGATC",
+  "output": "UAUGCGAAG",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

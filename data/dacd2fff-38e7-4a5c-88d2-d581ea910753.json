@@ -1,0 +1,12 @@
+{
+  "id": "dacd2fff-38e7-4a5c-88d2-d581ea910753",
+  "instruction": "Create a prototype UI for an online shop.",
+  "input": "The website should allow customers to browse products and create a shopping cart.",
+  "output": "The online shop interface should contain a search box and a series of product categories. After selecting an item, the customer should have the option to add it to their cart. Once all items are added, the customer can view their cart and check out.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

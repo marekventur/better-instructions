@@ -1,0 +1,12 @@
+{
+  "id": "207a9330-76b8-4eab-9845-392fe15d3660",
+  "instruction": "Rewrite the sentence \"I eat hamburgers\" in the past tense.",
+  "input": "I eat hamburgers.",
+  "output": "I ate hamburgers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a002fd1f-7460-49c4-a0a4-49d3d6d91454",
+  "instruction": "Construct a 3-column table with the numbers 1 through 10.",
+  "input": "",
+  "output": "|  Column 1  |  Column 2  |  Column 3  |\n|:----------:|:----------:|:----------:|\n|      1     |      4     |      7     |\n|      2     |      5     |      8     |\n|      3     |      6     |      9     |\n|            |      10    |            |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

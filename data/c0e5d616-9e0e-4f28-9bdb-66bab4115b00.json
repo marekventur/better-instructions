@@ -1,0 +1,12 @@
+{
+  "id": "c0e5d616-9e0e-4f28-9bdb-66bab4115b00",
+  "instruction": "Compose a table of 4 elements with the given properties.",
+  "input": "Number, Symbol, Name, and Atomic Weight",
+  "output": "| Number | Symbol | Name      | Atomic Weight | \n| ------ | ------ | --------- | ------------- | \n| 1      | H      | Hydrogen  | 1.00794       | \n| 2      | He     | Helium    | 4.002602      | \n| 3      | Li     | Lithium   | 6.941         | \n| 4      | Be     | Beryllium | 9.012182      |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

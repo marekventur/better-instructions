@@ -1,0 +1,12 @@
+{
+  "id": "e2eb5b68-4a1d-4cb1-9e97-027cb7891310",
+  "instruction": "Summarize the article's main points.",
+  "input": "A new study found that people who eat more plant proteins tend to live longer than those who eat more proteins from animal products.",
+  "output": "A new study has revealed that people who consume more plant proteins live longer than those consuming proteins from animal products. The study found that the risk of mortality decreased significantly among those who consume more plant-based protein sources. These findings suggest that increasing the consumption of plant-based proteins can provide numerous health benefits and extend lifespan.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

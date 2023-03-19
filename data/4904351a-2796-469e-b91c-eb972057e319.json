@@ -1,0 +1,12 @@
+{
+  "id": "4904351a-2796-469e-b91c-eb972057e319",
+  "instruction": "Identify the parts of speech in each word in the following sentence:",
+  "input": "The fluffy cat jumped through the open window",
+  "output": "The: article\nfluffy: adjective\ncat: noun\njumped: verb\nthrough: preposition\nthe: article\nopen: adjective\nwindow: noun",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cafe9ccc-1b26-41a8-844e-85710490f3cd",
+  "instruction": "Combine the two sentences using a connecting word.",
+  "input": "He went to the store. He bought some apples.",
+  "output": "He went to the store and bought some apples.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "eefe7bdf-aea7-4ea1-ab10-024b15600f40",
+  "instruction": "Choose an appropriate introduction for the following news article.",
+  "input": "The latest report from the Environmental Protection Agency reveals that the emissions of greenhouse gasses in the state have risen by 5% from last year.",
+  "output": "The State has made little progress on curbing its emissions of greenhouse gasses, as the Environmental Protection Agency has reported that emissions have increased by 5% since last year.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

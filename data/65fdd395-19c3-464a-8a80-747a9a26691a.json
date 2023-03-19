@@ -1,0 +1,12 @@
+{
+  "id": "65fdd395-19c3-464a-8a80-747a9a26691a",
+  "instruction": "Give an example of a use case for facial recognition technology.",
+  "input": "`<noinput>`",
+  "output": "Facial recognition technology can be used for a variety of security applications, such as verifying identities of individuals at airports or in other restricted areas. It can also be used for crowd detection and surveillance, for example, by security systems that identify known criminals in a crowd. Additionally, it can be used in retail settings to monitor customers and detect any unusual activity or suspicious behavior.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

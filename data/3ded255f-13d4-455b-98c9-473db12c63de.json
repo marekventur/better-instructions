@@ -1,0 +1,12 @@
+{
+  "id": "3ded255f-13d4-455b-98c9-473db12c63de",
+  "instruction": "Re-word the given sentence.",
+  "input": "The cars drove quickly around the corner.",
+  "output": "The cars sped around the corner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

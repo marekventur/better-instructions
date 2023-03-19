@@ -1,0 +1,12 @@
+{
+  "id": "a87cc4a4-7b3c-444d-a6e9-3c173ec1ad8c",
+  "instruction": "Suggest three use cases for the following machine learning model.",
+  "input": "Anomaly detection",
+  "output": "1. Fraud detection in banking and financial services.\n2. System health monitoring in Manufacturing Industries.\n3. Outlier detection in Text Voice Recognition systems.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

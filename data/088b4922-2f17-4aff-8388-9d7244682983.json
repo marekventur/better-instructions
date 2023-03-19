@@ -1,0 +1,12 @@
+{
+  "id": "088b4922-2f17-4aff-8388-9d7244682983",
+  "instruction": "Write a query to retrieve all the customers from the table",
+  "input": "",
+  "output": "SELECT * \nFROM customers;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

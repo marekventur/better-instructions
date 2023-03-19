@@ -1,0 +1,12 @@
+{
+  "id": "e89c7d7d-9015-4a3d-9ac1-03ae37ee251f",
+  "instruction": "Given the following information, suggest a good way for a student to manage their stress levels.",
+  "input": "Information:\nThe student is a full-time college student with a part-time job",
+  "output": "A good way for the student to manage their stress levels is to maintain a healthy balance between work, school, and leisure activities. Set aside time to study and work and also set aside time to take a break and do things they enjoy such as outdoor activities, reading, exercising, or creative pursuits such as painting or writing. Planning ahead and taking time for self-care are critical to managing stress.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

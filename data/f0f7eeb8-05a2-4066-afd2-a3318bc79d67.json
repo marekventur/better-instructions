@@ -1,0 +1,12 @@
+{
+  "id": "f0f7eeb8-05a2-4066-afd2-a3318bc79d67",
+  "instruction": "Design a user interface to allow a user to search for a specific type of product.",
+  "input": "",
+  "output": "The user interface should include an input field where users can enter the type of product they are searching for, a search button to initiate the search, and a list of results which displays images, descriptions and prices of the products. Additionally, the interface should provide filtering and sorting options to allow users to refine their search results.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

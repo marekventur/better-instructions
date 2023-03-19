@@ -1,0 +1,12 @@
+{
+  "id": "a997e8c2-f6d4-49b6-b138-f9a2962121f1",
+  "instruction": "Take the given sentence and make a compound sentence with adjectives.",
+  "input": "We went to the beach.",
+  "output": "We went to the beautiful, sunny beach.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

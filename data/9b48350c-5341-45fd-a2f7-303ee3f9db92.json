@@ -1,0 +1,12 @@
+{
+  "id": "9b48350c-5341-45fd-a2f7-303ee3f9db92",
+  "instruction": "Given the following numbers, find the sum.",
+  "input": "22, 34, 10",
+  "output": "66",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

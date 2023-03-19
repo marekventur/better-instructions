@@ -1,0 +1,12 @@
+{
+  "id": "9d665640-fd3e-4481-8224-5ec3b90f0edf",
+  "instruction": "Generate a dialogue between two friends discussing a book",
+  "input": "",
+  "output": "Friend 1: Hey, have you read the new book 'The 12th Deadly Sin'?\nFriend 2: Yeah, I just finished it. It was pretty exciting!\nFriend 1: Yeah, it kept me on the edge of my seat. What did you think of the ending?\nFriend 2: I'm not sure how I feel about it. I thought it was a bit too abrupt, but I think there's still room for the series to continue.\n\nFriend 1: Yeah, I guess that's true. I'm really looking forward to the next installment. What did you think of the characters?\nFriend 2: I thought the characters were pretty dynamic and well-developed. They went through a lot of growth and change, and it was interesting to witness that journey.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

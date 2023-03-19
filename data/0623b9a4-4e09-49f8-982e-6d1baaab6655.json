@@ -1,0 +1,12 @@
+{
+  "id": "0623b9a4-4e09-49f8-982e-6d1baaab6655",
+  "instruction": "Given a dialogue, identify the sentiment of the conversation",
+  "input": "Person 1: I want to cancel this order\nPerson 2: Sure, I will do that right away.",
+  "output": "Positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

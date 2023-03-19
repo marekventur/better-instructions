@@ -1,0 +1,12 @@
+{
+  "id": "3f65b035-e03b-40c4-9d25-57aefe626b9d",
+  "instruction": "Invent a new recipe using the following ingredients: apples, onions, garlic, and olive oil.",
+  "input": "",
+  "output": "Apple Onion Garlic Saute:\nIngredients:\n- 2 Apples, cored and diced\n- 2 Onions, diced\n- 4 cloves of Garlic, minced\n- 2 tablespoons of Olive Oil\n- Salt and Pepper, to taste\n\nInstructions:\n\n1. Heat the oil in a large skillet over medium heat.\n2. Add the diced onions and garlic and cook for a few minutes, stirring occasionally, until softened.\n3. Add the diced apples and cook for about 3 minutes, stirring occasionally until lightly browned.\n4. Add salt and pepper to taste and stir to combine.\n5. Cook for another 2-3 minutes, stirring occasionally, until everything is cooked through and apples are slightly caramelized.\n6. Serve warm and enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

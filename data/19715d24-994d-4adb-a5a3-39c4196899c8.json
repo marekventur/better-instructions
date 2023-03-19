@@ -1,0 +1,12 @@
+{
+  "id": "19715d24-994d-4adb-a5a3-39c4196899c8",
+  "instruction": "Summarize the following text in three sentences.\n\nThe Great Barrier Reef is the world's largest coral reef system composed of over 2,900 individual reefs and 900 islands stretching for over 1,400 miles along the north-east coast of Australia.",
+  "input": "The Great Barrier Reef is the world's largest coral reef system consisting of over 2,900 individual reefs and 900 islands stretching along the north-east coast of Australia for over 1,400 miles.",
+  "output": "The Great Barrier Reef is the world's largest coral reef system covering over 1,400 miles of the north-east coast of Australia. It consists of over 2,900 individual reefs and 900 islands, and is home to an enormous variety of aquatic wildlife. The reef plays an important role in helping sustain the ocean's ecosystem and is an integral part of Australia's marine biodiversity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

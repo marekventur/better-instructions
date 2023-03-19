@@ -1,0 +1,12 @@
+{
+  "id": "79fc1d6b-bb99-4a5b-abb0-821eb27e3cf1",
+  "instruction": "Classify this advertising campaign.",
+  "input": "The company is using social media to drive brand awareness and generate leads.",
+  "output": "This is a social media marketing campaign.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

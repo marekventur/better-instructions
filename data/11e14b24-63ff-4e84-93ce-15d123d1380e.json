@@ -1,0 +1,12 @@
+{
+  "id": "11e14b24-63ff-4e84-93ce-15d123d1380e",
+  "instruction": "Suggest a way to make the following sentence a rhetorical question?",
+  "input": "Charles loves to ride his bike.",
+  "output": "Doesn't Charles love riding his bike?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

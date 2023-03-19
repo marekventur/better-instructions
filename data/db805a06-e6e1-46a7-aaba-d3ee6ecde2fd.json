@@ -1,0 +1,12 @@
+{
+  "id": "db805a06-e6e1-46a7-aaba-d3ee6ecde2fd",
+  "instruction": "Create a chart to show the employment rate in the US from 2019 to 2020",
+  "input": "",
+  "output": "The following chart shows the employment rate in the US from 2019 to 2020 (in percentage): \n\n| Year  | Employment Rate |\n|-------|-----------------|\n| 2019  | 61.2 %          |\n| 2020  | 57.5 %          |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

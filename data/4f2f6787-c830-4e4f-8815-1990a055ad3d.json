@@ -1,0 +1,12 @@
+{
+  "id": "4f2f6787-c830-4e4f-8815-1990a055ad3d",
+  "instruction": "Describe the solution in detail.",
+  "input": "We established a system for automatically generating data for our machine learning model.",
+  "output": "Our system for automatically generating data for our machine learning model utilizes various techniques to create data points, including web scraping and natural language processing. The data points are then stored in a database and used as input for our machine learning model. This system enables us to generate a much larger dataset than what could be accomplished manually, decreasing the amount of time and resources needed to train the model.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

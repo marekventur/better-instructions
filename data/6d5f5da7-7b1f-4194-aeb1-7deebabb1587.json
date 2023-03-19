@@ -1,0 +1,12 @@
+{
+  "id": "6d5f5da7-7b1f-4194-aeb1-7deebabb1587",
+  "instruction": "Proofread the following sentence for grammar errors and provide the corrected version.",
+  "input": "I likes apples and oranges",
+  "output": "I like apples and oranges.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

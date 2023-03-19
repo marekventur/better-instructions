@@ -1,0 +1,12 @@
+{
+  "id": "89672f7f-a6d9-462c-8ac8-90a97bae7a78",
+  "instruction": "Compare two given sentence to find the linguistic similarities",
+  "input": "The cat chased the mouse.\nThe dog chased the rabbit.",
+  "output": "The two sentences have similar structure and use the same verbs ('chased'); the only difference is in the nouns ('cat', 'mouse', 'dog' and 'rabbit').",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

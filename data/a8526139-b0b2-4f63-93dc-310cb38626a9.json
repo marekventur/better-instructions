@@ -1,0 +1,12 @@
+{
+  "id": "a8526139-b0b2-4f63-93dc-310cb38626a9",
+  "instruction": "Interpret the following data and create a recommendation:",
+  "input": "Average customer satisfaction rating- 79%\nAverage customer purchase rate- 15 orders/month",
+  "output": "Based on the data, customers are generally satisfied but appear to be making fewer orders than average, and so a recommendation would be to create an incentive program to encourage customers to make more purchases. This could include specials or discounts to increase order rates.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "798556e8-41e2-4efa-a142-7858ddd7b201",
+  "instruction": "Transform a statement provided into a rhetorical statement.",
+  "input": "John is too busy to hang out with us.",
+  "output": "Why is John too busy to hang out with us?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

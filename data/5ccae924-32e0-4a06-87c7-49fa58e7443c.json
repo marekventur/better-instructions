@@ -1,0 +1,12 @@
+{
+  "id": "5ccae924-32e0-4a06-87c7-49fa58e7443c",
+  "instruction": "Identify the correct usage of the phrase in the sentence.",
+  "input": "I could care less about what she said.",
+  "output": "Incorrect usage",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

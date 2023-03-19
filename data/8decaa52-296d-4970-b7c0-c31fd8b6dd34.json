@@ -1,0 +1,12 @@
+{
+  "id": "8decaa52-296d-4970-b7c0-c31fd8b6dd34",
+  "instruction": "In this task, you are given two items from a list and need to describe how they are different from each other.",
+  "input": "Musk Ox and Bactrian Camel",
+  "output": "The Musk Ox is a large, horned mammal native to the Arctic tundra that has a long, thick coat of fur. The Bactrian Camel is a large, long-necked mammal native to the cold deserts of Central Asia that has two humps of fat on its back. The Musk Ox is much larger than the Bactrian Camel, which is only about half its size. The Musk Ox also has more of a hide that keeps it warm, while the Bactrian Camel's fur is shorter and not as warm. The Bactrian Camel can also live in much drier climates than the Musk Ox.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

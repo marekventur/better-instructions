@@ -1,0 +1,12 @@
+{
+  "id": "56f33dfd-3ace-4099-94a4-42007c86f8b6",
+  "instruction": "Write a function that checks if a string is a palindrome.",
+  "input": "",
+  "output": "def isPalindrome(string): \n    # remove non-alphanumeric characters \n    alphanumeric_string = re.sub('[\\W_]+', '', string).lower() \n  \n    # reverse the string \n    reversed_string = alphanumeric_string[::-1] \n  \n    # check if the string is equal to its reverse \n    return alphanumeric_string == reversed_string",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

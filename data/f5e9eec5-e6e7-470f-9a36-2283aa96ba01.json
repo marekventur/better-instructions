@@ -1,0 +1,12 @@
+{
+  "id": "f5e9eec5-e6e7-470f-9a36-2283aa96ba01",
+  "instruction": "List the products in the photo.",
+  "input": "(photo of a grocery store)",
+  "output": "The products in the photo are milk, eggs, bread, cheese, butter, peanut butter, apples, oranges, bananas, yogurt, potatoes, carrots, celery, avocados, lettuce, tomatoes, onions, spaghetti, cereal, and chips.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

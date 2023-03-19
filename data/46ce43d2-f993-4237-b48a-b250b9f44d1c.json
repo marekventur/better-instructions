@@ -1,0 +1,12 @@
+{
+  "id": "46ce43d2-f993-4237-b48a-b250b9f44d1c",
+  "instruction": "Given a list of words, identify the part of speech of each one.",
+  "input": "happy, counting, tall",
+  "output": "The word \"happy\" is an adjective, the word \"counting\" is a verb, and the word \"tall\" is an adjective.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

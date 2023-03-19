@@ -1,0 +1,12 @@
+{
+  "id": "6023f6d6-b1df-4245-a4ee-b97560f06060",
+  "instruction": "Change the sentence so that is positive without changing its meaning.",
+  "input": "It's difficult to be successful in this field.",
+  "output": "It can be challenging to achieve success in this field.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

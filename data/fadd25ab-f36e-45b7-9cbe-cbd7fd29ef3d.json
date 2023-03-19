@@ -1,0 +1,12 @@
+{
+  "id": "fadd25ab-f36e-45b7-9cbe-cbd7fd29ef3d",
+  "instruction": "Recommend a movie for a particular user.",
+  "input": "User: mid-twenties female who loves romantic movies",
+  "output": "I recommend the movie \u2018Love, Rosie\u2019 for the mid-twenties female who loves romantic movies. The movie follows the story of childhood friends, Rosie and Alex, who attempt to navigate adulthood while struggling to maintain a romantic relationship. The movie stars Lily Collins and Sam Claflin and is a funny, heart-warming, and uplifting story of love, life, and friendship.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

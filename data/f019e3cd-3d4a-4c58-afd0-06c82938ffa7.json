@@ -1,0 +1,12 @@
+{
+  "id": "f019e3cd-3d4a-4c58-afd0-06c82938ffa7",
+  "instruction": "Edit the following sentence so it has no grammatical or punctuation errors.",
+  "input": "The goverment has shut down all non essential businesses",
+  "output": "The government has shut down all non-essential businesses.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

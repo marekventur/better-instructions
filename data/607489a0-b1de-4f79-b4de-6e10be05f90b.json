@@ -1,0 +1,12 @@
+{
+  "id": "607489a0-b1de-4f79-b4de-6e10be05f90b",
+  "instruction": "Create 3 questions related to the article.",
+  "input": "WASHINGTON (CNN) -- A wide-open presidential race and a willingness by candidates, interest groups, unions and corporations to buy TV time will lead to historic spending for political and issue-advocacy advertising in the 2008 election cycle, an analysis shows.",
+  "output": "1. How much money is being predicted to be spent on political and issue-advocacy advertising in the 2008 election cycle?\n2. What are some of the challenges faced by advertisers in the 2008 election?\n3. What tactics have been used so far by Mitt Romney to introduce himself to Republican voters?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d35b7112-ab43-44a5-b03e-18cfec8ce4e4",
+  "instruction": "Suppose two chess players play 10 games, how many possible outcomes exist?",
+  "input": "",
+  "output": "There are four possible outcomes for a game of chess, either a win for white, win for black, draw, or stalemate. Therefore, for 10 games, there are 2^10, or 1024 possible outcomes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

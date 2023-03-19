@@ -1,0 +1,12 @@
+{
+  "id": "56f7ff2c-e7b4-4f4a-8854-2c8fafb056f5",
+  "instruction": "How does a computer read data from the internet?",
+  "input": "",
+  "output": "A computer reads data from the internet by establishing a connection to the web server, then sending a request for a particular file or page, and then downloading the data from the server. This is usually done by a web browser but other programs, such as databases, can also contact web servers for data. The data is then stored in a computer's memory in a structured format so that programs can access and process it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

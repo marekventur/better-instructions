@@ -1,0 +1,12 @@
+{
+  "id": "861db858-1352-493e-aea6-fc8439d035a4",
+  "instruction": "Given some personal financial information, calculate the net worth of the person.",
+  "input": "Assets:\n- House: $400,000\n- Savings: $60,000\n- Car: $15,000\n\nLiabilities:\n- Mortgage: $300,000\n- Student Loan: $30,000",
+  "output": "$145,000",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

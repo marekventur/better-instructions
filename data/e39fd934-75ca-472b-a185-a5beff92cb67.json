@@ -1,0 +1,12 @@
+{
+  "id": "e39fd934-75ca-472b-a185-a5beff92cb67",
+  "instruction": "Shorten the news article to less than 100 words.",
+  "input": "Nokia\u2019s flagship 5G smartphones offer enhanced performance and multimedia experiences for users.\n\nNokia recently announced the launch of its flagship 5G smartphones: the Nokia 8.3 and Nokia 5.3. Both devices will enjoy a range of enhanced performance and multimedia experiences thanks to powerful processing, an AI-driven camera, and a range of advanced 5G connectivity options.",
+  "output": "Nokia recently announced the launch of two new 5G smartphones with enhanced performance and multimedia experiences: the Nokia 8.3 and Nokia 5.3. These devices offer powerful processing, an AI-driven camera and advanced 5G connectivity options.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

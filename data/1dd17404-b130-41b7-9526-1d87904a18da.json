@@ -1,0 +1,12 @@
+{
+  "id": "1dd17404-b130-41b7-9526-1d87904a18da",
+  "instruction": "What are the positive and negative impacts of open source software?",
+  "input": "",
+  "output": "The positive impacts of open source software include the availability of free software, allowing developers and users to inspect, audit, review and modify the source code as needed. This allows users to hold the software developers to higher standards and dictate the direction of the software. It also allows for faster development and code fixes, improves security and allows for collaboration between developers and users.\n\nThe negative impacts of open source software include the lack of licensing, which may make it difficult for developers to make money from their work and also make it more difficult to monetize. Additionally, since open source relies heavily on the community, it may be difficult to determine who is responsible in the case of an issue with the software. Finally, since users can modify the code, it can lead to different versions of the same software, making it difficult to update and maintain the software.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

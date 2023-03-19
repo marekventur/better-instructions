@@ -1,0 +1,12 @@
+{
+  "id": "344d2258-473d-49ec-a738-4f97161bfabe",
+  "instruction": "Explain the differences between blockchain and an ordinary database.",
+  "input": "",
+  "output": "The differences between a blockchain and an ordinary database can be summarized as follows: \nBlockchain is a distributed ledger, whereas a database is centralized. \nBlockchain is secure and resistant to tampering, because it is protected by cryptography, whereas a database may not be as secure and can be manipulated. \nBlockchain is public and decentralized, while a database is typically maintained by a single entity or organization. \nFinally, blockchain is immutable, meaning that once a transaction has been processed, it cannot be changed or reversed, while a database can be updated or edited.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c9cec552-fa6d-4133-9ad5-aa74941678ac",
+  "instruction": "Please edit this sentence to correct the grammar and spelling mistakes.",
+  "input": "I am intersted in engineering for the furure",
+  "output": "I am interested in engineering for the future.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

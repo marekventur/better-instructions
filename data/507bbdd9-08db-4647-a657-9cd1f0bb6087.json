@@ -1,0 +1,12 @@
+{
+  "id": "507bbdd9-08db-4647-a657-9cd1f0bb6087",
+  "instruction": "Given a series of tweets from a user, come up with a headline that summarizes the content.",
+  "input": "- Im so mad that nothing is gonna get done today\n- This whole week has been a complete disaster\n- I just want to get it all over with",
+  "output": "Frustration Peaks as Disaster Week Goes On For User.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

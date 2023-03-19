@@ -1,0 +1,12 @@
+{
+  "id": "bd76bddd-01d1-4e07-a3b4-fa8982dd950a",
+  "instruction": "Calculate the profit from selling 20 units of this item.",
+  "input": "Item Cost: $100\nSelling Price: $200",
+  "output": "The profit from selling 20 units of this item is $2,000.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

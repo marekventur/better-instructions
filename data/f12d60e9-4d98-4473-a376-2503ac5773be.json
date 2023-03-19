@@ -1,0 +1,12 @@
+{
+  "id": "f12d60e9-4d98-4473-a376-2503ac5773be",
+  "instruction": "Develop a code to create a dictionary with the length of each word in the given sentence.",
+  "input": "sentence = \"Welcome to the world of Python programming\"",
+  "output": "def word_count(sentence): \n  words = sentence.split(\" \") \n  word_dict = {}\n\n  for word in words: \n    word_dict[word] = len(word) \n  \n  return word_dict\n\nsentence = \"Welcome to the world of Python programming\"\n\nprint(word_count(sentence))\n\n# Output \n# {'Welcome': 7, 'to': 2, 'the': 3, 'world': 5, 'of': 2, 'Python': 6, 'programming': 11}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

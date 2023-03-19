@@ -1,0 +1,12 @@
+{
+  "id": "913d0d74-833e-4cf2-bf08-26844271e5e3",
+  "instruction": "Perform a sentiment analysis for the following text.",
+  "input": "Learning Machine Learning has given me such powerful tools",
+  "output": "The sentiment of the text is positive because it is expressing how learning Machine Learning has given the speaker powerful tools.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

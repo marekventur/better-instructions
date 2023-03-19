@@ -1,0 +1,12 @@
+{
+  "id": "8b1eddc5-5e6d-490e-b374-04e542882516",
+  "instruction": "Categorize the given sentence as either a proverve or a proverb by providing appropriate explanation.",
+  "input": "A stitch in time saves nine.",
+  "output": "Proverb. This proverb means that taking the time to do something properly, or to fix something when it first goes wrong, is more effective than having to expend much more effort later on to fix it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

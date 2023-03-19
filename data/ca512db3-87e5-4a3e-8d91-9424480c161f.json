@@ -1,0 +1,12 @@
+{
+  "id": "ca512db3-87e5-4a3e-8d91-9424480c161f",
+  "instruction": "Classify the given system as centralized or distributed.",
+  "input": "System Name: International Security System\nDescription: The International Security System is a large-scale security system that is managed by a centralized authority.",
+  "output": "Centralized",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

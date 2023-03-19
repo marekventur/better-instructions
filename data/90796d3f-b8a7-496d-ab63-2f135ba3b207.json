@@ -1,0 +1,12 @@
+{
+  "id": "90796d3f-b8a7-496d-ab63-2f135ba3b207",
+  "instruction": "Tell me what 'cache' means in the context of computers?",
+  "input": "",
+  "output": "In computing, a cache is a short-term storage system used to quickly access frequently-used data or instructions. Caching enables the system to quickly retrieve data instead of having to re-compute or query for it, thus increasing the speed and efficiency of the system.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

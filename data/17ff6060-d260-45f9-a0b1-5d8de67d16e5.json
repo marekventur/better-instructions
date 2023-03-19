@@ -1,0 +1,12 @@
+{
+  "id": "17ff6060-d260-45f9-a0b1-5d8de67d16e5",
+  "instruction": "Create a script that informs the user of their phone's battery level.",
+  "input": "",
+  "output": "Hello, your phone's battery is currently at [percentage]%, please plug it in as soon as possible if you want to avoid running out of battery.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

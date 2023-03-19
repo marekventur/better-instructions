@@ -1,0 +1,12 @@
+{
+  "id": "e871e193-1897-4e1b-84ee-6d9b38bd5083",
+  "instruction": "Edit the sentence below to remove any redundant words and make it more concise.",
+  "input": "I think to myself",
+  "output": "I think.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

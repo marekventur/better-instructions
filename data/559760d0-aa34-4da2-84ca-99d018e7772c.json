@@ -1,0 +1,12 @@
+{
+  "id": "559760d0-aa34-4da2-84ca-99d018e7772c",
+  "instruction": "Find the word in the sentence which does not belong",
+  "input": "The lion, rabbit, bird and mouse",
+  "output": "Mouse",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

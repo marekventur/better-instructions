@@ -1,0 +1,12 @@
+{
+  "id": "eedfd318-fb1e-4af7-84c7-8667e65cc1e2",
+  "instruction": "Write about a topic in the form of a short paragraph.",
+  "input": "Space exploration",
+  "output": "Space exploration has been a major part of human history for centuries and it has greatly advanced our understanding of the universe. From the Sputnik launch in 1957, to the Apollo 11 landing in 1969 and the European Space Agency's Curiosity rover currently roaming Mars, space exploration has been pushing the boundaries of human knowledge. Despite being extremely costly and complex, space exploration has provided us with invaluable information and technological advances that will no doubt continue to shape our future.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

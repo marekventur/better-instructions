@@ -1,0 +1,12 @@
+{
+  "id": "3bf4b325-2366-457d-bb27-acdde50d7493",
+  "instruction": "Create a grocery list with 10 healthy items",
+  "input": "",
+  "output": "- Leafy greens\n- Whole grains\n- Low-fat dairy products\n- Lean proteins like fish, poultry, and beans\n- Nuts & seeds\n- Berries & other fresh fruits\n- Coconut oil\n- Avocados\n- Olive oil\n- Herbs and spices",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

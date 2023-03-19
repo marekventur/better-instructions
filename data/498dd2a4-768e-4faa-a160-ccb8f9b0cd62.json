@@ -1,0 +1,12 @@
+{
+  "id": "498dd2a4-768e-4faa-a160-ccb8f9b0cd62",
+  "instruction": "Rearrange the given words so that they make grammatical sense.",
+  "input": "yesterday picnic sunny had we",
+  "output": "We had a sunny picnic yesterday.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

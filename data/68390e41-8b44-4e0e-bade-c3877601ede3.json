@@ -1,0 +1,12 @@
+{
+  "id": "68390e41-8b44-4e0e-bade-c3877601ede3",
+  "instruction": "Describe a tool used for debugging a program.",
+  "input": "",
+  "output": "A debugger is a tool used to help identify errors in a program's code. It allows programmers to step through the code line by line and analyze data structures, variables and memory in order to identify bugs and fix them. Debuggers may also be used to search for coding errors, detect infinite loops and monitor program run times.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

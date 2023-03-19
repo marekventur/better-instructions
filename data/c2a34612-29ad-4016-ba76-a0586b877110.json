@@ -1,0 +1,12 @@
+{
+  "id": "c2a34612-29ad-4016-ba76-a0586b877110",
+  "instruction": "Given an initial sentence and a sentence fragment, edit the initial sentence to include the sentence fragment.",
+  "input": "She likes to cook. Adding vegetables.",
+  "output": "She likes to cook, adding vegetables.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

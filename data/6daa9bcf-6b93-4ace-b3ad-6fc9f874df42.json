@@ -1,0 +1,12 @@
+{
+  "id": "6daa9bcf-6b93-4ace-b3ad-6fc9f874df42",
+  "instruction": "Given a binary classification dataset, predict the output class given the input using a logistic regression model.",
+  "input": "Input: height (inches): 72, weight (pounds): 200",
+  "output": "Predicted output class: 1 (positive)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

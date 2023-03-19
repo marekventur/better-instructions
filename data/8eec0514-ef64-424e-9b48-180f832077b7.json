@@ -1,0 +1,12 @@
+{
+  "id": "8eec0514-ef64-424e-9b48-180f832077b7",
+  "instruction": "Find a parallel structure in the following sentence: \"She cooked dinner, cleaned the dishes, and did the laundry.\"",
+  "input": "",
+  "output": "The parallel structure in the sentence is: She cooked dinner, cleaned the dishes, and did the laundry.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

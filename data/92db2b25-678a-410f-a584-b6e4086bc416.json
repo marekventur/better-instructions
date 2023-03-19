@@ -1,0 +1,12 @@
+{
+  "id": "92db2b25-678a-410f-a584-b6e4086bc416",
+  "instruction": "Generate a play by play summary of the baseball game between the Chicago Cubs and the Los Angeles Dodgers",
+  "input": "",
+  "output": "The Chicago Cubs took on the Los Angeles Dodgers in a thrilling game. The Cubs got off to a hot start, scoring two runs in the first inning. The Dodgers responded with a pair of runs in the bottom of the inning to tie the game up. However, the Cubs offense took over in the second, scoring four runs to take a lead that they wouldn't relinquish. The Dodgers managed to score a run in the bottom of the fourth, but it wasn't enough, as the Cubs took the game 6-3.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

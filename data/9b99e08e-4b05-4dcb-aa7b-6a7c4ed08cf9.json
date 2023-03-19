@@ -1,0 +1,12 @@
+{
+  "id": "9b99e08e-4b05-4dcb-aa7b-6a7c4ed08cf9",
+  "instruction": "Classify the following passage into a specific genre.",
+  "input": "The rain pounded against the windows, lightning flashed in the distance, and thunder boomed in the air.",
+  "output": "The passage is an example of storm and suspense genre.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2b030010-80e3-404c-b179-e5a75e2b947f",
+  "instruction": "Classify these animals as a wild or domestic animal.",
+  "input": "Lion, cow",
+  "output": "The lion is a wild animal and the cow is a domestic animal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

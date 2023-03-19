@@ -1,0 +1,12 @@
+{
+  "id": "88fe46b0-cf7a-4b27-b760-8481f3102e9c",
+  "instruction": "Find the shortest path between two cities using Djikstra's algorithm.",
+  "input": "New York and San Francisco",
+  "output": "The shortest path between New York and San Francisco, using Djikstra's algorithm, is: New York - Denver - San Francisco.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

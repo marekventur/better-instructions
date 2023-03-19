@@ -1,0 +1,12 @@
+{
+  "id": "f2d8e88f-7ee1-4dfa-89ce-2a6d1dae7af7",
+  "instruction": "Arrange these pieces of furniture in a room.",
+  "input": "Couch, Table, Chair, Bookshelves",
+  "output": "[Layout]\n\nArrange the furniture in the room as follows: Place the couch at one end of the room and the table at the other end. Place the chair beside the couch. Finally, place the bookshelves on either side of the couch.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

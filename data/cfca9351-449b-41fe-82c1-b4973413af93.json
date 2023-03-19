@@ -1,0 +1,12 @@
+{
+  "id": "cfca9351-449b-41fe-82c1-b4973413af93",
+  "instruction": "Given the data, predict whether a patient has cancer or not.",
+  "input": "Patient A's PAP score is 5.3 and has elevated CEA count 2.8 ng/ml",
+  "output": "Patient A is likely to have cancer. High PAP score and elevated CEA count indicates possible presence of cancer and thus further tests and analysis should be carried out for confirmation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

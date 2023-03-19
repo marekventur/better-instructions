@@ -1,0 +1,12 @@
+{
+  "id": "964bc588-1f20-4108-9cd7-75cd1c81b9cc",
+  "instruction": "Recognize active questions, describing what they are.",
+  "input": "",
+  "output": "Active questions are those that require some sort of action on the part of the respondent in order to be answered. Examples of active questions include questions that require the respondent to demonstrate their understanding of an idea, formulate a response or opinion, or solve a problem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

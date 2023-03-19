@@ -1,0 +1,12 @@
+{
+  "id": "f8314877-6498-4b45-9362-c3b3f4151160",
+  "instruction": "Explain the concept of web scraping.",
+  "input": "",
+  "output": "Web scraping is a process of extracting data from websites. It enables automated access to data that would otherwise be difficult or impossible to obtain. It involves downloading HTML files and then parsing the data that is of interest. Web scraping can be used to collect data from webpages and thus make use of the data in some meaningful way.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

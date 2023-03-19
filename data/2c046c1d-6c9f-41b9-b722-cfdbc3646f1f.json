@@ -1,0 +1,12 @@
+{
+  "id": "2c046c1d-6c9f-41b9-b722-cfdbc3646f1f",
+  "instruction": "Given a set of data points, calculate the linear slope.",
+  "input": "Data points: (2,0), (5,3), (7,4)",
+  "output": "The linear slope of the set of data points is 0.714.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

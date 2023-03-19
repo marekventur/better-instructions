@@ -1,0 +1,12 @@
+{
+  "id": "10d7966a-fad2-4d74-8a51-248554cd94f1",
+  "instruction": "Edit the following sentence to correct any incorrect usage of the possessive form.",
+  "input": "That's my sister's and I car.",
+  "output": "That's my sister's and my car.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

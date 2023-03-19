@@ -1,0 +1,12 @@
+{
+  "id": "f6818f3d-e4a5-446f-889c-497b26871be1",
+  "instruction": "Create a code snippet to generate n-dimentional array.",
+  "input": "",
+  "output": "def generate_ndarray(n):\n    '''\n    Generates a n-dimensional array of zeros\n    '''\n    ret = []\n    for i in range(n):\n        ret.append([0]*(2**i))\n    return ret",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

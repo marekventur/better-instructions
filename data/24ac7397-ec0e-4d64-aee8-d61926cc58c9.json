@@ -1,0 +1,12 @@
+{
+  "id": "24ac7397-ec0e-4d64-aee8-d61926cc58c9",
+  "instruction": "Analyze the following speech and give feedback",
+  "input": "My biggest challenge is to finish my project on time.",
+  "output": "It is great that you are aware of your project's timeline, but it is important to also consider potential obstacles that may cause delays or need to be addressed before completing the project. Breaking down large tasks into smaller, achievable goals, or creating a timeline or checklist to plan the next few steps, can help to keep you organized and on track.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

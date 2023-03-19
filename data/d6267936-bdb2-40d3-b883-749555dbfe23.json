@@ -1,0 +1,12 @@
+{
+  "id": "d6267936-bdb2-40d3-b883-749555dbfe23",
+  "instruction": "Rank these animals by their lifespan.",
+  "input": "Elephant, Dolphin, Dog, Cat",
+  "output": "Elephant, Dolphin, Cat, Dog",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

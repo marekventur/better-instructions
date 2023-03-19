@@ -1,0 +1,12 @@
+{
+  "id": "d3ad773e-71e9-475b-a776-574046f7b154",
+  "instruction": "Describe what a neural network is in three sentences.",
+  "input": "",
+  "output": "A neural network is a type of artificial intelligence that uses algorithms to replicate the functions of the human brain. It consists of layers of interconnected nodes which are programmed to respond to a given set of inputs, and adjust their values based on the input and its response. Neural networks can be used to identify patterns in data and make predictions, as well as control robotic actions and machine learning applications.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

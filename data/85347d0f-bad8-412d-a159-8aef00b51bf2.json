@@ -1,0 +1,12 @@
+{
+  "id": "85347d0f-bad8-412d-a159-8aef00b51bf2",
+  "instruction": "Categorize the statement into either \"true\" or \"false\".",
+  "input": "Bananas are green when picked",
+  "output": "False. Bananas are yellow when picked.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

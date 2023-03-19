@@ -1,0 +1,12 @@
+{
+  "id": "43349c5f-464b-48aa-ab47-00107e2047e0",
+  "instruction": "Design a game scoring system for a soccer game.",
+  "input": "",
+  "output": "The game scoring system should take into account both offensive and defensive play balance. Players receive points for scoring goals, making assists, successful passed, winning tackles, successfully defending, and intercepting the ball. The score should be cumulative, with points awarded at regular intervals, such as after each quarter. The player with the highest score at the end of the game will receive an MVP award.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

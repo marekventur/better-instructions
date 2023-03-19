@@ -1,0 +1,12 @@
+{
+  "id": "eed7b637-c4bd-4043-9da1-d12056b55ddc",
+  "instruction": "What are two technologies used to make autonomous vehicles?",
+  "input": "",
+  "output": "Two technologies used to make autonomous vehicles are sensors and artificial intelligence (AI). Sensors are used to gather information from the environment surrounding the vehicle, such as detecting obstacles, mapping the terrain, and interpreting traffic signals. AI is used to process the data gathered by the sensors to make decisions and provide the vehicle with the ability to react to changing conditions in its environment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

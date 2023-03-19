@@ -1,0 +1,12 @@
+{
+  "id": "810f462b-4184-4408-a661-edae4cff519a",
+  "instruction": "Adapt the following sentence to use the second person point of view.",
+  "input": "The man took a walk in the park.",
+  "output": "You took a walk in the park.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

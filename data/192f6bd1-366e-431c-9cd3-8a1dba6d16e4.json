@@ -1,0 +1,12 @@
+{
+  "id": "192f6bd1-366e-431c-9cd3-8a1dba6d16e4",
+  "instruction": "Rewrite the sentence to remove any negative connotations.",
+  "input": "The candidate was so unimpressive that I would never hire them.",
+  "output": "The candidate's performance wasn't up to the standards I set for hiring.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

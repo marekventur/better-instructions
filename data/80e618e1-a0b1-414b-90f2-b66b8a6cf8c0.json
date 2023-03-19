@@ -1,0 +1,12 @@
+{
+  "id": "80e618e1-a0b1-414b-90f2-b66b8a6cf8c0",
+  "instruction": "Generate a physics story problems given a specific input.",
+  "input": "A cylindrical tube with a radius of 2 cm has air flowing through it at 0.5 kg/sec.",
+  "output": "A cylindrical tube with a radius of 2 cm has air flowing through it at 0.5 kg/sec. The force F in Newton of the airflow can be calculated by using the equation F=A\u00d7P, where A is the area of the tube and P is the pressure. The area of the tube is given by the formula A=\u03c0r2, thus we have A=\u03c0\u00d72 cm2 = 12.57 cm2. To calculate the pressure, the equation P=(mass/time)\u00d7density is used. In this case, the pressure is given by P=0.5 kg/sec\u00d71.3 kg/m3 = 0.65 kg/m3 = 0.65 N/m2. The total force of the airflow is then calculated as F=A\u00d7P=12.57 cm2 \u00d7 0.65 N/m2 = 8.17 N. Thus, the force of the airflow in the cylindrical tube of radius 2 cm is 8.17 N.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ebf4d418-26be-4860-8298-e305109ad0e7",
+  "instruction": "Describe the purpose of DNS (Domain Name System).",
+  "input": "",
+  "output": "The Domain Name System (DNS) is a hierarchical distributed computing system used to convert human-readable domain names into numeric IP addresses, which allow computers to communicate with each other on the Internet. It is also responsible for handling requests for email services and web pages.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

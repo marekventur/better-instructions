@@ -1,0 +1,12 @@
+{
+  "id": "3c6e6ffd-45b4-497f-b3cb-bd51c7884d01",
+  "instruction": "Given a list of words, classify and group them into categories.",
+  "input": "Car, plane, train, ship",
+  "output": "Transportation: car, plane, train, ship.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

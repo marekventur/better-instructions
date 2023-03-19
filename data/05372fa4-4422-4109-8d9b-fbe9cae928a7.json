@@ -1,0 +1,12 @@
+{
+  "id": "05372fa4-4422-4109-8d9b-fbe9cae928a7",
+  "instruction": "Categorize the following sentence as a given type.",
+  "input": "She walked across the street and waved to her friend.",
+  "output": "Action.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

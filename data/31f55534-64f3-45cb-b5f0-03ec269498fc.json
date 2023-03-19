@@ -1,0 +1,12 @@
+{
+  "id": "31f55534-64f3-45cb-b5f0-03ec269498fc",
+  "instruction": "Identify which sentence is written in the present perfect tense",
+  "input": "I have walked that path.\nI walk that path every day.",
+  "output": "I have walked that path.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

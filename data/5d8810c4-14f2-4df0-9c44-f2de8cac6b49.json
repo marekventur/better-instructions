@@ -1,0 +1,12 @@
+{
+  "id": "5d8810c4-14f2-4df0-9c44-f2de8cac6b49",
+  "instruction": "Classify each sentence in the paragraph into \"positive\" or \"negative\".",
+  "input": "The coffee tasted great, but there was not enough sugar.\nThe waitress was friendly but her service was not as fast as I would have liked.",
+  "output": "Sentence 1: Positive \nSentence 2: Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

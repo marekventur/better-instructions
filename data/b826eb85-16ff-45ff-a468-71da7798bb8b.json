@@ -1,0 +1,12 @@
+{
+  "id": "b826eb85-16ff-45ff-a468-71da7798bb8b",
+  "instruction": "What is the probability of this event happening?",
+  "input": "A person draws 10 playing cards without replacement from a standard deck of 52.",
+  "output": "The probability of drawing 10 cards without replacement from a standard deck of 52 is 0.0008834951456310676.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

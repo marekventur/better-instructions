@@ -1,0 +1,12 @@
+{
+  "id": "07632020-865f-4b71-958e-d3f8655f124c",
+  "instruction": "Calculate the sales tax on the purchase of a $25 item with a tax rate of 0.08.",
+  "input": "",
+  "output": "The sales tax on the purchase of a $25 item at 0.08 tax rate is $2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5248b23f-86a9-4df2-9fe2-f3fd72449f1d",
+  "instruction": "Write a product review of the given electronic item.",
+  "input": "Sony Playstation 4",
+  "output": "I recently purchased the Sony Playstation 4 and I must say that I am very impressed by its performance. The graphics are absolutely stunning with smooth, lifelike animations, and the controller is extremely comfortable to use. It even has a great range of games to choose from, so you're sure to find something you like. Overall, I'm really happy with my purchase and would definitely recommend the Sony Playstation 4!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "30abd3a9-7ab6-4429-b7d3-fcd75620d319",
+  "instruction": "Which problems can be addressed by deep learning?",
+  "input": "",
+  "output": "Deep learning can be used to solve a variety of problems, such as computer vision tasks like image classification, object detection and segmentation; natural language processing tasks such as machine translation and language generation; as well as time series forecasting and other predictive modelling tasks related to financial data and healthcare datasets. Additionally, deep learning can also be used in robotics and autonomous navigation, image enhancement and image restoration, style transfer tasks, and more.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cb9699e2-fe33-47ac-863a-003e59ff348f",
+  "instruction": "Please rewrite this sentence removing any redundant words or phrases.",
+  "input": "It is necessary for students to go to school five days a week.",
+  "output": "Students must attend school five days a week.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

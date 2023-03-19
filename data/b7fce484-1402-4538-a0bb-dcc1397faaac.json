@@ -1,0 +1,12 @@
+{
+  "id": "b7fce484-1402-4538-a0bb-dcc1397faaac",
+  "instruction": "Write a script that reads in an input and outputs the number of characters in the input",
+  "input": "",
+  "output": "# Read input from the command line\ninput = input(\"Please enter a string: \")\n\n# Get the number of characters in the string\nnumChars = len(input)\n\n# Print out the result\nprint(\"Number of characters: \" + str(numChars))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

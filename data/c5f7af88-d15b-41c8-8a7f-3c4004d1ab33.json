@@ -1,0 +1,12 @@
+{
+  "id": "c5f7af88-d15b-41c8-8a7f-3c4004d1ab33",
+  "instruction": "Generate 3 possible jokes related to a given keyword.",
+  "input": "Keyword: Pizza",
+  "output": "1. What do ghosts serve for pizza? Moaning-a-rella. \n2. What did the pizza maker say when someone asked for mushrooms on their pizza? I, mushroom. \n3. What did one slice of pizza say to the other? We have to stop meeting like this.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

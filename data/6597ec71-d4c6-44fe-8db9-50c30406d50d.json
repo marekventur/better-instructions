@@ -1,0 +1,12 @@
+{
+  "id": "6597ec71-d4c6-44fe-8db9-50c30406d50d",
+  "instruction": "You are given a string of characters, tell me the data structure that would be most useful for storing this data.",
+  "input": "ADFQP0219ABC",
+  "output": "A hash table would be the most useful data structure for storing this data. A hash table is a data structure that maps keys to values and allows for efficient search and retrieval of the associated values. In this case, the characters could be used as the keys and an associated value could be stored under each key.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fab88c63-233d-40b6-bc57-45ed02ff9b48",
+  "instruction": "Extrapolate the following questions and provide a suitable answer.",
+  "input": "Question 1: What is global warming?",
+  "output": "Global warming is the ongoing rise of the average Earth's atmosphere and oceans' temperatures. It is caused by increased levels of greenhouse gases such as carbon dioxide, methane, and water vapor, which trap heat and cause the planet to become warmer. Global warming has a wide range of effects, from extreme weather events such as floods and droughts, to a rise in sea levels that can threaten coastal communities, to changes in ecosystems that can impact plants and animals. It is one of the most pressing environmental issues of our day and a priority for people and governments worldwide.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

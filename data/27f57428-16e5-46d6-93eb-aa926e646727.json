@@ -1,0 +1,12 @@
+{
+  "id": "27f57428-16e5-46d6-93eb-aa926e646727",
+  "instruction": "Score the following statement on a scale of 1 to 5, where 1 is low and 5 is high.",
+  "input": "This article provides good quality information.",
+  "output": "5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

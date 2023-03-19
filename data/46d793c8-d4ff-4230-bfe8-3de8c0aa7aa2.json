@@ -1,0 +1,12 @@
+{
+  "id": "46d793c8-d4ff-4230-bfe8-3de8c0aa7aa2",
+  "instruction": "Given a set of data, create an entertaining poem",
+  "input": "London | population | 8.9 million\nLondon | area | 1,572 km\u00b2\nLondon | country | England",
+  "output": "London the city of eight million souls,\nA vast area of fifteen hundred and seventy two square miles,\nEngland its proud and historic home,\nWhere residents of all backgrounds will find a place to roam.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

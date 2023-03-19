@@ -1,0 +1,12 @@
+{
+  "id": "f2ae0b37-12a1-4327-9a6a-38faf20613ec",
+  "instruction": "Given a set of points, calculate the area of the shape created.",
+  "input": "(1, 2) (2, 3) (3, 2) (4, 5)",
+  "output": "The area of the shape formed by the given points is 7.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "659fa2a4-869e-4bef-be7c-a4703bbd22ca",
+  "instruction": "Take a list of ingredients and create a unique dish.",
+  "input": "nuts, bananas, honey, blueberries",
+  "output": "Honey Banana Nut Crunch Bowl\n\nIngredients (Makes 3 servings):\n1 cup raw nuts of your choice\n2 ripe bananas, mashed\n2 tablespoons honey\n\u00bd cup blueberries\n\nInstructions:\n1. Preheat oven to 350\u00b0F. \n2. Place the nuts on a baking sheet and bake for 8-10 minutes or until lightly brown and fragrant. \n3. In a medium bowl, combine the nuts, mashed bananas and honey. \n4. Grease a 9-inch pie dish with butter or cooking spray. \n5. Spread the nut-honey-banana mixture into the pie dish and press down lightly with a spoon.\n6. Sprinkle the blueberries evenly over the top. \n7. Bake for 20 minutes or until lightly browned. \n8. Let cool before serving. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

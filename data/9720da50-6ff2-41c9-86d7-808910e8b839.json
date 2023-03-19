@@ -1,0 +1,12 @@
+{
+  "id": "9720da50-6ff2-41c9-86d7-808910e8b839",
+  "instruction": "Convert this hexadecimal value to its equivalent decimal number.",
+  "input": "0xAF",
+  "output": "175",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

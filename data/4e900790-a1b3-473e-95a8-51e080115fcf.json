@@ -1,0 +1,12 @@
+{
+  "id": "4e900790-a1b3-473e-95a8-51e080115fcf",
+  "instruction": "Rewrite the following sentence using correct capitalization and punctuation.",
+  "input": "last night mary and i went to the movies",
+  "output": "Last night, Mary and I went to the movies.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

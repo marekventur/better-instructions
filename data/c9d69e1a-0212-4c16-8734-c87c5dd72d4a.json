@@ -1,0 +1,12 @@
+{
+  "id": "c9d69e1a-0212-4c16-8734-c87c5dd72d4a",
+  "instruction": "Rewrite the following question in an interrogative sentence",
+  "input": "It is necessary to go to the store",
+  "output": "Is it necessary to go to the store?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

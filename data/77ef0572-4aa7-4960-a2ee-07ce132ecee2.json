@@ -1,0 +1,12 @@
+{
+  "id": "77ef0572-4aa7-4960-a2ee-07ce132ecee2",
+  "instruction": "Tag this text as positive or negative.",
+  "input": "The summer weather was undeniably terrible today.",
+  "output": "Tagged as negative.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

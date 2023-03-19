@@ -1,0 +1,12 @@
+{
+  "id": "83278840-4063-4e8d-b708-3c353a31c837",
+  "instruction": "Given an ingredient, provide a recipe that can be prepared with the ingredient.",
+  "input": "Eggs",
+  "output": "Shakshuka - a Middle Eastern dish of eggs poached in a rich tomato and pepper sauce. \n\nIngredients: \n- 2 tablespoons olive oil \n- 2 medium onions, diced \n- 2 cloves of garlic, minced \n- 1 red pepper, diced\n- 2 teaspoons ground cumin\n- 2 cups crushed tomatoes \n- 1 teaspoon sugar \n- Salt and pepper to taste \n- 4 large eggs\n- 2 tablespoons chopped parsley\n\nInstructions:\n1. Heat the olive oil in a large skillet over medium heat.\n2. Add the onions, garlic, and red pepper and cook until the vegetables are softened, about 5 minutes.\n3. Add the cumin, crushed tomatoes, sugar, and salt and pepper. Stir to combine and bring to a simmer. \n4. Simmer for 10 minutes, until the sauce has thickened.\n5. Carefully crack the eggs into the sauce and cover the skillet. \n6. Cook until the eggs are cooked to your desired doneness, about 7 minutes. \n7. Sprinkle with parsley, serve and enjoy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "79fa1c6c-92d2-42a5-9994-9f318a49cd51",
+  "instruction": "Write an article comparing and contrasting two different items.",
+  "input": "Football and basketball",
+  "output": "Football and basketball are two of the most popular sports in the world. Both sports involve physical activity, teamwork, and strategy. While the objectives of both sports are similar, there are several notable differences. Football is played on a large field with two teams of eleven players, while basketball takes place on a smaller court with two teams of five players. Football is a slower, more methodical game that relies on intense strategy and physical strength, while basketball is a faster-paced game that focuses on quick reflexes and agility. Football also requires more protective gear due to the physical nature of the sport, while basketball does not. Ultimately, both sports offer an enjoyable experience for athletes and fans alike.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

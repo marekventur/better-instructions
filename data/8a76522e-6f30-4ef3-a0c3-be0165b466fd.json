@@ -1,0 +1,12 @@
+{
+  "id": "8a76522e-6f30-4ef3-a0c3-be0165b466fd",
+  "instruction": "Rewrite the sentence using indirect speech.",
+  "input": "He said, \"I like playing video games.\"",
+  "output": "He said that he liked playing video games.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

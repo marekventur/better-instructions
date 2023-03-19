@@ -1,0 +1,12 @@
+{
+  "id": "d27a6d4d-c05b-4c33-9f9a-6bee14995a7a",
+  "instruction": "Generate a list of five descriptions for a given concept.",
+  "input": "Desktop computer",
+  "output": "- A personal computer designed to fit on or under a desk\n- An all-in-one electronic device connecting to a monitor and keyboard \n- A device containing the memory and processing power of a computer\n- A sophisticated machine designed to enable multiple types of complex tasks\n- A powerful desktop system designed for work, gaming and multimedia tasks",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7371886f-9a04-43cd-a257-f84778f8a848",
+  "instruction": "Write a functional Javascript code to print the string \"Hello World\" to the console.",
+  "input": "",
+  "output": "console.log('Hello World');",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

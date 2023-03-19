@@ -1,0 +1,12 @@
+{
+  "id": "ba5d0b63-31b6-4f85-9901-67fe2109f2d7",
+  "instruction": "Given the input research paper, summarize the main ideas in two to three sentences.",
+  "input": "This paper investigates the role of health knowledge, attitudes and behaviour in the prevention of cardiovascular diseases. Several studies have previously shown a consistent association between health knowledge and preventive health behaviours in the population. The current study aimed to investigate the association between health knowledge and cardiovascular risk factors.",
+  "output": "This paper examines the link between knowledge of health and preventive behavior related to cardiovascular diseases. Previous findings have suggested this knowledge could impact risk factors for cardiovascular diseases. This study looks further into the association between health knowledge and risk factors for cardiovascular diseases.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

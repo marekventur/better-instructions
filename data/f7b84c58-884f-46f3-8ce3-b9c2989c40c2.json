@@ -1,0 +1,12 @@
+{
+  "id": "f7b84c58-884f-46f3-8ce3-b9c2989c40c2",
+  "instruction": "What type of software is required for the following task?",
+  "input": "Analyzing data from a solar panel",
+  "output": "Data analytics software is required for analyzing data from a solar panel. This software can be used to generate visualizations of the data, identify trends and patterns, and create automated reports.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d085e994-6751-4490-9f51-546141a47b3f",
+  "instruction": "Given a description of some data, classify the data as to whether it is qualitative or quantitative.",
+  "input": "Height of a person",
+  "output": "This data is quantitative, as it can be measured numerically.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

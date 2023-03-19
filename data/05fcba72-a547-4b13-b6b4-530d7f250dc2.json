@@ -1,0 +1,12 @@
+{
+  "id": "05fcba72-a547-4b13-b6b4-530d7f250dc2",
+  "instruction": "Create a computer program to output all the possible combinations that can be made from the following letters: GDHAC",
+  "input": "",
+  "output": "G, D, H, A, C, GD, GH, GA, GC, DH, DA, DC, HA, HC, AC, GHD, GHA, GHC, GDA, GDC, GHA, GHC, GAC, DHA, DHC, DAC, HDA, HDC, HAC, DAC.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

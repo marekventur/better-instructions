@@ -1,0 +1,12 @@
+{
+  "id": "dc19d89d-ce7b-40a5-b11e-68dfae8e437f",
+  "instruction": "Write a script for an automated chatbot.",
+  "input": "",
+  "output": "User: Hi!\n\nChatbot: Hi there! How can I help you?\n\nUser: I need help setting up my account\n\nChatbot: No problem! I'm here to help. What type of account are you setting up? \n\nUser: A Google Account\n\nChatbot: Great! I can help you with that. What is your email address? \n\nUser: [user's email address]\n\nChatbot: Okay, [User's Email Address] - I have the basics setup for you. We just need to set a password and photos. Is that okay? \n\nUser: Sure.\n\nChatbot: Great! What password would you like to use for your Google Account? \n\nUser: [user's password]\n\nChatbot: Okay, looks like your Google Account is all set up! Is there anything else I can help you with? \n\nUser: No, I think that's all.\n\nChatbot: Alright. Have a great day!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

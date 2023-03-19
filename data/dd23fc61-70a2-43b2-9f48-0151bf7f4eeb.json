@@ -1,0 +1,12 @@
+{
+  "id": "dd23fc61-70a2-43b2-9f48-0151bf7f4eeb",
+  "instruction": "Create a mnemonic device to help the student memorize the following numbers",
+  "input": "Numbers: 987654",
+  "output": "Nine pillars across Grandma's house, Five Tigers under it, Six sausages around it and Four birds above it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

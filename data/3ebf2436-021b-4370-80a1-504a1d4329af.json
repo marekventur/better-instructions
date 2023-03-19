@@ -1,0 +1,12 @@
+{
+  "id": "3ebf2436-021b-4370-80a1-504a1d4329af",
+  "instruction": "Categorize this movie as a drama or a comedy.",
+  "input": "Movie: The Social Network",
+  "output": "The Social Network is a drama.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

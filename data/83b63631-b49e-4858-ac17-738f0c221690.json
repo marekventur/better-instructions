@@ -1,0 +1,12 @@
+{
+  "id": "83b63631-b49e-4858-ac17-738f0c221690",
+  "instruction": "Generate a list of 10 items to place in an emergency kit.",
+  "input": "",
+  "output": "1. A first aid kit\n2. Flashlight and extra batteries\n3. Non-perishable food items \n4. Water sources \n5. Emergency blankets \n6. Reusable water bottle \n7. Whistle\n8. Rain ponchos\n9. Portable radio\n10. Maps and compass",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

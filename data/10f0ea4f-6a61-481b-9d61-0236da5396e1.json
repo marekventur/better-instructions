@@ -1,0 +1,12 @@
+{
+  "id": "10f0ea4f-6a61-481b-9d61-0236da5396e1",
+  "instruction": "Infer the author's view on the given topic.",
+  "input": "The current healthcare system is largely flawed and needs to be reformed.",
+  "output": "The author believes that the current healthcare system is in need of significant reform in order to function properly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

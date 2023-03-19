@@ -1,0 +1,12 @@
+{
+  "id": "5cbec189-9a82-47d4-9198-0851851f6ac5",
+  "instruction": "List the major events in order from the given passage",
+  "input": "The first event was the day he met her and the next was the day he proposed. He married her the following summer and had two children.",
+  "output": "1. The day he met her\n2. The day he proposed\n3. The day they got married\n4. The day they had two children.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

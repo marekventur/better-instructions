@@ -1,0 +1,12 @@
+{
+  "id": "7209f036-42cc-4664-a34d-ff0561510960",
+  "instruction": "Match the column on the right with the correct answer on the left.",
+  "input": "column 1: largest\ncolumn 2: mountain",
+  "output": "The largest mountain is Mt. Everest.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

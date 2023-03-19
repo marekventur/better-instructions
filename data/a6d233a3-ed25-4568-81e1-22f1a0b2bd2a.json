@@ -1,0 +1,12 @@
+{
+  "id": "a6d233a3-ed25-4568-81e1-22f1a0b2bd2a",
+  "instruction": "Rewrite the given sentence such that it begins with the adverb",
+  "input": "He speaks very quickly",
+  "output": "Very quickly, he speaks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

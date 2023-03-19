@@ -1,0 +1,12 @@
+{
+  "id": "076ba09a-028e-4e21-9d20-1c11968d190c",
+  "instruction": "Add one sentence to the end of the given paragraph that is consistent with the context.",
+  "input": "The summer sky was a pale blue, dotted with fluffy clouds.",
+  "output": "The day was surprisingly peaceful, with barely even a whisper of the breeze.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

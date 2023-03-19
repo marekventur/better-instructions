@@ -1,0 +1,12 @@
+{
+  "id": "303c83f3-49fc-4391-a6aa-432f434884ed",
+  "instruction": "Given the following facts, write a persuasive essay to convince someone that climate change is real.",
+  "input": "Facts: Rapidly rising global temperatures, carbon dioxide levels higher than any time in the past 800,000 years, melting ice caps and glaciers",
+  "output": "Climate change is real, and the evidence for it is overwhelming. Global temperatures are rising at an alarming rate and carbon dioxide levels are higher than at any time in the past 800,000 years. Icecaps and glaciers are melting rapidly, impacting the environment and threatening the livelihoods of many people around the world. The effects of climate change will only get worse if we don't take appropriate steps to address it. We must take action now to reduce our emissions, and invest in renewable energy sources that can provide clean and reliable sources of energy. This is not only necessary to combat the effects of climate change, but it will also create jobs and bring economic benefits in the long-term.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "da17b5a4-32d2-4825-a3d6-c70101ad3f90",
+  "instruction": "Convert the following decimal number into binary.",
+  "input": "Decimal: 78",
+  "output": "Binary: 1001110",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c395884a-2864-4869-bb79-af6408c55c49",
+  "instruction": "Edit the given description so it is more concise and expressive.",
+  "input": "This is a beautiful house, which is located in a terrific area.",
+  "output": "This gorgeous house is situated in an idyllic location.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

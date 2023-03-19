@@ -1,0 +1,12 @@
+{
+  "id": "913c44a2-3339-4d0a-8f27-49fff3f3e734",
+  "instruction": "Add two adjectives to this sentence that describe the quality of sleep",
+  "input": "I had a good night's sleep",
+  "output": "I had a restful and refreshing night's sleep.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

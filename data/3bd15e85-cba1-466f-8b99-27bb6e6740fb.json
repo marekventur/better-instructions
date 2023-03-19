@@ -1,0 +1,12 @@
+{
+  "id": "3bd15e85-cba1-466f-8b99-27bb6e6740fb",
+  "instruction": "Explain Schrodinger's wave equation.",
+  "input": "",
+  "output": "Schrodinger's wave equation is an equation in quantum mechanics that describes how a quantum system changes over time. It is based on wave equations and describes the behavior of subatomic particles that have wave-like properties; these particles include electrons, protons, and more. The wave equation's solutions represent wave functions which can be used to determine the probability of a particle's position and momentum, as well as its energy. The equation also relates the properties of a particle to its position in space and time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

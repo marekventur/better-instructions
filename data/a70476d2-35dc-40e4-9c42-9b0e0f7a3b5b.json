@@ -1,0 +1,12 @@
+{
+  "id": "a70476d2-35dc-40e4-9c42-9b0e0f7a3b5b",
+  "instruction": "Given the following text, remove grammatical mistakes and incorrect punctuations.",
+  "input": "The newsppaer sadly announced it will stop iits priint edtion",
+  "output": "The newspaper sadly announced it will stop its print edition.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

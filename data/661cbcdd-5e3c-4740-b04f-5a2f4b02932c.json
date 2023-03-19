@@ -1,0 +1,12 @@
+{
+  "id": "661cbcdd-5e3c-4740-b04f-5a2f4b02932c",
+  "instruction": "Given the following haiku, write a few lines that convey the same emotion.",
+  "input": "the old pond,\na frog leaps in\nwater's sound",
+  "output": "The trees rustling\nA gentle breeze blowing\nRoaming in the meadow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

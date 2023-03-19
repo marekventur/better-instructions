@@ -1,0 +1,12 @@
+{
+  "id": "9a4baa5d-599c-4840-9593-47c754c1469e",
+  "instruction": "Calculate the total cost of owning a car for 5 years.",
+  "input": "Car model: Honda Civic\nPrice: $20,000\nYearly Taxes and Fees: $1,500\nYearly Insurance Premiums: $600\nYearly Maintenance: $2,500",
+  "output": "The total cost of owning a Honda Civic for 5 years would be $43,500. This includes the initial purchase cost of $20,000, as well as taxes and fees ($1,500 per year), insurance premiums ($600 per year), and maintenance ($2,500 per year).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

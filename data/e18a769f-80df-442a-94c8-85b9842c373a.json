@@ -1,0 +1,12 @@
+{
+  "id": "e18a769f-80df-442a-94c8-85b9842c373a",
+  "instruction": "Outline a plan for creating a web app for ordering food found in a restaurant.",
+  "input": "",
+  "output": "A plan for creating a food ordering web app for a restaurant might include the following steps: 1) Analyzing the menu to determine what dishes will be offered, 2) Securing a payment system that can be embedded into the web app, 3) Developing a database system to store customer information and orders, 4) Designing a user-friendly interface, 5) Creating a backend web architecture that can handle order processing, 6) Installing the web app and testing it, and 7) Launching the app and regularly maintaining it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d9a5e591-8534-45c7-a0ae-202fc476c08e",
+  "instruction": "Generate an algorithm for facial recognition.",
+  "input": "",
+  "output": "def facialRecognition(img): \n    # Perform face detection \n    faces = detectFaces(img) \n\n    # For each face in the image\n    for face in faces: \n        # Extract facial features\n        features = extractFeatures(face)\n\n        # Compare facial features to a database of known facial features\n        matches = compareFeatures(features)\n\n        # Identify the closest matching face\n        identifiedFace = identify(matches)\n\n        # Return the identified face\n        return identifiedFace",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

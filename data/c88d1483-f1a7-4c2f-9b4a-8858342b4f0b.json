@@ -1,0 +1,12 @@
+{
+  "id": "c88d1483-f1a7-4c2f-9b4a-8858342b4f0b",
+  "instruction": "Compile a list of five possible responses to a job applicant who inquired about their hiring timeline.",
+  "input": "",
+  "output": "1. We are in the process of reviewing our pool of qualified applicants and will reach out to you with an answer shortly.\n2. We appreciate your enthusiasm and patience, and we assure you that you will hear from us soon.\n3. We are reviewing applications on a rolling basis and hope to make a decision in the near future.\n4. We will notify you of a decision as quickly as possible.\n5. We anticipate responding to all applicants within the next few days.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

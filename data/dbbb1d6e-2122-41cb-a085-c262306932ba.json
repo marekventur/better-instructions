@@ -1,0 +1,12 @@
+{
+  "id": "dbbb1d6e-2122-41cb-a085-c262306932ba",
+  "instruction": "Generate 4 unique usernames from the given keyword.",
+  "input": "Cheetah",
+  "output": "1. CheetahDash\n2. CheetahLands\n3. CheetahBytes\n4. CheetahScan",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

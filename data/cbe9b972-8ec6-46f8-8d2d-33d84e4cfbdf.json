@@ -1,0 +1,12 @@
+{
+  "id": "cbe9b972-8ec6-46f8-8d2d-33d84e4cfbdf",
+  "instruction": "Summarize this article into one sentence.",
+  "input": "A new type of gene therapy has been developed in which a patient\u2019s own cells are used to perform gene editing. This is different from typical gene editing technology, in which gene editing is done directly on cells like stem cells.",
+  "output": "A new form of gene therapy has been developed that uses the patient's own cells to perform the gene editing, rather than targeting stem cells like other gene editing technologies.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

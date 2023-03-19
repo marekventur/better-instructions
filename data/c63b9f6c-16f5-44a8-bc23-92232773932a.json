@@ -1,0 +1,12 @@
+{
+  "id": "c63b9f6c-16f5-44a8-bc23-92232773932a",
+  "instruction": "Suggest five improvements to the following website.",
+  "input": "www.example.com",
+  "output": "1. Create a more modern website design that reflects the company\u2019s branding and message. \n2. Increase the readability of the website by ensuring the text is easily readable and the navigation is clear and user-friendly. \n3. Remove any unnecessary elements or clutter that distracts the reader from the main content. \n4. Incorporate images, videos and other multimedia elements to make the website more visually engaging.\n5. Improve the website\u2019s loading speeds by optimizing the website\u2019s code and compressing images and other elements.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

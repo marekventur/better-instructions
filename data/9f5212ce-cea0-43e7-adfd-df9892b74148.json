@@ -1,0 +1,12 @@
+{
+  "id": "9f5212ce-cea0-43e7-adfd-df9892b74148",
+  "instruction": "Explain the differences between a variable and a constant.",
+  "input": "",
+  "output": "A variable is a data value that can be changed, while a constant is an unchanging value. Variables can be numbers, strings, booleans, arrays, or objects, while constants must always remain the same. Variables are typically used in programming to hold values that can change, while constants are used to define values that will always remain the same, such as mathematical equations or limits in a program.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

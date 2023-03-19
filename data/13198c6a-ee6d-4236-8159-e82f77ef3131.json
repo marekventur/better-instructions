@@ -1,0 +1,12 @@
+{
+  "id": "13198c6a-ee6d-4236-8159-e82f77ef3131",
+  "instruction": "Given a sentence, transform it into a negative statement.",
+  "input": "She has been running for ten minutes.",
+  "output": "She hasn't been running for ten minutes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

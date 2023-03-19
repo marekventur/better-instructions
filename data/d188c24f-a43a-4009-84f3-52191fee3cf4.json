@@ -1,0 +1,12 @@
+{
+  "id": "d188c24f-a43a-4009-84f3-52191fee3cf4",
+  "instruction": "Given the following list of animals, determine the average population of each species.",
+  "input": "Cats: 10, Dogs: 8, Horses: 4",
+  "output": "Average population of cats is 10, average population of dogs is 8 and average population of horses is 4.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9d09184c-16fb-491b-9413-02b432d875eb",
+  "instruction": "Take the following JSON data, and turn the output into a table.",
+  "input": "{\n  \"1\": {\n    \"Name\": \"John\",\n    \"Age\": 20\n  },\n  \"2\": {\n    \"Name\": \"Jane\",\n    \"Age\": 25\n  },\n  \"3\": {\n    \"Name\": \"Nancy\",\n    \"Age\": 30\n  },\n  \"4\": {\n    \"Name\": \"Alex\",\n    \"Age\": 35\n  }\n}",
+  "output": "`Number` | `Name` | `Age`\n------- | ------ | ----- \n1 | John | 20\n2 | Jane | 25\n3 | Nancy | 30\n4 | Alex | 35",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

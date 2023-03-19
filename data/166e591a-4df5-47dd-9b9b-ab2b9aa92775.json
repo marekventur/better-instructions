@@ -1,0 +1,12 @@
+{
+  "id": "166e591a-4df5-47dd-9b9b-ab2b9aa92775",
+  "instruction": "Given the two products below, which one would you pick and why?",
+  "input": "Product A: Hands-free Robot Vacuum Cleaner - 30% Off\nProduct B: Self-Cleaning Roomba - 40% Off",
+  "output": "I would choose Product B, the Self-Cleaning Roomba, because it is more efficient and offers more value for the money. The 40% discount offsets the higher cost of the product. Additionally, the self-cleaning feature would save time while cleaning.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

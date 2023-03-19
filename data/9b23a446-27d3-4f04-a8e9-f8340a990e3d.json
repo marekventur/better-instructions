@@ -1,0 +1,12 @@
+{
+  "id": "9b23a446-27d3-4f04-a8e9-f8340a990e3d",
+  "instruction": "In the given sentence, rewrite the underlined phrase so that it states the opposite.",
+  "input": "Recent evidence suggests that the Earth's climate is warming.",
+  "output": "Recent evidence suggests that the Earth's climate is cooling.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

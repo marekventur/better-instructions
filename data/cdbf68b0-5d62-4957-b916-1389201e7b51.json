@@ -1,0 +1,12 @@
+{
+  "id": "cdbf68b0-5d62-4957-b916-1389201e7b51",
+  "instruction": "Rank these birds from the smallest to the largest.",
+  "input": "Sparrow, Eagle, Hummingbird",
+  "output": "Hummingbird, Sparrow, Eagle",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

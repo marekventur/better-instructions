@@ -1,0 +1,12 @@
+{
+  "id": "668e721f-3de7-4f17-87aa-a42510d25f8e",
+  "instruction": "Given a topic, come up with 3 informative questions on the topic.",
+  "input": "Organic Farming",
+  "output": "1. What is the difference between organic and conventional farming?\n2. What are the benefits of organic farming on the environment?\n3. What regulations should be put in place to ensure organic farming is properly monitored?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

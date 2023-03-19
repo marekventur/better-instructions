@@ -1,0 +1,12 @@
+{
+  "id": "383910ad-2d2e-4a21-9d3a-d6bfa8b202d8",
+  "instruction": "Summarize the following news article about the current pandemic.",
+  "input": "https://www.nytimes.com/2020/08/22/world/coronavirus-news.html",
+  "output": "The current pandemic is continuing to impact countries worldwide. New cases are continuing to surge in some countries while other nations have seen their rates of transmission begin to decline. Governments are scrambling to create effective strategies to contain the virus spread. Despite the hardships, there have been some positive developments such as the discovery of a more contagious variant of the virus and several vaccine candidates that have already proven successful in clinical trials.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "48627d7d-8769-4a51-8d0b-402157812e38",
+  "instruction": "Organize the following information in a timeline with 4 entries.",
+  "input": "Teacher training, launching of school program, curriculum development, student achievements",
+  "output": "Timeline:\n\u2022 Teacher training: 8 months\n\u2022 Launching of school program: 10 months\n\u2022 Curriculum development: 12 months \n\u2022 Student achievements: 15 months",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

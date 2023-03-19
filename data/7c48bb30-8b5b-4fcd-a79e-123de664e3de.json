@@ -1,0 +1,12 @@
+{
+  "id": "7c48bb30-8b5b-4fcd-a79e-123de664e3de",
+  "instruction": "Create a list of 10 multiplication facts from the following number: 8.",
+  "input": "",
+  "output": "1. 8 x 1 = 8\n2. 8 x 2 = 16\n3. 8 x 3 = 24\n4. 8 x 4 = 32\n5. 8 x 5 = 40\n6. 8 x 6 = 48\n7. 8 x 7 = 56\n8. 8 x 8 = 64\n9. 8 x 9 = 72\n10. 8 x 10 = 80",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

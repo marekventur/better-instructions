@@ -1,0 +1,12 @@
+{
+  "id": "d6bf3c1b-7ee7-409e-b3d7-b7a5414d3335",
+  "instruction": "Generate an open-ended story by continuing from the given start.",
+  "input": "Once upon a time, there was a young prince whose name was Jack",
+  "output": "Jack was the only son of the King and Queen of the small kingdom. From a young age, Jack had always been curious and brave. He wanted to see beyond the walls of his kingdom and explore the mysteries of the world. So, one day, he asked his parents if he could go away and they reluctantly agreed. Jack packed his things and set off on an adventure he would never forget. Along the way, he encountered many obstacles and made plenty of new friends and allies. He soon learned that true courage did not come from strength or wealth, but from understanding and kindness. After a long journey, Jack finally returned home to become the King of his kingdom, praised for his heroic deeds.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "36adec04-5adc-4d72-bbd5-3715c808e557",
+  "instruction": "Given a list of ingredients, name a dish that contains these ingredients",
+  "input": "celery, bell peppers, onions",
+  "output": "Stir-fry vegetables with celery, bell peppers, and onions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

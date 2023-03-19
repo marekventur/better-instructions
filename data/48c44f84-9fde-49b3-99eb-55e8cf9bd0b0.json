@@ -1,0 +1,12 @@
+{
+  "id": "48c44f84-9fde-49b3-99eb-55e8cf9bd0b0",
+  "instruction": "Design a quiz for 10th grade students about hippopotamuses.",
+  "input": "",
+  "output": "1. What is the scientific name for a hippopotamus?\nA. Hippopotamus tygridis\nB. Hippopotamus amphibius \nC. Neohipparion eurystyle \nD. Equus ferus\n\n2. How much time do hippopotamuses spend in the water?\nA. Less than 10 minutes\nB. Less than 2 hours\nC. More than 6 hours\nD. More than 12 hours\n\n3. What is the approximate weight of an adult hippopotamus?\nA. 1,400 kg\nB. 2,000 kg\nC. 2,400 kg\nD. 3,200 kg\n\n4. How far can a hippopotamus run in a short burst?\nA. 10 kilometers\nB. 4 kilometers\nC. 8 kilometers\nD. 16 kilometers\n\n5. What type of teeth do hippopotamuses have?\nA. Flat teeth\nB. Sharp teeth\nC. Ridged teeth\nD. Pointed teeth",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

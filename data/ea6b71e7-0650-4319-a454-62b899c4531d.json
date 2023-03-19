@@ -1,0 +1,12 @@
+{
+  "id": "ea6b71e7-0650-4319-a454-62b899c4531d",
+  "instruction": "Create a mnemonic device based on the following list.",
+  "input": "Dog, Giraffe, Cat, Elephant",
+  "output": "DGCe - (Dog, Giraffe, Cat, Elephant)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

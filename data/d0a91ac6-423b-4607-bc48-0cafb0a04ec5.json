@@ -1,0 +1,12 @@
+{
+  "id": "d0a91ac6-423b-4607-bc48-0cafb0a04ec5",
+  "instruction": "Generate two questions about artificial intelligence for a quiz.",
+  "input": "",
+  "output": "Q1: What is the purpose of artificial intelligence?\nA1: The purpose of artificial intelligence is to solve complex problems, automate tasks, and make decisions in a way that mimics human intelligence. \n\nQ2: What are some popular machine learning algorithms?\nA2: Some popular machine learning algorithms include Support Vector Machines (SVMs), Decision Trees, Random Forests, k-Nearest Neighbor (kNN), Naive Bayes, and Neural Networks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

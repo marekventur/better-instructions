@@ -1,0 +1,12 @@
+{
+  "id": "1c8d010f-bc38-4a31-945d-13a12d8ffa0c",
+  "instruction": "Convert the following grade letter to the corresponding grade percentage.",
+  "input": "Grade letter: B",
+  "output": "Grade Percentage: 80% - 89%",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

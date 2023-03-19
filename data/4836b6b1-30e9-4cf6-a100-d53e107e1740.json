@@ -1,0 +1,12 @@
+{
+  "id": "4836b6b1-30e9-4cf6-a100-d53e107e1740",
+  "instruction": "Classify the following movie as either a horror movie or a romantic comedy.",
+  "input": "The Notebook",
+  "output": "Romantic Comedy",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

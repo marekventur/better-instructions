@@ -1,0 +1,12 @@
+{
+  "id": "7934d787-c3ce-4517-bfa5-f25a867cdbcf",
+  "instruction": "Write an algorithm to print the nth element in a Fibonacci sequence.",
+  "input": "",
+  "output": "def printFibonacci(n): \n    a = 0\n    b = 1\n    if n < 0: \n        print(\"Incorrect input\") \n    elif n == 0: \n        return a \n    elif n == 1: \n        return b \n    else: \n        for i in range(2,n):  \n            c = a + b \n            a = b \n            b = c \n        return b\n\nprintFibonacci(n)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

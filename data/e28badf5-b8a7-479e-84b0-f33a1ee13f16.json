@@ -1,0 +1,12 @@
+{
+  "id": "e28badf5-b8a7-479e-84b0-f33a1ee13f16",
+  "instruction": "Make an equation that will work for the given sentence.",
+  "input": "The sum of 4 and x is 15.",
+  "output": "4 + x = 15",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

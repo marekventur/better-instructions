@@ -1,0 +1,12 @@
+{
+  "id": "e1faeccb-db2f-4005-872f-cc5ea9fcba6b",
+  "instruction": "Rewrite the following sentence using the correct singular or plural verb form.",
+  "input": "The data are not organized.",
+  "output": "The data is not organized.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

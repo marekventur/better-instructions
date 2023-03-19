@@ -1,0 +1,12 @@
+{
+  "id": "96ef4f90-5a53-4a96-b709-9cd2bdf4adc2",
+  "instruction": "Construct a JavaScript function to calculate the sum of two numbers.",
+  "input": "",
+  "output": "function sum(x, y) {\n    return x + y;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

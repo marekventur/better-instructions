@@ -1,0 +1,12 @@
+{
+  "id": "cda134bb-5a47-466d-9b0e-861cee7b9898",
+  "instruction": "Write an email to a customer stating the availability of a new product.",
+  "input": "Product: Nike shoes",
+  "output": "Dear valued customer, \n\nWe're excited to let you know that we now have the new Nike shoes in stock! As a Nike loyal customer, we wanted to make sure you knew about the latest addition to our selection. Stop by our store today to get your hands on the newest Nike shoes before they're gone! \n\nThank you for your continued patronage. \n\nSincerely, \nThe Nike Store Team",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

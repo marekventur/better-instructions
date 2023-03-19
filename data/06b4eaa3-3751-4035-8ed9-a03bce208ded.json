@@ -1,0 +1,12 @@
+{
+  "id": "06b4eaa3-3751-4035-8ed9-a03bce208ded",
+  "instruction": "Divide the big number into the smallest possible number of 3-digit numbers.",
+  "input": "38698",
+  "output": "386, 98",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

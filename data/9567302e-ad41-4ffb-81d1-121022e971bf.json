@@ -1,0 +1,12 @@
+{
+  "id": "9567302e-ad41-4ffb-81d1-121022e971bf",
+  "instruction": "Replace the underlined phrase with a synonym.\n\nHe was _bereft_ of his belongings.",
+  "input": "bereft",
+  "output": "He was deprived of his belongings.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

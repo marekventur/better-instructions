@@ -1,0 +1,12 @@
+{
+  "id": "a3d43728-b1d9-4ce0-bbb0-e022f50ce4b2",
+  "instruction": "Summarize the article \"A Brief History of Game Design\"",
+  "input": "https://thenewstack.io/a-brief-history-of-game-design/",
+  "output": "Game design has a long and storied history, stretching back centuries and taking many forms. Early video games used rudimentary designs, often borrowing elements from traditional board games, and were mainly available as arcade machines. Over time, game design has evolved to include more intricate plots and graphical styles, with the development of computer and console technology. Through the decades, game designers have continued to innovate and create new experiences, from the \"sandbox\" style of open-world games to the phenomenon of esports. As technology continues to improve, game design will remain an important part of the entertainment industry.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

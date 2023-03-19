@@ -1,0 +1,12 @@
+{
+  "id": "8b32cb5e-01ea-47a5-93c8-6267d0e33bac",
+  "instruction": "Write a 10-word bio for the person in the input.",
+  "input": "John is a computer science student from the US.",
+  "output": "John is a US computer science student passionate about coding.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

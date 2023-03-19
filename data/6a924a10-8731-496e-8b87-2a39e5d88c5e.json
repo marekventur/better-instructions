@@ -1,0 +1,12 @@
+{
+  "id": "6a924a10-8731-496e-8b87-2a39e5d88c5e",
+  "instruction": "Provide a set of instructions for playing a game of checkers.",
+  "input": "",
+  "output": "Instructions for playing checkers: \n1. Set up the game by placing the checkers on their respective squares\n2. Players alternate turns, with each player moving one of their pieces forward diagonally by one square\n3. When a piece reaches the opposite side of the board, it is crowned as a King by placing an additional piece on top\n4. A piece can only move onto a square which is not already occupied by another piece, and can only capture a piece by jumping over it, with the capture taking place to the square immediately beyond the piece being captured\n5. To win, players must capture all of their opponents pieces, or block them so that they have no more legal moves.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

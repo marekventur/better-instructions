@@ -1,0 +1,12 @@
+{
+  "id": "14e2ac6c-4167-4b21-9adb-81625af9a968",
+  "instruction": "Categorize this object according to the taxonomic classification system.",
+  "input": "Capybara",
+  "output": "The capybara is a mammal in the family Caviidae, in the order Rodentia. It is the largest living rodent in the world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

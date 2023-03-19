@@ -1,0 +1,12 @@
+{
+  "id": "d3663eba-584b-4919-b55b-06dc2b185d43",
+  "instruction": "Edit the sentence, simplify it but retain the same meaning.",
+  "input": "I take full responsibility for any shortcomings pertaining to the project.",
+  "output": "I accept responsibility for any project failures.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

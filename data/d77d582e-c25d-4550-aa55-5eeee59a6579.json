@@ -1,0 +1,12 @@
+{
+  "id": "d77d582e-c25d-4550-aa55-5eeee59a6579",
+  "instruction": "Find two words in the sentence that are antonyms.",
+  "input": "Her persistent hard-work resulted in success.",
+  "output": "persistent, hard",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

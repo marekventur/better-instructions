@@ -1,0 +1,12 @@
+{
+  "id": "5fbf92a2-1e84-4708-ae48-98e1902648d3",
+  "instruction": "Given a mathematical expression, output its simplified form.",
+  "input": "5xy + 3x + 2xy - 7x",
+  "output": "7xy + 3x",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

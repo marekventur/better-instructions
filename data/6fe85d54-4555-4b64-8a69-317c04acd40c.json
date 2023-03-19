@@ -1,0 +1,12 @@
+{
+  "id": "6fe85d54-4555-4b64-8a69-317c04acd40c",
+  "instruction": "Generate a menu for a vegan restaurant.",
+  "input": "",
+  "output": "Starters: \n- Roasted Red Pepper Hummus \n- Creamy Artichoke Dip \n- Sweet Potato Chips\n\nMain Dishes: \n- Hearty Lentil and Mushroom Bolognese \n- Vegan Tofu Curry \n- Mediterranean Veggie Bake\n\nSides: \n- Wild Rice Pilaf \n- Assorted Roasted Vegetables \n- Kale and Quinoa Salad\n\nDesserts: \n- Chocolate-Dipped Coconut Macaroons \n- Key Lime Pie \n- Vanilla Bean Cashew Cheesecake",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

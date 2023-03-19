@@ -1,0 +1,12 @@
+{
+  "id": "bee6ed01-218e-4c75-b198-97c3c9e77942",
+  "instruction": "Add a sentence that transitions between the two paragraphs smoothly.",
+  "input": "Paragraph 1: She had been feeling tired and worn down all week.\nParagraph 2: Work had been especially stressful and her energy had been waning.",
+  "output": "In spite of her best efforts, she found it increasingly difficult to stay focused and motivated.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

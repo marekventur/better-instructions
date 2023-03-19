@@ -1,0 +1,12 @@
+{
+  "id": "58789f54-c31d-4436-b0d1-897799a0adf6",
+  "instruction": "Rewrite the following sentence so that it refers to an elderly person",
+  "input": "This young man has been working hard",
+  "output": "This elderly man has been working hard.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

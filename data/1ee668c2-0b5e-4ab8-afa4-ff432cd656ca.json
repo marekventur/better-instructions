@@ -1,0 +1,12 @@
+{
+  "id": "1ee668c2-0b5e-4ab8-afa4-ff432cd656ca",
+  "instruction": "Identify the appropriate words for the following table.",
+  "input": "|Column 1|Column 2|\n|-------:|:------:|\n|Iron    |       ?|\n|Magnet  |       ?|",
+  "output": "The appropriate words for the table are \"attracts\" and \"repelled\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

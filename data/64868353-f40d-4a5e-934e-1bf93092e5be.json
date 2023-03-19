@@ -1,0 +1,12 @@
+{
+  "id": "64868353-f40d-4a5e-934e-1bf93092e5be",
+  "instruction": "Classify the given news article's sentiment as positive, neutral, and negative.",
+  "input": "The government announced new plans to reduce inequality and poverty levels.",
+  "output": "Positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

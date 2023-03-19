@@ -1,0 +1,12 @@
+{
+  "id": "fdb98242-e90a-427c-9910-36cf9c695fb0",
+  "instruction": "Create a program in Python to classify a given dataset",
+  "input": "",
+  "output": "import pandas as pd \n\n# Load the dataset \ndataset = pd.read_csv('dataset.csv')\n\n# Separate the data into input and output fields \nX = dataset.iloc[:, :-1].values\ny = dataset.iloc[:, -1].values\n\n# Split the dataset into training and test sets \nfrom sklearn.model_selection import train_test_split\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)\n\n# Calculate the parameters of the model \nfrom sklearn.linear_model import LogisticRegression\nclassifier = LogisticRegression()\nclassifier.fit(X_train, y_train)\n\n# Predict the test set \ny_pred = classifier.predict(X_test)\n\n# Evaluate the results \nfrom sklearn.metrics import accuracy_score\nscore = accuracy_score(y_test, y_pred)\nprint(\"The accuracy score is: \" + str(score))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

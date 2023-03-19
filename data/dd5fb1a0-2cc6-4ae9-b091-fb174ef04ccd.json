@@ -1,0 +1,12 @@
+{
+  "id": "dd5fb1a0-2cc6-4ae9-b091-fb174ef04ccd",
+  "instruction": "Write an algorithm that generates an array of even numbers from 0 to 100",
+  "input": "",
+  "output": "1. Initialize an empty array\n2. Iterate over a range of numbers (0 to 100)\n3. If a number is even, append it to the array\n4. Return the array\n7",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

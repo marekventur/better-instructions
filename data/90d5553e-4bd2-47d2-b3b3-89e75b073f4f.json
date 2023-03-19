@@ -1,0 +1,12 @@
+{
+  "id": "90d5553e-4bd2-47d2-b3b3-89e75b073f4f",
+  "instruction": "Choose one of the following definitions.",
+  "input": "Question: What is a text editor?\n\nA) A software program used to create, view, and modify text documents\nB) A software program used to send and receive emails",
+  "output": "A) A software program used to create, view, and modify text documents",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

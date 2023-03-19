@@ -1,0 +1,12 @@
+{
+  "id": "41efdca2-c3c8-4e86-b44b-66c2c7c566c6",
+  "instruction": "Propose an alternative solution to the following problem:",
+  "input": "The current system of food delivery is inefficient and leads to wastage.",
+  "output": "One possible solution to the current system of food delivery is a food delivery app that would connect restaurants and customers directly. Customers can order from a large selection of restaurants on the app and receive the food quickly. Restaurants can keep track of orders and manage deliveries with built-in GPS technology. Additionally, the app can be linked to a payment system for secure transactions. This solution would reduce food wastage, as the app would match customers with the closest restaurants, reducing delivery times.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

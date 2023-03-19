@@ -1,0 +1,12 @@
+{
+  "id": "1a0725b8-7ac9-4826-a79e-59b19e3f06b6",
+  "instruction": "Calculate the standard deviation of the given list of numbers.",
+  "input": "[4, 8, 1, 10]",
+  "output": "4.9493588689619565",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

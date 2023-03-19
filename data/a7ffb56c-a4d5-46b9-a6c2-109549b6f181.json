@@ -1,0 +1,12 @@
+{
+  "id": "a7ffb56c-a4d5-46b9-a6c2-109549b6f181",
+  "instruction": "Given a musical clip, describe the musical structure in detail, such as key signature, pace, and dynamics.",
+  "input": "https://www.youtube.com/watch?v=hFc_T9ic1fU",
+  "output": "The musical clip is a progressive rock song in the key of D minor. It starts with a slow, gentle pace, and gradually builds up as the song progresses, ending in an intense chorus with powerful drumming and distorted guitar riffs. Along the way, the dynamics shift from soft and melodic to loud and punchy, creating a sense of expansion and urgency.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

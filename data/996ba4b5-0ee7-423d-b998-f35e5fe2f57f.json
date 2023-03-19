@@ -1,0 +1,12 @@
+{
+  "id": "996ba4b5-0ee7-423d-b998-f35e5fe2f57f",
+  "instruction": "For the following argument, identify the main premise and the main conclusion.",
+  "input": "Plastic straws should be banned because they cause irreparable damage to animals and the environment.",
+  "output": "Main Premise: Plastic straws cause irreparable damage to animals and the environment.\nMain Conclusion: Plastic straws should be banned.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a6f7732e-b705-417e-acea-b0941c0791e0",
+  "instruction": "Find the equation of a line given two points.",
+  "input": "(1,2), (3,5)",
+  "output": "The equation of the line through the given two points (1,2) and (3,5) is y = 1.5x + 1.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

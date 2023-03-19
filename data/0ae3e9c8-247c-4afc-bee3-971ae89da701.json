@@ -1,0 +1,12 @@
+{
+  "id": "0ae3e9c8-247c-4afc-bee3-971ae89da701",
+  "instruction": "You are provided with a Wikipedia article about a famous artist. Output a short biography for the artist, with about 100 words.",
+  "input": "Cubist painter Georges Braque was born on 13 May 1882 in Argenteuil, a commune in the northwestern suburbs of Paris, France. He grew up in Le Havre and trained to be a house painter and decorator like his father and grandfather. His first exhibition was in 1901. Braque later moved to Paris in 1905 to study art in the Acad\u00e9mie Humbert, and then he lived in Deauvillewith some of his artist friends. During this period, he met Henri Matisse, and they began to work with each other.",
+  "output": "Georges Braque was a pioneering French painter and sculptor who was the co-inventor of Cubism. He was born on 13 May 1882 in Argenteuil, a commune in the northwestern suburbs of Paris, France. From a young age he was surrounded by art, as his father and grandfather were house painters and decorators. This, coupled with training at the Acad\u00e9mie Humbert, helped Braque foster his skills in painting and sculpture. \n\nIn his earlier career, Braque focused mainly on Fauvism and Post-Impressionism. He developed an affinity for the latter due to its use of vibrant colors and distorted perspective. It was while exploring this latter style that he met Henri Matisse. From then onwards, Braque and Matisse created works of art together, which heavily influence the emergence of Cubism. Their styles, along with the use of multiple perspectives, were integrated together to form this new movement. These techniques have become integral to modern art to this day. \n\nBraque himself evolved the Cubism style through his experiments with still life painting, alongside his exploration into abstract art. After his death in 1963, France awarded Braque the National Order of Merit for his immense contribution to art and culture.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

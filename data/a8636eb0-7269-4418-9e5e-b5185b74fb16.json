@@ -1,0 +1,12 @@
+{
+  "id": "a8636eb0-7269-4418-9e5e-b5185b74fb16",
+  "instruction": "Give an example when you would use a linked list data structure.",
+  "input": "",
+  "output": "A linked list data structure can be used to implement a stack or a queue. For example, a linked list can be used to store the recently visited websites in a web browser's history.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

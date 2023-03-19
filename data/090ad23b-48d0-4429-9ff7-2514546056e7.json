@@ -1,0 +1,12 @@
+{
+  "id": "090ad23b-48d0-4429-9ff7-2514546056e7",
+  "instruction": "Categorize the following poem as romantic or sad",
+  "input": "Life renews itself \nLike a flower in the rain",
+  "output": "Romantic.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e80b4905-ac38-4e4c-b167-43b04306408c",
+  "instruction": "Pick two river systems, compare and contrast one physical element of them.",
+  "input": "River Systems: The Amazon, The Nile",
+  "output": "The Amazon and the Nile are two of the world's longest and most iconic rivers. In terms of size, the Amazon is much larger than the Nile, with the Amazon River estimated to be about 4,000 miles long compared to the Nile, which is about 4,258 miles long. The Amazon also has a much larger watershed, draining an area of over 7 million square miles compared to the Nile's 3.4 million square miles. In terms of temperature, the Amazon also has a much higher average temperature, between 75 and 77\u00b0F compared to the Nile, which hovers around 77\u00b0F. Finally, the Amazon is much deeper than the Nile, reaching depths over 200 feet at its deepest point, while the Nile averages 20 to 30 feet in depth.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

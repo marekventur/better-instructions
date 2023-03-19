@@ -1,0 +1,12 @@
+{
+  "id": "0bd925c4-4b8b-4daa-90a6-5f040ce4f34a",
+  "instruction": "Describe the most challenging project that you have ever worked on.",
+  "input": "",
+  "output": "My most challenging project was when I worked on an AI-based natural language processing system to detect fraud in financial transactions. It required my team to build a hefty infrastructure to monitor large volumes of text data, along with a custom machine learning solution to accurately detect fraud patterns. Additionally, since the system was deployed in a live production environment, we faced tight deadlines and had to be extra vigilant to ensure the reliability and performance of our system.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "640c4881-caeb-4ac9-9be0-111b861f17d6",
+  "instruction": "How does the internal combustion engine work?",
+  "input": "",
+  "output": "The internal combustion engine is a type of heat engine that converts heat energy into mechanical energy. It operates by introducing a fuel, typically gasoline, diesel, or natural gas, and air into a combustion chamber, where it is ignited by a spark plug or other source of ignition. As the fuel burns, it stripes and pushes a piston, which rotates a crankshaft. This rotational motion is used to turn the wheels of the vehicle, thus propelling it forwards.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

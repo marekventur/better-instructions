@@ -1,0 +1,12 @@
+{
+  "id": "00151b95-9121-47ea-995a-d559bea6d5f6",
+  "instruction": "Calculate the area of the triangle ABC with vertices A (2, 3), B (1, \u22121) and C (\u22122, 4).",
+  "input": "A (2, 3), B (1, -1), C (-2, 4)",
+  "output": "The area of the triangle ABC is calculated as follows:\n\nArea = (1/2)*|(2*4) - (-2*3) + (3*-2) - (1*4)| = 8.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

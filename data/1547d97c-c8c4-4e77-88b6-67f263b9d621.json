@@ -1,0 +1,12 @@
+{
+  "id": "1547d97c-c8c4-4e77-88b6-67f263b9d621",
+  "instruction": "What is the likely cause for the issue?",
+  "input": "The website is loading very slowly.",
+  "output": "The likely cause for the issue is an overloaded web server or a slow internet connection.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

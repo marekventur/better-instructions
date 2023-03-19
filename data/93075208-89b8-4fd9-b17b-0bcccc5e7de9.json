@@ -1,0 +1,12 @@
+{
+  "id": "93075208-89b8-4fd9-b17b-0bcccc5e7de9",
+  "instruction": "Design a dashboard display to show the weather forecast for the next 5 days.",
+  "input": "",
+  "output": "The dashboard would show a 5-day weather forecast with temperatures, icons to indicate the type of weather (e.g. sunny, cloudy, rainy, etc.), and other relevant climate information such as humidity and wind speed. The dashboard could also be used to show current observations and trends such as air quality and pollen counts for the upcoming days.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

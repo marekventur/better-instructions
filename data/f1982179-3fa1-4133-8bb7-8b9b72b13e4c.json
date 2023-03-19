@@ -1,0 +1,12 @@
+{
+  "id": "f1982179-3fa1-4133-8bb7-8b9b72b13e4c",
+  "instruction": "Convert this table into JSON.",
+  "input": "| Name  | Age |\n|-------|-----|\n| John  | 20  |\n| Alice | 21  |\n| Bob   | 22  |",
+  "output": "[\n    {\n        \"name\": \"John\",\n        \"age\": 20\n    },\n    {\n        \"name\": \"Alice\",\n        \"age\": 21\n    },\n    {\n        \"name\": \"Bob\",\n        \"age\": 22\n    }\n]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7ee325b1-af34-4a63-9ea7-7649287030ea",
+  "instruction": "Tell me the history of the internet.",
+  "input": "",
+  "output": "The history of the internet dates back to the 1960s, when the U.S. Department of Defense laid the foundation of network technology that would become the internet. This network was called the ARPANET, and it grew steadily until 1983 when the ARPANET was divided into a military network (MILNET) and the academic-oriented computer network, which became the public internet. By 1990, the World Wide Web was born and began to rapidly expand, bringing about a new era of information exchange, collaboration, and creativity. Today, the internet is a crucial part of modern life, connecting billions of people around the world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

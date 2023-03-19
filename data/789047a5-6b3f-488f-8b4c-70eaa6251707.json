@@ -1,0 +1,12 @@
+{
+  "id": "789047a5-6b3f-488f-8b4c-70eaa6251707",
+  "instruction": "Given a word and its definition, generate a short story that uses that word.",
+  "input": "Word - Effulgence\nDefinition - Intense brightness",
+  "output": "The sun was setting behind the tall mountains, casting a brilliant orange light across the land. As it slowly sank below the horizon, its effulgence illuminated the sky in all its beauty, leaving a mesmerizing memory in everyone's hearts. It was a sight that no one wanted to forget, and the warmth of its light stayed with them even after the sun had set.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

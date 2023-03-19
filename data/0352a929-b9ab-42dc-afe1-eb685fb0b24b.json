@@ -1,0 +1,12 @@
+{
+  "id": "0352a929-b9ab-42dc-afe1-eb685fb0b24b",
+  "instruction": "Create a travel itinerary for visiting Los Angeles.",
+  "input": "",
+  "output": "Day One: Begin the day with a tour of the Hollywood Walk of Fame, then enjoy a picnic lunch in Griffith Park. Spend the afternoon exploring the iconic Venice Beach boardwalk. End the day with dinner in Little Tokyo.\n\nDay Two: Start the morning with a tour of the Getty Center to take in the architecture and the views. Then, visit the La Brea Tar Pits and the Page Museum before heading to the Hollywood Bowl to catch an evening concert. \n\nDay Three: Spend the morning at Universal Studios, then grab lunch on West Hollywood's Melrose Avenue. Visit the LACMA art museum in the afternoon, then shop and dine at the unique waterfront stores and restaurants at Santa Monica Pier. \n\nDay Four: Take the day to explore the diverse neighborhoods of Los Angeles, such as Chinatown, South Central and Silver Lake. End the day with dinner and entertainment in the vibrant downtown area.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

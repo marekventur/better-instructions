@@ -1,0 +1,12 @@
+{
+  "id": "711d051f-4af6-407a-a770-81991cc939a8",
+  "instruction": "Generate insight from the following data and generate a short summary.",
+  "input": "| Vehicle | Cost | Mileage |\n|--------|------|--------|\n| Ferrari F8 | $421,632 | 15mpg |\n| Tesla Model S | $94,990 | 95mpg |\n| BMW M5 | $112,995 | 18mpg |",
+  "output": "The data shows a large variation in the cost and mileage of different vehicles. The Ferrari F8 is the most expensive and offers the least fuel efficiency, while the Tesla Model S is the most affordable and operates with 95 mpg. The BMW M5 offers the best balance of performance and fuel efficiency.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

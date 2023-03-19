@@ -1,0 +1,12 @@
+{
+  "id": "d42b01c9-3865-4b30-8727-cc0bff86a986",
+  "instruction": "Create a coding program to encrypt a message using the Caesar cipher.",
+  "input": "Message: \"Hello World\"",
+  "output": "Encrypted message: \"Khoor Zruog\" \n\n// Coding Program for Caesar Cipher //\nfunction encrypt(message,key) { \n\tlet encryptedMessage = \"\"; \n\tfor (let i = 0; i < message.length; i++) { \n\t\tlet charCode = message.charCodeAt(i); \n\t\tif ((charCode > 64 && charCode < 91) || (charCode > 96 && charCode < 123)) { \n\t\t\tlet cipherChar = charCode + key; \n\t\t\tif (cipherChar > 90 && cipherChar < 97) { \n\t\t\t\tcipherChar = 65 + (cipherChar - 91);\t\t \n\t\t\t} \n\t\t\tif (cipherChar > 122){ \n\t\t\t\tcipherChar = 97 + (cipherChar - 123);\t\t \n\t\t\t} \n\t\t\tencryptedMessage += String.fromCharCode(cipherChar); \n\t\t} else { \n\t\t\tencryptedMessage += String.fromCharCode(charCode); \n\t\t} \n\t} \n\treturn encryptedMessage;\n} \nlet encryptedMsg = encrypt(\"Hello World\", 3);\nconsole.log(encryptedMsg); // Khoor Zruog",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

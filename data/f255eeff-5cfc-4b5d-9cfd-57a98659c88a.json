@@ -1,0 +1,12 @@
+{
+  "id": "f255eeff-5cfc-4b5d-9cfd-57a98659c88a",
+  "instruction": "Given an input sentence, remove all the unnecessary words and make the sentence succinct.",
+  "input": "He called her up at 10 PM and asked if she wanted to join him for dinner.",
+  "output": "He called her at 10 PM to join him for dinner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "97267e08-83fb-4b70-8687-a0dab5ae36f4",
+  "instruction": "Classify the following meal as either breakfast, lunch, or dinner.",
+  "input": "Pancakes and bacon",
+  "output": "Breakfast.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

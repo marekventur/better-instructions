@@ -1,0 +1,12 @@
+{
+  "id": "40d6e104-7c06-405f-ad70-6009895c85e6",
+  "instruction": "Given a novel, explain the main theme in one sentence.",
+  "input": "The Great Gatsby by F. Scott Fitzgerald",
+  "output": "The Great Gatsby is a story about the hollow pursuit of the American Dream and its disillusionment by the corruption and materialism of the Jazz Age.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

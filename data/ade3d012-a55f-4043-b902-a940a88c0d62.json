@@ -1,0 +1,12 @@
+{
+  "id": "ade3d012-a55f-4043-b902-a940a88c0d62",
+  "instruction": "Determine which of the following devices uses a read-only memory.",
+  "input": "A. Calculator\nB. Camera\nC. Video game console",
+  "output": "C. Video game console uses a read-only memory.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

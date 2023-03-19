@@ -1,0 +1,12 @@
+{
+  "id": "333603a8-3fd6-4948-826b-adb605cd1f42",
+  "instruction": "Reorder this list alphabetically",
+  "input": "Orange, Apple, Banana",
+  "output": "Apple, Banana, Orange",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

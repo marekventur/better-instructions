@@ -1,0 +1,12 @@
+{
+  "id": "1479b042-b341-456a-93d9-c691ce46754a",
+  "instruction": "For the following list of numbers [1, 5, 9, 4], output the sum.",
+  "input": "[1, 5, 9, 4]",
+  "output": "19",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

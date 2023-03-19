@@ -1,0 +1,12 @@
+{
+  "id": "9bc81349-7dac-4e7b-a953-aa66b1b584e7",
+  "instruction": "Convert this scientific notation number to a standard number.",
+  "input": "7.123e-2",
+  "output": "The standard number equivalent to 7.123e-2 is 0.07123.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

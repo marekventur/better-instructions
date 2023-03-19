@@ -1,0 +1,12 @@
+{
+  "id": "70023d7d-3ffe-4fb1-b820-67de410bb2c7",
+  "instruction": "Classify the following objects as living or non-living.",
+  "input": "Human, Car, Tree",
+  "output": "Human: Living\nCar: Non-Living\nTree: Living",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

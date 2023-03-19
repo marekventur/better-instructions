@@ -1,0 +1,12 @@
+{
+  "id": "ba73a6e3-f7f9-4572-95af-d7a96f6c04e9",
+  "instruction": "Classify paper towels into different types",
+  "input": "",
+  "output": "Paper towels can be classified into several different types, including recycled, re-usable, jumbo/bulk/economy, economy-size/jumbo, and thick/strong. Recycled paper towels are made from 100% post-consumer recycled content and can help reduce waste. Re-usable paper towels are machine washable, making them a more cost-effective and environmentally friendly option. Jumbo/bulk/economy paper towels are larger in size and more cost-effective in the long-run since fewer sheets are needed. Economy-size/jumbo paper towels are even larger and even more cost-effective. Finally, thick/strong paper towels are designed to be more durable and absorbent.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

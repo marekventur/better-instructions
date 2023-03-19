@@ -1,0 +1,12 @@
+{
+  "id": "960f2bb2-026e-4655-a134-192f1a30b30f",
+  "instruction": "Explain how deep learning works.",
+  "input": "",
+  "output": "Deep learning is a branch of machine learning which uses neural networks with multiple layers to learn from complex datasets. Neural networks are designed to identify patterns in data, which allows them to make highly accurate predictions. Each layer of the network is responsible for a different aspect of the data, allowing the model to make more detailed and granular predictions. By combining the insights from each layer, deep learning networks can make expert-level predictions and decisions on a wide variety of tasks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

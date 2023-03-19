@@ -1,0 +1,12 @@
+{
+  "id": "d3f6a1e7-9518-443c-bbf8-3d553bda92d7",
+  "instruction": "Insert the missing articles.",
+  "input": "Bob goes ____ school every day.",
+  "output": "Bob goes to the school every day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

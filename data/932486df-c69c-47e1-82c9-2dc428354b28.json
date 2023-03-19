@@ -1,0 +1,12 @@
+{
+  "id": "932486df-c69c-47e1-82c9-2dc428354b28",
+  "instruction": "Reorganize the given sentence to create a new sentence.",
+  "input": "Beatles songs have influenced generations of music.",
+  "output": "Generations of music have been influenced by Beatles songs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

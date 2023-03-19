@@ -1,0 +1,12 @@
+{
+  "id": "af0fc77c-cf6a-4f88-872c-11ddfdd073ec",
+  "instruction": "Select all the even numbers from the list.",
+  "input": "17, 8, 3, 22, 9",
+  "output": "8, 22",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

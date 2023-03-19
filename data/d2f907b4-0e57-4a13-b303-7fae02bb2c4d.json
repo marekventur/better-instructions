@@ -1,0 +1,12 @@
+{
+  "id": "d2f907b4-0e57-4a13-b303-7fae02bb2c4d",
+  "instruction": "From the perspective of a customer, write a review of a product you recently purchased.",
+  "input": "Apple AirPods",
+  "output": "I recently bought a pair of Apple AirPods and I must say that they are amazing. The sound quality is superb and they are very comfortable to wear. They are also easy to set up and have a long battery life. I highly recommend them to anyone looking for a high-quality wireless headphone.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

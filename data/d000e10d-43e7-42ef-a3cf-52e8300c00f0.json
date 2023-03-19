@@ -1,0 +1,12 @@
+{
+  "id": "d000e10d-43e7-42ef-a3cf-52e8300c00f0",
+  "instruction": "Explain what a RESTful API is and provide an example.",
+  "input": "",
+  "output": "A RESTful API is an architectural style used to create web services that make use of the HTTP protocol. It stands for Representational State Transfer, and is essentially a way of using the same techniques of web development to create a robust, efficient, and scalable system for providing web services. An example of a RESTful API is the Twitter API, which enables developers to access user data from the platform, as well as post tweets or access messages from other users.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

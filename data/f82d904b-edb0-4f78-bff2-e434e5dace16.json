@@ -1,0 +1,12 @@
+{
+  "id": "f82d904b-edb0-4f78-bff2-e434e5dace16",
+  "instruction": "Rewrite the sentence so it expresses a positive sentiment.",
+  "input": "I am not interested in that offer.",
+  "output": "I am interested in other offers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

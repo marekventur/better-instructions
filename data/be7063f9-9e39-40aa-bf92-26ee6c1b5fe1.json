@@ -1,0 +1,12 @@
+{
+  "id": "be7063f9-9e39-40aa-bf92-26ee6c1b5fe1",
+  "instruction": "Find the subject of the sentence given below.",
+  "input": "The moonlight illuminating the dark sky was so beautiful.",
+  "output": "The subject of the sentence is \"moonlight\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

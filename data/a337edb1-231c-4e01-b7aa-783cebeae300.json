@@ -1,0 +1,12 @@
+{
+  "id": "a337edb1-231c-4e01-b7aa-783cebeae300",
+  "instruction": "Given a description of a personal event, write a verse in haiku style.",
+  "input": "Swimming in the sea on a sunny day",
+  "output": "Crystal waves inviting me\nThe sun's warmth on my skin\nGladness for this day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

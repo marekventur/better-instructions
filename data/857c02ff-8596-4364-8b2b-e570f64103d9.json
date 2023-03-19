@@ -1,0 +1,12 @@
+{
+  "id": "857c02ff-8596-4364-8b2b-e570f64103d9",
+  "instruction": "Describe the 5 stages of a waterfall methodology.",
+  "input": "",
+  "output": "The waterfall methodology consists of five stages: 1. Requirements gathering and definition: In this stage, stakeholders identify and clarify the project requirements and objectives. 2. Design: Detailed design of the end product is specified and documented. 3. Implementation: Involves the coding of the project in accordance to the design specifications. 4. Testing: The project is tested to detect and fix any errors that may have been introduced in the previous stages. 5. Deployment and maintenance: The project is released and monitored to ensure its proper functioning.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

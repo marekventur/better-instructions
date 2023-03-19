@@ -1,0 +1,12 @@
+{
+  "id": "43b2246a-be78-4e01-96db-1867b238d145",
+  "instruction": "Add a phrase that describes the feeling of the people in the sentence.",
+  "input": "The people gathered around the fire",
+  "output": "The people gathered around the fire, feeling a sense of community.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

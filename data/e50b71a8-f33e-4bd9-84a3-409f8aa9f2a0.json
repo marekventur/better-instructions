@@ -1,0 +1,12 @@
+{
+  "id": "e50b71a8-f33e-4bd9-84a3-409f8aa9f2a0",
+  "instruction": "Add a clause to the sentence that begins with \u201ceven though\u201d.",
+  "input": "He was determined to succeed.",
+  "output": "He was determined to succeed even though the odds were stacked against him.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

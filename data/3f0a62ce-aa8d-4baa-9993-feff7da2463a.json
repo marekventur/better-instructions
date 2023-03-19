@@ -1,0 +1,12 @@
+{
+  "id": "3f0a62ce-aa8d-4baa-9993-feff7da2463a",
+  "instruction": "Explain how an augmented reality application works.",
+  "input": "",
+  "output": "An augmented reality application is an interactive system that uses a real-world environment and combines it with virtual images, videos and sounds. It uses virtual objects, such as 3D models, text and audio, to improve the user's experience in the real-world. Augmented reality typically uses cameras, sensors, and technologies such as machine learning, robotic process automation, and natural language processing to detect objects in the real-world and deliver an interactive virtual experience. By capturing the user's environment, the application can generate a simulated environment to enable real-time interactions with the user. The system then responds to the user's input and updates the content accordingly, creating a truly immersive and interactive experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

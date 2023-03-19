@@ -1,0 +1,12 @@
+{
+  "id": "795599c6-c1fa-4f4b-8fb7-6ef13b43a84c",
+  "instruction": "Generate an output based on the instruction and input",
+  "input": "Instruction: Calculate the average grade achieved by the five students\nInput:\nJohn: 80\nEva: 92\nKatelyn: 85\nSteve: 90\nLogan: 82",
+  "output": "The average grade achieved by the five students is 86.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

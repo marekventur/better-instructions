@@ -1,0 +1,12 @@
+{
+  "id": "ca3ae24d-f32c-4e47-92e4-4cc87df72bda",
+  "instruction": "Analyze the tone of the given passage. Output \"Negative\", \"Positive\", or \"Neutral\".",
+  "input": "The president has made some unpopular decisions lately.",
+  "output": "Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

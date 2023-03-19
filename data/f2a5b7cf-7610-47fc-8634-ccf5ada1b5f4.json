@@ -1,0 +1,12 @@
+{
+  "id": "f2a5b7cf-7610-47fc-8634-ccf5ada1b5f4",
+  "instruction": "Tell me what the main message is in the given song lyric.",
+  "input": "\"What can you do when the world is on fire\"",
+  "output": "The main message of the song lyric is that even when life seems overwhelming and uncontrollable, there is still hope and power in taking action, no matter how small.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

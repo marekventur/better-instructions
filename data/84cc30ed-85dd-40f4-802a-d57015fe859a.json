@@ -1,0 +1,12 @@
+{
+  "id": "84cc30ed-85dd-40f4-802a-d57015fe859a",
+  "instruction": "Make adjustments to the following sentence so that it is grammatically correct: \n\"I'm going to the store, buy some food\"",
+  "input": "I'm going to the store, buy some food",
+  "output": "I'm going to the store to buy some food.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

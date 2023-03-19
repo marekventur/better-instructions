@@ -1,0 +1,12 @@
+{
+  "id": "9b1dbefc-112a-4e31-8feb-785bda8b8b29",
+  "instruction": "Write a MySQL query to select all the customers from the \"Customers\" table who were born after 1990.",
+  "input": "",
+  "output": "SELECT * FROM Customers WHERE birth_date > '1990-01-01';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "384e5f47-5cfa-4b3c-937c-3999ac87d64d",
+  "instruction": "Given a sentence, detect any potential bias in it.",
+  "input": "Women are not suited to become leaders.",
+  "output": "Yes, there is a potential bias in this sentence because it implies that women are not capable of being leaders.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

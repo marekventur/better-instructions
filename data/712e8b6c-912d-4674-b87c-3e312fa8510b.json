@@ -1,0 +1,12 @@
+{
+  "id": "712e8b6c-912d-4674-b87c-3e312fa8510b",
+  "instruction": "Generate a natural language response for a given input.",
+  "input": "Hello.",
+  "output": "Hi there! How can I help you?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

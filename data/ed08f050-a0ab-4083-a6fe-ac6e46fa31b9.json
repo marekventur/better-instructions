@@ -1,0 +1,12 @@
+{
+  "id": "ed08f050-a0ab-4083-a6fe-ac6e46fa31b9",
+  "instruction": "Design an algorithm for this task.",
+  "input": "Create a program to calculate the area of a circle",
+  "output": "Step 1: Define the data required for the algorithm, i.e., the radius (r) of the circle.\nStep 2: Calculate the area of the circle by using the formula A=\u03c0r2.\nStep 3: Output the value of A.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

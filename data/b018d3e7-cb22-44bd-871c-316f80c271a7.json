@@ -1,0 +1,12 @@
+{
+  "id": "b018d3e7-cb22-44bd-871c-316f80c271a7",
+  "instruction": "Convert the following Euro amount to US Dollar",
+  "input": "126.99 Euro",
+  "output": "142.74 US Dollars.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

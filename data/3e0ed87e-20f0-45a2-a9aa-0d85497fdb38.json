@@ -1,0 +1,12 @@
+{
+  "id": "3e0ed87e-20f0-45a2-a9aa-0d85497fdb38",
+  "instruction": "Explain the concept of \"Pythagorean Theorem\".",
+  "input": "",
+  "output": "The Pythagorean Theorem is an equation used to calculate the sides and angles of a right triangle. The theorem states that the square of the lengths of the sides of a right triangle is equal to the sum of the squares of the lengths of its two shorter sides. In other words, a2 + b2 = c2, where a and b are the lengths of the two shorter sides and c is the length of the hypotenuse.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

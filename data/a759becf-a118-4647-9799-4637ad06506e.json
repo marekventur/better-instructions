@@ -1,0 +1,12 @@
+{
+  "id": "a759becf-a118-4647-9799-4637ad06506e",
+  "instruction": "Reorganize the following sentences into paragraphs",
+  "input": "The holiday season is a wonderful time of year. It's a time for friends and family to gather together to celebrate. However, for those struggling with mental health issues, the holidays can be a difficult time. It's important to recognize the signs of struggling mental health in yourself and others and provide support.",
+  "output": "The holiday season is a wonderful time of year, a time for friends and family to gather together and celebrate. Unfortunately, for those struggling with mental health, this time of year is difficult. It's important to recognize the signs of struggling mental health in oneself and in others, as well as provide support.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

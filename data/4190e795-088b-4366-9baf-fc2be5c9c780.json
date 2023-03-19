@@ -1,0 +1,12 @@
+{
+  "id": "4190e795-088b-4366-9baf-fc2be5c9c780",
+  "instruction": "Generate a list of five potential issues that need to be reviewed before a software is released.",
+  "input": "",
+  "output": "1. Verification of software compatibility\n2. Quality assurance and error testing\n3. System performance evaluation\n4. Security evaluation \n5. Documentation and end-user satisfaction testing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

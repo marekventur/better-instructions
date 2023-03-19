@@ -1,0 +1,12 @@
+{
+  "id": "fa9dd276-3036-4961-aa77-5adc9c5ae175",
+  "instruction": "Tell me if the following statement is true or false.",
+  "input": "Two bars of a piano have the same frequency.",
+  "output": "False",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

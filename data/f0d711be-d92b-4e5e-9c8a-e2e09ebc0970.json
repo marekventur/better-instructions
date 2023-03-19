@@ -1,0 +1,12 @@
+{
+  "id": "f0d711be-d92b-4e5e-9c8a-e2e09ebc0970",
+  "instruction": "Get the relationship, \"is a type of\" from the following sentence",
+  "input": "A poodle is a type of dog.",
+  "output": "poodle : dog (is a type of)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

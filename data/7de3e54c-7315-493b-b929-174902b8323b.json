@@ -1,0 +1,12 @@
+{
+  "id": "7de3e54c-7315-493b-b929-174902b8323b",
+  "instruction": "Given a list of equations and values, calculate the variance.",
+  "input": "Equation 1: x + y = 5\nValue of x: 1\nValue of y: 4\nEquation 2: y + z = 10\nValue of y: 4\nValue of z: 6",
+  "output": "The variance is 11.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

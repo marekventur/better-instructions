@@ -1,0 +1,12 @@
+{
+  "id": "61ae3260-86ee-4c9c-859b-2f4caf59bcdf",
+  "instruction": "Identify the main subject of the following piece of literature.",
+  "input": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do.",
+  "output": "The main subject of the literature is Alice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

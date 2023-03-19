@@ -1,0 +1,12 @@
+{
+  "id": "f3d10175-8a40-428c-8eca-ee6328a75ad1",
+  "instruction": "Given a function 'my_func(list)', what would be the expected output of 'my_func([1,2,3])'?",
+  "input": "",
+  "output": "The expected output of 'my_func([1,2,3])' is the sum of all the numbers in the list, which is 6.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

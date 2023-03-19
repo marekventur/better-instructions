@@ -1,0 +1,12 @@
+{
+  "id": "7aacb597-3a77-43fa-9635-8b78fc4953fc",
+  "instruction": "The following is a quote from a famous author. Given the context, explain what the quote means.",
+  "input": "Quote: \u201cIf you want to go fast, go alone. If you want to go far, go together.\u201d - African Proverb",
+  "output": "This quote highlights the power of collaboration and community. It suggests that if you want to achieve something quickly and quickly, you should take action alone, but if you want to achieve long-lasting and far-reaching results, it is best to involve others and work together. Working alone allows you to work quickly, but it is limiting in what you can achieve. Working together, however, will allow you to go further.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

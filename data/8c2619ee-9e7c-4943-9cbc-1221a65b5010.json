@@ -1,0 +1,12 @@
+{
+  "id": "8c2619ee-9e7c-4943-9cbc-1221a65b5010",
+  "instruction": "Modify the following sentence to include a specific company or product.",
+  "input": "The product is an affordable solution for small businesses.",
+  "output": "Shopify is an affordable solution for small businesses.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

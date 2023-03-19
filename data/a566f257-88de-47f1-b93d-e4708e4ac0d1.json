@@ -1,0 +1,12 @@
+{
+  "id": "a566f257-88de-47f1-b93d-e4708e4ac0d1",
+  "instruction": "Given a paragraph, rewrite the paragraph without repeating any of the words in the original paragraph.",
+  "input": "This is an example of a sentence.",
+  "output": "A demonstration of a phrase.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

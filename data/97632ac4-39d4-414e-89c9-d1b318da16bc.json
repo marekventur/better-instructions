@@ -1,0 +1,12 @@
+{
+  "id": "97632ac4-39d4-414e-89c9-d1b318da16bc",
+  "instruction": "Replace the text between angled brackets with a proper word.",
+  "input": "He just came back from his <vacation>.",
+  "output": "He just came back from his holiday.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

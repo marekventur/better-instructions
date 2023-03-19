@@ -1,0 +1,12 @@
+{
+  "id": "2e3e35ea-0f80-4a3a-971c-790238d59e56",
+  "instruction": "Given a product's features, write an introduction to the product.",
+  "input": "The product is an app that helps people identify and manage their sleep habits. It can track sleep quality, circadian rhythm, and average sleep time.",
+  "output": "Introducing the Sleep Tracker App! Harness the power of data and get to know your sleep like never before. This app monitors sleep quality, circadian rhythm, and average sleep time, so you can understand your sleep patterns and make adjustments to ensure good health. With the Sleep Tracker App, you can achieve the best sleep of your life.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

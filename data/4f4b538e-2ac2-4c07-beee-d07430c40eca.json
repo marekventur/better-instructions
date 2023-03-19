@@ -1,0 +1,12 @@
+{
+  "id": "4f4b538e-2ac2-4c07-beee-d07430c40eca",
+  "instruction": "Append the following words to a given instruction.",
+  "input": "\"Please double-check your\"",
+  "output": "\"Please double-check your work before submitting it.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

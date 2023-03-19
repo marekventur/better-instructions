@@ -1,0 +1,12 @@
+{
+  "id": "9d575cee-f90f-45b6-85f7-e89e1c65c250",
+  "instruction": "Calculate the integral of x^3 from x=0 to x=5",
+  "input": "",
+  "output": "The integral of x^3 from x=0 to x=5 is 125/4.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

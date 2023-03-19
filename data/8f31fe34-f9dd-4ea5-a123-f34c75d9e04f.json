@@ -1,0 +1,12 @@
+{
+  "id": "8f31fe34-f9dd-4ea5-a123-f34c75d9e04f",
+  "instruction": "Generate a algorithm to sort a given list of three colors.",
+  "input": "colors = ['white', 'red', 'blue']",
+  "output": "def sort_colors(colors):\n     \"\"\"This function sorts a given list of colors according to their RGB values.\n     \n     Arguments:\n         colors {list} -- A list of colors\n     \n     Returns:\n         list -- The colors sorted according to their RGB values\n     \"\"\"\n     colors.sort(key=lambda color: (color[0], color[2], color[1])) \n     return colors",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

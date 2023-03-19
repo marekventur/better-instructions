@@ -1,0 +1,12 @@
+{
+  "id": "888acc66-771b-4458-83a9-ea195225a40b",
+  "instruction": "Determine the sentiment of the headline.",
+  "input": "Apple and Samsung succeeded in launching a new groundbreaking product.",
+  "output": "Positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

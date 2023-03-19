@@ -1,0 +1,12 @@
+{
+  "id": "546f923d-d86d-4072-a8a8-b5c0c8d8121c",
+  "instruction": "Create a script that rewrites the following sentence in reverse.",
+  "input": "The sky is blue.",
+  "output": "blue is sky The.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

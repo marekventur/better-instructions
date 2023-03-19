@@ -1,0 +1,12 @@
+{
+  "id": "0aff7c18-0634-410c-8908-c766dc4c2409",
+  "instruction": "Select the best answer out of given options.",
+  "input": "Q. What is the capital of Denmark?\nA. a) London b) Copenhagen c) Stockholm d) Berlin",
+  "output": "b) Copenhagen",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

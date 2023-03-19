@@ -1,0 +1,12 @@
+{
+  "id": "c9c20d08-d89e-4ddf-a8c8-af2380b739b9",
+  "instruction": "Rearrange the words to create a grammatically correct sentence: \"nicely sang the girl\".",
+  "input": "nicely sang the girl",
+  "output": "The girl sang nicely.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

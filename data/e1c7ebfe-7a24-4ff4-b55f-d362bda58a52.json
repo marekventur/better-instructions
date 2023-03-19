@@ -1,0 +1,12 @@
+{
+  "id": "e1c7ebfe-7a24-4ff4-b55f-d362bda58a52",
+  "instruction": "List two advantages of using linear regression.",
+  "input": "",
+  "output": "Linear regression is simple to understand and has low variance, making it less prone to overfitting. It is also relatively efficient to compute, especially if you are dealing with large datasets.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

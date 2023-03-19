@@ -1,0 +1,12 @@
+{
+  "id": "fe054802-6359-4efc-97bf-85078608ec57",
+  "instruction": "Output the amount of days between the following two dates.",
+  "input": "April 15, 2020 and April 28, 2020",
+  "output": "13 days",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

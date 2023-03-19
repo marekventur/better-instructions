@@ -1,0 +1,12 @@
+{
+  "id": "ed13f515-ad1a-4e4b-b37d-678f339407e8",
+  "instruction": "Given a math problem, provide an example showing how to solve it.",
+  "input": "If x = 6 and y = 3, find x + y",
+  "output": "x + y = 6 + 3 = 9.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

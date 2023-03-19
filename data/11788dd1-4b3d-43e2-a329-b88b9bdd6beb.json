@@ -1,0 +1,12 @@
+{
+  "id": "11788dd1-4b3d-43e2-a329-b88b9bdd6beb",
+  "instruction": "Given a sentence and another sentence that has a similar meaning, identify the words in each sentence that are not synonyms.",
+  "input": "Sentence 1: I want to go for dinner\nSentence 2: I desire to eat dinner",
+  "output": "Sentence 1: want\nSentence 2: desire",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

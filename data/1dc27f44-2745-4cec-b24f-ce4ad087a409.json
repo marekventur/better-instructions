@@ -1,0 +1,12 @@
+{
+  "id": "1dc27f44-2745-4cec-b24f-ce4ad087a409",
+  "instruction": "Write an algorithm to search an element in a list.",
+  "input": "",
+  "output": "The following algorithm can be used to search an element in a list:\n\n1. Create a 'searchList' function which takes two parameters: \n  a. List to search through \n  b. Element to search for\n2. Set an 'index' variable and set it equal to 0 \n3. Iterate through the list using a 'for' loop \n4. For each element in the list: \n  a. Check if it is equal to the given element\n  b. If it is, set the index variable to be the current index of the list\n5. Return the index variable if it is not null, else return -1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

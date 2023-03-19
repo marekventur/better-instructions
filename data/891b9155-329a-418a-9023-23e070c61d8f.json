@@ -1,0 +1,12 @@
+{
+  "id": "891b9155-329a-418a-9023-23e070c61d8f",
+  "instruction": "Rank the following items according to the cheapest to most expensive. Output a list of item index in the order from cheapest to most expensive.",
+  "input": "Fuji Apple\nRose\nDiamond",
+  "output": "1, 2, 3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

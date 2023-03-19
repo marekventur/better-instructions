@@ -1,0 +1,12 @@
+{
+  "id": "62e433d2-b5f3-4ee6-bded-56a3681bdddd",
+  "instruction": "Identify the author and title of the book given the following summary.",
+  "input": "A dying man reflects on his long and difficult life and how he overcame it all.",
+  "output": "The author of the book is Ernest Hemingway and the title is The Old Man and the Sea.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

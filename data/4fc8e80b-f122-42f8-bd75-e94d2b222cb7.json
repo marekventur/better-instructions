@@ -1,0 +1,12 @@
+{
+  "id": "4fc8e80b-f122-42f8-bd75-e94d2b222cb7",
+  "instruction": "Identify the hypothesis of this experiment",
+  "input": "Researchers are experimenting to see if playing classical music increases the test scores of high school students.",
+  "output": "The hypothesis of this experiment is that playing classical music will increase the test scores of high school students.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

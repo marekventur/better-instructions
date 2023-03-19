@@ -1,0 +1,12 @@
+{
+  "id": "497effa6-fa19-4274-a29e-2650af09cb9b",
+  "instruction": "Generate a class schedule for a student taking 5 classes.",
+  "input": "",
+  "output": "Monday: Math (9:00am-10:30am), Spanish (10:45am-12:15pm)\n\nTuesday: English (9:00am-10:30am), Social Studies (10:45am-12:15pm)\n\nWednesday: Science (9:00am-10:30am) \n\nThursday: Art (9:00am-10:30am), Music (10:45am-12:15pm)\n\nFriday: Free",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

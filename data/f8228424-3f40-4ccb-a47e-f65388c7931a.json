@@ -1,0 +1,12 @@
+{
+  "id": "f8228424-3f40-4ccb-a47e-f65388c7931a",
+  "instruction": "Transcribe the voice note given to text.",
+  "input": "VoiceNote: \"Hey, I need you to pick up some food for me. Can you get me a small pizza and some chicken wings?\"",
+  "output": "Hey, I need you to pick up some food for me. Can you get me a small pizza and some chicken wings?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

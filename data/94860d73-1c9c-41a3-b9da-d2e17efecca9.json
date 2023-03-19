@@ -1,0 +1,12 @@
+{
+  "id": "94860d73-1c9c-41a3-b9da-d2e17efecca9",
+  "instruction": "Automate the given task and output the resulting code.",
+  "input": "Task: Write a program that reads a text file and prints out the number of words in the file.",
+  "output": "#include <iostream>\n#include <fstream>\n#include <string>\n\nusing namespace std;\n\nint main() {\n    // Declare variables\n    string line;\n    int count = 0;\n\n    // Open text file\n    ifstream myfile(\"file.txt\");\n\n    // Read the file line by line\n    while (getline(myfile, line)) {\n        // Split the line by any whitespaces\n        istringstream iss(line);\n        string word;\n\n        // Read each word and increment the word count\n        while (iss >> word) {\n            count++;\n        }\n    }\n    \n    // Output the word count\n    cout << \"Number of words: \" << count << endl;\n\n    return 0;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "10b54c19-d42e-449f-89d1-aa8821d42735",
+  "instruction": "Take the following sentence and remove as much excess information as you can without affecting the meaning of the sentence.\n\nI gave the teacher the solution to the problem that she asked me for.",
+  "input": "",
+  "output": "I gave the teacher the solution.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

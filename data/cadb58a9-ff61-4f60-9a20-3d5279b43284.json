@@ -1,0 +1,12 @@
+{
+  "id": "cadb58a9-ff61-4f60-9a20-3d5279b43284",
+  "instruction": "Design a website for promoting new books.",
+  "input": "Book: \"How to be a Hero\"",
+  "output": "The website for promoting hero book should have a clean, modern design, with bold fonts and easy-to-navigate menus. The home page of the website should have an interactive and colorful map as its background,with the book's title and author\u2019s name prominently displayed. The landing page should also feature sections for reviews and testimonials, an about the author page, a download page for the book, and a contact page with social media links. There should also be sections with book excerpts, showings, or blog posts related to the book, with a call-to-action to \u2018buy the book'.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8239c5f3-4a6a-41a9-b4e1-a4308634665b",
+  "instruction": "List the steps to register for the given online course.",
+  "input": "Data Science",
+  "output": "To register for a Data Science course, follow these steps:\n\n1. Find a course that you are interested in and confirm the details (duration, fee, prerequisites, etc.).\n2. Fill out the registration form and provide payment information.\n3. Review any course material provided in advance and contact the course instructor if you have any questions.\n4. Collect any resources you need for the course, such as books or software.\n5. Join the online class at the scheduled time.\n6. Access any extra materials or support provided by the instructor.\n7. Participate in the class, ask questions, and engage with the content.\n8. Complete any assignments and tests during the course.\n9. Receive your course certificate at the end.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

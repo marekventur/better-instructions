@@ -1,0 +1,12 @@
+{
+  "id": "4d179520-7c21-410a-ac61-4a84fe70594f",
+  "instruction": "Create an algorithm to determine whether a website is trustworthy.",
+  "input": "",
+  "output": "The algorithm should consider various factors when determining the trustworthiness of a website. This includes verifying the identity of the website's owners, verifying the authenticity of any claims made by the website, and checking the website's security measures to determine whether it is adequately protecting user data. Additionally, the algorithm should consider how the website covers topics, how it behaves in the presence of conflicting information, and how it displays advertising content. The algorithm should also consider transparency and any other factors that may be relevant to the user's trustworthiness judgement.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

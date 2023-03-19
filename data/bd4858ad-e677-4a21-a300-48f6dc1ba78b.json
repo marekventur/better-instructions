@@ -1,0 +1,12 @@
+{
+  "id": "bd4858ad-e677-4a21-a300-48f6dc1ba78b",
+  "instruction": "Generate a story using the given characters, setting and theme.",
+  "input": "Characters: Detective, Scientist\nSetting: Abandoned Factory\nTheme: Mystery",
+  "output": "The detective and the scientist had been sent to the abandoned factory to investigate a mysterious disappearance. They had been told that someone had gone in but had never been seen leaving. As they explored the factory, they began to discover strange clues that suggested something strange was going on. They soon uncovered a secret laboratory in the depths of the factory, filled with strange and exotic machines. It became clear that something sinister was going on and the detective and scientist began piecing together the clues to uncover the truth behind the mysterious disappearance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

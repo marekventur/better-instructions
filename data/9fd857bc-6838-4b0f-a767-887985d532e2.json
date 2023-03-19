@@ -1,0 +1,12 @@
+{
+  "id": "9fd857bc-6838-4b0f-a767-887985d532e2",
+  "instruction": "Generate a mnemonic phrase or system to remember the given words.",
+  "input": "Nuclear, electricity, fossil fuels",
+  "output": "Nuclear=Nut, Electricity=Energy, Fossil Fuels=Fuels",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

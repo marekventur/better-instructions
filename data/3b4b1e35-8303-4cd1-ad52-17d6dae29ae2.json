@@ -1,0 +1,12 @@
+{
+  "id": "3b4b1e35-8303-4cd1-ad52-17d6dae29ae2",
+  "instruction": "Calculate the volume of a cube, given that the side length is 4 cm.",
+  "input": "Length = 4 cm",
+  "output": "The volume of the cube is 64 cm3.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

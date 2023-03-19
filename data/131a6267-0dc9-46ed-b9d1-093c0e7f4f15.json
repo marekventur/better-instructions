@@ -1,0 +1,12 @@
+{
+  "id": "131a6267-0dc9-46ed-b9d1-093c0e7f4f15",
+  "instruction": "Generate a set of questions to ask a job candidate in an interview.",
+  "input": "",
+  "output": "- What do you consider your greatest strengths for this position?\n- What challenges have you experienced in past roles and how did you overcome them?\n- What experience have you had in a role like this?\n- Are you proficient in any particular software programs relevant to this role?\n- How do you handle working on multiple tasks with tight deadlines?\n- Describe to us a time when you had to think creatively to solve a problem.\n- How do you stay up to date on the latest industry trends and technologies?\n- What is your process for developing and executing successful projects?\n- What methods do you use to manage stress in the workplace?\n- Describe a situation when you had to remain flexible and adapt to changing needs.\n- Tell us about how you work as part of a team.\n- Describe to us one of your most successful ideas or jobs.\n- How do you handle criticism from colleagues or supervisors?\n- What processes do you typically use to stay organized?\n- Tell us about a time when you had to take initiative to get a task done.\n- What do you consider to be the most difficult part of this job?\n- What do you think sets you apart from other candidates for this role?\n- How would your colleagues describe you?\n- Name two recent accomplishments that you are proud of.\n- What strategies do you use to remain motivated in the workplace?\n- What areas do you feel you could develop in order to be successful in this role?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

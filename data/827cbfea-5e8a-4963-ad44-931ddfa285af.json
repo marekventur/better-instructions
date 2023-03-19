@@ -1,0 +1,12 @@
+{
+  "id": "827cbfea-5e8a-4963-ad44-931ddfa285af",
+  "instruction": "Rewrite the following message so it is appropriate to send to a professor.",
+  "input": "Hey Prof. Doe, can you give me an extension on my assignment?",
+  "output": "Good evening Professor Doe,\n\nI hope you are doing well. I am writing to inquire about the possibility of an extension on the due date for my assignment. I understand the importance of meeting deadlines, but I am having difficulty completing it by the set date.\n\nI would appreciate it if you could consider my request and let me know your decision.\n\nThank you for your time and consideration.\n\nSincerely,\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

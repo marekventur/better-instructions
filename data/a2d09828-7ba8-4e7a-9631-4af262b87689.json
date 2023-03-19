@@ -1,0 +1,12 @@
+{
+  "id": "a2d09828-7ba8-4e7a-9631-4af262b87689",
+  "instruction": "Read the given text and classify it into one of the given categories: imagery, tone, emotion, character.",
+  "input": "The lemonade tasted of sweet summer and the warmth of the sun on her face.",
+  "output": "The given text describes an imagery.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

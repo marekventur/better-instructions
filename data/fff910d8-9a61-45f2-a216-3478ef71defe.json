@@ -1,0 +1,12 @@
+{
+  "id": "fff910d8-9a61-45f2-a216-3478ef71defe",
+  "instruction": "Describe the methods that e-commerce websites use to prevent fraud",
+  "input": "No Input",
+  "output": "E-commerce websites use a variety of proactive measures to help prevent fraudulent activities. These measures may include data authentication systems for verifying customer identities, IP and email verification systems, 3D-Secure systems to authenticate credit card payment, and AI-based systems to monitor activity patterns and detect suspicious activities. Other measures include employing fraud detection services, screening customer profiles against global databases, and setting limits on transaction size and frequency. These measures help to provide an extra layer of security and protect both customers and business owners from e-commerce fraud.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

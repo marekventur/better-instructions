@@ -1,0 +1,12 @@
+{
+  "id": "76e3103c-8ee1-429b-b173-7ce7e8ff3ea2",
+  "instruction": "Write a function that will return a rounded number.",
+  "input": "num = 4.5",
+  "output": "def round_num(num): \n    return round(num) \n  \nprint(round_num(4.5)) \n\nOutput: 5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

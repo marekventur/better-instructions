@@ -1,0 +1,12 @@
+{
+  "id": "071e9411-c908-4e93-adac-8a3ca7035cef",
+  "instruction": "Compose a poem that represents the given theme.",
+  "input": "Theme: Sadness",
+  "output": "Here I stand\nSo overwhelmed by sadness\nThat I don't understand\nThe anguish and pain that I confess\n\nMy swollen eyes, hidden fear\nThe sorrow in my heart\nHave left me here\nWith a very heavy start.\n\nMy tears that fall\nAre like a deep waterfall\nThey can't be contained \nJust like sorrow from days past remains\n\nThe pains that I feel\nFar too real\nMy longing tears\nFall endlessly throughout the years\n\nBut even in this darkness, I fight\nSearch for the courage I need to take flight.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

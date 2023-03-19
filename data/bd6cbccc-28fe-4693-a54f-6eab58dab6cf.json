@@ -1,0 +1,12 @@
+{
+  "id": "bd6cbccc-28fe-4693-a54f-6eab58dab6cf",
+  "instruction": "Find the number of ways to make change for a given amount using coins of given denominations.",
+  "input": "Amount = 8\nDenominations = {1,2,4}",
+  "output": "There are 4 ways to make change for 8 using coins of given denominations {1,2,4}:\n1. 1x8 \n2. 4x2 \n3. 2x2 + 1x4 \n4. 1x2 + 1x4 + 1x2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

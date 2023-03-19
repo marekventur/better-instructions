@@ -1,0 +1,12 @@
+{
+  "id": "5aa5d584-890c-4fd8-bd03-4c05867b74cf",
+  "instruction": "Create a data visualization showing the number of online purchases per month",
+  "input": "January - 100 \nFebruary - 120 \nMarch - 150 \nApril - 180 \nMay - 200",
+  "output": "<Data visualization of monthly online purchases>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

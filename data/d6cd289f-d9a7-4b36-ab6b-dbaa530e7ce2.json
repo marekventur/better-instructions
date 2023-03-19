@@ -1,0 +1,12 @@
+{
+  "id": "d6cd289f-d9a7-4b36-ab6b-dbaa530e7ce2",
+  "instruction": "Infer the missing information from the given context.",
+  "input": "John was the fastest runner in the race and his time was __.",
+  "output": "John's time was the fastest.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cdf02d3f-0715-432c-b7e5-6dad364165d5",
+  "instruction": "Write three sentences that describe the given photo.",
+  "input": "A photo of a girl sitting in a field with a basket of flowers.",
+  "output": "1. A young girl sits in a field with a basket of freshly-picked flowers beside her.\n2. She looks content and peaceful, surrounded by nature and a beautiful blue sky. \n3. The sun shines down on her, illuminating the vibrant colors of the flowers and the surrounding grass.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

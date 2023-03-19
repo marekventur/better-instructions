@@ -1,0 +1,12 @@
+{
+  "id": "de68d468-c35c-4f2c-9ab2-29095c60e4fc",
+  "instruction": "Classify the following utterance into one of the following categories: inquiry, request, or compliment.",
+  "input": "This app is really easy to use!",
+  "output": "Compliment",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

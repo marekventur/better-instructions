@@ -1,0 +1,12 @@
+{
+  "id": "41d7109d-6eb6-4c00-9458-d41efc320f16",
+  "instruction": "Explain the concept of reusability in software development.",
+  "input": "",
+  "output": "Reusability in software development is the practice of utilizing software components from a library to build new applications. By reusing components, developers can save time and resources while creating reliable and efficient software. This concept has been around for decades, and today many developers rely on existing libraries to develop their projects quickly and effectively. Reusable components also reduce the risk of introducing errors into the software due to their reliability and ease of debugging.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

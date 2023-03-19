@@ -1,0 +1,12 @@
+{
+  "id": "fbc7465b-1412-4eaf-accd-6f57a8f03d72",
+  "instruction": "Rewrite the following expression using the Big O notation.",
+  "input": "3n + 5",
+  "output": "O(n)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

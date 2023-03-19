@@ -1,0 +1,12 @@
+{
+  "id": "b722c082-233a-4d96-a99c-9aea65967ea3",
+  "instruction": "This is an instruction for editing an article. Rewrite the given sentence so that it reads more clearly.",
+  "input": "In an hour-long monologue that looked glum, the president of FIFA offered a tirade against Western critics of the 2022 World Cup.",
+  "output": "FIFA President Gianni Infantino delivered a fiery tirade against Western critics of the 2022 World Cup during an hour-long glum-looking monologue.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

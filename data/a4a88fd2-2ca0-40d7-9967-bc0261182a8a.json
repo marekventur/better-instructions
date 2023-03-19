@@ -1,0 +1,12 @@
+{
+  "id": "a4a88fd2-2ca0-40d7-9967-bc0261182a8a",
+  "instruction": "Choose the better summary of the given context from the given two summaries.",
+  "input": "Context: Several icecaps on the Greenland ice sheet have started to melt rapidly.\n\nSummaries:\na. The Greenland ice sheet has lost numerous icecaps over time.\nb. Greenland's icecaps are quickly melting away.",
+  "output": "b. Greenland's icecaps are quickly melting away.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "04ef0c6f-27af-45dc-bd56-75b7d6e4675b",
+  "instruction": "Find three contemporary novels written by an author from a given country.",
+  "input": "France",
+  "output": "- The Elegance of the Hedgehog by Muriel Barbery \n- Suite Francaise by Ir\u00e8ne N\u00e9mirovsky\n- Le Petit Prince by Antoine de Saint-Exup\u00e9ry",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

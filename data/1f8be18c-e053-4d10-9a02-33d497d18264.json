@@ -1,0 +1,12 @@
+{
+  "id": "1f8be18c-e053-4d10-9a02-33d497d18264",
+  "instruction": "What is the difference between interactive and non-interactive user interfaces?",
+  "input": "",
+  "output": "The primary difference between interactive and non-interactive user interfaces is that interactive user interfaces allow users to interact with, and manipulate, elements on the interface, while non-interactive user interfaces do not allow for user interaction. Interactive user interfaces typically include elements like buttons, sliders, and forms that allow users to input and control information, while non-interactive user interfaces are typically static and do not allow users to control information or interact with elements on the screen.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

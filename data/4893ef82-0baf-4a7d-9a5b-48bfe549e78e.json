@@ -1,0 +1,12 @@
+{
+  "id": "4893ef82-0baf-4a7d-9a5b-48bfe549e78e",
+  "instruction": "Compose a sentence describing the argument of a recent article",
+  "input": "The article is entitled \"Does Digital Technology Really Make us Happier?\".",
+  "output": "This article argues that digital technology does not necessarily lead to increased happiness, but may actually cause more stress and distraction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

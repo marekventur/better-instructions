@@ -1,0 +1,12 @@
+{
+  "id": "92826ec5-202b-4a26-b5dc-c0967985aff2",
+  "instruction": "Make a prediction on what the company's stock will close at today.",
+  "input": "Ticker: MSFT",
+  "output": "I predict that Microsoft's stock will close at $210.00.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

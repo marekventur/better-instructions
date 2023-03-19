@@ -1,0 +1,12 @@
+{
+  "id": "6347f45b-6e46-4341-b2da-4105e5677a43",
+  "instruction": "Analyze this article for tone.",
+  "input": "The Seattle Seahawks played an exciting game against the Houston Texans this past Sunday. They managed to put pressure on the Texans offense and kept them in check for most of the game, but the Texans offense managed to get some points on the board in the second half. Seahawks defense had some lapses, allowing the Texans to score 18 points in the second half.",
+  "output": "The tone of this article is positive with a slight hint of disappointment. The article starts by emphasizing the strong performance of the Seahawks, but then acknowledges their second-half lapses that allowed the Texans to make a comeback. The final tone of the article is one of celebration for the Seahawks win, with a hint of disappointment for not being able to secure the win with a bigger lead.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

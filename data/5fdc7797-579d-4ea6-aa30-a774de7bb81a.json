@@ -1,0 +1,12 @@
+{
+  "id": "5fdc7797-579d-4ea6-aa30-a774de7bb81a",
+  "instruction": "Find the rhyming words for the given word.",
+  "input": "Hat",
+  "output": "Mat, rat, bat, pat, sat, chat.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

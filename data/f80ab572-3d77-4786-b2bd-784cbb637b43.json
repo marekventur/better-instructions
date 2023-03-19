@@ -1,0 +1,12 @@
+{
+  "id": "f80ab572-3d77-4786-b2bd-784cbb637b43",
+  "instruction": "Input the name of two people. Output a sentence introducing them to each other.",
+  "input": "John, Emma",
+  "output": "John, meet Emma. Emma, this is John.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

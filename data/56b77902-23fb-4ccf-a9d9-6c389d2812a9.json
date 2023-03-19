@@ -1,0 +1,12 @@
+{
+  "id": "56b77902-23fb-4ccf-a9d9-6c389d2812a9",
+  "instruction": "Given a list of ingredients, suggest a dish that can be created using those ingredients.",
+  "input": "potato, onion, garlic, spinach",
+  "output": "Potato and spinach frittata. Saut\u00e9 diced onion and garlic, then add cubed potatoes. Cook until softened. Stir in fresh spinach and cook until just wilted. Transfer mixture to an oven-safe skillet, pour beaten eggs over the potatoes and spinach and bake at 375 degrees Fahrenheit until eggs are set. Sprinkle with Parmesan cheese, if desired.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

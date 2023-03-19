@@ -1,0 +1,12 @@
+{
+  "id": "b19ae0a8-2d44-4a3e-8bca-530bf48d6a67",
+  "instruction": "Generate a random password using the following criteria:",
+  "input": "At least 8 characters in length, \nMust contain numbers,\nMust contain upper and lowercase letters.",
+  "output": "atH2bzEd",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

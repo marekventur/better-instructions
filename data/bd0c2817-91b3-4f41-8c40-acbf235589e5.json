@@ -1,0 +1,12 @@
+{
+  "id": "bd0c2817-91b3-4f41-8c40-acbf235589e5",
+  "instruction": "Sort the given list into ascending order.",
+  "input": "4, 32, 6, 87",
+  "output": "The sorted list in ascending order is: 4, 6, 32, 87.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "49dfdcfc-86b1-4e57-b2f9-503efa4f66ff",
+  "instruction": "Suggest a workout routine with the provided equipment.",
+  "input": "pull-up bar, exercise mat",
+  "output": "Exercise Routine:\n\n1. Warm Up: Start with 5 minutes of dynamic stretching, such as arm circles, leg swings, or jumping jacks\n\n2. Upper Body Circuit: 3 rounds of 10 reps of the following exercises on the pull-up bar and exercise mat: Pull Up, Push Up, Tricep Dip, Plank and Side Plank.\n\n3. Lower Body Circuit: 3 rounds of 10 reps of the following exercises on the exercise mat: Bridge, Squat, Side Lunge and Reverse Lunge.\n\n4. Core Circuit: 3 rounds of 10 reps of the following exercises on the exercise mat: Crunches, Leg Raises, Oblique Twists and Back Extension.\n\n5. Cool Down: Finish with 5 minutes of static stretching, such as cobra pose, cat/cow pose, or forward fold.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

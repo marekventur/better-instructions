@@ -1,0 +1,12 @@
+{
+  "id": "4fd3f41c-3dfb-43c0-8352-13d1ac8363cd",
+  "instruction": "Identify the name of the song given a short clip of the lyrics.",
+  "input": "\"We can really turn it on, boy...\"",
+  "output": "The song is \"Turn It On\" by Keri Hilson.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

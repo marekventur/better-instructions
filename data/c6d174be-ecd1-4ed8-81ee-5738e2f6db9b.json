@@ -1,0 +1,12 @@
+{
+  "id": "c6d174be-ecd1-4ed8-81ee-5738e2f6db9b",
+  "instruction": "Write a description of a product consisting of 80-100 words.",
+  "input": "iPhone 12",
+  "output": "The iPhone 12 is Apple's latest flagship smartphone, bringing the power and performance of the iPhone to a whole new level. It features an A14 Bionic chip, the fastest ever in a smartphone, so you can fly through apps and multitask with ease. The phone boasts a stunning 6.1-inch OLED Super Retina display with HDR and Dolby Vision, plus an advanced dual-camera system with 12MP Ultra Wide and Wide cameras. It's also equipped with powerful Face ID and Payment security, so your Face and fingerprints can be used to keep your account secure. On top of that, the iPhone 12 is 5G-enabled, allowing you to surf the internet and download apps faster than ever before.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

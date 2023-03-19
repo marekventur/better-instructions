@@ -1,0 +1,12 @@
+{
+  "id": "f10a5b41-da55-4605-b75e-208eada9e9ac",
+  "instruction": "Generate a scenario with dialogs between 2 characters given their identifying traits.",
+  "input": "Character 1: Intelligent but unmotivated adolescent\nCharacter 2: Caring and enthusiastic teacher",
+  "output": "Thestudent was slouched in her chair, headphones in her ears, staring out the window. Her teacher walked up behind her, gently tapping her on the shoulder.\n\n\"Hey there,\" the teacher said. \"Let's chat about what you're doing today and how we can get you excited about class.\"\n\nThe student slowly turned around, her eyes heavy with resignation. \"What's the point? I'm never going to learn anything useful, anyway.\"\n\nThe teacher leaned down, bringing her face level with the student's. \"You can do it,\" the teacher said, her voice full of enthusiasm. \"We can work together to find ways to make learning new topics exciting. It will be hard work, but I know you can do it.\"\n\nThe student's expression softened, and she managed a small smile. \"Okay, let's give it a try.\" She said with newfound confidence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5c15e4ac-8f26-4f5c-b85f-b360eae97da8",
+  "instruction": "Write a SQL query to find the total number of books in the library.",
+  "input": "",
+  "output": "The following SQL query can be used to find the total number of books in the library:\nSELECT COUNT(*) FROM books;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

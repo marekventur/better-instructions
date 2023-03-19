@@ -1,0 +1,12 @@
+{
+  "id": "40b96af5-1fc2-48c5-97c2-8b295835f5df",
+  "instruction": "Create a quote from the article",
+  "input": "Lately, there has been a late-night debate on whether companies should raise the minimum wage in order to protect the rights of their employees. While some advocate for raising the minimum wage in order to boost the economy and to recognize the value of labor, there is also an argument against it which suggests that raising the minimum wage may cause employers to cut jobs in order to adjust to the increased costs.",
+  "output": "\"The decision to raise the minimum wage is a tough one as it may have impacts on both employers and employees.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

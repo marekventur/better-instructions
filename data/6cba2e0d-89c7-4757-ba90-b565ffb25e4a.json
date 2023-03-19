@@ -1,0 +1,12 @@
+{
+  "id": "6cba2e0d-89c7-4757-ba90-b565ffb25e4a",
+  "instruction": "Given a context, generate a sentence that contains the word \u201cinspiration\u201d.",
+  "input": "He was feeling discouraged but then he remembered his dream.",
+  "output": "The thought of his dream gave him the inspiration he needed to keep going.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

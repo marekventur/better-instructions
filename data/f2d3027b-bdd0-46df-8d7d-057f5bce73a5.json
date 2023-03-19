@@ -1,0 +1,12 @@
+{
+  "id": "f2d3027b-bdd0-46df-8d7d-057f5bce73a5",
+  "instruction": "Suggest how to improve the execution of a program given the demo results.",
+  "input": "The program is supposed to generate images from sketch inputs, but the published results are low-resolution and have some blurred lines when compared to the original sketch.",
+  "output": "The program can be improved by increasing the resolution of the generated images. This can be achieved by adding more layers in the deep learning model and increasing the size of the input image. Additionally, the parameters of the deep learning model, such as learning rate and optimizer \u2013 can be fine-tuned to get better results.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e50050cf-405f-4f49-8dea-27728dbd1b7f",
+  "instruction": "Given a list of instructions, create an algorithm to solve the problem.",
+  "input": "1. Ask the user to input the number of items \n2. Read in item numbers \n3. Compute the sum of the item numbers \n4. Print out the sum of the item numbers",
+  "output": "// Algorithm to compute the sum of a given number of items \n\nSTART \n\nStep 1: Ask the user to input the number of items (n) \nStep 2: Read in the n item numbers \nStep 3: Set the sum of items (s) to 0 \nStep 4: For each item, add the item number to s and increment the item counter \nStep 5: Print the result of s \n\nEND",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

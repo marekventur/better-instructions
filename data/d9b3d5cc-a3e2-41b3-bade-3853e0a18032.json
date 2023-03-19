@@ -1,0 +1,12 @@
+{
+  "id": "d9b3d5cc-a3e2-41b3-bade-3853e0a18032",
+  "instruction": "Convert the following date from European format (dd/mm/yyyy) to American format (mm/dd/yyyy): 15/10/2021",
+  "input": "",
+  "output": "10/15/2021",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

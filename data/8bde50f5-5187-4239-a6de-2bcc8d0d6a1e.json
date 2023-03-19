@@ -1,0 +1,12 @@
+{
+  "id": "8bde50f5-5187-4239-a6de-2bcc8d0d6a1e",
+  "instruction": "Translate the sentence \"Je suis fran\u00e7aise\" to English",
+  "input": "\"Je suis fran\u00e7aise\"",
+  "output": "I am French.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

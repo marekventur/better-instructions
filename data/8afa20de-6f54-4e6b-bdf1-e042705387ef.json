@@ -1,0 +1,12 @@
+{
+  "id": "8afa20de-6f54-4e6b-bdf1-e042705387ef",
+  "instruction": "Given the opening paragraph of a book, generate the rest of the story.",
+  "input": "Janice watched her children running to the fountain, squealing in delight as the water spurted and sparkled in the sunshine.",
+  "output": "Janice couldn't help but smile at her children's excitement. She had seen them grow from small children, too scared to approach the fountain, to now confidently running and playing in the sun. She watched as they dug in the sand and threw stones in the water, unaware of their mother watching and smiling in amusment. But their play was shortlived as the sun began to set and the clouds started to roll in. Janice gathered her children's belongings and they quickly headed home. \n\nOnce back at home, Janice prepared dinner while her children played in the other room and she mused over the day. How she wished the days weren't so fleeting, that she could keep her children in her sights forever.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

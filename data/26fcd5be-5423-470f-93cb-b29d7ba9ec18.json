@@ -1,0 +1,12 @@
+{
+  "id": "26fcd5be-5423-470f-93cb-b29d7ba9ec18",
+  "instruction": "Identify an ethical issue with the following sentence.",
+  "input": "Employees who work during the weekend will receive an extra bonus.",
+  "output": "The ethical issue with this sentence is that rewarding employees for working on the weekend could lead to exploitation, where employees are forced to work in order to receive extra bonuses. This practice could lead to employees overextending themselves, working long hours and not taking time to rest or recuperate leading to burnout.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

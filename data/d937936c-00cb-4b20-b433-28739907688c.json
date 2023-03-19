@@ -1,0 +1,12 @@
+{
+  "id": "d937936c-00cb-4b20-b433-28739907688c",
+  "instruction": "Given an array and two indices, swap the values at the two indices.",
+  "input": "Array = [1, 2, 3, 4, 5] \nIndices = [0, 4]",
+  "output": "Array = [5, 2, 3, 4, 1]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

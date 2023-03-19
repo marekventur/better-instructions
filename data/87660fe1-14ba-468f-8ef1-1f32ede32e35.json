@@ -1,0 +1,12 @@
+{
+  "id": "87660fe1-14ba-468f-8ef1-1f32ede32e35",
+  "instruction": "Given the following sentence, add a comma before the coordinating conjunction and.",
+  "input": "People wear face masks to protect themselves not only from the virus but also from the air pollution.",
+  "output": "People wear face masks to protect themselves, not only from the virus, but also from the air pollution.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "17acbd61-edea-4119-a069-6b95b1bbe8ef",
+  "instruction": "Convert the following statement into an IF- THEN statement.",
+  "input": "If you don't finish the homework, there will be a consequence.",
+  "output": "If you don't finish the homework, THEN there will be a consequence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8e655e76-0383-4ed0-98df-585bdb6b62d9",
+  "instruction": "Convert the following date from the Gregorian calendar to the Julian calendar.",
+  "input": "November 29, 2020",
+  "output": "November 16, 2020 (Gregorian) is October 4, 2020 (Julian).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

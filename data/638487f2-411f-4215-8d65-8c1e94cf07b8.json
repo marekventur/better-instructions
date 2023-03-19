@@ -1,0 +1,12 @@
+{
+  "id": "638487f2-411f-4215-8d65-8c1e94cf07b8",
+  "instruction": "Feed the following information into a database.",
+  "input": "Name: Sarah Smith\nAge: 33\nLocation: New York City",
+  "output": "The database has been successfully updated with the following information: Sarah Smith, 33 years old, located in New York City.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

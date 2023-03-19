@@ -1,0 +1,12 @@
+{
+  "id": "6779449a-bc5d-4bc6-87fa-26c0b77b3522",
+  "instruction": "In this task, you are required to classify the following text as either formal or informal.",
+  "input": "Greetings everyone, \n\nWelcome to today's meeting.",
+  "output": "Formal",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

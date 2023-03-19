@@ -1,0 +1,12 @@
+{
+  "id": "0a6fee49-5962-4fe3-b445-6b6d28ae5c3e",
+  "instruction": "Typing a sentence, generate an appropriate machine translation of the sentence",
+  "input": "I want to order a pizza",
+  "output": "Je veux commander une pizza",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

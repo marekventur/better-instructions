@@ -1,0 +1,12 @@
+{
+  "id": "17501a01-e886-4cb1-b64e-f5118efad6c8",
+  "instruction": "Comment on the changes in the given dataset.",
+  "input": "The following dataset shows the number of internet users in 15 countries from 2014 to 2020\n\n| Country | 2014 | 2020 |\n|------- | ----|------|\n| USA | 270 M | 320 M |\n| India | 120 M | 480 M |\n| Russia |  110 M | 145 M |",
+  "output": "The dataset reveals a striking change in the number of internet users in these countries. The USA and Russia have both experienced an increase in the number of internet users, with the USA seeing an 18% increase and Russia experiencing a 32% rise. India has seen the largest increase overall, with a 300% jump in the number of users from 2014-20",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

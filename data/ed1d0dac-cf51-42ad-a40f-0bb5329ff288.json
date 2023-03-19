@@ -1,0 +1,12 @@
+{
+  "id": "ed1d0dac-cf51-42ad-a40f-0bb5329ff288",
+  "instruction": "Identify the two main characters in the given passage.",
+  "input": "John and Lisa were walking through the park on a sunny day. They stopped to admire the flowers in the garden and talked about their plans for the future.",
+  "output": "John and Lisa",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

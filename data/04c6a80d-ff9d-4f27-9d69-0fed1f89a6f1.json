@@ -1,0 +1,12 @@
+{
+  "id": "04c6a80d-ff9d-4f27-9d69-0fed1f89a6f1",
+  "instruction": "Generate a list of three potential investments for a client.",
+  "input": "The client is an individual investor with an average risk profile.",
+  "output": "1. Exchange-traded funds (ETFs) \u2013 ETFs are a low-cost, diversified way to invest that consists of a basket of stocks, bonds, or other Security Exchange Commission (SEC)-approved investments.\n2. Stocks \u2013 Investing in individual stocks can be a profitable way to build wealth but is more risky than investing in an ETF.\n3. Real estate \u2013 Investing in real estate can provide long-term returns with relatively low risk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

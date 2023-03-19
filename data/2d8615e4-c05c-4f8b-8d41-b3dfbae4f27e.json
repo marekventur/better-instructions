@@ -1,0 +1,12 @@
+{
+  "id": "2d8615e4-c05c-4f8b-8d41-b3dfbae4f27e",
+  "instruction": "Re-order the following list of items.",
+  "input": "Sofa, Coffee table, Chair",
+  "output": "Chair, Sofa, Coffee table",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

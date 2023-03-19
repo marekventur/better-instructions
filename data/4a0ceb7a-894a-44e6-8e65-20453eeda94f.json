@@ -1,0 +1,12 @@
+{
+  "id": "4a0ceb7a-894a-44e6-8e65-20453eeda94f",
+  "instruction": "Group the items in the list into two categories.",
+  "input": "List = {\"dog\",\"cat\",\"snake\",\"elephant\",\"bird\",\"turtle\"}",
+  "output": "Category A: {\"dog\",\"cat\",\"snake\",\"elephant\"}\nCategory B: {\"bird\",\"turtle\"}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

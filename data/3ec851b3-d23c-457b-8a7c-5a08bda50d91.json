@@ -1,0 +1,12 @@
+{
+  "id": "3ec851b3-d23c-457b-8a7c-5a08bda50d91",
+  "instruction": "Combine the given words together into a phrase.",
+  "input": "Fire, white",
+  "output": "white fire",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

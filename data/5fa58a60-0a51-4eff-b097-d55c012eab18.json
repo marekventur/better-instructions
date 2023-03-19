@@ -1,0 +1,12 @@
+{
+  "id": "5fa58a60-0a51-4eff-b097-d55c012eab18",
+  "instruction": "Compose a 3-line poem using 5 given words.",
+  "input": "moon, star, night, love, sky",
+  "output": "Twinkling stars glistening in the night,\nThe love we share under the moon so white,\nOur dreams up in the sky so high, so bright.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

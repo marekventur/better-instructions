@@ -1,0 +1,12 @@
+{
+  "id": "c7e7957f-66f6-4d1a-a3d1-1669bb9601c1",
+  "instruction": "How many words are in this sentence?",
+  "input": "The quick brown fox jumps over the lazy dog.",
+  "output": "This sentence contains 9 words.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

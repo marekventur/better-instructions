@@ -1,0 +1,12 @@
+{
+  "id": "2c7cc3b7-7f5c-4dbb-a877-52b443b29820",
+  "instruction": "Add a feature in the given code so that it can accept wildcards and special characters.",
+  "input": "# Python 3 program to validate \n# IPv4 address \n\n# Function to validate a given IPv4 address. \ndef validate_IPv4(s): \n    l = s.split(\".\") \n    if len(l) != 4: \n        return False\n    for x in l: \n        if not x.isdigit() or int(x)>255: \n            return False\n    return True\n\n# Driver Code \ns = \"192.168.1.2\"\nif validate_IPv4(s): \n    print(\"valid\") \nelse: \n    print(\"Invalid\")",
+  "output": "# Python 3 program to validate \n# IPv4 address \n\n# Function to validate a given IPv4 address. \ndef validate_IPv4(s): \n    l = s.split(\".\") \n    if len(l) != 4: \n        return False\n    for x in l: \n        if x != '*' and x != '#' and (not x.isdigit() or int(x)>255): \n            return False\n    return True\n\n# Driver Code \ns = \"192.168.1.*\"\nif validate_IPv4(s): \n    print(\"valid\") \nelse: \n    print(\"Invalid\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

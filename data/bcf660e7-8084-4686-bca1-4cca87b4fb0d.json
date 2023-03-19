@@ -1,0 +1,12 @@
+{
+  "id": "bcf660e7-8084-4686-bca1-4cca87b4fb0d",
+  "instruction": "Classify the following emotion in the input sentence.",
+  "input": "He was excited to travel to Paris.",
+  "output": "Excitement.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

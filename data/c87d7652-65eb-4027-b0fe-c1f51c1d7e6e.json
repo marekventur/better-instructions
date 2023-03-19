@@ -1,0 +1,12 @@
+{
+  "id": "c87d7652-65eb-4027-b0fe-c1f51c1d7e6e",
+  "instruction": "Create a function for calculating the average marks in a class",
+  "input": "",
+  "output": "def calculate_avg_marks(marks):\n  # calculate the average marks\n  totalMarks = 0\n  for m in marks:\n    totalMarks += m\n  return totalMarks/len(marks)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

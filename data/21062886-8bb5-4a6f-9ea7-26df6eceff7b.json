@@ -1,0 +1,12 @@
+{
+  "id": "21062886-8bb5-4a6f-9ea7-26df6eceff7b",
+  "instruction": "Track the highest peak of the stock prices in one day.",
+  "input": "On October 27th, the stock price of Apple Inc. opened at $122.25 and closed at $113.00 with the highest daily peak of $126.00",
+  "output": "Highest peak of the stock price on October 27th: $126.00",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

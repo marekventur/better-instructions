@@ -1,0 +1,12 @@
+{
+  "id": "bf7f1d27-b878-40b4-b945-806a7031dfa6",
+  "instruction": "Determine the 4th special element given the following 4 elements.",
+  "input": "Iron, Nickel, Lead, Mercury",
+  "output": "Sulfur. Iron, Nickel, Lead, and Mercury make up the four basic components of gunpowder, while Sulfur is the fourth special element that reacts with the other components to cause an explosion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

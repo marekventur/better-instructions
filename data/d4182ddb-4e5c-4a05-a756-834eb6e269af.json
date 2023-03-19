@@ -1,0 +1,12 @@
+{
+  "id": "d4182ddb-4e5c-4a05-a756-834eb6e269af",
+  "instruction": "Arrange a list of numbers in order of least to greatest: 3,7,2,4,1",
+  "input": "",
+  "output": "1,2,3,4,7",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

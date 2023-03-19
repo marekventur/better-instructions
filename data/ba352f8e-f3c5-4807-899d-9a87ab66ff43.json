@@ -1,0 +1,12 @@
+{
+  "id": "ba352f8e-f3c5-4807-899d-9a87ab66ff43",
+  "instruction": "Given a news article and its categories, generate 2 questions that could be used to discuss the news article.",
+  "input": "News Article: Doha, Qatar (CNN) \u2014 On the eve of the 2022 World Cup in Qatar, FIFA President Gianni Infantino launched a tirade against Western critics of the controversial tournament in an explosive hour-long monologue.\n\nCategories: Sports, Politics, Soccer, World News",
+  "output": "1. What drove FIFA President Gianni Infantino's passionate defense of the 2022 World Cup in Qatar?\n2. How might the international community react to FIFA's stance on the controversial tournament?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

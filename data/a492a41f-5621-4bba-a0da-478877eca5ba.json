@@ -1,0 +1,12 @@
+{
+  "id": "a492a41f-5621-4bba-a0da-478877eca5ba",
+  "instruction": "Collect data from the following source and summarize them in a table.",
+  "input": "Source: https://www.unicef.org/world-childrens-day/world-childrens-day-statistics",
+  "output": "Statistic                              |Value\n--------------------------------------|----------\nNumber of children worldwide:         | 1.2 billion\nChildren living in poverty:           | 689 million\nOut-of-school children:               | 260 million\nUnsafe drinking water:                | 662 million\nLacking basic handwashing facilities: | 385 million\nMalnourished children:                | 151 million\nLacking healthcare coverage:          | 535 million\nChildren experiencing violence:       | 1 billion\nChild labor rate:                     | 152 million\nYear World Children's Day was founded | 1954",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

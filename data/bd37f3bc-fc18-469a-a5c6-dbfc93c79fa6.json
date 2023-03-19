@@ -1,0 +1,12 @@
+{
+  "id": "bd37f3bc-fc18-469a-a5c6-dbfc93c79fa6",
+  "instruction": "Delete the extra spaces in the following the sentence, output the clean sentence.",
+  "input": "The quick     brown     fox  jumps over  the   lazy   dog",
+  "output": "The quick brown fox jumps over the lazy dog",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

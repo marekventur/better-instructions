@@ -1,0 +1,12 @@
+{
+  "id": "9e6f7770-4614-4bc9-9585-7b1d4a62d8ac",
+  "instruction": "Explain polarity in sentiment analysis.",
+  "input": "",
+  "output": "Polarity in sentiment analysis is a measure of the sentiment expressed in a piece of text. It ranges from -1 (a very negative sentiment) to 1 (a very positive sentiment). Polarity is determined by analyzing the words and phrases in the text used to express sentiment. The sentiment expressed in the text can be positive, negative, or neutral. Sentiment analysis uses algorithms or other methods to quantify sentiment expressed in text in order to measure sentiment towards a product, brand, or topic.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

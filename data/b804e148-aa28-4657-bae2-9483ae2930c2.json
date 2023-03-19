@@ -1,0 +1,12 @@
+{
+  "id": "b804e148-aa28-4657-bae2-9483ae2930c2",
+  "instruction": "Explain the process of electron transport chain?",
+  "input": "",
+  "output": "The electron transport chain is a series of electron carriers located in the inner mitochondrial membrane. Electrons from NADH and FADH2 molecules are passed down the electron transport chain, allowing protons to be pumped from the matrix side of the membrane to the inter-membrane side. This creates a proton gradient, which is used to drive the generation of ATP, the energy currency of the cell.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

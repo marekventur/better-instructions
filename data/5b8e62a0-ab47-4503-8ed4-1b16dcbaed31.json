@@ -1,0 +1,12 @@
+{
+  "id": "5b8e62a0-ab47-4503-8ed4-1b16dcbaed31",
+  "instruction": "Construct a timeline of the events leading up to the American Revolution.",
+  "input": "\"<noinput>\"",
+  "output": "1763: The Treaty of Paris ends the French and Indian War and makes the British colonies responsible for their own defense.\n\n1765: The Stamp Act is passed, taxing the colonists for printed documents.\n\n1773: The Boston Tea Party protests a tax on tea imposed by the British.\n\n1775: The Battles of Lexington and Concord begin the American Revolutionary War.\n\n1776: The Declaration of Independence is issued, declaring the colonies independent from Britain.\n\n1777: The Continental army led by General George Washington defeats the British at the Battle of Saratoga.\n\n1778: The Treaty of Alliance is signed between the United States and France.\n\n1781: The Battle of Yorktown is won by the Continental army with assistance from the French.\n\n1783: The Treaty of Paris is signed, officially ending the American Revolutionary War.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

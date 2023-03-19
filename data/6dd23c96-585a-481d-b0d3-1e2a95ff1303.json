@@ -1,0 +1,12 @@
+{
+  "id": "6dd23c96-585a-481d-b0d3-1e2a95ff1303",
+  "instruction": "Give 3 tips on CSS Grid usage.",
+  "input": "",
+  "output": "1. Start by defining your grid with a container and rows, and set a few simple rows and columns. \n2. Use the grid auto-flow property to determine the number of rows and columns within a given container\n3. Use fractions for precise grid measurements and percentages for more out-of-the-box responsiveness.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

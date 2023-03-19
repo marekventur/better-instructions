@@ -1,0 +1,12 @@
+{
+  "id": "a99132fb-a91d-42ce-bbfe-00e1a0358a4c",
+  "instruction": "Compare the two given products and provide the advantages and disadvantages.",
+  "input": "Product A and Product B",
+  "output": "Product A has a larger capacity but has a slower operating speed, while Product B has a smaller capacity but a faster operating speed. Product A is suitable for large-scale operations and Product B is more suitable for small-scale operations.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9f73458b-3d0c-4065-8e3e-72e6576e1cdb",
+  "instruction": "Rewrite the following code snippet in Python.",
+  "input": "def sumArray(arr): \n    sum = 0\n    for i in range(0, len(arr)): \n        sum = sum + arr[i] \n    return sum",
+  "output": "def sumArray(arr): \n    total = 0\n    for num in arr: \n        total += num \n    return total",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

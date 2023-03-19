@@ -1,0 +1,12 @@
+{
+  "id": "57968918-1c32-4a76-a6b3-873182126a73",
+  "instruction": "Suggest three potential improvements to this website.",
+  "input": "https://www.ebu.org",
+  "output": "- Include a video tutorial on how to use the website and navigation.\n- Add a search box at the top of the homepage on the navigation bar for easy access to specific information.\n- Create a mobile version of the website for quicker and easier access.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

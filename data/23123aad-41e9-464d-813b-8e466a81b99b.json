@@ -1,0 +1,12 @@
+{
+  "id": "23123aad-41e9-464d-813b-8e466a81b99b",
+  "instruction": "Answer the questions and provide an explanation.",
+  "input": "What is an algorithm?",
+  "output": "An algorithm is a set of instructions and rules that are used to solve an issue, process data, and complete other computing tasks. It is composed of a sequence of steps that when followed accurately, produces a desired output or goal. Algorithms are used in computers, mathematics, and other fields of study to provide reliable and repeatable solutions to complex problems.  By effectively carrying out a set of steps, algorithms can help save time and make calculations much easier.  For example, a sorting algorithm can be used to sort a list of items from highest to lowest (or vice versa) quickly, instead of comparing each item to all the others and sorting one by one. \n\nIn computer science, algorithms can be thought of as the process of providing instructions to a computer to solve a given problem. Many computer science problems such as searching for an item in a list, sorting, or finding the shortest path between two points can be solved using algorithms.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

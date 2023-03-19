@@ -1,0 +1,12 @@
+{
+  "id": "dc1792cb-dff3-42d1-9955-ea9c3243930b",
+  "instruction": "Explain the differences between induction and deduction in philosophy.",
+  "input": "",
+  "output": "Induction and deduction are two distinct forms of reasoning used in philosophy. Deduction involves reasoning from a set of facts to a conclusion. It begins with premises that are assumed to be true and rules that logically connect these premises to a conclusion. Induction, on the other hand, is a form of reasoning from a single observation to a general rule. It involves arriving at a conclusion based on observed patterns and probabilities. Both induction and deduction can be used to make valid and reliable arguments, but each has its own strengths and weaknesses.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

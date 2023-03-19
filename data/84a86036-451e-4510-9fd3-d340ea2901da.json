@@ -1,0 +1,12 @@
+{
+  "id": "84a86036-451e-4510-9fd3-d340ea2901da",
+  "instruction": "Generate a list of ethical considerations when developing a chatbot.",
+  "input": "Noinput",
+  "output": "1. Respect the privacy of users and their data.\n2. Be transparent on the limitations of the chatbot.\n3. Acknowledge the right of users to opt out of the chatbot service.\n4. Handle user data with care and responsibility.\n5. Comply with existing terms of service, licensing and privacy laws.\n6. Develop with impartiality and equality of user experiences in mind.\n7. Prevent bias in designs and algorithms.\n8. Quarantine automatic recommendations and suggestions from a trusted source.\n9. Establish consistent standards for discussing sensitive topics.\n10. Avoid unfair discrimination against users.\n11. Ensure the safety of users using the service.\n12. Provide users with sufficient control over their data.\n13. Always seek user consent before any data collection.\n14. Refrain from sending automated messages on irrelevant topics.\n15. Avoid the temptation of using user data for marketing purposes.\n16. Design the user interface with accessibility in mind.\n17. Reassure users of the chatbot\u2019s security credentials.\n18. Allow users to delete their account and related data.\n19. Ensure consistent availability of the service or provide warning.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

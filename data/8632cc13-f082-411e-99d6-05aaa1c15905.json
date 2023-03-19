@@ -1,0 +1,12 @@
+{
+  "id": "8632cc13-f082-411e-99d6-05aaa1c15905",
+  "instruction": "Arrange the set of words in descending order of length.",
+  "input": "the, this, a, edit, here",
+  "output": "edit, here, the, this, a",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5a723cae-2e68-4919-9af8-e37f3a71fb1c",
+  "instruction": "Generate a dialogue that could take place between a waiter and a customer ordering food.",
+  "input": "",
+  "output": "Waiter: Good evening, what can I get you?\nCustomer: I'll have the steak, cooked medium-rare.\nWaiter: Any sides?\nCustomer: Yes, a side of mashed potatoes and a side salad.\nWaiter: Perfect, I'll have that out to you shortly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

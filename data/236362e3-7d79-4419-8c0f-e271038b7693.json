@@ -1,0 +1,12 @@
+{
+  "id": "236362e3-7d79-4419-8c0f-e271038b7693",
+  "instruction": "What is the maximum size of the input for language models?",
+  "input": "",
+  "output": "The maximum size of the input for language models is usually limited to a few thousand tokens or around 100 thousand characters. Beyond that limit, the model will start to suffer from an excessive memory and computational burden. This can lead to poorer performance with longer inputs. Generally, smaller inputs will give better results. Ideally, the input should not exceed 500 tokens or 20,000 characters.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

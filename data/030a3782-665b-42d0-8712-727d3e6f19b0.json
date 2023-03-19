@@ -1,0 +1,12 @@
+{
+  "id": "030a3782-665b-42d0-8712-727d3e6f19b0",
+  "instruction": "Explain how the technology in the input works.",
+  "input": "Augmented Reality",
+  "output": "Augmented reality (AR) is a technology that superimposes digital content on the physical environment. Using cameras, sensors, and advanced image recognition algorithms, AR is able to detect and track objects in the user\u2019s environment and display images or videos above, below, beside and/or in place of the object. This allows users to interact with digital content in 3D space and experience a more immersive experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

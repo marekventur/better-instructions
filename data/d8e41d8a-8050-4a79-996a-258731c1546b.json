@@ -1,0 +1,12 @@
+{
+  "id": "d8e41d8a-8050-4a79-996a-258731c1546b",
+  "instruction": "Edit the following sentence based on the provided criterion.",
+  "input": "\u201cMarc is fascinating to talk\u201d\nCriterion: Replace \u201cfascinating\u201d with a synonym that has the same meaning.",
+  "output": "\u201cMarc is engrossing to talk\u201d.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

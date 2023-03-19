@@ -1,0 +1,12 @@
+{
+  "id": "bc7c3ada-30f3-48ed-b63e-afe557eec49b",
+  "instruction": "Change this sentence grammatically",
+  "input": "She did not took the test.",
+  "output": "She did not take the test.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

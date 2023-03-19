@@ -1,0 +1,12 @@
+{
+  "id": "77790cc0-fd30-4f11-b821-0c4fb4c3ab05",
+  "instruction": "Generate a sentence using the following words in the correct order.",
+  "input": "house on fire",
+  "output": "The house was on fire.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d90218bd-999e-4505-aead-bf1b5e35765a",
+  "instruction": "Find the logical fallacy in the statement.",
+  "input": "If your neighbor has a gun, then it's inevitable that you will be robbed.",
+  "output": "False Cause; the statement implies that the gun owning neighbor is the cause of the potential robbery, when in fact the robber may be from somewhere else.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

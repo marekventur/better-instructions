@@ -1,0 +1,12 @@
+{
+  "id": "8e55a420-40cc-4b6c-b522-2d3acead5f7a",
+  "instruction": "Classify the following text into one of the emotions",
+  "input": "She had been feeling so alone",
+  "output": "Sadness.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

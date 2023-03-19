@@ -1,0 +1,12 @@
+{
+  "id": "2e96639e-28e7-4f10-87ad-c3b68adfd3ea",
+  "instruction": "Generate 3 unique flight routes, with least 2 possible airports for each one.",
+  "input": "",
+  "output": "1. Los Angeles to New York, with stops in Chicago and Las Vegas. \n2. San Francisco to Tokyo, with stops in Vancouver and Shanghai.\n3. London to Cape Town, with stops in Madrid and Nairobi.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2023f86b-a70f-4c69-b3d2-abfc4692abf0",
+  "instruction": "Given the two sentences, change one to make it fit the grammar rules of the other.",
+  "input": "I am going. He goes.",
+  "output": "I am going. He is going.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

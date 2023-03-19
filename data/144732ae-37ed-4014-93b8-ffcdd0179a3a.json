@@ -1,0 +1,12 @@
+{
+  "id": "144732ae-37ed-4014-93b8-ffcdd0179a3a",
+  "instruction": "Predict what will happen in the next paragraph of the given text.",
+  "input": "The cat had been sleeping in the sun for hours when it suddenly woke up and began to dash around the garden.",
+  "output": "The cat will start to explore the garden in search of something interesting. It may try to catch a bug or a bird, or it may just be curious to explore its surroundings.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

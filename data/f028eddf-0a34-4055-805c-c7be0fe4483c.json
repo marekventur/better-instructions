@@ -1,0 +1,12 @@
+{
+  "id": "f028eddf-0a34-4055-805c-c7be0fe4483c",
+  "instruction": "Explain the difference between generative and discriminative models.",
+  "input": "",
+  "output": "Generative models are used to generate data from a sample, while discriminative models are used to classify and differentiate data sets. Generative models are trained to learn the underlying probability distributions of the data, while discriminative models learn the boundary of the data. Generative models require more data to learn and can estimate unknown classes, while discriminative models require less training data and can only classify known classes. Additionally, generative models are better at handling noisy data and unseen classes, while discriminative models are faster and more accurate at classifying data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

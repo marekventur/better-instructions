@@ -1,0 +1,12 @@
+{
+  "id": "fcdc0db8-1b3b-4152-9fa5-9015c5dfa966",
+  "instruction": "Reverse engineer this sentence to make it negative",
+  "input": "The project was completed successfully",
+  "output": "The project was not completed successfully.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

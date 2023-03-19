@@ -1,0 +1,12 @@
+{
+  "id": "ce2e860f-718e-475f-8308-4082e4a80eae",
+  "instruction": "Detect any cyberbullying in the following conversation.",
+  "input": "Friend 1: You are so dumb, why do you even bother trying?\nFriend 2: That's not nice",
+  "output": "Cyberbullying Detected",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

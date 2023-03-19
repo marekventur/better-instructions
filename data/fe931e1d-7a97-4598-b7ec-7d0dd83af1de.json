@@ -1,0 +1,12 @@
+{
+  "id": "fe931e1d-7a97-4598-b7ec-7d0dd83af1de",
+  "instruction": "Design a web page to display the current weather.",
+  "input": "",
+  "output": "A responsive webpage with a clear heading that includes a map showing the user's current location, along with a section listing the current temperature, wind speed, and humidity. There should also be a link to a detailed forecast that displays an hourly and daily forecast, along with links to the current weather in other cities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

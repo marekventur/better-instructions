@@ -1,0 +1,12 @@
+{
+  "id": "599bd401-ed09-46f4-ad6e-95d4e99732b4",
+  "instruction": "Write a thank you note to a customer for their order.",
+  "input": "Order: One dozen cupcakes",
+  "output": "Dear [Customer Name], \nThank you for your recent order of one dozen cupcakes from our bakery. We hope you enjoyed them as much as we enjoyed making them for you! \n\nWe look forward to seeing you in our bakery again soon.\n\nSincerely,\n[Bakery Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

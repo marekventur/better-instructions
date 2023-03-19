@@ -1,0 +1,12 @@
+{
+  "id": "cf281155-85b2-4042-828e-52ca90ba71f6",
+  "instruction": "Make a text-based decision tree for the given scenario.",
+  "input": "Deciding whether to go for a jog or watch a movie.",
+  "output": "Do you want to watch a movie? \n\nYes: Grab some snacks and watch a movie \nNo: Do you prefer to go for a jog outdoors or do a home workout? \n    Outdoors: put on your running shoes and go for a jog \n    Home workout: pick out which workout video you want to do and get going",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

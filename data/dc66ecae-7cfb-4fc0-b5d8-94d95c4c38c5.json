@@ -1,0 +1,12 @@
+{
+  "id": "dc66ecae-7cfb-4fc0-b5d8-94d95c4c38c5",
+  "instruction": "Write a web crawler in Python.",
+  "input": "",
+  "output": "import urllib.request\nimport re\n\ndef crawl_web(url):\n    page = urllib.request.urlopen(url)\n    html_code = page.read()\n    links = re.findall(r'<a href=\"(.*?)\">', str(html_code))\n    return links\n\nprint(crawl_web(\"https://www.example.com\"))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

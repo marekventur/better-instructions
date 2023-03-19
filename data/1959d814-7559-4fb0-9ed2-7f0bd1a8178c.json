@@ -1,0 +1,12 @@
+{
+  "id": "1959d814-7559-4fb0-9ed2-7f0bd1a8178c",
+  "instruction": "Create a set of instructions to teach a robot how to assemble a lego structure.",
+  "input": "",
+  "output": "Instructions to Assemble a Lego Structure: \n1. Gather all the pieces you will need for the Lego structure. \n2. Lay out all the pieces in the order they will be put together. \n3. Start with the largest piece and connect it with the second largest piece. \n4. Connect the bordering pieces of the same size. \n5. Continue connecting the pieces, working from the largest to the smallest. \n6. Once you have connected all the pieces together, ensure that the structure is stable and does not have any loose pieces. \n7. Add additional pieces as necessary to complete the structure. \n8. Stand back to admire your work.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

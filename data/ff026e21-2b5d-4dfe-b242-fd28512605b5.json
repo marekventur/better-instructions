@@ -1,0 +1,12 @@
+{
+  "id": "ff026e21-2b5d-4dfe-b242-fd28512605b5",
+  "instruction": "Generate a correct SQL query to retrieve all the data from a column called \u201cmessages\u201d in a table called \u201cchats\u201d",
+  "input": "",
+  "output": "SELECT * FROM chats WHERE messages;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

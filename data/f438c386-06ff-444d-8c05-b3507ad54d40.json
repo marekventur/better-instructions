@@ -1,0 +1,12 @@
+{
+  "id": "f438c386-06ff-444d-8c05-b3507ad54d40",
+  "instruction": "Sort the following items into two categories.",
+  "input": "pencil, apple, phone",
+  "output": "Category 1: Pencil, Apple \nCategory 2: Phone",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

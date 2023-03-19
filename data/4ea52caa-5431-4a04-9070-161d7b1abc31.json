@@ -1,0 +1,12 @@
+{
+  "id": "4ea52caa-5431-4a04-9070-161d7b1abc31",
+  "instruction": "Construct a regular expression to match any string starting with the letter 'b'.",
+  "input": "",
+  "output": "The regular expression to match any string starting with the letter 'b' is \"^b.*\". This expression uses the '^' symbol to indicate that the string must start with the letter 'b', and the '.*' symbol to indicate that any character can follow the 'b'.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

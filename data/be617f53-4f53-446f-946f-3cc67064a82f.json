@@ -1,0 +1,12 @@
+{
+  "id": "be617f53-4f53-446f-946f-3cc67064a82f",
+  "instruction": "Rewrite the sentence to reflect the opposite opinion.",
+  "input": "\"Person 1 believes that online shopping is great.\"",
+  "output": "Person 1 believes that online shopping is not great.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

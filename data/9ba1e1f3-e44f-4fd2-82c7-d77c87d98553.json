@@ -1,0 +1,12 @@
+{
+  "id": "9ba1e1f3-e44f-4fd2-82c7-d77c87d98553",
+  "instruction": "Classify the following items into natural and man-made.",
+  "input": "Rivers, skylines",
+  "output": "Rivers are natural, and skylines are man-made.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

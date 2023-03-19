@@ -1,0 +1,12 @@
+{
+  "id": "9ec25f26-c1fc-4ba2-a0ef-7be00dd82340",
+  "instruction": "Describe the steps involved in the facial recognition process.",
+  "input": "",
+  "output": "The facial recognition process generally involves the following steps: preprocessing of the facial images, feature extraction, and classification. In the preprocessing step, images of faces are adjusted to minimize lighting differences, orientations, and scales, as well as remove any obscuring objects. In the feature extraction step, a particular set of facial measurements, called \u2018features\u2019, are derived from the facial images. These features are then used to generate a \u2018face template\u2019 or \u2018facial signatures\u2019 that remain consistent regardless of the environmental conditions or physical changes such as glasses or hairstyle. The classification step involves matching this face template to other facial templates stored in a database to identify the person in the image.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

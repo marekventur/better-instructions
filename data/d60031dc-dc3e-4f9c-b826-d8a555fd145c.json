@@ -1,0 +1,12 @@
+{
+  "id": "d60031dc-dc3e-4f9c-b826-d8a555fd145c",
+  "instruction": "Select the most suitable idiomatic expression from the alternatives and output it.",
+  "input": "Alternative:\nA. Take a backseat\nB. Take a seat\nC. Take a backrest",
+  "output": "A. Take a backseat",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

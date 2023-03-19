@@ -1,0 +1,12 @@
+{
+  "id": "bd41d9ec-37a6-4ce3-a2b5-31a9fed05632",
+  "instruction": "Rewrite the statement as an indirect question.",
+  "input": "He asked me if I wanted to join him for lunch.",
+  "output": "He asked me whether I wanted to join him for lunch.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

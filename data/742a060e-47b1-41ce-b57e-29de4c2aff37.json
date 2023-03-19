@@ -1,0 +1,12 @@
+{
+  "id": "742a060e-47b1-41ce-b57e-29de4c2aff37",
+  "instruction": "Create an algorithm to detect fraud in an online transaction.",
+  "input": "",
+  "output": "The algorithm should be designed to detect fraud in an online transaction by analyzing various factors such as the user's past purchasing behavior, amount of the transaction, transaction time, and the type of product being purchased. It should also consider data from other customers who have made similar purchases, transaction patterns, and other potentially suspicious activities. The algorithm should be designed to generate a score for each transaction and alert authorities when the score exceeds a certain threshold. In addition, the algorithm should be designed to track and save the transactions data for further analysis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

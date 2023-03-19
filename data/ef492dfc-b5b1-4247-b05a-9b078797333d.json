@@ -1,0 +1,12 @@
+{
+  "id": "ef492dfc-b5b1-4247-b05a-9b078797333d",
+  "instruction": "Given the following words, make a sentence using them in the same order.",
+  "input": "fun, birthday, friend's",
+  "output": "I had so much fun at my friend's birthday.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

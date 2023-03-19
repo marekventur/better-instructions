@@ -1,0 +1,12 @@
+{
+  "id": "6edc1f08-d561-4319-997c-e2dc020db09c",
+  "instruction": "Research the differences between an object-oriented programming language and a procedural programming language.",
+  "input": "",
+  "output": "Object-oriented programming languages are focused on creating reusable objects that can be manipulated to design applications. In these languages, applications are written as collections of individual objects that are designed separately, and can then be combined to form a cohesive program. On the other hand, procedural programming languages are focused on breaking tasks into individual procedures or routines that can be used to perform specific actions. In these languages, programs are written as sequences of tasks that are designed to achieve a certain outcome.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

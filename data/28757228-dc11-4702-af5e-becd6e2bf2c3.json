@@ -1,0 +1,12 @@
+{
+  "id": "28757228-dc11-4702-af5e-becd6e2bf2c3",
+  "instruction": "Explain why atmospheric pressure decreases as altitude increases.",
+  "input": "",
+  "output": "As altitude increases, the air density decreases since there are fewer air molecules to occupy the same amount of space. This means that the atmospheric pressure decreases with altitude, since the force of the molecules per unit area is smaller at higher altitudes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "39e5b0cc-8878-44fe-8731-1aa4b095d0b4",
+  "instruction": "Given a sentence, remove the redundant words.",
+  "input": "I want to want to buy a car.",
+  "output": "I want to buy a car.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

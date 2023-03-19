@@ -1,0 +1,12 @@
+{
+  "id": "dcc85dd4-4a07-4519-b3a3-4f6a338ec12a",
+  "instruction": "Categorize this plant-based burger as 'animal product' or 'vegetable product'.",
+  "input": "Plant-based burger",
+  "output": "Vegetable product",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

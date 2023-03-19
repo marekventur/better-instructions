@@ -1,0 +1,12 @@
+{
+  "id": "ed5d0476-cfcb-427e-b116-5615ccd74fa9",
+  "instruction": "Are the following words in the given language? Output \"correct\" or \"incorrect\".",
+  "input": "Lingala\nThola",
+  "output": "correct",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

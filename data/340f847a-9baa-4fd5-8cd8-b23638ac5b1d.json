@@ -1,0 +1,12 @@
+{
+  "id": "340f847a-9baa-4fd5-8cd8-b23638ac5b1d",
+  "instruction": "Modify the given sentence so it reads more smoothly.",
+  "input": "He works very hard everyday.",
+  "output": "He works hard every day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

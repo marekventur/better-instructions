@@ -1,0 +1,12 @@
+{
+  "id": "c1805016-02b5-4c9d-ba7e-70676faebac8",
+  "instruction": "Process an employee's request to work from home once a week.",
+  "input": "Employee request: As a working parent, I would like to be able to work from home one day a week to better manage my schedule and spend more quality time with my children.",
+  "output": "Thank you for your request to work from home one day a week. After carefully considering the request, we are willing to offer a trial period of you working from home one day each week for the next three months. If during this trial period, your performance meets our expectations and you are able to effectively manage your home and work commitments, we will explore the possibility of making this arrangement permanent. Please contact our HR team to discuss the details.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

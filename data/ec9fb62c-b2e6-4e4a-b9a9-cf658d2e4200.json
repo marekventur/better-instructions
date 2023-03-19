@@ -1,0 +1,12 @@
+{
+  "id": "ec9fb62c-b2e6-4e4a-b9a9-cf658d2e4200",
+  "instruction": "Given a sentence, append a sentence to make it humorous",
+  "input": "I ate my dinner",
+  "output": "I ate my dinner, but it wasn't the best decision I've ever made.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

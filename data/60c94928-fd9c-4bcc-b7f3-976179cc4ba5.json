@@ -1,0 +1,12 @@
+{
+  "id": "60c94928-fd9c-4bcc-b7f3-976179cc4ba5",
+  "instruction": "Given a chemical formula, determine what the average mass per atom is.",
+  "input": "C2H2",
+  "output": "13.018 atomic mass units/atom",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

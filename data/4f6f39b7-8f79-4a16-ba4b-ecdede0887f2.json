@@ -1,0 +1,12 @@
+{
+  "id": "4f6f39b7-8f79-4a16-ba4b-ecdede0887f2",
+  "instruction": "In the following paragraph identify the main subject and two subordinate subjects.",
+  "input": "Albert Einstein\u2019s contributions to science were enormous, and he changed the way people think about the universe and about themselves.",
+  "output": "Main Subject: Albert Einstein's Contributions\nSubordinate Subjects: Science, Universe and People.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e19e71c0-3dd8-44f7-a685-4b9425725b93",
+  "instruction": "Transform this sentence from the passive voice to the active voice.",
+  "input": "The error was discovered by the manager.",
+  "output": "The manager discovered the error.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

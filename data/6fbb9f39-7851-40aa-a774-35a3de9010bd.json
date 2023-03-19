@@ -1,0 +1,12 @@
+{
+  "id": "6fbb9f39-7851-40aa-a774-35a3de9010bd",
+  "instruction": "Determine the correct sequence of the words.",
+  "input": "accidentally, liked, thought, she",
+  "output": "She thought she liked accidentally.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

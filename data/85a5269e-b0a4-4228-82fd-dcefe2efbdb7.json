@@ -1,0 +1,12 @@
+{
+  "id": "85a5269e-b0a4-4228-82fd-dcefe2efbdb7",
+  "instruction": "Given a text, remove all punctuation marks.",
+  "input": "The quick brown fox jumps over the lazy dog.",
+  "output": "The quick brown fox jumps over the lazy dog",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

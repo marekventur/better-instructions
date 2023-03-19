@@ -1,0 +1,12 @@
+{
+  "id": "14ca9f56-0b53-42f6-9009-8b8349e9c269",
+  "instruction": "Identify a feature of a product and generate an explanation of why the feature should be included in the product.",
+  "input": "USB charger",
+  "output": "The USB charger is a must-have accessory for any modern device. It allows you to stay connected to your device while on the move, making sure that you don't need to worry about running out of battery when you're away from your charging station. Plus, the USB charger can increase the speed of charging and is compatible with any device with an USB port. That makes it an essential addition to any device that needs to stay connected.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "029d2c8a-d212-4e25-aa7d-879ae41ad953",
+  "instruction": "Rewrite the given piece text in the style of a children's story.",
+  "input": "John went on a safari and saw a giraffe.",
+  "output": "John was on a magical adventure to the African Savannah. As he drove through the jungle, he saw a tall tree with a long neck poking out from between the leaves. It was a giraffe! He watched as it ate the leaves and looked around in awe. He was so excited that he wanted to stay and watch it forever.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

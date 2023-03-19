@@ -1,0 +1,12 @@
+{
+  "id": "841344c9-c344-4495-8524-986dcf22e9e9",
+  "instruction": "Generate a statistic about the following data.",
+  "input": "Wind speed in the US:\nhighest average wind speed: 31 mph (Texas)\nlowest average wind speed: 8 mph (Maine)",
+  "output": "The difference in average wind speed between the highest and lowest states is 23 mph.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

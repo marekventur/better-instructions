@@ -1,0 +1,12 @@
+{
+  "id": "466d07b9-8d8f-467f-8c94-43055622caa1",
+  "instruction": "Rewrite the sentence replacing the incorrect phrase and forming a meaningful sentence.",
+  "input": "She missing school during the weekdays.",
+  "output": "She misses school during the weekdays.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

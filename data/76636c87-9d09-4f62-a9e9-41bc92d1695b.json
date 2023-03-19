@@ -1,0 +1,12 @@
+{
+  "id": "76636c87-9d09-4f62-a9e9-41bc92d1695b",
+  "instruction": "Design an automated chatbot to help customers with product related queries",
+  "input": "",
+  "output": "The chatbot would be designed to understand customers' questions and provide answers based on their queries. It will use natural language processing (NLP) and machine learning (ML) algorithms to process inputs, understand contextual cues, and generate meaningful responses. It will be trained on a wide range of customer service questions and follow a decision tree based logic to answer the most common questions. It will also be able to provide product-specific information and direct customers to the relevant part of the website. Additionally, it will have access to customer data such as purchase history and preferences, allowing it to provide personalized responses. The chatbot will be able to converse in multiple languages and have the ability to escalate to a human customer support agent if needed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

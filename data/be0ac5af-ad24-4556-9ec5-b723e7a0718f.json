@@ -1,0 +1,12 @@
+{
+  "id": "be0ac5af-ad24-4556-9ec5-b723e7a0718f",
+  "instruction": "Find and remove faulty emails from the given group of email addresses.\nOutput the emails that are clean directly.",
+  "input": "a@d.co\nb@d.co\nc@x.co\nd@x.co\n1@d.co\n.@d.co\n@.co\nf@w.co,",
+  "output": "a@d.co\nb@d.co\nc@x.co\nd@x.co\nf@w.co",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

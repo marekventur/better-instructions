@@ -1,0 +1,12 @@
+{
+  "id": "61a48211-7bc4-4216-96e1-9409c6da9835",
+  "instruction": "Generate a phone script for customer service.",
+  "input": "No Input",
+  "output": "Hello, thank you for calling [Business Name] customer service. How can I help you today? [Wait for the customer\u2019s response.] Is there anything else I can do for you? [Wait for the customer\u2019s response.] Great, it was a pleasure helping you with your inquiry today. Have an excellent day!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

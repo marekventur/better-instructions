@@ -1,0 +1,12 @@
+{
+  "id": "380c7c81-6146-45e4-b179-5e243c569001",
+  "instruction": "Come up with a new product to solve the given need.",
+  "input": "A device to alert drivers of nearby gas stations when their vehicles are low on fuel.",
+  "output": "An automated fuel monitor device that fits inside vehicles and detects when the vehicle is running low on fuel. The device would then alert the driver to the closest gas station with directions and fuel prices.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

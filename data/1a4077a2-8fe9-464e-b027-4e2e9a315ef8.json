@@ -1,0 +1,12 @@
+{
+  "id": "1a4077a2-8fe9-464e-b027-4e2e9a315ef8",
+  "instruction": "Generate a 1-sentence summary on the following news article.",
+  "input": "The Tokyo Olympic Games will be postponed to 2021 due to the worldwide outbreak of Covid-19.",
+  "output": "The Tokyo Olympic Games have been postponed to 2021 due to the impact of the Covid-19 pandemic.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

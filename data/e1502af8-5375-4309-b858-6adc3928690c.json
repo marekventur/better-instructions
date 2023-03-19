@@ -1,0 +1,12 @@
+{
+  "id": "e1502af8-5375-4309-b858-6adc3928690c",
+  "instruction": "Compare two serial numbers and classify them as identical or non-identical.",
+  "input": "Serial Number 1: 1234ABCDE\nSerial Number 2: 1234ABCD6",
+  "output": "Non-identical",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

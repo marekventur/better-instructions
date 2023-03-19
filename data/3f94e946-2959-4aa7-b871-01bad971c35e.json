@@ -1,0 +1,12 @@
+{
+  "id": "3f94e946-2959-4aa7-b871-01bad971c35e",
+  "instruction": "Provide a warning based on the following pathology report.",
+  "input": "Pathology Report: The patient has been diagnosed with coronary artery disease.",
+  "output": "It is important to take all necessary precautions to reduce the risk of further complications from coronary artery disease, such as exercising regularly, eating a balanced diet, managing stress, and getting regular checkups.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

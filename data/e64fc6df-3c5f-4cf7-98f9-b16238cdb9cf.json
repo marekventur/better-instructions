@@ -1,0 +1,12 @@
+{
+  "id": "e64fc6df-3c5f-4cf7-98f9-b16238cdb9cf",
+  "instruction": "Pretend you are a customer who wants to purchase an item from a website. Describe the online checkout process.",
+  "input": "A laptop from Amazon",
+  "output": "When purchasing a laptop from Amazon, you can complete the checkout process easily and securely. First, review the item and the checkout details on the product page. Next, add the item to your shopping basket and click the \u2018Proceed to Checkout\u2019 button. You\u2019ll be asked to login to your Amazon account if you\u2019re not already signed in. After reviewing your order information, you\u2019ll be prompted to select your desired payment method. If you don\u2019t have a payment method, you\u2019ll be able to enter your credit card information. Finally, get ready to hit that \u2018Place order\u2019 button and receive your new laptop soon!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

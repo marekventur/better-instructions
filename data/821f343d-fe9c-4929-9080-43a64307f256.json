@@ -1,0 +1,12 @@
+{
+  "id": "821f343d-fe9c-4929-9080-43a64307f256",
+  "instruction": "Classify the following tweet topic",
+  "input": "\"I'm so excited to visit my family in India!\"",
+  "output": "Family",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dbcd3ecf-3abb-4a44-a148-57809662057c",
+  "instruction": "Rearrange a sentence to indicate the most effective order for its content.",
+  "input": "The store was closed because of the storm.",
+  "output": "Because of the storm, the store was closed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

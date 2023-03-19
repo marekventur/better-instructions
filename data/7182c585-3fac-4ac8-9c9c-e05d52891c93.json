@@ -1,0 +1,12 @@
+{
+  "id": "7182c585-3fac-4ac8-9c9c-e05d52891c93",
+  "instruction": "Identify the target audience for the following advertisement.",
+  "input": "An advertisement for a luxury car",
+  "output": "The target audience for the advertisement is people who have a high disposable income and who want to make a statement with their purchase.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

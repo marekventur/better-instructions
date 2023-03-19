@@ -1,0 +1,12 @@
+{
+  "id": "5fda61b0-ca01-4ab0-a468-ee6ba8d07bf0",
+  "instruction": "Convert this sentence into the reported speech",
+  "input": "She said, \" I am going home\"",
+  "output": "She said that she was going home.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

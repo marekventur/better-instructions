@@ -1,0 +1,12 @@
+{
+  "id": "5c9b2b9d-a472-433a-a77c-4aeff051191a",
+  "instruction": "Generate a set of instructions and input to classify online reviews as positive or negative.",
+  "input": "",
+  "output": "Instructions: \nClassify the following online review as either positive or negative. \n\nInput:\nI had a terrible experience buying a laptop from this store. The salesperson was not knowledgeable, unhelpful, and didn't seem to care about providing good service. \n\nOutput:\nNegative.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

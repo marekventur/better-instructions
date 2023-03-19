@@ -1,0 +1,12 @@
+{
+  "id": "5cc61b04-51fd-40f9-9502-b0c73ec98f47",
+  "instruction": "Add a third speaker to the dialogue.",
+  "input": "Speaker A: I had a great time last night at the party.\nSpeaker B: Yeah, me too.",
+  "output": "Speaker A: I had a great time last night at the party.\nSpeaker B: Yeah, me too.\nSpeaker C: It was a blast! I'm already looking forward to the next one.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

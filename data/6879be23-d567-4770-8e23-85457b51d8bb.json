@@ -1,0 +1,12 @@
+{
+  "id": "6879be23-d567-4770-8e23-85457b51d8bb",
+  "instruction": "Generate a weekly meal plan.",
+  "input": "Person is vegetarian and has allergies to dairy and eggs",
+  "output": "Meal plan for the week: \nMonday: Vegetarian Quinoa Chili \nTuesday: Roasted Broccoli Burritos \nWednesday: Vegetable Couscous Primavera \nThursday:Veggie Stuffed Portobello Mushrooms \nFriday: Lentil Tikka Masala \nSaturday: Pasta Primavera \nSunday: Vegetable and Bean Enchiladas",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

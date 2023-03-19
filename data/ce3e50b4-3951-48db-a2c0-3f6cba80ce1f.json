@@ -1,0 +1,12 @@
+{
+  "id": "ce3e50b4-3951-48db-a2c0-3f6cba80ce1f",
+  "instruction": "Given 4 words \"apartment\", \"building\", \"store\", \"clean\", rank them according to the most important to the least important",
+  "input": "",
+  "output": "Building, Apartment, Store, Clean. Building is the most important because it is the foundation that all other components rely on, followed by Apartment, Store, and Clean. Clean is the least important.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

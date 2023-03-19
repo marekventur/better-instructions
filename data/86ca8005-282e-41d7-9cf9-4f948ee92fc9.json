@@ -1,0 +1,12 @@
+{
+  "id": "86ca8005-282e-41d7-9cf9-4f948ee92fc9",
+  "instruction": "Find sentences similar in sentiment to the given sentence.",
+  "input": "I hate to be late for an appointment.",
+  "output": "I can't stand being tardy for an event. \nI despise being late for a meeting. \nI loathe being behind time for a gathering. \nI detest arriving late for a date.  \nI\u2019m uncomfortable being past the due time for a rendezvous.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cff96e81-b9ce-4848-9b0d-324d96fd4fb3",
+  "instruction": "Describe what a 404 error message is and how to fix it.",
+  "input": "",
+  "output": "A 404 error message is an HTTP status code indicating that the requested web page could not be found. This means that the URL of the page being requested is either incorrect or that the page has been removed or moved to a different location. To fix a 404 error message, one needs to check the URL for any typos or mistakes, and if there are none, then the page must be moved or removed from its current location. Additionally, the website owner must modify their server to point the requested page to the correct location or disable the page if it is no longer required.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

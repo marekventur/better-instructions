@@ -1,0 +1,12 @@
+{
+  "id": "7b86c48b-9a2c-4229-b8ae-843469205106",
+  "instruction": "Given some raw text data, detect what language the text is written in.",
+  "input": "Adem\u00e1s, los peri\u00f3dicos del sur de Arabia Saudita se han hecho eco de la decisi\u00f3n.",
+  "output": "Spanish.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

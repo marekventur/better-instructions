@@ -1,0 +1,12 @@
+{
+  "id": "f05d6b8c-3253-4572-827d-cbd280020e63",
+  "instruction": "Fetch data related to the given query from an online source.",
+  "input": "The population of India in 2020",
+  "output": "According to the World Population Review, India had a population of 1.37 billion people in 20",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

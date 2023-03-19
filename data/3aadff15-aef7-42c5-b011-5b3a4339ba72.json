@@ -1,0 +1,12 @@
+{
+  "id": "3aadff15-aef7-42c5-b011-5b3a4339ba72",
+  "instruction": "Describe a moral problem related to AI.",
+  "input": "",
+  "output": "One moral problem related to AI is the potential for AI systems to be biased against certain demographics. AI systems often rely on training data that is not representative of real-world demographics, which can lead to poor outcomes when applied to a more diverse population. This can lead to ethical issues related to fairness, accuracy, privacy, and safety, as well as social concerns such as inequality and discrimination.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

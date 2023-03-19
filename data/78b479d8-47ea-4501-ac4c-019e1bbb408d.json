@@ -1,0 +1,12 @@
+{
+  "id": "78b479d8-47ea-4501-ac4c-019e1bbb408d",
+  "instruction": "Look up the facts about a famous historical figure and summarize it.",
+  "input": "Winston Churchill.",
+  "output": "Sir Winston Leonard Spencer-Churchill was a statesman, military leader, and Prime Minister of the United Kingdom from 1940-1945 and from 1951-1955. He was one of the leading figures of the Allied forces of World War II and received the Nobel Prize in Literature in 1953 \u201cfor his mastery of historical and biographical description.\u201d Churchill led many reforms in poverty relief, economic and social policies, and military strategy, and is widely regarded for his role in helping to defeat the Nazis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

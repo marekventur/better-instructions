@@ -1,0 +1,12 @@
+{
+  "id": "7806b23f-303c-43ea-b8fc-4bf40ea9c4fe",
+  "instruction": "Write a function for shuffling a deck of cards",
+  "input": "",
+  "output": "def shuffle_deck(deck):\n\u00a0\u00a0\u00a0\u00a0shuffled_deck = []\n\u00a0\n\u00a0\u00a0\u00a0\u00a0while len(deck) > 0:\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0index = random.randint(0, len(deck) - 1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0shuffled_deck.append(deck.pop(index))\n\u00a0\n\u00a0\u00a0\u00a0\u00a0return shuffled_deck",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

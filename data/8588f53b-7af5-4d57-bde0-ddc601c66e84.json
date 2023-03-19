@@ -1,0 +1,12 @@
+{
+  "id": "8588f53b-7af5-4d57-bde0-ddc601c66e84",
+  "instruction": "Given the words, generate a proverb",
+  "input": "Success, determination",
+  "output": "Success comes from determination.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

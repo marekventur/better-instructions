@@ -1,0 +1,12 @@
+{
+  "id": "40b9ea0c-1c63-4cad-b23d-953c8d570aa6",
+  "instruction": "List 5 adjectives that describe the mood of the given text.",
+  "input": "The night was long and dark.",
+  "output": "Lonely, eery, oppressive, dreary, forlorn.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

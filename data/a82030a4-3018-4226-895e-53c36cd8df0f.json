@@ -1,0 +1,12 @@
+{
+  "id": "a82030a4-3018-4226-895e-53c36cd8df0f",
+  "instruction": "Generate a code snippet for sorting an array in ascending order.",
+  "input": "",
+  "output": "The following code snippet sorts an array in ascending order:\n\narr.sort(function(a, b) {\n  return a - b;\n});",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

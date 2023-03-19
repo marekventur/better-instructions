@@ -1,0 +1,12 @@
+{
+  "id": "4bd2f492-5779-4ff2-a5e9-bc022ee5b46a",
+  "instruction": "Find the word that the given word is an antonym of.",
+  "input": "The word is \"continue\"",
+  "output": "The antonym of \"continue\" is \"stop\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

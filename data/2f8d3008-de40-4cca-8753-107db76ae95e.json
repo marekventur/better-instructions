@@ -1,0 +1,12 @@
+{
+  "id": "2f8d3008-de40-4cca-8753-107db76ae95e",
+  "instruction": "Change the sentence to future tense.",
+  "input": "The cat drank the water.",
+  "output": "The cat will drink the water.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

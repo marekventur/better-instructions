@@ -1,0 +1,12 @@
+{
+  "id": "eef51351-fa3f-477f-903b-2c6d92ba0cde",
+  "instruction": "Given a political party, name one policy associated with it.",
+  "input": "Republican",
+  "output": "Lower taxes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

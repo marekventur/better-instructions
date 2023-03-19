@@ -1,0 +1,12 @@
+{
+  "id": "c0005e7c-f4e2-4efc-b904-200d1a3147b5",
+  "instruction": "What does a DNS server do?",
+  "input": "",
+  "output": "A Domain Name System (DNS) server is responsible for maintaining a directory of domain names and their associated one or more IP addresses, which helps people and computers locate one another online. A DNS server translates domain names into IP addresses, allowing people to connect to websites and other resources online.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

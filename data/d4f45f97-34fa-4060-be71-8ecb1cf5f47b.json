@@ -1,0 +1,12 @@
+{
+  "id": "d4f45f97-34fa-4060-be71-8ecb1cf5f47b",
+  "instruction": "Calculate the area of the rectangle with the given length and width.",
+  "input": "3 cm and 4 cm",
+  "output": "The area of the rectangle is 12 cm2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

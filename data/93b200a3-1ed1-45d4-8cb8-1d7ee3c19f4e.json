@@ -1,0 +1,12 @@
+{
+  "id": "93b200a3-1ed1-45d4-8cb8-1d7ee3c19f4e",
+  "instruction": "Explain what a logical syllogism is.",
+  "input": "",
+  "output": "A logical syllogism is a three-part argument used in logic to arrive at a conclusion. It consists of two premises and one conclusion. The first premise states a universal truth, the second premise narrows that truth and the conclusion is derived from combining the two premises. For example, the syllogism \u201call humans are mortal, Socrates is a human, therefore Socrates is mortal\u201d relies on the universal truth that \u201call humans are mortal\u201d, and provides proof by showing that Socrates is a human. Therefore, the conclusion that Socrates is mortal follows logically.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

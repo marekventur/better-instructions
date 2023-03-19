@@ -1,0 +1,12 @@
+{
+  "id": "c0508d50-5d3c-4787-9f4f-65bf5038b46e",
+  "instruction": "Classification Task: Given the following text, what topic does it belong to?",
+  "input": "The development of deep learning algorithms and artificial intelligence is changing the way we think about computing",
+  "output": "Artificial Intelligence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

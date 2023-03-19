@@ -1,0 +1,12 @@
+{
+  "id": "30352c24-67b5-4b70-a010-ad79d4f08c48",
+  "instruction": "Estimate the number of minutes it would take to read the given text.",
+  "input": "The industrial revolution marked a major turning point in history; almost every aspect of daily life was influenced in some way.",
+  "output": "It would take approximately 2-3 minutes to read the given text.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

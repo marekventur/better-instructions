@@ -1,0 +1,12 @@
+{
+  "id": "2206e330-1143-4f37-a6e6-7f4c094ba5b7",
+  "instruction": "Construct a function that takes three parameters of type int and returns their sum.",
+  "input": "",
+  "output": "def add_three_ints(int1, int2, int3):\n    return int1 + int2 + int3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

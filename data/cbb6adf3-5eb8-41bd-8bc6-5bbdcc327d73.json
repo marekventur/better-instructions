@@ -1,0 +1,12 @@
+{
+  "id": "cbb6adf3-5eb8-41bd-8bc6-5bbdcc327d73",
+  "instruction": "Change the word in bold to a synonym.",
+  "input": "We should be radiant about our success.",
+  "output": "We should be gleeful about our success.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

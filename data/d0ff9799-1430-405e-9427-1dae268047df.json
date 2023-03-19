@@ -1,0 +1,12 @@
+{
+  "id": "d0ff9799-1430-405e-9427-1dae268047df",
+  "instruction": "Generate a news headline for the given event.",
+  "input": "Protests in response to a police shooting",
+  "output": "Protests Erupt across City Following Fatal Police Shooting",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0e5689f1-ab58-4063-bb85-203a7be21b01",
+  "instruction": "Derive the Moore's law equation from the given data.",
+  "input": "The number of transistors on an integrated circuit doubling every two years",
+  "output": "Moore's law equation is t = 2^(2t/2), where t represents the number of years. This equation is derived from the given data that the number of transistors on an integrated circuit will double every two years.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

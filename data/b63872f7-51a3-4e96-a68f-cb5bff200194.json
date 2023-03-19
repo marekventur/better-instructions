@@ -1,0 +1,12 @@
+{
+  "id": "b63872f7-51a3-4e96-a68f-cb5bff200194",
+  "instruction": "Create a vector space to represent the given text.",
+  "input": "The population of New York changed over the past decade.",
+  "output": "[population, New York, decade, change]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e87eb3e7-321e-4374-a748-88e9f898907e",
+  "instruction": "Write a letter of complaint about a bad service experience.",
+  "input": "[Description of bad service experience provided]",
+  "output": "Dear [ Customer Service Officer],\n\nI am writing to express my disappointment with the [bad service experience] I recently encountered while using your services. On [date], I had an issue with [issue], and I was met with [describe their attitude]. This was very unforunate, as I expected a much more professional attitude from [name].\n\nI hope that this issue will be resolved promptly and I can be assured of receiving better service in the future.\n\nYours sincerely, \n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

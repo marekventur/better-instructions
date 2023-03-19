@@ -1,0 +1,12 @@
+{
+  "id": "980453dc-98b7-4bce-976d-d8f133cf1e9e",
+  "instruction": "Improve the given sentence in terms of grammar.",
+  "input": "She doesn't like them apples.",
+  "output": "She doesn't like those apples.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

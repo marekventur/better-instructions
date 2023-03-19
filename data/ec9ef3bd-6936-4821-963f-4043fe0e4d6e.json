@@ -1,0 +1,12 @@
+{
+  "id": "ec9ef3bd-6936-4821-963f-4043fe0e4d6e",
+  "instruction": "From the given text generate a list of skills the employee should possess for the job.",
+  "input": "\"The ideal candidate for this position should have strong communication, problem solving, and customer service skills. They should also be able to use MS Word and Excel, and be familiar with a few popular accounting software packages.\"",
+  "output": "Skills the employee should possess for the job: \n- Strong communication skills\n- Strong problem solving skills\n- Strong customer service skills\n- Proficiency with MS Word and Excel\n- Familiarity with popular accounting software packages",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

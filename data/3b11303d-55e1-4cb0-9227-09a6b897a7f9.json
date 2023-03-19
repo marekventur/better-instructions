@@ -1,0 +1,12 @@
+{
+  "id": "3b11303d-55e1-4cb0-9227-09a6b897a7f9",
+  "instruction": "Design a database to record employee salaries.",
+  "input": "",
+  "output": "The database should contain fields for employee name, position, salary, and date. It should also include a field for the employee's manager, so that the salaries can be properly allocated across departments. The database should also be able to generate reports on salary expenses for departments or individuals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

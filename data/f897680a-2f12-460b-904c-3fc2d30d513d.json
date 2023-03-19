@@ -1,0 +1,12 @@
+{
+  "id": "f897680a-2f12-460b-904c-3fc2d30d513d",
+  "instruction": "Find the average of the following numbers without using calculator\n\n17, 23, 19",
+  "input": "17, 23, 19",
+  "output": "19.67",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

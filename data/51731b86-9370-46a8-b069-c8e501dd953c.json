@@ -1,0 +1,12 @@
+{
+  "id": "51731b86-9370-46a8-b069-c8e501dd953c",
+  "instruction": "Identify the scientific names for the given plants",
+  "input": "Dandelion:\nChrysanthemum:",
+  "output": "Dandelion: Taraxacum officinale\nChrysanthemum: Chrysanthemum morifolium",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

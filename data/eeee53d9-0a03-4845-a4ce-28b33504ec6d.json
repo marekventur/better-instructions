@@ -1,0 +1,12 @@
+{
+  "id": "eeee53d9-0a03-4845-a4ce-28b33504ec6d",
+  "instruction": "Create an algorithm that will determine whether an integer is even or odd and explain it in a paragraph.",
+  "input": "",
+  "output": "The algorithm for determining if an integer is even or odd takes in an integer as an argument. The algorithm then checks if the number can be divided by two without any remainder, and if it can, it is determined to be an even number. If the number cannot be divided by two without a remainder, then it is determined to be an odd number. For instance, given the number 4, the algorithm would check if 4 can be divided by two without any remainder and since it can, the number 4 is determined to be an even number.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

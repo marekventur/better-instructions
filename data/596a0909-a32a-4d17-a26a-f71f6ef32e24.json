@@ -1,0 +1,12 @@
+{
+  "id": "596a0909-a32a-4d17-a26a-f71f6ef32e24",
+  "instruction": "Textify the following chart:",
+  "input": "",
+  "output": "The chart shows that while the infection rate has remained relatively constant, the number of deaths and hospitalizations due to the coronavirus has been increasing. Over the last two months, the infection rate has stayed around 10%, while the number of deaths has doubled from around 75 to 150. Similarly, the number of hospitalizations has also increased from around 100 to 200 over the same period.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

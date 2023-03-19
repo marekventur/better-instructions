@@ -1,0 +1,12 @@
+{
+  "id": "6d9acdff-9df5-4c19-97b1-7784198a91bb",
+  "instruction": "Analyse the following tweet for sentiment.",
+  "input": "I love to explore new places!",
+  "output": "The sentiment of the tweet is positive. It expresses enthusiasm for the concept of exploring new places. The implied emotion is enthusiasm and excitement.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

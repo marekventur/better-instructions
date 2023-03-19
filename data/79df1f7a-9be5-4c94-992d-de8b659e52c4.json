@@ -1,0 +1,12 @@
+{
+  "id": "79df1f7a-9be5-4c94-992d-de8b659e52c4",
+  "instruction": "Group the following list of shapes into 2D and 3D shapes: triangle, sphere, cylinder, square.",
+  "input": "",
+  "output": "2D shapes: triangle, square\n\n3D shapes: sphere, cylinder",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e137f79f-a206-48eb-8577-d36578e757f5",
+  "instruction": "Write code to convert an array of integers into a binary tree.",
+  "input": "Input array: [1, 2, 3, 4]",
+  "output": "class Node:\n    def __init__(self, val):\n        self.val = val\n        self.left = None\n        self.right = None\n\ndef arrayToBinaryTree(arr):\n    root = Node(arr[0])\n    q = [root]\n    i = 1\n    while i < len(arr):\n        node = q.pop(0)\n        node.left = Node(arr[i])\n        q.append(node.left)\n        i += 1\n\n        if i == len(arr):\n            break\n        \n        node.right = Node(arr[i])\n        q.append(node.right)\n        i += 1\n\n    return root",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

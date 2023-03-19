@@ -1,0 +1,12 @@
+{
+  "id": "023c3858-8a79-4618-a6ef-761b7a2c4ac4",
+  "instruction": "Explain the purpose of creating a sequential model in deep learning.",
+  "input": "",
+  "output": "The primary purpose of creating a sequential model in deep learning is to create a network of layers from input to output by creating linked nodes or \"layers\". This network can then be used to draw conclusions from data and make predictions based on existing data. The sequential model allows for layers to be connected in order to perform more complex tasks, such as image recognition and natural language processing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

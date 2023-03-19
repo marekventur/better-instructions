@@ -1,0 +1,12 @@
+{
+  "id": "506ac229-6005-4f42-bbdb-fa04cd862031",
+  "instruction": "Compare the factors of two equations.",
+  "input": "Equation 1: 12x+3=15x-5\nEquation 2: 8y+12=6y-15",
+  "output": "Equation 1 has a coefficient of 12x and 15x while equation 2 has a coefficient of 8y and 6y. Both equations have a constant of 3 and -5 respectively.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

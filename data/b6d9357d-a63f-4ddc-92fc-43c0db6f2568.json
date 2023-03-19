@@ -1,0 +1,12 @@
+{
+  "id": "b6d9357d-a63f-4ddc-92fc-43c0db6f2568",
+  "instruction": "Determine whether this Shakespearean quote is from a comedy or a tragedy.",
+  "input": "\"Men at some time are masters of their fates.\"",
+  "output": "Tragedy",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

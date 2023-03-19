@@ -1,0 +1,12 @@
+{
+  "id": "17562368-9378-40d3-8e12-2366155c694d",
+  "instruction": "Rewrite the sentence in the form of an interrogative sentence.",
+  "input": "I bought a new laptop yesterday.",
+  "output": "Did you buy a new laptop yesterday?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

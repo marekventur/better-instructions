@@ -1,0 +1,12 @@
+{
+  "id": "97327dd0-0a4a-4480-ae9c-1eca8e799837",
+  "instruction": "Summarise the news article \"How technology is helping communities fight Covid-19\".",
+  "input": "https://www.vocabulary.com/articles/wordroutes/how-technology-is-helping-communities-fight-covid-19/",
+  "output": "Throughout the Covid-19 pandemic, technology has helped communities around the world stay connected and combat the virus. From wearable devices that help to monitor and track the spread of Covid-19, to virtual communication tools to assist with contactless socializing, technology has become a critical component in the fight against the virus. Additionally, the use of artificial intelligence, machine learning, and cloud services have allowed health professionals to analyze data faster and more accurately to better inform decision-making and provide better care for those affected. As Covid-19 continues to cause disruption, technology is playing an increasingly important role.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

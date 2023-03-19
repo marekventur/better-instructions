@@ -1,0 +1,12 @@
+{
+  "id": "30b563ac-f8dd-49ed-828a-ba28d8a8a238",
+  "instruction": "Identify if the following phrase is passive or active voice. Output \u201cPassive\u201d or \u201cActive\u201d.",
+  "input": "The project was completed by the team.",
+  "output": "Passive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

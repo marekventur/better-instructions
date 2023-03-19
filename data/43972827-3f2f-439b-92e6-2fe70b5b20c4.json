@@ -1,0 +1,12 @@
+{
+  "id": "43972827-3f2f-439b-92e6-2fe70b5b20c4",
+  "instruction": "Write a classification model to determine if the predicted output of a given sequence of digits is even or odd.",
+  "input": "[2, 4, 6, 8]",
+  "output": "This model will classify the output as even.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "32664ac8-7077-472b-a322-9f5daa9c31bd",
+  "instruction": "Given the input sentence: \"I'm feeling very anxious.\", write a supportive reply.",
+  "input": "I'm feeling very anxious.",
+  "output": "I am so sorry to hear that. Is there something that I can do to help? It is okay to feel anxious and I'm here for you.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

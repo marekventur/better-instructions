@@ -1,0 +1,12 @@
+{
+  "id": "95f18a7c-d616-4dfb-9173-024ea2e40715",
+  "instruction": "Take a list of words and classify them into two groups",
+  "input": "Crab, Tiger, Bear, Elephant",
+  "output": "Group A: Crab, Tiger, Bear\nGroup B: Elephant",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

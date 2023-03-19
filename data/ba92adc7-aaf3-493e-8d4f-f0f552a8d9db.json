@@ -1,0 +1,12 @@
+{
+  "id": "ba92adc7-aaf3-493e-8d4f-f0f552a8d9db",
+  "instruction": "Compare and contrast Data Mining and Machine Learning.",
+  "input": "",
+  "output": "Data mining and machine learning are two related yet distinct disciplines within the larger field of artificial intelligence. Both involve using computers to learn from data. Data mining is the process of discovering patterns from large sets of data without a specific goal in mind. Machine learning, on the other hand, revolves around the development of computer programs that can learn from data and make predictions or decisions without being explicitly programmed. Data mining focuses more on uncovering hidden relationships among data, while machine learning is more concerned with making predictions based on the patterns.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "47ff28f9-4461-499d-b16a-0d476c4bef7e",
+  "instruction": "Find the lowest value for the following function",
+  "input": "6x^2 - 4x - 8",
+  "output": "-8",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

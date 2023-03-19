@@ -1,0 +1,12 @@
+{
+  "id": "a17eb59f-958b-4e74-bf43-51819516c5c5",
+  "instruction": "Create a list of tasks for the user to do.",
+  "input": "No input.",
+  "output": "-Organize your closet\n-Clean the kitchen\n-Pay the bills\n-Write a thank-you card for a friend\n-Do some grocery shopping\n-Do some exercise\n-Call a family member and catch up\n-Do some meditation\n-Unsubscribe from unwanted emails\n-Complete a jigsaw puzzle\n-Create a budget\n-Listen to music\n-Update your resume\n-Write a poem\n-Learn a new skill\n-Research a topic of interest\n-Read a book\n-Go for a walk\n-Start a garden \n-Catch up on news headlines",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

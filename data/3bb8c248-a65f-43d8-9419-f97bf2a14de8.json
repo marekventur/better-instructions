@@ -1,0 +1,12 @@
+{
+  "id": "3bb8c248-a65f-43d8-9419-f97bf2a14de8",
+  "instruction": "Prophet each of the following statements as \"True\" and \"False\"",
+  "input": "- Dogs are better than cats\n- The Earth is round",
+  "output": "- Dogs are better than cats: False\n- The Earth is round: True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

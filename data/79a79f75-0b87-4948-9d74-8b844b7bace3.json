@@ -1,0 +1,12 @@
+{
+  "id": "79a79f75-0b87-4948-9d74-8b844b7bace3",
+  "instruction": "Generate a set of common questions related to this sentence.",
+  "input": "She decided to drive to the store.",
+  "output": "Questions: \n1. Where was she driving to? \n2. Why did she decide to drive? \n3. What store was she driving to?\n4. How long did it take her to drive to the store? \n5. How did she get to the store? \n6. Was she able to find what she was looking for at the store?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ed67e480-328a-4498-909a-d2ba0c9b0d46",
+  "instruction": "Generate a scientific name for the given species",
+  "input": "Gorilla",
+  "output": "Gorilla gorilla",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

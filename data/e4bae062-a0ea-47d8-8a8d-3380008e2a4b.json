@@ -1,0 +1,12 @@
+{
+  "id": "e4bae062-a0ea-47d8-8a8d-3380008e2a4b",
+  "instruction": "Describe the differences between an ARM and a RISC processor.",
+  "input": "",
+  "output": "An ARM processor is an advanced Reduced Instruction Set Computer (RISC) technology that is used in mobile phones, tablets, and other portable electronic devices. It is a type of processor architecture that provides high-performance computing capabilities with relatively low power consumption. RISC processors, on the other hand, are simpler than ARM processors, but generally offer greater computing power and energy efficiency. They are mostly found in desktops, laptops, and other non-mobile applications. The key differences between ARM and RISC processors are the number of instructions they can process and the amount of power they consume. ARM processors are capable of processing more instructions than RISC processors, while consuming less power than RISC processors.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

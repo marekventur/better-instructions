@@ -1,0 +1,12 @@
+{
+  "id": "282683e4-67f0-497d-8648-4bddf9155eba",
+  "instruction": "In this task, you are given a sentence and you need to suggest a better way to express the same meaning without changing the original wording.",
+  "input": "The report came to the conclusion that the project had failed.",
+  "output": "The report concluded that the project had been unsuccessful.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

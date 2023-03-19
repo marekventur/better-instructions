@@ -1,0 +1,12 @@
+{
+  "id": "4afcc5d2-c61a-42cf-81cc-c033a0380d9c",
+  "instruction": "Compose a summary for the meeting based on the notes given.",
+  "input": "Notes:\n- Reviewed current projects\n- Discussed upcoming deadlines\n- Suggested new budgeting options",
+  "output": "At today's meeting, the team discussed their current projects and upcoming deadlines. They also proposed new budgeting options to better manage their finances going forward.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

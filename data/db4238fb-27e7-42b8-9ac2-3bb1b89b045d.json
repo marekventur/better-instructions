@@ -1,0 +1,12 @@
+{
+  "id": "db4238fb-27e7-42b8-9ac2-3bb1b89b045d",
+  "instruction": "Explain the cause and effect of a given event.",
+  "input": "The Industrial Revolution",
+  "output": "The Industrial Revolution was a period of major social and economic change that began in the late 18th century, marked by advances in technology, advances in manufacturing processes, and the development of new methods of producing goods. These advances led to a shift from agrarian economies to industrial ones, increased economic productivity, the increased use of machines, the factory system, improved transportation networks, increased urbanization, and population growth. The result of these changes was a massive increase in global wealth and, consequently, improved living standards.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

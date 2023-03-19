@@ -1,0 +1,12 @@
+{
+  "id": "54e71e48-a8b5-4f1f-937d-42412bfede95",
+  "instruction": "Add a comma to the sentence at the appropriate point.",
+  "input": "She went to the shop but didn't buy anything",
+  "output": "She went to the shop, but didn't buy anything.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

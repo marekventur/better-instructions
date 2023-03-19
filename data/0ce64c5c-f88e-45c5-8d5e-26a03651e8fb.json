@@ -1,0 +1,12 @@
+{
+  "id": "0ce64c5c-f88e-45c5-8d5e-26a03651e8fb",
+  "instruction": "Categorize the following examples as either an example of a physical object or a concept:",
+  "input": "Friendship, Water, Apple",
+  "output": "Friendship: Concept\nWater: Physical Object\nApple: Physical Object",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

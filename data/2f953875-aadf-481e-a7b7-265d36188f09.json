@@ -1,0 +1,12 @@
+{
+  "id": "2f953875-aadf-481e-a7b7-265d36188f09",
+  "instruction": "Summarize this piece of text in 5 sentences",
+  "input": "Humans have been living in cities for a long time. Making cities livable for its inhabitants has always been a great challenge for urban planners. In a densely populated city, there is a complexity of services and activities that need to be managed. This includes managing roads, services like water, electricity, telecommunications, and so on. Smart city technology has enabled urban planners to monitor and manage these services more effectively and efficiently than before.",
+  "output": "Humans have lived in cities since ancient times and making them livable has been an ongoing challenge. A city is a densely populated area with a multitude of services and activities to manage, such as roads, water, electricity and telecommunications. Smart city technology has allowed for greater efficiency and accuracy in monitoring and managing these services. This has been beneficial for both urban planners and citizens, as it permits proactive problem solving. Additionally, it has created more effective governance structures, decreasing the time and cost to deliver services.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

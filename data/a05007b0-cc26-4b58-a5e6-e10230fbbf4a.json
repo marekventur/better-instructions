@@ -1,0 +1,12 @@
+{
+  "id": "a05007b0-cc26-4b58-a5e6-e10230fbbf4a",
+  "instruction": "Calculate the percentage of water in the total mass of the given object.",
+  "input": "A rock that weighs 8.3 kilograms",
+  "output": "The percentage of water in the total mass of the rock is 0%.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

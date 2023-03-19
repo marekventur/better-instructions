@@ -1,0 +1,12 @@
+{
+  "id": "070e65fb-4914-4021-aeba-aa50a07f91e0",
+  "instruction": "Find an example of a triangle with an angle of 90 degrees.",
+  "input": "No input",
+  "output": "A right triangle is a triangle with an angle of 90 degrees. For example, a triangle with sides of length 3, 4 and 5 is a right triangle, since the longest side (5) is opposite the 90 degree angle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

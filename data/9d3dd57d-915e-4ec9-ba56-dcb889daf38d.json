@@ -1,0 +1,12 @@
+{
+  "id": "9d3dd57d-915e-4ec9-ba56-dcb889daf38d",
+  "instruction": "Find the x-intercept of the equation y = 2x + 4.",
+  "input": "",
+  "output": "The x-intercept of the given equation is -2. This is because when y is equal to 0, the equation becomes 0 = 2x + 4, which can then be rearranged to  x = -2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

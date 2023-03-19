@@ -1,0 +1,12 @@
+{
+  "id": "2f72efe0-3bd2-427d-9568-a9d3fa446238",
+  "instruction": "Given the following sentence, give an example of related data.",
+  "input": "Online retail sales have seen a dramatic rise in the last decade.",
+  "output": "An example of related data could be data about the amount of online retail sales in specific countries over the last 10 years, or data about the amount of growth in online retail sales year-on-year.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c08fb2dc-b9a7-43c0-b0b9-022c427e2cf3",
+  "instruction": "Generate a new recipe based on a given list of ingredients.",
+  "input": "Ingredients: \n- White rice\n- Eggs\n- Milk\n- Salt",
+  "output": "This delicious one pot egg fried rice is a quick and easy meal with only 5 ingredients! It's a kid friendly recipe full of flavor that you can make in just 20 minutes. \n\nIngredients: \n- 2 cups cooked white rice\n- 4 eggs\n- 1/4 cup milk\n- Salt to taste \n\nInstructions:\n1. Heat a large skillet over medium heat, then add the cooked rice and season with a pinch of salt.\n2. Stir and cook for 2 minutes.\n3. In a bowl, beat the eggs together with the milk and a pinch of salt.\n4. Pour the egg mixture into the rice and stir to combine.\n5. Cook for 5 minutes, stirring occasionally, until the eggs are set and the rice is cooked through. \n6. Serve immediately. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

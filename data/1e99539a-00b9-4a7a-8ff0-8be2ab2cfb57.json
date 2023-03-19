@@ -1,0 +1,12 @@
+{
+  "id": "1e99539a-00b9-4a7a-8ff0-8be2ab2cfb57",
+  "instruction": "Rewrite the following sentence using a possessive pronoun instead of \"The cat's\".",
+  "input": "The cat's fur was a mix of grey and white.",
+  "output": "Its fur was a mix of grey and white.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

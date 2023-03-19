@@ -1,0 +1,12 @@
+{
+  "id": "0653e53a-fe36-4af4-acf0-8c982c8f9b18",
+  "instruction": "Compare the usage of sass and SCSS in web development.",
+  "input": "",
+  "output": "Sass has its own syntax and is the original version of CSS preprocessor. It uses indentation to separate code blocks and newline characters to separate rules within a block. SCSS (Sassy CSS) is an extension of CSS that borrows the syntax of Sass with additional features such as variables and nesting. SCSS has the same features as Sass with a CSS-like syntax. Sass and SCSS are both powerful tools used in web development. They both allow developers to write cleaner, more organized code that can be easily shared and reused across projects.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

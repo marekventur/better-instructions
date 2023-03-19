@@ -1,0 +1,12 @@
+{
+  "id": "5ed2ef37-2a50-4ff2-97d7-8138ffaa8bc1",
+  "instruction": "Generate a response that conveys an appropriate level of politeness.",
+  "input": "Customer: I don't think this is what I ordered.",
+  "output": "I apologize for the misunderstanding. Is there something else I can get for you?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

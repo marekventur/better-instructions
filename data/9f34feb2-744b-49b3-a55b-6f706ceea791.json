@@ -1,0 +1,12 @@
+{
+  "id": "9f34feb2-744b-49b3-a55b-6f706ceea791",
+  "instruction": "Give three examples of a non-deterministic Turing machine.",
+  "input": "",
+  "output": "1. Simultaneous halting oracles\n2. A Turing Machine that solves the halting problem\n3. A Turing Machine that solves the Word Problem for Monoids",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

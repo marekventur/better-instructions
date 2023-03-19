@@ -1,0 +1,12 @@
+{
+  "id": "6cf3a427-6d9a-4575-9675-14d984b125ee",
+  "instruction": "Choose the correct form of the verb from the choices given.",
+  "input": "He (is, are) the team's captain.",
+  "output": "He is the team's captain.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

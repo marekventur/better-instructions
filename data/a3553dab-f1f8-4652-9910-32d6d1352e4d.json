@@ -1,0 +1,12 @@
+{
+  "id": "a3553dab-f1f8-4652-9910-32d6d1352e4d",
+  "instruction": "Write a query to find all customers who live in the state of California.",
+  "input": "",
+  "output": "SELECT * FROM customers WHERE state = 'California';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

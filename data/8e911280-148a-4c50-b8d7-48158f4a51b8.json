@@ -1,0 +1,12 @@
+{
+  "id": "8e911280-148a-4c50-b8d7-48158f4a51b8",
+  "instruction": "Construct a sentence using the given verb in the past tense",
+  "input": "shudder",
+  "output": "She shuddered as the thunder rolled in the distance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

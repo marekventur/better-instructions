@@ -1,0 +1,12 @@
+{
+  "id": "35a8b1bf-2453-44d1-9998-97176af6fe40",
+  "instruction": "What is the probability of rolling two 4s?",
+  "input": "",
+  "output": "The probability of rolling two 4s is 1/36, as there are 6 sides on a die and the probability of rolling any number on a single die is (1/6). So the probability for rolling two 4s is (1/6) x (1/6) = 1/36.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

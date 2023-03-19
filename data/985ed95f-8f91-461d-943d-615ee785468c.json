@@ -1,0 +1,12 @@
+{
+  "id": "985ed95f-8f91-461d-943d-615ee785468c",
+  "instruction": "Generate a fictional conversation between two characters",
+  "input": "Man and woman",
+  "output": "Man: Hi! How's it going?\n\nWoman: Hey, not too bad. How about you?\n\nMan: Pretty good, just enjoying this beautiful day.\n\nWoman: Yeah, it's gorgeous. So, what do you do for a living?\n\nMan: I'm a software engineer.\n\nWoman: Wow, that sounds really fascinating.\n\nMan: Yeah, it is. What about you?\n\nWoman: I'm a content writer. I write for various websites and magazines.\n\nMan: Cool, that sounds like a lot of fun.\n\nWoman: It is. I really enjoy it. How long have you been a software engineer?\n\nMan: I've been doing it for about five years now.\n\nWoman: Wow, that's impressive.\n\nMan: Thank you. It's been an amazing journey.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7ead27b3-3162-489d-86cf-08d6f482c913",
+  "instruction": "Write an appropriate comment that supplies additional detail to the code",
+  "input": "# get user input\nname = input(\"What is your name? \")",
+  "output": "# get user input and store it as a string\nname = input(\"What is your name? \")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

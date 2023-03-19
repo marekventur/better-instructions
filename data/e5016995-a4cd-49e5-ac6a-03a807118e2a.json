@@ -1,0 +1,12 @@
+{
+  "id": "e5016995-a4cd-49e5-ac6a-03a807118e2a",
+  "instruction": "Rearrange these words to form a gramatically correct sentence.",
+  "input": "flies woman an the old",
+  "output": "The old woman flies.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

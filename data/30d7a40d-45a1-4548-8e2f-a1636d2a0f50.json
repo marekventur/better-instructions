@@ -1,0 +1,12 @@
+{
+  "id": "30d7a40d-45a1-4548-8e2f-a1636d2a0f50",
+  "instruction": "Rewrite the sentence to insert a transition word in its place.",
+  "input": "He went to the store. He bought some snacks.",
+  "output": "He went to the store, and he bought some snacks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

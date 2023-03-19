@@ -1,0 +1,12 @@
+{
+  "id": "5ac0fa3d-0bb1-4e5f-a387-7c9df1b065f1",
+  "instruction": "Outline the possible access control policies for a cloud-based application.",
+  "input": "",
+  "output": "The access control policies for a cloud-based application can include policy-based access control, role-based access control, attribute-based access control, identity-based access control, and authentication-based access control. Policy-based access control uses predetermined rules to grant permissions for a user's activity. Role-based access control manages user permissions based on the user's assigned role. Attribute-based access control allows administrators to define certain attributes and grant or deny access according to those attributes. Identity-based access control assigns permissions to a user based on their unique identity. Finally, authentication-based access control requires users to authenticate before granting access.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

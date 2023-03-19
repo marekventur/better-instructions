@@ -1,0 +1,12 @@
+{
+  "id": "aa99c59a-4d50-4d6a-96ea-870493d2b0b9",
+  "instruction": "Assign a score out of 5 to the following book review.",
+  "input": "I really enjoyed this book. It was an engaging read and had an interesting plot.",
+  "output": "The book review scores 4 out of 5. The reviewer enjoyed the book and found the plot engaging and interesting.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

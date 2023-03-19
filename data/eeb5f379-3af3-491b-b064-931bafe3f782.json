@@ -1,0 +1,12 @@
+{
+  "id": "eeb5f379-3af3-491b-b064-931bafe3f782",
+  "instruction": "Combine the two texts below to a single text, which should be at least 200 words long.",
+  "input": "Text 1:\n\nThe rain was heavy on that day. The street was flooded and the sky was grey.\n\nText 2:\n\nThe sun was finally starting to shine on the horizon. A ray of light peeked through the dark clouds and soon the sun was out in full view.",
+  "output": "The rain was heavy on that day. The street was flooded and the sky was gray and gloomy. Everything was blanketed in a dull grey, with no sign of the sun in sight.\n\nBut then, something changed; a ray of light peeked through the dark clouds and soon the sun was out in full view. Its brightness broke through the dull atmosphere, lighting up the gloomy streets and the faces of the people below. Everyone seemed more optimistic with the promise of a better day and the hope for a brighter future.\n\nThe sun lit up the buildings, reflecting off the wet pavements to create a captivating view. Even the previously dreary skyline seemed to have a new life to it, with the sun playing against the clouds and creating fascinating patterns. The rain made the colors and textures even more vivid and amusing.\n\nThe atmosphere was now alive with the people going about their daily lives and the sun beckoning them back into the world. The floodwater began to dissipate, and after some time, everything returned to normal. The storm had passed, and everyone could appreciate the beauty that the ray of light had blessed them with.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

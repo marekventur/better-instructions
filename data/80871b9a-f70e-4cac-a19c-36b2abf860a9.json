@@ -1,0 +1,12 @@
+{
+  "id": "80871b9a-f70e-4cac-a19c-36b2abf860a9",
+  "instruction": "Generate a 20 words dialogue between two people where one of them is trying to explain a complex concept to the other.",
+  "input": "",
+  "output": "\"So, can you explain quantum computing to me?\"\n\"Sure. Quantum computing is based on the principles of quantum mechanics, which allow for the manipulation of qubits or quantum bits. These qubits can be used to represent data and solve complex problems much faster than traditional computing.\"\n\"Interesting. What kind of problems can it be used for?\"\n\"Quantum computing can be used for a variety of tasks, including optimization, machine learning, data analysis, and cryptography.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

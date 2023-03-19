@@ -1,0 +1,12 @@
+{
+  "id": "5742c6ad-92bd-43f0-9555-57fb0d1d8569",
+  "instruction": "Does the sentence use the correct tense? Answer with \"Correct\" or \"Incorrect\".",
+  "input": "My teacher have been teaching me for the last year.",
+  "output": "Incorrect",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

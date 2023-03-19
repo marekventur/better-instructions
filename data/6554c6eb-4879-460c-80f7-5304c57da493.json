@@ -1,0 +1,12 @@
+{
+  "id": "6554c6eb-4879-460c-80f7-5304c57da493",
+  "instruction": "Analyze the given sentence and classify it as either fact or fiction.",
+  "input": "Black cats bring bad luck.",
+  "output": "Fiction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

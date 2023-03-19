@@ -1,0 +1,12 @@
+{
+  "id": "f23cf993-200e-4728-880c-59886a510316",
+  "instruction": "Generate a correct formula to calculate surface area of a triangle",
+  "input": "",
+  "output": "Surface Area = (b\u00b7h)/2 \nwhere b = base and h = height of the triangle",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

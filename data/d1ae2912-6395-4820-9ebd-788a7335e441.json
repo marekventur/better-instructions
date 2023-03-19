@@ -1,0 +1,12 @@
+{
+  "id": "d1ae2912-6395-4820-9ebd-788a7335e441",
+  "instruction": "Compute the square root of each number in the set.",
+  "input": "Set = {4, 9, 16, 25}",
+  "output": "Set = {2, 3, 4, 5}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

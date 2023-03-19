@@ -1,0 +1,12 @@
+{
+  "id": "99e933b6-916c-4f2f-8bd0-f40da7db5185",
+  "instruction": "Formulate an equation for a situation.",
+  "input": "Person A has 3 copies of a book, and person B has twice as many.",
+  "output": "3x = 2b, where x is the number of copies that person A has, and b is the number of copies that person B has.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

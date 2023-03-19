@@ -1,0 +1,12 @@
+{
+  "id": "25c35267-03bf-49f7-a5e3-48b8fe2f0ada",
+  "instruction": "Transform the following sentence into the passive voice",
+  "input": "I bought a book",
+  "output": "A book was bought by me.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

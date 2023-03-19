@@ -1,0 +1,12 @@
+{
+  "id": "f8a510aa-b30c-4401-935a-fa789bace61c",
+  "instruction": "Categorize the following text into its respective emotions.",
+  "input": "I am feeling overwhelmed",
+  "output": "Fear/Anxiety/Stress.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "abf80dde-36d5-4851-991c-f2437d17daff",
+  "instruction": "What is the kinetic energy of an object with a mass of 3kg and a speed of 15m/s?",
+  "input": "",
+  "output": "The kinetic energy (KE) of the object is calculated using the formula KE = 0.5 * mass * speed^2. Therefore, the kinetic energy of the object with a mass of 3kg and a speed of 15m/s is 675 Joules.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

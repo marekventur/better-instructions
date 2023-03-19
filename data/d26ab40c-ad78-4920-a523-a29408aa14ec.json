@@ -1,0 +1,12 @@
+{
+  "id": "d26ab40c-ad78-4920-a523-a29408aa14ec",
+  "instruction": "Describe what the purpose of a priority queue is.",
+  "input": "",
+  "output": "The purpose of a priority queue is to provide an efficient way to manage and access data. A priority queue uses a priority associated with each item to determine which item should be given highest priority and thus accessed first. Items with higher priorities are accessed before items with lower priorities, ensuring that the most important items are processed first.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

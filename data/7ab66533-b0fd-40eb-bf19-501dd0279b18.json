@@ -1,0 +1,12 @@
+{
+  "id": "7ab66533-b0fd-40eb-bf19-501dd0279b18",
+  "instruction": "Calculate the sum of the three given numbers",
+  "input": "2 + 4 + 6",
+  "output": "12",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

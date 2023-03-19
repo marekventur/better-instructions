@@ -1,0 +1,12 @@
+{
+  "id": "ebc26b60-f186-42c6-813c-ebe8dd31b150",
+  "instruction": "Calculate the density of an object with the given mass and volume.",
+  "input": "Mass = 10 kg; Volume = 0.2 m\u00b3",
+  "output": "The density of the object is 50 kg/m\u00b3.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

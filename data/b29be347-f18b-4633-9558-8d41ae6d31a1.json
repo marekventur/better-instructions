@@ -1,0 +1,12 @@
+{
+  "id": "b29be347-f18b-4633-9558-8d41ae6d31a1",
+  "instruction": "Explain what a Monte Carlo simulation is.",
+  "input": "",
+  "output": "A Monte Carlo simulation is a computerized mathematical technique used to analyze decisions and model the probability of different outcomes. It grabs a large number of random samples from a given population and then uses the samples to make inferences about the population as a whole. It can be used to generate distributions of potential outcomes and to determine the risk associated with different courses of action.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

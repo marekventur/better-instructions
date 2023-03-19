@@ -1,0 +1,12 @@
+{
+  "id": "a724f9db-9a3b-45d0-9cf2-87e1730a6315",
+  "instruction": "Write a set of instructions to teach a person how to cook scrambled eggs.",
+  "input": "",
+  "output": "To cook scrambled eggs, you will need:\n\n\u2022 2 eggs\n\u2022 2 tablespoons of milk\n\u2022 2 tablespoons of butter\n\u2022 Salt and pepper to taste\n\nInstructions:\n\n1. Crack the eggs into a bowl and whisk them together with the milk.\n2. Heat a non-stick pan over medium heat and melt the butter in it.\n3. Pour the egg mixture into the pan and let it cook for 1 minute.\n4. With a spoon or spatula, constantly scrape the sides and the bottom of the pan, making sure that the eggs don't stick or burn.\n5. When the eggs start to solidify, season it with salt and pepper to taste.\n6. Remove the pan from heat and serve the scrambled eggs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "68ccf72b-4eb2-4c4e-9ce4-0c3c9c66a01a",
+  "instruction": "Describe how the genetic code is read and translated in the synthesis of a protein?",
+  "input": "",
+  "output": "The genetic code is first read in mRNA codons, each consisting of three nucleotides. The mRNA codons are then translated into amino acids which are linked together with peptide bonds to form a polypeptide chain. During translation, transfer RNA molecules carry the appropriate amino acids and line them up in the correct order. Once the full polypeptide chain is formed, the protein folds into its three-dimensional structure and is ready to be used by cells.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

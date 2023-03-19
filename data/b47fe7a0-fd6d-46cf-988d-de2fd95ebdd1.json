@@ -1,0 +1,12 @@
+{
+  "id": "b47fe7a0-fd6d-46cf-988d-de2fd95ebdd1",
+  "instruction": "Generate an algorithm that evaluates the sentiment of a text.",
+  "input": "",
+  "output": "1. Begin by splitting the text into individual sentences.\n2. For each sentence, use a sentiment analysis tool to assign it a sentiment score from -1 (most negative) to +1 (most positive). \n3. For each sentence, assign a weight to the sentiment score based on the length of the sentence.\n4. Take the sum of all sentiment scores and their corresponding weights in order to calculate the overall sentiment of the text.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

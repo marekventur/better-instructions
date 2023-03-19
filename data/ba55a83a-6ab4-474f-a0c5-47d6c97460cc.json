@@ -1,0 +1,12 @@
+{
+  "id": "ba55a83a-6ab4-474f-a0c5-47d6c97460cc",
+  "instruction": "Explain the given medical term.",
+  "input": "Hospital Acquired Infections (HAIs)",
+  "output": "Hospital Acquired Infections (HAIs) are infections that occur while under care in a hospital or healthcare setting. These infections are caused by bacteria, fungi, parasitic organisms, or viruses that a patient would not have been exposed to had they not been admitted. Examples of HAIs can include pneumonia, urinary tract infections, surgical site infections, and bloodstream infections.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "282c11d9-da98-449c-a103-fa2b507e3b91",
+  "instruction": "For this given scenario, suggest three possible solutions.",
+  "input": "A town is running out of water.",
+  "output": "1. Implement conservation measures - such as limiting water usage, using water efficient appliances, and redirecting sewage back into the water cycle. \n\n2. Incorporate rainwater harvesting - using rainwater harvesting tanks to collect and store any rain that falls in the area can provide a sustainable source of water. \n\n3. Invest in suitable infrastructure -investing in water pipes that are able to connect nearby sources of water to the town could provide enough water to last them through the dry season.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

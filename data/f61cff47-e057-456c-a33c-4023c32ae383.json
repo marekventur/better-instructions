@@ -1,0 +1,12 @@
+{
+  "id": "f61cff47-e057-456c-a33c-4023c32ae383",
+  "instruction": "Given two words, generate a single compound word.",
+  "input": "car + wheel",
+  "output": "Carwheel.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "eb45d133-2848-4f26-8adb-cc150ea17363",
+  "instruction": "Evaluate the following proposal as a yes or no response.",
+  "input": "The department should increase the budget by 20%.",
+  "output": "Yes",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

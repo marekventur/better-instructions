@@ -1,0 +1,12 @@
+{
+  "id": "be17c2aa-e734-47b1-a2b3-b5d4e290f042",
+  "instruction": "Consolidate the following list of tasks into three categories.",
+  "input": "Making a grocery list, water the plants, unclog the sink, mow the lawn, read a book",
+  "output": "1. Maintenance Tasks: Water the plants, unclog the sink, mow the lawn\n2. Daily Chores: Making a grocery list\n3. Recreation: Reading a book",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

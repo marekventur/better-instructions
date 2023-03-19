@@ -1,0 +1,12 @@
+{
+  "id": "1ff9b6cf-ab68-46bb-a4c4-4eadc2137890",
+  "instruction": "Given the following sentence, edit it in order to improve its flow.",
+  "input": "I went fishing, it was quite an experience",
+  "output": "I had a remarkable experience when I went fishing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

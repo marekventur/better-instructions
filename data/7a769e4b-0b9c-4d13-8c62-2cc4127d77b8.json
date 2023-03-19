@@ -1,0 +1,12 @@
+{
+  "id": "7a769e4b-0b9c-4d13-8c62-2cc4127d77b8",
+  "instruction": "Convert the following 25 degrees Celsius temperature into Fahrenheit.",
+  "input": "25",
+  "output": "77",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

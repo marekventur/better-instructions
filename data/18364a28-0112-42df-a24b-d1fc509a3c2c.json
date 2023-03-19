@@ -1,0 +1,12 @@
+{
+  "id": "18364a28-0112-42df-a24b-d1fc509a3c2c",
+  "instruction": "Generate a playlist of 10 songs corresponding to the given mood.",
+  "input": "Joyful",
+  "output": "1. Rejoice by India Arie\n2. Ain't No Mountain High Enough by Marvin Gaye\n3. September by Earth, Wind & Fire\n4. Overjoyed by Stevie Wonder\n5. Happy by Pharrell Williams\n6. Signed, Sealed, Delivered by Stevie Wonder\n7. Best Day Of My Life by American Authors\n8. Feel So Good by Mase\n9. Love Like This by Faith Evans\n10. Here Comes the Sun by The Beatles",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

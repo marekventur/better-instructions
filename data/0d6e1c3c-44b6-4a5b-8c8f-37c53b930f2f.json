@@ -1,0 +1,12 @@
+{
+  "id": "0d6e1c3c-44b6-4a5b-8c8f-37c53b930f2f",
+  "instruction": "Collect the following data from a website.",
+  "input": "Find the posts from August 2019 on the Instagram account \"janesmith\".",
+  "output": "#janesmith #August2019\n[list of posts with posting time]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

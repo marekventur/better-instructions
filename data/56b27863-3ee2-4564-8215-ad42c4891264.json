@@ -1,0 +1,12 @@
+{
+  "id": "56b27863-3ee2-4564-8215-ad42c4891264",
+  "instruction": "Replace all references to the company with \"The Company\".",
+  "input": "Microsoft Corp. is a leading technology company with global presence.",
+  "output": "The Company is a leading technology company with global presence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

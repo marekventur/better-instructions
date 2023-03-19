@@ -1,0 +1,12 @@
+{
+  "id": "d69c69b4-f382-4d00-80b3-3d4752343c1e",
+  "instruction": "Create a menu for breakfast.",
+  "input": "",
+  "output": "Breakfast Menu \n\n- Eggs: scrambled eggs, poached eggs, sunny side up eggs \n- Toast: white, wheat, rye \n- Pancakes: plain, blueberry, chocolate chip \n- Oatmeal: plain, topped with brown sugar and cinnamon \n- French Toast: plain, topped with maple syrup \n- Smoothies: strawberry, banana, mango \n- Fresh Juices: orange, apple, cranberry",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

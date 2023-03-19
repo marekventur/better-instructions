@@ -1,0 +1,12 @@
+{
+  "id": "f2012492-b638-4a18-bf15-53c03009395b",
+  "instruction": "Trace the program given the following snippet",
+  "input": "def add_three(x):\n    return x + 3\n\nresult = add_three(4)",
+  "output": "The program will assign the value 7 to the \"result\" variable.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

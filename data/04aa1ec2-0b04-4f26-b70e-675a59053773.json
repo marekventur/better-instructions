@@ -1,0 +1,12 @@
+{
+  "id": "04aa1ec2-0b04-4f26-b70e-675a59053773",
+  "instruction": "Reverse the words in the sentence so that they are in the correct order.",
+  "input": "wishes birthday many",
+  "output": "Many wishes birthday",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

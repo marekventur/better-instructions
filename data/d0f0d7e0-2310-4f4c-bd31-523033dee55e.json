@@ -1,0 +1,12 @@
+{
+  "id": "d0f0d7e0-2310-4f4c-bd31-523033dee55e",
+  "instruction": "Given two numbers, what is the result of subtracting the first number from the second number?",
+  "input": "3 and 7",
+  "output": "The result of subtracting 3 from 7 is 4.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

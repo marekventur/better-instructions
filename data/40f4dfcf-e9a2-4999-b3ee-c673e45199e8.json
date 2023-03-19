@@ -1,0 +1,12 @@
+{
+  "id": "40f4dfcf-e9a2-4999-b3ee-c673e45199e8",
+  "instruction": "Given a list of ingredients, come up with a dish name and instructions on how to prepare the dish.",
+  "input": "onion, garlic, potatoes",
+  "output": "Roasted Potatoes and Onions: Preheat oven to 400 degrees F. Peel and cut onions and potatoes into wedges. Place vegetables in a large bowl and toss with garlic, oil, salt and pepper. Arrange vegetables on a baking sheet and roast for 25 minutes or until tender. Serve and enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

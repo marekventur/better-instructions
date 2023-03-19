@@ -1,0 +1,12 @@
+{
+  "id": "c8a23b8d-7449-4dbb-9796-23b119c715d0",
+  "instruction": "Reformat the given text according to the given style guide",
+  "input": "Hello, my name is Jane Smith. I am a writer.\nStyle Guide: APA Format",
+  "output": "Smith, J. (2021). Hello, my name is Jane Smith. I am a writer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

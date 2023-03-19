@@ -1,0 +1,12 @@
+{
+  "id": "2688a2fc-6fa7-4c2f-a23d-90c15962bb96",
+  "instruction": "Predict a consequence of the following action.",
+  "input": "Bringing guns to school",
+  "output": "Bringing guns to school could lead to serious consequences such as expulsion, suspension, criminal charges, or even death.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

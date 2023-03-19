@@ -1,0 +1,12 @@
+{
+  "id": "f9966d21-49e5-47cb-ada0-b0a05cb0410a",
+  "instruction": "Given a description of the event, summarize it into a short paragraph.",
+  "input": "The event was a charity walkathon organized by XYZ to raise money for a local hospital. People of all ages came together to participate. The walk took place in a park and had a festive vibe with balloons, music, and food stalls.",
+  "output": "XYZ organized a charity walkathon in a local park to raise money for a hospital, and the event was attended by people of all ages. The atmosphere was festive with music, balloons, and food stalls, making the experience a memorable one for everyone involved.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

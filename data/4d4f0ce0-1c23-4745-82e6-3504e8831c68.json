@@ -1,0 +1,12 @@
+{
+  "id": "4d4f0ce0-1c23-4745-82e6-3504e8831c68",
+  "instruction": "Find all of the adjectives in the following sentence and replace them with synonyms.",
+  "input": "The large bird flew swiftly in the sky.",
+  "output": "The immense bird glided quickly in the sky.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

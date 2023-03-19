@@ -1,0 +1,12 @@
+{
+  "id": "ca130a0e-f7d3-4535-9962-fcf0c647bf34",
+  "instruction": "Compare and contrast the benefits and drawbacks of using a text editor versus an Integrated Development Environment (IDE).",
+  "input": "",
+  "output": "Text editors are often simpler and lighter than IDEs, making them a great choice for quick and easy coding tasks. Plus, they typically run without an install process, making them ideal for sharing code between multiple users. On the other hand, IDEs offer a combination of advanced tools that can be used to maintain multiple files at once, manage dependencies, track changes, provide debugging tools, refactor code and assist with code completion. IDEs are also more visual, with customizable workspaces and intuitive user interfaces. However, IDEs require installation, which can take up more memory and can be more complex to use compared to text editors.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

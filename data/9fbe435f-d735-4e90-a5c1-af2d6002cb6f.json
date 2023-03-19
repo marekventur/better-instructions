@@ -1,0 +1,12 @@
+{
+  "id": "9fbe435f-d735-4e90-a5c1-af2d6002cb6f",
+  "instruction": "Find the cost for 5 roses and 3 lilies.",
+  "input": "Roses- Price per stem $4\nLilies- Price per stem $3",
+  "output": "The cost for 5 roses and 3 lilies is $27.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

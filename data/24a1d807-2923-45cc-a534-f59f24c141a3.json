@@ -1,0 +1,12 @@
+{
+  "id": "24a1d807-2923-45cc-a534-f59f24c141a3",
+  "instruction": "Given two sequences of numbers, concatenate the two sequences",
+  "input": "1,4,6; 2,7,9",
+  "output": "1,4,6,2,7,9",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

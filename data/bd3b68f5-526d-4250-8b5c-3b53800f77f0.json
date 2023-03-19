@@ -1,0 +1,12 @@
+{
+  "id": "bd3b68f5-526d-4250-8b5c-3b53800f77f0",
+  "instruction": "Given a dialogue, find out which character has shown a greater level of respect",
+  "input": "Person A: I think this is the way to go\nPerson B: That's an interesting idea, I'd like to hear more",
+  "output": "Person B has shown a greater level of respect; they have acknowledged Person A's idea and are engaging in conversation to learn more.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6db2f8cf-ebe8-43b0-9d2f-5c15b42f60e7",
+  "instruction": "Find the parallelogram drawn below the clues.",
+  "input": "Clues: Opposite sides are parallel and equal. Adjacent sides are not parallel",
+  "output": "A parallelogram has been drawn below with opposite sides that are parallel and equal and adjacent sides that are not parallel. \n \n       ------------\n      |            |\n      |            |\n      |            |\n      |            |\n       ------------",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

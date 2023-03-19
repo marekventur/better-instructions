@@ -1,0 +1,12 @@
+{
+  "id": "cda86415-dcde-4cbd-8ac6-b26a8bb268f4",
+  "instruction": "Suggest some ways to reduce the given pollution type.",
+  "input": "Air Pollution",
+  "output": "1. Adopt clean energy sources such as solar, wind and hydropower to reduce reliance on fossil fuels.\n2. Encourage the use of public transportation, carpooling and walking to reduce emissions from cars and other vehicles.\n3. Develop emission standards and regulations to reduce the amount of pollutants released into the air from industrial facilities.\n4. Increase green spaces such as parks and gardens, which can help absorb air pollutants and increase air quality.\n5. Promote the usage of renewable energy sources such as biomass, geothermal and others to reduce air pollution.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

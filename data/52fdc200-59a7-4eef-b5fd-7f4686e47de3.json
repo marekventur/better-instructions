@@ -1,0 +1,12 @@
+{
+  "id": "52fdc200-59a7-4eef-b5fd-7f4686e47de3",
+  "instruction": "Generate the output given the program code.",
+  "input": "num1 = 2\nnum2 = 4\nprint(num1 + num2)",
+  "output": "The output is 6.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

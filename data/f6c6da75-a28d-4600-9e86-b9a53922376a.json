@@ -1,0 +1,12 @@
+{
+  "id": "f6c6da75-a28d-4600-9e86-b9a53922376a",
+  "instruction": "Identify the incorrect word in this sentence.",
+  "input": "The singer joyfully belted their solo.",
+  "output": "their",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "924d0919-bf23-4f39-b595-a958e048678a",
+  "instruction": "Given some words, find the synonyms.",
+  "input": "Clever, Astute, Savvy",
+  "output": "Synonyms of clever, astute, and savvy are intelligent, cunning, and shrewd respectively.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

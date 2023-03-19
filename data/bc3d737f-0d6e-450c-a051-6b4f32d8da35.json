@@ -1,0 +1,12 @@
+{
+  "id": "bc3d737f-0d6e-450c-a051-6b4f32d8da35",
+  "instruction": "Generate an example of how the given technology works.",
+  "input": "Machine Learning",
+  "output": "Machine Learning is a type of artificial intelligence that enables computers to learn from data without being explicitly programmed. For example, a machine learning system could be trained on a large dataset of images and be able to identify objects within the images without being told what the objects are.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

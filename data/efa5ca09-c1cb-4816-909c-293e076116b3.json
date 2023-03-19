@@ -1,0 +1,12 @@
+{
+  "id": "efa5ca09-c1cb-4816-909c-293e076116b3",
+  "instruction": "Given a logical statement, output the negation of the statement in propositional logic.",
+  "input": "P implies Q",
+  "output": "\u00acP or \u00acQ",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

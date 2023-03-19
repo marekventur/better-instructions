@@ -1,0 +1,12 @@
+{
+  "id": "a10320c6-0aa3-48cf-9419-f94f4b5e42ff",
+  "instruction": "Design a short survey.",
+  "input": "",
+  "output": "Please rate your level of satisfaction with our product on a scale of 1 to 5, with 5 being the highest level of satisfaction:\n\n1 = Poor\n2 = Satisfactory\n3 = Good\n4 = Very Good\n5 = Excellent",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

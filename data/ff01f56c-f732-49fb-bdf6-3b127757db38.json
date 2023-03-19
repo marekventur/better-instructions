@@ -1,0 +1,12 @@
+{
+  "id": "ff01f56c-f732-49fb-bdf6-3b127757db38",
+  "instruction": "Analyze a customer review and detect if there is any sentiment in it.",
+  "input": "Customer review: This product is a total disappointment.",
+  "output": "There is a negative sentiment in this customer review as the customer expresses disapproval with the product.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

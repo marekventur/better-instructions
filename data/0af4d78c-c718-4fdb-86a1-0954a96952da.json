@@ -1,0 +1,12 @@
+{
+  "id": "0af4d78c-c718-4fdb-86a1-0954a96952da",
+  "instruction": "Given the following ingredients, suggest five dishes that can be created.",
+  "input": "- Rice\n- Onion\n- Tomatoes",
+  "output": "1. Fried Rice \n2. Spanish Rice \n3. Stuffed Tomatoes \n4. Onion Soup \n5. Tomato Rice",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

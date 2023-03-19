@@ -1,0 +1,12 @@
+{
+  "id": "700bbbc2-9faf-47b6-8219-e562a7b489f4",
+  "instruction": "Given the given statement, classify it as ethical or unethical.",
+  "input": "We should always tell the truth to customers.",
+  "output": "Ethical.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

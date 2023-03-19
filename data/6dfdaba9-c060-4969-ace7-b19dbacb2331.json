@@ -1,0 +1,12 @@
+{
+  "id": "6dfdaba9-c060-4969-ace7-b19dbacb2331",
+  "instruction": "Given a list of cities, select the most populous one.",
+  "input": "Dallas, Denver, San Diego",
+  "output": "Dallas",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cba16f6a-d33b-4025-b972-909399cd5365",
+  "instruction": "Rewrite the sentence so that it uses an objective pronoun.",
+  "input": "He was driving too quickly.",
+  "output": "They were driving too quickly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

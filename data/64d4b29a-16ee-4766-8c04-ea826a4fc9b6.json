@@ -1,0 +1,12 @@
+{
+  "id": "64d4b29a-16ee-4766-8c04-ea826a4fc9b6",
+  "instruction": "Create a user interface that allows users to search by keyword.",
+  "input": "",
+  "output": "The user interface should include a search bar for users to query keywords. It should also include a text field to refine the search results. Additionally, the UI should offer a filter option to help narrow down the search results by criteria such as date, type, or category.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

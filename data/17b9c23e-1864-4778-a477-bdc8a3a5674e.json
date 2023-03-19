@@ -1,0 +1,12 @@
+{
+  "id": "17b9c23e-1864-4778-a477-bdc8a3a5674e",
+  "instruction": "Reorganize the words and punctuation marks to make a correct sentence.",
+  "input": "dog the brown my is",
+  "output": "My dog is brown.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

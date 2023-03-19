@@ -1,0 +1,12 @@
+{
+  "id": "974adc5b-55d0-4012-a401-d6748b78e2d3",
+  "instruction": "Generate a sentence that represents the content in the paragraph.",
+  "input": "A new law was introduced in 2020 outlining five safety measures all workplaces must follow to prevent the spread of Covid-19. This includes regularly sanitizing the premises, implementing social distancing measures, and introducing a screening and temperature checking procedure.",
+  "output": "The law introduced in 2020 requires workplaces to take 5 preventive measures such as regular sanitization, social distancing, and screening and temperature checking.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

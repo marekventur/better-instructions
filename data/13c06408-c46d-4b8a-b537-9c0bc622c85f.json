@@ -1,0 +1,12 @@
+{
+  "id": "13c06408-c46d-4b8a-b537-9c0bc622c85f",
+  "instruction": "Given an existing piece of artwork, come up with a title for it.",
+  "input": "An oil painting of two dogs playing fetch in the snow",
+  "output": "Winter Playmates",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

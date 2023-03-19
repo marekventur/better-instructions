@@ -1,0 +1,12 @@
+{
+  "id": "9dedd152-804b-42f4-9547-0693001f9dbb",
+  "instruction": "Identify the path that leads to the peak of the mountain.",
+  "input": "[image of a mountain landscape]",
+  "output": "The path leading to the peak of the mountain is marked by large rocks and boulders and is visible at the center of the image.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

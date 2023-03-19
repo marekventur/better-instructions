@@ -1,0 +1,12 @@
+{
+  "id": "3c922e14-5e42-4926-b8f6-77ca4fe5871f",
+  "instruction": "Replace the <mask> with an appropriate word",
+  "input": "I bought a <mask> for my car.",
+  "output": "I bought a battery for my car.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

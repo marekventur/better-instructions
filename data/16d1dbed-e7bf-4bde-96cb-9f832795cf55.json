@@ -1,0 +1,12 @@
+{
+  "id": "16d1dbed-e7bf-4bde-96cb-9f832795cf55",
+  "instruction": "Given a politician's name, provide a detailed description of the politician's policy objectives.",
+  "input": "Donald Trump",
+  "output": "Donald Trump has been a vocal advocate for policies focusing on economic growth and job creation. He has called for reduced taxes, fewer regulations, and more infrastructure and energy investments to create jobs for Americans. He also supports free trade and opposes the Trans-Pacific Partnership. He has proposed a wall along the U.S.-Mexico border to protect national security, and he advocates for tougher immigration policies such as enhanced vetting of refugees. He is also a strong proponent of national defense and increased military investment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

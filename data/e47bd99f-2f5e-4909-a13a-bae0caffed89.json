@@ -1,0 +1,12 @@
+{
+  "id": "e47bd99f-2f5e-4909-a13a-bae0caffed89",
+  "instruction": "Given a database table, come up with three queries to retrieve some information.",
+  "input": "Table: Teacher\nColumns: teacher_id, name, subject",
+  "output": "Query 1: SELECT * FROM Teacher;\nQuery 2: SELECT name, subject FROM Teacher WHERE teacher_id = \"XX\";\nQuery 3: SELECT name FROM Teacher WHERE subject = \"XX\";",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

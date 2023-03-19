@@ -1,0 +1,12 @@
+{
+  "id": "727abfed-810b-4ab2-bcd9-491c4767ddda",
+  "instruction": "Create a text summarizer for a web page about the Empire State Building.",
+  "input": "This summer, come explore the Empire State Building! Located in the heart of New York City, the iconic building stands a mighty 102 stories tall at 1,454 feet making it one of the tallest buildings in the world. Built in just 15 months in the height of the Great Depression in 1931, the Empire State Building serves as an iconic reminder of resilience in the face of impossible odds.",
+  "output": "The Empire State Building in NYC is a 102-story building standing 1,454 feet high, completed in 15 months during the Depression. It serves as an iconic reminder of resilience and symbol of the city.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

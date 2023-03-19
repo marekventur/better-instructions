@@ -1,0 +1,12 @@
+{
+  "id": "26bdf6e3-0586-41ed-99d7-7ae413864d50",
+  "instruction": "Reword the following sentence so its grammar is correct.",
+  "input": "Did you has study for the exam?",
+  "output": "Did you study for the exam?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

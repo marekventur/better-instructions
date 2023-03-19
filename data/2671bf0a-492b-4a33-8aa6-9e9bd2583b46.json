@@ -1,0 +1,12 @@
+{
+  "id": "2671bf0a-492b-4a33-8aa6-9e9bd2583b46",
+  "instruction": "Prove that the sum of two positive integers is always positive.",
+  "input": "",
+  "output": "The sum of two positive integers is always positive because any two positive integers can be represented by a larger number on the number line. For example, if two positive integers a and b are represented by points A and B, respectively, on the number line, then the sum a+b is represented by the point C, which is further to the right than either A or B. Since the direction on the number line is always the same, and the sum is always farther to the right, the sum of two positive integers is always positive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

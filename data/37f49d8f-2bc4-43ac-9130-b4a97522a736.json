@@ -1,0 +1,12 @@
+{
+  "id": "37f49d8f-2bc4-43ac-9130-b4a97522a736",
+  "instruction": "Suppose you are given a dialogue between two people. Provide a reasonable response for the second person.",
+  "input": "Person 1: Have you watched the latest episode of Riverdale?",
+  "output": "Person 2: No, I haven't had a chance yet. When is it on?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

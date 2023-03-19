@@ -1,0 +1,12 @@
+{
+  "id": "1ef6bea3-7612-45b2-90b9-ca4b7c1cbe31",
+  "instruction": "Create a SQL query to display the names of all employees who work at a specific department.",
+  "input": "Department ID: 21",
+  "output": "SELECT name FROM Employees\nWHERE department_id = 21;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

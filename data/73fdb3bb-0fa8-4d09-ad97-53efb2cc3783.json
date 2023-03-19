@@ -1,0 +1,12 @@
+{
+  "id": "73fdb3bb-0fa8-4d09-ad97-53efb2cc3783",
+  "instruction": "Create a program that converts a number from base 10 to base 16.",
+  "input": "254",
+  "output": "def number_converter(number): \n    #Hexadecimal Number System \n    hexadecimal = [\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"A\", \"B\", \"C\", \"D\", \"E\", \"F\"]\n    \n    # convert to binary \n    binary = bin(number).replace(\"0b\",\"\")\n    \n    # index\n    i = 0\n    hexa = \"\"\n    # While loop from 0 to the number of bits\n    while(i < len(binary)):\n        bit_four = binary[i : i + 4]\n        remainder = bit_four % 16 #16 is Base 16 \n        hexa += hexadecimal[remainder]\n        i += 4\n    return hexa \n\nres = number_converter(254)\nprint(res)\n# output: FE",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

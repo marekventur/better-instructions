@@ -1,0 +1,12 @@
+{
+  "id": "24fafc3b-ba1a-4aad-ab1a-7cbaf6f5374f",
+  "instruction": "Select the word which best describes the phrase 'not the same'",
+  "input": "A. Cunning\nB. Different\nC. Refined\nD. Noble",
+  "output": "B. Different",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

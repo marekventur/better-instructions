@@ -1,0 +1,12 @@
+{
+  "id": "285bf9db-dd03-4085-ada4-a4c73c0f88f4",
+  "instruction": "Assume that you have been given a personal assistant. Provide 3 instructions this assistant should follow.",
+  "input": "",
+  "output": "- Provide daily updates on relevant news, industry developments, and any other trends that may be important for me to stay informed. \n- Schedule and organize my meetings, calls, and other engagements according to my preferences.\n- Monitor my email and alert me of any time-sensitive responses that need to be addressed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

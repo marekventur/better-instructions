@@ -1,0 +1,12 @@
+{
+  "id": "23071915-a633-43c4-80dd-9816ed2e40ad",
+  "instruction": "Compare the two characters in the book.",
+  "input": "Book: The Great Gatsby\nCharacters: Gatsby and Tom",
+  "output": "Gatsby and Tom are similar in that they are both wealthy, powerful men, but they differ in the way they use their resources. Gatsby is a self-made man who earns his wealth through hard work, while Tom is an old-money elite who uses his status and power to control people. Gatsby is more idealistic and romantic, whereas Tom is ruthless and manipulative. Ultimately, Gatsby is searching for meaning and connection, whereas Tom is more concerned about preserving his power and position.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

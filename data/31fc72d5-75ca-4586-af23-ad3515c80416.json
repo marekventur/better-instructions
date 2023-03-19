@@ -1,0 +1,12 @@
+{
+  "id": "31fc72d5-75ca-4586-af23-ad3515c80416",
+  "instruction": "Write a Python function that takes two integers and returns their least common multiple.",
+  "input": "",
+  "output": "def lcm(a, b):\n  if a > b:\n    greater = a\n  else:\n    greater = b\n  while(True):\n    if((greater % a == 0) and (greater % b == 0)):\n      lcm = greater\n      break\n    greater += 1\n  return lcm\n\nprint(lcm(15, 18))\n# Output: 90",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

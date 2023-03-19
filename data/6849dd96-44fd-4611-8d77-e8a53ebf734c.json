@@ -1,0 +1,12 @@
+{
+  "id": "6849dd96-44fd-4611-8d77-e8a53ebf734c",
+  "instruction": "Change emojis in the following text.",
+  "input": "I \u2764\ufe0f shopping but I don't like wasting money",
+  "output": "I \ud83e\udd29 shopping but I don't like wasting money",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

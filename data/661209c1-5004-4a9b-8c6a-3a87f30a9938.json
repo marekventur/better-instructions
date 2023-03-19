@@ -1,0 +1,12 @@
+{
+  "id": "661209c1-5004-4a9b-8c6a-3a87f30a9938",
+  "instruction": "Construct a mathematical proof for this statement.",
+  "input": "For all positive numbers a and b, a+b>a",
+  "output": "Proof: Let a and b be two real numbers such that a and b are both positive. By the definition of a real number, we know that a and b are both greater than 0. Therefore, a+b is necessarily greater than a, since a+b is equal to the sum of two numbers that are both greaterthan 0, and thus necessarily greater than each individual component of the sum. Therefore, for all positive numbers a and b, a+b>a.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

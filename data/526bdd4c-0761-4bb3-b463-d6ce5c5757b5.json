@@ -1,0 +1,12 @@
+{
+  "id": "526bdd4c-0761-4bb3-b463-d6ce5c5757b5",
+  "instruction": "Create a rule set for a game of tic-tac-toe.",
+  "input": "",
+  "output": "The rules for a game of tic-tac-toe are as follows: \n1. Two players take turns placing their mark (x or o) on the 3x3 board.\n2. The first player to make 3 marks in a row (horizontal, vertical, or diagonal) wins the game. \n3. If all squares are filled before either player gets 3 marks in a row, the game ends in a draw. \n4. If a player's mark is blocked three times preventing him/her from making three marks in a row, then the other player wins.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

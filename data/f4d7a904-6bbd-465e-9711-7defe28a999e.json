@@ -1,0 +1,12 @@
+{
+  "id": "f4d7a904-6bbd-465e-9711-7defe28a999e",
+  "instruction": "Figure out the final principle payment amount for a loan with the given details.",
+  "input": "Principle balance: $400,000, Interest rate: 3.5%, Length of loan: 20 years",
+  "output": "The final principal payment amount for this loan is $436,134.36.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

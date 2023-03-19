@@ -1,0 +1,12 @@
+{
+  "id": "7b6d86e8-6fd0-4369-b16b-747ac39b752a",
+  "instruction": "Rewrite the sentence \"John was feeling blue\" in a more creative way.",
+  "input": "John was feeling <noinput>",
+  "output": "John was feeling like loneliness had taken a seat at his table.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

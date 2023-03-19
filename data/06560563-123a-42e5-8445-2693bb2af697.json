@@ -1,0 +1,12 @@
+{
+  "id": "06560563-123a-42e5-8445-2693bb2af697",
+  "instruction": "Find the most similar word in the sentence from a list of provided words.",
+  "input": "The teacher taught music to the class",
+  "output": "music",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

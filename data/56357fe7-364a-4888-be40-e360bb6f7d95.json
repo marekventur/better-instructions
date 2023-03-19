@@ -1,0 +1,12 @@
+{
+  "id": "56357fe7-364a-4888-be40-e360bb6f7d95",
+  "instruction": "Given a set of books, classify them into 3 subcategories.",
+  "input": "Harry Potter by J.K. Rowling, A Tale of Two Cities by Charles Dickens, To Kill a Mockingbird by Harper Lee, The Catcher in the Rye by J.D. Salinger",
+  "output": "Fiction: Harry Potter by J.K. Rowling, A Tale of Two Cities by Charles Dickens, To Kill a Mockingbird by Harper Lee\nClassics: The Catcher in the Rye by J.D. Salinger \nModern Literature: To Kill a Mockingbird by Harper Lee",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

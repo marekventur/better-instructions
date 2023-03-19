@@ -1,0 +1,12 @@
+{
+  "id": "0b8ddd26-d2cc-48cd-89a6-2a7c4cadfc06",
+  "instruction": "Give an example of a given product and its features.",
+  "input": "Smart TV",
+  "output": "One example of a smart TV is the Samsung QN65Q70T, which is a 65-inch 4K TV with Quantum Dot technology. It has an Immersive Viewing Experience with an ultra-wide viewing angle and HDR10+ support. It has a Motion Rate of 240, which ensures that fast-action sequences are smooth and crisp. It also has Smart TV capabilities with apps such as Netflix, YouTube and Disney+, as well as a Universal Guide that makes finding something to watch easy. Additionally, it has an HDMI port for connecting other devices, and Sound by AKG for immersive sound.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

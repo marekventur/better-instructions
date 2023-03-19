@@ -1,0 +1,12 @@
+{
+  "id": "b51fcafb-a41d-4e5c-b732-aa377ff51730",
+  "instruction": "Tell me the difference between a function and an algorithm.",
+  "input": "",
+  "output": "A function is a block of code that takes in an input, carries out a set of operations, and returns an output. An algorithm is a sequence of instructions that are used to solve a problem, usually using a series of functions. Algorithms can be executed multiple times with different inputs, while functions are designed to take in specific inputs and provide a specific output. Algorithms also require a clear-cut set of instructions that are followed in order, while functions can be written in any language and can be more flexible in terms of how they are written.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

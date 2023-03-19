@@ -1,0 +1,12 @@
+{
+  "id": "20d1bd78-1078-457d-ad27-9cac85fa08ee",
+  "instruction": "Write a code snippet that creates an HTTPS POST request.",
+  "input": "",
+  "output": "import requests\nurl = \"https://example.com\"\ndata = { \"key1\": \"value1\" }\nheaders = { \"Content-Type\": \"application/json\" }\nresponse = requests.post(url, data=data, headers=headers)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "88a42acf-18ef-48ff-9d58-717ee643974e",
+  "instruction": "Generate a table of english verb conjugations for the verb \"speak\" in past tense.",
+  "input": "",
+  "output": "| Past Tense  |\n|-------------|\n| spoke       |\n| spoken      |\n| was speaking|\n| had spoken  |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

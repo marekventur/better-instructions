@@ -1,0 +1,12 @@
+{
+  "id": "135f4138-b862-4c72-998d-2c00d142089f",
+  "instruction": "Categorize the type of these landmarks.",
+  "input": "Grand Canyon, Statue of Liberty, Eiffel Tower",
+  "output": "Grand Canyon: Natural Landmark\nStatue of Liberty: Monument\nEiffel Tower: Monument",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

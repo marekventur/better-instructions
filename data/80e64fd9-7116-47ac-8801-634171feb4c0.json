@@ -1,0 +1,12 @@
+{
+  "id": "80e64fd9-7116-47ac-8801-634171feb4c0",
+  "instruction": "Generate an article summarizing the top 10 facts about the coronavirus pandemic.",
+  "input": "",
+  "output": "The coronavirus pandemic has swept across the globe, impacting the lives of millions. Here are the top 10 facts you need to know about this novel virus:\n \n1. Coronavirus disease 2019 (COVID-19) is caused by the novel virus, SARS-CoV-2. \n2. Symptoms can include fever, cough, fatigue, and loss of taste or smell. \n3. It is spread mainly through droplets generated when people who have the virus cough, sneeze or exhale. \n4. It is a global pandemic, affecting 215 countries and territories. \n5. Scientists are developing or testing vaccines and treatments but it is too early to know which one will be effective. \n6. The World Health Organization declared Libya, Somalia and Yemen as being particularly vulnerable to the disease due to their weak healthcare systems. \n7. Economic recoveries are likely to be uneven, with some countries being recovering quicker than others. \n8. Wearing face masks and social distancing are some of the measures that have been employed to slow down the spread of the virus. \n9. Testing has been a challenge in some countries, and it is estimated that the number of infections far exceed the number of reported cases. \n10. Emergence of newer strains of the virus have made it a challenge to keep up with the current disease trends.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

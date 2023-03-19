@@ -1,0 +1,12 @@
+{
+  "id": "5135e737-9afa-4dcb-b802-2c9c8547bd64",
+  "instruction": "Convert the given weight in kilograms to pounds.",
+  "input": "Weight in kg: 40",
+  "output": "Weight in lbs: 88.18 lbs",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

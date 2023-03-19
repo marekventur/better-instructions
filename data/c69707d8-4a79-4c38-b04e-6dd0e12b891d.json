@@ -1,0 +1,12 @@
+{
+  "id": "c69707d8-4a79-4c38-b04e-6dd0e12b891d",
+  "instruction": "How do you create a linked list in C++?",
+  "input": "",
+  "output": "Creating a linked list in C++ is a relatively simple process. The first step is to create a \"Node\" structure. The Node will contain the data which will be held in the linked list, in addition to the address which will point to the next Node in the list. To create the linked list, first a head pointer is declared and initialized to null, which will hold the address of the first Node in the list. The nodes are then created, and their next address is updated. Finally, the head pointer address is updated to the newly created Node and the linked list is complete.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

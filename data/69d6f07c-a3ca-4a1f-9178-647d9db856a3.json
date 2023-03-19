@@ -1,0 +1,12 @@
+{
+  "id": "69d6f07c-a3ca-4a1f-9178-647d9db856a3",
+  "instruction": "Given the following code, explain what each line of code does",
+  "input": "x = 5 \ny = 10\nz = x + y",
+  "output": "The first line of code assigns 5 to the variable x. The second line assigns 10 to the variable y. The third line adds the value of x to the value of y, and assigns the result to the variable z.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

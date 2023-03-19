@@ -1,0 +1,12 @@
+{
+  "id": "ad9f0476-d5bb-4960-8b4a-751231d2743a",
+  "instruction": "Convert the following input string into an array of objects.",
+  "input": "dog,cat,horse,bird",
+  "output": "[\n    { key: 'dog', value: '' },\n    { key: 'cat', value: '' },\n    { key: 'horse', value: '' },\n    { key: 'bird', value: '' }\n]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

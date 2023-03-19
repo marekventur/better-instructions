@@ -1,0 +1,12 @@
+{
+  "id": "9deea70c-ef93-4028-bf9f-c88b3a60bc3f",
+  "instruction": "What are the benefits of adopting a \"test-driven\" approach to software development?",
+  "input": "",
+  "output": "A test-driven approach to software development has many benefits. Firstly, it encourages the programmer to write code that is more reliable and of higher quality because the tests must pass in order for the code to be accepted. Secondly, it leads to better design because tests help the programmer think through all possible edge cases. Finally, it makes the development process faster and more efficient as tests reduce the need for manual/manual-like testing. By having tests that run automatically, the development team can quickly identify problems and make changes without spending unnecessary time pinpointing and debugging an issue. Additionally, it supports better communication within the team and between teams, as tests can act as a reliable form of documentation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

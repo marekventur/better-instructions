@@ -1,0 +1,12 @@
+{
+  "id": "760921b3-90d1-400c-adc0-e7aa2fd504af",
+  "instruction": "Design a system to help manage customer support tickets.",
+  "input": "",
+  "output": "The system could feature automated ticket routing, which allows customer service agents to process tickets more efficiently. Tickets could be routed based on the customer's inquiry type, like technical support or billing inquiries, or based on the agent's skillset. This system would also feature customer support tracking and analytics, so customer service teams could identify trends in customer inquiries and better assess customer satisfaction and customer service performance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

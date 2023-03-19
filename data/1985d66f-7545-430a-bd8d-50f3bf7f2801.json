@@ -1,0 +1,12 @@
+{
+  "id": "1985d66f-7545-430a-bd8d-50f3bf7f2801",
+  "instruction": "Construct a multiple choice quiz containing three questions about a chosen topic.",
+  "input": "Animals",
+  "output": "Q1:Which animal has the longest lifespan?\nA. Whale\nB. Tortoise\nC. Elephant\nD. Lion\n\nQ2:Which two animals are considered to be the most intelligent?\nA. Crow and Dolphin\nB. Elephant and Cow\nC. Lion and Fox\nD. Pig and Turtle\n\nQ3:Which animal is native to Australia?\nA. Kangaroo\nB. Reindeer\nC. Bison\nD. Sloth",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

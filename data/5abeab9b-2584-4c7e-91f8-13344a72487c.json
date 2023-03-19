@@ -1,0 +1,12 @@
+{
+  "id": "5abeab9b-2584-4c7e-91f8-13344a72487c",
+  "instruction": "Generate a to-do-list for today.",
+  "input": "",
+  "output": "Today's To-Do-List: \n- Wake up at 7am and make breakfast \n- Go for a 30-minute jog \n- Complete any urgent work tasks \n- Eat lunch \n- Work on a project for at least 2 hours \n- Take a 30-minute break \n- Answer emails and finish up any pending tasks \n- Cook dinner \n- Take a relaxing bath \n- Read a book before bed",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

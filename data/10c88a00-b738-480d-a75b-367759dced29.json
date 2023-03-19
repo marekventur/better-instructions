@@ -1,0 +1,12 @@
+{
+  "id": "10c88a00-b738-480d-a75b-367759dced29",
+  "instruction": "Given two medical terms, define what each term means.",
+  "input": "Hypertension and Hypothyroidism",
+  "output": "Hypertension is a condition characterized by abnormally high blood pressure. \n\nHypothyroidism is a condition in which the thyroid gland does not produce enough of certain hormones, leading to symptoms such as fatigue, weight gain, dry skin, and constipation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

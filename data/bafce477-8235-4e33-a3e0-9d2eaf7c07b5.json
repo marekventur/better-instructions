@@ -1,0 +1,12 @@
+{
+  "id": "bafce477-8235-4e33-a3e0-9d2eaf7c07b5",
+  "instruction": "Given a list of items, reorder them according to some criterion.",
+  "input": "Blueberries, Bananas, Apples, Oranges",
+  "output": "Apples, Oranges, Bananas, Blueberries",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

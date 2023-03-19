@@ -1,0 +1,12 @@
+{
+  "id": "581d7c47-e039-41a2-b77a-2a216c4fada4",
+  "instruction": "Given the following symbols, create a logo",
+  "input": "+ Square\n* Circle\n- Triangle",
+  "output": "A logo which combines the square, circle, and triangle could have the square on the bottom, with the triangle and circle connected on top, creating a stepped upward arrow shape.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

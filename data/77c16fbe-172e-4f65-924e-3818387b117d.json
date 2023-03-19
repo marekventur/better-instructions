@@ -1,0 +1,12 @@
+{
+  "id": "77c16fbe-172e-4f65-924e-3818387b117d",
+  "instruction": "Report the temperature in degree Celsius given an input of the temperature in Fahrenheit.",
+  "input": "The temperature is 95 degree Fahrenheit.",
+  "output": "The temperature is 35 degree Celsius.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

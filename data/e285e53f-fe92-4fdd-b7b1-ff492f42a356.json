@@ -1,0 +1,12 @@
+{
+  "id": "e285e53f-fe92-4fdd-b7b1-ff492f42a356",
+  "instruction": "Describe the various components of a decision tree.",
+  "input": "",
+  "output": "A decision tree is a graphical representation of the decision-making process. It consists of nodes that represent decisions, branches that represent possible outcomes of those decisions, and leaves that represent the end result. A decision tree starts with the main decision and branches out into a series of other decisions that eventually lead to a conclusion. Each branch in a decision tree can be further split into other decisions, and the end result of each branch is determined by the outcome of its predecessors.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

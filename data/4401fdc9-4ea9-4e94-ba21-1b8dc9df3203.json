@@ -1,0 +1,12 @@
+{
+  "id": "4401fdc9-4ea9-4e94-ba21-1b8dc9df3203",
+  "instruction": "Construct a binary search tree using the given elements.",
+  "input": "[1, 8, 3, 6, 10, 20]",
+  "output": "8\n       /  \\\n      1    10\n     / \\     \\\n    3   6    20",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

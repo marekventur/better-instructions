@@ -1,0 +1,12 @@
+{
+  "id": "0fdfb955-340f-4a31-ba7a-9002c8d1f06f",
+  "instruction": "Explain what a calorimeter is used for.",
+  "input": "",
+  "output": "A calorimeter is a device used in chemistry to measure the enthalpy change in a chemical reaction. It consists of two insulated chambers that are connected to each other and sealed. A known amount of reactants or heat source is then placed in each chamber, and the temperature difference between the two is monitored over time. This temperature change is then used to calculate the amount of energy released or absorbed by the reaction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

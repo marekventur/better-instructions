@@ -1,0 +1,12 @@
+{
+  "id": "525dc6b2-edf6-45ae-8600-f7b20b5b908c",
+  "instruction": "Summarize the infographic about the basics of machine learning",
+  "input": "",
+  "output": "Machine learning is a field that involves using algorithms to analyze data in order to make predictions and build intelligent systems. It involves recognizing patterns, creating models, and making decisions. Machine learning is used to complete tasks that would be too time consuming or difficult for humans to complete. There are various types of machine learning, such as supervised, unsupervised, and reinforcement learning. Supervised learning involves training a model on labeled data, while unsupervised learning uses unlabeled data. Reinforcement learning uses rewards and punishments to learn how to complete tasks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "16e5da00-f3a2-4715-9046-049d1b3f880c",
+  "instruction": "Create a list of three mistakes to avoid when designing an AI assistant.",
+  "input": "",
+  "output": "1. Avoid making overly generic responses, as this will make the assistant appear robotic and limit its effectiveness.\n2. Don't neglect to consider user security and privacy, as this can be a major issue for users.\n3. Avoid overloading the assistant with too much content, as this can make it difficult to interact with and understand.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

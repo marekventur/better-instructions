@@ -1,0 +1,12 @@
+{
+  "id": "427430a7-08e2-4369-82a6-0a69f5e9fb6d",
+  "instruction": "Take these two words and write a compound word.",
+  "input": "soccer + ball",
+  "output": "Soccerball.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

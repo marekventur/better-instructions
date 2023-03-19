@@ -1,0 +1,12 @@
+{
+  "id": "c3f9f5c4-f184-4e90-b824-b5371d1f3ce9",
+  "instruction": "Extract major topics from the provided essay.",
+  "input": "[Essay about history of the civil rights movement]",
+  "output": "The major topics discussed in this essay include the history of the civil rights movement, the impacts of the civil rights movement on modern American society, the challenges faced by civil rights activists, and the legacy of the civil rights movement.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9661fff8-c7b2-4094-a5a6-b1ba2f733e11",
+  "instruction": "Construct a program for 'String Matching' using Greedy Algorithm.",
+  "input": "String A:ababcab\nString B:cab",
+  "output": "//program for string matching using greedy algorithm \n\n#include<stdio.h>\n#include<stdbool.h>\n\n// Function to find match between given string and pattern \nbool stringMatching(char string[], char pattern[]) \n{ \n\t//calculate length of given string \n\tint n = strlen(string);  \n\n\t//calculate length of given pattern  \n\tint m = strlen(pattern);  \n\n\t// indices of string and pattern \n\tint i = 0, j = 0;  \n\n\t// Greedy loop to match \n\twhile(i < n && j < m) { \n\t\tif(string[i] == pattern[j]) { \n\t\t\ti++; \n\t\t\tj++; \n\t\t} \n\t\t// Go back one position in string \n\t\telse { \n\t\t\ti = i - j + 1; \n\t\t\tj = 0; \n\t\t}\t \n\t} \n\n\t// Check whether pattern is found or not \n\tif(j == m) \n\t\treturn true; \n\t\n\treturn false; \n} \n\n// Driver code \nint main() \n{ \n\tchar string[] = \"ababcab\"; \n\tchar pattern[] = \"cab\"; \n\t\n\tbool flag = stringMatching(string, pattern); \n\t\n\tif (flag) \n\t\tprintf(\"Pattern matches\"); \n\telse\n\t\tprintf(\"Pattern do not matches\"); \n\t\t\n\treturn 0; \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

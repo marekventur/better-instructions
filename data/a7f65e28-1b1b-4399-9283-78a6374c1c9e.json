@@ -1,0 +1,12 @@
+{
+  "id": "a7f65e28-1b1b-4399-9283-78a6374c1c9e",
+  "instruction": "Provide a detailed description of a cloud-based data storage system.",
+  "input": "",
+  "output": "A cloud-based data storage system is a type of system in which data is stored remotely on offsite servers, rather than on local hard drives. Data stored in the cloud can be accessed from anywhere with an internet connection and can also be configured to be accessed by multiple users at the same time. A cloud-based system allows for the efficient storage and management of large amounts of data, and can be more cost effective than setting up a local data center. The system itself usually consists of a server that stores the data, an operating system for managing the system, and layers of security protocols to protect the data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d5dd5a6c-3e2c-4866-940b-e4c8d0714fe6",
+  "instruction": "For a given profession, introduce a key technology or tool currently used.",
+  "input": "Paramedics",
+  "output": "Paramedics use a variety of specially designed equipment to help treat patients in emergency situations, such as a defibrillator to help restart a patient's heart or a specialized monitor to track vital signs. They also use technology such as two-way radios and GPS navigation systems to ensure they get to the right location quickly and safely.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

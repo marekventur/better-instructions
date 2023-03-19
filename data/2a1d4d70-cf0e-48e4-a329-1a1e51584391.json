@@ -1,0 +1,12 @@
+{
+  "id": "2a1d4d70-cf0e-48e4-a329-1a1e51584391",
+  "instruction": "Write a JavaScript function to calculate the total cost of an item and applicable taxes.",
+  "input": "Item cost = $10\nTax rate = 5%",
+  "output": "function totalCost (cost, taxRate) {\n  let total = cost + (cost * taxRate / 100);\n  return total;\n}\nlet totalPrice = totalCost(10, 5);\nconsole.log(totalPrice); // 10.5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

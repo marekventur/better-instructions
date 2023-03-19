@@ -1,0 +1,12 @@
+{
+  "id": "aed28872-6f5c-4153-b6a5-a92d27b6770b",
+  "instruction": "What measures should be taken to prevent cyberattacks?",
+  "input": "",
+  "output": "1. Implement strong authentication measures to protect online accounts.\n2. Use strong and unique passwords for each online account.\n3. Update software and operating systems regularly.\n4. Download and install antivirus and antimalware software.\n5. Install a firewall and monitor network traffic. \n6. Encrypt sensitive data.\n7. Back up important data regularly.\n8. Educate employees about cyber security.\n9. Report any suspicious activity to the relevant authorities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

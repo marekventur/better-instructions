@@ -1,0 +1,12 @@
+{
+  "id": "7f797347-c6da-44ac-8dd6-b10d9a7541a0",
+  "instruction": "Given a job posting, rearrange the parts in the most effective order.",
+  "input": "Full time job\nCompetitive salary\nComputer skills needed",
+  "output": "Computer skills needed\nCompetitive salary\nFull time job",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

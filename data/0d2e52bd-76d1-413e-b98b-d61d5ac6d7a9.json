@@ -1,0 +1,12 @@
+{
+  "id": "0d2e52bd-76d1-413e-b98b-d61d5ac6d7a9",
+  "instruction": "Create a grocery list for a vegan who wants to eat for a week",
+  "input": "",
+  "output": "1. Grains - quinoa, brown rice, oats \n2. Legumes - chickpeas, black beans, lentils \n3. Vegetables - kale, onions, peppers, mushrooms, garlic \n4. Fruits - apples, oranges, bananas, avocados \n5. Nuts and Seeds - almonds, walnuts, sunflower seeds, chia seeds \n6. Non-Dairy Milks - soymilk, almond milk, cashew milk \n7. Tofu\n8. Tempeh \n9. Vegan Protein Powder \n10. Nutritional Yeast",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

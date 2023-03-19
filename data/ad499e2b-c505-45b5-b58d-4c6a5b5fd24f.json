@@ -1,0 +1,12 @@
+{
+  "id": "ad499e2b-c505-45b5-b58d-4c6a5b5fd24f",
+  "instruction": "Given the data points (x= 10, y=20, z=15) calculate the mean.",
+  "input": "10, 20, 15",
+  "output": "The mean of the data points (10, 20, 15) is 15.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

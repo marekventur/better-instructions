@@ -1,0 +1,12 @@
+{
+  "id": "bf01a877-6d4c-46b1-8f5d-36a9842e4f7d",
+  "instruction": "Edit the document so the language is more formal.",
+  "input": "We got the report done, that was really great!",
+  "output": "We successfully completed the report, which was an impressive accomplishment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

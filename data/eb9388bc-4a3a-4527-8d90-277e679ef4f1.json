@@ -1,0 +1,12 @@
+{
+  "id": "eb9388bc-4a3a-4527-8d90-277e679ef4f1",
+  "instruction": "Generate 5 questions that would be used to test someone's knowledge of the periodic table.",
+  "input": "",
+  "output": "1. What is the atomic number of oxygen? \n2. What element is represented by the symbol K?\n3. How many total elements are present in the periodic table?\n4. What is the full name of the element with the symbol Ni?\n5. How many rows are present in a complete version of the periodic table?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

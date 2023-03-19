@@ -1,0 +1,12 @@
+{
+  "id": "2832ff94-806d-4810-87a8-e6d93bb3a7ec",
+  "instruction": "Delete the word \"South\" in this sentence: \"South Korea on Monday announced sweeping tax reforms\"",
+  "input": "South Korea on Monday announced sweeping tax reforms",
+  "output": "Korea on Monday announced sweeping tax reforms",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

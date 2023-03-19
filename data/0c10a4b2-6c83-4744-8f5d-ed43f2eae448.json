@@ -1,0 +1,12 @@
+{
+  "id": "0c10a4b2-6c83-4744-8f5d-ed43f2eae448",
+  "instruction": "Draft rules for a game of Monopoly.",
+  "input": "",
+  "output": "The rules for a game of Monopoly are as follows: each player will roll two dice and move their game piece the number of spaces indicated by the roll; if a player's game piece lands on an unowned property, they may buy it; if the property has already been purchased, the player must pay the owner rent; each player begins the game with a certain amount of money and must make strategic decisions to avoid bankruptcy; the last player with money remaining is the winner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5e50ff55-545d-423c-952b-4521ac2479fe",
+  "instruction": "Determine the coefficient of x in the expression (2x^2+x+1).",
+  "input": "",
+  "output": "The coefficient of x in the expression (2x^2+x+1) is 1. Coefficients in an algebraic expression represent the multiplicative factor of the corresponding term. The x term in this expression has a coefficient of 1, which means it is multiplied by 1.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

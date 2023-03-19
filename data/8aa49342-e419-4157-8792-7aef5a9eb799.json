@@ -1,0 +1,12 @@
+{
+  "id": "8aa49342-e419-4157-8792-7aef5a9eb799",
+  "instruction": "Detect if the sentence depicts an optimistic tone or a pessimistic tone.",
+  "input": "Markets may decline further in the coming days.",
+  "output": "Pessimistic",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

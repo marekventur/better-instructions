@@ -1,0 +1,12 @@
+{
+  "id": "934f6e45-71a6-4e48-9ddf-c59d6e0b2ba0",
+  "instruction": "Create a list of competencies necessary for a data scientist.",
+  "input": "",
+  "output": "A data scientist should possess the following competencies: \n\n1. Strong knowledge of analytics, data engineering, and data mining.\n2. Expertise in statistical analysis and data visualization techniques. \n3. Ability to query databases and work with data from multiple sources. \n4. Excellent programming and scripting skills, especially in Python and R.\n5. Familiarity with NoSQL databases \n6. Experience with Big Data analysis tools and techniques \n7. Ability to analyze large datasets and identify patterns \n8. Strong communication skills to present data-driven insights \n9. Knowledge of machine learning methods and techniques \n10. Familiarity with predictive analytics techniques \n11. Understanding of cloud computing and distributed computing systems \n12. Smart problem-solving and creative thinking",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

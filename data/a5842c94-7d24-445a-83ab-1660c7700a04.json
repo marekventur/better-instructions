@@ -1,0 +1,12 @@
+{
+  "id": "a5842c94-7d24-445a-83ab-1660c7700a04",
+  "instruction": "Construct a scientific experiment to test the given theory.",
+  "input": "Can water molecules form different shapes?",
+  "output": "The scientific experiment should include the following steps:\n\n1. Obtain a shallow container, such as a Pyrex dish. \n2. Place water in the container and reduce the temperature slightly in order to cause the water molecules to slow down.\n3. Place a drop of food coloring in the center of the container and observe the droplet closely. \n4. As the water molecules near the droplet, slowly rotate the Pyrex dish to observe the way in which the droplet is surrounded by water molecules and whether they form any distinct shapes or patterns. \n5. Take notes of the observations and record any significant results.  \n\nThrough the experiment, one should be able to observe the formation of different shapes as a result of the water molecules surrounding the food coloring droplet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

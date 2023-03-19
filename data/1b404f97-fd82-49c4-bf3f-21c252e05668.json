@@ -1,0 +1,12 @@
+{
+  "id": "1b404f97-fd82-49c4-bf3f-21c252e05668",
+  "instruction": "Classify each of these words as either a noun or a verb.",
+  "input": "Words: run, cycling",
+  "output": "Noun: cycling\nVerb: run",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

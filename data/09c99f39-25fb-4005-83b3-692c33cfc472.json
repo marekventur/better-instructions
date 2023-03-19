@@ -1,0 +1,12 @@
+{
+  "id": "09c99f39-25fb-4005-83b3-692c33cfc472",
+  "instruction": "Generate a fake news article about the current political situation",
+  "input": "",
+  "output": "Leaders in Washington have been battling over a controversial new bill that would dramatically shift the power structure across the country. Tensions have been on the rise since the bill was introduced last month, with each side unwilling to back down and compromise. Now, sources within Washington are suggesting that the bill has a much bigger agenda behind it and could be a massive power grab. \n\nThe bill, named the \"American Opportunity Act\" would expand voting rights, lower taxes, and increase regulations on large businesses. Critics of the bill have said that it goes too far and would infringe on the rights of taxpayers and businesses, while supporters say that it is necessary to ensure that everyone gets a fair chance. \n\nMany in Washington are worried that the bill is a thinly veiled attempt at a takeover of the government by certain individuals. They fear that the bill would open the door to unchecked power and give those in power a way to push through their own agenda, regardless of the wishes of the public. \n\nAt this point, it's unclear what the fate of the bill is, but it's possible that it will become a major political battle in the coming months.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

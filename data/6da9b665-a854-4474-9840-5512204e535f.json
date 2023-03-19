@@ -1,0 +1,12 @@
+{
+  "id": "6da9b665-a854-4474-9840-5512204e535f",
+  "instruction": "Given the following table, write a query to find the total revenue from items of category A.",
+  "input": "Table:\nItem         | Revenue | Category\n------------ | --------|----------\nItem 1       |  200    | A\nItem 2       |  250    | B\nItem 3       |  300    | A",
+  "output": "SELECT SUM(r.Revenue) FROM table r WHERE r.Category = 'A';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

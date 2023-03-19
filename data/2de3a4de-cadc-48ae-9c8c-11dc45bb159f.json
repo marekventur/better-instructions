@@ -1,0 +1,12 @@
+{
+  "id": "2de3a4de-cadc-48ae-9c8c-11dc45bb159f",
+  "instruction": "Remove grammatical errors from the text",
+  "input": "I've been accepted for two jobs, but I'm leaning toward the first one",
+  "output": "I have been accepted for two jobs, but I am leaning toward the first one.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

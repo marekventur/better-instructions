@@ -1,0 +1,12 @@
+{
+  "id": "b59b5336-ea30-49e5-b2a5-7fdf374cb1bc",
+  "instruction": "Write the output for the given input to the code.",
+  "input": "def say_hello(name):\n print('Hello ' + name + '!')\n\ninput:\nTyra",
+  "output": "Hello Tyra!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

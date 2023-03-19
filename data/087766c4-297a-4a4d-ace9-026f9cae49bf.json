@@ -1,0 +1,12 @@
+{
+  "id": "087766c4-297a-4a4d-ace9-026f9cae49bf",
+  "instruction": "Given the lyrics, arrange them in the correct order.",
+  "input": "Lyrics:\nIt's like I'm the only one here \nBut I'm screaming alone\nBut I'm screaming alone\nIt's like I'm the only one here",
+  "output": "It's like I'm the only one here\nBut I'm screaming alone\nBut I'm screaming alone\nIt's like I'm the only one here",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

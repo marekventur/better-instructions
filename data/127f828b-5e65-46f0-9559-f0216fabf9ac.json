@@ -1,0 +1,12 @@
+{
+  "id": "127f828b-5e65-46f0-9559-f0216fabf9ac",
+  "instruction": "Remove the 3rd person singular pronoun in the following sentence and make the necessary changes.",
+  "input": "He should reach early to be on time for the meeting.",
+  "output": "Reach early to be on time for the meeting.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

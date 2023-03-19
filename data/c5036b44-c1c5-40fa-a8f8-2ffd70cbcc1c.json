@@ -1,0 +1,12 @@
+{
+  "id": "c5036b44-c1c5-40fa-a8f8-2ffd70cbcc1c",
+  "instruction": "Classify the following sentence into one of the categories: descriptive, narrative, expository, persuasive, or general.",
+  "input": "Technology has changed the way we communicate.",
+  "output": "Expository",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

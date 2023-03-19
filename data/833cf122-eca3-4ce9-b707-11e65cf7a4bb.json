@@ -1,0 +1,12 @@
+{
+  "id": "833cf122-eca3-4ce9-b707-11e65cf7a4bb",
+  "instruction": "Write a function to calculate the area of a triangle given the lengths of its sides.",
+  "input": "",
+  "output": "\"\"\"\nCalculate the area of a triangle given the lengths of its sides\n\"\"\"\n\ndef triangle_area(a, b, c): \n    # calculate the semi-perimeter \n    s = (a + b + c) / 2\n  \n    # calculate the area \n    area = (s*(s-a)*(s-b)*(s-c)) ** 0.5\n  \n    return area \n\nif __name__ == '__main__':\n    print(\"Area of triangle is\",triangle_area(3,4,5))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

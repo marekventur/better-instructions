@@ -1,0 +1,12 @@
+{
+  "id": "929f805c-618f-42b9-a3c8-3e029a8dab0b",
+  "instruction": "Compare the given products.",
+  "input": "iPhone 11 and Google Pixel 4",
+  "output": "The iPhone 11 and the Google Pixel 4 are both powerful smartphones, but the iPhone 11 features a larger display and a longer battery life. However, the Google Pixel 4 has an advanced camera system and more intuitive software.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

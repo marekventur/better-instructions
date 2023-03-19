@@ -1,0 +1,12 @@
+{
+  "id": "fb0d9806-c00a-4e69-b69a-8f4aba2ebfae",
+  "instruction": "Given a list of steps, explain how to make a cake.",
+  "input": "1. Preheat the oven to 350\u00b0F (175\u00b0C).\n2. Grease the bottom and sides of the cake pan. \n3. In a large mixing bowl, mix together the cake mix and the eggs.\n4. Pour the cake mix into the prepared pan.\n5. Bake the cake for 25 to 30 minutes.",
+  "output": "1. Preheat the oven to 350\u00b0F (175\u00b0C).\n2. Grease the bottom and sides of a 9-inch cake pan with butter or non-stick cooking spray.\n3. In a large mixing bowl, mix the cake mix and the eggs together with an electric mixer until combined.\n4. Pour the cake batter into your prepared cake pan.\n5. Bake the cake in the preheated oven for 25 to 30 minutes, or until a toothpick inserted in the center of the cake comes out clean.\n6. Let the cake cool in the pan on a wire cooling rack for 10 minutes before turning it out onto a serving plate. \n7. Serve the cake warm or at room temperature. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

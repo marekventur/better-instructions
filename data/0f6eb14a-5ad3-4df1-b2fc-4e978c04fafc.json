@@ -1,0 +1,12 @@
+{
+  "id": "0f6eb14a-5ad3-4df1-b2fc-4e978c04fafc",
+  "instruction": "Explain what a serverless architecture is.",
+  "input": "",
+  "output": "Serverless architecture is a cloud-computing execution model in which a cloud service provider runs the server, and dynamically allocates machine resources. It is an event-driven compute platform which uses functions that are triggered by certain events and automatically executes code to respond to those events. Serverless architectures provide businesses with much more flexibility and reliability, as there is no need to manage and maintain servers. It is also cost efficient because there is no need for continuous running of servers, it is instead charged only for running a function.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

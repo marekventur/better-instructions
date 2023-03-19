@@ -1,0 +1,12 @@
+{
+  "id": "7ef1c2a1-a3d0-4ea4-a78d-a7e64c863e81",
+  "instruction": "Explain why the following event occured",
+  "input": "Event: The stock market crashed",
+  "output": "The stock market crashed due to a large sell-off caused by investors who perceived risk in the market. This caused a panic and resulted in a cascade of selling, causing the prices of stocks to plunge.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

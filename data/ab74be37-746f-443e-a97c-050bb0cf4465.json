@@ -1,0 +1,12 @@
+{
+  "id": "ab74be37-746f-443e-a97c-050bb0cf4465",
+  "instruction": "Find the hypernym of the words \u201ccarrot\u201d and \u201cbananas\u201d",
+  "input": "",
+  "output": "Carrot: Vegetable\nBananas: Fruit",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

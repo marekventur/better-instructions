@@ -1,0 +1,12 @@
+{
+  "id": "077102fb-0040-435c-bb86-98886692eb65",
+  "instruction": "Edit the following sentence: \"Joanna loves to to go swimming.\"",
+  "input": "Joanna loves to to go swimming.",
+  "output": "Joanna loves to go swimming.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

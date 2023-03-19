@@ -1,0 +1,12 @@
+{
+  "id": "0c8c11fc-133f-417f-9ca4-2551794d2015",
+  "instruction": "Create a query that retrieves all posts with the word \"AI\" in their title.",
+  "input": "",
+  "output": "SELECT * FROM posts WHERE title LIKE '%AI%';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

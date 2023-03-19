@@ -1,0 +1,12 @@
+{
+  "id": "d553be4c-45ca-44f2-90b1-6df457d5d9a9",
+  "instruction": "Rewrite this sentence to emphasize the importance of the risk.",
+  "input": "There is a risk of contamination if this procedure is not done correctly.",
+  "output": "The potential for contamination is very serious if this procedure is done incorrectly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

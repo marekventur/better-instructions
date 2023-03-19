@@ -1,0 +1,12 @@
+{
+  "id": "c2fc964f-8db4-4197-b8d2-3b0d7cc87dde",
+  "instruction": "Rearrange the words and make a complete sentence with correct syntax and output the result.",
+  "input": "always programming loves he",
+  "output": "He always loves programming.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "75cc4b68-ff16-4d1b-b2cd-e77aa8653cdd",
+  "instruction": "Classify the given animal into either reptile or mammal.",
+  "input": "Rhinoceros",
+  "output": "Mammal",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

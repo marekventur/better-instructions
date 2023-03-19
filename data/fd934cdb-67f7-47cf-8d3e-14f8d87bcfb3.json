@@ -1,0 +1,12 @@
+{
+  "id": "fd934cdb-67f7-47cf-8d3e-14f8d87bcfb3",
+  "instruction": "Below is a text, correct the grammatical errors.",
+  "input": "Globle warming are bothering us.",
+  "output": "Global warming is bothering us.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

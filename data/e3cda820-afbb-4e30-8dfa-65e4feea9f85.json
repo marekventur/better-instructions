@@ -1,0 +1,12 @@
+{
+  "id": "e3cda820-afbb-4e30-8dfa-65e4feea9f85",
+  "instruction": "Explain what a Turing Test is.",
+  "input": "",
+  "output": "The Turing Test is a method of determining a machine's ability to exhibit intelligent behaviour indistinguishable from that of a human. The test involves an interrogator who is attempting to differentiate between a machine and a human based on a conversation. If the interrogator is unable to tell the difference between the machine's responses and a human's responses, the machine is said to have passed the Turing Test.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

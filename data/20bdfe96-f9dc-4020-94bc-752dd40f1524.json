@@ -1,0 +1,12 @@
+{
+  "id": "20bdfe96-f9dc-4020-94bc-752dd40f1524",
+  "instruction": "Generate five questions that could be used for a survey about people's experience using Zoom for remote working",
+  "input": "noinput",
+  "output": "1. How satisfied are you with your overall experience of using Zoom for remote working?\n2. What aspect of Zoom has been the most helpful to you while working remotely?\n3. Do you have any suggestions to improve the Zoom experience?\n4. How comfortable do you feel while using Zoom for virtual meetings?\n5. Are there any issues that you have been facing while using Zoom?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

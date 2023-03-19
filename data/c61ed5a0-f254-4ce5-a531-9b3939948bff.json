@@ -1,0 +1,12 @@
+{
+  "id": "c61ed5a0-f254-4ce5-a531-9b3939948bff",
+  "instruction": "Highlight the degree of comparison in the following sentence.",
+  "input": "The river runs faster than the mountain goat scales it.",
+  "output": "The degree of comparison is \"faster than\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

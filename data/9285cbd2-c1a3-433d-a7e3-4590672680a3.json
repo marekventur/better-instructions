@@ -1,0 +1,12 @@
+{
+  "id": "9285cbd2-c1a3-433d-a7e3-4590672680a3",
+  "instruction": "Identify the syntactical difference between two sentences.",
+  "input": "She ate the food.\nThe food ate she.",
+  "output": "The first sentence has the subject \"She\" before the verb \"ate\" while the second sentence has the subject \"She\" after the verb \"ate\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

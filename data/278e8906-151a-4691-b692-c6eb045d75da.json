@@ -1,0 +1,12 @@
+{
+  "id": "278e8906-151a-4691-b692-c6eb045d75da",
+  "instruction": "Given a sentence and a word in the sentence, what is the correct part of speech?",
+  "input": "He offered her a job. Job",
+  "output": "Noun",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dc75a5e0-dff1-4797-aca4-3b2c6187ae3b",
+  "instruction": "Summarize the given Wikipedia article.",
+  "input": "Noam Chomsky is an American linguist, philosopher, cognitive scientist, historian, social critic, and political activist.",
+  "output": "Noam Chomsky is a renowned linguist and philosopher who has contributed to the field of cognitive science, political activism, and history. He is considered to be one of the founders of modern linguistics, and his theories have had wide-ranging impacts on the fields of psychology and philosophy. He is also an outspoken political critic with a wide range of activist endeavors.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

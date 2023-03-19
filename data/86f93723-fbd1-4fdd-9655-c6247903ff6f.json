@@ -1,0 +1,12 @@
+{
+  "id": "86f93723-fbd1-4fdd-9655-c6247903ff6f",
+  "instruction": "Balance the following chemical equation.",
+  "input": "Mg + Cl2 \u2192",
+  "output": "Mg + Cl2 \u2192 MgCl2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

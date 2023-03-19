@@ -1,0 +1,12 @@
+{
+  "id": "17ab6b16-ae10-429c-aabf-c96ad127698c",
+  "instruction": "Identify the difference between a \"static\" and \"dynamic\" website.",
+  "input": "",
+  "output": "The difference between a static and dynamic website is that a static website is composed of fixed HTML code, while a dynamic website uses programming languages like PHP or Java to generate the content of its pages when they're visited. A dynamic website has the ability to update content without being manually changed, as well as providing an interactive user experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

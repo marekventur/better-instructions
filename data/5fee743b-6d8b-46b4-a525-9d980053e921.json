@@ -1,0 +1,12 @@
+{
+  "id": "5fee743b-6d8b-46b4-a525-9d980053e921",
+  "instruction": "Generate a short story about a <mask> trying to find their place in the world.",
+  "input": "Cheetah",
+  "output": "An orphaned Cheetah cub was wandering the savannah looking for its place in the world. Everywhere it went, it came across hostile creatures who weren't willing to share their home with a new cat. It found no friends, and no one to teach it the skills it needed to survive. \n\nThe lonely cub decided to set out in search of a new home. After a long and dangerous journey, it eventually came across a clearing filled with other Cheetahs. The cub, who had grown weary of its travels, decided to stay and join the clan. \n\nOver the next few weeks, the cub slowly adapted to its new home. With the help of the others, it learned how to hunt, play, and communicate. Finally the cub was accepted into the clan, and it felt like it had found its place in the world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

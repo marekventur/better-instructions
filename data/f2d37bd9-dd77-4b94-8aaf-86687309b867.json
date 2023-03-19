@@ -1,0 +1,12 @@
+{
+  "id": "f2d37bd9-dd77-4b94-8aaf-86687309b867",
+  "instruction": "Explain how to create a secure password.",
+  "input": "",
+  "output": "When creating a secure password, it is important to choose a combination of words, numbers, and symbols that are difficult to guess or crack. The password should be at least 8 characters long and include both uppercase and lowercase letters, numbers, and symbols. Avoid using simple words or phrases, and don't use the same password for multiple accounts. It's also important to change your passwords on a regular basis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

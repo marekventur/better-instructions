@@ -1,0 +1,12 @@
+{
+  "id": "774eda04-9c10-4182-a3df-d37f1c8e1a56",
+  "instruction": "Write JavaScript code that takes an array of numbers as input and returns a copy of the array without any of the duplicate numbers.",
+  "input": "[1, 2, 3, 2, 4, 5, 6, 7, 1, 4]",
+  "output": "const uniqueArray = arr => { \n  const seen = {}; \n  const output = []; \n  \n  for (let i = 0; i < arr.length; i++) { \n    if (!seen[arr[i]]) { \n      seen[arr[i]] = true; \n      output.push(arr[i]); \n    } \n  } \n  return output; \n} \n\nconsole.log (uniqueArray([1, 2, 3, 2, 4, 5, 6, 7, 1, 4])); \n// Output: [1, 2, 3, 4, 5, 6, 7]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

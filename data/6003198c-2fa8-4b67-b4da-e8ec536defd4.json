@@ -1,0 +1,12 @@
+{
+  "id": "6003198c-2fa8-4b67-b4da-e8ec536defd4",
+  "instruction": "Create a haiku poem using the provided words.",
+  "input": "Wind, Clouds, Sky",
+  "output": "Winds rise in the sky \nWhite clouds drift away slowly \nLeaving blue forever",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

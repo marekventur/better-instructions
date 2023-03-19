@@ -1,0 +1,12 @@
+{
+  "id": "d1c2015d-88b8-4fcb-a50c-aedc0c27f50e",
+  "instruction": "Construct a 3x3 multiplication table.",
+  "input": "",
+  "output": "| x1 | x2 | x3 \n---| ---| ---| ---\nx1 | 1 | 2 | 3 \nx2 | 2 | 4 | 6\nx3 | 3 | 6 | 9",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

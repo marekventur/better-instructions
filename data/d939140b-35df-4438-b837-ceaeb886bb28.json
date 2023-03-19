@@ -1,0 +1,12 @@
+{
+  "id": "d939140b-35df-4438-b837-ceaeb886bb28",
+  "instruction": "Create a software user interface according to these specifications",
+  "input": "The interface should include three navigation items, such as 'Products', 'Account' and 'Help'. It should also have a logo in the top-left corner, and a search bar at the top-right corner.",
+  "output": "The software user interface includes a logo in the top-left corner, a search bar in the top-right corner, and three navigation items at the top: 'Products', 'Account', and 'Help'. It is designed to be visually appealing and easy to use, with a modern color palette and typography.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

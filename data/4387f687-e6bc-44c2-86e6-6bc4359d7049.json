@@ -1,0 +1,12 @@
+{
+  "id": "4387f687-e6bc-44c2-86e6-6bc4359d7049",
+  "instruction": "Given a definition, generate a definition using different words.",
+  "input": "An animal that lives in the water and breathes with gills.",
+  "output": "A creature that inhabits bodies of water and respirates through its gills.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "67d47dc6-39dc-4826-8bd9-3aa7ab902252",
+  "instruction": "Create a report summarizing the given paper.",
+  "input": "The paper investigates the effects of climate change in the Arctic region.",
+  "output": "This paper looks at the impact of climate change on the Arctic region. It finds that the Arctic is one of the most affected regions in the world, with warming temperatures causing rapid melting of sea ice, as well as changes in ocean chemistry and biodiversity. The paper concludes that further research and policy solutions are needed to mitigate the effects of climate change and protect the Arctic's ecosystem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

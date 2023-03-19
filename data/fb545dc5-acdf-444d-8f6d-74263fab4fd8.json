@@ -1,0 +1,12 @@
+{
+  "id": "fb545dc5-acdf-444d-8f6d-74263fab4fd8",
+  "instruction": "Sort this list of animals by size, from smallest to largest.",
+  "input": "Rabbit, Elephant, Cat, Horse",
+  "output": "Cat, Rabbit, Horse, Elephant (from smallest to largest).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

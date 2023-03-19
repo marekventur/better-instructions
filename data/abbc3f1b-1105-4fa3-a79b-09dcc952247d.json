@@ -1,0 +1,12 @@
+{
+  "id": "abbc3f1b-1105-4fa3-a79b-09dcc952247d",
+  "instruction": "Update the following database table with the given information.",
+  "input": "TABLE: USERS\nColumns: id, username, fullname \n\nData:\nid=1, username=\"johndoe\", fullname=\"John Doe\"",
+  "output": "UPDATE USERS\nSET username=\"johndoe\", fullname=\"John Doe\"\nWHERE id=1;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

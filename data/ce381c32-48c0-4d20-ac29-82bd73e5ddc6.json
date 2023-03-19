@@ -1,0 +1,12 @@
+{
+  "id": "ce381c32-48c0-4d20-ac29-82bd73e5ddc6",
+  "instruction": "Review the given website and give feedback.",
+  "input": "http://www.example-site.com",
+  "output": "The example-site.com website is clean and easy to navigate. The homepage is well-organized and concise, providing all the necessary information in a simple and straightforward way. The design is modern and aesthetically pleasing, and the colors are bright and eye-catching without being too distracting. The navigation menu is intuitive and the links are clearly visible, making it easy to move from one page to another. The content is relevant and well-written, and the images help to further emphasize the main points. Overall, the website offers great value, and I would recommend it for anyone looking for an effective online presence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

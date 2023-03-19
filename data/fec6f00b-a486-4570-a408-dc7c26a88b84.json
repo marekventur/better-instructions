@@ -1,0 +1,12 @@
+{
+  "id": "fec6f00b-a486-4570-a408-dc7c26a88b84",
+  "instruction": "Group the items by category",
+  "input": "Apple, Car, Dog, House",
+  "output": "Fruits: Apple\nVehicles: Car\nAnimals: Dog\nBuildings: House",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

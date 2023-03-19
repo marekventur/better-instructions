@@ -1,0 +1,12 @@
+{
+  "id": "00d42340-3d92-4bb9-82db-77e7e889070c",
+  "instruction": "Output the synonym of the word given in the input field.",
+  "input": "Happy",
+  "output": "Joyful",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

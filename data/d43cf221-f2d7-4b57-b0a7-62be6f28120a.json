@@ -1,0 +1,12 @@
+{
+  "id": "d43cf221-f2d7-4b57-b0a7-62be6f28120a",
+  "instruction": "Given the following description, provide a visual illustration of the story.",
+  "input": "Once upon a time, there was a young girl who decided to take a long journey up a mountain to find an ancient temple. Along the way, she encounters many obstacles and struggles to stay on the path. She eventually finds the temple and is amazed by the sight.",
+  "output": "<No input> \n\nOutput:\nA young girl stands at the bottom of the mountain with her bag of supplies, looking up at her long journey ahead. The path is winding and difficult to navigate; she encounters several obstacles like overgrown bushes and fallen trees. At the top of the mountain, there is an ancient temple with a large entrance. She stares in awe, having completed her journey.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

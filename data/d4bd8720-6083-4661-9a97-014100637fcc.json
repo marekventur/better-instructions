@@ -1,0 +1,12 @@
+{
+  "id": "d4bd8720-6083-4661-9a97-014100637fcc",
+  "instruction": "Re-organize the following words in deep learning model.",
+  "input": "data, structure, algorithms, weights",
+  "output": "Data \u2192 Structure \u2192 Algorithms \u2192 Weights",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

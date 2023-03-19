@@ -1,0 +1,12 @@
+{
+  "id": "9153ffad-3a60-4bf6-8e20-729bcd0d64bf",
+  "instruction": "Asses the quality of the following code",
+  "input": "def add (x, y): \n    return x + y",
+  "output": "The code would be considered of high quality. It is clearly written and is easy to understand. It is also concise and efficient and uses an appropriate function to add two numbers together. No further improvements are necessary.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bbde1573-a2a1-4347-932c-f5dd14400787",
+  "instruction": "Create a list of questions that a new teacher should ask their students during the first week of school",
+  "input": "",
+  "output": "1. What are your hobbies and interests?\n2. What are you most excited to learn this year?\n3. Could you tell me a bit about your family?\n4. Do you have any questions about the class or the curriculum?\n5. What topics and materials do you feel most comfortable working with?\n6. Is there anything you would like to learn more about this year?\n7. Do you have a preferred style of learning?\n8. How can I support you in your learning this year?\n9. How do you prefer to communicate when you need help with work?\n10. What do you think would make this class even more enjoyable?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

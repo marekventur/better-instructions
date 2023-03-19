@@ -1,0 +1,12 @@
+{
+  "id": "dd98a83a-3b9a-4d20-9d94-fbc91c15f804",
+  "instruction": "Write a letter of recommendation for John Doe based on the information provided.",
+  "input": "John Doe has been a valuable contributor on my team for the past 3 years. He has consistently demonstrated excellent problem-solving skills, going above and beyond when faced with challenging tasks. I believe he is a great candidate for any position.",
+  "output": "To whom it may concern, \n\nI am writing to recommend John Doe for a position at your company. John has been a valuable contributor on my team for the past 3 years, consistently demonstrating excellent problem-solving skills in every task he has faced. He continually shows an eagerness to take on challenges and exemplifies an excellent work ethic. \n\nI strongly believe John is a great candidate for any position and would be an asset to your team. Please do not hesitate to contact me if you have any further questions.\n\nSincerely, \n[Your name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

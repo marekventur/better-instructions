@@ -1,0 +1,12 @@
+{
+  "id": "1d449bde-d6b4-4aac-905d-e5dc83128646",
+  "instruction": "Put the following sentences in sequence to form a coherent paragraph.",
+  "input": "He had been walking for hours through the dark woods. He felt a chill run down his spine. Suddenly, he heard a noise in the bushes. He could see a figure moving in the shadows.",
+  "output": "He had been walking for hours through the dark woods when he suddenly felt a chill run down his spine. He heard a noise in the bushes and, peering into the shadows, he could see a figure moving.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

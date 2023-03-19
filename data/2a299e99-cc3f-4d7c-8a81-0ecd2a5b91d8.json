@@ -1,0 +1,12 @@
+{
+  "id": "2a299e99-cc3f-4d7c-8a81-0ecd2a5b91d8",
+  "instruction": "Identify what type of argumentative fallacy the following statement represents.",
+  "input": "People who support animal rights have no moral authority to eat meat.",
+  "output": "The statement is an example of the circular logic fallacy. It assumes that only those who do not support animal rights have the moral authority to eat meat.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

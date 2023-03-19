@@ -1,0 +1,12 @@
+{
+  "id": "aa896841-d3a3-4dcf-a0b0-45d931e5eac8",
+  "instruction": "Construct an algorithm for counting the number of vowels in a string.",
+  "input": "",
+  "output": "Algorithm:\n1. Initialize a counter variable to 0.\n2. Iterate through every character of the string.\n3. If the character is a vowel (a, e, i, o, or u), add one to the counter.\n4. Repeat steps 2 and 3 until all characters have been processed.\n5. Return the counter variable.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

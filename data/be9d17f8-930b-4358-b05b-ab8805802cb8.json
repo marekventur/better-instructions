@@ -1,0 +1,12 @@
+{
+  "id": "be9d17f8-930b-4358-b05b-ab8805802cb8",
+  "instruction": "Which of the following books are written by Stephen King?",
+  "input": "The Catcher in the Rye, 11/22/63, It, The Shining",
+  "output": "11/22/63, It, and The Shining are all written by Stephen King.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

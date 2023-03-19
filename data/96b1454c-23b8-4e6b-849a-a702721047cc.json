@@ -1,0 +1,12 @@
+{
+  "id": "96b1454c-23b8-4e6b-849a-a702721047cc",
+  "instruction": "Classify the following instance of text as spam or ham",
+  "input": "Subject: Re: Win access to our exclusive VIP lounge\nSender: promotions@specialoffers.com\nContent:\nRegister for the chance to win free membership to our exclusive VIP lounge.",
+  "output": "Spam",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

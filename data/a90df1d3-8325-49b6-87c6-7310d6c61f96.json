@@ -1,0 +1,12 @@
+{
+  "id": "a90df1d3-8325-49b6-87c6-7310d6c61f96",
+  "instruction": "Find the definition of \"Collaborative Filtering\".",
+  "input": "",
+  "output": "Collaborative Filtering is a method of making predictions about an item or user\u2019s preferences or interests by collecting and analyzing preferences or tastes of other similar users or items. It uses algorithms to study the relationships between users and items or users and other users to make recommendations or predictions based on what the majority of similar users have done or liked.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

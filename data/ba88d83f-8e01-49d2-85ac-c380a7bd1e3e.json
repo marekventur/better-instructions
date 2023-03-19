@@ -1,0 +1,12 @@
+{
+  "id": "ba88d83f-8e01-49d2-85ac-c380a7bd1e3e",
+  "instruction": "How does GPT language model differentiate between words with similar meaning?",
+  "input": "",
+  "output": "GPT language models leverage contextual clues to differentiate between words with similar meanings. For instance, the models determine the literal meaning of a word in the context of a sentence or phrase. By analyzing the surrounding words, text, and information in the sentence or phrase, GPT language models are able to understand the nuance of a word and assign an accurate meaning.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4c469e09-0878-4b3c-bec5-70a2e76171e8",
+  "instruction": "Transform the list of words into a summary sentence.",
+  "input": "Vietnam, coffee, trade",
+  "output": "Vietnam is a major producer of coffee and a player in the global coffee trade.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

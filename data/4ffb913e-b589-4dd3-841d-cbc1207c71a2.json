@@ -1,0 +1,12 @@
+{
+  "id": "4ffb913e-b589-4dd3-841d-cbc1207c71a2",
+  "instruction": "Remove all HTML elements from this string.",
+  "input": "\"<p>This is a <strong>test</strong> string.</p>\"",
+  "output": "This is a test string.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5cceb4d9-ed1d-4c60-8397-fb0e6bc25dda",
+  "instruction": "Generate a list of 3-5 questions to ask a college admissions officer.",
+  "input": "",
+  "output": "1. What qualities or experiences do you value most in applicants?\n2. How can I prepare for admission interviews?\n3. Are there any additional extracurricular activities or volunteer work that would benefit my application?\n4. How does the school evaluate standardized test scores?\n5. What resources does the school provide to help students transition to college?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

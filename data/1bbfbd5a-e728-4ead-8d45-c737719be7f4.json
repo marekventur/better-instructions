@@ -1,0 +1,12 @@
+{
+  "id": "1bbfbd5a-e728-4ead-8d45-c737719be7f4",
+  "instruction": "Given a phrase, give an appropriate example of a proverb or idiom that uses that phrase.",
+  "input": "\"The early bird catches the worm\"",
+  "output": "A classic proverb that exemplifies this phrase is \"The early bird catches the worm\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

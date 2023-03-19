@@ -1,0 +1,12 @@
+{
+  "id": "6c827142-d6a5-48ce-bf06-05ab70f6bd47",
+  "instruction": "Classify this article according to its content. Output one of the following options: medical, entertainment, business, sports, fashion.",
+  "input": "US plans to reduce carbon emissions",
+  "output": "Business",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

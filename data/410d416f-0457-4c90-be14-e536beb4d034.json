@@ -1,0 +1,12 @@
+{
+  "id": "410d416f-0457-4c90-be14-e536beb4d034",
+  "instruction": "Evaluate this sentence for spelling and grammar mistakes",
+  "input": "He finnished his meal and left the resturant",
+  "output": "He finished his meal and left the restaurant.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "071ae783-b493-4844-9131-20af762348cb",
+  "instruction": "Reduce the length of the following sentence to a single phrase",
+  "input": "She was wearing a bright yellow dress with blue polka dots.",
+  "output": "Bright yellow dress with blue polka dots",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cd578f2d-455c-47b6-b372-f024b5c6f790",
+  "instruction": "Write down the syntax for declaring an array in Java.",
+  "input": "",
+  "output": "In Java, an array can be declared using the following syntax: \n\ndataType[] arrayName = new dataType[arraySize];",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

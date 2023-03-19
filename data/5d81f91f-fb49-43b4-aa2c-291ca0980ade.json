@@ -1,0 +1,12 @@
+{
+  "id": "5d81f91f-fb49-43b4-aa2c-291ca0980ade",
+  "instruction": "Automatically replace each word in the text with its synonym.",
+  "input": "This is a challenging task.",
+  "output": "That is an arduous labor.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

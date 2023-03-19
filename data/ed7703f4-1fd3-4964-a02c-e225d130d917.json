@@ -1,0 +1,12 @@
+{
+  "id": "ed7703f4-1fd3-4964-a02c-e225d130d917",
+  "instruction": "Write a function to find the most frequent element in an array.",
+  "input": "",
+  "output": "def findMostFrequent(arr): \n    count_arr = {} \n    for i in range(len(arr)): \n        if arr[i] in count_arr: \n            count_arr[arr[i]] += 1\n        else: \n            count_arr[arr[i]] = 1\n    max_frequency = max(count_arr.values()) \n    for key,value in count_arr.items(): \n        if value == max_frequency: \n            return key",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

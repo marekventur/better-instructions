@@ -1,0 +1,12 @@
+{
+  "id": "ac4544fa-5417-480c-82e2-dd963f858606",
+  "instruction": "Summarize the recent news about unemployment.",
+  "input": "",
+  "output": "Recent news reports indicate that the US unemployment rate has dropped to its lowest mark in more than 50 years. The unemployment rate nationally sits at 3.7%, the lowest since 1969 and well below the 4.0% rate set at the end of 2018. While the unemployment rate is at an all-time low, wages remain relatively stagnant and underemployment remains high.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bd9d5bc3-4fe5-4368-ade2-597c02306677",
+  "instruction": "Construct a sheet of paper with the product details.",
+  "input": "iPhone 11 Pro",
+  "output": "Product Name: iPhone 11 Pro \nModel Number: A2220 \nCPU: Apple A13 Bionic \nStorage: 64GB \nRAM: 4GB \nDisplay: 6.5-inch Super Retina XDR OLED \nCamera: Triple 12MP rear and Dual 12MP Front Cameras \nBattery: Built-in rechargeable lithium-ion \nColor: Space Gray \nPrice: $999",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

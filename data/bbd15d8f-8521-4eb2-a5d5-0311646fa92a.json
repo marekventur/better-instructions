@@ -1,0 +1,12 @@
+{
+  "id": "bbd15d8f-8521-4eb2-a5d5-0311646fa92a",
+  "instruction": "Write an algorithm to find all prime numbers less than or equal to a given integer n.",
+  "input": "",
+  "output": "An algorithm for finding all prime numbers up to a given integer n can be written as follows: \n\n1. Create an empty array to hold all the prime numbers found. \n2. Iterate from 2 to n, and for each number check if it is prime. \n3. To check for primality, divide the number by every integer up to its square root. \n4. If no divisors are found, add the number to the array of primes. \n5. After the iteration is complete, return the array of primes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

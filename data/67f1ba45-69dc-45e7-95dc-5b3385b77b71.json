@@ -1,0 +1,12 @@
+{
+  "id": "67f1ba45-69dc-45e7-95dc-5b3385b77b71",
+  "instruction": "Generate a list of appropriate questions to ask an applicant who is applying for a job as an editor.",
+  "input": "",
+  "output": "1. What prior experience do you have as an editor?\n2. How would you go about editing a manuscript for content, style and format?\n3. Are you familiar with editorial guidelines and best practices?\n4. How do you ensure accuracy when you edit?\n5. How would you handle feedback from a client or other editors?\n6. Do you have experience with copyediting, proofreading and fact-checking?\n7. What type of writing do you enjoy editing the most?\n8. What techniques do you use to improve the clarity of a text?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

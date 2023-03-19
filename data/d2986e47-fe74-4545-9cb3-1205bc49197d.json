@@ -1,0 +1,12 @@
+{
+  "id": "d2986e47-fe74-4545-9cb3-1205bc49197d",
+  "instruction": "Given a code snippet, identify the programming language and suggest the best practice when writing the code.",
+  "input": "while (x != y):\n  \n  x = x + 1",
+  "output": "This code snippet is written in Python. The best practice when writing Python code is to make sure that indentation is consistent and to use descriptive variable names.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

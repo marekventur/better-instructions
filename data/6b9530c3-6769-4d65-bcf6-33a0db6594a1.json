@@ -1,0 +1,12 @@
+{
+  "id": "6b9530c3-6769-4d65-bcf6-33a0db6594a1",
+  "instruction": "Given the following input, generate an output that classifies the input into one of the following categories: fruits, vegetables, beverages, or dairy.",
+  "input": "Milk",
+  "output": "Dairy",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

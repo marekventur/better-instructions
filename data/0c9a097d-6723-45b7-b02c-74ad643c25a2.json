@@ -1,0 +1,12 @@
+{
+  "id": "0c9a097d-6723-45b7-b02c-74ad643c25a2",
+  "instruction": "Pick two famous writers and compare their works.",
+  "input": "Noam Chomsky and George Orwell",
+  "output": "Noam Chomsky and George Orwell are both renowned writers with distinct writing styles. Chomsky is mainly known for his work in linguistics, favoring a rational approach to communication, and often employing technical jargon. Orwell, on the other hand, frequently addressed urgent political and social issues in his writing, often with a bit of dry wit and a vivid imagination.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

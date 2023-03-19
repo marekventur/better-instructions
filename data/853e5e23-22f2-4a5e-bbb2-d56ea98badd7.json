@@ -1,0 +1,12 @@
+{
+  "id": "853e5e23-22f2-4a5e-bbb2-d56ea98badd7",
+  "instruction": "Given a list of ingredients, design a sauce recipe.",
+  "input": "Salt, pepper, garlic, oregano, red pepper flakes, olive oil",
+  "output": "1. In a small bowl, mix together 1 teaspoon of salt, 1/2 teaspoon of pepper, 1 garlic clove minced, 1 teaspoon of oregano, 1/4 teaspoon of red pepper flakes. \n2. Slowly drizzle in 3 tablespoons of olive oil and stir until blended. \n3. Store your sauce in an airtight container.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

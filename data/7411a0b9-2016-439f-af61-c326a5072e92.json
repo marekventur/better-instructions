@@ -1,0 +1,12 @@
+{
+  "id": "7411a0b9-2016-439f-af61-c326a5072e92",
+  "instruction": "Given the following sentence, generate a new sentence that keeps its original meaning.",
+  "input": "The plane was delayed by the storm.",
+  "output": "The storm caused the plane to be delayed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

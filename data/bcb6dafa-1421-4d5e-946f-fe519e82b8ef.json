@@ -1,0 +1,12 @@
+{
+  "id": "bcb6dafa-1421-4d5e-946f-fe519e82b8ef",
+  "instruction": "Generate an appropriate tone for a letter of apology to a customer.",
+  "input": "No input.",
+  "output": "Dear [Customer],\nWe apologize profusely for the unpleasant experience you had while using our product. It is unacceptable that we did not do our due diligence and that we fell short of providing adequate customer service. We understand that our response time was not fast enough and that your needs were not met in the manner that you deserve.\n\nWe are taking corrective measures to ensure that a similar incident does not happen again and that any and all customer concerns are addressed promptly. \n\nWe value you as a customer and we are sorry if we let you down. We would like to make it up to you. Let us know how we can do so.\n\nSincerely,\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

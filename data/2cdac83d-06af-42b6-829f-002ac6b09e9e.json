@@ -1,0 +1,12 @@
+{
+  "id": "2cdac83d-06af-42b6-829f-002ac6b09e9e",
+  "instruction": "Given a seed sentence, generate a story that includes a moral.",
+  "input": "Once upon a time, a fox was walking through the forest.",
+  "output": "Once upon a time, a fox was walking through the forest, admiring the beauty of his surroundings. He came across a pond, sparkling in the sunlight, and decided to take a drink. As he was drinking, he noticed a crocodile nearby and was stunned by its size and ferocity. When the crocodile noticed the fox, it spoke to him.\n\n\"I have been here for many years and have seen many creatures come and go. I have watched them all make mistakes, as if they have never learned from their own mistakes. One day, I will tire of watching and teach them all a lesson.\"\n\nThe fox replied, \"You must be wise to recognize this but what can a mere fox do against a powerful crocodile such as yourself?\" The crocodile chuckled and said, \"I am more than happy to share my wisdom with those who are willing to listen.\"\n\nThe fox realized that the moral of the story was to always think before acting; this is the key to avoiding making costly mistakes. He thanked the crocodile before walking away, wiser than when he had arrived.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

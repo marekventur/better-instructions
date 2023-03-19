@@ -1,0 +1,12 @@
+{
+  "id": "940c1233-1ec0-4e6a-9ce0-39744f1e2275",
+  "instruction": "Create a regular expression to match strings containing the word \"hello\" and ending in \"abc\".",
+  "input": "",
+  "output": "The regular expression is: /hello.*abc$/",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

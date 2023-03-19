@@ -1,0 +1,12 @@
+{
+  "id": "6214faef-6e41-46f9-b9de-9ed78f430374",
+  "instruction": "Given a survey result, generate an action plan.",
+  "input": "Survey revealed that customer service is a key way to improve customer experience.",
+  "output": "An action plan based on the survey result could include training customer service staff on better ways to handle customer queries, implementing a customer service feedback system to gauge customer satisfaction, investing in customer service software and technology, and launching customer service initiatives such as reward programs and customer appreciation days.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

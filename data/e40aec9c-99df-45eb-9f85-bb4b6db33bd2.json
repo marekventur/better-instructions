@@ -1,0 +1,12 @@
+{
+  "id": "e40aec9c-99df-45eb-9f85-bb4b6db33bd2",
+  "instruction": "Create a valid and grammatically correct sentence using the given words.",
+  "input": "words: always, too, others",
+  "output": "I always try to help others too.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

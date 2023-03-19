@@ -1,0 +1,12 @@
+{
+  "id": "0ef9bb89-6a2e-4d35-b9bf-c2d24046d3ff",
+  "instruction": "Classify these items as vegetable or fruit",
+  "input": "apple, cucumber, banana",
+  "output": "Fruit: Apple, Banana \nVegetable: Cucumber",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

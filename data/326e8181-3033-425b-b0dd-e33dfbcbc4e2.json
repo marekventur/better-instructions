@@ -1,0 +1,12 @@
+{
+  "id": "326e8181-3033-425b-b0dd-e33dfbcbc4e2",
+  "instruction": "Analyze the following sentence for any errors.",
+  "input": "They aren't no good at all.",
+  "output": "This sentence is incorrect and should be rewritten to \"They aren't any good at all.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

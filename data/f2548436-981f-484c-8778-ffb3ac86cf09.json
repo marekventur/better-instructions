@@ -1,0 +1,12 @@
+{
+  "id": "f2548436-981f-484c-8778-ffb3ac86cf09",
+  "instruction": "Create a program that determines the day of the week for a given date.",
+  "input": "Date: 5th January, 2021.",
+  "output": "def get_day_of_week(date):\n  # This function takes in a date as a string and returns the day of the week. \n  from datetime import datetime\n  date_formatted = datetime.strptime(date, '%d %B, %Y')\n  day_of_week = date_formatted.strftime(\"%A\")\n  return day_of_week\n  \nresult = get_day_of_week(\"5th January, 2021\")\nprint(result)\n\n# Output \nThursday",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

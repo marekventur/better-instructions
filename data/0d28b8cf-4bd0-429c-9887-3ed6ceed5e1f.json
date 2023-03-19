@@ -1,0 +1,12 @@
+{
+  "id": "0d28b8cf-4bd0-429c-9887-3ed6ceed5e1f",
+  "instruction": "Visit the Yelp page for a restaurant, assuming the link is provided, and extract the hours of operation.",
+  "input": "https://www.yelp.com/biz/dino-bbq-syracuse",
+  "output": "Monday-Thursday 11:00am-10:00pm \nFriday-Saturday 11:00am-11:00pm \nSunday 11:00am-10:00pm",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

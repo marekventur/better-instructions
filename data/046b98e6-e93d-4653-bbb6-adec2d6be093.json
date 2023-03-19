@@ -1,0 +1,12 @@
+{
+  "id": "046b98e6-e93d-4653-bbb6-adec2d6be093",
+  "instruction": "Classify the following countries as either European or Asian.",
+  "input": "France, India, Italy, Japan",
+  "output": "France: European\nIndia: Asian\nItaly: European\nJapan: Asian",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

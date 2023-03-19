@@ -1,0 +1,12 @@
+{
+  "id": "dda50a4c-a1a2-4bc2-819e-786ce40a0d41",
+  "instruction": "Describe the process of training a machine learning model.",
+  "input": "",
+  "output": "Training a machine learning model involves feeding the model large sets of data that it can use to learn patterns and correlations. The model then applies an optimization process to refine its parameters in order to accurately categorize new input data. The accuracy of the model is evaluated using a validation or test dataset that the model has not seen before. Once the model has been trained, it can be deployed and used to make predictions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "258fd3bd-7fec-4141-bf9c-04fdcb93de2c",
+  "instruction": "Find the current record holder in the given track event.",
+  "input": "3000 meter race",
+  "output": "The current world record holder for the 3000 meter race is Beatrice Chepkoech from Kenya, with a time of 8:44.32.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bc2de09d-f240-4eb1-b818-c8c851283ae1",
+  "instruction": "Write a query to retrieve the records that fall in the given date range.",
+  "input": "Start date: 01/01/2020\nEnd date: 01/30/2020",
+  "output": "SELECT * FROM table_name WHERE date BETWEEN '2020-01-01' AND '2020-01-30'",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

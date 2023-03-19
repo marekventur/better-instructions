@@ -1,0 +1,12 @@
+{
+  "id": "640e9d85-c955-4af9-9946-b2bcc7db207d",
+  "instruction": "Classify this sentence into indicative, optative, imperative or exclamative",
+  "input": "Let\u2019s go to the beach!",
+  "output": "Imperative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

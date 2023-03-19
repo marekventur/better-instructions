@@ -1,0 +1,12 @@
+{
+  "id": "454a28aa-57e8-4ac2-aa2e-995f610ce5fa",
+  "instruction": "Create a unique HTML tag with associated text.",
+  "input": "",
+  "output": "<unique>This is some unique associated text!</unique>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

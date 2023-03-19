@@ -1,0 +1,12 @@
+{
+  "id": "b2b0bc20-721c-4cd6-96af-71626bc0bae8",
+  "instruction": "Explain the difference between a machine learning library and an AI framework",
+  "input": "",
+  "output": "A machine learning library is a collection of code that is used to build and deploy machine learning models. It contains functions and methods for training models, making predictions, and optimizing models. An AI framework is a set of tools, libraries, and software components that allow developers to build artificial intelligence applications. AI frameworks provide a more high-level approach to machine learning, giving developers the ability to configure models and select algorithms without needing to code the entire model themselves.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4f6c5bcb-790c-41c4-9101-fbb88599c008",
+  "instruction": "Create a list of 5 pros and cons based on the given opinion.",
+  "input": "I am thinking of getting a dog.",
+  "output": "Pros: \n1. Great emotional and physical companion \n2. Gives structure to your daily routine \n3. Can teach children responsibility \n4. Enhance your physical wellbeing \n5. Bond closer with family members \nCons: \n1. Expensive medical costs \n2. High demand for attention \n3. Potentially damaging furniture \n4. Potentially destroys your yard \n5. Potentially loud barking",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

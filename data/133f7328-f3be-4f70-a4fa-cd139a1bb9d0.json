@@ -1,0 +1,12 @@
+{
+  "id": "133f7328-f3be-4f70-a4fa-cd139a1bb9d0",
+  "instruction": "Pick two characters from a movie and explain how they are different.",
+  "input": "Characters: Tony Stark and Obadiah Stane (from the Iron Man movie)",
+  "output": "Tony Stark and Obadiah Stane, characters from the Iron Man movie, are very different in their actions and personalities. Tony Stark is an ambitious, rule-breaking entrepreneur with a knack for technology, willing to make whatever it takes to get the job done. On the other hand, Obadiah Stane is a ruthless businessman who puts the interests of his company first and is content with let the system take its course. He will go to extreme lengths to maintain his control and power. Despite their opposing personalities, they are connected by an understanding of the power of technology and the potential risks that come with its use.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

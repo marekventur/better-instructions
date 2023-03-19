@@ -1,0 +1,12 @@
+{
+  "id": "f0e9063e-b8ea-49cf-bb12-4e4f0919484a",
+  "instruction": "Given some musical notes, construct a C chord.",
+  "input": "Notes: C, E, G",
+  "output": "The C chord is constructed by playing the notes C, E, and G simultaneously. This forms a major chord, which is one of the most commonly used chords in music.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

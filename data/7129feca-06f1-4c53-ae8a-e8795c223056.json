@@ -1,0 +1,12 @@
+{
+  "id": "7129feca-06f1-4c53-ae8a-e8795c223056",
+  "instruction": "Read the following article and summarize it in 5 points",
+  "input": "The article is about how facial recognition technology can be used to detect emotions in people. Facial recognition technology is able to analyze subtle facial expressions and features to detect emotions such as happiness, sadness, anger and surprise. This technology can be used to apprehend criminals more quickly, screen passengers for security purposes, and identify shoppers for targeted marketing.",
+  "output": "1. Facial recognition technology can detect a person's emotions by analyzing facial expressions and features.\n2. This technology can be used to apprehend criminals more quickly, screen passengers for security purposes, and identify shoppers for targeted marketing.\n3. By analyzing facial expressions and features, the technology can detect emotions such as happiness, sadness, anger and surprise with greater accuracy than humans.\n4. This technology can also help to detect deception in criminals and potential security threats in passengers.\n5. Further research is needed to ensure that the technology is used responsibly, protecting data privacy and preventing the abuse of the technology.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

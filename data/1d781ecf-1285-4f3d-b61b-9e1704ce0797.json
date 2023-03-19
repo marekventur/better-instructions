@@ -1,0 +1,12 @@
+{
+  "id": "1d781ecf-1285-4f3d-b61b-9e1704ce0797",
+  "instruction": "Identify the speech style in the sentence given",
+  "input": "She went to the store.",
+  "output": "The sentence is written in the declarative style.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

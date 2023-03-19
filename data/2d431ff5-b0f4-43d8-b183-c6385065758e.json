@@ -1,0 +1,12 @@
+{
+  "id": "2d431ff5-b0f4-43d8-b183-c6385065758e",
+  "instruction": "Given two strings, identify the one that is palindrome.",
+  "input": "radar, flight",
+  "output": "The palindrome string is \"radar\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d0aa1965-60d7-473a-af7b-96a6e2cb53c2",
+  "instruction": "Reword a sentence in the simplest possible language.",
+  "input": "The complex operation was easily executed.",
+  "output": "It was easy to do the complicated task.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

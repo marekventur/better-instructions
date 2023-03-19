@@ -1,0 +1,12 @@
+{
+  "id": "5237fb33-3f0c-40ef-915a-f6de87f0cba0",
+  "instruction": "Predict what will be the result of the following arithmetic equation",
+  "input": "9 - 5 * 4",
+  "output": "-1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

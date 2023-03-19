@@ -1,0 +1,12 @@
+{
+  "id": "a7ca28e4-60bc-48e2-ab33-1b93966e7149",
+  "instruction": "Explain why this sentence is false",
+  "input": "All technology helps us stay connected.",
+  "output": "This statement is false because not all technology helps us stay connected. Technology such as surveillance devices, data mining, and online tracking can be used to infringe upon an individual's privacy and erode their sense of safety. Furthermore, technology such as social media can be used to spread false information and create disconnect rather than connecting people.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

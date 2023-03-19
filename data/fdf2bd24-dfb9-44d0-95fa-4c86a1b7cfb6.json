@@ -1,0 +1,12 @@
+{
+  "id": "fdf2bd24-dfb9-44d0-95fa-4c86a1b7cfb6",
+  "instruction": "Predict the category of the given text sample.",
+  "input": "Text:\nThe government has just announced a new set of measures aimed at reducing climate change.",
+  "output": "Environment",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

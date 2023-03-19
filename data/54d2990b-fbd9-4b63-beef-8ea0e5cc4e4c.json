@@ -1,0 +1,12 @@
+{
+  "id": "54d2990b-fbd9-4b63-beef-8ea0e5cc4e4c",
+  "instruction": "Analyze the given sonnet and explain its overall style and message.",
+  "input": "Shall I compare thee to a summer\u2019s day?\nThou art more lovely and more temperate:\nRough winds do shake the darling buds of May,\nAnd summer\u2019s lease hath all too short a date:",
+  "output": "This sonnet by William Shakespeare is a classic example of the traditional Petrarchan style of love poem. By comparing the beloved to the beauty of a summer's day and then contrasting it with the transience of the season, the speaker conveys his love for the subject and his admiration for their beauty and grace. The poem speaks of a love that transcends any physical comparisons, creating an image of deep devotion and respect. The poem ends on a hopeful note, expressing the speaker's wish for his beloved to remain unchanged and eternal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

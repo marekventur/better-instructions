@@ -1,0 +1,12 @@
+{
+  "id": "3edef9f2-bbb4-41c0-b601-f7595e4df003",
+  "instruction": "Normalize the English text to lowercased words and punctuation marks using regular expressions",
+  "input": "He said, \u201cIt's time to go!\u201d",
+  "output": "he said , it's time to go !",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

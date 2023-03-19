@@ -1,0 +1,12 @@
+{
+  "id": "9e356400-0f7a-4636-98bf-74f1156024dc",
+  "instruction": "Select the correctly conjugated verb in the given sentence.",
+  "input": "The cat (sleeps, sleep) on the windowsill.",
+  "output": "The cat sleeps on the windowsill.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

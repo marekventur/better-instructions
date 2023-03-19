@@ -1,0 +1,12 @@
+{
+  "id": "489636ca-76de-44fb-bb7c-d7d9dc6f24e7",
+  "instruction": "Change the capitalized words to their opposites.",
+  "input": "LIKE -> DISLIKE\nPASSIVE -> ACTIVE",
+  "output": "DISLIKE -> LIKE\nACTIVE -> PASSIVE",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

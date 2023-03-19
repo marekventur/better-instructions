@@ -1,0 +1,12 @@
+{
+  "id": "f5aa164d-69d6-46fe-9c6c-587d78e4bbea",
+  "instruction": "Classify this plant as a fruit, vegetable, or nut.",
+  "input": "Banana",
+  "output": "Fruit.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

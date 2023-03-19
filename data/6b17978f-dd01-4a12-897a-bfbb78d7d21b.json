@@ -1,0 +1,12 @@
+{
+  "id": "6b17978f-dd01-4a12-897a-bfbb78d7d21b",
+  "instruction": "Determine the probability of success on the following activity.",
+  "input": "You toss a fair coin three times.",
+  "output": "The probability of success is 1 in 8, or 12.5%.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

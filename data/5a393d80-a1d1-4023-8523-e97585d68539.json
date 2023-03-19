@@ -1,0 +1,12 @@
+{
+  "id": "5a393d80-a1d1-4023-8523-e97585d68539",
+  "instruction": "Identify the type of quadrilateral formed by the points (1, 2), (3, 4), (5, 10), and (7, 6).",
+  "input": "",
+  "output": "The points form a trapezoid. A trapezoid is a quadrilateral with two opposite sides that are parallel. In this shape, the parallel sides are (1,2) to (5,10) and (3,4) to (7,6).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

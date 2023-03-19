@@ -1,0 +1,12 @@
+{
+  "id": "9cbbd607-53f5-4b62-b975-2d3a7d2dda3e",
+  "instruction": "Given a spreadsheet, find the median of the numbers in the first column.",
+  "input": "Column A: 14, 3, 111, 7, 1, 4",
+  "output": "The median of the numbers in the first column is 7.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

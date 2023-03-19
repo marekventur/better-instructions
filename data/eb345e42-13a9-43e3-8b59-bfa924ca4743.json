@@ -1,0 +1,12 @@
+{
+  "id": "eb345e42-13a9-43e3-8b59-bfa924ca4743",
+  "instruction": "Calculate the total mileage for the following car journey",
+  "input": "Mileage from Chicago to Sioux Falls: 510 miles, Mileage from Sioux Falls to Omaha: 340 miles",
+  "output": "The total mileage for the car journey is 850 miles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

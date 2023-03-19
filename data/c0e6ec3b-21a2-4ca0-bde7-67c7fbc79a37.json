@@ -1,0 +1,12 @@
+{
+  "id": "c0e6ec3b-21a2-4ca0-bde7-67c7fbc79a37",
+  "instruction": "Change the second noun in the sentence to make it a valid sentence.",
+  "input": "This car created",
+  "output": "This car was created",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

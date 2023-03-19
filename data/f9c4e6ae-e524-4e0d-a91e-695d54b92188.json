@@ -1,0 +1,12 @@
+{
+  "id": "f9c4e6ae-e524-4e0d-a91e-695d54b92188",
+  "instruction": "From the given list below, select the odd one out:",
+  "input": "Pencil, paper, computer",
+  "output": "Computer is the odd one out.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "74d33341-9f9b-4d29-8d01-46198d76153f",
+  "instruction": "Compare the provided two strings and output true if they are semantically similar, false otherwise.",
+  "input": "String1: I want to buy a car\nString2: I bought a bicycle",
+  "output": "false",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

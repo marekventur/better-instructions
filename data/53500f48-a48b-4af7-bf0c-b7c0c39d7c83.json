@@ -1,0 +1,12 @@
+{
+  "id": "53500f48-a48b-4af7-bf0c-b7c0c39d7c83",
+  "instruction": "Suggest a method to protect sensitive data",
+  "input": "",
+  "output": "1. Use strong encryption: Encrypting data ensures that even if the data is accessed or stolen, the content is unreadable without the correct encryption key.\n2. Create secure access: Create secure user roles with specific access privileges to sensitive data.\n3. Establish backup plans: Create backup plans to ensure that data is continually backed up and stored safely in case of physical damage or computer malfunction.\n4. Auditing: Establish regular auditing processes to identify any irregularities in data access.\n5. Physical security: Ensure physical security by controlling access to servers and data storage centers, and regularly updating security measures.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "923d77da-8029-4456-826e-ed959cddee71",
+  "instruction": "Write a c program that takes a string from the user and reverses it",
+  "input": "",
+  "output": "#include<stdio.h> \n#include<string.h> \n  \n// Function to reverse any sequence starting with pointer \n// begin and ending with pointer end \nvoid Reverse(char* begin, char* end) \n{ \n    char temp; \n    while (begin < end) { \n        temp = *begin; \n        *begin++ = *end; \n        *end-- = temp; \n    } \n} \n  \n// Function to reverse words*/ \nvoid ReverseWords(char* s) \n{ \n    char* word_begin = s; \n  \n    // Word boundary \n    char* temp = s; \n  \n    // Revert string \n    Reverse(s, temp); \n  \n    // Revert each word \n    while (*temp) { \n        temp++; \n        if (*temp == '\\0') { \n            Reverse(word_begin, temp - 1); \n        } else if (*temp == ' ') { \n            Reverse(word_begin, temp - 1); \n            word_begin = temp + 1; \n        } \n    } \n} \n  \n// Driver code \nint main() \n{ \n    char s[] = \"Welcome to Geeksforgeeks\"; \n    char* temp = s; \n    ReverseWords(s); \n    printf(\"%s\", s); \n  \n    return 0; \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ccdcdbde-bd2d-4cfb-b8cc-bdbc917f5ebd",
+  "instruction": "Based on the lyrics, write a single sentence describing the main message of the song",
+  "input": "(Lyrics to a song)",
+  "output": "The song emphasizes the importance of overcoming difficult times and having faith in yourself to reach success.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

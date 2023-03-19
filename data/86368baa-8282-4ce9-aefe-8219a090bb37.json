@@ -1,0 +1,12 @@
+{
+  "id": "86368baa-8282-4ce9-aefe-8219a090bb37",
+  "instruction": "Explain the purpose of CNNs in computer vision.",
+  "input": "",
+  "output": "Convolutional Neural Networks (CNNs) are artificial neural networks that are used in computer vision tasks. They can be used to classify images, detect objects in images, and generate new images based on a given set of parameters. CNNs are made up of convolutional layers that have a convolutional filter that is applied to an image. These filters are then used to detect features in an image, such as edges and patterns. The convolutional layers are then followed by pooling layers that reduce the size of the image and help to preserve the important features while discarding redundant ones. By combining these layers, a CNN can be used to develop robust models that are capable of accurately classifying images, detecting objects, and generating new images.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

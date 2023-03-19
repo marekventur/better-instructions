@@ -1,0 +1,12 @@
+{
+  "id": "4bac91ed-acc6-4bc9-aa94-63e10ae5c4e8",
+  "instruction": "Categorize the given list of fruits as either berries or citrus fruits.",
+  "input": "Bananas, strawberries, oranges, limes",
+  "output": "Berries: Strawberries\nCitrus fruits: Bananas, Oranges, Limes",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bd4e4343-5dc5-4f38-b347-9d24fd8e9dbd",
+  "instruction": "Suggest an appropriate quote for a given topic.",
+  "input": "Friendship",
+  "output": "\"A real friend is one who walks in when the rest of the world walks out\" - Walter Winchell",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

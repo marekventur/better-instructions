@@ -1,0 +1,12 @@
+{
+  "id": "20506c06-38a4-40f8-8634-1eccda0be0e2",
+  "instruction": "In this task, you need to generate a poem with the given elements.",
+  "input": "A summer night, stars, and a fire",
+  "output": "The summer night sky is filled with stars,\nA fire brilliantly burning bright.\nThe warmth of the flames, the beauty of the stars,\nThis moment feels eternal, within its light.\n\nThe stars shimmer in the night,\nDancing in a sparkling delight.\nThe mesmerizing flames, a captivating sight,\nMaking this summer night ever so bright.\n\nThe fires crackles, its orange and yellow light,\nCompanion of the stars on this lovely night.\nThe night just makes us feel alright,\nAs we marvel at this beautiful sight.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

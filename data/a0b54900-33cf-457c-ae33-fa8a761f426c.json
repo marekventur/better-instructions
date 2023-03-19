@@ -1,0 +1,12 @@
+{
+  "id": "a0b54900-33cf-457c-ae33-fa8a761f426c",
+  "instruction": "For the following inputs, predict the output - open or close",
+  "input": "\"The bar closes tonight at 10pm\"",
+  "output": "close",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

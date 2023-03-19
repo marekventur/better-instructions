@@ -1,0 +1,12 @@
+{
+  "id": "6f37be03-0c2b-4085-b113-b13a28e98b83",
+  "instruction": "Generate a valid HTML form with appropriate labels and placeholders.",
+  "input": "",
+  "output": "<form action=\"\">\n  <fieldset>\n    <legend>State Your Contact Information</legend>\n    <label for=\"name\">Name: <input type=\"text\" name=\"name\" placeholder=\"What is your name?\"></label><br>\n    <label for=\"email\">Email: <input type=\"text\" name=\"email\" placeholder=\"What is your email?\"></label><br>\n    <input type=\"submit\" value=\"Submit\">\n  </fieldset>\n</form>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

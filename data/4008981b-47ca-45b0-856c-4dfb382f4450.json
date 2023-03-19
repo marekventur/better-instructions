@@ -1,0 +1,12 @@
+{
+  "id": "4008981b-47ca-45b0-856c-4dfb382f4450",
+  "instruction": "For the given product, identify the best selling feature.",
+  "input": "Product: Smartphone",
+  "output": "The best selling feature of a smartphone is its ability to connect to the internet and communicate with other smart devices. Smartphones also have large amounts of computing power, allowing users to perform various tasks and access a variety of applications.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

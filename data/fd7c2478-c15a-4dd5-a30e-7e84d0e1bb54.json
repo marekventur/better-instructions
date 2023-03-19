@@ -1,0 +1,12 @@
+{
+  "id": "fd7c2478-c15a-4dd5-a30e-7e84d0e1bb54",
+  "instruction": "Output the second tweet in the input tweets.",
+  "input": "Tweets: \n1. I am so thankful for everything that I have.\n2. Life is beautiful, embrace it!\n3. The sun is shining and I am happy.",
+  "output": "Life is beautiful, embrace it!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

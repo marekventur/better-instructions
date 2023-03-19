@@ -1,0 +1,12 @@
+{
+  "id": "4249fded-59a9-4381-80e1-cff3639c1e2e",
+  "instruction": "Categorize the following words under the given categories.",
+  "input": "Sleep, Sofa, Chair\n\nCategories: Furniture, Human Activity",
+  "output": "Furniture - Sofa, Chair\n\nHuman Activity - Sleep",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

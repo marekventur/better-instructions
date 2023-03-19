@@ -1,0 +1,12 @@
+{
+  "id": "1bd01c35-1ed0-4145-8495-a3cc171daf8b",
+  "instruction": "Delete the third-to-last line of the following text.\nOutput the modified text.",
+  "input": "The walls of this magnificent old house had been carefully preserved and restored, filled with family photos and heirlooms from generations past. The old hardwood floors, tarnished by age and wear, creaked lovingly when walked upon.",
+  "output": "The walls of this magnificent old house had been carefully preserved and restored, filled with family photos and heirlooms from generations past. The old hardwood floors, tarnished by age and wear, creaked when walked upon.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

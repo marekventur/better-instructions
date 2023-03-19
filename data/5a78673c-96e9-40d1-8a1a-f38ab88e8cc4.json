@@ -1,0 +1,12 @@
+{
+  "id": "5a78673c-96e9-40d1-8a1a-f38ab88e8cc4",
+  "instruction": "Generate a sentence which reflects the tone of the following excerpt.",
+  "input": "The icy cold waters of the lake chilled her to the bone.",
+  "output": "Her skin crawled as she felt the icy chill of the lake's waters.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b8eb7d95-7db4-4091-bb3a-4f61eb43c4bd",
+  "instruction": "Given a table of employee salaries, rank them from highest to lowest.",
+  "input": "Given table: employee_salary",
+  "output": "SELECT * FROM employee_salary ORDER BY salary DESC;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

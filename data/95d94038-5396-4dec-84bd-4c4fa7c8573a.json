@@ -1,0 +1,12 @@
+{
+  "id": "95d94038-5396-4dec-84bd-4c4fa7c8573a",
+  "instruction": "Explain how to play the game rock, paper, scissors.",
+  "input": "",
+  "output": "Rock, Paper, Scissors is a game for two players. At the same time, each player makes a hand sign for either rock, paper, or scissors. Rock beats scissors, scissors beat paper, and paper beats rock. If both players make the same sign, it's a draw. The player that wins the most rounds is the winner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

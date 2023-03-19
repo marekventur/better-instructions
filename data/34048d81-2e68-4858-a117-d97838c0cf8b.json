@@ -1,0 +1,12 @@
+{
+  "id": "34048d81-2e68-4858-a117-d97838c0cf8b",
+  "instruction": "Given two pieces of text, compose a single sentence that combines their main points.",
+  "input": "Text 1: Apple has released a new phone.\nText 2: It has a powerful processor.",
+  "output": "Apple's newest phone boasts a powerful processor.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

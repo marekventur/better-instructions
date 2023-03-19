@@ -1,0 +1,12 @@
+{
+  "id": "4e72fecd-f3b5-461a-a35f-623d9f8e127f",
+  "instruction": "Given a sentence, change it to past tense.",
+  "input": "I am eating an apple.",
+  "output": "I ate an apple.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

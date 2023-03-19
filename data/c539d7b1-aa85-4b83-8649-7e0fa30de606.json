@@ -1,0 +1,12 @@
+{
+  "id": "c539d7b1-aa85-4b83-8649-7e0fa30de606",
+  "instruction": "Find the length of each side of this right triangle.",
+  "input": "30, 60",
+  "output": "The two sides of the right triangle are of length 30 and 60, and the third side is of length 90.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

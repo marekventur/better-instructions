@@ -1,0 +1,12 @@
+{
+  "id": "83ace624-a72e-4452-ac9c-d4ed28190a36",
+  "instruction": "Write a Java function which takes in a list and a string and returns true if the string is contained in the list, otherwise false.",
+  "input": "list: [\u201capple\u201d, \u201cbanana\u201d, \u201cpear\u201d], string: \u201cpear\u201d",
+  "output": "public boolean containsString(List<String> list, String s) { \n    return list.contains(s); \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

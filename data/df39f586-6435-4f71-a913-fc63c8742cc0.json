@@ -1,0 +1,12 @@
+{
+  "id": "df39f586-6435-4f71-a913-fc63c8742cc0",
+  "instruction": "Edit this sentence so it uses fewer words and is still clear.",
+  "input": "The book that I read was interesting and made me think of different things.",
+  "output": "The book I read was thought-provoking.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

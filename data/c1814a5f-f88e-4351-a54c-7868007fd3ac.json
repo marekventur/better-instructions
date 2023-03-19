@@ -1,0 +1,12 @@
+{
+  "id": "c1814a5f-f88e-4351-a54c-7868007fd3ac",
+  "instruction": "Given a list of animals, classify them according to their taxonomic categories like Mammalia and Aves.",
+  "input": "Cow, eagle, snake, whale",
+  "output": "Cow (Mammalia), eagle (Aves), snake (Reptilia) ,whale (Mammalia).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

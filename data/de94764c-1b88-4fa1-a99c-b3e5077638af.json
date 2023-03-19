@@ -1,0 +1,12 @@
+{
+  "id": "de94764c-1b88-4fa1-a99c-b3e5077638af",
+  "instruction": "Write a function that checks if an element exists in two given arrays",
+  "input": "",
+  "output": "function checkElementExists(arr1, arr2) {\n    for(var i = 0; i < arr1.length; i++) {\n        for(var j = 0; j < arr2.length; j++) {\n            if(arr1[i] == arr2[j]) {\n                return true;\n            }\n        }\n    }\n    return false;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

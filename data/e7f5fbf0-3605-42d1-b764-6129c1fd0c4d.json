@@ -1,0 +1,12 @@
+{
+  "id": "e7f5fbf0-3605-42d1-b764-6129c1fd0c4d",
+  "instruction": "Create an email template to ask for a recommendation from a professor.",
+  "input": "",
+  "output": "Dear [Professor Name],\n\nI am writing to request your assistance. I am currently applying for [program/position] and I am hoping that you would be willing to provide a reference for me. I have been a student in your class for [class name], and I found the course to be extremely beneficial and helpful in [provide examples of how the course has been helpful].\n\nI am confident that I possess the necessary skills and qualifications for the position, and I believe your recommendation would be highly beneficial for my application.\n\nI would be grateful if you could take the time to provide a reference for me.\n\nThank you for your time and consideration.\n\nSincerely,\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

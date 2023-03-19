@@ -1,0 +1,12 @@
+{
+  "id": "75bb35c1-421d-48c5-837a-1ab241c7a18e",
+  "instruction": "Given the following sentence which contains a mistake, correct the mistake.",
+  "input": "She disagreed with him and accused him of being inconsiderately.",
+  "output": "She disagreed with him and accused him of being inconsiderate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

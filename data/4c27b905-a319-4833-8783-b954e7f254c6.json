@@ -1,0 +1,12 @@
+{
+  "id": "4c27b905-a319-4833-8783-b954e7f254c6",
+  "instruction": "Give an example of a machine learning algorithm and explain how it works.",
+  "input": "",
+  "output": "A popular example of a machine learning algorithm is the Support Vector Machine (SVM). It is a supervised learning algorithm used for both classification and regression tasks. It works by plotting data points in an n-dimensional space, separated by a decision boundary or hyperplane in the space. The algorithm uses maximum margins, which are drawn as far as possible from data points of both classes. These margins help with creating the most optimal decision hyperplane. The algorithm then adjusts the decision hyperplane by taking into account errors made in the classification task and modifies the hyperplane accordingly.\n\nIn the end, the Support Vector Machine can perform the classification task with the optimal decision hyperplane, predicting the class of the data points.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

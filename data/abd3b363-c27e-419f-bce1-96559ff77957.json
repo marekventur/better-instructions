@@ -1,0 +1,12 @@
+{
+  "id": "abd3b363-c27e-419f-bce1-96559ff77957",
+  "instruction": "Identify the statement which does not describe Machine Learning",
+  "input": "A) Machine Learning is a subset of Artificial Intelligence\nB) Machine Learning algorithms use statistical techniques to find patterns in data\nC) Machine Learning algorithms can learn to predict accurate outcomes without any human intervention\nD) Machine Learning algorithms can automatically convert text to images",
+  "output": "D) Machine Learning algorithms can automatically convert text to images.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

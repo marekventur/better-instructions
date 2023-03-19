@@ -1,0 +1,12 @@
+{
+  "id": "fc9cefd7-e185-4dfc-b3c6-6df16f3a3d1a",
+  "instruction": "Guess the type of this animal.",
+  "input": "It has fur, a bushy tail, and likes to climb trees.",
+  "output": "It is a squirrel.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

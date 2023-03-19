@@ -1,0 +1,12 @@
+{
+  "id": "034f8881-b49e-4b29-975d-9be20488ad63",
+  "instruction": "Write a query to find all words that start with the letter 'd'.",
+  "input": "",
+  "output": "SELECT word FROM table_name\nWHERE word LIKE 'd%'",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

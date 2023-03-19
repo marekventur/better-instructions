@@ -1,0 +1,12 @@
+{
+  "id": "6daca8ca-2423-4867-8782-50c2d08391e5",
+  "instruction": "Compare and contrast two news articles about the same event.",
+  "input": "Article 1: The police made multiple arrests after a fight between two football teams erupted.\nArticle 2: A confrontation between two football players led to a clash between the team members.",
+  "output": "Both articles discuss a fight that erupted between two football teams. In Article 1, the police made multiple arrests, implying that the incident was serious enough to require legal attention. In Article 2, the source focuses on the initial confrontation between two football players, emphasizing that the conflict started at the individual level.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

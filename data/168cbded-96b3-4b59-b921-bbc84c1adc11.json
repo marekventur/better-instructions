@@ -1,0 +1,12 @@
+{
+  "id": "168cbded-96b3-4b59-b921-bbc84c1adc11",
+  "instruction": "Choose the sentence which contains the strongest figure of speech.",
+  "input": "(1) The storm was raging like a monster. (2) The storm was as wild as a lion. (3) The storm was as fierce as a beast. (4) The storm was a ferocious dragon.",
+  "output": "4",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

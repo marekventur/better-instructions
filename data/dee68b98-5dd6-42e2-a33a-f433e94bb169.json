@@ -1,0 +1,12 @@
+{
+  "id": "dee68b98-5dd6-42e2-a33a-f433e94bb169",
+  "instruction": "Take the following sentence and use a verb instead of the noun.",
+  "input": "She had a willingness to help.",
+  "output": "She willingly helped.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

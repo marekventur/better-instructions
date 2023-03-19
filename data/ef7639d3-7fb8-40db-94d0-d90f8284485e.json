@@ -1,0 +1,12 @@
+{
+  "id": "ef7639d3-7fb8-40db-94d0-d90f8284485e",
+  "instruction": "Delete the third sentence of a given text.",
+  "input": "The hotel was a chic, modern design. The lobby was filled with grand furniture. The service was friendly and accommodating.",
+  "output": "The hotel was a chic, modern design. The lobby was filled with grand furniture.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

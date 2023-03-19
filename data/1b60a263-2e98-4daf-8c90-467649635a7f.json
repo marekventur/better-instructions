@@ -1,0 +1,12 @@
+{
+  "id": "1b60a263-2e98-4daf-8c90-467649635a7f",
+  "instruction": "Generate a dialogue between two people discussing a recent international news article.",
+  "input": "",
+  "output": "Person 1: Have you heard of the new immigration law passed in Europe?\n\nPerson 2: Yes, I read about it in the news. It seems like they are restricting the number of people who can legally enter the country.\n\nPerson 1: Yes, that's right. I'm worried about how it will affect refugees and asylum seekers.\n\nPerson 2: It's a difficult issue. I'm concerned that it may impact those in need of assistance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0a95e9bd-d41f-4a28-9df8-7432fffb2c53",
+  "instruction": "Given an array of integers [100, 22, 33, 79, 55], print out the 3 largest number in the array",
+  "input": "",
+  "output": "100, 79, and 55 are the three largest numbers in the given array.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

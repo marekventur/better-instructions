@@ -1,0 +1,12 @@
+{
+  "id": "c4c67aed-c8cc-490e-9dd4-41f054a63297",
+  "instruction": "Create a budget for an event.",
+  "input": "Event: Summer Picnic for 50 people",
+  "output": "Summer Picnic Budget\n\n\u2022 Food and Drinks \u2013 $300\n\u2022 Decorations \u2013 $50\n\u2022 Games and Activities \u2013 $50\n\u2022 Venue \u2013 $250\n\u2022 Entertainment \u2013 $100\n\u2022 Miscellaneous \u2013 $50 \n\nTotal: $800",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

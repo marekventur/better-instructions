@@ -1,0 +1,12 @@
+{
+  "id": "23d3ace5-0fd0-467b-851f-c38c8210b9fc",
+  "instruction": "Write a haiku poem on the given topic.",
+  "input": "change",
+  "output": "Life is change that never\nStops, and transformation is all\nWe have left in life.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

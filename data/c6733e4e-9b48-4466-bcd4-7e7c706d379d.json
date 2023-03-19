@@ -1,0 +1,12 @@
+{
+  "id": "c6733e4e-9b48-4466-bcd4-7e7c706d379d",
+  "instruction": "Edit the sentence \"I'm running late so I quickly ate breakfast\" to correct the grammar",
+  "input": "",
+  "output": "I'm running late so I ate breakfast quickly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

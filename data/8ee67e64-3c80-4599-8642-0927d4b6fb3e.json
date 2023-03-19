@@ -1,0 +1,12 @@
+{
+  "id": "8ee67e64-3c80-4599-8642-0927d4b6fb3e",
+  "instruction": "Given the context, classify the sentiment of the statement",
+  "input": "John just lost his job and he is frustrated",
+  "output": "The sentiment of the statement is negative.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

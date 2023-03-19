@@ -1,0 +1,12 @@
+{
+  "id": "058c96ca-89ab-438d-b0c7-cd8f832860ef",
+  "instruction": "Given a Wikipedia page, generate a single sentence summary of the page.",
+  "input": "https://en.wikipedia.org/wiki/Delphi",
+  "output": "Delphi is an ancient Greek city located on a large peninsula in the central part of mainland Greece.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

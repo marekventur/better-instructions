@@ -1,0 +1,12 @@
+{
+  "id": "ba4a2e38-084d-4618-a015-7fd4ea57eada",
+  "instruction": "Compute the mean of the values in the given list.",
+  "input": "[2, 3, 4, 5, 6, 7]",
+  "output": "The mean of the values in the list is 4.5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

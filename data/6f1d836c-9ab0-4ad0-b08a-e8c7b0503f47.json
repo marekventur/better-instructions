@@ -1,0 +1,12 @@
+{
+  "id": "6f1d836c-9ab0-4ad0-b08a-e8c7b0503f47",
+  "instruction": "How would you categorize this sentence?",
+  "input": "The clerk scanned the barcode on my book.",
+  "output": "Shopping.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

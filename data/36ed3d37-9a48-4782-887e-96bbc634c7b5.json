@@ -1,0 +1,12 @@
+{
+  "id": "36ed3d37-9a48-4782-887e-96bbc634c7b5",
+  "instruction": "Find the most congruent sentence among the proposed sentences given the input sentence.",
+  "input": "Julie cooked dinner for her family.",
+  "output": "Julie prepared a meal for her family.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

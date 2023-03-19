@@ -1,0 +1,12 @@
+{
+  "id": "ffc0c539-da54-40c4-a2f7-39eb55c89d17",
+  "instruction": "Provide five ethical considerations for data collection.",
+  "input": "",
+  "output": "1. Data should only be collected from legally authorized sources.\n2. All data should be collected with the explicit consent of the person from whom it will be collected.\n3. Data collectors should take steps to protect the privacy of the data by using encryption or other methods of anonymization.\n4. Data should only be used for a legally authorized purpose.\n5. The data should be stored securely and access to the data should be granted only to authorized personnel.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

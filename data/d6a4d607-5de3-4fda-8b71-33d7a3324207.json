@@ -1,0 +1,12 @@
+{
+  "id": "d6a4d607-5de3-4fda-8b71-33d7a3324207",
+  "instruction": "Compile a list of inventions in the last century with a brief description of each one.",
+  "input": "No input",
+  "output": "1. Helicopter: A type of aircraft with rotating wings that enable the craft to fly and hover in the air.\n2. Cell Phone: A type of portable telephone with access to the Internet and various other communication services.\n3. Air Conditioner: A device that cools, dehumidifies and circulates air within an enclosed area.\n4. Automobile: A self-propelled vehicle road vehicle with several parts and components, used to transport people or goods.\n5. Television: A device that facilitates transmitting and receiving pictures and sound electronically.\n6. Electronic Computer: A programmable machine which can perform arithmetic and logic operations automatically.\n7. Antibiotics: Molecules that act against particular bacterial infections by interfering with pathogen functions.\n8. Penicillin: The first antibiotic to be discovered, it is used to treat a variety of infections including pneumonia, meningitis and syphilis.\n9. Transistor: A semiconductor device used to amplify or switch electronic signals and electrical power.\n10. Spacecraft: A vehicle designed to carry people or payloads in outer space.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

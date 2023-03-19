@@ -1,0 +1,12 @@
+{
+  "id": "27f8e8f5-ae06-4ccb-8e0d-1eb8ce710cab",
+  "instruction": "Given the input, construct a sentence using the given idiom.",
+  "input": "walk on eggshells",
+  "output": "She was navigating the office politics so cautiously that it was like she was walking on eggshells.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "61f2c707-108b-4022-b3b5-35dde867e8ac",
+  "instruction": "What is the issue with the following line of code?",
+  "input": "`int x = \"hello\";`",
+  "output": "The issue with the above line of code is that it is trying to assign a string \"hello\" to an int variable, which is an invalid operation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

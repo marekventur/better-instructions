@@ -1,0 +1,12 @@
+{
+  "id": "a0ee6085-5004-40c3-920e-a0734242f20e",
+  "instruction": "Insert an appropriate phrase for the blank",
+  "input": "The price of the product was ___",
+  "output": "The price of the product was reasonably low.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

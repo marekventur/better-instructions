@@ -1,0 +1,12 @@
+{
+  "id": "a02d943a-e78d-4179-8dd9-be487e916686",
+  "instruction": "Compress this sentence as much as possible without changing its meaning.",
+  "input": "Although this method is not the fastest, it is certainly the most effective.",
+  "output": "Though not fastest, it's most effective.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

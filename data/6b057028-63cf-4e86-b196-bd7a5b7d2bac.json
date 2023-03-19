@@ -1,0 +1,12 @@
+{
+  "id": "6b057028-63cf-4e86-b196-bd7a5b7d2bac",
+  "instruction": "Given a sentence, categorize it as formal or informal.",
+  "input": "Let's go out for a drink.",
+  "output": "This sentence is informal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

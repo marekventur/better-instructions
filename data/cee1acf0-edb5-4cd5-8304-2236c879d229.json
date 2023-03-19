@@ -1,0 +1,12 @@
+{
+  "id": "cee1acf0-edb5-4cd5-8304-2236c879d229",
+  "instruction": "Identify the type of problem listed below.",
+  "input": "A person earns $10 an hour for 8 hours a day, for 5 days a week.",
+  "output": "This is a multiplying problem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

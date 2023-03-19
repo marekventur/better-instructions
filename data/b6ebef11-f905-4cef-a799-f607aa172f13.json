@@ -1,0 +1,12 @@
+{
+  "id": "b6ebef11-f905-4cef-a799-f607aa172f13",
+  "instruction": "Assign a category to the following sentence: \n\nShe took her dog for a walk in the park.",
+  "input": "",
+  "output": "Action",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

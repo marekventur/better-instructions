@@ -1,0 +1,12 @@
+{
+  "id": "f8c09fc2-f809-4e18-918a-b124cd90cde0",
+  "instruction": "Draft an email following up a job interview.",
+  "input": "Dear [Name],\n\nThank you for taking the time to interview me yesterday.",
+  "output": "Dear [Name],\n\nThank you for taking the time to interview me yesterday. I really appreciated the opportunity to discuss my qualifications, and I am confident that I possess the skills and experiences that would be beneficial to your team.\n\nI look forward to hearing back from you soon and would be thrilled to join your team.\n\nSincerely,\n\n[Your name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

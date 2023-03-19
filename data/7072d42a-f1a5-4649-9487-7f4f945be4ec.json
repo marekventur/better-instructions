@@ -1,0 +1,12 @@
+{
+  "id": "7072d42a-f1a5-4649-9487-7f4f945be4ec",
+  "instruction": "Return the length of a given string.",
+  "input": "Hello world",
+  "output": "11",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

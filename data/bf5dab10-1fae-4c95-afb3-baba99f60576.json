@@ -1,0 +1,12 @@
+{
+  "id": "bf5dab10-1fae-4c95-afb3-baba99f60576",
+  "instruction": "Add a single line of dialogue to react to this situation.",
+  "input": "The police officer is walking towards you with a pair of handcuffs.",
+  "output": "\"What did I do?\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

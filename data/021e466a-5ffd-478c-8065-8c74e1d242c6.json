@@ -1,0 +1,12 @@
+{
+  "id": "021e466a-5ffd-478c-8065-8c74e1d242c6",
+  "instruction": "Demonstrate how to set up a Raspberry Pi.",
+  "input": "",
+  "output": "Setting up a Raspberry Pi is a relatively straightforward process. First, one needs to prepare a microSD card with the Raspberry Pi operating system, ensure that the appropriate peripherals and connections are in place and the power supply is correctly connected. Then, turn the Raspberry Pi on and log into it with the credentials provided. After this, set the initial configurations for the system, and the Raspberry Pi is ready to use.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

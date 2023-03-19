@@ -1,0 +1,12 @@
+{
+  "id": "7b8f6909-4c30-4efb-848e-6776a9396e83",
+  "instruction": "Identify the speaker's attitude towards the subject.",
+  "input": "I think this new policy is terrible.",
+  "output": "The speaker's attitude towards the subject is negative.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

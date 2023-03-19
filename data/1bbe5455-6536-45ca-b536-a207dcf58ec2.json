@@ -1,0 +1,12 @@
+{
+  "id": "1bbe5455-6536-45ca-b536-a207dcf58ec2",
+  "instruction": "Generate a song using the following context and melody.",
+  "input": "Context: A love song\nMelody:",
+  "output": "Verse 1\nWhen I saw you in the room\nMy heart was beating like a drum\nEvery moment I'm with you\nI know there's nothing I can do\n\nChorus\nAnd I never felt so alive\nYou bring me joy that I can't hide\nI'm so glad that I found you\nMy one and only love is true\n\nVerse 2 \nOur love is like a summer breeze\nThrough all the storms it never leaves\nI just want to hold you close\nForever in my memories\n\nChorus \nAnd I never felt so alive\nYou bring me joy that I can't hide\nI'm so glad that I found you\nMy one and only love is true\n\nBridge \nAnd when I'm in your arms\nThe world is locked outside\nI'm sure of your love\nYou're my one and only ride \n\nChorus \nAnd I never felt so alive\nYou bring me joy that I can't hide\nI'm so glad that I found you\nMy one and only love is true\nMy one and only love is true",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

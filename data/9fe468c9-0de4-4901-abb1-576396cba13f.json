@@ -1,0 +1,12 @@
+{
+  "id": "9fe468c9-0de4-4901-abb1-576396cba13f",
+  "instruction": "Create a chart to compare the number of people in two different cities.",
+  "input": "New York City and Chicago",
+  "output": "City | Population\n--- | ---\nNew York City | 8,336,817\nChicago | 2,705,994",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

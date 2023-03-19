@@ -1,0 +1,12 @@
+{
+  "id": "6106cba4-20a2-4c5c-bcd4-3e770dd4ad6c",
+  "instruction": "Classify this article into one of the following categories: Financial, Technology, Health, Business.",
+  "input": "The European Union is pushing for greater efforts to reduce the cost of healthcare in member countries.",
+  "output": "Health",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

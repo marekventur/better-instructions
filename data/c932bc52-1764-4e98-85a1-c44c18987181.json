@@ -1,0 +1,12 @@
+{
+  "id": "c932bc52-1764-4e98-85a1-c44c18987181",
+  "instruction": "Write a form letter inviting clients to a newly opened store.",
+  "input": "Grand Opening of XYZ Store on Sunday, April 5th at 10am",
+  "output": "Dear valued customers, \n\nWe are excited to announce that XYZ Store is opening its doors to the public on Sunday, April 5th at 10am! It is a great pleasure to welcome you to our exciting new venture and we look forward to providing you with quality customer service. \n\nPlease join us for this grand opening event and enjoy exclusive discounts and a range of items from our selection of products. It will be an amazing experience and we hope to see you there. \n\nWarmest regards, \nXYZ Store",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

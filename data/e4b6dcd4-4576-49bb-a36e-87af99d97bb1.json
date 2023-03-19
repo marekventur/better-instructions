@@ -1,0 +1,12 @@
+{
+  "id": "e4b6dcd4-4576-49bb-a36e-87af99d97bb1",
+  "instruction": "Make a flow chart to represent the following process",
+  "input": "Customer Feedback Process",
+  "output": "[Flow Chart of Customer Feedback Process]\n                                \nStart                                           \n|                                               \n|-- Gather Customer Feedback-->Analyze Feedback-->Classify Feedback-->Create Solution-->Test & Refine Solution-->                                               \n|                                               \nEnd",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

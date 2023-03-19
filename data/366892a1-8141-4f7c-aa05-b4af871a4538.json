@@ -1,0 +1,12 @@
+{
+  "id": "366892a1-8141-4f7c-aa05-b4af871a4538",
+  "instruction": "Classify the following plant as a gymnosperm or an angiosperm.",
+  "input": "Oak tree",
+  "output": "The oak tree is an angiosperm because it produces flowers and has its seeds contained within fruit.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

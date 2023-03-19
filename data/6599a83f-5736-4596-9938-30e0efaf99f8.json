@@ -1,0 +1,12 @@
+{
+  "id": "6599a83f-5736-4596-9938-30e0efaf99f8",
+  "instruction": "Create a computer program to play a game of tic-tac-toe",
+  "input": "",
+  "output": "A computer program for playing tic-tac-toe can be created using a looping structure to check for available spots on the board, conditions for capturing a row or column, and conditions for a tie or win. When the user inputs a move, the loop body should check for possible win combination and update the board accordingly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

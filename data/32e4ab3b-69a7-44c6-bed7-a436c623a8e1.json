@@ -1,0 +1,12 @@
+{
+  "id": "32e4ab3b-69a7-44c6-bed7-a436c623a8e1",
+  "instruction": "Identify the CPU instruction that is required for printing a character to the screen.",
+  "input": "",
+  "output": "The CPU instruction required for printing a character to the screen is the PRINT instruction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

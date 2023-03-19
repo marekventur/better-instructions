@@ -1,0 +1,12 @@
+{
+  "id": "736d170a-f823-47d5-93cb-60639040a104",
+  "instruction": "Compile a list of potential actions for a virtual assistant.",
+  "input": "",
+  "output": "A virtual assistant could take on a range of tasks including:\n\u2022 Scheduling appointments and meetings\n\u2022 Sending reminders and notifications\n\u2022 Managing emails\n\u2022 Creating documents and spreadsheets\n\u2022 Setting up virtual meetings \n\u2022 Answering customer inquiries \n\u2022 Researching topics\n\u2022 Tracking progress towards goals \n\u2022 Creating charts and graphs\n\u2022 Answering questions from customers in real-time\n\u2022 Providing proactive customer service \n\u2022 Performing data analysis \n\u2022 Preparing reports and presentations \n\u2022 Automating mundane tasks \n\u2022 Setting up and managing events \n\u2022 Managing social media accounts \n\u2022 Creating and updating databases\n\u2022 Generating website content \n\u2022 Developing marketing campaigns \n\u2022 Providing customer support\n\u2022 Performing online searches \n\u2022 Creating newsletters\n\u2022 Generating lead lists \n\u2022 Providing tech support \n\u2022 Booking travel and accommodations \n\u2022 Generating project plans",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

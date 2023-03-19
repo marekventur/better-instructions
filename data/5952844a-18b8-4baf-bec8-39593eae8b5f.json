@@ -1,0 +1,12 @@
+{
+  "id": "5952844a-18b8-4baf-bec8-39593eae8b5f",
+  "instruction": "Categorize the types of the nouns in the sentence.",
+  "input": "John bought a new car and a bike.",
+  "output": "proper noun: John\ncommon nouns: car, bike",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

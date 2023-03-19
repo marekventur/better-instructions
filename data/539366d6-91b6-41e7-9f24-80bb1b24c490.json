@@ -1,0 +1,12 @@
+{
+  "id": "539366d6-91b6-41e7-9f24-80bb1b24c490",
+  "instruction": "Using two given words, create a meaningful sentence.",
+  "input": "library, snow",
+  "output": "The library was silent except for the whisper of snowflakes falling outside.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

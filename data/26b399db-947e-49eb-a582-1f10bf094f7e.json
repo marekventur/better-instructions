@@ -1,0 +1,12 @@
+{
+  "id": "26b399db-947e-49eb-a582-1f10bf094f7e",
+  "instruction": "Given a set of characters, write a function which checks whether the given set contains the character 'A'.",
+  "input": "Character Set: [W, X, Y, Z]",
+  "output": "def checkCharacterSet(char_set):\n  if 'A' in char_set:\n    return True\n  else:\n    return False",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cc0eddeb-b435-4cc3-9792-989a5278dc43",
+  "instruction": "Identify the type of the triangle according to its angles.",
+  "input": "The angles measure 36 degrees, 60 degrees, 84 degrees.",
+  "output": "The triangle is an obtuse triangle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

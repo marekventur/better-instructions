@@ -1,0 +1,12 @@
+{
+  "id": "81b60297-dafe-445d-8979-db4a6b4d487d",
+  "instruction": "Explain the difference between a data scientist and a machine learning engineer.",
+  "input": "",
+  "output": "A data scientist is responsible for understanding data, analyzing it and developing insights from it. They work with machine learning engineers to create models for analyzing datasets. They are also involved in data engineering and machine learning. \n\nA machine learning engineer is responsible for building, maintaining and optimizing machine learning models. They work with data scientists to design and tune models to optimize the data. They develop algorithms and tools to make use of large datasets.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

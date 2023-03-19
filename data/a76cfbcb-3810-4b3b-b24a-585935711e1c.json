@@ -1,0 +1,12 @@
+{
+  "id": "a76cfbcb-3810-4b3b-b24a-585935711e1c",
+  "instruction": "Suggest a resolution to the following problem:\n\nYour internet connection is slow.",
+  "input": "",
+  "output": "One possible resolution to this problem is to contact your internet service provider and inquire about any possible options to improve your connection speed. Additionally, you could check the speed of your internet connection by running speed tests and checking your current bandwidth. You may also want to check other devices on the same network to see if they are also experiencing slow connections. If necessary, you can also upgrade your internet bandwidth for better connection speed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "aa2a9612-ce9a-4cb1-8932-8285889a561c",
+  "instruction": "Translate the given statement into a different language",
+  "input": "I am a student",
+  "output": "Je suis \u00e9tudiant.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

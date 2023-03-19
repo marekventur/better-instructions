@@ -1,0 +1,12 @@
+{
+  "id": "decb53b5-d174-4598-80d2-b840aed44c58",
+  "instruction": "Given a location, find the population",
+  "input": "Bucharest, Romania",
+  "output": "Bucharest, Romania has a population of approximately 1.925 million people.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

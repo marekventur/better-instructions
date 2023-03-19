@@ -1,0 +1,12 @@
+{
+  "id": "a88a40ee-3738-4854-aee2-a400fdf049b0",
+  "instruction": "Given a set of numbers, output the two smallest ones.",
+  "input": "{1001, 22, 500, -3999, 1e6, 85, -2e6}",
+  "output": "-3999, -2e6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

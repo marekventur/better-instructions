@@ -1,0 +1,12 @@
+{
+  "id": "f409ea33-35e0-4259-a530-2fe16df006fd",
+  "instruction": "Determine the stock market trend of the following stock over the past month.",
+  "input": "The stock name is ABC Corporation.",
+  "output": "The stock price of ABC Corporation has been steadily increasing over the past month. From the start of the month, the stock price has increased by around 15%.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

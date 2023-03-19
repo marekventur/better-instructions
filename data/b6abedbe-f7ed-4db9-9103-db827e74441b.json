@@ -1,0 +1,12 @@
+{
+  "id": "b6abedbe-f7ed-4db9-9103-db827e74441b",
+  "instruction": "Combine the sentences to form a new sentence.",
+  "input": "The sun rises on the horizon. A new day begins.",
+  "output": "As the sun rises on the horizon, a new day begins.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

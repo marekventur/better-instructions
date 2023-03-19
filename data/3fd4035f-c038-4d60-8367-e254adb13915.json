@@ -1,0 +1,12 @@
+{
+  "id": "3fd4035f-c038-4d60-8367-e254adb13915",
+  "instruction": "Write a script for a 5-minute conversation between two characters",
+  "input": "Two strangers meeting for the first time",
+  "output": "Person 1: Hi, I'm Person 1. \nPerson 2: Hi, I'm Person 2. It's nice to meet you. \nPerson 1: Yeah, you too. So, what brings you to this area?\nPerson 2: I'm here visiting my family. What about you? \nPerson 1: I'm here for an event. It's my first time in the city.\nPerson 2: Oh, cool. Where do you live?\nPerson 1: I live in a small town nearby. It's a great place to live.\nPerson 2: That sounds like a great place. Alright, well I should probably be going now. It was nice talking to you.\nPerson 1: Yeah, it was. See you around.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

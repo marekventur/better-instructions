@@ -1,0 +1,12 @@
+{
+  "id": "f7f74db2-1972-498f-87b5-7c236095f801",
+  "instruction": "Edit this sentence using the Chicago Manual of Style:",
+  "input": "The scientists have studyed the data",
+  "output": "The scientists have studied the data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

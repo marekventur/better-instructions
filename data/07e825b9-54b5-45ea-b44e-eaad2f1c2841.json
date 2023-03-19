@@ -1,0 +1,12 @@
+{
+  "id": "07e825b9-54b5-45ea-b44e-eaad2f1c2841",
+  "instruction": "Describe the key elements of the painting in the input.",
+  "input": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Delacroix%2C_Eug%C3%A8ne_-_Liberty_Leading_the_People.jpg/1200px-Delacroix%2C_Eug%C3%A8ne_-_Liberty_Leading_the_People.jpg",
+  "output": "This painting shows a bare-breasted woman leading a crowd of citizens during a revolution in Paris. She is carrying a French flag and a bayonet in her left hand and a musket in her right hand. She is surrounded by men carrying arms advancing forward in the near distance, while men and women are marching around her. A calm river is featured in the background.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

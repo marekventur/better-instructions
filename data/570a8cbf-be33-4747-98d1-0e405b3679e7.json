@@ -1,0 +1,12 @@
+{
+  "id": "570a8cbf-be33-4747-98d1-0e405b3679e7",
+  "instruction": "Categorize the job candidate below into either an entry-level or mid-level.",
+  "input": "Mark has 3 years of experience in software engineering and has recently completed a certification in Machine Learning.",
+  "output": "mid-level",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e3569b05-7848-458e-a0ba-6cdefef49cd9",
+  "instruction": "Generate a reasonable dialogue between two persons for the given topic.",
+  "input": "World poverty",
+  "output": "Person 1: Have you heard about the global poverty crisis? It's impacting people all over the world.\nPerson 2: Yeah, it's an absolutely terrible thing. But what can be done to help?\nPerson 1: Well, there are a lot of organizations out there working to bring aid and create awareness. But we can do our part too by donating or volunteering. \nPerson 2: Yeah, I think it's our responsibility to help. Let's definitely make an effort.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

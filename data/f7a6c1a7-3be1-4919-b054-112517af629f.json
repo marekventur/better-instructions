@@ -1,0 +1,12 @@
+{
+  "id": "f7a6c1a7-3be1-4919-b054-112517af629f",
+  "instruction": "Given a mathematical expression, simplify it.",
+  "input": "3x + 4xy + y - 2x - 3y",
+  "output": "4xy + x - y",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

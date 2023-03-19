@@ -1,0 +1,12 @@
+{
+  "id": "9f42ed79-ae19-4934-b110-acf88443b793",
+  "instruction": "Analyze the evidence given in the passage and decide if the author is in favor of or against the statement.",
+  "input": "The passage reads: \"The government has imposed strict regulations on industries, in an effort to reduce the pollution they cause. They have had some success, but more needs to be done in order to achieve the desired outcome.\"\nStatement: The government's efforts to reduce industrial pollution have been successful.",
+  "output": "Unsupport",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

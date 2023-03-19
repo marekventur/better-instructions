@@ -1,0 +1,12 @@
+{
+  "id": "776af316-7685-48f8-a6be-01ef5d4fb6b5",
+  "instruction": "Generate a list of tasks for a to-do app",
+  "input": "",
+  "output": "- Add new tasks\n- Set reminders for tasks\n- Reorder tasks\n- Mark tasks as complete\n- Delete tasks\n- Filter tasks by type\n- Assign tasks to other users\n- Track progress for tasks\n- Add notes to tasks\n- Set deadlines for tasks\n- Log time taken to complete tasks\n- Search tasks by keyword\n- Flag tasks to be prioritized\n- Sort tasks by priority\n- Set tags for tasks\n- View tasks by tags\n- Archive tasks\n- Export tasks \n- Set recurring tasks\n- Share tasks with other users",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

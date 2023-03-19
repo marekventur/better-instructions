@@ -1,0 +1,12 @@
+{
+  "id": "a5439823-6b31-4806-9b65-665993dfbd2d",
+  "instruction": "Categorize the flower as a type of bloom.",
+  "input": "Aster",
+  "output": "Daisy-like flower",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

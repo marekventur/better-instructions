@@ -1,0 +1,12 @@
+{
+  "id": "155f1723-aa68-4943-8a93-20a5c9a6529a",
+  "instruction": "Identify the Internet Protocol being used in the given output.",
+  "input": "IP packet: 192.168.1.1/255.255.255.0",
+  "output": "IPv4",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

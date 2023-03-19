@@ -1,0 +1,12 @@
+{
+  "id": "5bf5ebe2-d7d3-4dcf-8237-eb39420a2739",
+  "instruction": "Explain the process of debugging a computer program",
+  "input": "",
+  "output": "Debugging is the process of identifying and resolving errors or issues in software or hardware. Debugging begins with identifying the problem and recreating it, which can be done by examining the code, examining relevant documentation and examining the program's execution. Once the problem is identified, a potential solution can be tested and then implemented to fix the issue. The solution can then be verified and monitored to check that the problem has been resolved.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0905259a-b924-4644-9afb-7345652c0775",
+  "instruction": "From the input, suggest the appropriate action.",
+  "input": "I am having trouble getting to work on time because of heavy traffic.",
+  "output": "The appropriate action to take would be to plan out a different route to work that would allow you to avoid the heavy traffic or to leave earlier to make sure you arrive on time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

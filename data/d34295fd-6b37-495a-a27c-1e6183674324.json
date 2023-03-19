@@ -1,0 +1,12 @@
+{
+  "id": "d34295fd-6b37-495a-a27c-1e6183674324",
+  "instruction": "Expand the following statement into a paragraph of 5-6 sentences.",
+  "input": "The president was elected by a slim majority.",
+  "output": "The recent election of the president was a close one. With the margin of victory being narrow, the president ultimately won by a slim majority. This was largely due to a surge of support among voters in the final days leading up to the election. With the high turnout of voters, the margin of victory for the president was as narrow as it could have been. Although it was a close race, the president was elected to office with a clear mandate from the electorate. This result spoke to the power of the democratic process and symbolized the strength of a unified voice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

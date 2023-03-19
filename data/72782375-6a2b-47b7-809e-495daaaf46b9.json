@@ -1,0 +1,12 @@
+{
+  "id": "72782375-6a2b-47b7-809e-495daaaf46b9",
+  "instruction": "Calculate the temperature of a given location at sunset.",
+  "input": "Location: Chicago, IL",
+  "output": "The temperature at sunset in Chicago, IL is 72 degrees Fahrenheit.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

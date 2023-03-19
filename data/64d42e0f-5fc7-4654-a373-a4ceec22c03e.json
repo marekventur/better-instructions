@@ -1,0 +1,12 @@
+{
+  "id": "64d42e0f-5fc7-4654-a373-a4ceec22c03e",
+  "instruction": "Identify the different words in the sentence and classify them into noun, pronoun, verb, adverb and adjective.",
+  "input": "The small dog quickly ran away.",
+  "output": "Noun: dog; Pronoun: The, small, it; Verb: ran; Adverb: quickly; Adjective: small.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2fcafbc4-6fef-47d1-996f-70e0c88ded7a",
+  "instruction": "Split the following string into its components [\"Hello\", \"world\", \"!\"].",
+  "input": "Hello world!",
+  "output": "The components of the string \"Hello world!\" are [\"Hello\", \"world\", \"!\"].",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d342be97-2711-491c-a34d-f82937040496",
+  "instruction": "You are given the following recipe, follow the instructions to make the dish.",
+  "input": "Lasagna\n\nIngredients:\n- 12 lasagna noodles\n- 4 cups ricotta cheese\n- 2 cups parmesan cheese\n- 2 eggs\n- 1 teaspoon oregano\n- 1 teaspoon basil\n- 1 teaspoon garlic powder\n- 2 jar of sauce\n- 2 cups mozzarella cheese\n\nInstructions:",
+  "output": "Preheat oven to 375F.\n\nBring a large pot of salted water to a boil. Cook lasagna noodles for 8 minutes or until al dente.\n\nIn a bowl, mix together ricotta cheese, 1 cup parmesan cheese, eggs, oregano, basil, and garlic powder.\n\nSpread 1 jar of sauce in the bottom of a 9x13 baking dish. Layer 4 noodles over the sauce, then spread half the ricotta cheese mixture over the noodles. Sprinkle with mozzarella cheese, then layer 4 more noodles. Cover with remaining sauce, ricotta cheese mixture, and mozzarella. Layer remaining noodles over the top and pour remaining sauce over the noodles. Sprinkle with remaining parmesan cheese.\n\nCover with foil and bake for 25 minutes. Uncover and bake for an additional 10-15 minutes until the cheese is melted and lightly golden. Let cool for 10 minutes before serving.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

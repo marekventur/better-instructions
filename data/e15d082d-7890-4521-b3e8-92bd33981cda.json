@@ -1,0 +1,12 @@
+{
+  "id": "e15d082d-7890-4521-b3e8-92bd33981cda",
+  "instruction": "What is the grammatical function of the underlined phrase?",
+  "input": "She visited Germany last summer.",
+  "output": "The underlined phrase (\"last summer\") is an adverbial phrase that is providing additional information about when she visited Germany.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

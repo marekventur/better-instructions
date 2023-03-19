@@ -1,0 +1,12 @@
+{
+  "id": "1b86d522-3194-40d5-ad70-e7270ec6764e",
+  "instruction": "Invoke a web API to fetch the current temperature of a given city.",
+  "input": "New York",
+  "output": "The current temperature in New York is 22.8\u00b0C.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

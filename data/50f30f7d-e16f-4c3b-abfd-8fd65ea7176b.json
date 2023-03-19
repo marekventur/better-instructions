@@ -1,0 +1,12 @@
+{
+  "id": "50f30f7d-e16f-4c3b-abfd-8fd65ea7176b",
+  "instruction": "Diagnose the following issue with a laptop computer.",
+  "input": "Error message: \"Blue Screen of Death\"",
+  "output": "This error message, also known as the \"Blue Screen of Death\", is a general error indicating a serious hardware or software problem. It could be caused by a corrupted driver, incompatibility issue, or issue with a component such as a faulty RAM module.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

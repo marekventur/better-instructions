@@ -1,0 +1,12 @@
+{
+  "id": "5d862e0e-7645-445e-8905-d9a128b61787",
+  "instruction": "Identify the nearest airport to the city",
+  "input": "Boston",
+  "output": "The nearest airport to Boston is Logan International Airport.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

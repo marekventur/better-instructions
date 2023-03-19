@@ -1,0 +1,12 @@
+{
+  "id": "c5b7d5a5-1f0e-4811-8921-fbff61e9376e",
+  "instruction": "Generate an example of a school report card, including grades and comments.",
+  "input": "Name: John Smith\nGrade: 10th",
+  "output": "John Smith is completing his 10th grade at Rolling Hills High School. His grades are as follows: \nEnglish: B+\nMath: A-\nHistory: B\nScience: C+\n\nJohn is a hardworking student who puts in effort in all his classes. He displays good understanding of the material, however he sometimes let his focus slip when there are more engaging topics. He is taking an active role in debates and discussions and responds to questions positively in class. John has the potential to achieve even better results if he is able to stay focused and organized.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

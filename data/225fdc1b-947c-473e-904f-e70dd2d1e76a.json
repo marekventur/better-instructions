@@ -1,0 +1,12 @@
+{
+  "id": "225fdc1b-947c-473e-904f-e70dd2d1e76a",
+  "instruction": "Detect if there is any fake news in the text. If so, mark the sentence false and provide a source for further verification.",
+  "input": "Humans evolved from monkeys.",
+  "output": "False. Humans evolved from a common ancestor that also gave rise to early primates and monkeys. Source: https://www.scienceabc.com/eyeopeners/humans-evolved-monkeys-common-ancestors.html",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

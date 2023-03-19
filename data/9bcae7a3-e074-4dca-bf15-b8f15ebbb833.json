@@ -1,0 +1,12 @@
+{
+  "id": "9bcae7a3-e074-4dca-bf15-b8f15ebbb833",
+  "instruction": "Encode a text into a numerical representation.",
+  "input": "Text: The cat is running.",
+  "output": "The numerical representation of the text, \"The cat is running\" is [3, 10, 0, 4, 5, 2, 4, 6]. The encoding scheme used is a 0-indexed counting scheme, where eachword is assigned a numerical representation based on its index in the text. In this example, \"The\" is 0, \"cat\" is 1, \"is\" is 2, and so on.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

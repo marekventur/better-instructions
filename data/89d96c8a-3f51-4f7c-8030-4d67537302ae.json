@@ -1,0 +1,12 @@
+{
+  "id": "89d96c8a-3f51-4f7c-8030-4d67537302ae",
+  "instruction": "Given the following attributes, build a customer persona.",
+  "input": "- Age: 28\n- Occupation: Data Scientist\n- Interests: Traveling",
+  "output": "Emily is a 28 year old data scientist living in New York City. She is highly motivated and tech-savvy, having studied computer science and statistics in college. She is currently working at a startup as a data scientist, where she spends her days crunching numbers and analyzing data. She is naturally curious and loves to solve puzzles. \n\nWhen not at work, Emily loves to explore the world. She is an avid traveler and always planning her next trip. She loves to try new cuisines and experience different cultures. Despite her busy work schedule, she is determined to make the most of her free time by going on trips and exploring the world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

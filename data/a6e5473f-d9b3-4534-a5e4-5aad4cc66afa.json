@@ -1,0 +1,12 @@
+{
+  "id": "a6e5473f-d9b3-4534-a5e4-5aad4cc66afa",
+  "instruction": "Given an array of numbers, categorize each item according to: odd, even, or negative",
+  "input": "[3, 4, -8, 5]",
+  "output": "odd, even, negative, odd",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

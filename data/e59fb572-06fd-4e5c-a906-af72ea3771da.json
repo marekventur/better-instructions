@@ -1,0 +1,12 @@
+{
+  "id": "e59fb572-06fd-4e5c-a906-af72ea3771da",
+  "instruction": "Compose a tweet about the given topic in an informative and concise manner.",
+  "input": "Lexical analysis",
+  "output": "Lexical analysis is a process of analyzing text to understand its meaning and structure. It's a key part of Natural Language Processing and is also used in many other areas such as information retrieval, AI, and data science. #NLP #DataScience #AI #TextAnalysis",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

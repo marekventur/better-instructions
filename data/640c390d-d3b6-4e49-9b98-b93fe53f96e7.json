@@ -1,0 +1,12 @@
+{
+  "id": "640c390d-d3b6-4e49-9b98-b93fe53f96e7",
+  "instruction": "Design a UI interface for a grocery store checkout system.",
+  "input": "",
+  "output": "The UI interface for a grocery store checkout system should be intuitive and user-friendly, making it easy for customers to quickly and accurately check out. The interface should display the items added to the cart, and the subtotal, taxes and other applicable fees. It should provide options for payment such as cash, card or other methods. It should also enable the customer to easily enter coupon codes and discounts. Finally, the interface should provide the customer with a receipt that confirms their purchase.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

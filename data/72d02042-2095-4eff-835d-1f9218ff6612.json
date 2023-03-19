@@ -1,0 +1,12 @@
+{
+  "id": "72d02042-2095-4eff-835d-1f9218ff6612",
+  "instruction": "Design an e-commerce website",
+  "input": "The website is for an online clothing store called \"Trendy Closet\".",
+  "output": "Trendy Closet will feature an interactive home page that displays a variety of clothing items and allows customers to easily search and browse the store's selection. The website will also include a product page for each item with detailed descriptions, images, and reviews. The store will also have a checkout page for customers to purchase items and a \"My Account\" page for customers to view and manage their orders. Finally, the website will also feature a blog for customers to find fashion tips and inspirations.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

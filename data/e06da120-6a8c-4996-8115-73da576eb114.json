@@ -1,0 +1,12 @@
+{
+  "id": "e06da120-6a8c-4996-8115-73da576eb114",
+  "instruction": "Download an excel sheet and find the greatest 5 values in it",
+  "input": "<excel file>",
+  "output": "The greatest 5 values in the provided excel sheet are 648, 542, 441, 268, and 253.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

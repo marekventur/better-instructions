@@ -1,0 +1,12 @@
+{
+  "id": "334450c9-d10c-40bd-8a7a-e541a3c33d35",
+  "instruction": "Create a function that takes a list of strings and returns a list without duplicates.",
+  "input": "",
+  "output": "def remove_duplicates(strings):\n  seen = set()\n  result = []\n  for string in strings:\n    if string not in seen:\n      seen.add(string)\n      result.append(string)\n  return result",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

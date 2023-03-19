@@ -1,0 +1,12 @@
+{
+  "id": "c2f774cf-2cdf-4b7f-9815-f7c481e27a02",
+  "instruction": "Develop a hypothesis to explain why a certain species of bird migrates from one region to another.",
+  "input": "Migrating species of bird: Northern Bobwhite",
+  "output": "My hypothesis is that the Northern Bobwhite migrate from one region to another in order to find more suitable food sources. During the summer months, there can be a scarcity of high quality food sources in their current region which may lead to a decrease in the bird's health. By migrating to new regions, the birds can find insulation from cold winters and access more abundant food sources.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

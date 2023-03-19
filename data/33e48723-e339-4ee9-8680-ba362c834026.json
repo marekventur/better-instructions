@@ -1,0 +1,12 @@
+{
+  "id": "33e48723-e339-4ee9-8680-ba362c834026",
+  "instruction": "Assign the given article to one of the categories.",
+  "input": "Article Title: Facts About Stingrays\nArticle Summary: This article provides an overview of stingrays, including their habitats and behavior.",
+  "output": "Category: Nature/Animals",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

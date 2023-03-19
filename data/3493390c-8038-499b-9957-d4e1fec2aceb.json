@@ -1,0 +1,12 @@
+{
+  "id": "3493390c-8038-499b-9957-d4e1fec2aceb",
+  "instruction": "Generate a series of questions to promote critical thinking about the given topic.",
+  "input": "Topic: Climate Change",
+  "output": "1. How is climate change affecting our planet? \n2. What are the short and long-term consequences of climate change? \n3. What can we do to reduce the effects of climate change?\n4. What are some of the potential solutions to combat climate change?\n5. How can we work with other countries to tackle climate change?\n6. What role do corporations play in the global effort to fight climate change?\n7. What can individuals do to help combat climate change?\n8. How has technology helped in the fight against climate change?\n9. What must we do to ensure that climate change does not reach a tipping point?\n10. What could be the economic implications of climate change?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

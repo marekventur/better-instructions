@@ -1,0 +1,12 @@
+{
+  "id": "4cee957d-8fcf-4759-9452-cafd22270aee",
+  "instruction": "Come up with a simple explanation on how to use the boolean data type.",
+  "input": "",
+  "output": "Boolean data type is a data type that can have only two values: true or false. It is often used to express logic and is often used in programming logic and databases. For example, you could use boolean data type to check whether a user has entered in the correct password. If the user entered the wrong password, the boolean data type would return false; if the user entered the correct password, it would return true.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

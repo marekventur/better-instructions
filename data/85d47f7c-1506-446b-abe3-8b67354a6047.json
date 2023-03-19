@@ -1,0 +1,12 @@
+{
+  "id": "85d47f7c-1506-446b-abe3-8b67354a6047",
+  "instruction": "Pick a random element from a list.",
+  "input": "List: [apple, banana, orange, strawberry]",
+  "output": "orange",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

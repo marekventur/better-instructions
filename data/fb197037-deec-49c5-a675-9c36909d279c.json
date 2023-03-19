@@ -1,0 +1,12 @@
+{
+  "id": "fb197037-deec-49c5-a675-9c36909d279c",
+  "instruction": "Put this sentence in past perfect tense.",
+  "input": "She had a headache.",
+  "output": "She had had a headache.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

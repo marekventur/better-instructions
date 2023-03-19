@@ -1,0 +1,12 @@
+{
+  "id": "be300ce6-b082-4003-8dd6-9c9567839ab9",
+  "instruction": "Write a query for returning all the countries in Africa.",
+  "input": "",
+  "output": "SELECT name \nFROM countries \nWHERE continent = 'Africa'",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

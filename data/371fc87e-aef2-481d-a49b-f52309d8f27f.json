@@ -1,0 +1,12 @@
+{
+  "id": "371fc87e-aef2-481d-a49b-f52309d8f27f",
+  "instruction": "Compare the installation process of two given software products.",
+  "input": "Software 1: Adobe Photoshop\nSoftware 2: CorelDraw",
+  "output": "The installation process for Adobe Photoshop is fairly straight-forward and does not require a lot of steps. It usually involves downloading a file, running the executable and providing your serial number or agreeing to any license agreements. CorelDraw, on the other hand, requires some additional steps. You need to choose an install type (Complete, Typical or Custom), accept or reject components and check off the types of objects you would like to be installed. The installation process is more involved but offers a wider range of customization options.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

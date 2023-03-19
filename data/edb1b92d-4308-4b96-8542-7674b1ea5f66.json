@@ -1,0 +1,12 @@
+{
+  "id": "edb1b92d-4308-4b96-8542-7674b1ea5f66",
+  "instruction": "Perform sentiment analysis on the following tweet and label it as positive, negative or neutral.",
+  "input": "The new coronavirus vaccine is a major breakthrough.",
+  "output": "The sentiment of this sentiment is Positive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

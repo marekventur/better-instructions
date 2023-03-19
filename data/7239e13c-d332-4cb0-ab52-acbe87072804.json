@@ -1,0 +1,12 @@
+{
+  "id": "7239e13c-d332-4cb0-ab52-acbe87072804",
+  "instruction": "Create a mathematical equation that represents the given situation",
+  "input": "John can finish a project in 3 hours and Mary can finish the same project in 4 hours.",
+  "output": "John's rate of work: r_John = 1/3 \nMary's rate of work: r_Mary = 1/4 \nEquation: r_John + r_Mary = 1/x, where x is the total time taken to finish the project.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

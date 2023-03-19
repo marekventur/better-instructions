@@ -1,0 +1,12 @@
+{
+  "id": "615f8926-947d-4f8c-90fb-587b6127bdc0",
+  "instruction": "Create an html table which displays the following data.",
+  "input": "Country | Capital\nNorway | Oslo\nFrance | Paris\nJamaica | Kingston",
+  "output": "<table>\n <tr>\n  <th>Country</th>\n  <th>Capital</th>\n </tr>\n <tr>\n  <td>Norway</td>\n  <td>Oslo</td>\n </tr>\n <tr>\n  <td>France</td>\n  <td>Paris</td>\n </tr>\n <tr>\n  <td>Jamaica</td>\n  <td>Kingston</td>\n </tr>\n</table>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "03de0457-f48c-4c29-b430-91521ebbb130",
+  "instruction": "Find the total amount of time taken for this task",
+  "input": "The task was started at 8:25 am and completed at 10:30 am",
+  "output": "The total amount of time taken for this task was 2 hours and 5 minutes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

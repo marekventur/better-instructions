@@ -1,0 +1,12 @@
+{
+  "id": "ebab0e58-9cb7-4a3c-ae8a-77754ba02248",
+  "instruction": "Write a short film synopsis.",
+  "input": "The story follows John, a small-town professor struggling to come to terms with the loss of his wife.",
+  "output": "John, a small-town professor, is struggling to process the death of his wife and come to terms with his new life. He finds solace in an unlikely source and discovers that instead of gasping his last breath, he can create a new beginning. As he learns to accept his loss and moves forward, he begins to truly understand what it means to love and be loved.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

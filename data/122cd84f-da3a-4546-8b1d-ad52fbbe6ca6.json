@@ -1,0 +1,12 @@
+{
+  "id": "122cd84f-da3a-4546-8b1d-ad52fbbe6ca6",
+  "instruction": "Derive the equation for calculating compound interest.",
+  "input": "",
+  "output": "The equation for calculating compound interest is A = P(1+r/n)^nt, where A is the amount at the end of the investment period, P is the principal amount, r is the rate of interest, n is the number of times the interest is compounded in a year, and t is the number of years the investment is held for.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c11512d0-d05f-4096-90db-1f22097e6c60",
+  "instruction": "Analyze the following sentence for subject, verb, and object.",
+  "input": "The teacher assigned a difficult task.",
+  "output": "Subject: The teacher\nVerb: assigned\nObject: a difficult task",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

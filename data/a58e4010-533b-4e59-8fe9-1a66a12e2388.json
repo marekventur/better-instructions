@@ -1,0 +1,12 @@
+{
+  "id": "a58e4010-533b-4e59-8fe9-1a66a12e2388",
+  "instruction": "Design the navigation for a mobile app.",
+  "input": "",
+  "output": "The app navigation should include a main tab bar with five sections, Home, Profile, Search, Notifications and Settings. Each tab should open up a respective page, for example, the Home tab should open the home page. There should also be a side menu button that can be accessed from any page, which will give access to additional pages.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

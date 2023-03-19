@@ -1,0 +1,12 @@
+{
+  "id": "caa5e08b-6b53-4d23-8f87-2ce3734e53a4",
+  "instruction": "What is the main difference between an AM radio broadcast and an FM broadcast?",
+  "input": "",
+  "output": "The main difference between an AM radio broadcast and an FM broadcast is the frequency range. AM broadcasts generally have a frequency range between 535 and 1705 kHz, while FM broadcasts range from 88 to 108 MHz. Another difference between the two is the sound quality; FM broadcasts have higher sound quality and less static than AM broadcasts.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

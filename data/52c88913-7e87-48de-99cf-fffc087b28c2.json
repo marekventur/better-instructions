@@ -1,0 +1,12 @@
+{
+  "id": "52c88913-7e87-48de-99cf-fffc087b28c2",
+  "instruction": "Find the sentence which does not fit in to the context of the other sentences.",
+  "input": "He decided to pack his new tent. He chose the lightest sleeping bag available. He packed his hiking boots. He selected a lunchbox. He ordered a new book.",
+  "output": "He ordered a new book.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

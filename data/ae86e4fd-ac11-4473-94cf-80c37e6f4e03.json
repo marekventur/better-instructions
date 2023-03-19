@@ -1,0 +1,12 @@
+{
+  "id": "ae86e4fd-ac11-4473-94cf-80c37e6f4e03",
+  "instruction": "Construct an algorithm for identifying hate speech on social media platforms.",
+  "input": "",
+  "output": "I propose an algorithm for identifying hate speech on social media platforms. The algorithm will use natural language processing techniques and machine learning algorithms to identify and categorize posts containing hate speech. The algorithm will perform sentiment analysis on each post and classify the post as either positive, negative, or neutral. Additionally, the algorithm will compare the post to a database of known hate speech and use the words most commonly associated with hate speech in order to accurately detect posts containing hateful language.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

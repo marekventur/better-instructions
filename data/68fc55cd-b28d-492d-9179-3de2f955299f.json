@@ -1,0 +1,12 @@
+{
+  "id": "68fc55cd-b28d-492d-9179-3de2f955299f",
+  "instruction": "From the sentence \u201cThe apple is red.\u201d, identify the main verb.",
+  "input": "",
+  "output": "The main verb is \"is\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

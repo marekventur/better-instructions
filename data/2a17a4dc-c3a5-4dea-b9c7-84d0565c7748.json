@@ -1,0 +1,12 @@
+{
+  "id": "2a17a4dc-c3a5-4dea-b9c7-84d0565c7748",
+  "instruction": "What is the best way to implement security on a server?",
+  "input": "",
+  "output": "The best way to implement security on a server is by following the principle of least privilege. This means that users should only be given the essential capabilities and access that they require and no more. Additionally, security measures such as authentication, authorization, encryption, and secure coding practices should be implemented to ensure the safety of the server and its data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

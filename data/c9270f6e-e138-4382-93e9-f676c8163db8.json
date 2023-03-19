@@ -1,0 +1,12 @@
+{
+  "id": "c9270f6e-e138-4382-93e9-f676c8163db8",
+  "instruction": "Identify the cause/effect relationship in the following statement.",
+  "input": "Air pollution leads to an increase in respiratory diseases.",
+  "output": "The cause is air pollution and the effect is an increase in respiratory diseases.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

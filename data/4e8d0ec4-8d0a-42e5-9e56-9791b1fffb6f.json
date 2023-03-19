@@ -1,0 +1,12 @@
+{
+  "id": "4e8d0ec4-8d0a-42e5-9e56-9791b1fffb6f",
+  "instruction": "Given a set of numbers and an operation, calculate the result",
+  "input": "2, 4, +",
+  "output": "6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1131924e-703f-4a4d-bc49-f15c68558894",
+  "instruction": "Describe one way to make sure your passwords remain secure.",
+  "input": "",
+  "output": "One way to make sure your passwords remain secure is to use a password manager. Password managers are tools that securely store and manage your passwords. Your passwords are encrypted and stored in a secure location, such as an encrypted cloud server or your device\u2019s storage. Password managers also generate long, complex passwords for you and store them safely in the password manager. You only need to remember one master password to access the password manager. Additionally, you can use two-factor authentication to make sure your account is only accessible to you.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

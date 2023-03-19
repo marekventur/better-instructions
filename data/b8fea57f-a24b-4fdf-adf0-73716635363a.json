@@ -1,0 +1,12 @@
+{
+  "id": "b8fea57f-a24b-4fdf-adf0-73716635363a",
+  "instruction": "Re-write the given statement using a different tense.",
+  "input": "He was walking to the store.",
+  "output": "He had been walking to the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

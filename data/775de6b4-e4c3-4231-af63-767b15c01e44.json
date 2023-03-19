@@ -1,0 +1,12 @@
+{
+  "id": "775de6b4-e4c3-4231-af63-767b15c01e44",
+  "instruction": "Insert a line of code that defines and prints a string containing the words \"Hello, world!\u201d",
+  "input": "",
+  "output": "String helloWorld = \"Hello, world!\"; \nSystem.out.println(helloWorld);",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

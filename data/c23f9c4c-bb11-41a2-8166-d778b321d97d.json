@@ -1,0 +1,12 @@
+{
+  "id": "c23f9c4c-bb11-41a2-8166-d778b321d97d",
+  "instruction": "Given a dialogue, judge which character has stronger arguments",
+  "input": "Person A: We should invest more in renewable energy sources\nPerson B: We don't have the infrastructure to support it yet",
+  "output": "Person A has stronger arguments; renewable energy sources have the potential to create a greener world and provide long-term environmental benefits, while lack of infrastructure could be overcome in time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

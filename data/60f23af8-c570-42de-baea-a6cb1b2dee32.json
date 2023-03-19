@@ -1,0 +1,12 @@
+{
+  "id": "60f23af8-c570-42de-baea-a6cb1b2dee32",
+  "instruction": "Generate a summary of the following text in three sentences.",
+  "input": "The ban imposed by the government has resulted in the closure of many small businesses and caused major financial losses in these locations. Business owners have no other means to generate revenue due to the lack of available delivery or online services. The effects of the ban extend far beyond the businesses, as many low-wage earners in these communities are now jobless.",
+  "output": "The government's ban has forced the closure of small businesses and has had a severe financial impact on them. Businesses are struggling to find revenue due to a lack of delivery or online services. This has caused many low-wage earners in these communities to become unemployed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

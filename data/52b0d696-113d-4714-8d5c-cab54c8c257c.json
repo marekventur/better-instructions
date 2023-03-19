@@ -1,0 +1,12 @@
+{
+  "id": "52b0d696-113d-4714-8d5c-cab54c8c257c",
+  "instruction": "Identify the trends from the given sales data.",
+  "input": "Year 2016: 1100\nYear 2017: 1300\nYear 2018: 1500\nYear 2019: 1700",
+  "output": "The given sales data shows a continuously increasing trend over the years, with a growth rate of 18%, year over year. This indicates that the product has been trending upwards in the market.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e7f26934-3dfb-48b4-932e-9fbccc9e9231",
+  "instruction": "Compile a list of five words related to the given keyword.",
+  "input": "Key Word: Library",
+  "output": "Book, bookshelf, librarian, reading, archive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

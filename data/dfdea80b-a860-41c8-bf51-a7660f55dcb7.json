@@ -1,0 +1,12 @@
+{
+  "id": "dfdea80b-a860-41c8-bf51-a7660f55dcb7",
+  "instruction": "Read the sentences below and select a word to complete the following sentence:",
+  "input": "The museum curator was __________ about the valuable paintings.\na) ironic\nb) suspicious\nc) excited\nd) cautious",
+  "output": "d) cautious",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

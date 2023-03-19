@@ -1,0 +1,12 @@
+{
+  "id": "c87d48f3-53b7-4a9e-bbe4-61c1b7eb0927",
+  "instruction": "Edit this code to make the output \"Hello, World!\"",
+  "input": "console.log(\"Hi, World!\");",
+  "output": "console.log(\"Hello, World!\");",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

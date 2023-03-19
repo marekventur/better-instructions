@@ -1,0 +1,12 @@
+{
+  "id": "4682916a-0c63-46a7-82f2-04b7efebc832",
+  "instruction": "Transform the given sentence from simple present tense to past tense.",
+  "input": "She lives in the city.",
+  "output": "She lived in the city.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

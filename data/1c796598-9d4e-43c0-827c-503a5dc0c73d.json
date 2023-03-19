@@ -1,0 +1,12 @@
+{
+  "id": "1c796598-9d4e-43c0-827c-503a5dc0c73d",
+  "instruction": "Name five reasons why you should use a password manager",
+  "input": "",
+  "output": "1. Increased security: Password managers are designed to ensure your data is secure and keep it away from hackers. \n2. Easy access: All your accounts and passwords can be accessed from a single platform.\n3. Automated password storage: The password manager automates the storage process and can generate complex passwords for you.\n4. Password sharing and syncing: Password managers make it easy to share and sync passwords between multiple devices.\n5. Auto-fill: Password managers can auto-fill forms and credentials, cutting down on the time you spend logging into accounts.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

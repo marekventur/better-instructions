@@ -1,0 +1,12 @@
+{
+  "id": "b968f272-9d49-46c8-bf6e-0ed957ddbd1c",
+  "instruction": "Generate a historical trivia question about the following topic.",
+  "input": "Topic: World War I",
+  "output": "What country joined World War I in 1917 after the United States entered the war?\nAnswer: Romania",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

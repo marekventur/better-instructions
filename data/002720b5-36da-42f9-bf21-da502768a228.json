@@ -1,0 +1,12 @@
+{
+  "id": "002720b5-36da-42f9-bf21-da502768a228",
+  "instruction": "Provide a solution to generate numbers from 0 to 9",
+  "input": "",
+  "output": "A possible solution to generate numbers from 0 to 9 is to use a for loop. The loop should iterate from 0 to 9, and each iteration should increment the counter of the loop by one. At each iteration, the corresponding number can be outputted to the user.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

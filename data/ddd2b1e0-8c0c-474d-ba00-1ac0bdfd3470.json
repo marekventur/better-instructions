@@ -1,0 +1,12 @@
+{
+  "id": "ddd2b1e0-8c0c-474d-ba00-1ac0bdfd3470",
+  "instruction": "Categorize the following words: 'apple', 'dog', 'table'.",
+  "input": "",
+  "output": "Fruit, Animal, Furniture",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

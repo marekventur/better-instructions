@@ -1,0 +1,12 @@
+{
+  "id": "145cc435-002a-4723-864f-f386f68efdaf",
+  "instruction": "What is the mechanism of photosynthesis?",
+  "input": "",
+  "output": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy,usually from the sun, into the chemical energy of sugars and other organic compounds. This process happens in two stages: the light-dependent reaction and the light-independent reaction. The light-dependent reaction uses energy from sunlight to create ATP and NADPH, two molecules which are then used in the light-independent reaction. The light-independent reaction uses ATP and NADPH to convert carbon dioxide into glucose.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

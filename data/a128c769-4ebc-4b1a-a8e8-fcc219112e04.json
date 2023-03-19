@@ -1,0 +1,12 @@
+{
+  "id": "a128c769-4ebc-4b1a-a8e8-fcc219112e04",
+  "instruction": "Compile the given pieces of data into a chart.",
+  "input": "Data: population of France from year 1975 through 2020",
+  "output": "| Year | Population (in Millions) |\n|------|-------------------------|\n| 1975 | 54.4                   |\n| 1980 | 56.9                   |\n| 1985 | 59.2                   |\n| 1990 | 59.8                   |\n| 1995 | 60.1                   |\n| 2000 | 60.7                   |\n| 2005 | 62.3                   |\n| 2010 | 65.3                   |\n| 2015 | 67.2                   |\n| 2020 | 67.3                   |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

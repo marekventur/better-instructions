@@ -1,0 +1,12 @@
+{
+  "id": "ba3621bb-943f-4604-b832-c1f2a906ccb6",
+  "instruction": "Calculate the total cost (in USD) of the items in the list, given their individual prices",
+  "input": "Item 1: 40.00\nItem 2: 25.00\nItem 3: 10.00",
+  "output": "75.00 USD",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

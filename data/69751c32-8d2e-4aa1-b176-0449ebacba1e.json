@@ -1,0 +1,12 @@
+{
+  "id": "69751c32-8d2e-4aa1-b176-0449ebacba1e",
+  "instruction": "Implement a function to sort a list of strings according to their length.",
+  "input": "listOfStrings = [\"a\", \"long\", \"string\", \"verylongstring\"]",
+  "output": "def sortByLength(listOfStrings):\n  return sorted(listOfStrings, key = len)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

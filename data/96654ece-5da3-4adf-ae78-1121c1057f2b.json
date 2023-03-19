@@ -1,0 +1,12 @@
+{
+  "id": "96654ece-5da3-4adf-ae78-1121c1057f2b",
+  "instruction": "Describe the use of water in a nuclear power plant.",
+  "input": "",
+  "output": "Nuclear power plants use water in several ways. Water is used as a coolant to remove heat from the reactor core. It also helps to shield the radiation from the reactor core and to prevent radioactive contamination of the environment. Water is used for steam generation to turn the turbine blades and generate electrical power. The water pumped from the reactor is recyled and filtered to remove any contaminants. This water is then reused in the system.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

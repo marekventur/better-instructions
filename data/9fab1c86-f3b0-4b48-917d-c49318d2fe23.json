@@ -1,0 +1,12 @@
+{
+  "id": "9fab1c86-f3b0-4b48-917d-c49318d2fe23",
+  "instruction": "Predict the scoring of a basketball game using the given data.",
+  "input": "Game Info:\n\nTeam: Lakers vs. Cavaliers\n\nStats for Lakers:\n\nPoints - 112\n\nShots percentage - 45%\n\nRebounds - 46\n\nOffense rating - 113\n\nTurnovers - 17\n\nStats for Cavaliers:\n\nPoints - 101\n\nShots percentage - 42%\n\nRebounds - 33\n\nOffense rating - 105\n\nTurnovers - 10",
+  "output": "Based on the given stats, the Lakers are projected to win the game with a score of 112-101. Their higher points and shots percentage, combined with higher rebounds and offensive rating, should give them an edge over the Cavaliers. Additionally, the Lakers had fewer turnovers than the Cavaliers, which helps them in capitalizing on their scoring opportunities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

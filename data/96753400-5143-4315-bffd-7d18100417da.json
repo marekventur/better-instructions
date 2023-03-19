@@ -1,0 +1,12 @@
+{
+  "id": "96753400-5143-4315-bffd-7d18100417da",
+  "instruction": "Illustrate the given proverb with an example. Output the example directly.",
+  "input": "A stitch in time saves nine",
+  "output": "For example, if you repair the small hole in your shirt soon after it appears, you will avoid having to patch up nine larger holes later on.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

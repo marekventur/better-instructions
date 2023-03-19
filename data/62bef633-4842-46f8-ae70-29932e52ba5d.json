@@ -1,0 +1,12 @@
+{
+  "id": "62bef633-4842-46f8-ae70-29932e52ba5d",
+  "instruction": "Coming up with an analogy, explain the concept of a quantum computer",
+  "input": "",
+  "output": "Quantum computers can be thought of as an old, large city library. In a traditional computer, the information is stored in the equivalent of books that are all lined up on the shelves. In a quantum computer, however, the information is more akin to a bookshelf full of books that can all occupy the same space, but still each contain different information. This allows the quantum computer to perform multiple computations simultaneously by using a single quantum state.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

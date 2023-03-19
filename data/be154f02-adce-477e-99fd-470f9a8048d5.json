@@ -1,0 +1,12 @@
+{
+  "id": "be154f02-adce-477e-99fd-470f9a8048d5",
+  "instruction": "Explain the most recent news headlines.",
+  "input": "Headlines: Amazon bans third-party sales of face masks",
+  "output": "Amazon recently announced a ban on the sale of face masks by third-party sellers on its platform. This move is intended to help mitigate price gouging during the COVID-19 pandemic and ensure that there is an adequate supply of face masks available to those who need them. Amazon will continue to offer face masks for sale through its own warehouses and stores, as well as allowing third-party sellers of other items such as disinfectant wipes and hand sanitizer to continue their sales.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

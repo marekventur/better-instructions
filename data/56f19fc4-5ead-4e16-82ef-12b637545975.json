@@ -1,0 +1,12 @@
+{
+  "id": "56f19fc4-5ead-4e16-82ef-12b637545975",
+  "instruction": "Generate a database table structure for a customer records system.",
+  "input": "",
+  "output": "Customer_Records Table:\nid (int, primary key, auto-incrementing)\nname (string)\naddress (string)\nphone_number (string)\nemail (string)\ndate_of_birth (date)\ncreated_at (timestamp)\nmodified_at (timestamp)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

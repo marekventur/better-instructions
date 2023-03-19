@@ -1,0 +1,12 @@
+{
+  "id": "24bb9b4b-086e-41b6-b0ff-474b1690e3ca",
+  "instruction": "Insert an appropriate closing salutation to this email",
+  "input": "Dear Bob,\n\nI am writing to remind you of our appointment on Thursday. Please don't forget.",
+  "output": "Dear Bob,\n\nI am writing to remind you of our appointment on Thursday. Please don't forget.\n\nSincerely,\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6e9709c3-4aaf-4bb5-97f9-6daafdf9c835",
+  "instruction": "Create a 140-character tweet summarizing this article.",
+  "input": "WASHINGTON (CNN) -- A wide-open presidential race and a willingness by candidates, interest groups, unions and corporations to buy TV time will lead to historic spending for political and issue-advocacy advertising in the 2008 election cycle, an analysis shows.",
+  "output": "In the 2008 election cycle, TV advertising spending is estimated to reach a record high of $3 billion, due to a wide-open presidential race and increased advertising purchases from candidates, interest groups and corporations. #Election2020 #CampaignAdvertising",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

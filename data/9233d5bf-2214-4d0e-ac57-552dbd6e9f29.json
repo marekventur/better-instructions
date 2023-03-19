@@ -1,0 +1,12 @@
+{
+  "id": "9233d5bf-2214-4d0e-ac57-552dbd6e9f29",
+  "instruction": "Delete all words starting with the letter \"s\" from the given sentence.",
+  "input": "She sells shells by the seashore.",
+  "output": "She  by the",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

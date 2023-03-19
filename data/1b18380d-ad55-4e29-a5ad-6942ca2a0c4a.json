@@ -1,0 +1,12 @@
+{
+  "id": "1b18380d-ad55-4e29-a5ad-6942ca2a0c4a",
+  "instruction": "Paraphrase the given sentence with a different grammatical structure. Output the paraphrased sentence directly.",
+  "input": "I'm in a rush",
+  "output": "I'm in a hurry.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

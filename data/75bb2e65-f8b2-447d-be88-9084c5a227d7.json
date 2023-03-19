@@ -1,0 +1,12 @@
+{
+  "id": "75bb2e65-f8b2-447d-be88-9084c5a227d7",
+  "instruction": "Evaluate the safety of a five-foot-long ladder.",
+  "input": "5-foot-long ladder",
+  "output": "This five-foot-long ladder appears to be safe for light-duty use, such as reaching items that are stored high up, provided that it is sturdy and in good condition. However, it wouldn't be suitable to use when painting a house or as part of a job that requires more support or heavy materials. One should always use the appropriate ladder for the task and check for any signs of wear and tear before using it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

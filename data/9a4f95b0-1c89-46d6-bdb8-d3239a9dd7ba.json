@@ -1,0 +1,12 @@
+{
+  "id": "9a4f95b0-1c89-46d6-bdb8-d3239a9dd7ba",
+  "instruction": "Replace the bolded word with a suitable term from the given set",
+  "input": "The chef whipped up a delicious ___.\nOptions: soup, sauce, marinade",
+  "output": "The chef whipped up a delicious sauce.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

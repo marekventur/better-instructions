@@ -1,0 +1,12 @@
+{
+  "id": "54078b07-d824-47dd-94be-d8f04428af69",
+  "instruction": "Create a function to calculate the total cost of a book order, given the unit price, quantity, shipping cost, and tax rate.",
+  "input": "Unit Price: 10.99\nQuantity: 3\nShipping Cost: 5\nTax Rate: 0.03",
+  "output": "def calculateCost(unitPrice, quantity, shippingCost, taxRate): \n    totalPrice = (unitPrice * quantity) + shippingCost\n    totalTax = totalPrice * taxRate\n    totalCost = totalPrice + totalTax\n    return totalCost",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

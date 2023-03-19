@@ -1,0 +1,12 @@
+{
+  "id": "8eb559ca-fecd-482a-add5-9a0ac68152fe",
+  "instruction": "Edit the following paragraph while preserving its meaning and flow.",
+  "input": "Our football team has been playing the last few games better than those we had in the beginning.",
+  "output": "Our football team has been performing better in their recent games than at the start of the season.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

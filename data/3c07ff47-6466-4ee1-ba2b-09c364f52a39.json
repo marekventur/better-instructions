@@ -1,0 +1,12 @@
+{
+  "id": "3c07ff47-6466-4ee1-ba2b-09c364f52a39",
+  "instruction": "Type the following quotation marks in the correct way in the text.",
+  "input": "'She said \"Yes\"'",
+  "output": "She said, \"Yes\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "eddeb318-a841-4198-8c2a-af1b9460b8b7",
+  "instruction": "Develop a dialogue between a customer checking out of a store and a salesperson",
+  "input": "",
+  "output": "Customer: Hi, I'm here to check out.\n\nSalesperson: Hi there, do you need any help finding anything?\n\nCustomer: No, I think I have everything.\n\nSalesperson: Great! Do you have any coupons or promotions that you'd like to apply? \n\nCustomer: Not that I'm aware of.\n\nSalesperson: Okay, that'll be [total amount]. Will you be paying with cash or card? \n\nCustomer: Card. \n\nSalesperson: Perfect, here you go. Have a great day! \n\nCustomer: Thanks! You too.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

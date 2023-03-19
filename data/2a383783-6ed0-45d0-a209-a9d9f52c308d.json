@@ -1,0 +1,12 @@
+{
+  "id": "2a383783-6ed0-45d0-a209-a9d9f52c308d",
+  "instruction": "Generate a transition sentence that connects the following two sentences.",
+  "input": "Alice arrived early to the caf\u00e9. She ordered her coffee.",
+  "output": "Once she was there, Alice quickly placed her order for a coffee.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

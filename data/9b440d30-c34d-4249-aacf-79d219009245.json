@@ -1,0 +1,12 @@
+{
+  "id": "9b440d30-c34d-4249-aacf-79d219009245",
+  "instruction": "Generate a list of the most visited attractions in your city.",
+  "input": "London, UK",
+  "output": "The most visited attractions in London, UK are: \n-Tower of London \n-London Eye\n-Big Ben\n-Buckingham Palace \n-St Paul's Cathedral \n-National Gallery \n-Tate Modern \n-The British Museum \n-Hyde Park \n-Kensington Palace",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

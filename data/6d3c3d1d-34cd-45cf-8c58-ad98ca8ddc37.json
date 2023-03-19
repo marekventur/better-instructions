@@ -1,0 +1,12 @@
+{
+  "id": "6d3c3d1d-34cd-45cf-8c58-ad98ca8ddc37",
+  "instruction": "Recognize the following irregular verb.",
+  "input": "wake",
+  "output": "wake - woke - woken",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

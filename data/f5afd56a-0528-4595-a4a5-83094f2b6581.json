@@ -1,0 +1,12 @@
+{
+  "id": "f5afd56a-0528-4595-a4a5-83094f2b6581",
+  "instruction": "Create an example of a real world application of the concept of Big O notation.",
+  "input": "",
+  "output": "Big O notation can be used to analyze the efficiency of algorithms such as sorting and searching. For example, let's say you have an algorithm to sort a list of files by their size. In this case, you could use O(nlog(n)) notation to determine the time complexity of the algorithm and compare it to other sorting algorithms.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

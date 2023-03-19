@@ -1,0 +1,12 @@
+{
+  "id": "6230a4ad-7e0b-482f-aabe-27d94c649408",
+  "instruction": "Organize the given events into chronological order.",
+  "input": "Emily graduated college, started a job, and moved to a new town.",
+  "output": "Emily graduated college, moved to a new town, and started a job.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

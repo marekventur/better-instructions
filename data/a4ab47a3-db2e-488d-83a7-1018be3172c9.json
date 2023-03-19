@@ -1,0 +1,12 @@
+{
+  "id": "a4ab47a3-db2e-488d-83a7-1018be3172c9",
+  "instruction": "Write an equation to calculate the compound interest of $1,000 for 10 years at a 5% interest rate.",
+  "input": "",
+  "output": "Compound interest = 1000(1 + 0.05)^10 = $1,628.89.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

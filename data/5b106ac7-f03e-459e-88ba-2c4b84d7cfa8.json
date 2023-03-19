@@ -1,0 +1,12 @@
+{
+  "id": "5b106ac7-f03e-459e-88ba-2c4b84d7cfa8",
+  "instruction": "Summarize the story in 5 lines",
+  "input": "The Brothers Grimm wrote many famous fairytales. The famous stories include \"Little Red Riding Hood,\" \"Rapunzel,\" and \"Hansel and Gretel.\" These stories were originally written for adults and had dark and complex elements before being adapted for children. Most of the stories had some sort of moral element to them, to teach children about the consequences of their actions.",
+  "output": "The Brothers Grimm wrote many famous fairytales including \"Little Red Riding Hood,\" \"Rapunzel,\" and \"Hansel and Gretel.\" Originally written for adults, they were adapted to be appropriate for a younger audience. The stories included dark and complex elements, and a moral element to teach children about the consequences of their actions. The stories have become staples in culture, continuing to be retold and adapted to this day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

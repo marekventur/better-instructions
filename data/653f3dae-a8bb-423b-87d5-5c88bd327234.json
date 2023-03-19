@@ -1,0 +1,12 @@
+{
+  "id": "653f3dae-a8bb-423b-87d5-5c88bd327234",
+  "instruction": "Compare two given poems (example provided below) and explain the differences in language, structure and tone.",
+  "input": "Poem A:\nThe evening sky so blue \nYou can see it through the clouds\nThe sinking sun so golden-tinged\nThe dark holds mysteries unbeknown\n\nPoem B:\nThe sun is setting, a blaze of red\nThe clouds are turning shades of grey\nThe evening's calm is soon to be\nThe darkness brings a chilly breeze",
+  "output": "Poem A is written in a lyrical style, with a relaxed tone, and the language is quite poetic and descriptive. It contains emojis to emphasize the beauty of the sunset. Poem B, however, is written in a more direct, concise style and its tone is more solemn and thoughtful. The language used is simpler and more straightforward than that of Poem A, with a focus on the gradual shift from brightness to darkness. Additionally, Poem B focuses more on the physical aspects of the sky, such as shades of red and grey, and the chilly breeze, whereas Poem A emphasizes the feelings of wonder and awe.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e17742bf-8bd1-4194-81ae-28fc80fb737b",
+  "instruction": "Sort the list of states by their population",
+  "input": "Texas, California, Massachusetts, New York",
+  "output": "California, Texas, New York, Massachusetts.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e13331c0-dfec-4908-83a8-5e3a51ce1d0e",
+  "instruction": "Given a premise, generate a tagline that effectively sums up the premise.",
+  "input": "A computer game in which the player takes control of a robot and attempts to save the world from an alien invasion.",
+  "output": "Be the hero the world needs - save it from the alien invasion in this action-packed robot game!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

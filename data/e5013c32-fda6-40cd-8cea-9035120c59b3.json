@@ -1,0 +1,12 @@
+{
+  "id": "e5013c32-fda6-40cd-8cea-9035120c59b3",
+  "instruction": "Summarize the product description.",
+  "input": "This product is designed to help you customize your home automation experience by connecting all of your home systems and devices in one place for easy access, control, and monitoring. It will provide you with more control over your home environment and enable you to save time, energy, and money.",
+  "output": "This product provides homeowners with the ability to customize their home automation experience by connecting, controlling and monitoring all of their home systems and devices in one place, saving time, energy, and money.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

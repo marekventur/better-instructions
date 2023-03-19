@@ -1,0 +1,12 @@
+{
+  "id": "9ba940cc-3e91-4376-b1bd-a08e3c03ac0c",
+  "instruction": "Summarize the main argument of the following blog post:",
+  "input": "This post will discuss the implications of facial recognition on our personal privacy and its far-reaching implications.",
+  "output": "This post explores the implications of facial recognition technology on personal privacy. It examines how facial recognition technology has become more accessible to both public and private organizations and how this has become a potent tool for data collection and tracking. It looks at how this technology has already been used in some environments to the detriment of personal privacy, and the potential consequences of its widespread application. It considers the security concerns of this technology and considers the potential value it could bring, but argues that its adoption should be tightly regulated to ensure that data privacy is adequately protected.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

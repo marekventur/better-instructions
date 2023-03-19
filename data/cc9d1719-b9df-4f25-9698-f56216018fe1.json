@@ -1,0 +1,12 @@
+{
+  "id": "cc9d1719-b9df-4f25-9698-f56216018fe1",
+  "instruction": "Generate a new headline that summarises the given news article.",
+  "input": "The latest report on global warming predicts that the average global temperature will rise by 2.7 degrees Celsius over the next century.",
+  "output": "Climate Change Expected to Increase Global Temperature by 2.7\u00b0C Over the Next 100 Years.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

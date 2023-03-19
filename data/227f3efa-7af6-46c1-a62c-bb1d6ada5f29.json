@@ -1,0 +1,12 @@
+{
+  "id": "227f3efa-7af6-46c1-a62c-bb1d6ada5f29",
+  "instruction": "Visit a given website and summarize the content found on the homepage.",
+  "input": "https://www.washingtonpost.com",
+  "output": "The Washington Post is an American daily newspaper published in Washington, D.C. It offers coverage of local, national, and international news on its website, as well as editorials, investigative journalism, and opinion pieces. Its multimedia content includes blogs, audio and video, and interactive features designed to engage and inform the reader. The site also has an e-commerce store featuring merchandise related to its coverage.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

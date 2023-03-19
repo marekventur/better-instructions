@@ -1,0 +1,12 @@
+{
+  "id": "a31d4d75-2c25-46ae-b929-22d195723c35",
+  "instruction": "Explain what a GPT language model is in 3 sentences.",
+  "input": "",
+  "output": "A GPT language model is a type of artificial intelligence that uses a combination of deep learning, natural language processing, and natural language understanding to generate predictive text. The model is trained on a dataset of text and learns to generate word based on the context of the words that came before it. It can be used for a variety of tasks such as summarizing long passages, answering questions, and generating creative new texts.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

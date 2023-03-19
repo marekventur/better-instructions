@@ -1,0 +1,12 @@
+{
+  "id": "dfd8bc54-edbf-49df-9b65-9ad7ba7baea2",
+  "instruction": "Suggest ways to reduce electricity consumption.",
+  "input": "",
+  "output": "1. Invest in energy efficient appliances.\n2. Use natural lighting when possible.\n3. Replace bulbs with LEDs and CFLs.\n4. Replace old, inefficient windows to reduce air leaks.\n5. Install a programmable thermostat to better regulate temperatures.\n6. Unplug idle appliances and electronics.\n7. Only run full loads in the dishwasher or washing machine.\n8. Install weatherstripping around doors and windows.\n9. Air dry dishes instead of running the dishwasher.\n10. Open the windows instead of running the air conditioner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

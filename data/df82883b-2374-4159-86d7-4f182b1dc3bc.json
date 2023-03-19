@@ -1,0 +1,12 @@
+{
+  "id": "df82883b-2374-4159-86d7-4f182b1dc3bc",
+  "instruction": "Determine the missing numbers in the sequence.",
+  "input": "2, 4, 8, __, 16",
+  "output": "2, 4, 8, 12, 16",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

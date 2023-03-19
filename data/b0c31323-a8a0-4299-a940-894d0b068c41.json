@@ -1,0 +1,12 @@
+{
+  "id": "b0c31323-a8a0-4299-a940-894d0b068c41",
+  "instruction": "Create a MongoDB query to retrieve data within a specific range.",
+  "input": "",
+  "output": "The following query can be used to retrieve data from a MongoDB collection within a specified range:\n\ndb.collection.find({field:{$gte:lower, $lte:upper}})\n\nWhere \u201cfield\u201d is the field you are searching, \u201clower\u201d is the lowerbound of the range, and \u201cupper\u201d is the upperbound of the range.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

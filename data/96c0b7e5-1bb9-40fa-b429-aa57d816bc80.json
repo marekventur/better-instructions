@@ -1,0 +1,12 @@
+{
+  "id": "96c0b7e5-1bb9-40fa-b429-aa57d816bc80",
+  "instruction": "Combine the two sentences using either a coordinating or subordinating conjuction.",
+  "input": "He was surprised. He didn't expect it.",
+  "output": "He was surprised, for he didn't expect it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

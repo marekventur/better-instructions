@@ -1,0 +1,12 @@
+{
+  "id": "8f827426-e0f1-473e-a7d5-7b603513ae56",
+  "instruction": "Given two arguments, analyze and compare them",
+  "input": "Argument 1: Technology has enabled us to stay connected to our friends and family.\n\nArgument 2: Technology has caused us to become more isolated from each other.",
+  "output": "Both statements are true. Technology has enabled us to stay connected to each other through phone calls, emails, and social media. However, it has also caused us to become more isolated from each other, as people prefer to interact with screens more than each other.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

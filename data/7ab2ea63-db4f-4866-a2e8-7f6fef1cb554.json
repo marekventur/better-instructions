@@ -1,0 +1,12 @@
+{
+  "id": "7ab2ea63-db4f-4866-a2e8-7f6fef1cb554",
+  "instruction": "Predict the stock price at closing today",
+  "input": "Apple Inc.",
+  "output": "The closing stock price for Apple Inc. as of today is $129.65.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

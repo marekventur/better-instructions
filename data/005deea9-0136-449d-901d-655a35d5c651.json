@@ -1,0 +1,12 @@
+{
+  "id": "005deea9-0136-449d-901d-655a35d5c651",
+  "instruction": "Convert a paragraph of text into title case.",
+  "input": "the moon is much smaller than the sun",
+  "output": "The Moon Is Much Smaller Than The Sun",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

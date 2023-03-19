@@ -1,0 +1,12 @@
+{
+  "id": "a45d5077-cba4-4d20-be8c-e02a8c0f6531",
+  "instruction": "Categorize the following words using noun, verb, adjective and adverb",
+  "input": "quickly, story, faster",
+  "output": "Adverb: quickly \nNoun: story\nAdjective: faster",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

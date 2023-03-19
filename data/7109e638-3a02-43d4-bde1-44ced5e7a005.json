@@ -1,0 +1,12 @@
+{
+  "id": "7109e638-3a02-43d4-bde1-44ced5e7a005",
+  "instruction": "Categorize this utterance in one of the following categories: 1) making changes to orders; 2) making inquiries; 3) shipping & delivery; 4) technical issues.",
+  "input": "I have a question about my order delivery time.",
+  "output": "2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

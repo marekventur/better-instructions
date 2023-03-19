@@ -1,0 +1,12 @@
+{
+  "id": "ff6b704c-4554-41a3-9e64-6e77d13efa42",
+  "instruction": "Categorize each of the following items as either a store-bought item or a handmade item.",
+  "input": "(1) Candle holder (2) iPhone case (3) Drawer organizer",
+  "output": "(1) Store-bought item (2) Store-bought item (3) Handmade item",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

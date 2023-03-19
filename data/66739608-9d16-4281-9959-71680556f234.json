@@ -1,0 +1,12 @@
+{
+  "id": "66739608-9d16-4281-9959-71680556f234",
+  "instruction": "Given the instructions, classify the type of crime.",
+  "input": "The defendant unlawfully entered the premises.",
+  "output": "This is a crime of trespass.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

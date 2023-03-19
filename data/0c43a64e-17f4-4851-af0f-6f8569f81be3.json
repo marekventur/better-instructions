@@ -1,0 +1,12 @@
+{
+  "id": "0c43a64e-17f4-4851-af0f-6f8569f81be3",
+  "instruction": "Identify a possible source of bias in the following data.",
+  "input": "Data from a survey that only includes people from the United States",
+  "output": "A possible source of bias in this data is that it does not include people from other countries, which could lead to a false impression of the results. Additionally, the data may not accurately reflect the opinions of people from different regions, socio-economic backgrounds, or cultures.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

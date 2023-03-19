@@ -1,0 +1,12 @@
+{
+  "id": "a7ceb72a-a9cd-4ee7-b244-c9005a5673b4",
+  "instruction": "Write a query to select the top 3 products in descending order.",
+  "input": "",
+  "output": "SELECT * FROM Products ORDER BY Price DESC LIMIT 3;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

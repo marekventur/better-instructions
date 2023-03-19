@@ -1,0 +1,12 @@
+{
+  "id": "08e7b11c-459a-4297-a100-c24bcba28d4f",
+  "instruction": "Automatically fix any punctuation or spellings errors in this sentence.",
+  "input": "their to many issues to be solved",
+  "output": "There are too many issues to be solved.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

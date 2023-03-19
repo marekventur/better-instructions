@@ -1,0 +1,12 @@
+{
+  "id": "870db141-c297-4cec-99c7-39467d904f01",
+  "instruction": "Produce lyrics from the given starting line to the provided genre",
+  "input": "Starting Line: I've never been so low\nGenre: Pop",
+  "output": "I've never been so low,\nLost in a world of woe,\nNobody to tell me where to go,\nCan't find my way out of here, oh no.\nI'm trying to find a way,\nTo make some sense of this place,\nBut oh, I'm just getting lost in the haze.\nI'm feeling like I'm so far behind,\nCrying too much to get a good night's sleep,\nCan't find no peace of mind.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dcc8215a-bd97-4a9b-97d7-f0a1fca3b9b0",
+  "instruction": "Convert the following time in 24-hour format",
+  "input": "8:45 pm",
+  "output": "The time in 24-hour format is 20:45.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2b915a71-1361-4f9a-9d14-4e66eee040b6",
+  "instruction": "Find the cause and effect of the given sentence.",
+  "input": "The company went bankrupt.",
+  "output": "Cause: Lack of funds or mismanagement.\nEffect: The company went bankrupt.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

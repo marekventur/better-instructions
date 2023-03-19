@@ -1,0 +1,12 @@
+{
+  "id": "6be1138b-38d2-4be3-af3d-74009f192d15",
+  "instruction": "Find and replace the plural form of the noun with the singular form.",
+  "input": "Veterinarians take care of animals.",
+  "output": "Veterinarian takes care of an animal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

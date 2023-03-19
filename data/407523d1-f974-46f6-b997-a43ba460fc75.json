@@ -1,0 +1,12 @@
+{
+  "id": "407523d1-f974-46f6-b997-a43ba460fc75",
+  "instruction": "Insert the correct conjuction to combine the two sentences.",
+  "input": "I was exhausted. I went home.",
+  "output": "I was exhausted, so I went home.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "51539b4e-0589-4d18-9594-301e3821b1ad",
+  "instruction": "Connect a device to a local network.",
+  "input": "The device is an Android tablet.",
+  "output": "To connect the Android tablet to the local network, you will need to open the device's Wi-Fi settings. Then select the local Wi-Fi network and enter the required credentials (if any) to connect to the network. Once connected, the device should be able to access the local network.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

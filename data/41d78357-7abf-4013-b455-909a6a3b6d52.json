@@ -1,0 +1,12 @@
+{
+  "id": "41d78357-7abf-4013-b455-909a6a3b6d52",
+  "instruction": "Rewrite the Below Sentence Using Generation Syntax",
+  "input": "This man, who had a deep voice, said something.",
+  "output": "The man with the deep voice said something.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

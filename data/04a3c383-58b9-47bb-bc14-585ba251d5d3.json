@@ -1,0 +1,12 @@
+{
+  "id": "04a3c383-58b9-47bb-bc14-585ba251d5d3",
+  "instruction": "Categorize the following objects: Car, Pen, Fork.",
+  "input": "",
+  "output": "Car: Vehicle; Pen: Stationery; Fork: Utensil.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

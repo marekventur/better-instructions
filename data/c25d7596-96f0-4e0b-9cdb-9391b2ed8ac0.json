@@ -1,0 +1,12 @@
+{
+  "id": "c25d7596-96f0-4e0b-9cdb-9391b2ed8ac0",
+  "instruction": "Re-order the given list.",
+  "input": "Horse, Pig, Cat, Cow",
+  "output": "Cat, Cow, Horse, Pig",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

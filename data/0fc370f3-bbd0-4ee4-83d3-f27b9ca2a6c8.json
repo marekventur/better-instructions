@@ -1,0 +1,12 @@
+{
+  "id": "0fc370f3-bbd0-4ee4-83d3-f27b9ca2a6c8",
+  "instruction": "Find the cost of the item, given the following information",
+  "input": "Item A, price = 6$, quantity = 10",
+  "output": "The cost of the item is 60$.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

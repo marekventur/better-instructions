@@ -1,0 +1,12 @@
+{
+  "id": "fd06044a-a308-47f2-92f2-a7f2a054dd80",
+  "instruction": "Rewrite the poem in 18 syllables.",
+  "input": "If I should be late to your place\nYour still face will be my disgrace",
+  "output": "If late I'm to your space\nYour silence will me disgrace.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2cec09e2-ef9f-4c42-b771-1fea77074622",
+  "instruction": "Design a workflow for a machine learning system to predict stock prices.",
+  "input": "",
+  "output": "The workflow for a machine learning system to predict stock prices should start by collecting relevant data from various sources such as news articles, financial statements, and other sources. The data should be pre-processed to remove outliers, normalize it, and extract features. Then, a model or a set of models can be trained using supervised or unsupervised learning methods. After the model is validated, predictions can be generated. Finally, the results of the predictions can be compared with actual stock prices using a metric such as root mean squared error.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

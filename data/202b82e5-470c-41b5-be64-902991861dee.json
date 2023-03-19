@@ -1,0 +1,12 @@
+{
+  "id": "202b82e5-470c-41b5-be64-902991861dee",
+  "instruction": "Given a company name, output the company's slogan.",
+  "input": "Apple",
+  "output": "Think Different.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

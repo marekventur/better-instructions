@@ -1,0 +1,12 @@
+{
+  "id": "6f46fb9c-3903-49c9-bf47-7d6e1c36f043",
+  "instruction": "Given a movie description, generate 5 questions you would ask if you were a movie reviewer.",
+  "input": "A movie about a space mission gone wrong.",
+  "output": "1. What challenges did the crew face on their journey?\n2. How did the characters interact with each other?\n3. How did the crew handle the unexpected setbacks?\n4. How does the movie depict the consequences of their mistakes?\n5. How does the movie explore themes of space exploration and human courage?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

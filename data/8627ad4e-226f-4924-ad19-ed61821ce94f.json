@@ -1,0 +1,12 @@
+{
+  "id": "8627ad4e-226f-4924-ad19-ed61821ce94f",
+  "instruction": "Given a textual description of a user interface, describe what actions come next",
+  "input": "The page shows a list of search results.",
+  "output": "The user would typically select one of the results from the list of search results, or refine their query and run a new search by providing more details.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

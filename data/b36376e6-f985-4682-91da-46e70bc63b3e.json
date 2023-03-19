@@ -1,0 +1,12 @@
+{
+  "id": "b36376e6-f985-4682-91da-46e70bc63b3e",
+  "instruction": "Generate a financial report based on the given expenditure list.",
+  "input": "Expenditure list: \n- Food: $400 \n- Housing: $800 \n- Travelling: $200",
+  "output": "Financial Report: \nThe total expenditure for the month was $1400. Spending for food was $400, for housing was $800 and for travelling was $200. The largest expenditure was for housing, accounting for 57.1% of the total expenditure.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

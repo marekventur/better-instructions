@@ -1,0 +1,12 @@
+{
+  "id": "1b9a7037-ca62-40ba-91e5-d68b3db27392",
+  "instruction": "Summarize the article for product A.",
+  "input": "Article about Product A: Product A is an innovative new product that provides users with a fast, secure, and reliable way to transfer money online. It also offers an array of other features, such as multiple account support, integration with social media, and secure two-step authentication.",
+  "output": "Product A is a revolutionary new product that offers users a fast, secure, and reliable way to transfer money online, along with features such as multiple account support, social media integration, and secure two-step authentication.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

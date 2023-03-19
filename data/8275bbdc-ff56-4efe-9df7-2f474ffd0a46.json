@@ -1,0 +1,12 @@
+{
+  "id": "8275bbdc-ff56-4efe-9df7-2f474ffd0a46",
+  "instruction": "Develop an algorithm for sorting a group of numbers.",
+  "input": "",
+  "output": "This algorithm sorts numbers in ascending order using bubble sort:\n1. Compare the first two numbers and swap if the first number is larger than the second\n2. Compare the next two numbers and swap if the second number is larger than the third\n3. Repeat until all numbers have been compared and ordered\n4. Repeat steps one through three until all numbers have been ordered correctly",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

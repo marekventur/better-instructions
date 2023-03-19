@@ -1,0 +1,12 @@
+{
+  "id": "367ea2a6-f760-4297-a863-438c4f26b37c",
+  "instruction": "Compare and contrast two different types of database management systems.",
+  "input": "Relational and Non-Relational database management systems",
+  "output": "Relational database management systems (RDBMS) are effective options when it comes to structured data and involve the use of tables, relations, and normalization. Non-relational database management systems (NoSQL) do not require a fixed structure, so it can store and process unstructured data more quickly or in greater quantities. The structure of NoSQL databases vary depending on the use and can include document stores, key-value stores, graph databases and more. RDBMSes are more reliable and secure, while NoSQL is often faster and more flexible.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

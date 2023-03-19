@@ -1,0 +1,12 @@
+{
+  "id": "18405cb4-999d-4638-b91d-7b2dc784e3e2",
+  "instruction": "What is the main function of a refrigerator?",
+  "input": "",
+  "output": "The main function of a refrigerator is to keep food and beverages cold and fresh by maintaining a temperature below the ambient temperature. It does this using a refrigeration cycle powered by a motor compressor. The compressor draws in refrigerant vapor and compresses it, which raises the temperature and pressure. This hot vapor is then sent to a condenser, where it is cooled by a fan and turned into a liquid, before being sent to an evaporator to cool back down.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

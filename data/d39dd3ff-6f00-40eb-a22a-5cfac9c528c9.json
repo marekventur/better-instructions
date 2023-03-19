@@ -1,0 +1,12 @@
+{
+  "id": "d39dd3ff-6f00-40eb-a22a-5cfac9c528c9",
+  "instruction": "Where is the given location?",
+  "input": "Tahiti",
+  "output": "Tahiti is an island in French Polynesia located in the South Pacific Ocean.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

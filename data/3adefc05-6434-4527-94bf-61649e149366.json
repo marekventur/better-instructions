@@ -1,0 +1,12 @@
+{
+  "id": "3adefc05-6434-4527-94bf-61649e149366",
+  "instruction": "Find and provide 5 statistics related to the following sport.",
+  "input": "Basketball",
+  "output": "1. An estimated 464 million people play basketball throughout the world. \n2. About 26 million people play basketball in the US. \n3. The record for the longest professional basketball game is 3 hours and 50 minutes. \n4. The average size of a basketball hoop is 18 inches in diameter. \n5. The tallest active NBA player is Tacko Fall at 7 feet and 5 inches tall.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

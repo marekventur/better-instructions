@@ -1,0 +1,12 @@
+{
+  "id": "d6be83a1-bc83-4b58-9657-db8f7a064423",
+  "instruction": "Suppress the pronouns from the given sentence and rewrite it.",
+  "input": "She grabbed her coat and left.",
+  "output": "Grabbed coat and left.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

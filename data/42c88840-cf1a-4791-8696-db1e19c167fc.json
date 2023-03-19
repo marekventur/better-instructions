@@ -1,0 +1,12 @@
+{
+  "id": "42c88840-cf1a-4791-8696-db1e19c167fc",
+  "instruction": "Given a number, output the sum of the numbers from 1 to that number.",
+  "input": "5",
+  "output": "15",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

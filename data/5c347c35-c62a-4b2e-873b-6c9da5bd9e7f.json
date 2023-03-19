@@ -1,0 +1,12 @@
+{
+  "id": "5c347c35-c62a-4b2e-873b-6c9da5bd9e7f",
+  "instruction": "Write a Python function which takes two integers as parameters and returns their multiplied sum.",
+  "input": "",
+  "output": "def multiply_sum(num1, num2):\n    return num1 * num2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

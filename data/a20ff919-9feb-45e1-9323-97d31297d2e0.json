@@ -1,0 +1,12 @@
+{
+  "id": "a20ff919-9feb-45e1-9323-97d31297d2e0",
+  "instruction": "Classify the given animals into two categories.",
+  "input": "Lion, Cheetah, Elephant",
+  "output": "Carnivores: Lion, Cheetah\nHerbivores: Elephant",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

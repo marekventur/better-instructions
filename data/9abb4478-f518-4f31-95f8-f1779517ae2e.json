@@ -1,0 +1,12 @@
+{
+  "id": "9abb4478-f518-4f31-95f8-f1779517ae2e",
+  "instruction": "Assign the following percentage grades: 90%, 80%, 75%",
+  "input": "",
+  "output": "A grade of 90% corresponds to an A, 80% corresponds to a B, and 75% corresponds to a C.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

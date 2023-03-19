@@ -1,0 +1,12 @@
+{
+  "id": "f7c05f40-34fd-471d-a07f-50004834cd64",
+  "instruction": "Change the following sentence so that it is in the past tense.",
+  "input": "She drives to work every day.",
+  "output": "She drove to work every day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

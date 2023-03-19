@@ -1,0 +1,12 @@
+{
+  "id": "52679041-6619-4710-8088-f31ee6b87793",
+  "instruction": "Classify the following sentence in terms of sentiment.",
+  "input": "This movie was terrible.",
+  "output": "Negative sentiment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

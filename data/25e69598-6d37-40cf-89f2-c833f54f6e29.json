@@ -1,0 +1,12 @@
+{
+  "id": "25e69598-6d37-40cf-89f2-c833f54f6e29",
+  "instruction": "Classify this sentence as positive, negative, or neutral: \"That test was a breeze.\"",
+  "input": "",
+  "output": "The sentence is classified as positive. The word \"breeze\" implies something easy and effortless, which makes the sentence have a positive sentiment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

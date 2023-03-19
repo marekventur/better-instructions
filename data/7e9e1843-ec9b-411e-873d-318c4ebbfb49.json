@@ -1,0 +1,12 @@
+{
+  "id": "7e9e1843-ec9b-411e-873d-318c4ebbfb49",
+  "instruction": "Generate an argument for why the company should not implement the proposed policy.",
+  "input": "Proposed policy: Employees must take at least two weeks of annual leave each year.",
+  "output": "Implementing this policy is impractical and unfeasible as it may reduce productivity significantly. Managers may struggle to arrange cover for those on leave, leading to further disruptions or roadblocks to the operations. Additionally, if forced to take leave, employees may feel resentful or overworked, which may further impact their overall morale and productivity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "740f45d1-6d90-40cb-a4ff-9b2aeecc180a",
+  "instruction": "edit this code and make sure it compile",
+  "input": "def sum(num1, num2): return num1 + num2",
+  "output": "def sum(num1, num2): \n  return num1 + num2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

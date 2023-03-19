@@ -1,0 +1,12 @@
+{
+  "id": "0d9870a3-9c2b-46e4-9b31-ca47fc347314",
+  "instruction": "Give a description of a typical day in the life of a software developer",
+  "input": "",
+  "output": "A software developer will typically start their day by attending team meetings and discussing any ongoing tasks and issues that need to be addressed. After the meeting, they will usually dive into the code to fix any outstanding errors or implement new features. As the day progresses, they might be involved in unit testing to ensure the quality of the code, as well as code reviews with other developers to ensure code accuracy. The day could also involve interacting with other departments or stakeholders to ensure technical decisions fit into the overall goals of the project. At the end of the day, developers typically tie up any loose ends and prepare for the next day by creating a list of tasks to be done or writing up any notes on tasks they've completed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

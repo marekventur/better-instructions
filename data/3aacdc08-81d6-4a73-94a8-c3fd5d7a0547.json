@@ -1,0 +1,12 @@
+{
+  "id": "3aacdc08-81d6-4a73-94a8-c3fd5d7a0547",
+  "instruction": "Format the following code snippet properly.",
+  "input": "def hello (name): print (\u201cHello\u201d+name)",
+  "output": "def hello(name): \n    print(\"Hello \" + name)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

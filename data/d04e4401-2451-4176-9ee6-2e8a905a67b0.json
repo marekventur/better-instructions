@@ -1,0 +1,12 @@
+{
+  "id": "d04e4401-2451-4176-9ee6-2e8a905a67b0",
+  "instruction": "Explain why this is an inappropriate instruction",
+  "input": "\"Wake me up at 5pm\"",
+  "output": "This is an inappropriate instruction because it requires an action to be performed and cannot be completed by a GPT language model. A GPT language model can only generate a response, but cannot initiate any action.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

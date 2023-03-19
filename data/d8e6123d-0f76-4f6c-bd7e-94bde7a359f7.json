@@ -1,0 +1,12 @@
+{
+  "id": "d8e6123d-0f76-4f6c-bd7e-94bde7a359f7",
+  "instruction": "Generate a 5-word list for each of the 5 given topics.",
+  "input": "Animals, Countries, Sports, Music, Movies",
+  "output": "Animals: Elephant, Giraffe, Fox, Penguin, Monkey\n\nCountries: Italy, France, USA, Mexico, China\n\nSports: Soccer, Basketball, Hockey, Running, Volleyball\n\nMusic: Jazz, Blues, Hip-Hop, Country, Pop\n\nMovies: Comedy, Horror, Romance, Drama, Action",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

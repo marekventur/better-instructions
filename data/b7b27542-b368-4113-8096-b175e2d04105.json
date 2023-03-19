@@ -1,0 +1,12 @@
+{
+  "id": "b7b27542-b368-4113-8096-b175e2d04105",
+  "instruction": "Analyze the sentence and summarize what it means in a few words.",
+  "input": "Apple had to recall its entire line of iPhones due to a manufacturing error.",
+  "output": "Apple recalled iPhones.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

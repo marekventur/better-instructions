@@ -1,0 +1,12 @@
+{
+  "id": "c9a82758-9b69-42c4-9327-122e33fac2e3",
+  "instruction": "Classify the following sentence into one of the three categories:\nfact, opinion, or neither",
+  "input": "Employment prospects in the technology field are excellent.",
+  "output": "Neither",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

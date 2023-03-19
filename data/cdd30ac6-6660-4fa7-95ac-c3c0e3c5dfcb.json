@@ -1,0 +1,12 @@
+{
+  "id": "cdd30ac6-6660-4fa7-95ac-c3c0e3c5dfcb",
+  "instruction": "Find the likelihood of an event.",
+  "input": "The likelihood of an event occurring in a small city with a population of 40,000 residents.",
+  "output": "The likelihood of an event occurring in a small city with a population of 40,000 residents depends on the type of event and the location. The size of the city limits the number of people who can attend, so the likelihood of a large event occurring in a small city may be low. However, smaller events or ones that take place in a public park or other public area may be more popular in small cities due to the limited number of other activities available. Ultimately, the likelihood of an event occurring in a small city depends on the event organizers, their goals, and the size and needs of the city.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

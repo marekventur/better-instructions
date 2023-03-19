@@ -1,0 +1,12 @@
+{
+  "id": "6143809c-3415-43cf-a468-ab143649c0e5",
+  "instruction": "Group the following words based on their thematic categories.",
+  "input": "Pizza, telephone, pasta, internet",
+  "output": "Group 1: Pizza, pasta\nGroup 2: Telephone, internet",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

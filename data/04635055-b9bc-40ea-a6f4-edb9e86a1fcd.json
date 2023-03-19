@@ -1,0 +1,12 @@
+{
+  "id": "04635055-b9bc-40ea-a6f4-edb9e86a1fcd",
+  "instruction": "Construct a SQL query that will retrieve the first 5 records from a table called \"Customers\".",
+  "input": "",
+  "output": "SELECT * FROM Customers \nORDER BY id\nLIMIT 5;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

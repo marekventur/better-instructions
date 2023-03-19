@@ -1,0 +1,12 @@
+{
+  "id": "419c3a73-3954-4870-b184-7164beffe9be",
+  "instruction": "Given a recipe, suggest another dish that can be made with the same ingredients.",
+  "input": "Carrots, onions, potatoes, and beef",
+  "output": "You can make a hearty beef stew with the given ingredients.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

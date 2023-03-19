@@ -1,0 +1,12 @@
+{
+  "id": "7c2ba09d-a941-433a-a7d7-fc46086a286e",
+  "instruction": "Give an example of a browser compatibility issue in web design.",
+  "input": "",
+  "output": "One example of a browser compatibility issue in web design is when a website does not display correctly on certain browsers due to a lack of support for certain HTML standards. This can happen if the website is not developed using the latest technologies, or if the browser itself does not fully support certain HTML standards. This can result in elements of the website not being displayed correctly, or in some cases can prevent the website from loading at all.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

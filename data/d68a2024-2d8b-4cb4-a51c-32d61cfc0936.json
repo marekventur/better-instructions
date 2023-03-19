@@ -1,0 +1,12 @@
+{
+  "id": "d68a2024-2d8b-4cb4-a51c-32d61cfc0936",
+  "instruction": "Given the context, how would you design an AI-based digital assistant?",
+  "input": "",
+  "output": "The AI-based digital assistant would first be designed with a natural language processing (NLP) system, which would allow it to accurately interpret commands given to it by the user. Then, it would need to be trained with data related to the tasks it is expected to perform. For example, if it is expected to help customers book flights, then it would need to be trained on airfare data. The AI assistant would also need to be trained on conversational data so that it can interact with the user in a natural way. \n\nThe AI assistant should also be designed with an interface or graphical user interface (GUI) which the user can interact with. The interface should be designed to be intuitive, with simple commands that allow the user to quickly interact with the assistant. Finally, the AI assistant should be designed with the ability to be connected with external services such as voice recognition, natural language understanding and intelligence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

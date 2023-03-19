@@ -1,0 +1,12 @@
+{
+  "id": "48a51b18-7777-4dea-955c-5b4a86329e4e",
+  "instruction": "Shorten the following sentence from 96 to 50 words.",
+  "input": "The new bridge was built to be more resilient, with sturdy construction and a modern design that would withstand the strong winds that frequently blew through the area.",
+  "output": "The new bridge was built for resilience, with strong construction and modern design that could stand the strong winds in the area.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

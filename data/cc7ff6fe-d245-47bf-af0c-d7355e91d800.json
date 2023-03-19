@@ -1,0 +1,12 @@
+{
+  "id": "cc7ff6fe-d245-47bf-af0c-d7355e91d800",
+  "instruction": "Find the errors in the following code and fix them.",
+  "input": "if (x > y) {\nif (x == y)\n  y = 0;\nelse\n  x = 0;\n}",
+  "output": "if (x > y) {\nif (x == y) {\n  y = 0;\n} else {\n  x = 0;\n}\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

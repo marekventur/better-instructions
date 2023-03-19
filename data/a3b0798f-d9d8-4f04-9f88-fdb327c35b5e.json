@@ -1,0 +1,12 @@
+{
+  "id": "a3b0798f-d9d8-4f04-9f88-fdb327c35b5e",
+  "instruction": "Decipher the following ciphertext and recover the original message.",
+  "input": "Uryyb, jbeyq!",
+  "output": "Hello, world!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

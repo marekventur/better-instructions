@@ -1,0 +1,12 @@
+{
+  "id": "d9674498-1ded-4395-9d01-8a4c6dd696ef",
+  "instruction": "Generate an example of a resume that a person could use to apply for a programming position.",
+  "input": "Profession: Programmer",
+  "output": "John Doe \n907 Main Street\nSeattle, WA 98104 \n\nemail: jdoe@example.com\nphone: 555-555-1234\n\nSUMMARY\n\nMotivated and skilled programmer with 5 years of experience in web and software development. Proven ability to analyze complex problems and develop creative solutions. Skilled in the use of modern programming languages and technologies, such as Java, JavaScript, HTML, SQL, and C.\n\nPROFESSIONAL EXPERIENCE\n\nSoftware Engineer, Appspec Software Solutions, Seattle, WA \nApril 2018 - Present \n\nDeveloped and maintained a large-scale inventory management system using Java and JavaScript.\n\u2022  Implemented a new user authentication system using HTML, CSS, and SQL.\n\u2022  Designed a new security protocol to protect sensitive user data.\n\u2022  Conducted debugging and troubleshooting to ensure peak performance.\n\nWeb Developer, Webberg LLC, Seattle, WA \nMay 2014 - April 2018\n\nDeveloped and designed a wide variety of websites for small businesses.\n\u2022  Developed and maintained websites for clients using HTML, CSS, and JavaScript.\n\u2022 Implemented new features and functionality to existing websites.\n\u2022  Conducted user interface testing to ensure quality and performance.\n\nEDUCATION\n\nUniversity of Washington, Seattle, WA \nBachelor of Science in Computer Science, June 2014",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

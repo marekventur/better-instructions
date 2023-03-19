@@ -1,0 +1,12 @@
+{
+  "id": "fed46c4a-5bbe-485d-8c89-1e97127881b4",
+  "instruction": "Design a database to store information about customers",
+  "input": "",
+  "output": "A database to store information about customers can be designed using the following schema. The customers table would store the customer's name, contact details, and a unique ID. The orders table would store the ID of the customer, the product purchased, and the order date. The transactions table would store the details of each transaction made by the customer. This could include the credit card details, amount paid, and date of the transaction. Lastly, the feedback table would store the customer's feedback about their experience with the product or service. This could include the customer's ratings, comments, and suggestions. \n\nThis database design would allow customers' information to be stored together in a centralized repository, with tables that are related and easily searchable. This would enable customer management tasks such as tracking orders, processing payments, and responding to customer feedback to be carried out efficiently.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

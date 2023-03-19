@@ -1,0 +1,12 @@
+{
+  "id": "60793336-44eb-4fdb-b243-8b086811f57d",
+  "instruction": "Identify the biggest challenge facing the given industry.",
+  "input": "Industry: Automotive Manufacturing",
+  "output": "One of the biggest challenges facing the automotive manufacturing industry is the increasing complexity of vehicles due to the rapid advancement of technology and the need for automakers to keep pace with changing customer needs. Additionally, the increasing safety and environmental regulations and the need for improved fuel efficiency have created additional challenges for automakers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

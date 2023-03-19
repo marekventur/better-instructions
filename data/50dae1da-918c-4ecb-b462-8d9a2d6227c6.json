@@ -1,0 +1,12 @@
+{
+  "id": "50dae1da-918c-4ecb-b462-8d9a2d6227c6",
+  "instruction": "Is there a difference between \u201cthe Internet\u201d and \u201cthe web\u201d?",
+  "input": "",
+  "output": "Yes, there is a difference between \"the Internet\" and \"the web\". The Internet is the global system of interconnected computer networks that enables computer devices to communicate with each other. It is the infrastructure on which all online activity is based. The web (also known as the World Wide Web) is an application that runs on the Internet. It is an interconnected system of websites, through which users can access information and interact with each other online.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

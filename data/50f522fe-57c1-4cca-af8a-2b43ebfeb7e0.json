@@ -1,0 +1,12 @@
+{
+  "id": "50f522fe-57c1-4cca-af8a-2b43ebfeb7e0",
+  "instruction": "Analyze the mood of the passage.",
+  "input": "The sun set behind the trees, leaving behind a gorgeous garnet sky.",
+  "output": "The mood of the passage is peaceful and reflective. The sun setting behind the trees and the gorgeous garnet sky evoke a sense of calm and relaxation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

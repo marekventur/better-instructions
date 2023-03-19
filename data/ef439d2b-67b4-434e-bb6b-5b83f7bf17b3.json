@@ -1,0 +1,12 @@
+{
+  "id": "ef439d2b-67b4-434e-bb6b-5b83f7bf17b3",
+  "instruction": "Create a table with three columns.",
+  "input": "",
+  "output": "| Items | Prices | Descriptions |\n| ------ | -------- | -------------- |\n| Pen | $2.50 | Black ink |\n| Notebook | $5.00 | 80 pages |\n| Printer | $150.00 | Up to A4 size |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

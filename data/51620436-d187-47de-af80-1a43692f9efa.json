@@ -1,0 +1,12 @@
+{
+  "id": "51620436-d187-47de-af80-1a43692f9efa",
+  "instruction": "Describe the concept of blockchain technology.",
+  "input": "",
+  "output": "Blockchain technology is a distributed ledger technology which offers an immutable and transparent form of data storage. Blockchain is based on the concept of digital trust between different user groups. It enables data to be stored and accessed securely on a peer-to-peer network, without the need for a central authority or intermediary. The data stored in the blockchain is replicated and shared between multiple nodes, making it practically immutable. This gives users greater control over their data, while still being able to securely and transparently share data with others.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

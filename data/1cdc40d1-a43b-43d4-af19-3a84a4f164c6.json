@@ -1,0 +1,12 @@
+{
+  "id": "1cdc40d1-a43b-43d4-af19-3a84a4f164c6",
+  "instruction": "How many possible outcomes exist for flipping two coins?",
+  "input": "",
+  "output": "There are four possible outcomes for flipping two coins: heads-heads, heads-tails, tails-heads, and tails-tails.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

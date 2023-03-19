@@ -1,0 +1,12 @@
+{
+  "id": "0dc8c24a-47cb-4c6c-b03f-48789c65c248",
+  "instruction": "Classify if the following example refers to a Trumpet, Saxophone or Clarinet",
+  "input": "Brass Wind Instrument",
+  "output": "Trumpet",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

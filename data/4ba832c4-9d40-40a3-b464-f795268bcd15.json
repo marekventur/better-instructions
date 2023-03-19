@@ -1,0 +1,12 @@
+{
+  "id": "4ba832c4-9d40-40a3-b464-f795268bcd15",
+  "instruction": "Convert the following text into a list.",
+  "input": "The four elements of design are line, color, shape, and texture.",
+  "output": "- Line \n- Color \n- Shape\n- Texture",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

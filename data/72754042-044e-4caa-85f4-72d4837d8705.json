@@ -1,0 +1,12 @@
+{
+  "id": "72754042-044e-4caa-85f4-72d4837d8705",
+  "instruction": "Create a resume using the supplied information",
+  "input": "Name: John Doe\nEmail: john.doe@example.com\nEducation: B.A. Economics\nExperience: 2+ years of experience in financial analysis",
+  "output": "John Doe\nEmail: john.doe@example.com\n\nEducation\nB.A. Economics\n\nExperience\nFinancial Analyst\nABC Corporation, New York\nJune 2018 - Present\n\u2022 Conduct market research to assess long-term investment strategies and return potential \n\u2022 Analyze financial data and develop new business models for the company \n\u2022 Develop financial algorithms and models to inform investment decisions\n\u2022 Develop quarterly financial forecasts and reports for the CFO\n\u2022 Monitor industry trends to make sure investments are up to date.\n\nFinancial Analyst\nXYZ Corporation, Chicago\nJune 2016 - June 2018\n\u2022 Assisted in portfolio construction, including developing and executing trading strategies \n\u2022 Generated financial reports on various investments such as derivatives, stocks and bonds\n\u2022 Conducted detailed analysis of portfolio performance and risk \n\u2022 Developed quantitative models for equity and commodities markets \n\u2022 Designed analytical frameworks for financial projects",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

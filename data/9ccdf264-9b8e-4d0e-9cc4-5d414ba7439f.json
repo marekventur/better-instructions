@@ -1,0 +1,12 @@
+{
+  "id": "9ccdf264-9b8e-4d0e-9cc4-5d414ba7439f",
+  "instruction": "Identify the two negative words in the sentence.",
+  "input": "I haven't found any interesting books lately.",
+  "output": "The two negative words are \"haven't\" and \"lately.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b00f3046-d783-402c-bcbc-c57cb488b478",
+  "instruction": "Edit the text such that the sentiment expressed in the text is positive.",
+  "input": "No matter what I do, I just can't get it right.",
+  "output": "No matter what I do, I can learn and eventually get it right.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

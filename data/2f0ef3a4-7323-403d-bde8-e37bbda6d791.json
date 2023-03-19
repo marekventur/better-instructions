@@ -1,0 +1,12 @@
+{
+  "id": "2f0ef3a4-7323-403d-bde8-e37bbda6d791",
+  "instruction": "If a student has a writing assignment on a certain subject, provide a few ideas on how they can approach the topic.",
+  "input": "A student has a writing assignment on the history of invention.",
+  "output": "The student can approach the writing assignment in a few different ways. They could focus on the invention of a particular technology, trace the development of a certain field of engineering over time, write about the historical importance of inventions, or draw connections between the evolution of inventions and changes in the cultural landscape.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

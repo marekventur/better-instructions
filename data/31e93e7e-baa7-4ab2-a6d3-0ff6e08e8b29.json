@@ -1,0 +1,12 @@
+{
+  "id": "31e93e7e-baa7-4ab2-a6d3-0ff6e08e8b29",
+  "instruction": "Invoke existing web services to find the population for the given zip code.",
+  "input": "94545",
+  "output": "The population of zip code 94545 is 55,837 according to the United States Census Bureau.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

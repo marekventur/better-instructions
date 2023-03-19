@@ -1,0 +1,12 @@
+{
+  "id": "dac1489e-b69c-47b3-8dc0-6051f41f82c4",
+  "instruction": "Explain the process by which the following concept was invented",
+  "input": "The internet",
+  "output": "The invention of the internet began with the development of the Advanced Research Projects Agency Network (ARPANET) in 1969. This network was created to connect computers over long distances and develop packet switching technology which allowed information to be sent and received over networks. Since then, the internet has been continuously modified and improved upon, soon gaining its own protocol of communication (TCP/IP) which eventually became the backbone of the modern internet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

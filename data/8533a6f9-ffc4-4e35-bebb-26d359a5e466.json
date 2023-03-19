@@ -1,0 +1,12 @@
+{
+  "id": "8533a6f9-ffc4-4e35-bebb-26d359a5e466",
+  "instruction": "Identify the different types of taxes and explain briefly what each tax is used for.",
+  "input": "",
+  "output": "There are several different types of taxes. Income taxes are imposed on earned income, whether from wages or investments. Sales taxes are collected by states, counties, or cities on goods or services purchased within those jurisdictions. Property taxes are collected on the value of real estate, personal property, and motor vehicles located in the jurisdiction. Social Security taxes are imposed on all employees and employers, funding a variety of different programs, including retirement benefits and disability insurance. Excise taxes are assessed on certain goods, such as alcohol, gasoline, and tobacco. Finally, death taxes are levied on estates of deceased persons in some jurisdictions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

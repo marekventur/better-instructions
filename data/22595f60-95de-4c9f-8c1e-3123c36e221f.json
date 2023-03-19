@@ -1,0 +1,12 @@
+{
+  "id": "22595f60-95de-4c9f-8c1e-3123c36e221f",
+  "instruction": "Given a sentence, describe the figurative language used",
+  "input": "She was a light in the darkness",
+  "output": "This sentence is using a metaphor to describe the person as a source of hope and comfort in a difficult situation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

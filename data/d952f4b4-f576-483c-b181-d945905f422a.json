@@ -1,0 +1,12 @@
+{
+  "id": "d952f4b4-f576-483c-b181-d945905f422a",
+  "instruction": "Given a numerical profile of a student, predict their grade.",
+  "input": "Height: 5'9, Weight: 180 lbs, Math Score: 80%, Reading Score: 90%, Science Score: 70%",
+  "output": "The student is likely to receive a B in their overall grade.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "645f1b51-50ce-46ea-809c-c17859bb9180",
+  "instruction": "Design a process for classifying text into two categories.",
+  "input": "",
+  "output": "A process for classifying text into two categories can involve several steps. First, the text is preprocessed to remove any stopwords and punctuation. Then, feature extraction techniques such as n-grams, tokenization, and TF-IDF are used to create a feature space from the input text. Finally, a classification algorithm such as support vector machines or Naive Bayes is used to make predictions on the text.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

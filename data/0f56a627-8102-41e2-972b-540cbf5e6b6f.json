@@ -1,0 +1,12 @@
+{
+  "id": "0f56a627-8102-41e2-972b-540cbf5e6b6f",
+  "instruction": "Generate a new type of monster using the given description.",
+  "input": "Description: A monster made of sand and sea shells.",
+  "output": "The Sand Shell Monster is a fearsome creature made of sand and sea shells, capable of crushing its victims with its powerful body. Its face is made up of broken shells, giving it a fearsome visage. The body is made up of thousands of shells and grains of sand which it is able to manipulate, forming deadly powers. It can create powerful sand storms around it to overwhelm its victims, or use its body to form a solid shield to protect itself. It is a formidable foe for anyone who dares challenge it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

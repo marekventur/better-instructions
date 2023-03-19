@@ -1,0 +1,12 @@
+{
+  "id": "e942f10a-4112-422c-a51b-184bf1f6d706",
+  "instruction": "Given a list of ingredients, output a matching recipe. The recipe should include details such as approximate number of servings and total cooking time.",
+  "input": "1 onion, 2 cloves of garlic, 1 green chili pepper, 2 cups of chopped tomatoes, 1 teaspoon of cumin, 2 tablespoons of vegetable oil, 1 cup of black beans.",
+  "output": "Black Bean and Tomato Chili\n \nServings: 4 \n \nTotal Time: 45 minutes\n \nIngredients:\n\n- 1 onion, diced\n- 2 cloves of garlic, minced\n- 1 green chili pepper, chopped\n- 2 cups of chopped tomatoes\n- 1 teaspoon of cumin\n- 2 tablespoons of vegetable oil\n- 1 cup of black beans, drained and rinsed\n \nInstructions:\n\n1. Heat the oil in a large pot over medium heat.\n\n2. Add the onion and garlic and cook for about 5 minutes, stirring occasionally, until the onion is softened. \n\n3. Add the chili pepper, tomatoes and cumin and season with salt and pepper, to taste. \n\n4. Simmer for about 30 minutes, stirring occasionally, until the tomatoes have cooked down and the chili is thick.\n\n5. Add the black beans and cook for an addition 5 minutes.\n\n6. Serve hot.  Enjoy!\n \nNote: For an extra kick, add in a pinch of red pepper flakes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

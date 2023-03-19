@@ -1,0 +1,12 @@
+{
+  "id": "81d6e5bb-3f11-4fb9-ac46-8083e710734f",
+  "instruction": "Find the angle between the two vectors (a,1) and (2,3).",
+  "input": "a = 2",
+  "output": "The angle between the two vectors (2,1) and (2,3) is arctan(2). Therefore, the angle between the two vectors is 58.3\u00b0.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

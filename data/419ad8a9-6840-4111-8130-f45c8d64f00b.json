@@ -1,0 +1,12 @@
+{
+  "id": "419ad8a9-6840-4111-8130-f45c8d64f00b",
+  "instruction": "Categorize this sentence as either a statement or a question.",
+  "input": "Do you like chocolate?",
+  "output": "This sentence is a question.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

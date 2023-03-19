@@ -1,0 +1,12 @@
+{
+  "id": "39104ef8-36a2-4db9-9c1e-4479c357260b",
+  "instruction": "Calculate the total cost of three items and output the result.",
+  "input": "Item 1: Pizza: $12.00 \nItem 2: Burger: $10.50 \nItem 3: Soda: $1.75",
+  "output": "The total cost is $24.25.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f59a9eb6-0d91-4ff7-8e22-8c13af2eefeb",
+  "instruction": "Given a text, classify the tone as either negative, positive, or neutral.",
+  "input": "She always finds a way to make things work.",
+  "output": "Positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

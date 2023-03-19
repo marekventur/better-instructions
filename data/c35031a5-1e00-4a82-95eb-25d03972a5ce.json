@@ -1,0 +1,12 @@
+{
+  "id": "c35031a5-1e00-4a82-95eb-25d03972a5ce",
+  "instruction": "Is the given sentence a fact or a opinion",
+  "input": "Physics is complex.",
+  "output": "Fact.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

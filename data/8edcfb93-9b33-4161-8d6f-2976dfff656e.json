@@ -1,0 +1,12 @@
+{
+  "id": "8edcfb93-9b33-4161-8d6f-2976dfff656e",
+  "instruction": "Design an algorithm using pseudocode to find the average of the given numbers.",
+  "input": "2, 3, 5",
+  "output": "Step 1: Declare three variables X, Y and Z with values 2, 3 and 5 respectively.\nStep 2: Calculate the sum by adding X, Y and Z. \nStep 3: Calculate the average by dividing the sum with 3 (# of numbers).\nStep 4: Print the result.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9cc6bdf7-9708-439c-81b6-48c8b321acbf",
+  "instruction": "Given a set of data, edit the entries to change the text to capitalize the first letter of all words.",
+  "input": "apple, banana, pear",
+  "output": "Apple, Banana, Pear",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

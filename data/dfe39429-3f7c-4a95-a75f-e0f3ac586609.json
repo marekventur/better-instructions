@@ -1,0 +1,12 @@
+{
+  "id": "dfe39429-3f7c-4a95-a75f-e0f3ac586609",
+  "instruction": "Report an incident involving a conflict",
+  "input": "Two high school students were arguing in the library.",
+  "output": "At approximately 3:00 pm today, two high school students were involved in a conflict in the library. The two students were heard shouting and swearing at each other and were raising their voices. The students were eventually separated by the librarian and an administrator, who escorted them out of the library and then further investigated the incident.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

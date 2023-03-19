@@ -1,0 +1,12 @@
+{
+  "id": "f9edd36a-f686-4b64-9f30-b679d16fdbcc",
+  "instruction": "Build a web page with the following guidelines.",
+  "input": "Create a web page that offers a product or service.",
+  "output": "I will create a web page for [Name of Product or Service]. The page will include sections for detailing the features of the product or service, as well as information about pricing and availability. There will be a contact page for people to reach out with questions or to request more information. Images, videos or graphics may be used to illustrate the page's key points, and an engaging design will be used throughout to provide a visually pleasing user experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

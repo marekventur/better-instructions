@@ -1,0 +1,12 @@
+{
+  "id": "a035aedb-bc13-47df-8281-6d51a53a3cce",
+  "instruction": "Given a text, suggest a suitable topic for the text.",
+  "input": "This is a story about an unusual day when a strange visitor arrived at a small village.",
+  "output": "The Mystery of the Unexpected Visitor",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

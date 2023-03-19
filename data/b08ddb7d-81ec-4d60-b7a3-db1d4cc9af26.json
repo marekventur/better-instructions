@@ -1,0 +1,12 @@
+{
+  "id": "b08ddb7d-81ec-4d60-b7a3-db1d4cc9af26",
+  "instruction": "Explain the concept of a fully connected network.",
+  "input": "",
+  "output": "A fully connected network is a type of artificial neural network in which each neuron or processing unit is connected to every other neuron. In this type of network, each input feature is connected to every neuron in the hidden layer, and every hidden neuron is connected to each output neuron. This allows for a complex network of pathways for data to flow through, allowing for efficient data-processing and training.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

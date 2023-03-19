@@ -1,0 +1,12 @@
+{
+  "id": "63deecfa-8979-4778-917b-f7ee841c2729",
+  "instruction": "Create an algorithm to arrange a set of numbers from lowest to highest",
+  "input": "[3,7,2,4,9]",
+  "output": "1. Initialize a new array, `arrangedArray`, to store the sorted numbers.\n2. Loop through the given array, `numsArray`.\n3. For each element in `numsArray`, use a loop to find the lowest number and add it to `arrangedArray`.\n4. Remove the lowest number from `numsArray`.\n5. Repeat steps 3 and 4 until `numsArray` is empty.\n6. Return `arrangedArray` as the answer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

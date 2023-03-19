@@ -1,0 +1,12 @@
+{
+  "id": "54a76c23-9b67-443c-9b09-fbc86e6af042",
+  "instruction": "Classify this plant species.",
+  "input": "Plant species: Azalea",
+  "output": "Azalea is a species of flowering shrub in the Rhododendron genus of the Ericaceae family.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

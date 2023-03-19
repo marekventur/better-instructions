@@ -1,0 +1,12 @@
+{
+  "id": "db42719a-7485-4fbe-8087-dbcd5ca6308e",
+  "instruction": "Sort a list of five events chronologically.",
+  "input": "List of events: \n- Invention of the telephone \n- Discovery of the Juulfen Mountains \n- Apollo 11 mission\n- World War II\n- The Industrial Revolution",
+  "output": "The Industrial Revolution, Discovery of the Juulfen Mountains, Invention of the telephone, World War II, Apollo 11 mission.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

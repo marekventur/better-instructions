@@ -1,0 +1,12 @@
+{
+  "id": "0d033361-f9a7-42a4-a2a4-c0c91cbe8940",
+  "instruction": "Develop an HTML page from scratch introducing a pet store.",
+  "input": "",
+  "output": "<!DOCTYPE html>\n<html>\n<head>\n\t<title>Pet Store</title>\n\t<style>\n      body {\n        font-family: 'Roboto', sans-serif;\n        background-color: #E5E5EA;\n      }\n  </style>\n</head>\n<body>\n  <div>\n    <h1>Welcome to Our Pet Store</h1>\n    <h2>We are the one-stop shop for all of your pet needs!</h2>\n    <p>Whether you're interested in buying a pet for the first time, \n    looking for pet supplies, veterinarian services, or want to make sure \n    your pet feels loved with some treats, we've got you covered.</p>\n    <p>Come visit us today to get all of your pet supplies, including \n    food, treats, toys, accessories, and more!</p>\n  </div>\n</body>\n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

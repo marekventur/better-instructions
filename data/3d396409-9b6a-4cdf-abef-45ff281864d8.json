@@ -1,0 +1,12 @@
+{
+  "id": "3d396409-9b6a-4cdf-abef-45ff281864d8",
+  "instruction": "Change this declarative sentence into an interrogative sentence.",
+  "input": "John was late to the meeting.",
+  "output": "Was John late to the meeting?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

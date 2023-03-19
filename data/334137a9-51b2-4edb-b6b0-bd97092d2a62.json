@@ -1,0 +1,12 @@
+{
+  "id": "334137a9-51b2-4edb-b6b0-bd97092d2a62",
+  "instruction": "Write a function in JavaScript to calculate the sum of a given array of numbers.",
+  "input": "",
+  "output": "function sumOfArray(arr){\n  var sum = 0;\n  for(var i=0;i<arr.length;i++){\n    sum+=arr[i];\n  }\n  return sum;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

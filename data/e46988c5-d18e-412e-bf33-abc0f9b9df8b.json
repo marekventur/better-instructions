@@ -1,0 +1,12 @@
+{
+  "id": "e46988c5-d18e-412e-bf33-abc0f9b9df8b",
+  "instruction": "Compare and contrast electrical and chemical synapses.",
+  "input": "",
+  "output": "Electrical synapses are characterized by the presence of gap junctions between two neurons, which allow an electrical current to be passed directly from one neuron to the other. Chemical synapses, on the other hand, involve the release of neurotransmitters from one neuron to another, with the neurotransmitter receptor being located on the second neuron. Electrical synapses are less complex than chemical synapses and are faster, but chemical synapses can be modulated and play a larger role in the functioning of the nervous system.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

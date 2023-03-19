@@ -1,0 +1,12 @@
+{
+  "id": "9ee5f4ea-aec1-4fa1-979a-8336e1f874a5",
+  "instruction": "Classify the following number into prime or composite.",
+  "input": "7",
+  "output": "Prime",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

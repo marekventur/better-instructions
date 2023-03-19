@@ -1,0 +1,12 @@
+{
+  "id": "1c10f3a5-65cf-46c1-b070-bc443ffc1bdf",
+  "instruction": "Sort the following words by the first letter of their spelling in the English alphabet.",
+  "input": "Yahoo, Xanthum, Wolf, Zebra",
+  "output": "Xanthum, Wolf, Yahoo, Zebra",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

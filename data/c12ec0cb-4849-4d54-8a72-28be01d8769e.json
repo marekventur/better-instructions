@@ -1,0 +1,12 @@
+{
+  "id": "c12ec0cb-4849-4d54-8a72-28be01d8769e",
+  "instruction": "Describe the floor plan of a 2-storey house.",
+  "input": "<no input>",
+  "output": "The floor plan of a two-storey house typically consists of a main area on the ground floor with a living room, dining room and kitchen, while the upstairs usually contains the bedrooms with bathrooms and closets. On the ground floor, there is also typically a hallway, coat closet and possibly a powder room. Additionally, some two-storey homes have a basement for extra storage.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

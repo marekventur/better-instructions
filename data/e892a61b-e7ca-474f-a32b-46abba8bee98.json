@@ -1,0 +1,12 @@
+{
+  "id": "e892a61b-e7ca-474f-a32b-46abba8bee98",
+  "instruction": "Based on the input provided, give me a 5-sentence summary of the story.\n\n(Input: \u201cOnce upon a time, there was a brave prince who set off on a journey to find a magical sword that had the power to grant him any wish. He encountered many dangers along the way but eventually, with the help of a wise wizard, he was able to find the sword and make his wish come true. He became the ruler of the kingdom and lived happily ever after.\u201d)",
+  "input": "Once upon a time, there was a brave prince who set off on a journey to find a magical sword that had the power to grant him any wish. He encountered many dangers along the way but eventually, with the help of a wise wizard, he was able to find the sword and make his wish come true. He became the ruler of the kingdom and lived happily ever after.",
+  "output": "The brave prince set out on a journey to find a magical sword that could grant him any wish. He faced many obstacles, but a wise wizard eventually guided him to the sword. After obtaining the sword, the prince successful made his wish and became ruler of the kingdom. He went on to live a long and prosperous life, happy with his accomplishment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

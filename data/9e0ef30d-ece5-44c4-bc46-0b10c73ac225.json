@@ -1,0 +1,12 @@
+{
+  "id": "9e0ef30d-ece5-44c4-bc46-0b10c73ac225",
+  "instruction": "Replace the bolded words with synonyms.\n\nThe bustling town was **teeming** with people.",
+  "input": "The bustling town was <b>teeming</b> with people.",
+  "output": "The bustling town was brimming with people.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

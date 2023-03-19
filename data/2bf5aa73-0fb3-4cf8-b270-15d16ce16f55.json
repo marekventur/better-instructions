@@ -1,0 +1,12 @@
+{
+  "id": "2bf5aa73-0fb3-4cf8-b270-15d16ce16f55",
+  "instruction": "Create an email marketing campaign to promote a new product.",
+  "input": "",
+  "output": "Subject: Introducing our brand new product! \n\nDear [Name], \n\nWe are excited to announce the launch of our brand new product, [Product Name]. Our product is specially designed to [Insert product description]. We are confident that it can help to [Insert how the product helps users]. \n\nWe believe our product is a game-changer and can provide you with [Insert benefit of the product]. \n\nDon\u2019t miss out on this incredible opportunity! We are offering a 20% discount on all orders placed within the next 10 days. \n\nTo learn more, visit us at [Insert website link] or get in touch with us at [Insert contact details]. \n\nThank you for your support, \n[Your Company Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

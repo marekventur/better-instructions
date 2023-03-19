@@ -1,0 +1,12 @@
+{
+  "id": "c2738326-5dcf-460c-be74-64c3292b8e4c",
+  "instruction": "Retrieve the second paragraph from this article.",
+  "input": "[Link to article]",
+  "output": "The second paragraph of the article reads: \"The only way to understand the complexities of the world we live in is to be able to compare and contrast different places, cultures, and circumstances. To do this, one must be able to rely on data from reliable sources. For example, in comparing two countries, the best way to understand differences is to look at their respective population sizes.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

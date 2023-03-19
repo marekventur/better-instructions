@@ -1,0 +1,12 @@
+{
+  "id": "836caa18-2c24-4907-90b9-2b96e046e55c",
+  "instruction": "Design an AI technology capable of solving a given problem.",
+  "input": "Reducing the time needed to diagnose medical conditions.",
+  "output": "An AI-powered system could be designed to help with reducing the time needed to diagnose medical conditions. The system would be equipped with a deep learning algorithm that could use a combination of medical imaging, patient profiles, medical records, and medical research data to accurately diagnose medical conditions. It could also be integrated with natural language processing technology to allow patients to easily describe their symptoms and receive diagnostic information in real time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

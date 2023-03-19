@@ -1,0 +1,12 @@
+{
+  "id": "b74f1412-66cc-44d2-b2e8-cacf774589dc",
+  "instruction": "Develop an algorithm that can solve a Rubik's cube.",
+  "input": "",
+  "output": "The Rubik's cube can be solved using a combination of two algorithms - the \"Corner-Edge Pairing\" method, and the \"Layer-By-Layer\" method. \n\nThe Corner-Edge Pairing algorithm involves pairing up the incorrect cube pieces, and then orienting them correctly. This can be done by using a series of algorithms, involving \u201ctriple flips\u201d, \u201cuneven swap\u201d and \u201cloopen\u201d. \n\nThe Layer-By-Layer algorithm involves solving each layer of the cube independently. This algorithm utilizes the idea of creating a \u201ccross\u201d on the top layer, and then solving each corner and edge of the cube one-by-one. \n\nThese techniques can be combined to form an algorithm to solve a Rubik\u2019s cube.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

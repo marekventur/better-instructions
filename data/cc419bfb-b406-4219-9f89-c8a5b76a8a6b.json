@@ -1,0 +1,12 @@
+{
+  "id": "cc419bfb-b406-4219-9f89-c8a5b76a8a6b",
+  "instruction": "Given two options, pick which one is more economical.",
+  "input": "Buy an air conditioner or fan",
+  "output": "A fan",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

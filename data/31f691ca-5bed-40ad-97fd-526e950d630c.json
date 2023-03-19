@@ -1,0 +1,12 @@
+{
+  "id": "31f691ca-5bed-40ad-97fd-526e950d630c",
+  "instruction": "Find a sound effect from the internet and embed it in the given article.",
+  "input": "The old man could only hear the sound of crickets as he walked through the forest.",
+  "output": "<audio src='https://www.freesound.org/data/previews/279/279975_761882-lq.mp3'></audio>The old man could only hear the sound of <i> crickets </i> as he walked through the forest.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

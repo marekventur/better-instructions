@@ -1,0 +1,12 @@
+{
+  "id": "7f6642ce-e119-41e0-9f12-e06ef7d2f071",
+  "instruction": "Translate the sentence in the given language",
+  "input": "Bonjour, comment allez-vous? \nFrench",
+  "output": "Hello, how are you?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2211c5e4-0ec3-4af6-9553-ac64af6e0d52",
+  "instruction": "Select the best action to take in this situation. Output the selected action.",
+  "input": "Situation: The customer's order did not arrive on time for their meeting.",
+  "output": "Apologize to the customer and offer them a full refund.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

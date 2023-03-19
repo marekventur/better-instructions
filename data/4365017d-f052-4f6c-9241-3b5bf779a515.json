@@ -1,0 +1,12 @@
+{
+  "id": "4365017d-f052-4f6c-9241-3b5bf779a515",
+  "instruction": "Convert the numbers written in words into its numeric equivalents.",
+  "input": "sixteen thousand five hundred fifty-four",
+  "output": "16554",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3bdec999-f739-4d0d-9f11-9eaf7f3bc6e1",
+  "instruction": "Create a mobile app wireframe of a simple quiz game.",
+  "input": "",
+  "output": "The mobile app wireframe of the quiz game will include three main sections: the start screen with the game title, instructions, and settings; the question and answer screen; and the game over screen with final results, a button to restart the game, and a button to submit the results on a leaderboard. The start screen will have an introduction to the game and instruction on how to play. Settings can include background music, sound effects, and the option to change the difficulty level. The question and answer screen will contain the question and multiple choice answers (or other type of quiz such as photos) with an option to skip the question. The game over screen will display the final score, number of correct answers, and the option to submit the results to the leaderboard and restart the game.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "34dba9a6-31d1-4543-b3be-49b8bd5ad54a",
+  "instruction": "Edit my restaurant review.",
+  "input": "The seafood restaurant was pretty amazing. The food was well presented and the staff were friendly and efficient.",
+  "output": "I had a wonderful experience at the seafood restaurant. The food was beautifully presented, the flavors were balanced, and the staff were friendly and attentive. The restaurant clearly takes pride in its food and provides an unforgettable atmosphere. I would highly recommend it to anyone looking for an enjoyable, high-quality dining experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

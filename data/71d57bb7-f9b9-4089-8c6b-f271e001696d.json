@@ -1,0 +1,12 @@
+{
+  "id": "71d57bb7-f9b9-4089-8c6b-f271e001696d",
+  "instruction": "Given the input, revise and reformat the following sentence.",
+  "input": "Sentence: Here\u2019s the rundown- on the best times- to visit Australia",
+  "output": "Here is the rundown on the best times to visit Australia.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

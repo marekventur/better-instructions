@@ -1,0 +1,12 @@
+{
+  "id": "c1fcdeb4-c728-41ad-bc52-9e071799e069",
+  "instruction": "What is the probability of getting tails in flipping a fair coin 10 times?",
+  "input": "",
+  "output": "The probability of getting tails in flipping a fair coin 10 times is 0.5 (or 50%) since in a fair coin, the probability of getting either heads or tails is always the same.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

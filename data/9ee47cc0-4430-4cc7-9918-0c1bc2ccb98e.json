@@ -1,0 +1,12 @@
+{
+  "id": "9ee47cc0-4430-4cc7-9918-0c1bc2ccb98e",
+  "instruction": "Transform the sentence into a negative statement.",
+  "input": "John always does his homework.",
+  "output": "John never fails to do his homework.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

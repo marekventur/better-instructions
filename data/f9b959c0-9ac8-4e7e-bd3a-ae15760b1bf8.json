@@ -1,0 +1,12 @@
+{
+  "id": "f9b959c0-9ac8-4e7e-bd3a-ae15760b1bf8",
+  "instruction": "Given a description of a travel destination, recommend 10 tourist attractions.",
+  "input": "The travel destination is Tokyo, Japan.",
+  "output": "If you're looking to explore the sights and sounds of Tokyo, here are 10 tourist attractions to check out: \n\n1. Sensoji Temple \u2013 a popular temple in the Asakusa district.\n2. Tokyo Skytree \u2013 standing 634 meters tall, this is the world\u2019s highest free-standing tower.\n3. Ueno Park \u2013 a large public park with museums, temples, and a zoo.\n4. Jigokudani Monkey Park \u2013 located in Yamanouchi, this park is home to snow monkeys.\n5. Meiji Shrine \u2013 a Shinto shrine located in the Shibuya district.\n6. Sumida River Cruise \u2013 a boat ride along the famous river.\n7. Tokyo Tower \u2013 the second tallest structure in Japan.\n8. Tsukiji Fish Market \u2013 the largest wholesale fish and seafood market in the world.\n9. Imperial Palace \u2013 the former residence of the Emperor of Japan.\n10. Nikko National Park \u2013 a World Heritage Site and one of the most beautiful places in Japan.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

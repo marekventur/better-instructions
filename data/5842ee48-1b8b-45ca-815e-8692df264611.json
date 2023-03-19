@@ -1,0 +1,12 @@
+{
+  "id": "5842ee48-1b8b-45ca-815e-8692df264611",
+  "instruction": "Calculate the final cost of the purchase.",
+  "input": "John purchased 3 digital camera for $400 each with a 10% discount.",
+  "output": "John's total purchase is $1,080, which is equivalent to three digital cameras at $400 each with a 10% discount.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

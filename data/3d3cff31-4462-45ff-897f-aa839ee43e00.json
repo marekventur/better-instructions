@@ -1,0 +1,12 @@
+{
+  "id": "3d3cff31-4462-45ff-897f-aa839ee43e00",
+  "instruction": "Create a plan for how the given organization can perform the task.",
+  "input": "Organization: Marketing Agency\nTask: Developing a marketing strategy that is friendly to the environment",
+  "output": "The marketing agency should develop a marketing strategy that prioritizes environmental responsibility. This can be done through creating campaigns that focus on Raise awareness of environmental issues and solutions; increase the usage and emphasis of renewable energy sources; and/or promote eco-friendly products. They should also take into account the environmental consequences of the production process, and explore ways to minimize their environmental impact while maximizing the effectiveness of their marketing efforts. Additionally, they should work towards developing renewable energy sources, such as solar or wind power, to be used in their operations. This could mean investing in the appropriate technology for their offices, or contracting out for renewable energy options. Finally, the agency should develop strategies for decreasing their office emissions, such as utilizing paperless processes and/or promoting more efficient transportation methods.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

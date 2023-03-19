@@ -1,0 +1,12 @@
+{
+  "id": "f3875ea1-a18a-4b8b-a12d-3dcbe48b08f0",
+  "instruction": "Remove the misplaced modifier in the sentence below.",
+  "input": "The interest groups have spent $6.2 million on TV ads so far this year for state and local ballot measures.",
+  "output": "Interest groups have spent $6.2 million on TV ads for state and local ballot measures this year.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

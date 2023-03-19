@@ -1,0 +1,12 @@
+{
+  "id": "9a6a6242-8afd-45a0-ab6b-9ac960511683",
+  "instruction": "Make sure the sentence is parallel and consistent.",
+  "input": "Drinking coffee and avoiding to hide feelings.",
+  "output": "Drinking coffee and avoiding hiding feelings.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

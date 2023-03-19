@@ -1,0 +1,12 @@
+{
+  "id": "1fa59f93-3790-4f58-ad23-9b7704eb789a",
+  "instruction": "Rearrange these dates in chronological order.",
+  "input": "1966, 1971, 1950, 1939",
+  "output": "1939, 1950, 1966, 1971",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

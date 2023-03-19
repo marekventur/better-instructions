@@ -1,0 +1,12 @@
+{
+  "id": "93247d9a-bbde-4318-914f-aff8d1d1de42",
+  "instruction": "Compare the advantages and disadvantages of the two popular machine learning approaches linear regression and decision trees.",
+  "input": "",
+  "output": "Linear regression is a predictive analysis technique that identifies the relationship between one or more independent variables and a dependent variable. It can be used to determine the impact of certain features on a given outcome. Advantages of linear regression are interpretability, simplicity, scalability and robustness. Disadvantages of linear regression include its behavior in presence of outliers, high variance and inability to learn non-linear relationships. \n\nDecision trees are a supervised learning method that creates a model based on features in the data set and the relationships between them, to predict an outcome. Advantages of Decision trees include high accuracy and the ability to learn non-linear relationships. Decision trees can efficiently handle large data sets with many features, and can be more interpretable than other machine learning algorithms. Disadvantages of Decision trees include its susceptibility to overfitting, increased complexity of tuning, and instability in case of small changes in the data set.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

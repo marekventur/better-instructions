@@ -1,0 +1,12 @@
+{
+  "id": "2e785586-3617-4c8e-b112-714864dcf060",
+  "instruction": "Generate an event with a given context and input.",
+  "input": "Context: It's Saturday night\nInput: Friends",
+  "output": "On Saturday night, a group of friends get together to enjoy a night of fun and laughter. They might play board games, have a movie night, or take a walk around the neighborhood. They might grab a bite to eat at a favorite restaurant and share stories over dinner. Whatever it is, it's sure to be an evening of fun with good company!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "34b9fb45-f1fb-4677-9430-0e2f7f1bd95e",
+  "instruction": "Edit this sentence into active voice.",
+  "input": "The situation was as expected by the team.",
+  "output": "The team expected the situation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

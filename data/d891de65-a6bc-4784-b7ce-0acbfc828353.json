@@ -1,0 +1,12 @@
+{
+  "id": "d891de65-a6bc-4784-b7ce-0acbfc828353",
+  "instruction": "Write a CSS class that applies a black border to an HTML element with a class of \"test\"",
+  "input": "N/A",
+  "output": ".test { \n  border: 1px solid black;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

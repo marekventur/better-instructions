@@ -1,0 +1,12 @@
+{
+  "id": "7cba8d64-6e6e-48ec-bef4-7c7018220a4f",
+  "instruction": "Calculate the given mathematical expression.",
+  "input": "2 + 3x - 5",
+  "output": "5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "638d3f43-123d-4cab-abc1-62b191be5dfb",
+  "instruction": "Find out the second most common letter in the given sentence. Output the letter directly.",
+  "input": "Efficient algorithms are necessary for data processing.",
+  "output": "e",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

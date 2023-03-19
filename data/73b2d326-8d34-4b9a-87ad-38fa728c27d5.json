@@ -1,0 +1,12 @@
+{
+  "id": "73b2d326-8d34-4b9a-87ad-38fa728c27d5",
+  "instruction": "Give two words that are synonyms of the given word.",
+  "input": "Peace",
+  "output": "Tranquility, serenity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

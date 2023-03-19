@@ -1,0 +1,12 @@
+{
+  "id": "008bc52c-38f1-4449-b6cd-bd34acb35089",
+  "instruction": "Merge the two lists below into a list of tuples",
+  "input": "list1 = [\"apple\",\"orange\",\"banana\"]\nlist2 = [\"red\", \"green\", \"yellow\"]",
+  "output": "tuples_list = list(zip(list1, list2))\nprint(tuples_list) # prints [(\"apple\", \"red\"), (\"orange\", \"green\"), (\"banana\", \"yellow\")]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

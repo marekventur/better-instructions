@@ -1,0 +1,12 @@
+{
+  "id": "35fa47a5-c741-42ea-837f-71fa9d72de74",
+  "instruction": "Find a word in the sentence that means the same thing as the highlighted word.",
+  "input": "He was in an enviable situation.",
+  "output": "He was in a desirable situation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

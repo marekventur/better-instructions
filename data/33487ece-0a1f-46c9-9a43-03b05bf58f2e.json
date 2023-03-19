@@ -1,0 +1,12 @@
+{
+  "id": "33487ece-0a1f-46c9-9a43-03b05bf58f2e",
+  "instruction": "Given two cities, compute the approximate distance between them.",
+  "input": "Paris, France, and Tokyo, Japan",
+  "output": "The approximate distance between Paris, France, and Tokyo, Japan is 8,423 kilometers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "74ae6303-f76c-4bd3-babd-bbe870dde452",
+  "instruction": "Classify the given song into a genre.",
+  "input": "#Dreams by Fleetwood Mac\n\nOh, yeah\n\nAll the dreams we've had are lost",
+  "output": "Pop rock.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

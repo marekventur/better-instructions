@@ -1,0 +1,12 @@
+{
+  "id": "0fc90471-6fc4-4b3e-96dc-1e3fa734ada0",
+  "instruction": "Compute the average age in the following list of individuals.",
+  "input": "Person 1: Age 12\nPerson 2: Age 57\nPerson 3: Age 22",
+  "output": "The average age is 27.3.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

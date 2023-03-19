@@ -1,0 +1,12 @@
+{
+  "id": "c63ec168-8ea2-4493-a0d3-37281c75ce1e",
+  "instruction": "Analyze the given text and determine the primary argument being made.",
+  "input": "Water is vital to human health and access to it is a human right.",
+  "output": "The primary argument being made is that water is essential to human health and everyone should have access to it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

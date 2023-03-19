@@ -1,0 +1,12 @@
+{
+  "id": "8c080f70-7587-4e32-ad47-d06a89da386d",
+  "instruction": "Given the string \"hello, how are you?\", Remove the punctuation",
+  "input": "\"hello, how are you?\"",
+  "output": "\"hello how are you\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e02de616-7de6-4833-b7a6-697c5d6d9cfb",
+  "instruction": "Explain why a given phenomenon occurs.",
+  "input": "El Ni\u00f1o",
+  "output": "El Ni\u00f1o is caused by a disruption in the ocean-atmosphere system in the tropical Pacific, due to a combination of several factors including the weakening of the trade winds and the warming of the surface waters of the Pacific Ocean. These conditions result in increased air and sea surface temperature, and also cause extreme weather events such as floods, droughts, and hurricanes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

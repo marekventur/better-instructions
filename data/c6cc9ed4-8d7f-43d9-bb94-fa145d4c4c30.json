@@ -1,0 +1,12 @@
+{
+  "id": "c6cc9ed4-8d7f-43d9-bb94-fa145d4c4c30",
+  "instruction": "Given a sentence, add in 4 adjectives that describe the sentence.",
+  "input": "He was an astrophysicist.",
+  "output": "He was a brilliant, inquisitive, ambitious, and passionate astrophysicist.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

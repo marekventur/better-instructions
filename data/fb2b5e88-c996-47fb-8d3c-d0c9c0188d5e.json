@@ -1,0 +1,12 @@
+{
+  "id": "fb2b5e88-c996-47fb-8d3c-d0c9c0188d5e",
+  "instruction": "In the following sentence, find the clause that is the main subject.",
+  "input": "He was walking in the park when it started to rain.",
+  "output": "He was walking in the park",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

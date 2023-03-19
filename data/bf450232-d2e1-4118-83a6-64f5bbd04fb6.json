@@ -1,0 +1,12 @@
+{
+  "id": "bf450232-d2e1-4118-83a6-64f5bbd04fb6",
+  "instruction": "Output a description of a t-shirt in the sentence.",
+  "input": "This blue t-shirt has a pocket on the left side.",
+  "output": "This blue t-shirt is made of soft cotton fabric and features a pocket on the left side.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

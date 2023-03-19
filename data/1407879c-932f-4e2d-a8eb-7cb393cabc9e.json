@@ -1,0 +1,12 @@
+{
+  "id": "1407879c-932f-4e2d-a8eb-7cb393cabc9e",
+  "instruction": "Create a JSON object based on the given description.",
+  "input": "Description:\n\nThe age of the person is 23. The gender is male and the name is Gerard.",
+  "output": "{\"name\": \"Gerard\", \n\"age\": 23, \n\"gender\": \"male\"\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

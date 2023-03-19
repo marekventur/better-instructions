@@ -1,0 +1,12 @@
+{
+  "id": "52dccce9-0940-48de-b0f6-8b17c1c75517",
+  "instruction": "Find the most relevant term for the given definition.",
+  "input": "A technique used to store data resiliently",
+  "output": "Data redundancy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

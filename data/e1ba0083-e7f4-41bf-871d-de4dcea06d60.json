@@ -1,0 +1,12 @@
+{
+  "id": "e1ba0083-e7f4-41bf-871d-de4dcea06d60",
+  "instruction": "Create a new sequence out of the given numbers.",
+  "input": "Numbers: 0.2, 3, 5, 6",
+  "output": "0.2, 3, 5, 6, 2.6, 8.2, 11.8",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

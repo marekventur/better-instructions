@@ -1,0 +1,12 @@
+{
+  "id": "c2bbd272-6a96-4ffa-b4fd-8fed777cad3a",
+  "instruction": "Assign a corresponding poetic sound device to the following sentence.",
+  "input": "The gentle tide lapped at the shore.",
+  "output": "The poetic sound device used in this sentence is alliteration, with the 'g' sound in \"gentle\" and \"tide\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

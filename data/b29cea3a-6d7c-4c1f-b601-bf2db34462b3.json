@@ -1,0 +1,12 @@
+{
+  "id": "b29cea3a-6d7c-4c1f-b601-bf2db34462b3",
+  "instruction": "Generate the Python code to count the frequency of each character in a string.",
+  "input": "String: \"Hello world!\"",
+  "output": "char_freq = {}\n\nfor char in 'Hello world!':\n  if char in char_freq:\n    char_freq[char] += 1\n  else:\n    char_freq[char] = 1\n\nprint(char_freq)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

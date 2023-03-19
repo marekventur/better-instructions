@@ -1,0 +1,12 @@
+{
+  "id": "a4ef39fd-ec92-482c-9a3a-9791fa9df1a4",
+  "instruction": "Summarize the story by providing an overview of the main events.",
+  "input": "The Jungle Book is a 1967 American animated musical comedy film produced by Walt Disney Productions. It is loosely based on the 1894 collection of stories of the same name by Rudyard Kipling, and animated by Tommy Johnson, Irv Spence and Wolfgang Reitherman. It is the 19th animated feature in the Disney Animated Canon and follows the adventures of a live-action boy, Mowgli, who is trained by Bagheera the black panther and Baloo the bear.",
+  "output": "The Jungle Book follows the story of Mowgli, a young boy who is trained by Bagheera the black panther and Baloo the bear. Together, they embark on a series of adventures that take them across the jungle, confronting enemies such as Shere Khan the tiger and Kaa the python. As Mowgli learns more about his jungle home, he must eventually choose between staying in the jungle and joining civilized world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f2cea43c-5f3e-41d9-81d2-6a0d13ffc582",
+  "instruction": "Sort the following numbers by ascending order.",
+  "input": "5, 37, 18, 90, 23",
+  "output": "5, 18, 23, 37, 90",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

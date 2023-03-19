@@ -1,0 +1,12 @@
+{
+  "id": "5024cf48-e3cc-4dc2-a114-33f2b90e48fb",
+  "instruction": "Answer a short-answer question",
+  "input": "Question: What is the definition of machine learning?",
+  "output": "Machine learning is a field of artificial intelligence in which machines are given the ability to learn and improve their performance based on data. It involves a form of data analysis that utilizes algorithms to analyze data and make predictions. Machine learning algorithms are used to detect patterns in data and make decisions or predictions without being explicitly programmed to do so. In short, machine learning is the practice of training a computer to learn from data and improve its performance over time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

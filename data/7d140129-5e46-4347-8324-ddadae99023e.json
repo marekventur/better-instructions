@@ -1,0 +1,12 @@
+{
+  "id": "7d140129-5e46-4347-8324-ddadae99023e",
+  "instruction": "Pick out 3 companies from a given list and describe their operations and services in brief.",
+  "input": "Google, Apple, Microsoft",
+  "output": "Google provides services related to internet search and software development, as well as cloud computing, advertising technologies and media streaming such as YouTube. Apple is a technology company mainly renowned for its hardware such as iPhones, iPads, and Mac computers. Microsoft provides software solutions such as Windows and Office, as well as cloud services such as Office 365 and Azure.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

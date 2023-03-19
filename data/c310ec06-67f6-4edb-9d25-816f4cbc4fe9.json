@@ -1,0 +1,12 @@
+{
+  "id": "c310ec06-67f6-4edb-9d25-816f4cbc4fe9",
+  "instruction": "Create an algorithm for finding the difference between two large numbers.",
+  "input": "325678 and 835716",
+  "output": "The algorithm for finding the difference between two large numbers is as follows:\n\n1. Convert the numbers to the same base if they are in different bases.\n2. Compare the lengths of the numbers.\n3. Pad the smaller number with zeroes by adding zeroes to the left of the number until the lengths are equal.\n4. Subtract the smaller number from the larger number, beginning with the rightmost digits of each number.\n5. Work to the left, subtracting one digit at a time, and carry over the number if necessary.\n6. The resulting number is the difference between the two numbers.\n\nIn the example provided, the difference is 509,038.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

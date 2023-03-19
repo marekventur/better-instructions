@@ -1,0 +1,12 @@
+{
+  "id": "3936d9ad-acd1-457d-9a80-bca91c981206",
+  "instruction": "Categorise the given species as either vertebrate or invertebrate",
+  "input": "Squirrel",
+  "output": "The species of animal Squirrel is a vertebrate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

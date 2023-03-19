@@ -1,0 +1,12 @@
+{
+  "id": "98eddc75-0a86-4416-b7fd-0187b114541d",
+  "instruction": "Sort the following list from highest to lowest",
+  "input": "Apple \nBanana\nOrange\nGrapes",
+  "output": "Orange\nBanana\nGrapes\nApple",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "aaca8baf-3915-4692-8233-5f43b9fc90b3",
+  "instruction": "Collect data on the US presidential elections and classify them into appropriate categories.",
+  "input": "",
+  "output": "Data to collect on the US presidential elections could include the number of votes for each candidate, the popular vote margin, the electoral vote margin and the date of the election. The data can then be classified into categorical variables, such as the names of the candidates, the year the election was held, the party that won, and the state in which the election was won.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

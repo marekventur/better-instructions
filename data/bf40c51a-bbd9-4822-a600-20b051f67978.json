@@ -1,0 +1,12 @@
+{
+  "id": "bf40c51a-bbd9-4822-a600-20b051f67978",
+  "instruction": "Outline a set of steps to achieve a particular goal.",
+  "input": "Learning Python",
+  "output": "1. Familiarize yourself with the basic concepts of Python - variables, operators, functions, classes, etc. \n2. Find good websites, tutorials or courses that can help you understand the basics.\n3. Start coding by making small programs and experiment with the language.\n4. Get comfortable working with data structures and algorithms.\n5. Read the official Python documentation to get familiar with the different modules and libraries.\n6. Try out new libraries and practice with complex problems. \n7. Join an online community or forum to ask questions and get feedback from other Python developers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

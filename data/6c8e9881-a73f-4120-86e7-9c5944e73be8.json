@@ -1,0 +1,12 @@
+{
+  "id": "6c8e9881-a73f-4120-86e7-9c5944e73be8",
+  "instruction": "Formulate a logical argument for the following claim",
+  "input": "Animals should not be kept in captivity",
+  "output": "Keeping animals in captivity takes away their freedom to live in their natural environments, restricts their movements and behavior, and can cause them emotional and physical distress. Therefore, animals should not be kept in captivity as it is not in their best interests, and could cause them harm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

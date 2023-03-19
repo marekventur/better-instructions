@@ -1,0 +1,12 @@
+{
+  "id": "b792d10d-4efa-425f-96af-f940b02c3525",
+  "instruction": "Find the prime factors of the following number.",
+  "input": "60",
+  "output": "2, 2, 3, 5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

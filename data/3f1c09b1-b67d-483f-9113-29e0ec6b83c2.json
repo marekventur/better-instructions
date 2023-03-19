@@ -1,0 +1,12 @@
+{
+  "id": "3f1c09b1-b67d-483f-9113-29e0ec6b83c2",
+  "instruction": "Given some text, rewrite it in the third person point of view.",
+  "input": "I went to the store to buy some groceries.",
+  "output": "He went to the store to buy some groceries.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

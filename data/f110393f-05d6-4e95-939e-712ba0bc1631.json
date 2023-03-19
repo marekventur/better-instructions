@@ -1,0 +1,12 @@
+{
+  "id": "f110393f-05d6-4e95-939e-712ba0bc1631",
+  "instruction": "Analyze the content of the following text to determine whether it has a positive, negative or neutral sentiment.",
+  "input": "The new iPhone is an amazing device with plenty of features, however, the price is too high.",
+  "output": "Neutral",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

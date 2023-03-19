@@ -1,0 +1,12 @@
+{
+  "id": "cc495d9d-8e0b-43aa-9487-3d5e78dd8a0c",
+  "instruction": "Generate an example of all four of the common data types, (string, integer, float and boolean)?",
+  "input": "",
+  "output": "String: Hello\nInteger: 20\nFloat: 27.5\nBoolean: True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3abe3d10-c74e-415b-945a-49395e23452d",
+  "instruction": "Rewrite this sentence to start with an adverb.",
+  "input": "She walked to the store yesterday.",
+  "output": "Yesterday she walked to the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

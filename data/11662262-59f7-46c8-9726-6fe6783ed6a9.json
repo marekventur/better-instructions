@@ -1,0 +1,12 @@
+{
+  "id": "11662262-59f7-46c8-9726-6fe6783ed6a9",
+  "instruction": "Given a certain time, answer the following question.",
+  "input": "Time: 2:15 pm",
+  "output": "What is the time in 24-hour format? \n14:15.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

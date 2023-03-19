@@ -1,0 +1,12 @@
+{
+  "id": "7fa30d27-fac5-4a4a-bb9a-b9f57873aa30",
+  "instruction": "Change the sentence to a declarative statement.",
+  "input": "Do you want to go?",
+  "output": "I want to go.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

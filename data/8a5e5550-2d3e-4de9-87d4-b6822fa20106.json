@@ -1,0 +1,12 @@
+{
+  "id": "8a5e5550-2d3e-4de9-87d4-b6822fa20106",
+  "instruction": "Given two strings, write a program to determine if they are palindromes.",
+  "input": "",
+  "output": "def is_palindrome(string1, string2):\n    if len(string1) != len(string2):\n        return False\n    else:\n        for i in range(len(string1)):\n            if string1[i] != string2[-i-1]:\n                return False\n        return True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2b6663fc-1e11-4b6c-934f-55de33192cd0",
+  "instruction": "edit the following sentence: \"He walked to the bookstore to get a book\"",
+  "input": "He walked to the bookstore to purchase a textbook",
+  "output": "He walked to the bookstore to purchase a textbook.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

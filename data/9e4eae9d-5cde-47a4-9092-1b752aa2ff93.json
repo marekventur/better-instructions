@@ -1,0 +1,12 @@
+{
+  "id": "9e4eae9d-5cde-47a4-9092-1b752aa2ff93",
+  "instruction": "Compare the two characters below and discuss how their personalities are different.\nCharacter 1: outgoing, cheerful\nCharacter 2: shy, reserved",
+  "input": "Character 1: outgoing, cheerful\nCharacter 2: shy, reserved",
+  "output": "Character 1 is outgoing and cheerful while Character 2 is shy and reserved. Character 1 is more likely to initiate conversations, be extroverted and outspoken, and have a positive outlook. Character 2, on the other hand, is more likely to be introverted, enjoy solitude, and prefer to listen rather than talk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

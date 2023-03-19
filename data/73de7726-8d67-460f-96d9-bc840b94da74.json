@@ -1,0 +1,12 @@
+{
+  "id": "73de7726-8d67-460f-96d9-bc840b94da74",
+  "instruction": "Automatically read this sentence aloud",
+  "input": "This machine can answer questions",
+  "output": "This machine can answer questions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

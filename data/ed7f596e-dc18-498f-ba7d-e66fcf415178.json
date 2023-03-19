@@ -1,0 +1,12 @@
+{
+  "id": "ed7f596e-dc18-498f-ba7d-e66fcf415178",
+  "instruction": "Read the text below and find the subject of the sentence",
+  "input": "The museum held a protest in response to the ruling.",
+  "output": "The subject of the sentence is \"museum\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "16457b93-ebaf-4a6b-a19b-d962b2dc1ca7",
+  "instruction": "Create a code that accepts an array of numbers and doubles each of them.",
+  "input": "[1,2,3,4]",
+  "output": "// Function to double each element in an array\nfunction doubleArray(arr) {\n  //Loop over each element in the array\n  for (var i = 0; i < arr.length; i++) {\n    //Double the element\n    arr[i] = arr[i] * 2;\n  }\n  //Return the modified array\n  return arr;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

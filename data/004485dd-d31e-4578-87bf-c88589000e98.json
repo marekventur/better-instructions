@@ -1,0 +1,12 @@
+{
+  "id": "004485dd-d31e-4578-87bf-c88589000e98",
+  "instruction": "Suggest a VPN service that meets the requirements:",
+  "input": "Requirements:\n1. Secure browsing \n2. Unlimited data \n3. No logs \n4. Affordable pricing",
+  "output": "ExpressVPN is one of the most secure and reliable VPN services available in the market. It offers military-grade encryption, anonymous browsing, unlimited data, and no logs policy at an affordable price. Furthermore, it provides cross-platform compatibility, online freedom, and 24/7 customer support.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

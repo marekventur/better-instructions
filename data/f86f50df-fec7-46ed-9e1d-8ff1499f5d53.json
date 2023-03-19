@@ -1,0 +1,12 @@
+{
+  "id": "f86f50df-fec7-46ed-9e1d-8ff1499f5d53",
+  "instruction": "Predict the sentiment of the following sentence. Output 1 for positive, 0 for neutral and -1 for negative.",
+  "input": "My day was so boring.",
+  "output": "-1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

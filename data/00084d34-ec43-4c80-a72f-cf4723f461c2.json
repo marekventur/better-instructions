@@ -1,0 +1,12 @@
+{
+  "id": "00084d34-ec43-4c80-a72f-cf4723f461c2",
+  "instruction": "Generate a conversation about the weather.",
+  "input": "",
+  "output": "Person 1: Hey, how is the weather outside? \nPerson 2: It's really nice out today. The sun is shining and it's quite warm. \nPerson 1: That sounds great! It's been so rainy lately, it's nice to get some good weather! \nPerson 2: Yeah, I think it's gonna stay this way for a while too. \nPerson 1: That's great news!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

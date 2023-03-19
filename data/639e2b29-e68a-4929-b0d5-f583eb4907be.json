@@ -1,0 +1,12 @@
+{
+  "id": "639e2b29-e68a-4929-b0d5-f583eb4907be",
+  "instruction": "Diagnose the issue with a lightbulb based on the following description.",
+  "input": "The lightbulb is flickering but not turning on.",
+  "output": "The flickering of the lightbulb indicates that there is most likely an issue with the connection to the power source. This could be due to an issue with the wiring or an issue with the bulb itself.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

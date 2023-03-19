@@ -1,0 +1,12 @@
+{
+  "id": "d0c7a5d5-1197-4133-b3a4-b5bc7d525d59",
+  "instruction": "Summarize the following passage in 3 bullet points",
+  "input": "Global warming is the long-term warming of the planet\u2019s overall temperature due to the increasing presence of greenhouse gases in the atmosphere. These gases, such as carbon dioxide and methane, trap heat from the sun and reflect it back down to the Earth\u2019s surface, which increases the temperature. Global warming also causes the Earth\u2019s poles to melt, leading to rising sea levels and stronger hurricanes.",
+  "output": "- Global warming is caused by the presence of increasing amounts of greenhouse gases in the atmosphere trapping heat from the sun and reflecting it back down to the planet. \n- Global warming leads to melting of the Earth's poles and the rise of sea levels. \n- Global warming causes more intense hurricanes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "af5877ec-726d-4135-b68b-82836ac2106d",
+  "instruction": "Given two vectors, calculate the cosine similarity between them.",
+  "input": "Vector1: [1.7, 6.2]\nVector2: [3.4, 4.8]",
+  "output": "0.86602540430",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

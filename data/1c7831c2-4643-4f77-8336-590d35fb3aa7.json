@@ -1,0 +1,12 @@
+{
+  "id": "1c7831c2-4643-4f77-8336-590d35fb3aa7",
+  "instruction": "Pick one country and give a brief history and political overview of it.",
+  "input": "Finland",
+  "output": "Finland is a Nordic country located in northern Europe. Its history dates back to the 1200s, when it was part of the Kingdom of Sweden. It became an autonomous grand duchy of the Russian Empire in 1809, and declared independence from Russia in 1917. Finland has a parliamentary republic form of government and is currently a member of the European Union.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0c312e6d-719b-4cb2-8447-84126168a5d7",
+  "instruction": "Rearrange the words of the input so that it forms a complete sentence.",
+  "input": "this a strange place",
+  "output": "This place is strange.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

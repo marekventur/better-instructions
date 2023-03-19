@@ -1,0 +1,12 @@
+{
+  "id": "36b777aa-95e0-4d05-9b46-ce21cfa09742",
+  "instruction": "Classify the following news article\n\nNews Article: \n\nApple Inc. reported a stronger than expected fiscal third quarter on Tuesday and announced plans to raise its dividend.",
+  "input": "News Article: \nApple Inc. reported a stronger than expected fiscal third quarter on Tuesday and announced plans to raise its dividend.",
+  "output": "The article is classified as Positive Financial News.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

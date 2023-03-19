@@ -1,0 +1,12 @@
+{
+  "id": "8054fe72-fc8d-4d66-817a-cf3c92f66d58",
+  "instruction": "Summarize the article titled \"How to Free Up Disk Space on Windows 10\"",
+  "input": "https://www.howtogeek.com/125923/7-ways-to-free-up-hard-disk-space-on-windows-10/",
+  "output": "This article provides 7 helpful ways to free up disk space on Windows 10. It explains how to use the Storage Sense feature and how to find and delete large files, how to disable hibernation, how to disable system restore, how to uninstall unused programs, how to compress your files, and how to use a disk cleanup tool. All of these methods can help you optimize your storage space and improve the performance of your computer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

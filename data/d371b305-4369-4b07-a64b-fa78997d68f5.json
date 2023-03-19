@@ -1,0 +1,12 @@
+{
+  "id": "d371b305-4369-4b07-a64b-fa78997d68f5",
+  "instruction": "Generate a sample use-case of the technology described in the passage.",
+  "input": "Autonomous robots are robots with either limited or complete autonomy. Autonomous robots can operate without having to rely on preprogrammed instructions and can adjust their behavior according to their environment.",
+  "output": "A use case of autonomous robots is within industrial warehouses to help store, locate, and transport products. The robots can be programmed to detect products and move autonomously along paths in the warehouse to pick, store, and transport products within the warehouse environment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

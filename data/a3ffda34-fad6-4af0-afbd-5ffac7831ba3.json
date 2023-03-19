@@ -1,0 +1,12 @@
+{
+  "id": "a3ffda34-fad6-4af0-afbd-5ffac7831ba3",
+  "instruction": "Given a keyword, find related words to it.",
+  "input": "Economy",
+  "output": "GDP, inflation, trade, employment, fiscal policy, taxation, budget deficit, investments, growth, recession.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

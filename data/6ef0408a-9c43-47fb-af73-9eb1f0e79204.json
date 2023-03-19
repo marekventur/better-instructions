@@ -1,0 +1,12 @@
+{
+  "id": "6ef0408a-9c43-47fb-af73-9eb1f0e79204",
+  "instruction": "Identify the level of this poem.",
+  "input": "The city lights that spring to life,\nBright fires to the endless night,\nA promise of a better life \nThat never quite can put things right.",
+  "output": "The poem has a melancholic tone, suggesting it is at a more advanced level than a simple children's poem. It could be considered as a deep or reflective poem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

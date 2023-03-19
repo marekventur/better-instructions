@@ -1,0 +1,12 @@
+{
+  "id": "2c73e51e-59d3-4441-a464-1496e9b4f6d5",
+  "instruction": "Summarize what a Ponzi scheme is.",
+  "input": "",
+  "output": "A Ponzi scheme is an investment scam that promises high returns with little-to-no risk. The scam involves enticing investors with the promise of high returns, but instead of genuinely investing the money, it is used to pay off earlier investors in the scheme. As long as enough new investors are periodically added, the scheme can continue without the fraudulent operator needing to produce any actual returns for investors. It is eventually doomed to fail, as eventually there won't be enough new investors to keep up the payments.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

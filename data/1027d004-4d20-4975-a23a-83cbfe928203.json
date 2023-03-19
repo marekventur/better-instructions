@@ -1,0 +1,12 @@
+{
+  "id": "1027d004-4d20-4975-a23a-83cbfe928203",
+  "instruction": "Generate an example of a data structure for a school management system.",
+  "input": "",
+  "output": "A school management system could utilize a graph structure, with each node representing a student, teacher, or other party involved in the school (i.e. parents). This could facilitate the tracking of important data such as student grades or attendance records, as well as providing a means to easily access information on the school's daily activities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

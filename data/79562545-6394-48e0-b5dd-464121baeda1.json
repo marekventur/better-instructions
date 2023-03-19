@@ -1,0 +1,12 @@
+{
+  "id": "79562545-6394-48e0-b5dd-464121baeda1",
+  "instruction": "Classify whether this comment is spam or not.",
+  "input": "Hey everyone! I found this amazing website that can help you make money easily. Check it out now!",
+  "output": "Spam",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

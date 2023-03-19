@@ -1,0 +1,12 @@
+{
+  "id": "ff67a5f3-ace5-4f48-908b-d3303de7ecdc",
+  "instruction": "Improve the given recipe by adding a new ingredient or changing the quantity or type of ingredients.",
+  "input": "Recipe:\n2 eggs\n2 tablespoons of sugar\n1 tablespoon of butter",
+  "output": "Recipe:\n\n2 eggs\n2 tablespoons of sugar\n2 tablespoons of maple syrup\n1 tablespoon of butter",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

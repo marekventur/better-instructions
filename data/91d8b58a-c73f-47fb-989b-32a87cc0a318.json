@@ -1,0 +1,12 @@
+{
+  "id": "91d8b58a-c73f-47fb-989b-32a87cc0a318",
+  "instruction": "Analyze the structure of the following sentence and categorize it into different parts of speech.",
+  "input": "\"The little boy ran through the garden.\"",
+  "output": "The- determiner\nlittle- adjective\nboy- noun\nran- verb\nthrough- preposition \nthe- determiner\ngarden- noun.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

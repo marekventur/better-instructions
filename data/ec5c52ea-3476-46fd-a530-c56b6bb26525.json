@@ -1,0 +1,12 @@
+{
+  "id": "ec5c52ea-3476-46fd-a530-c56b6bb26525",
+  "instruction": "Here we have a list of ingredients for pumpkin pie. Arrange them in the order they should be used in the recipe.",
+  "input": "-Canned pumpkin\n-Eggs\n-Granulated sugar\n-Ground cloves\n-Ground cinnamon\n-Ground ginger\n-Heavy cream\n-Nutmeg",
+  "output": "-Canned pumpkin\n-Eggs\n-Granulated sugar\n-Heavy cream\n-Ground cinnamon\n-Ground ginger\n-Ground cloves\n-Nutmeg",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

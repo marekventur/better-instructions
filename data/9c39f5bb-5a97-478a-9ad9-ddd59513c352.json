@@ -1,0 +1,12 @@
+{
+  "id": "9c39f5bb-5a97-478a-9ad9-ddd59513c352",
+  "instruction": "Pick out the most important point from the following passage.",
+  "input": "The global digital transformation is rapidly changing the way businesses operate. This transformation is driven by advances in technology, the emergence of new digital business models, and increasing customer demand for personalized products and services.",
+  "output": "Advances in technology, and the emergence of new digital business models, are enabling the rapid digital transformation of businesses.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

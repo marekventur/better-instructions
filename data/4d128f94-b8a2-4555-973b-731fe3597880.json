@@ -1,0 +1,12 @@
+{
+  "id": "4d128f94-b8a2-4555-973b-731fe3597880",
+  "instruction": "Differentiate the given function.",
+  "input": "y = x^3 + x^2",
+  "output": "dy/dx = 3x^2 + 2x",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

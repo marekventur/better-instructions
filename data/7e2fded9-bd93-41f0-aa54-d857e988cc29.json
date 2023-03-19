@@ -1,0 +1,12 @@
+{
+  "id": "7e2fded9-bd93-41f0-aa54-d857e988cc29",
+  "instruction": "Create a query to find the population of the Australian state Queensland",
+  "input": "",
+  "output": "SELECT population FROM states WHERE name = 'Queensland';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

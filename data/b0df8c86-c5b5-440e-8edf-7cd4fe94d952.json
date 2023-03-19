@@ -1,0 +1,12 @@
+{
+  "id": "b0df8c86-c5b5-440e-8edf-7cd4fe94d952",
+  "instruction": "Predict the likely result of this event",
+  "input": "Two teams have equal chance of winning the game",
+  "output": "The game is likely to be a draw.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

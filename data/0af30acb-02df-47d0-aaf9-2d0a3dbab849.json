@@ -1,0 +1,12 @@
+{
+  "id": "0af30acb-02df-47d0-aaf9-2d0a3dbab849",
+  "instruction": "Design an algorithm for sorting a list of integers.",
+  "input": "",
+  "output": "The algorithm would start by looping through the list of integers and looking for the smallest integer. The algorithm would then place the smallest integer at the beginning of the list. It would then loop through the remaining integers and place the next smallest integer in the list. This process would be repeated until all of the integers were sorted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

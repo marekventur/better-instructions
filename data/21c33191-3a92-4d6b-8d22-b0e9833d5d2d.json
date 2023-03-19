@@ -1,0 +1,12 @@
+{
+  "id": "21c33191-3a92-4d6b-8d22-b0e9833d5d2d",
+  "instruction": "rewrite this sentence as a question",
+  "input": "My mom made me a delicious dinner.",
+  "output": "Did your mom make you a delicious dinner?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

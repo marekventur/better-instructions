@@ -1,0 +1,12 @@
+{
+  "id": "895e7d5e-f47a-4984-aae0-8940b5ea8210",
+  "instruction": "Change each of the adjectives in the given sentence to its antonym.",
+  "input": "The tall and friendly professor held a lengthy discussion.",
+  "output": "The short and unfriendly professor held a brief discussion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

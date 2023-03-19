@@ -1,0 +1,12 @@
+{
+  "id": "56d1aace-c8b0-4a2e-9a41-b486bdc83429",
+  "instruction": "Rewrite the two paragraphs so that the idea is expressed in less words without changing its meaning.",
+  "input": "The COVID-19 pandemic has had wide-ranging impacts on the economy and society, from the disruption of global supply chains to the loss of jobs. From a public health viewpoint, it has had a greater toll than any other pandemic in recent history, with over a million deaths worldwide.",
+  "output": "The COVID-19 pandemic has had a significant economic and societal impact, from global supply chain disruption to mass layoffs. In terms of public health, it's the worst pandemic in recent history, leading to more than a million deaths worldwide.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

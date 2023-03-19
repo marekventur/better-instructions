@@ -1,0 +1,12 @@
+{
+  "id": "df270ec2-86ea-426e-bdd9-47ea6da5de85",
+  "instruction": "Given a piece of code, find the number of lines in the code snippet. Output the number as an integer.",
+  "input": "def add(n1, n2):\n  return n1 + n2",
+  "output": "3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

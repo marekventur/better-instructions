@@ -1,0 +1,12 @@
+{
+  "id": "fee4daf8-8021-4e51-8a14-a51b03413e6b",
+  "instruction": "Transform the text into an article by adding subsections, rehashing parts of the text and rewriting using a different style.",
+  "input": "The new movie coming out this weekend is the sequel to the popular franchise.",
+  "output": "This Weekend's Must-See Sequel\n\nFans around the world are excitedly awaiting the release of the latest installment in the hit franchise. The new movie has been heavily anticipated because it takes up the story where the first one left off. \n\nPlot Summary\n\nThe movie picks up where the first one ended, but it adds new characters and higher stakes. The story follows the protagonists as they continue on their epic adventure. Fans are excited to see how the story will unfold and they want to find out if the original characters will make it out of the current predicament unscathed. \n\nCast and Crew\n\nThe movie stars the same talented actors from the original and many of the same crew members are returning to the production. This makes for a seamless connection between the first movie and the second one.\n\nRelease Date and Showings\n\nThe movie opens this weekend and it's being released in theaters and on streaming platforms. Screenings are expected to have high attendance with eager fans who can't wait to see what happens.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

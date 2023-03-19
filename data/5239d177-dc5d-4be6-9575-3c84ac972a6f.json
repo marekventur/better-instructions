@@ -1,0 +1,12 @@
+{
+  "id": "5239d177-dc5d-4be6-9575-3c84ac972a6f",
+  "instruction": "Given a list of tasks, state which task is the most important.",
+  "input": "1. Finish the report\n2. Get more funding\n3. Improve customer service",
+  "output": "Finish the report",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "73a71c85-e2e6-4a9c-8825-d2d51ec6a141",
+  "instruction": "Categorize the following as either a physical or chemical change",
+  "input": "Rusting of iron",
+  "output": "Rusting of iron is a chemical change.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

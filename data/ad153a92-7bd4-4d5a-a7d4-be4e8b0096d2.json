@@ -1,0 +1,12 @@
+{
+  "id": "ad153a92-7bd4-4d5a-a7d4-be4e8b0096d2",
+  "instruction": "Given a natural disaster, list possible safety procedures and advice.",
+  "input": "Natural Disaster: Flash Flood",
+  "output": "If a flash flood warning is issued, the following safety measures should be taken:\n1. Evacuate to higher ground immediately\n2. Stay away from rivers, streams, and creeks\n3. Find shelter in a sturdy building\n4. Follow the instructions of the local authorities \n5. Keep an emergency kit including bottled water, canned food, a flashlight, and extra batteries.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

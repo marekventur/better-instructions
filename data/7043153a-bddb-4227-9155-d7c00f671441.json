@@ -1,0 +1,12 @@
+{
+  "id": "7043153a-bddb-4227-9155-d7c00f671441",
+  "instruction": "Categorize the following article into one of these categories: sports, entertainment, or technology. Output one of the three categories.",
+  "input": "The US Women's National Team won their fourth consecutive Women's World Cup title in 2019, with a victory over the Netherlands in the final in France.",
+  "output": "Sports",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

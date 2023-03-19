@@ -1,0 +1,12 @@
+{
+  "id": "64e24486-2442-4757-89ba-7a3413c71949",
+  "instruction": "Remove any bias present in the given sentence.",
+  "input": "Women are more emotional than men.",
+  "output": "Individuals can express emotions differently.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "90953dd4-d752-49d9-bbfe-52a1dcbccb63",
+  "instruction": "Classify the following sample as either plagiarism or not plagiarism.",
+  "input": "The teacher said that students should write their essay in a creative way.\n\nI wrote my essay in an interesting way.",
+  "output": "Not plagiarism.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

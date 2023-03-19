@@ -1,0 +1,12 @@
+{
+  "id": "9573022d-6d79-4c93-99fb-28346c89e744",
+  "instruction": "Can you explain the concept of rock-paper-scissors?",
+  "input": "",
+  "output": "Rock-paper-scissors is a game where two players simultaneously choose from one of three possible outcomes - rock, paper, or scissors. Rock beats scissors, scissors beats paper, and paper beats rock. If both players choose the same outcome, the game is usually a draw. The game is a good way to settle disputes and make decisions, as there are equal chances for either player to win. It can also be a fun way to pass the time with friends.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

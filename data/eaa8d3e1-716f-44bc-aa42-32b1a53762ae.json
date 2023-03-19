@@ -1,0 +1,12 @@
+{
+  "id": "eaa8d3e1-716f-44bc-aa42-32b1a53762ae",
+  "instruction": "Sort the numbers 3, 7, and 9 in descending order",
+  "input": "3, 7, 9",
+  "output": "9, 7, 3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

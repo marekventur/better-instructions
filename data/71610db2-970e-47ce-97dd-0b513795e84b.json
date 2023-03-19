@@ -1,0 +1,12 @@
+{
+  "id": "71610db2-970e-47ce-97dd-0b513795e84b",
+  "instruction": "Add an extra paragraph to the given passage to make it more convincing.",
+  "input": "One of the biggest challenges facing our public education system is the growing achievement gap between students from different income levels. This problem is not just limited to the US, but exists in many countries around the world.",
+  "output": "Many of the disparities between high income and low income students can be attributed to unequal access to resources. For example, low-income students are less likely to have access to enrichment opportunities such as tutoring, private music or language lessons, or extracurricular activities. They also tend to have fewer books at home, family members who are less able to help with homework, and parents who have less time and money to devote to their children\u2019s education. These disparities in resources can create an environment where low-income students fall behind their peers, leading to the achievement gap we see today. It is critical for us to provide additional resources to these students in order to close the gap and give all children an equal chance to succeed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

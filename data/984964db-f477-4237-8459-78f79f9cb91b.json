@@ -1,0 +1,12 @@
+{
+  "id": "984964db-f477-4237-8459-78f79f9cb91b",
+  "instruction": "Categorize the following sentence as grammatical or ungrammatical?",
+  "input": "Sentence: He more smarter than me.",
+  "output": "Ungrammatical.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9d2da7cb-e624-4a7e-b4d8-a2eba81e24d4",
+  "instruction": "Given two items, evaluate which is better according to a certain criteria.",
+  "input": "Item1: Nintendo Switch Lite\nItem2: Xbox One S\nCriteria: Portability",
+  "output": "Nintendo Switch Lite is better according to the criteria of portability.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bb443510-2c9c-46c5-988a-3036c6634ded",
+  "instruction": "Compose a description of the following book.",
+  "input": "The Catcher in the Rye (by J.D. Salinger)",
+  "output": "The Catcher in the Rye is a classic coming-of-age novel from 1951 by American author J.D. Salinger. It follows the story of protagonist Holden Caulfield, a troubled teenager trying to make sense of the world around him. Holden's journey reveals many truths about the difficulties of growing up and the struggles of finding one's identity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

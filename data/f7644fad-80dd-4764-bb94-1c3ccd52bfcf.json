@@ -1,0 +1,12 @@
+{
+  "id": "f7644fad-80dd-4764-bb94-1c3ccd52bfcf",
+  "instruction": "Categorize the following sentence into either positive, neutral, or negative sentiment:\n\n\"I enjoy playing with my pet dog.\"",
+  "input": "Sentence: I enjoy playing with my pet dog.",
+  "output": "Positive sentiment",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

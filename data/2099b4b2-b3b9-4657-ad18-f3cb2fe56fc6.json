@@ -1,0 +1,12 @@
+{
+  "id": "2099b4b2-b3b9-4657-ad18-f3cb2fe56fc6",
+  "instruction": "Given a sentence, parse it and generate a summary.",
+  "input": "Sentence: The seemingly simple task of boiling eggs can be surprisingly challenging.",
+  "output": "Boiling eggs is not as easy it seems.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

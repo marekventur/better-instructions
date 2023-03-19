@@ -1,0 +1,12 @@
+{
+  "id": "c6fc3f59-a989-4353-a4f1-a00af935ffc5",
+  "instruction": "Create a function to find the maximum number from the given list.",
+  "input": "[2, 7, 11, 4]",
+  "output": "def find_max(lst):\n    return max(lst)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

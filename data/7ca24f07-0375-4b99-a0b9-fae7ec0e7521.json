@@ -1,0 +1,12 @@
+{
+  "id": "7ca24f07-0375-4b99-a0b9-fae7ec0e7521",
+  "instruction": "Given a list of ingredients and a recipe, suggest a pairing for the dish.",
+  "input": "Recipe: Teriyaki Salmon\nIngredients:  Teriyaki Sauce, Salmon, Green Beans",
+  "output": "A perfect pairing for this dish is steamed jasmine rice or soba noodles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

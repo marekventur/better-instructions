@@ -1,0 +1,12 @@
+{
+  "id": "b248f6fb-9247-46f1-a58d-8baa5775d6f6",
+  "instruction": "Outline the events leading up to the given historical incident.",
+  "input": "The breaking of the Enigma code by the Allies during World War II.",
+  "output": "- Early 1930s: The Enigma machine is developed as a device to encrypt and decrypt messages for the German military.\n\n- Early 1940s: German forces make use of Enigma machines to encode their communications during WWII.\n\n- Mid-1940s: The Allies attempt to break the Enigma machine code by constructing a bombe called \"Colossus\" in Britain. \n\n- Late 1940s: Working with Polish cryptologists, the Allies eventually succeeded in breaking the Enigma code and learn the Germans' plans. \n\n- 1945: The Allies use this knowledge to significantly turn the tide of the war.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

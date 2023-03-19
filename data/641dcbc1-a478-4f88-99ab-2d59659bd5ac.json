@@ -1,0 +1,12 @@
+{
+  "id": "641dcbc1-a478-4f88-99ab-2d59659bd5ac",
+  "instruction": "Choose the correct verb tense.",
+  "input": "The teacher (teaches, taught) the lesson.",
+  "output": "The teacher teaches the lesson.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

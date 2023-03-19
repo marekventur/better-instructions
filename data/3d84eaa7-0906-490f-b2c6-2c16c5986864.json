@@ -1,0 +1,12 @@
+{
+  "id": "3d84eaa7-0906-490f-b2c6-2c16c5986864",
+  "instruction": "Given a list of cities, create a 3-day itinerary.",
+  "input": "Paris, Rome, Madrid",
+  "output": "Day 1: \n* Start in Paris and explore the city, visiting iconic landmarks and attractions such as the Eiffel Tower, Arc de Triomphe, and the Louvre. \n\nDay 2: \n* Take a train from Paris to Rome and spend the day taking in the ancient sites, including the Colosseum and the Sistine Chapel. \n\nDay 3: \n* Take a train from Rome to Madrid and explore the city, visiting sights like the Royal Palace, Plaza Mayor, and the Prado Museum.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2a41160b-9c28-42e5-bab5-bfd29061f825",
+  "instruction": "Create an analogy between the two sentences",
+  "input": "A tree is to a forest as a book is to a___",
+  "output": "A book is to a library as a tree is to a forest.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

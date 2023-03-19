@@ -1,0 +1,12 @@
+{
+  "id": "5bf2a0de-41f1-4159-98a8-2c449551ad84",
+  "instruction": "Create a list of items to check when inspecting a used car.",
+  "input": "",
+  "output": "When inspecting a used car, be sure to check: \n\n- The car's exterior condition\u2014including paint, rust, and dents \n- The interior\u2014including upholstery, flooring, and air conditioning \n- The engine\u2014including its condition, oil, fluids, and belts \n- The tires\u2014including tread wear and thickness \n- The brakes\u2014including overall condition and fluid levels \n- The suspension system\u2014including shocks and struts\n- Any mechanical or electrical functions such as air conditioning, headlights, and windshield wipers \n- The vehicle history and documentation",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

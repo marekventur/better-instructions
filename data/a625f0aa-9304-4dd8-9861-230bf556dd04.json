@@ -1,0 +1,12 @@
+{
+  "id": "a625f0aa-9304-4dd8-9861-230bf556dd04",
+  "instruction": "Generate a quiz with 5 questions to test knowledge about the American Revolution.",
+  "input": "<no input>",
+  "output": "1. Who wrote the Declaration of Independence? \nA. John Adams\nB. Benjamin Franklin\nC. George Washington\nD. Thomas Jefferson\n\n2. Who led the Continental Army during the American Revolution? \nA. John Adams\nB. George Washington\nC. Thomas Jefferson\nD. Benjamin Franklin\n\n3. In what year did the American Revolution begin? \nA. 1764\nB. 1766\nC. 1776\nD. 1783\n\n4. What battle is considered the turning point of the American Revolution? \nA. Bunker Hill\nB. Yorktown\nC. Saratoga\nD. Concord\n\n5. What document declared the United States of America were no longer British Colonies? \nA. Treaty of Paris\nB. Declaration of Independence\nC. Articles of Confederation\nD. Constitution of the United States",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

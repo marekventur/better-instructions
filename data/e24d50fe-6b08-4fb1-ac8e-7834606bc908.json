@@ -1,0 +1,12 @@
+{
+  "id": "e24d50fe-6b08-4fb1-ac8e-7834606bc908",
+  "instruction": "Detect the sentiment of the sentence.",
+  "input": "I love cleaning my room.",
+  "output": "Positive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

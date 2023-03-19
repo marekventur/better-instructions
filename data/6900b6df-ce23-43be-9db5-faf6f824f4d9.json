@@ -1,0 +1,12 @@
+{
+  "id": "6900b6df-ce23-43be-9db5-faf6f824f4d9",
+  "instruction": "Join two separate sentences into a compound sentence.",
+  "input": "He was late. He missed the meeting.",
+  "output": "He was late and missed the meeting.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

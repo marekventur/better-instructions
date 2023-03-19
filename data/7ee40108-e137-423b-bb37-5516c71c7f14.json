@@ -1,0 +1,12 @@
+{
+  "id": "7ee40108-e137-423b-bb37-5516c71c7f14",
+  "instruction": "Rearrange the words in the sentence to form a question.",
+  "input": "Reading is difficult.",
+  "output": "Is reading difficult?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

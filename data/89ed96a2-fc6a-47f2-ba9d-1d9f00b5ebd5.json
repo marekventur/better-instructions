@@ -1,0 +1,12 @@
+{
+  "id": "89ed96a2-fc6a-47f2-ba9d-1d9f00b5ebd5",
+  "instruction": "What is the Big O notation for the following algorithm?",
+  "input": "For loop with n elements",
+  "output": "O(n)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

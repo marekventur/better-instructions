@@ -1,0 +1,12 @@
+{
+  "id": "9f90ff23-568e-4626-83f1-cd99de18e554",
+  "instruction": "Draft a letter of appreciation for the given recipient.",
+  "input": "Mr. John Smith",
+  "output": "Dear Mr. Smith, \n\nI would like to express my heartfelt appreciation for all that you have done for us in the past. Your efforts have contributed significantly to our success and I could not have asked for a better partner. Your wisdom and guidance were invaluable and I am thankful for your dedication and hard work.\n\nThank you once again for your help and support.\n\nSincerely,\n[Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

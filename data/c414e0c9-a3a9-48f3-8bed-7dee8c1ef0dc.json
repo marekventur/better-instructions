@@ -1,0 +1,12 @@
+{
+  "id": "c414e0c9-a3a9-48f3-8bed-7dee8c1ef0dc",
+  "instruction": "Given a list of numbers in increasing order, insert a new number such that the new list is still in increasing order.",
+  "input": "List: [1, 4, 6, 7], New number: 5",
+  "output": "[1, 4, 5, 6, 7]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

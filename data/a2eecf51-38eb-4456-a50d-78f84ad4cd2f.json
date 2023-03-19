@@ -1,0 +1,12 @@
+{
+  "id": "a2eecf51-38eb-4456-a50d-78f84ad4cd2f",
+  "instruction": "Generate a new cocktail recipe.",
+  "input": "",
+  "output": "The Golden Starburst Cocktail: \n- 1 ounce vodka \n- 1 ounce pineapple juice\n- 1/2 ounce blue curacao\n- 1/2 ounce lemon juice\n- Splash of Grenadine\n\nInstructions: \n- Fill a shaker with ice cubes. \n- Pour the vodka, pineapple juice, blue curacao, and lemon juice into the shaker. \n- Shake vigorously for 15-20 seconds. \n- Strain the mixture into a chilled martini glass. \n- Top with a splash of Grenadine. \n- Garnish with a lemon or pineapple wedge.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

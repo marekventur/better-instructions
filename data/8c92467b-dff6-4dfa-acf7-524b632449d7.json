@@ -1,0 +1,12 @@
+{
+  "id": "8c92467b-dff6-4dfa-acf7-524b632449d7",
+  "instruction": "Design a system for tracking the progress of an individual\u2019s physical exercise routine.",
+  "input": "",
+  "output": "The system should allow the individual to track their progress in a variety of categories such as cardiovascular health, strength training, and flexibility. They should be able to track the number of reps or sets they have completed, the amount of weight they are lifting, and the amount of time they are exercising. The system should also provide statistical charts and graphs that can be viewed to gain insight into their overall progress.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

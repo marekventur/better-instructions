@@ -1,0 +1,12 @@
+{
+  "id": "508bef60-b091-40d7-8bbf-da7c21c6a933",
+  "instruction": "Compare and contrast the differences between supervised and unsupervised machine learning.",
+  "input": "",
+  "output": "Supervised machine learning uses labeled data to train the model and then uses the trained model to make predictions on unseen data. Unsupervised machine learning uses unlabeled data to detect patterns and clusters and make predictions based on those patterns and clusters. The supervised machine learning model is more accurate as it uses labeled data to train the model. However, unsupervised machine learning is more resource-efficient and can tackle more complex tasks as it does not rely on input labels.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

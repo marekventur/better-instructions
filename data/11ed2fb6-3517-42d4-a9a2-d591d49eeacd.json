@@ -1,0 +1,12 @@
+{
+  "id": "11ed2fb6-3517-42d4-a9a2-d591d49eeacd",
+  "instruction": "Create a script which can calculate the total sum of a set of numbers.",
+  "input": "{10, 20, 30, 40}",
+  "output": "sum = 100 \n \n# Calculate the total sum\n \ntotal = 0\n \nfor x in [10, 20, 30, 40]:\n    total += x\n \nprint(total)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

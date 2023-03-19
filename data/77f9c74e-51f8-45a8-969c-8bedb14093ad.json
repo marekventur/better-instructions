@@ -1,0 +1,12 @@
+{
+  "id": "77f9c74e-51f8-45a8-969c-8bedb14093ad",
+  "instruction": "Classify the three programming languages",
+  "input": "Java, C++, Python",
+  "output": "Java is a general-purpose, object-oriented programming language. C++ is a compiled, system-oriented programming language. Python is a high-level interpreted language that is both powerful and readable.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

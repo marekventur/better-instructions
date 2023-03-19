@@ -1,0 +1,12 @@
+{
+  "id": "bc92eb6e-b539-443b-8eb5-efffe690aeff",
+  "instruction": "Replace all the numeric values in the text to its corresponding word form.",
+  "input": "My phone number is 888-123-4567 and I made a payment of $1000.",
+  "output": "My phone number is eight eight eight-one two three-four five six seven and I made a payment of one thousand dollars.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

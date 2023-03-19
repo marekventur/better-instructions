@@ -1,0 +1,12 @@
+{
+  "id": "44fcecb5-f9df-431d-af53-d1f2e75941a7",
+  "instruction": "Create a following up email.",
+  "input": "Subject: A $3.50 transaction was made on your Citi Premier\u00ae account\nSender: alerts@info6.citi.com\nContent: Hi, XXX. The transaction made on your Citi Premier\u00ae account exceeded $0.00. The transaction details are listed below.\nAmount: $3.50\nCard Ending In\n6211\nMerchant\nBarron Restaurant Seattle\nDate\n05/12/2021\nTime\n03:29 PM ET",
+  "output": "Dear XXX, \n\nThank you for letting us know about the transaction made on your Citi Premier\u00ae account. We have reviewed the information and confirmed that the amount was $3.50. \n \nIf you have any further questions or concerns regarding this transaction or your account, please do not hesitate to let us know. We are here to help ensure your peace of mind.\n \nBest wishes, \nCiti Team",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

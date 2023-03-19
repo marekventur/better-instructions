@@ -1,0 +1,12 @@
+{
+  "id": "7e8cfba9-cd48-407c-a5d8-9c2136d9771a",
+  "instruction": "Transform the following 3 sentences into one single sentence using the imperative form.",
+  "input": "The snow is falling\nThe wind is blowing\nThe trees are shaking",
+  "output": "Let the snow, wind and trees move together in one rhythm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3a5c09e5-68e2-4e9a-9bdf-574dff4d3bd4",
+  "instruction": "Give me a list of all the major cities in the given country.",
+  "input": "Norway",
+  "output": "Oslo, Bergen, Trondheim, Stavanger, Drammen, Fredrikstad, Troms\u00f8, Sandefjord, Kristiansand, \u00c5lesund.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

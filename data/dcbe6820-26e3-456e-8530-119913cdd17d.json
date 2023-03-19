@@ -1,0 +1,12 @@
+{
+  "id": "dcbe6820-26e3-456e-8530-119913cdd17d",
+  "instruction": "Identify the main event from the given story.",
+  "input": "John was walking in the park when he saw a dragonfly perching on a tree. He was quite amazed by the colors that lit up its wings and stared for a few minutes until it flew away.",
+  "output": "John seeing the dragonfly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

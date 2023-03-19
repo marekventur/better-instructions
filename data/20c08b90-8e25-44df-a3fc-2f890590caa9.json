@@ -1,0 +1,12 @@
+{
+  "id": "20c08b90-8e25-44df-a3fc-2f890590caa9",
+  "instruction": "Give a customer feedback on their purchase.\nOutput should rate the experience out of 10",
+  "input": "Their purchase of a laptop",
+  "output": "I am glad to hear that you purchased a laptop. Overall, I would rate the experience 10 out of 10. The laptop should be very useful to you and serve as a great tool to make your life easier.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

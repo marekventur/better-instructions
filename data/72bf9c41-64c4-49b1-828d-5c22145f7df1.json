@@ -1,0 +1,12 @@
+{
+  "id": "72bf9c41-64c4-49b1-828d-5c22145f7df1",
+  "instruction": "Construct a recipe for a unique type of salad",
+  "input": "Mango",
+  "output": "Mango Chicken Salad is a delicious and unique salad that combines sweet, juicy mangoes with savory chicken. Begin by marinating diced chicken in a marinade made of olive oil, garlic, salt, and pepper for 10 minutes. Then, heat a pan over high heat, and saut\u00e9 the chicken until it is cooked through, about 8 minutes. In a large bowl, combine diced mango, cucumber, red onion, fresh cilantro, and diced jalapeno. Then, top with the cooked chicken and a dressing of your choice, such as lime and honey. Serve over a bed of lettuce or spinach, and enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

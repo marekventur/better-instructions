@@ -1,0 +1,12 @@
+{
+  "id": "bd40f321-46dc-4480-a083-1f30bc3174bc",
+  "instruction": "Schedule a meeting for 10 AM tomorrow.",
+  "input": "I have a meeting with the sales team tomorrow.",
+  "output": "OK, I have scheduled a meeting for 10 AM tomorrow with the sales team.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

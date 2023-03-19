@@ -1,0 +1,12 @@
+{
+  "id": "83aad03e-3a00-45a6-9b89-c0a76593dae5",
+  "instruction": "Analyze similarities and differences between two arguments.",
+  "input": "Argument A: We should tax the wealthy to help fund social programs.\nArgument B: All citizens should pay the same amount in taxes regardless of their income.",
+  "output": "Argument A proposes that higher taxes should be applied to the wealthy to fund social programs, while Argument B suggests that taxes should remain equal for all citizens regardless of their income. Both arguments focus on taxation, but from different perspectives. Argument A emphasizes the need for more financial support for social programs, while Argument B advocates for a more equitable taxation system.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b06ef949-924a-464f-b84f-2526de8108fd",
+  "instruction": "Classify this text as violent, non-violent, or neutral.",
+  "input": "The hurricane caused massive destruction to the city",
+  "output": "Neutral. The text does not have any references to violence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ed78b23b-64eb-4e42-9c8f-6e67754be4c3",
+  "instruction": "Use the 5 Ws to describe the example below.",
+  "input": "A student studying for a final exam.",
+  "output": "Who: A student\nWhat: Studying for a final exam\nWhen: Before the exam\nWhere: At home or at school\nWhy: To prepare for the exam",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

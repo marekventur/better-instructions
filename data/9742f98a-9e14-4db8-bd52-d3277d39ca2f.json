@@ -1,0 +1,12 @@
+{
+  "id": "9742f98a-9e14-4db8-bd52-d3277d39ca2f",
+  "instruction": "Variable x is defined as \u201c4x + 2y = 10\u201d. Find the value of x.",
+  "input": "",
+  "output": "The value of x is 2. To find the value, simplify the equation by subtracting 2y from both sides, giving 4x = 10; dividing both sides by 4, giving x = 2/4, which is equal to 2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

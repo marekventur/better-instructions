@@ -1,0 +1,12 @@
+{
+  "id": "3014f1db-7770-4b87-8713-8d6b450f9677",
+  "instruction": "Match each city with its state.",
+  "input": "- Chicago, IL\n- Sacramento, CA\n- Wichita, KS",
+  "output": "Chicago - Illinois, \nSacramento - California,\nWichita - Kansas",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

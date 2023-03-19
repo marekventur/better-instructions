@@ -1,0 +1,12 @@
+{
+  "id": "27997e81-d319-458c-8a2d-c58ab47d55dd",
+  "instruction": "Given a dataset, perform k-means clustering.",
+  "input": "",
+  "output": "Performed k-means clustering on the dataset with k=2 clusters and plotted the clusters using appropriate visualization techniques.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

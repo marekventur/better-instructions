@@ -1,0 +1,12 @@
+{
+  "id": "ed8465fa-1118-41b4-8902-4c78edcd3bf1",
+  "instruction": "Automatically classify each sentence below as either support service or customer issue.",
+  "input": "Sentence 1: How can I reset my password?\nSentence 2: Our team is available 24/7",
+  "output": "Sentence 1: Customer issue \nSentence 2: Support service",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

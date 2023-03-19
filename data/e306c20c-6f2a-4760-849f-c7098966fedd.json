@@ -1,0 +1,12 @@
+{
+  "id": "e306c20c-6f2a-4760-849f-c7098966fedd",
+  "instruction": "Assemble the given parts into a complex sentence.",
+  "input": "He ride his bike/ through the park",
+  "output": "He rode his bike through the park.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

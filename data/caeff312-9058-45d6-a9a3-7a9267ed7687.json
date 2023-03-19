@@ -1,0 +1,12 @@
+{
+  "id": "caeff312-9058-45d6-a9a3-7a9267ed7687",
+  "instruction": "Rearrange the sentences to make a well structured paragraph.",
+  "input": "However, potential conflicts must be taken into consideration. It is important to create a positive work environment. To build trust between management and employees.",
+  "output": "To build trust between management and employees, it is important to create a positive work environment. However, potential conflicts must be taken into consideration.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "72c72e9d-2022-412f-a13b-b75af90f2570",
+  "instruction": "Extrapolate the trends based on the data.",
+  "input": "[Data table]",
+  "output": "Based on the data, it appears that the trend is that the number of online shoppers has increased steadily over the past five years. This rising trend could continue, indicating an increasing percentage of people who shop online in the future. Furthermore, the data implies that technology is an important factor in driving this change, as the percentage of people using mobile devices to shop online has significantly increased over the past few years.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

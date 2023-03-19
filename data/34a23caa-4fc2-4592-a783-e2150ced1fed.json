@@ -1,0 +1,12 @@
+{
+  "id": "34a23caa-4fc2-4592-a783-e2150ced1fed",
+  "instruction": "Prove the associative law of addition for real numbers.",
+  "input": "",
+  "output": "Let a, b and c be real numbers.\n\n(a + b) + c = a + (b + c) \n\nWe will prove this using mathematical induction.\n\nBase Case:\n\nWhen n = 2, (a + b) + c = a + (b + c)\n\nLet (a + b) = x \u21d2 a + b + c = x + c \u21d2 (a + b) + c = a + (b + c) \n\nInductive Step:\n\nAssume that (a + b) + c = a + (b + c) for n = k, where k \u2265 2.\n\nLet (a + b) = x \u21d2 a + b + c = x + c \n\nLet (x + c) = y \u21d2 (a + b) + c = y \n\nSimilarly, a + (b + c) = y  \u21d2 (a + b) + c = a + (b + c)\n\nTherefore, for all real numbers a, b and c, (a + b) + c = a + (b + c).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1fc5dd1c-6699-432a-a9d3-4be27d514782",
+  "instruction": "Explain the concept of Boolean logic.",
+  "input": "",
+  "output": "Boolean logic is a type of mathematical logic that deals with the relationship between two values: true and false. In Boolean logic, the variables are assigned true or false values, and the operations (AND, OR, NOT) are used to create logical statements which can yield a resulting truth value.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

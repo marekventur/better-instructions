@@ -1,0 +1,12 @@
+{
+  "id": "7fb87d46-28aa-4527-a060-41aab7d573fe",
+  "instruction": "Write a function that finds the middle element of an array.",
+  "input": "[1, 4, 6, 7, 10, 11]",
+  "output": "def middle_element(arr):\n    # Find the total length of the array\n    array_length = len(arr) \n    # Initialize middle index of the array \n    middle_index = int((array_length-1)/2) \n    # Return the middle index of the array\n    return arr[middle_index]\n        \n# Testing\narr = [1, 4, 6, 7, 10, 11]\nprint(middle_element(arr)) \n# Output: 7",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

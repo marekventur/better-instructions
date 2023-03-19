@@ -1,0 +1,12 @@
+{
+  "id": "16ae5446-3a96-43ef-8b39-cd8f3fa08675",
+  "instruction": "Identify the word of the sentence with the wrong spelling.",
+  "input": "The appilcation was sucessful.",
+  "output": "appilcation",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

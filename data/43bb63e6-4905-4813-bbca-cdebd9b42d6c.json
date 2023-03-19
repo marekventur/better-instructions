@@ -1,0 +1,12 @@
+{
+  "id": "43bb63e6-4905-4813-bbca-cdebd9b42d6c",
+  "instruction": "Summarize the following article in less than 5 sentences: \nhttps://www.nasa.gov/mission_pages/station/research/news/cellular",
+  "input": "<Link to article>",
+  "output": "NASA has launched an experiment aboard the International Space Station to study how cells respond to radiation and microgravity. The experiment, known as Cellular Dynamics, will use human stem cells to study cell division and genetic changes that can affect astronaut health. The experiment aims to gain an understanding of the fundamental processes of biology and provide new insight into disease development and treatments. This research will help NASA plan more effective long-duration space missions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

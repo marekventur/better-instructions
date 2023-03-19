@@ -1,0 +1,12 @@
+{
+  "id": "d29e2335-11f9-439e-854d-d8620de66e2e",
+  "instruction": "Compare the two given characters based on their qualities.",
+  "input": "Characters: Superman and Lex Luthor",
+  "output": "Superman is a superhero whose powers are driven by his heart and a deep instinct to save the world. His personality is characterized by a strong moral code, selflessness, and a positive attitude. On the other hand, Lex Luthor is a villainous mastermind whose actions are driven by ambition and greed. Although he is brilliant, he is relentless in his pursuit of his own selfish goals, often manipulated or deceiving those around him in order to accomplish his own objectives.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

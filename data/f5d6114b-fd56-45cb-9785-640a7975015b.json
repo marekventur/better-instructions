@@ -1,0 +1,12 @@
+{
+  "id": "f5d6114b-fd56-45cb-9785-640a7975015b",
+  "instruction": "Compare satellite navigation and Global Positioning System (GPS)",
+  "input": "",
+  "output": "Satellite navigation and Global Positioning System (GPS) are both navigation systems that use data from orbiting satellites. GPS is the most widely used navigation system, as it is accurate to within a few meters. On the other hand, satellite navigation is becoming increasingly available and can provide real-time navigation assistance. It is generally not as accurate as GPS, but is still adequate for everyday navigation applications. Both systems receive signals from at least three orbiting satellites to triangulate their location.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

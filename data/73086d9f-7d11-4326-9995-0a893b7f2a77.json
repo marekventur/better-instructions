@@ -1,0 +1,12 @@
+{
+  "id": "73086d9f-7d11-4326-9995-0a893b7f2a77",
+  "instruction": "Order these numbers from highest to lowest.",
+  "input": "2, 8, 5, 1",
+  "output": "8, 5, 2, 1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

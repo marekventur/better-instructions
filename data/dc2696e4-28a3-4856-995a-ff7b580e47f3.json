@@ -1,0 +1,12 @@
+{
+  "id": "dc2696e4-28a3-4856-995a-ff7b580e47f3",
+  "instruction": "Identify the type of triangle defined by two angles of 30 degrees and two angles of 60 degrees.",
+  "input": "",
+  "output": "This type of triangle is an equilateral triangle. It has three sides of equal length and all three of the interior angles measure 60 degrees.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

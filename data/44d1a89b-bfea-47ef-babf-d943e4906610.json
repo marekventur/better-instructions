@@ -1,0 +1,12 @@
+{
+  "id": "44d1a89b-bfea-47ef-babf-d943e4906610",
+  "instruction": "Write an algorithm for printing out all Fibonacci numbers up to 100.",
+  "input": "",
+  "output": "//Fibonacci sequence algorithm \n \n//Set up two variables to track the current and last number\nvar current = 0; \nvar last = 1; \n\n//Loop from 0 to 100\nfor (var i = 0; i < 100; i++) { \n \n  //Calculate the next Fibonacci number as the sum of the two variables \n  var temp = current + last; \n \n  //Print out the current number \n  console.log(current); \n \n  //Rebind the last number to the current number \n  last = current;  \n  \n  //Rebind the current number to the value stored in the temp variable \n  current = temp; \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

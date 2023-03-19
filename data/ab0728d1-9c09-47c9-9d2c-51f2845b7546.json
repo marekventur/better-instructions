@@ -1,0 +1,12 @@
+{
+  "id": "ab0728d1-9c09-47c9-9d2c-51f2845b7546",
+  "instruction": "Explain the difference between nonlinear regression and linear regression.",
+  "input": "",
+  "output": "The main difference between linear and nonlinear regression is that linear regression models assume a linear relationship between the input variables(x) and the target variable(y) while nonlinear regression models allow the relationship to be nonlinear. Linear regression models estimate linear coefficients between the variables that represent the relationships between the variables and can predict the target variable. Nonlinear regression models estimate nonlinear coefficients and are used to capture more complex relationships between the variables.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

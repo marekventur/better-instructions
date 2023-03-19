@@ -1,0 +1,12 @@
+{
+  "id": "1ab2ed9e-26ec-4f12-b915-cb2721808a25",
+  "instruction": "Using the data given, build a https://www.cnn.com/",
+  "input": "CNN News Summary: \"Today, the White House announced a new action against the Syrian government for their use of chemical weapons.\"",
+  "output": "<html>\n    <head>\n        <title>White House Announces Action Against Syria</title>\n    </head>\n    <body> \n     <h1>White House Announces Action Against Syria For Chemical Weapon Use</h1>\n     <p>Today, the White House announced a new action against the Syrian government for their use of chemical weapons. It is the latest in a series of moves meant to pressure Syria to abandon its alleged use of chemical weapons. The US has imposed economic sanctions, urged the International Criminal Court to investigate, and pushed for political dialogues.  It is unclear what the new action will entail. \n    </p>\n    </body>\n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

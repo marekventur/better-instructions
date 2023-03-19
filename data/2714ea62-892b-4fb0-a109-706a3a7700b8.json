@@ -1,0 +1,12 @@
+{
+  "id": "2714ea62-892b-4fb0-a109-706a3a7700b8",
+  "instruction": "Classify the following sentence as a statement or a question.\n\nHumans are mammals.",
+  "input": "",
+  "output": "Statement.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

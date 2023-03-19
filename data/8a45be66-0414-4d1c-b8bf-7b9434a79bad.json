@@ -1,0 +1,12 @@
+{
+  "id": "8a45be66-0414-4d1c-b8bf-7b9434a79bad",
+  "instruction": "Find the formula to calculate total cost.",
+  "input": "Total cost = quantity x unit cost",
+  "output": "The formula to calculate total cost is Total Cost = Quantity x Unit Cost.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

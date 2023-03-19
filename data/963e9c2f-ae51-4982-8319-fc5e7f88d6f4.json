@@ -1,0 +1,12 @@
+{
+  "id": "963e9c2f-ae51-4982-8319-fc5e7f88d6f4",
+  "instruction": "Remove all adjectives and adverbs from the following sentence:\n\n\"The incredibly awkward and shy student asked a meek question in the classroom.\"",
+  "input": "",
+  "output": "The student asked a question in the classroom.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "19bb6e71-7ffe-4991-98a1-f361e48ed6b9",
+  "instruction": "Create a CSS style.",
+  "input": "",
+  "output": "body {\n  background-color: #000000;\n  font-family: 'Open Sans', sans-serif;\n  font-size: 16px;\n  color: #ffffff;\n  line-height: 1.5;\n  padding: 25px;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

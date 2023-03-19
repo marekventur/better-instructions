@@ -1,0 +1,12 @@
+{
+  "id": "656d77db-fae1-49a9-9d86-c57d88d71f24",
+  "instruction": "Analyze the story and determine if it has a moral.",
+  "input": "Once upon a time, there was a magical kingdom. Everyone in the kingdom was happy and they all lived in harmony. But one day, the magical kingdom was attacked by a huge monster. The people of the kingdom were scared and ran away, but one brave knight stayed and fought the monster with his sword.",
+  "output": "Yes, the story has a moral. The moral of the story is that courage and bravery can conquer all fears, no matter how great the challenge.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

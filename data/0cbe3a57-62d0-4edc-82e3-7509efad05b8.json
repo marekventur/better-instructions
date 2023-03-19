@@ -1,0 +1,12 @@
+{
+  "id": "0cbe3a57-62d0-4edc-82e3-7509efad05b8",
+  "instruction": "Develop a script that prints out the Fibonacci sequence.",
+  "input": "",
+  "output": "def fibonacci_sequence(n): \n    # set initial values \n    a = 0 \n    b = 1  \n    if n == 0: \n        return a \n    elif n == 1:\n        return b \n    else: \n        # loop over the sequence \n        for i in range(2,n): \n            c = a + b \n            a = b \n            b = c \n        return b \n  \n# Print the sequence \nfor i in range(10): \n    print(fibonacci_sequence(i), end=\" \") \n\n# Output: 0 1 1 2 3 5 8 13 21 34",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

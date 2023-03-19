@@ -1,0 +1,12 @@
+{
+  "id": "17e138f5-f23f-49eb-83df-808d033c806d",
+  "instruction": "Rank the following tasks by their importance.",
+  "input": "Send monthly customer satisfaction survey.\nDeliver customer feedback to relevant departments.\nRespond to customer queries quickly and accurately.",
+  "output": "The tasks should be ranked as follows:\n1. Respond to customer queries quickly and accurately.\n2. Deliver customer feedback to relevant departments.\n3. Send monthly customer satisfaction survey.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

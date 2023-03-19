@@ -1,0 +1,12 @@
+{
+  "id": "7394d993-1036-483d-b02c-0b64135fde42",
+  "instruction": "What is the difference between mutable and immutable objects?",
+  "input": "",
+  "output": "Mutable objects are objects that can be changed. That is, the object's state can be modified after it is created. Examples of mutable objects are lists, dictionaries, and sets. Immutable objects, on the other hand, cannot be changed. Once an object is created, its state cannot be modified. Examples of immutable objects are strings and numbers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

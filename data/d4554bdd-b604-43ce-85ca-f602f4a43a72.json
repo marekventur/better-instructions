@@ -1,0 +1,12 @@
+{
+  "id": "d4554bdd-b604-43ce-85ca-f602f4a43a72",
+  "instruction": "Explain what is special relativity.",
+  "input": "",
+  "output": "Special relativity is a theory of physics proposed by Albert Einstein in 1905 that changes how we think about space and time. It states that space and time are relative to the observer and not absolute, which means that the measurements of length and time depend on an individual's reference frame. This means that the speed of light no longer depends on the movement of the observer, but is a constant and absolute speed that applies in all cases, regardless of the observer's speed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d80728d6-a984-46bf-91c6-deac87150271",
+  "instruction": "Generate a list of 5 things a student should keep in mind when studying for an exam.",
+  "input": "",
+  "output": "1. Start studying early and pace yourself so you don't feel overwhelmed.\n2. Break down the material into manageable chunks and focus on understanding it thoroughly.\n3. Take regular breaks to allow your mind to rest and recharge.\n4. Create a study plan so you can make the most of your time and stay on track.\n5. Make sure to practice plenty of exercises to test your knowledge.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

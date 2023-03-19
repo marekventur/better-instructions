@@ -1,0 +1,12 @@
+{
+  "id": "fe901fb5-842f-4be9-9361-8ad3bf22a808",
+  "instruction": "Design an algorithm to print out the grid pattern given below.",
+  "input": "Given grid pattern is: \n\n* * * * *\n* * * * *\n* * * * *\n* * * * *",
+  "output": "<noinput> \n\nThe algorithm to print the grid pattern can be implemented as follows:\n\n1. Set the number of columns and rows.\n2. Create a loop to iterate through each row.\n3. Inside the loop, create another loop to iterate through each column.\n4. Inside the column loop, print out a star.\n5. After printing a star, move to the next column in the row.\n6. After the end of the column loop, move to the next row. \n7. Repeat the above steps until all the rows and columns are printed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

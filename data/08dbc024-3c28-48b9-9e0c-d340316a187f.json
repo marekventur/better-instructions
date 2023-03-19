@@ -1,0 +1,12 @@
+{
+  "id": "08dbc024-3c28-48b9-9e0c-d340316a187f",
+  "instruction": "Summarise the text below in two sentences or less.",
+  "input": "The modern oil industry began in Romania in 1857 when a refining process known as shale oil was developed by a Wallachian engineer named Petrache Poenaru. Prior to the 18th century, wooden drills were the main method for producing oil.",
+  "output": "Petrache Poenaru developed the refining process of shale oil in 1857 which marked the beginning of the modern oil industry. Previously, wooden drills were used to produce oil.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

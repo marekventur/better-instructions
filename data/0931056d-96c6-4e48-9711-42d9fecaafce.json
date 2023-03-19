@@ -1,0 +1,12 @@
+{
+  "id": "0931056d-96c6-4e48-9711-42d9fecaafce",
+  "instruction": "Generate a sample HTML table.",
+  "input": "",
+  "output": "<table>\n    <tr>\n        <th>Name</th>\n        <th>Age</th>\n        <th>City</th>\n    </tr>\n    <tr>\n        <td>John</td>\n        <td>25</td>\n        <td>New York</td>\n    </tr>\n    <tr>\n        <td>Jane</td>\n        <td>23</td>\n        <td>Los Angeles</td>\n    </tr>\n    <tr>\n        <td>Adam</td>\n        <td>21</td>\n        <td>Chicago</td>\n    </tr>\n</table>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

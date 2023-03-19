@@ -1,0 +1,12 @@
+{
+  "id": "cc663e65-0b9e-4d02-9476-94cbbd785848",
+  "instruction": "Remove all the vowels from this sentence.",
+  "input": "The quick brown fox jumps over the lazy dog.",
+  "output": "Th qck brwn fx jmps vr th lzy dg.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

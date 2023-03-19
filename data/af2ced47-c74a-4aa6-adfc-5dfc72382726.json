@@ -1,0 +1,12 @@
+{
+  "id": "af2ced47-c74a-4aa6-adfc-5dfc72382726",
+  "instruction": "Describe the flavor profile of a certain type of wine.",
+  "input": "Zinfandel",
+  "output": "Zinfandel is a medium-bodied red wine with a rich, robust flavor profile. It has aromas of blackberry, cherry, and raspberry, as well as hints of pepper, cloves, and anise. On the palate, it is plush and full-bodied with flavors of jammy fruits, sweet spices, and a juicy finish. It pairs well with food that has bold flavors, such as barbecued meats, grilled vegetables, and sharp cheese.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

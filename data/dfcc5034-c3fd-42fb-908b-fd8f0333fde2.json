@@ -1,0 +1,12 @@
+{
+  "id": "dfcc5034-c3fd-42fb-908b-fd8f0333fde2",
+  "instruction": "What is the verb tense used in the following sentence?",
+  "input": "I have been running.",
+  "output": "Present perfect progressive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bd3b341c-1d59-480a-8f51-de7656fb50b0",
+  "instruction": "Replace the verb in this sentence with a more suitable verb",
+  "input": "She drove away in a hurry.",
+  "output": "She sped away in a hurry.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

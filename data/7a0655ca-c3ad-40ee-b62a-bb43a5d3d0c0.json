@@ -1,0 +1,12 @@
+{
+  "id": "7a0655ca-c3ad-40ee-b62a-bb43a5d3d0c0",
+  "instruction": "Rewrite the code below using postfix notation",
+  "input": "a - (b + c)",
+  "output": "a b c + -",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

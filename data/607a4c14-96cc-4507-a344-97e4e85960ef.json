@@ -1,0 +1,12 @@
+{
+  "id": "607a4c14-96cc-4507-a344-97e4e85960ef",
+  "instruction": "Analyze the sentence and break it down into its constituents.",
+  "input": "Life is a journey filled with ups and downs.",
+  "output": "Subject: Life\nPredicate: is a journey filled with ups and downs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

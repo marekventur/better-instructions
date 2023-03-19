@@ -1,0 +1,12 @@
+{
+  "id": "5c17a433-5485-4bd2-a050-d289e6f5ee52",
+  "instruction": "Construct a query to select the prices of all items from the given table.",
+  "input": "Table: products",
+  "output": "SELECT price FROM products;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

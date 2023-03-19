@@ -1,0 +1,12 @@
+{
+  "id": "36526ecb-7667-4347-85a7-5951241b5775",
+  "instruction": "Create an SQL query to select all rows from a table where the column 'age' is greater than 18.",
+  "input": "",
+  "output": "Created an SQL query to select all rows from a table where the column 'age' is greater than 18: \"SELECT * FROM table_name WHERE age > 18\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

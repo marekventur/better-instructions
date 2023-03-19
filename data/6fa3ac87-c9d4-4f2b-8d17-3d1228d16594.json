@@ -1,0 +1,12 @@
+{
+  "id": "6fa3ac87-c9d4-4f2b-8d17-3d1228d16594",
+  "instruction": "Sort a list of animals into their correct genus.",
+  "input": "Brown bear, Gorilla, Asian Elephant",
+  "output": "Brown bear - Ursus, Gorilla - Gorilla, Asian Elephant - Elephas",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

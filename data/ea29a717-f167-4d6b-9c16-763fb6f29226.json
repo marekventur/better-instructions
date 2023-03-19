@@ -1,0 +1,12 @@
+{
+  "id": "ea29a717-f167-4d6b-9c16-763fb6f29226",
+  "instruction": "Create 3 conversation topics for a business meeting with the given client.",
+  "input": "An investment firm",
+  "output": "1. Introductory conversations to build rapport, such as discussing interests and goals. \n2. Exploring opportunities to grow their investments. \n3. Initiatives the firm has in place to maintain a good financial standing and discuss what areas could be improved.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

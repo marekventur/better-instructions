@@ -1,0 +1,12 @@
+{
+  "id": "a6225ab5-c2a5-4914-9900-1c432769086e",
+  "instruction": "Generate an alternative sentence given the example sentence.",
+  "input": "Example sentence: I loved going to the park",
+  "output": "I enjoyed visiting the park.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

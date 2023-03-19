@@ -1,0 +1,12 @@
+{
+  "id": "cbaf8ad3-d0cd-4e2d-aed7-9881ee0a722c",
+  "instruction": "Find the number of possible combinations of 7 letters.",
+  "input": "",
+  "output": "The number of possible combinations of 7 letters is 5040. This is calculated by multiplying 7 factorial (7!) which equals 5040.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

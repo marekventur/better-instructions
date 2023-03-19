@@ -1,0 +1,12 @@
+{
+  "id": "3fd486cc-8161-4aa5-8606-3e977c5c8e05",
+  "instruction": "Reduce the following polynomial to the lowest terms.",
+  "input": "4x^2 + 2x - 4",
+  "output": "2x(2x + 1) - 4",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

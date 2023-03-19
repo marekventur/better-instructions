@@ -1,0 +1,12 @@
+{
+  "id": "695f10a8-61ad-48f6-9fa7-0065a76e6428",
+  "instruction": "Can you summarize the rights of the accused person in a criminal court proceeding?",
+  "input": "",
+  "output": "The accused person in a criminal court proceeding has several rights, including the right to remain silent, the right to an attorney, the right to an impartial jury, the right to confront witnesses, the right to cross-examine witnesses, the right to access evidence, and the right to a fair and speedy trial. Additionally, the accused person has the right to be informed of the charges, the right to call witnesses on their behalf, and the right to appeal the guilty verdict if they feel it was wrongfully obtained.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

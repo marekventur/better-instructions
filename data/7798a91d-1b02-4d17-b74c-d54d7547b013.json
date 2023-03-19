@@ -1,0 +1,12 @@
+{
+  "id": "7798a91d-1b02-4d17-b74c-d54d7547b013",
+  "instruction": "Explain the concept of tail recursion using a programming language",
+  "input": "",
+  "output": "Tail recursion is an optimization technique used in recursive functions that allows a function to call itself without having to store the previous state of the program. This is done by replacing the recursive call with a loop, thus eliminating the need to store the previous state on the stack. As an example, the following code in Python demonstrates a tail recursive function that finds the sum of the first n numbers:\n\ndef tail_recursive(n, result):\n    if n == 0:\n        return result\n    else:\n        return tail_recursive(n - 1, n + result)\n\nsum = tail_recursive(5, 0)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

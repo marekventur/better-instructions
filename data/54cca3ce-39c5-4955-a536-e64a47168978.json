@@ -1,0 +1,12 @@
+{
+  "id": "54cca3ce-39c5-4955-a536-e64a47168978",
+  "instruction": "Generate a quantity of type with at least 5 words.",
+  "input": "What is optimism?",
+  "output": "Optimism is an optimistic attitude or way of thinking, characterized by hopefulness and the expectation of positive outcomes and confident in the future. It is a mental attitude that works towards believing that everything is going to be alright, no matter what challenges one may face or obstacles one may encounter. Optimism also includes having faith in one's ability to achieve success even in the face of adversity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

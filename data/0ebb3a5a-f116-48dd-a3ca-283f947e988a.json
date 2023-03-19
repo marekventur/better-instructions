@@ -1,0 +1,12 @@
+{
+  "id": "0ebb3a5a-f116-48dd-a3ca-283f947e988a",
+  "instruction": "Using the kanban board below, develop a timeline for when tasks need to be completed.",
+  "input": "To Do | Doing | Done\n--- | --- | ---\nWrite software | Test software | Deploy software",
+  "output": "The timeline for the completion of tasks should be as follows:\n\nWrite software: To be completed before moving on to the next task.\nTest software: After the software is written, it should be tested before deployment.\nDeploy software: The software should be deployed only after it has been tested successfully.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

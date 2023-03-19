@@ -1,0 +1,12 @@
+{
+  "id": "93ac1307-55a9-4295-83f9-5c0c241a3639",
+  "instruction": "Reorder the following words to form a question: the take lunch what do you",
+  "input": "the take lunch what do you",
+  "output": "What do you take for lunch?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

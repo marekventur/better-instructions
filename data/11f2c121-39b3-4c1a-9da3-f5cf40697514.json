@@ -1,0 +1,12 @@
+{
+  "id": "11f2c121-39b3-4c1a-9da3-f5cf40697514",
+  "instruction": "Apply the scientific method to the given scenario.",
+  "input": "The goal is to create a one-of-a-kind burger",
+  "output": "1. Ask a question: How can I create a one-of-a-kind hamburger?\n2. Do background research: Research cookbooks and online recipes to look for ideas, as well as ingredients, cooking techniques, etc.\n3. Form a hypothesis: If I use the right combination of ingredients and cooking techniques, I can create a one-of-a-kind hamburger.\n4. Test the hypothesis: Experiment with different ingredient combinations and cooking techniques to create the hamburger.\n5. Analyze the data and draw a conclusion: Based on the results of the experiments, assess whether a one-of-a-kind hamburger has been created. \n6. Communicate the results: Share the successful burger with friends and family, or post details online for others to enjoy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

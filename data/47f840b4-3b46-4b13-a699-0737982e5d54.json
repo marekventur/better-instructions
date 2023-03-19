@@ -1,0 +1,12 @@
+{
+  "id": "47f840b4-3b46-4b13-a699-0737982e5d54",
+  "instruction": "Join the following words to form a compound word and output the compound word.",
+  "input": "Sun and shine",
+  "output": "Sunshine",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

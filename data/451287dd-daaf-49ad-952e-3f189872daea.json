@@ -1,0 +1,12 @@
+{
+  "id": "451287dd-daaf-49ad-952e-3f189872daea",
+  "instruction": "Summarize the key points of a scientific article.",
+  "input": "This article examines the prevalence of mental health issues, such as anxiety and depression, among pregnant and postpartum women in five low- and middle-income countries.",
+  "output": "This article finds that mental health issues are a significant concern among pregnant and postpartum women in low- and middle-income countries. Data from five countries was examined and showed that the prevalence of anxiety and depression varies significantly from country to country. These results indicate the need for more research and improved mental health policies in order to ensure women are being provided with the necessary care during pregnancy and postpartum.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

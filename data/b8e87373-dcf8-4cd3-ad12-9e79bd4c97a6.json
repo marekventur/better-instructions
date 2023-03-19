@@ -1,0 +1,12 @@
+{
+  "id": "b8e87373-dcf8-4cd3-ad12-9e79bd4c97a6",
+  "instruction": "Write a command in SQL to delete all the data in a table called \u201cStudents\u201d",
+  "input": "",
+  "output": "DELETE FROM Students;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

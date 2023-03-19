@@ -1,0 +1,12 @@
+{
+  "id": "1c4e969e-cc77-4a95-8a43-a037ba6d535b",
+  "instruction": "Edit this sentence so that it contains parallel structure",
+  "input": "I love to run, biking and to swim",
+  "output": "I love to run, bike, and swim.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

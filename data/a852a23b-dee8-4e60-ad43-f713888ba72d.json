@@ -1,0 +1,12 @@
+{
+  "id": "a852a23b-dee8-4e60-ad43-f713888ba72d",
+  "instruction": "Generate an English-language question relating to the given topic.",
+  "input": "Climate change",
+  "output": "What are the causes of climate change?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "58467ccd-20a5-4c59-8e7d-bc86472e8e07",
+  "instruction": "Create a flow chart that describes the steps for creating a PowerPoint presentation.",
+  "input": "",
+  "output": "[Flow Chart]\n\nstart \n  \u21d3 \nOpen Microsoft PowerPoint \n  \u21d3 \nChoose template or design from scratch \n  \u21d3 \nCreate slides \n  \u21d3 \nAdd content to slides \n  \u21d3 \nInsert images, graphs, and videos \n  \u21d3 \nCheck for errors and refine presentation \n  \u21d3 \nSave and export presentation \n  \u21d3\nend",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

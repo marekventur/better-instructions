@@ -1,0 +1,12 @@
+{
+  "id": "859e38ff-6cb0-4711-8114-4bbee4a3c268",
+  "instruction": "Categorize the following types of literature:",
+  "input": "poetry, novels, play",
+  "output": "The types of literature listed are: 1) Poetry: literature written in verse; 2) Novels: long fictional works of narrative prose; and 3) Plays: works of literature intended for the stage.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

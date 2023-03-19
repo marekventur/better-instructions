@@ -1,0 +1,12 @@
+{
+  "id": "ccfab7a0-44e6-470d-8f45-36496e0aea8f",
+  "instruction": "Write a paragraph comparing and contrasting two books.",
+  "input": "The Catcher in the Rye by J.D. Salinger and To Kill a Mockingbird by Harper Lee",
+  "output": "The Catcher in the Rye by J.D. Salinger and To Kill a Mockingbird by Harper Lee are two classic novels that have had a lasting impact on literature and have been widely read and studied, despite being quite different in their approaches. Despite their difference in time period, geography and style, both of these books center around themes of innocence and judgment. In The Catcher in the Rye, protagonist Holden Caulfield grapples with the consequences of leaving innocence behind, while the character of Atticus Finch in To Kill a Mockingbird promotes defending innocent people while standing up against the judgmental and prejudiced society that surrounds him. While both stories feature a wide variety of characters and plotlines, the themes of innocence and judgment are key to understanding each of these books.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

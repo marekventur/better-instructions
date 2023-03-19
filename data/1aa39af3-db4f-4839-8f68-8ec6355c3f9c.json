@@ -1,0 +1,12 @@
+{
+  "id": "1aa39af3-db4f-4839-8f68-8ec6355c3f9c",
+  "instruction": "Create an algorithm that can detect outliers in a list of numbers.",
+  "input": "",
+  "output": "This algorithm should employ a statistical approach for detecting outliers in a list of numbers. First, it should calculate the mean and standard deviation of the dataset. Then, the algorithm should loop through each element in the list, calculating the difference between each element and the mean. If the difference is greater than two standard deviations away, then that element can be marked as an outlier. This algorithm should also be able to detect outliers which don't necessarily follow the normal distribution. In this case, the algorithm should calculate the Interquartile Range (IQR) instead of the standard deviation. The algorithm should then check if a value is above the upper whisker (Q3 + 1.5*IQR) or below the lower whisker (Q1 - 1.5*IQR). Any elements which are beyond this range will be marked as an outlier.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

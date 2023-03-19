@@ -1,0 +1,12 @@
+{
+  "id": "4f2113bf-bcd8-4c8c-b188-63cba24ea6a5",
+  "instruction": "Write a security policy outlining the proper use of secure passwords.",
+  "input": "",
+  "output": "The following security policy outlines the proper use of secure passwords: \n\n1. Passwords must be at least 8 characters long\n2. Passwords must contain a variety of characters, including upper and lowercase letters, numbers and symbols\n3. Passwords must not be based on common words or sequences, such as dates or sequences of numbers\n4. Passwords must not be shared with anyone\n5. Passwords must be changed every three months\n6. Passwords must not be visible to others\n7. Passwords must not be saved in a non-secure or non-encrypted format",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

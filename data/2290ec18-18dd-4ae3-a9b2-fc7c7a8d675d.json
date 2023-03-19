@@ -1,0 +1,12 @@
+{
+  "id": "2290ec18-18dd-4ae3-a9b2-fc7c7a8d675d",
+  "instruction": "Identify and describe the historical context in which the following photograph was taken.",
+  "input": "<Insert photo here>",
+  "output": "This photograph was taken in the late 19th century during a period of rapid industrialization in Europe. Thousands of workers across the continent were employed in massive factories, toiling long hours and being exposed to hazardous conditions. This photo captures one such factory, the chimney in the background appearing as a stark reminder of the cost of Europe's industrial revolution.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

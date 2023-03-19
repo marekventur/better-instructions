@@ -1,0 +1,12 @@
+{
+  "id": "c2f63f16-a808-42a9-a747-b95a0498438a",
+  "instruction": "How does the process of backpropagation work in neural networks?",
+  "input": "",
+  "output": "Backpropagation is an algorithm used in training deep neural networks. It is an iterative process which begins with a forward pass that calculates the output of the network given the inputs, and then backtracks to find the gradients of the weights connecting each neuron. The gradients are then used to adjust the weights in the opposite direction of the gradient. This process is repeated multiple times in order to find the best set of weights that cause the network to produce the desired output. Backpropagation works by adjusting the weights of an artificial neural network in order to minimize the error of the model's prediction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

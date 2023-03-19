@@ -1,0 +1,12 @@
+{
+  "id": "f1464f9f-9d47-4151-8145-887cd7a49316",
+  "instruction": "Convert the following code snippet into a pseudocode.",
+  "input": "while (counter < limit):\n    print (counter)\n    counter += 5",
+  "output": "WHILE counter is less than limit DO\n    PRINT counter\n    ADD 5 to counter\nEND WHILE",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

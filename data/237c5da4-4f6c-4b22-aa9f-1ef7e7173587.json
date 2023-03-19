@@ -1,0 +1,12 @@
+{
+  "id": "237c5da4-4f6c-4b22-aa9f-1ef7e7173587",
+  "instruction": "Get the weather forecast for tomorrow in London.",
+  "input": "",
+  "output": "The forecast for tomorrow in London is partly cloudy with a high of 14\u00b0C and a low of 11\u00b0C. There is a 0% chance of precipitation. Winds will be from the East with a speed of 4-5 mph.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bd70a7a0-4b0b-4dcc-bd4a-584e9c43a999",
+  "instruction": "Classify the statement into either truth or lie.",
+  "input": "Statement: The earth is flat.",
+  "output": "lie",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

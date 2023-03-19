@@ -1,0 +1,12 @@
+{
+  "id": "63bd0d59-3e07-4307-8880-c7c6af78a190",
+  "instruction": "Explain the concept of chaos engineering.",
+  "input": "",
+  "output": "Chaos engineering is the practice of proactively and deliberately introducing targeted sources of disruption into a system in order to identify and fix weaknesses before they cause outages. It is used to manage the risk of disruption by reducing its likelihood and level of impact. Chaos engineering also serves to identify and fix performance bottlenecks and stresses, which are not isolated to a single platform or micro-service. This proactive approach to system failure can improve the reliability, resilience, and performance of a system in the event of an outage.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

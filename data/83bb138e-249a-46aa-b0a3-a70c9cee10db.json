@@ -1,0 +1,12 @@
+{
+  "id": "83bb138e-249a-46aa-b0a3-a70c9cee10db",
+  "instruction": "Given a product description, generate 5 appropriate tags.",
+  "input": "This cream is ideal for relieving the discomfort of dry, irritated skin, reducing the appearance of wrinkles, and restoring a healthy glow.",
+  "output": "1. Hydrating\n2. Moisturizing\n3. Anti-aging\n4. Soothing\n5. Brightening",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

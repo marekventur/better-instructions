@@ -1,0 +1,12 @@
+{
+  "id": "2117e6c7-5b97-4fd6-b541-545619d6cdda",
+  "instruction": "Give a few examples of bias in machine learning models.",
+  "input": "",
+  "output": "Examples of bias in machine learning models include data bias, language bias, and algorithmic bias. Data bias occurs when the dataset used to train the model contains information that is biased, such as having more male examples or favouring certain ethnic groups. Language bias can manifest in the lack of appropriate vocabularies or syntactic suggestions for certain demographics. Algorithmic bias occurs when the algorithm itself is written in such a way that is biased, for example, when the algorithm treats females differently than males.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

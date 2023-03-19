@@ -1,0 +1,12 @@
+{
+  "id": "bed52441-7f7e-4d89-8671-65492c3fcfb3",
+  "instruction": "Add a feature to the following class definition.",
+  "input": "class Student(): \n    def __init__(self, name, age, grade): \n        self.name = name \n        self.age = age \n        self.grade = grade",
+  "output": "class Student(): \n    def __init__(self, name, age, grade, gender): \n        self.name = name \n        self.age = age \n        self.grade = grade\n        self.gender = gender",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

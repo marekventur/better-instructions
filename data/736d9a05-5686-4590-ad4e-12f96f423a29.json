@@ -1,0 +1,12 @@
+{
+  "id": "736d9a05-5686-4590-ad4e-12f96f423a29",
+  "instruction": "Get topical information from the given web page",
+  "input": "https://www.theguardian.com/world/2020/may/14/coronavirus-latest-news-covid-19-updates-south-asia-india-bangladesh",
+  "output": "The latest news on coronavirus in South-Asia is that India has crossed over 200,000 cases, while Bangladesh stretches to near 30,000 cases.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

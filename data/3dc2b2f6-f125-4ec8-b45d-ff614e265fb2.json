@@ -1,0 +1,12 @@
+{
+  "id": "3dc2b2f6-f125-4ec8-b45d-ff614e265fb2",
+  "instruction": "Analyze how the given poem reflects the writer's feelings.",
+  "input": "On solitary beach\nwhere sapphire tide glides",
+  "output": "The poem reflects a feeling of calm and peace. The solitary beach and sapphire tide suggests the feeling of being alone, enjoying the beauty of a peaceful landscape while being lulled by the movement of the tide. This imagery creates a sense of solitude and relaxation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

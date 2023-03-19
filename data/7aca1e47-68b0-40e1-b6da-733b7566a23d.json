@@ -1,0 +1,12 @@
+{
+  "id": "7aca1e47-68b0-40e1-b6da-733b7566a23d",
+  "instruction": "Select the correct answer from the options below to complete the sentence.",
+  "input": "Parts of the kitchen include the refrigerator, oven and ____.",
+  "output": "Stove.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

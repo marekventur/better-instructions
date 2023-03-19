@@ -1,0 +1,12 @@
+{
+  "id": "cadbced7-9fe1-4e38-b1e7-47dce80a21fc",
+  "instruction": "Decipher the message using a substitution cipher.",
+  "input": "WKH TXLFN EURZQ IRA MXPSV RYHU WKH ODCB GRJ",
+  "output": "The quick brown fox jumps over the lazy dog.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

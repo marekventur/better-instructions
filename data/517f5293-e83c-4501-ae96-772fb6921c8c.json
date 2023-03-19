@@ -1,0 +1,12 @@
+{
+  "id": "517f5293-e83c-4501-ae96-772fb6921c8c",
+  "instruction": "Summarize the text input.",
+  "input": "iPhone 12 was unveiled earlier this month and the first reviews have been released. Most reviewers have praised the design for being a strong combination of modern and classic. The camera has been improved to offer clearer photos, and the processor upgrade has brought faster performance.",
+  "output": "The iPhone 12 was recently released and has been praised for its design, which is a mix of modern and classic features. The camera has also been improved and the processor upgrade has resulted in faster performance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

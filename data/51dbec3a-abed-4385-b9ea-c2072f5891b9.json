@@ -1,0 +1,12 @@
+{
+  "id": "51dbec3a-abed-4385-b9ea-c2072f5891b9",
+  "instruction": "Implement a given algorithm.",
+  "input": "Binary Search",
+  "output": "function binary_search(arr, l, r, x) \n{ \n    if (\ufffcr >= l) { \n        var mid = l + (r - l) / 2; \n  \n        // If the element is present \n        // at the middle   \n        if (arr[mid] == x)  \n            return mid; \n  \n        // If element is smaller \n        // than mid, then \n        // it can only be present \n        // in left sub array \n        if (arr[mid] > x)  \n            return binary_search(arr, l, mid - 1, x); \n  \n        // Else the element can \n        // only be present \n        // in right sub array \n        return binary_search(arr, mid + 1, r, x); \n    } \n  \n    // We reach here when  \n    // element is not present \n    // in array \n    return -1; \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

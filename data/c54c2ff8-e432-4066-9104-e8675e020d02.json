@@ -1,0 +1,12 @@
+{
+  "id": "c54c2ff8-e432-4066-9104-e8675e020d02",
+  "instruction": "Make a prediction about how this issue will end.",
+  "input": "The two countries are in a deadlock over their trade deal.",
+  "output": "It is likely that the two countries will come to a compromise in their trade deal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

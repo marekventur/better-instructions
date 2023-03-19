@@ -1,0 +1,12 @@
+{
+  "id": "7b0c85ff-b04b-455f-85dc-0d79b67de338",
+  "instruction": "Generate a multiple choice question and answer set that tests a student's understanding of the concept of probability.",
+  "input": "N/A",
+  "output": "Question: What is the probability of selecting a red card from a standard 52-card deck?\nA. 0.25\nB. 0.50\nC. 0.75\nD. 1.00\n\nAnswer: A. 0.25.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

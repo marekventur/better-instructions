@@ -1,0 +1,12 @@
+{
+  "id": "65f5fda1-14a0-4faf-95fc-36f6bf974654",
+  "instruction": "Convert the given text into a haiku poem.",
+  "input": "The sun's bright light rose high into the sky",
+  "output": "Sunlight in sky so high\nAs day unfurls its beauty bright\nA radiant sunrise.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

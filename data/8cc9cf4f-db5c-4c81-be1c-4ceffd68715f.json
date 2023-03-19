@@ -1,0 +1,12 @@
+{
+  "id": "8cc9cf4f-db5c-4c81-be1c-4ceffd68715f",
+  "instruction": "Rearrange the following sentence such that it scans in iambic pentameter.",
+  "input": "She trekked across the rugged terrain",
+  "output": "Across she trekked the rugged ter-rain.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

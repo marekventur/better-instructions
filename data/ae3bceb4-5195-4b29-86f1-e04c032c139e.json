@@ -1,0 +1,12 @@
+{
+  "id": "ae3bceb4-5195-4b29-86f1-e04c032c139e",
+  "instruction": "Give an example of the use of context in natural language processing.",
+  "input": "",
+  "output": "An example of the use of context in natural language processing is the sense disambiguation of words. For example, the word \u201cbank\u201d can be interpreted differently depending on the context in which it is used; it could refer to a financial institution, or to the side of a river. Natural language processing algorithms are able to sense the context and use that to accurately identify the meaning of a word.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

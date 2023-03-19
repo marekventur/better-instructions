@@ -1,0 +1,12 @@
+{
+  "id": "03c956a4-9d09-4fa3-8b86-c6a27cca0154",
+  "instruction": "Compare the prices of two items and decide which is more cost-effective.",
+  "input": "The price of Bag A is $500 while the price of Bag B is $200.",
+  "output": "Bag B is more cost effective than Bag A.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3de05f95-78a5-4de0-bc0d-2d11346f331c",
+  "instruction": "Analyze the given sentence and find the part of speech of each word.",
+  "input": "The cat ran away from the dog.",
+  "output": "The \u2013 Article \ncat \u2013 Noun \nran \u2013 Verb \naway \u2013 Adverb \nfrom \u2013 Preposition \nthe \u2013 Article \ndog \u2013 Noun \n. \u2013 Punctuation",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

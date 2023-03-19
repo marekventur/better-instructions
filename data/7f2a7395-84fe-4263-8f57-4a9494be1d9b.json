@@ -1,0 +1,12 @@
+{
+  "id": "7f2a7395-84fe-4263-8f57-4a9494be1d9b",
+  "instruction": "Given the following sentence, identify the subject and the verb.",
+  "input": "He is writing a letter.",
+  "output": "Subject: He \nVerb: is writing",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

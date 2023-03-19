@@ -1,0 +1,12 @@
+{
+  "id": "dd55ac58-87ca-48ea-a0b0-46894fba9717",
+  "instruction": "Write an expression that evaluates to 0.",
+  "input": "",
+  "output": "0 / 0",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

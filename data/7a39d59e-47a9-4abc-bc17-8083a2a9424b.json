@@ -1,0 +1,12 @@
+{
+  "id": "7a39d59e-47a9-4abc-bc17-8083a2a9424b",
+  "instruction": "Take the given quote and change it into a question.",
+  "input": "\"No one can do everything, but everyone can do something.\"",
+  "output": "Can everyone do something to make a difference, even if no one can do everything?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

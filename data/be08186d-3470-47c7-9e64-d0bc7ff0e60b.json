@@ -1,0 +1,12 @@
+{
+  "id": "be08186d-3470-47c7-9e64-d0bc7ff0e60b",
+  "instruction": "Determine if a given sentence is written in the imperative or interrogative form.",
+  "input": "Will you please help me?",
+  "output": "Interrogative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

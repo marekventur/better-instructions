@@ -1,0 +1,12 @@
+{
+  "id": "2e0aa567-4336-46f8-ae7d-ef5ce6839fd2",
+  "instruction": "Transform the list of ingredients into an easy to read recipe",
+  "input": "rice, tomato, onion, garlic",
+  "output": "Heat olive oil in a pot over medium heat and add garlic, onion, and tomato. Cook for 3 minutes until ingredients are soft. Add the rice and cook for another 5 minutes until the rice is lightly browned. Add a pinch of salt and 4 cups of water. Bring to a boil, reduce heat, and simmer for 10-15 minutes until the rice is cooked through. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

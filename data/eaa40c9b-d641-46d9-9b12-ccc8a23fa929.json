@@ -1,0 +1,12 @@
+{
+  "id": "eaa40c9b-d641-46d9-9b12-ccc8a23fa929",
+  "instruction": "Name five challenges associated with deploying GPT models in real-world applications.",
+  "input": "",
+  "output": "1. Data Availability and Quality: GPT models require labelled data for training and need properly annotated datasets for domain specific deployment.\n2. Model Explainability: GPT models are notoriously difficult to explain and understand.\n3. Compute Requirements: GPT models require a lot of compute resources.\n4. Scaling of Models: GPT models with large datasets can be difficult to scale.\n5. Model Drift: GPT models may not be able to generalize to changing environments.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

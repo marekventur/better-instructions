@@ -1,0 +1,12 @@
+{
+  "id": "a10b10eb-a9bd-44f7-9770-9a7e279f09f6",
+  "instruction": "Generate a chart for the data given below.",
+  "input": "The following table shows the crime rate per 100,000 population for different cities in the US.\n\n| City | Crime |\n|------|-------|\n| NYC | 390.5 |\n| San Francisco | 161.1 |\n| Los Angeles | 426.1 |\n| Houston | 902.2 |\n| Chicago | 741.5 |",
+  "output": "This chart shows the crime rate per 100,000 population for various cities in the United States:\n\n[Chart]\n\nNYC: 390.5\n\nSan Francisco: 161.1\n\nLos Angeles: 426.1\n\nHouston: 902.2\n\nChicago: 741.5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

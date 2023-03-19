@@ -1,0 +1,12 @@
+{
+  "id": "088fa007-f25e-495f-9eaa-065ba1dddb5d",
+  "instruction": "Design a machine learning model to detect spam emails.",
+  "input": "",
+  "output": "A machine learning model to detect spam emails could use features such as the sender\u2019s email address, the message\u2019s subject line, the number of links included, and the presence of certain keywords. The model could use supervised learning methods such as logistic regression or a Naive Bayes classifier to generate a prediction score based on these features. This score could then determine whether or not the email is considered \"spam\" or \"not spam\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

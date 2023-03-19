@@ -1,0 +1,12 @@
+{
+  "id": "c075f424-a2bf-46d4-868b-7aabca12f78d",
+  "instruction": "Organize a list of tasks in chronological order.",
+  "input": "paint the room, order supplies, buy new furniture, clean the carpets",
+  "output": "Order supplies, buy new furniture, clean carpets, paint the room.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

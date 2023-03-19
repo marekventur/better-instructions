@@ -1,0 +1,12 @@
+{
+  "id": "2454cd92-0b01-46e3-9fc8-0c9207f09c34",
+  "instruction": "Calculate the area of a triangle with the given side lengths.",
+  "input": "A = 8 cm, B = 6 cm, C = 4 cm",
+  "output": "The area of the triangle is 11.779 cm\u00b2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

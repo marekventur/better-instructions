@@ -1,0 +1,12 @@
+{
+  "id": "5342bb50-bd85-4dd0-ad62-a67812bb65c8",
+  "instruction": "Classify these words as either common nouns or proper nouns.",
+  "input": "Scotland, Apple, August",
+  "output": "Scotland: Proper Noun \nApple: Common Noun \nAugust: Proper Noun",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

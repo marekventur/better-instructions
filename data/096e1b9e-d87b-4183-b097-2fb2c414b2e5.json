@@ -1,0 +1,12 @@
+{
+  "id": "096e1b9e-d87b-4183-b097-2fb2c414b2e5",
+  "instruction": "Generate a list of ten questions for a customer feedback survey for a restaurant.",
+  "input": "",
+  "output": "1. How would you rate the overall experience at our restaurant? \n2. How likely are you to recommend our restaurant to friends and family? \n3. What did you think of our food, including taste, quality, and freshness? \n4. How would you rate the service you received from our staff?\n5. Did our restaurant meet or exceed your expectations? \n6. Are there any areas of our restaurant that could be improved? \n7. How was the price of the food compared to similar restaurants?\n8. How would you rate the atmosphere of our restaurant?\n9. How satisfied are you with the speed of our service?\n10. What was the one thing that you liked the most about our restaurant?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

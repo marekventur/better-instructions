@@ -1,0 +1,12 @@
+{
+  "id": "48cbe236-bc01-4a18-90e6-737d32e8831a",
+  "instruction": "Generate a view-point divergent and coherent sentence that still conveys the same information as the original sentence.",
+  "input": "A recent survey revealed that more than half of the people around the world believe climate change is caused by humans.",
+  "output": "In contrast to received opinion, a recent survey showed that a majority of people in the world attribute climate change to humanity's activities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

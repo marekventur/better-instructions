@@ -1,0 +1,12 @@
+{
+  "id": "ea4ba2c2-158b-4014-a4cd-ebdde6eaa029",
+  "instruction": "Evaluate the expression 5x-2y when x=4, y=7",
+  "input": "No input",
+  "output": "The expression 5x-2y when x=4 and y=7 equals 14.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

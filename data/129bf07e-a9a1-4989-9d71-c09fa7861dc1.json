@@ -1,0 +1,12 @@
+{
+  "id": "129bf07e-a9a1-4989-9d71-c09fa7861dc1",
+  "instruction": "Detect if the Reddit thread is opinionated.",
+  "input": "r/askreddit\n\u2022Posted by u/1coolcat\n\n3 hours ago\n\nWhat is the best way to solve a problem?\n\nthrowaway123123123 \u00b7 2 hr. ago\nJust punch it and hope for the best!\n\njohn123123 \u00b7 27 min. ago\nFocus on the problem and do something uh...smart",
+  "output": "Yes, the thread is opinionated.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "44b47b34-90ab-4c96-a9c8-43f00893c2ee",
+  "instruction": "Tell whether the given statement is accurate or not.",
+  "input": "The color of sorrow is purple.",
+  "output": "Not accurate",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

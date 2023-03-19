@@ -1,0 +1,12 @@
+{
+  "id": "47fc84e5-21aa-4cb7-8f92-bec20e3672bb",
+  "instruction": "Create a \u2018nice-to-have\u2019 list for a product inventory system.",
+  "input": "",
+  "output": "\u2022 Barcode scanner for efficient inventory tracking.\n\u2022 Ability to alert stakeholders about low inventory levels. \n\u2022 Automated invoicing. \n\u2022 Data export feature to generate reports in various formats. \n\u2022 Automated purchasing system to re-order stock. \n\u2022 Flexible search capability to locate items quickly. \n\u2022 Integration with point-of-sale systems. \n\u2022 Mobile app to enable remote access. \n\u2022 Automated alerts for stock delivery. \n\u2022 Automated alerts for out of stock items.\n\u2022 Shipping and tracking support. \n\u2022 Real-time inventory updates. \n\u2022 Stock adjustments to account for returns and damages. \n\u2010 Customizable views and reports. \n\u2022 Tracking of customer order history.\n\u2022 Customer support portal to review orders. \n\u2022 Automatically create product barcodes. \n\u2022 Automatically generate purchase orders. \n\u2022 Automatically create promotional offers. \n\u2022 Automated replenishment of inventory. \n\u2022 Automated pricing rules. \n\u2022 Automated stock monitoring. \n\u2022 Business intelligence analytics.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

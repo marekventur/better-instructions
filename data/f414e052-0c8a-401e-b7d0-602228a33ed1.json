@@ -1,0 +1,12 @@
+{
+  "id": "f414e052-0c8a-401e-b7d0-602228a33ed1",
+  "instruction": "Create an app that allows user to search for and book a taxi.",
+  "input": "",
+  "output": "The app will allow users to search for and book a taxi in their area. It will use the user's geolocation data to show them a list of available taxis nearby. The user can then select the taxi, book it and pay for it through the app. Once the taxi has been booked, the driver will be notified and given the user's location. The user will be able to track the driver's progress on a map.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

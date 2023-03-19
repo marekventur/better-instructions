@@ -1,0 +1,12 @@
+{
+  "id": "e0a64f98-fb6c-4057-9451-134f936db9b3",
+  "instruction": "Develop a database schema for a library system.",
+  "input": "",
+  "output": "The database should contain the following tables: books, authors, members, loans, and fines. The books table should include columns for title, ISBN, number of copies in stock, and a foreign key linking to the authors table. The authors table should include columns for name and biography. The members table should contain columns for name, address, and membership ID. The loans table should contain columns for book ID, member ID, loan date, and return date. The fines table should include columns for member ID and amount of fine.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "29897f1f-78a9-4786-ba75-899523998be9",
+  "instruction": "Perform an element search on the given array",
+  "input": "[5, 9, 20, 19, 11, 67, 33]",
+  "output": "The element 67 was found at index 5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

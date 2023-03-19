@@ -1,0 +1,12 @@
+{
+  "id": "81b3ad8c-a05a-4133-ab75-f976eaefdaf8",
+  "instruction": "Complete the given equation by adding the necessary operators.",
+  "input": "2 4 6",
+  "output": "2 + 4 = 6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

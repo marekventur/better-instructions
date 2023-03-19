@@ -1,0 +1,12 @@
+{
+  "id": "a8ea53bb-dac8-4f71-8e9f-3c9f1bd2ce30",
+  "instruction": "Taking the sentence below, shorten it while still keeping the same general meaning.",
+  "input": "It's impossible to predict what will happen as we navigate this uncertain future.",
+  "output": "Navigating this uncertain future is unpredictable.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

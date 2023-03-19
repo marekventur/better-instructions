@@ -1,0 +1,12 @@
+{
+  "id": "22b00e25-49b6-4f8a-b56c-b53dbfe83f15",
+  "instruction": "Calculate the sum of squared differences between two vectors.",
+  "input": "Vector x: [10, 8, 5]\nVector y: [5, 6, 2]",
+  "output": "17",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

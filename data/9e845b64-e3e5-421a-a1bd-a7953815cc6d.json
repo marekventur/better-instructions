@@ -1,0 +1,12 @@
+{
+  "id": "9e845b64-e3e5-421a-a1bd-a7953815cc6d",
+  "instruction": "Classify this sentence in terms of academic reading difficulty.",
+  "input": "Supernovas are exploding stars that shine brighter than a galaxy.",
+  "output": "This sentence has a college reading level.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

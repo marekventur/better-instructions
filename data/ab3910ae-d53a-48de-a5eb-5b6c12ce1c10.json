@@ -1,0 +1,12 @@
+{
+  "id": "ab3910ae-d53a-48de-a5eb-5b6c12ce1c10",
+  "instruction": "Replace the noun \u201ccat\u201d with some other word.",
+  "input": "There was a cat in the garden.",
+  "output": "There was a kitten in the garden.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

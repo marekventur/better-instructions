@@ -1,0 +1,12 @@
+{
+  "id": "43f954a0-f27b-43a0-9ddc-d48215e289a6",
+  "instruction": "Write an algorithm to determine the prime numbers up to 100.",
+  "input": "",
+  "output": "An algorithm to determine the prime numbers up to 100 can be constructed as follows: \n\n1. Start with a list of all the numbers from 2 to 100. \n2. Set aside 1 as not a prime number. \n3. Starting with 2, divide all the other numbers by that number. \n4. Any number that is divisible (with no remainder) by the number is not a prime number and can be removed from the list. \n5. Next, move onto the next number in the list, and repeat step 3-4 until all numbers from 2 to 100 have been divided. \n6. All numbers left in the list are prime numbers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a57bb34c-7645-4547-9740-758af69cacb7",
+  "instruction": "Write a generic query to retrieve the total number of documents in a given collection.",
+  "input": "",
+  "output": "db.collection_name.count()",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

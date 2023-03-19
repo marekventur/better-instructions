@@ -1,0 +1,12 @@
+{
+  "id": "f01f4821-f0c9-424f-97bf-14b8be13dee6",
+  "instruction": "Formulate a question to ask the assistant related to the given input.",
+  "input": "Apple recently announced a new feature.",
+  "output": "What is the new feature that Apple recently announced?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

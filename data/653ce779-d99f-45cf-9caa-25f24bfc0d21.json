@@ -1,0 +1,12 @@
+{
+  "id": "653ce779-d99f-45cf-9caa-25f24bfc0d21",
+  "instruction": "Generate a styling guide for a website",
+  "input": "",
+  "output": "The following is a styling guide to ensure consistency of the website's visuals and design.\n\nColors:\n- Primary: #FF0000\n- Secondary: #FFFFFF \n- Accents: #2a608f \n\nTypography:\n- Headings: 'Nunito Sans', Arial, sans-serif\n- Body Text: 'Open Sans', sans-serif\n\nLayout:\n-Header: Fixed Position, with Logo on the left hand side\n-Navigation: Horizontal Dropdown\n-Footer: Fixed Position, with social media icons. \n\nImages:\n- Background Images: 1920 x 1080 (with text overlay)\n- Content Images: Square (500x500)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

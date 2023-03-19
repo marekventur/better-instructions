@@ -1,0 +1,12 @@
+{
+  "id": "2cd3f171-4b8f-4d52-8a50-55fd1a77903e",
+  "instruction": "Construct a class to represent an airplane.",
+  "input": "",
+  "output": "class Airplane: \n    def __init__(self, model, capacity, speed): \n        self.model = model \n        self.capacity = capacity \n        self.speed = speed \n        \n    def increase_speed(self, increment): \n        self.speed += increment \n        \n    def decrease_speed(self, decrement): \n        self.speed -= decrement",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

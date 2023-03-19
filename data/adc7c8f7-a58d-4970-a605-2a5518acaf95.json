@@ -1,0 +1,12 @@
+{
+  "id": "adc7c8f7-a58d-4970-a605-2a5518acaf95",
+  "instruction": "Explain the four primary stages of the waterfall software development model.",
+  "input": "",
+  "output": "The waterfall software development model is a sequential engineering process that consists of four primary stages: \n\n1. Requirement Gathering and Analysis: In this stage, the project scope is defined, customer requirements are collected, the scope and the list of requirements are validated, and the project plan is finalized.\n\n2. Design: In this stage, the design of the system and its architecture is developed, a software design document is created, and the design is validated prior to implementation.\n\n3. Implementation or Code Development: During this stage, the actual software application is developed according to the agreed-upon specifications.\n\n4. Testing: Once the code is written, it is thoroughly tested in order to ensure that the developed product meets the requirements and is ready to be deployed.\n\n5. Maintenance: Once the software is deployed, the product is maintained and monitored for any defects in order to keep it running smoothly, and upgrades or improvements can be made as needed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

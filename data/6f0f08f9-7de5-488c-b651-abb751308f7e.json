@@ -1,0 +1,12 @@
+{
+  "id": "6f0f08f9-7de5-488c-b651-abb751308f7e",
+  "instruction": "Provide the steps to check a car engine.",
+  "input": "",
+  "output": "Steps to check a car engine: \n1. Check the oil level: pull out the dipstick, wipe it off, insert it back into the engine, and pull it out again. The oil level should be at maximum. \n2. Check the oil color: the oil should be golden brown or light tan; black oil means it is time to change the oil filter. \n3. Check the radiator fluid: open the coolant reservoir and check the fluid level. \n4. Check the battery: make sure all the cables are connected securely and that there is no corrosion. \n5. Check the spark plugs: examine each spark plug for spark strength, correct gap setting and wear. \n6. Check the brake pads: look for wear and tear or any foreign objects caught in the brake pad. \n7. Check the hoses: make sure all the hoses are secure and well connected.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

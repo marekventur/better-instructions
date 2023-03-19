@@ -1,0 +1,12 @@
+{
+  "id": "ef401f88-4284-46e4-9fc7-0cbd95bbd9ac",
+  "instruction": "Quickly edit the following text to reduce its length while still preserving the same meaning.",
+  "input": "John, who is a struggling mathematician, has a chance to make a mark on the world of mathematics when he stumbles onto a revolutionary theorem. He is unfortunately prevented from publishing his work because a corrupt professor wants to keep it a secret for his own power and fame.",
+  "output": "John, a struggling mathematician, has a chance to make a mark on mathematics when he finds a revolutionary theorem. But a corrupt professor suppresses it for his own gain.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

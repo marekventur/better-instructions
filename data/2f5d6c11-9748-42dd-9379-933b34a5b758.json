@@ -1,0 +1,12 @@
+{
+  "id": "2f5d6c11-9748-42dd-9379-933b34a5b758",
+  "instruction": "Calculate the average monthly rent for a two-bedroom apartment.",
+  "input": "The average rent for a two-bedroom apartment in Seattle is $2,000, while the average rent for a two-bedroom apartment in San Francisco is $3,500.",
+  "output": "The average monthly rent for a two-bedroom apartment is $2,750 ($2,000 + $3,500)/2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

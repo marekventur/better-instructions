@@ -1,0 +1,12 @@
+{
+  "id": "33a494c4-a87c-455c-8308-4cee97d54bba",
+  "instruction": "Give two examples of a function that is neither injective, surjective or bijective",
+  "input": "",
+  "output": "Two examples of a function that is neither injective, surjective or bijective are f(x)=x^2 and f(x)=2x+1. Both functions have different inputs that map to the same output, so they cannot be injective. Additionally, both functions cannot produce the complete range of outputs, so they cannot be surjective. Lastly, the functions are not injective and surjective, so they cannot be bijective.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d4f23f75-3c3c-4407-9266-9c83fdbe8584",
+  "instruction": "Separate the following list into singular and plural nouns.",
+  "input": "Matches, glasses, dishes, televisions",
+  "output": "Singular: Matches, Glasses, Dish, Television\nPlural: Matches, Glasses, Dishes, Televisions",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

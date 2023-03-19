@@ -1,0 +1,12 @@
+{
+  "id": "da51fd7e-7c16-4ed2-a1f7-bf769800073c",
+  "instruction": "Generate a story with a beginning, a middle, and an end using the following words:",
+  "input": "unicorn, castle, forest",
+  "output": "Once upon a time, there lived a unicorn in a castle amidst a deep forest. The unicorn loved exploring the forest and discovering new wonders. One day, while exploring, the unicorn came across a mysterious old house that no one had ever seen before. The unicorn decided to investigate the house, and when it did the house transformed into a magical place. After many hours exploring the magical place, the unicorn eventually found its way back to its castle again.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

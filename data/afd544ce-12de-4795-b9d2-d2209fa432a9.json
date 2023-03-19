@@ -1,0 +1,12 @@
+{
+  "id": "afd544ce-12de-4795-b9d2-d2209fa432a9",
+  "instruction": "Optimize this query for maximum recall:",
+  "input": "SELECT * FROM  table WHERE column1 = \"value1\"",
+  "output": "SELECT * FROM  table WHERE column1 LIKE \"%value1%\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "95469280-0eaa-4ebd-80a5-7780fcaba7e9",
+  "instruction": "Send an email to your professor after class.",
+  "input": "Subject: Feedback from Class",
+  "output": "Dear Professor ____,\n\nI wanted to share my feedback from today's class. I appreciate the discussion we had and the resources you provided. I found the topic very interesting and I am looking forward to learning more in future classes.\n\nThank you for your time,\n[Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

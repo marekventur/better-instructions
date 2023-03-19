@@ -1,0 +1,12 @@
+{
+  "id": "b3296ac2-852a-464f-98f6-7e3acbf1f90a",
+  "instruction": "Find the nouns and adjectives in the given sentence.",
+  "input": "The lazy brown fox jumped over the fence",
+  "output": "Nouns: fox, fence\nAdjectives: lazy, brown",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

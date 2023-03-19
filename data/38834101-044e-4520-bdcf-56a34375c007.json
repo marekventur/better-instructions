@@ -1,0 +1,12 @@
+{
+  "id": "38834101-044e-4520-bdcf-56a34375c007",
+  "instruction": "Determine the date of origin.",
+  "input": "The novel \u201cPeter Pan\u201d",
+  "output": "The novel \"Peter Pan\" was first published in 1911.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

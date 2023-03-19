@@ -1,0 +1,12 @@
+{
+  "id": "7c867f67-b96a-4e51-89d0-9a6e79d1dbde",
+  "instruction": "Given a recipe, explain how to prepare an ingredient.",
+  "input": "Recipe: Ratatouille\nInstructions: Peel and finely chop the eggplant.",
+  "output": "Start by scrubbing the eggplant with a vegetable brush to remove any dirt. Cut off the stem and discard. Peel the eggplant with a vegetable peeler. Cut the eggplant into small cubes, about a quarter of an inch in size. Transfer the cubes to a cutting board and finely chop the eggplant.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

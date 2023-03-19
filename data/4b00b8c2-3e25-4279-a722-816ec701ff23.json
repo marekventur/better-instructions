@@ -1,0 +1,12 @@
+{
+  "id": "4b00b8c2-3e25-4279-a722-816ec701ff23",
+  "instruction": "Rank the given items from most complex to least complex.",
+  "input": "Crocodile, turtle, snake",
+  "output": "Crocodile, snake, turtle",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

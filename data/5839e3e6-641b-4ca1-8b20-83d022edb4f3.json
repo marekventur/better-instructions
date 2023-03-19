@@ -1,0 +1,12 @@
+{
+  "id": "5839e3e6-641b-4ca1-8b20-83d022edb4f3",
+  "instruction": "How would you identify and resolve a DNS issue on a host computer?",
+  "input": "",
+  "output": "In order to identify and resolve a DNS issue on a host computer, you should first use a tool such as nslookup to query the DNS server and test the server's response. If the server responds but the query fails, it suggests that there is a problem with the local bindings. If the server does not respond, the issue could be related to network connectivity of the computer. \nYou can then attempt to resolve the issue by resolving the name to an IP address and flushing the DNS cache on the host machine to clear any old records. If the issue persists, you can also edit the hosts file in order to manually map the domain name to the correct IP address.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3d7c5e24-f61b-4606-8cc4-a0dade198cb7",
+  "instruction": "Create a data table with five types of trees and the states they are most common in.",
+  "input": "",
+  "output": "Tree                    |   State\n------------------------|--------------\n Red Maple              |   Ohio\n White Oak              |   Maryland\n Sugar Maple            |   Vermont\n Redwood                |   California\n American Holly         |   Delaware",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ab09720a-9376-4227-b572-72266d83b8dc",
+  "instruction": "Create a Jupyter notebook Visualization to show the following information.",
+  "input": "The average temperatures of five cities in the US over the last 10 days.",
+  "output": "import matplotlib.pyplot as plt\nimport numpy as np\n\ncities = ['New York', 'Chicago', 'Los Angeles', 'Miami', 'Houston'] \ntemperature = [54,43,70,88,76] \ndays = np.arange(10)\n\nplt.plot(days, temperature)\n\nplt.xlabel('Days')\nplt.ylabel('Temperature')\nplt.title('Average Temperatures of Five Cities in the US Over the Last 10 Days') \nplt.xticks(days, cities)\n\nplt.show()",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

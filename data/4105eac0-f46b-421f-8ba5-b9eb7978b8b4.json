@@ -1,0 +1,12 @@
+{
+  "id": "4105eac0-f46b-421f-8ba5-b9eb7978b8b4",
+  "instruction": "Look up the details of a famous construction project and explain the features of the project.",
+  "input": "The Bridge of Sighs",
+  "output": "The Bridge of Sighs is a famous Venetian bridge designed by Antonio Contino, an Italian architect of the late Renaisance. This bridge is lined with white limestone and has windows with stone bars. It passes over the Rio di Palazzo and connects the New Prison to the interrogations rooms of the Doge's Palace. Architecturally, it has 2 edges with ermine and on its roof is inscribed a Latin phrase \"Humilitas\", which can be translated as \"humility\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

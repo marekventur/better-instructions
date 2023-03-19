@@ -1,0 +1,12 @@
+{
+  "id": "3c02e36d-75fd-47f6-b782-8b018b902aa2",
+  "instruction": "Classify the following sentences into \"past tense\" and \"present tense\".",
+  "input": "- I saw a movie\n- I am watching a movie",
+  "output": "Past tense: I saw a movie\n\nPresent tense: I am watching a movie",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

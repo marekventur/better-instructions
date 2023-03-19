@@ -1,0 +1,12 @@
+{
+  "id": "33add7fe-cefc-410d-9056-194f736925ba",
+  "instruction": "Compute the variance of the following list of numbers: 3, 8, 11.",
+  "input": "3, 8, 11",
+  "output": "Variance = 11.3333",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4a8dc73d-4135-4b49-bba6-83ea97a8bdc7",
+  "instruction": "Given two tables, combine the tables and generate a view.",
+  "input": "Table A:  student\n\nName   | Age  | Grade\n------------------\nJohn   | 20   | A\n\nTable B: score\n\nName   | Test_1| Test_2\n------------------------\nJohn   | 50    | 80",
+  "output": "CREATE VIEW student_score AS\nSELECT s.Name, s.Age, s.Grade, sc.Test_1, sc.Test_2\nFROM student s\nJOIN score sc ON s.Name = sc.Name;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

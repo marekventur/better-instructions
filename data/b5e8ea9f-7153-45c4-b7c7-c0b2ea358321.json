@@ -1,0 +1,12 @@
+{
+  "id": "b5e8ea9f-7153-45c4-b7c7-c0b2ea358321",
+  "instruction": "Given two cities and their distances, calculate the total distance",
+  "input": "Berlin to Munich, 284 km; Munich to Dresden, 294 km",
+  "output": "578 km",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

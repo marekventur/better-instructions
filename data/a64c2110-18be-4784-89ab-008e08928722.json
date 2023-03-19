@@ -1,0 +1,12 @@
+{
+  "id": "a64c2110-18be-4784-89ab-008e08928722",
+  "instruction": "Design a data structure for storing a company's employee records.",
+  "input": "",
+  "output": "A data structure for storing a company's employee records would likely consist of an array of structures. Each structure would contain the following fields: name, job title, hire date, salary, department, contact info, and any other relevant information. This data structure would enable the company to easily access and modify any employee's records, ensuring the highest levels of accuracy and efficiency.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

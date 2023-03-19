@@ -1,0 +1,12 @@
+{
+  "id": "3616ca1e-1682-463a-ad8a-195cda913cbc",
+  "instruction": "Summarize the following article about a new medical treatment.",
+  "input": "The medical journal Nature recently released a study confirming that a new drug, known as ABC-123, is effective in treating a rare form of cancer. Specifically, it has been shown to be successful in shrinking tumor size of up to six different types of cancer. \n\nThis medical breakthrough has been met with enthusiasm from medical professionals and cancer patients alike. The drug works by blocking a certain pathway that tumor cells need to divide and spread. This causes the tumor cells to become sensitive to other cancer treatments, ultimately leading to shrinking or even eradication of the tumor.",
+  "output": "A recent study published in Nature has shown that the new drug ABC-123 is effective in treating six different forms of cancer. It works by blocking a pathway which the tumor cells need to divide and spread. This makes the tumor cells sensitive to other cancer treatments which can result in shrinking or complete removal of the tumor. This medical breakthrough has been met with enthusiasm from medical professionals and cancer patients alike.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

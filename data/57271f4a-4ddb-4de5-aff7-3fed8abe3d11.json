@@ -1,0 +1,12 @@
+{
+  "id": "57271f4a-4ddb-4de5-aff7-3fed8abe3d11",
+  "instruction": "Re-arrange the following list of words to form a grammatically correct sentence.",
+  "input": "prompts faithful continuous extract discrete a of We",
+  "output": "We extract a discrete faithful prompt of continuous.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

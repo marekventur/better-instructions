@@ -1,0 +1,12 @@
+{
+  "id": "7ed93569-beb3-4e5d-a78a-ec8c19e7b86d",
+  "instruction": "Identify the independent and dependent variable in the provided experiment.",
+  "input": "Experiment to study the correlation between number of hours of studying for an exam and the grade obtained",
+  "output": "Independent Variable: Number of hours of studying for an exam.\nDependent Variable: Grade obtained.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

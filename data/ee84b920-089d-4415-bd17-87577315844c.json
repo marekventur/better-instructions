@@ -1,0 +1,12 @@
+{
+  "id": "ee84b920-089d-4415-bd17-87577315844c",
+  "instruction": "Detect if the following item is a prime number.",
+  "input": "17",
+  "output": "Yes, 17 is a prime number.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

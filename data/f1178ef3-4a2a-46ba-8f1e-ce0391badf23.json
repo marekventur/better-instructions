@@ -1,0 +1,12 @@
+{
+  "id": "f1178ef3-4a2a-46ba-8f1e-ce0391badf23",
+  "instruction": "Given two sentences, generate a third viable sentence that builds on the two sentences.",
+  "input": "I saw him in the park. He was talking to a stranger.",
+  "output": "I moved closer to get a better view of them talking.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

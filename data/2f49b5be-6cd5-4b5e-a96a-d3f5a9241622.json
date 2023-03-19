@@ -1,0 +1,12 @@
+{
+  "id": "2f49b5be-6cd5-4b5e-a96a-d3f5a9241622",
+  "instruction": "Given a dataset of customer data, generate insight about the overall customer base.",
+  "input": "The dataset contains customer demographic data such as age, gender, and location.",
+  "output": "The customer base overall is quite varied in terms of age, gender, and location. The majority of customers are in the 25-34 age group, and there is a near even split between male and female customers. In terms of location, customers are mainly from the US, but there is also a large number from Europe and Canada.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

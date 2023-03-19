@@ -1,0 +1,12 @@
+{
+  "id": "d4bfc464-495d-45eb-b6ad-89baa75d798e",
+  "instruction": "Compare the features of two mobile phones.",
+  "input": "iPhone 11 Pro and Samsung Galaxy S20 Ultra",
+  "output": "The iPhone 11 Pro and Samsung Galaxy S20 Ultra are both flagship phones with superior specs. In terms of design, the Galaxy S20 Ultra has a 6.9-inch AMOLED display and a stylish glass body, while the iPhone 11 Pro has a 5.8-inch OLED display and an aluminum body. In terms of performance, the Galaxy S20 Ultra is powered by an Exynos 990 chipset, 8GB of RAM and 128GB of storage, while the iPhone 11 Pro is powered by an A13 Bionic chip, 4GB of RAM and 128GB of storage. Both phones have excellent cameras with wide angle, telephoto and Ultrawide lenses, but the Galaxy S20 has an additional ToF merged depth sensor. The battery capacity of the Galaxy S20 Ultra is also superior with its 5,000mAh capacity compared to the 3,190mAh of the iPhone 11 Pro.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f0e56890-3492-498c-b294-bf252ca7c1c6",
+  "instruction": "Combine the two sentences together in a coherence manner. Output a one complete sentence.",
+  "input": "The ice cream is really creamy. It tastes really good.",
+  "output": "The ice cream is really creamy and tastes really good.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

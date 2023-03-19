@@ -1,0 +1,12 @@
+{
+  "id": "aae094d5-8fd3-4b91-b876-6b2acf00fad2",
+  "instruction": "How do you order the following elements in decreasing order of atomic size?",
+  "input": "Li, F, Na, S",
+  "output": "F, Li, Na, S",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

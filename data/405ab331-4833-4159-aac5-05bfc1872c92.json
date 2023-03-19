@@ -1,0 +1,12 @@
+{
+  "id": "405ab331-4833-4159-aac5-05bfc1872c92",
+  "instruction": "Link the sentence with a correlative conjunction.",
+  "input": "He likes basketball and refuses to play soccer.",
+  "output": "He likes basketball but refuses to play soccer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

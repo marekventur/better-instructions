@@ -1,0 +1,12 @@
+{
+  "id": "e11b28ce-4b78-4335-978f-07ec0bf8f84a",
+  "instruction": "Use natural language to generate a Boolean expression that XORs two variables A and B.",
+  "input": "",
+  "output": "(A && !B) || (!A && B)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

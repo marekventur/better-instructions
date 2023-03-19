@@ -1,0 +1,12 @@
+{
+  "id": "2e2e2258-2fee-4044-921a-1a720acb0c21",
+  "instruction": "Name a famous book written by the given author.",
+  "input": "J.K. Rowling",
+  "output": "Harry Potter and the Philosopher's Stone.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

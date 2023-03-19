@@ -1,0 +1,12 @@
+{
+  "id": "dd54a6da-eb99-4915-8f3d-173c3a907a23",
+  "instruction": "Write a JavaScript program to remove all duplicated elements from an array.",
+  "input": "[1, 2, 3, 2, 4, 3]",
+  "output": "const arr = [1, 2, 3, 2, 4, 3];\nconst deduplicated = Array.from(new Set(arr))\n\nconsole.log(deduplicated); // [1, 2, 3, 4]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

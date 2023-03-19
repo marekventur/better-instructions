@@ -1,0 +1,12 @@
+{
+  "id": "b2e2565b-5e99-4395-b48f-b20debd5fe18",
+  "instruction": "Calculate this simple mathematical equation.",
+  "input": "8 x 5",
+  "output": "40",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

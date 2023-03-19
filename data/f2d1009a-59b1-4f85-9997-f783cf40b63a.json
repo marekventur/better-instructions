@@ -1,0 +1,12 @@
+{
+  "id": "f2d1009a-59b1-4f85-9997-f783cf40b63a",
+  "instruction": "Explain why the given policy or measure is necessary.",
+  "input": "Enforcing a wearing mask rule in public.",
+  "output": "Enforcing a mask-wearing rule in public is essential to protect people from the spread of COVID-19. Wearing a mask is one of the best strategies to reduce the spread of the virus. It can reduce the risk of being infected and protect others by blocking droplet transmission. Mask-wearing reduces the transmission of aerosol particles and is a simple and effective way to limit the spread of the virus. Therefore, enforcing a mask-wearing rule in public is crucial to protect people and reduce the spread of the virus.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fa199890-9e3f-4d74-a92f-7286a5011fce",
+  "instruction": "Rearrange the sentence to make it a valid sentence in English.",
+  "input": "apples three basket a in",
+  "output": "A basket of three apples is in.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

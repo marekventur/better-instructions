@@ -1,0 +1,12 @@
+{
+  "id": "0433d05f-2a5c-44a1-977c-f4b151f0a545",
+  "instruction": "Take the given text and convert it into a poem",
+  "input": "He had the courage to stand up and fight for what was right",
+  "output": "He had the courage and strength of will,\nTo stand up and fight for what was right.\nHe spoke out its truth without fail,\nAnd let his voice pierce through the night.\n\nHe had a heart that was true and pure,\nHis actions given from from what was inside.\nBut his strength and courage were sublime,\nNever letting fear let his courage subside. \n\nHe took a stance and he never wavered,\nVoicing his opinion even if mislabeled.\nLetting his courage guide his path true,\nHe fought for what was right, through and through.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

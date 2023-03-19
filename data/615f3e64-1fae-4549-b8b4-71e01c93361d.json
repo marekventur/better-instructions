@@ -1,0 +1,12 @@
+{
+  "id": "615f3e64-1fae-4549-b8b4-71e01c93361d",
+  "instruction": "Identify an example of a machine learning algorithm.",
+  "input": "",
+  "output": "An example of a machine learning algorithm is a support vector machine (SVM). Support vector machines are supervised learning algorithms that are used for classification and regression tasks. The algorithm aims to build a model that can accurately predict the class of a given data point by finding the optimal hyperplane that separates the data points into different classes. It is a powerful algorithm with strong mathematical foundations and is used in many applications such as face recognition and natural language processing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

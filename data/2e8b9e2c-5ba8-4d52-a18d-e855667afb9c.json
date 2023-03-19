@@ -1,0 +1,12 @@
+{
+  "id": "2e8b9e2c-5ba8-4d52-a18d-e855667afb9c",
+  "instruction": "Describe what an artificial neural network is in simple terms.",
+  "input": "",
+  "output": "An artificial neural network is a type of computer program modeled after the human brain. It consists of layers of interconnected nodes, each one of which calculates and carries out operations on incoming data and passes the output to the next layer. The neural network is able to adjust the weights and biases of the nodes as it processes data in order to identify patterns and produce an output. The output of a neural network can be used to make predictions or make decisions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b5f1e0ce-756c-42cf-b0df-9a27b85d2674",
+  "instruction": "According to the input sentence, create a list of words.",
+  "input": "\"The cat is black and white\"",
+  "output": "[\"The\", \"cat\", \"is\", \"black\", \"and\", \"white\"]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

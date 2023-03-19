@@ -1,0 +1,12 @@
+{
+  "id": "0f33e19c-c50f-4b99-a7ee-d9275cdd69ee",
+  "instruction": "Edit a given text by deleting the unnecessary words.",
+  "input": "She went to the market to buy oranges and apples and bananas.",
+  "output": "She went to the market to buy oranges, apples and bananas.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

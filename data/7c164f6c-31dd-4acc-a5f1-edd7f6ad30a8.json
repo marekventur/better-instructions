@@ -1,0 +1,12 @@
+{
+  "id": "7c164f6c-31dd-4acc-a5f1-edd7f6ad30a8",
+  "instruction": "Explain what a circuit breaker is.",
+  "input": "",
+  "output": "A circuit breaker is a mechanical switch designed to prevent an overloaded circuit from damaging equipment or causing a fire. It operates by automatically switching off when it detects excessive current in an electrical system.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

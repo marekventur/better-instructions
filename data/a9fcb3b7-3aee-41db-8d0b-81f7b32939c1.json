@@ -1,0 +1,12 @@
+{
+  "id": "a9fcb3b7-3aee-41db-8d0b-81f7b32939c1",
+  "instruction": "Generate a C program to compute the current speed of an object.",
+  "input": "",
+  "output": "#include <stdio.h>  \nint main() \n{ \n    float initial_velocity, final_velocity, time; \n    \n    // input the initial velocity, final velocity and \n    // time interval\n    printf(\"Enter initial velocity, final velocity and time interval respectively: \"); \n    scanf(\"%f%f%f\", &initial_velocity, &final_velocity, &time); \n  \n    // Computing the current speed \n    float current_speed; \n    current_speed = (final_velocity - initial_velocity) / time; \n  \n    // printing the value of current speed \n    printf(\"Current Speed = %f m/sec\", current_speed); \n  \n    return 0; \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

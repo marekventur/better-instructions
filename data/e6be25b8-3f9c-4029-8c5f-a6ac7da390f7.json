@@ -1,0 +1,12 @@
+{
+  "id": "e6be25b8-3f9c-4029-8c5f-a6ac7da390f7",
+  "instruction": "The following sentences contain spelling errors. Find and correct them.",
+  "input": "I wanted to viset the museumg but it was closed.",
+  "output": "I wanted to visit the museum but it was closed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

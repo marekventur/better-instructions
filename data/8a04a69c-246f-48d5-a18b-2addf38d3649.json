@@ -1,0 +1,12 @@
+{
+  "id": "8a04a69c-246f-48d5-a18b-2addf38d3649",
+  "instruction": "Write a news article about a new product.",
+  "input": "Product: Smart Car",
+  "output": "A revolutionary new product has been unveiled that could revolutionize the way people travel. The latest invention, a smart car, is capable of driving itself and boasts a range of features that make it easier and more convenient than ever to get around. Equipped with a range of sensors and cameras, the car is able to detect obstacles, adapt to different driving conditions, and even regulate its own speed. It is also equipped with a suite of distractions to keep passengers entertained during the journey, such as video games and audio streaming. With its innovative capabilities, the smart car could revolutionize the transportation industry, making the roads safer and more efficient.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

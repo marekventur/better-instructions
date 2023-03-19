@@ -1,0 +1,12 @@
+{
+  "id": "6f8a0dd7-08d8-4e61-a80d-634c507730a1",
+  "instruction": "Given a riddle, identify the hidden message",
+  "input": "My voice is tender, my waist is slender\nAnd I\u2019m often invited to play.\n\nMy foot\u2019s not stumpy, I don\u2019t play a trumpet\nBut still attract much attention each day.",
+  "output": "The hidden message is that the riddle is describing a guitar.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

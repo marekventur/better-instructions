@@ -1,0 +1,12 @@
+{
+  "id": "2e125bbf-aaf1-44c5-aef7-6a28caea4a34",
+  "instruction": "Convert the following piece of text in English to code.",
+  "input": "add one to the value of \"total\"",
+  "output": "total += 1;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

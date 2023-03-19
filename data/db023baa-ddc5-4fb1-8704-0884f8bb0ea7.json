@@ -1,0 +1,12 @@
+{
+  "id": "db023baa-ddc5-4fb1-8704-0884f8bb0ea7",
+  "instruction": "Categorize this quote as either pessimistic or optimistic.",
+  "input": "\"The greatest mistake you can make in life is to be continually fearing you will make one.\"",
+  "output": "This quote is optimistic as it encourages people to take risks and not be afraid of making mistakes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "707e000b-1edf-4370-9322-805e0e5d19e8",
+  "instruction": "Determine if the following tweet is using sarcasm",
+  "input": "That movie was so good",
+  "output": "Yes, the tweet is using sarcasm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "85658710-6f40-4bc1-ab5d-b1fd1c0f5375",
+  "instruction": "Generate the missing code for the following program.",
+  "input": "def double(int x):\n  # missing code here",
+  "output": "def double(int x):\n  return x * 2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

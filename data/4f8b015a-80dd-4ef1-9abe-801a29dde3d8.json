@@ -1,0 +1,12 @@
+{
+  "id": "4f8b015a-80dd-4ef1-9abe-801a29dde3d8",
+  "instruction": "Organize a list of objects by their size",
+  "input": "Sun, elephant, flea",
+  "output": "Flea, sun, elephant",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

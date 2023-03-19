@@ -1,0 +1,12 @@
+{
+  "id": "1a15bcf1-ba0f-4bfb-bbe0-57c3b6517cfc",
+  "instruction": "Remove all adjectives from the sentence, and provide the output.",
+  "input": "The old and decrepit house was in dire need of repairs.",
+  "output": "The house was in need of repairs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

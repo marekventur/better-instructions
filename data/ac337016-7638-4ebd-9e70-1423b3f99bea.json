@@ -1,0 +1,12 @@
+{
+  "id": "ac337016-7638-4ebd-9e70-1423b3f99bea",
+  "instruction": "Given a string of text, reverse the order of words in the string",
+  "input": "Hello World",
+  "output": "World Hello",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

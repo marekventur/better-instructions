@@ -1,0 +1,12 @@
+{
+  "id": "9e1ed68b-4e39-49f4-a33c-72dab0ed982e",
+  "instruction": "Identify similar objects in the following list.",
+  "input": "Banana, Peach, Carrot, Apple",
+  "output": "Banana and Apple are similar objects as they are both fruits.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

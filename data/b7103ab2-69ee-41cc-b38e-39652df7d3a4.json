@@ -1,0 +1,12 @@
+{
+  "id": "b7103ab2-69ee-41cc-b38e-39652df7d3a4",
+  "instruction": "Who are the current leaders of the G7 countries?",
+  "input": "Noinput",
+  "output": "The current G7 leaders are: \n- United States: President Joe Biden \n- United Kingdom: Prime Minister Boris Johnson \n- France: President Emmanuel Macron \n- Germany: Chancellor Angela Merkel \n- Japan: Prime Minister Yoshihide Suga \n- Canada: Prime Minister Justin Trudeau \n- Italy: Prime Minister Mario Draghi",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

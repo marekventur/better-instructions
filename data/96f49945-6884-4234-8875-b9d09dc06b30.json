@@ -1,0 +1,12 @@
+{
+  "id": "96f49945-6884-4234-8875-b9d09dc06b30",
+  "instruction": "Find the sentence in the text which best describes the biggest advantage/benefit of a certain action.",
+  "input": "Cloud computing can help organizations scale up on demand and reduce their hardware costs. It provides improved system reliability and availability, and fast provisioning of new IT resources.",
+  "output": "Cloud computing provides improved system reliability and availability, and fast provisioning of new IT resources.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

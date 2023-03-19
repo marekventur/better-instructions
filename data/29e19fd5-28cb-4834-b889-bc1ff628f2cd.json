@@ -1,0 +1,12 @@
+{
+  "id": "29e19fd5-28cb-4834-b889-bc1ff628f2cd",
+  "instruction": "Fix any grammar and spelling errors in the following sentence.",
+  "input": "The malloys bought a box of chocket",
+  "output": "The Malloys bought a box of chocolates.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

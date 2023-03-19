@@ -1,0 +1,12 @@
+{
+  "id": "45737d61-0150-4aa8-863c-53aba497ed58",
+  "instruction": "Categorize the following message as personal, transactional or informational.",
+  "input": "Your order has been shipped.",
+  "output": "Transactional.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

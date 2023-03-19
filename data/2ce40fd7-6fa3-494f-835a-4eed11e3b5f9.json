@@ -1,0 +1,12 @@
+{
+  "id": "2ce40fd7-6fa3-494f-835a-4eed11e3b5f9",
+  "instruction": "Turn the following string into a valid URI:",
+  "input": "https:\\\\www.example.com",
+  "output": "https://www.example.com",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

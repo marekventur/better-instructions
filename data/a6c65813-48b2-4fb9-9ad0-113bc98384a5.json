@@ -1,0 +1,12 @@
+{
+  "id": "a6c65813-48b2-4fb9-9ad0-113bc98384a5",
+  "instruction": "Generate an example for the concept of hyperparameter tuning.",
+  "input": "",
+  "output": "An example of hyperparameter tuning is an artificial neural network that is trained to detect anomalies in financial data. The artificial neural network must have numerous parameters, such as the number and type of layers, the activation functions of each layer, the learning rate, the number of epochs, and the batch size. To achieve maximum accuracy, these parameters must be tuned to find the best possible combination. This can be done by using methods such as grid search, random search, or Bayesian optimization to find the set of parameters that result in the best performance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

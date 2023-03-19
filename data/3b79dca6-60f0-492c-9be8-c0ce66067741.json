@@ -1,0 +1,12 @@
+{
+  "id": "3b79dca6-60f0-492c-9be8-c0ce66067741",
+  "instruction": "Create a phone number validator.",
+  "input": "",
+  "output": "def valid_phonenumber(number):\n    if len(number) == 10 and number.isdigit():\n        return True\n    else:\n        return False\n    \nif __name__ == '__main__':\n    number = input('Enter a phone number: ')\n    if valid_phonenumber(number):\n        print('The phone number is valid.')\n    else:\n        print('The phone number is not valid.')",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

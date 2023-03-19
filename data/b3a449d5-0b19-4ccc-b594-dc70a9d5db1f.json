@@ -1,0 +1,12 @@
+{
+  "id": "b3a449d5-0b19-4ccc-b594-dc70a9d5db1f",
+  "instruction": "Identify 5 key parameters that should be considered when constructing a deep learning system.",
+  "input": "",
+  "output": "1. Dataset size and quality: The size and quality of the dataset used to train the deep learning system are key parameters to consider as it can greatly influence the accuracy of the model.\n2. Network architecture: Designing a proper network architecture that contains the necessary layers and components is essential for getting good results from the model. \n3. Training algorithm: Choosing the right training algorithm for the task at hand affects how well the model learns from the data and the speed of convergence.\n4. Hyperparameter optimization: Careful hyperparameter optimization for tuning the model is necessary to get the best possible performance.\n5. Initialization scheme: Initializing the model parameters with an appropriate scheme is important for obtaining desirable results within a reasonable time frame.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

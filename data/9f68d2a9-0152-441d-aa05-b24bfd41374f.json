@@ -1,0 +1,12 @@
+{
+  "id": "9f68d2a9-0152-441d-aa05-b24bfd41374f",
+  "instruction": "Given a website, classify the content into categories such as sports, news, entertainment.",
+  "input": "https://www.cnn.com/",
+  "output": "This website is about news. It contains news articles about politics, current events, technology, and other news topics.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

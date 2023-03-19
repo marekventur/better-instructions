@@ -1,0 +1,12 @@
+{
+  "id": "ff6266cb-2f2d-4c33-b9f6-a61bacc06ff5",
+  "instruction": "Compare two companies and their products.",
+  "input": "Apple and Samsung",
+  "output": "Apple and Samsung are two of the largest companies in the consumer electronics industry. Apple is best known for its iPhones and iPads, while Samsung focuses primarily on smartphones and televisions. Apple products are often pricier but are known for their premium quality, software integration, and user-friendly design. Samsung products offer more features at a lower price point, but may lack the same level of quality that Apple products have. Furthermore, Apple\u2019s products are exclusive, while Samsung products are available in a wide range of stores.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

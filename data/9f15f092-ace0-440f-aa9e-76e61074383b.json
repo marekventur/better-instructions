@@ -1,0 +1,12 @@
+{
+  "id": "9f15f092-ace0-440f-aa9e-76e61074383b",
+  "instruction": "Explain what is meant by the term \"complexity\" in the context of computer science",
+  "input": "",
+  "output": "In computer science, complexity refers to the amount of resources required to solve a problem. It is often measured by the amount of time, memory, or processing power necessary to complete a task. Complexity can also measure the amount of effort or sophistication needed to design a solution for a problem. The complexity of a problem or solution is usually based on the size and structure of the data set, number of steps, and number of possible outcomes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

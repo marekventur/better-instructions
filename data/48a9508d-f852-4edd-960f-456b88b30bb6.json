@@ -1,0 +1,12 @@
+{
+  "id": "48a9508d-f852-4edd-960f-456b88b30bb6",
+  "instruction": "Compare the two following people.",
+  "input": "John - tall, strong\nAdam - short, weak",
+  "output": "John is tall while Adam is short. John is strong while Adam is weak.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

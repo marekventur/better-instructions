@@ -1,0 +1,12 @@
+{
+  "id": "3ec9440d-67a1-468a-83df-2394c2875e04",
+  "instruction": "Detect if the given passage contains a rhetorical question.",
+  "input": "Can you believe it took him all of three minutes to build the birdhouse?",
+  "output": "Yes",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

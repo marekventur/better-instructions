@@ -1,0 +1,12 @@
+{
+  "id": "b4ca4b32-1778-43a9-a959-a3a1fbb93b9a",
+  "instruction": "When given a topic, generate 2 related topics.",
+  "input": "Gardening",
+  "output": "1. Organic Gardening \n2. Urban Gardening",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

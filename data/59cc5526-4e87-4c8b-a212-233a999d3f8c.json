@@ -1,0 +1,12 @@
+{
+  "id": "59cc5526-4e87-4c8b-a212-233a999d3f8c",
+  "instruction": "Find two examples of binary classification problems.",
+  "input": "",
+  "output": "1. Spam filtering: classifying emails as either spam or non-spam.\n2. Credit risk assessment: classifying loan applicants as either high risk or low risk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

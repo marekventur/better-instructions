@@ -1,0 +1,12 @@
+{
+  "id": "1c01f42f-9588-4e49-9f52-382234d9e49d",
+  "instruction": "Edit the following sentence: \"The ducks was noisy.\"",
+  "input": "The ducks was noisy.",
+  "output": "The ducks were noisy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

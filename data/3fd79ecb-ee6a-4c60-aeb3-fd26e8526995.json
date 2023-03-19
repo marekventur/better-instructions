@@ -1,0 +1,12 @@
+{
+  "id": "3fd79ecb-ee6a-4c60-aeb3-fd26e8526995",
+  "instruction": "How could the customer's expectations be better managed?",
+  "input": "Customer has been promised a delivery in 5 days, but it has been delayed indefinitely.",
+  "output": "The customer should be given regular updates about the delivery status. If any issues arise that might cause delays, the customer should be informed proactively. Regular communication should be maintained with the customer to manage their expectations and provide them with an alternative plan.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

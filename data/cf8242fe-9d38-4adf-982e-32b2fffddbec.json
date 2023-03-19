@@ -1,0 +1,12 @@
+{
+  "id": "cf8242fe-9d38-4adf-982e-32b2fffddbec",
+  "instruction": "Find the derivative of f(x) = x^3 + 5x + 10",
+  "input": "f(x) = x^3 + 5x + 10",
+  "output": "The derivative of f(x) = x^3 + 5x + 10 is 3x^2 + 5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

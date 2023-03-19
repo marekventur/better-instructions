@@ -1,0 +1,12 @@
+{
+  "id": "6d9107f7-782e-4639-9a1a-c3e7215ddfbb",
+  "instruction": "Compute the sum of two given numbers without using the + operator",
+  "input": "A=5, B=3",
+  "output": "The sum of 5 and 3 without using the + operator is 8.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fc265bc4-bd9e-4d9d-ace3-35db6ae2ae6b",
+  "instruction": "Determine which sentence is the right answer.",
+  "input": "A) Graduation is a celebration of your accomplishments.\nB) Graduation is a reminder of your shortcomings.",
+  "output": "A) Graduation is a celebration of your accomplishments.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

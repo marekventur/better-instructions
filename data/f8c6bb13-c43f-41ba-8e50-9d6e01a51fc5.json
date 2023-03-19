@@ -1,0 +1,12 @@
+{
+  "id": "f8c6bb13-c43f-41ba-8e50-9d6e01a51fc5",
+  "instruction": "Cut the following sentence in half to make two grammatically correct sentences.\n\"I am going to the store, but I don't know what I need to buy.\"",
+  "input": "",
+  "output": "I am going to the store. But I don't know what I need to buy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

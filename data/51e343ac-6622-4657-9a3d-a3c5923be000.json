@@ -1,0 +1,12 @@
+{
+  "id": "51e343ac-6622-4657-9a3d-a3c5923be000",
+  "instruction": "Compare and contrast two different types of facial recognition technologies.",
+  "input": "",
+  "output": "The two main types of facial recognition technologies are 2D and 3D. 2D facial recognition uses 2D images of a person to identify them and is typically used to identify someone in a photo or video. 3D facial recognition uses 3D scans of a person's face to create a detailed map of the face and is often used for security or identity verification. While both are accurate, 3D facial recognition is more secure and accurate since it creates a more detailed map of the person's face.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

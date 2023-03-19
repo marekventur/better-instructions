@@ -1,0 +1,12 @@
+{
+  "id": "897f92c1-7248-49e4-bfcb-947833fd9cc2",
+  "instruction": "Mark content with the correct tag.",
+  "input": "This is a machine learning article.",
+  "output": "<tag>Machine Learning</tag>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

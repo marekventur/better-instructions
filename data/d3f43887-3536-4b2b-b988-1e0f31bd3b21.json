@@ -1,0 +1,12 @@
+{
+  "id": "d3f43887-3536-4b2b-b988-1e0f31bd3b21",
+  "instruction": "Summarize the given text into a short description.",
+  "input": "The classic low and slow cooking method of smoking has been used since the early days of American barbecue. The process is simple: wood is burned in a smokehouse and the barbecue is cooked in the enclosed space and smoked over several hours.",
+  "output": "Smoking is a classic barbecue cooking method that has been used for centuries, where long burning wood is used to slowly cook meats in an enclosed space over several hours.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ced44c93-bc65-4df4-9c25-216f3d7043ca",
+  "instruction": "Edit the sentence making sure that all pronouns used are grammatically correct.",
+  "input": "Students should give their opinions honestly and openly.",
+  "output": "Students should give their own opinions honestly and openly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

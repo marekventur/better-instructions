@@ -1,0 +1,12 @@
+{
+  "id": "8d207bdd-ea98-4338-b607-8c2ce60f5c05",
+  "instruction": "What is the most likely named entity in the sentence?",
+  "input": "Walmart is one of the largest retailers in the US.",
+  "output": "The most likely named entity is \"Walmart\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

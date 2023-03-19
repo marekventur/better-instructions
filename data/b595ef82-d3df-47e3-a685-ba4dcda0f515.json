@@ -1,0 +1,12 @@
+{
+  "id": "b595ef82-d3df-47e3-a685-ba4dcda0f515",
+  "instruction": "Use natural language processing techniques to extract the subject, verb, and object in the following sentence.",
+  "input": "People should show respect to each other.",
+  "output": "Subject: People \nVerb: should show \nObject: respect",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

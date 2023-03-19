@@ -1,0 +1,12 @@
+{
+  "id": "503d065d-3870-413d-9c18-461345c423b2",
+  "instruction": "Evaluate the following logical statement as true or false and explain why: All dogs are mammals.",
+  "input": "",
+  "output": "True, because mammals are defined as any warm-blooded vertebrate animal of the class Mammalia, and dogs belong to this class.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

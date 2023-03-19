@@ -1,0 +1,12 @@
+{
+  "id": "ab4e487f-f413-44f0-9925-b0e77bc9e7d1",
+  "instruction": "How would you solve for the roots of x^2 - 4x + 4 = 0?",
+  "input": "",
+  "output": "The roots of the equation x2 - 4x + 4 = 0 can be obtained by solving the quadratic equation by using the quadratic formula. The quadratic formula is given by x = [-b \u00b1 \u221a(b2 - 4ac)] / 2a. Substituting b = -4, a = 1, and c = 4 into the equation, the roots are obtained as x = 2 \u00b1 \u221a0. Thus, the roots are x = 2, 2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "78d2a21e-116f-4ae0-99d6-43c1aa05ef49",
+  "instruction": "Match the items in column B with the items in column A and output the results as shown below.",
+  "input": "Column A: [cat, apple, bake, Portugal]\nColumn B: [animal, food, country, fruit]",
+  "output": "cat - animal\napple - fruit\nbake - food\nPortugal - country",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

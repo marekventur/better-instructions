@@ -1,0 +1,12 @@
+{
+  "id": "7e8b070a-750e-489e-aea3-158db234ea3e",
+  "instruction": "Classify each word by its part of speech.",
+  "input": "paper, running",
+  "output": "Paper: Noun\nRunning: Verb",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

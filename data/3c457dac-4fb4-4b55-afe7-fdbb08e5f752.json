@@ -1,0 +1,12 @@
+{
+  "id": "3c457dac-4fb4-4b55-afe7-fdbb08e5f752",
+  "instruction": "Transform the given text into third person.",
+  "input": "I love going to the beach.",
+  "output": "He loves going to the beach.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

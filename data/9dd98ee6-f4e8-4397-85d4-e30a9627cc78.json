@@ -1,0 +1,12 @@
+{
+  "id": "9dd98ee6-f4e8-4397-85d4-e30a9627cc78",
+  "instruction": "Given a sentence, make it more concise while keeping its meaning intact.",
+  "input": "The house was situated in an area where it was surrounded by trees on all sides.",
+  "output": "The house was nestled among trees.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

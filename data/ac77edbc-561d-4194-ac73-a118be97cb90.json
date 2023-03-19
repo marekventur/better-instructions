@@ -1,0 +1,12 @@
+{
+  "id": "ac77edbc-561d-4194-ac73-a118be97cb90",
+  "instruction": "What security risks should organizations consider when moving data to the cloud?",
+  "input": "",
+  "output": "Organizations should be aware of the potential for data breaches, malicious activities, unauthorized access, data exfiltration, data corruption, and compliance risks when moving data to the cloud. Additionally, organizations should evaluate the cloud provider\u2019s security measures, consider encryption and tokenization of sensitive data, and develop an appropriate incident response plan.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

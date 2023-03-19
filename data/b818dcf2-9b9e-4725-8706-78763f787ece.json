@@ -1,0 +1,12 @@
+{
+  "id": "b818dcf2-9b9e-4725-8706-78763f787ece",
+  "instruction": "Change the given sentence in an interrogative statement.",
+  "input": "He was tired after walking a long way.",
+  "output": "Was he tired after walking a long way?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

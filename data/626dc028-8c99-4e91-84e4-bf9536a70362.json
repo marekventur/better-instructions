@@ -1,0 +1,12 @@
+{
+  "id": "626dc028-8c99-4e91-84e4-bf9536a70362",
+  "instruction": "Replace the words in \"___\" to make the sentence grammatically correct.",
+  "input": "They are ___ much money on a new car.",
+  "output": "They are spending too much money on a new car.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

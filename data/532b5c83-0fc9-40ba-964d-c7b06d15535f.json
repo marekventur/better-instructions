@@ -1,0 +1,12 @@
+{
+  "id": "532b5c83-0fc9-40ba-964d-c7b06d15535f",
+  "instruction": "Change the sentence to present perfect continuous.",
+  "input": "He is walking quickly.",
+  "output": "He has been walking quickly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

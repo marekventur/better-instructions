@@ -1,0 +1,12 @@
+{
+  "id": "d11ac171-57dc-4c44-8618-90a1aa1e03ed",
+  "instruction": "Generate a specific example of a data structure that can be used in a web application.",
+  "input": "",
+  "output": "A hash table is a popular data structure that can be used in a web application. It stores key-value pairs and allows fast lookup, insertion, and deletion of elements. It can be used to store information such as user settings or preferences, or to store user session variables.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

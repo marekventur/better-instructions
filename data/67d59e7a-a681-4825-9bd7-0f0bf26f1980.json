@@ -1,0 +1,12 @@
+{
+  "id": "67d59e7a-a681-4825-9bd7-0f0bf26f1980",
+  "instruction": "Design a mobile app for the input service.",
+  "input": "A taxi booking service.",
+  "output": "The mobile app for the taxi booking service should have the following features:\n- An intuitive user interface with one-click access to booking a taxi\n- Search and filter functions to quickly locate and choose the right taxi\n- An interactive map with real-time updates of available taxis\n- Support for payment by cash/credit/debit card\n- Ability to input destination and estimated time of arrival, so customers can be sure to get an efficient ride\n- Support for rating and reviewing drivers and customers\n- Emergency assistance button in case of any issues during the ride \n- Access to customer support for any technical issues or assistance needed during the booking process",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

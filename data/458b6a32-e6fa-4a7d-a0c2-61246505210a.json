@@ -1,0 +1,12 @@
+{
+  "id": "458b6a32-e6fa-4a7d-a0c2-61246505210a",
+  "instruction": "Summarize the article on the link",
+  "input": "https://www.nytimes.com/2019/07/14/opinion/football-concussion-saftey.html",
+  "output": "This article examines the debate over player safety and concussions in the NFL. The author reviews some of the solutions that have been proposed, such as better equipment and rule changes, but argues that the league has failed to make meaningful progress in addressing the issue. The author points out that player health and safety must take priority in order for football to move forward and suggests that the league implement better standards for concussion treatment, implement stricter guidelines for contact drills and tackling, and incentivize players to report any symptoms of head trauma.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

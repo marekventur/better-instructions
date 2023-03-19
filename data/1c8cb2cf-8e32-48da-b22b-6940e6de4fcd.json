@@ -1,0 +1,12 @@
+{
+  "id": "1c8cb2cf-8e32-48da-b22b-6940e6de4fcd",
+  "instruction": "Write a question to gather more information about a particular topic.",
+  "input": "Social media",
+  "output": "How has social media impacted people's lives?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "83ce0f05-650e-4d7a-9520-022deca1f5eb",
+  "instruction": "Add the proper punctuation to this sentence",
+  "input": "Hello how are you",
+  "output": "Hello, how are you?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

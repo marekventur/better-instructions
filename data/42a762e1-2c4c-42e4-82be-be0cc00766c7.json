@@ -1,0 +1,12 @@
+{
+  "id": "42a762e1-2c4c-42e4-82be-be0cc00766c7",
+  "instruction": "Rewrite the given sentences by replacing the nouns with pronouns",
+  "input": "Henry wrote a letter. Henry posted the letter.",
+  "output": "He wrote a letter. He posted it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

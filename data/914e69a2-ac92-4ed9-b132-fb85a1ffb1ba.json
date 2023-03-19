@@ -1,0 +1,12 @@
+{
+  "id": "914e69a2-ac92-4ed9-b132-fb85a1ffb1ba",
+  "instruction": "Replace the second person pronoun with a third person pronoun",
+  "input": "You are beautiful",
+  "output": "They are beautiful.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

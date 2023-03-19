@@ -1,0 +1,12 @@
+{
+  "id": "b8fa023d-bb1d-4a38-8f19-654c51b3104c",
+  "instruction": "Explain how a machine learning algorithm works.",
+  "input": "",
+  "output": "A machine learning algorithm is a set of instructions used to generate models of data that can be used to make predictions or decisions. Machine learning algorithms work by taking input data and finding patterns in the data that are statistically meaningful. The algorithms then use the extracted patterns to generalize from the input data, enabling them to make predictions or classify unseen data. The algorithms can also be tuned to optimize for specific outcomes. Finally, the algorithms give feedback on their performance to enable the model to be further refined for better performance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

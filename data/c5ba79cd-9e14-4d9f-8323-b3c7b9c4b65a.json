@@ -1,0 +1,12 @@
+{
+  "id": "c5ba79cd-9e14-4d9f-8323-b3c7b9c4b65a",
+  "instruction": "Describe how a hash table works.",
+  "input": "",
+  "output": "A hash table is an efficient data structure used to store key-value pairs. Data is stored in the form of a key and a corresponding data value. The hash table uses a hashing function to calculate the hash code \u2013 a unique identifier \u2013 that is associated with each key. To look up the value of the key, the hash table uses the key\u2019s hash code to locate the corresponding data value. As a result, data can be accessed quickly and efficiently.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

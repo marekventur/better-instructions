@@ -1,0 +1,12 @@
+{
+  "id": "53d1eca6-3f04-49b7-a242-3775fddbec31",
+  "instruction": "How does my car's dashboard works?",
+  "input": "",
+  "output": "Your car's dashboard consists of several meters, warning lights and gauges which help you monitor the performance of your car as you drive. These gauges include an odometer for tracking the distance traveled, a tachometer for monitoring the engine's speed, a speedometer for tracking your cars speed, an oil pressure gauge for keeping an eye on your car's oil levels, a thermometer to monitor the engine temperature and other gauges that display different types of information to the driver. Warning lights will alert when the vehicle needs maintenance, such as low oil and low fuel levels. Modern cars also offer several more advanced features such as navigation systems, Bluetooth and audio controls, as well as climate control systems.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

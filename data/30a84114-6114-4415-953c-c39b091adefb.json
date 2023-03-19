@@ -1,0 +1,12 @@
+{
+  "id": "30a84114-6114-4415-953c-c39b091adefb",
+  "instruction": "Create a Java Class that has three methods.",
+  "input": "",
+  "output": "public class MyClass { \n  \n    // Method 1  \n    public void method1() { \n        // Code here\n    } \n  \n    // Method 2  \n    public void method2() { \n        // Code here\n    } \n  \n    // Method 3  \n    public void method3() {\n        // Code here \n    }\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

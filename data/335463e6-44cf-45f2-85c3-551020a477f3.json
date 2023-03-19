@@ -1,0 +1,12 @@
+{
+  "id": "335463e6-44cf-45f2-85c3-551020a477f3",
+  "instruction": "Write pseudocode for a program that updates a database",
+  "input": "",
+  "output": "For each entry in the database:\n  Read the value \n  Update the value\n  Write the new value back to the database\nEnd for",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

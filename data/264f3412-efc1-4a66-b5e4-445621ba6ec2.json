@@ -1,0 +1,12 @@
+{
+  "id": "264f3412-efc1-4a66-b5e4-445621ba6ec2",
+  "instruction": "Turn a paragraph of text into bullet points.",
+  "input": "The town of Maplewood is located in south-central New Jersey. It is known for its small town charm, celebrated annual festivals, and convenient public transport options.",
+  "output": "\u2022 The town of Maplewood is located in south-central New Jersey \n\u2022 Known for its small town charm \n\u2022 Celebrated annual festivals \n\u2022 Convenient public transport options",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

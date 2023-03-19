@@ -1,0 +1,12 @@
+{
+  "id": "4f686bea-8012-44aa-8350-d0df31347ace",
+  "instruction": "Construct a regular expression to find all the floating number in a string.",
+  "input": "string: You have only 15.30 points left.",
+  "output": "\\d+\\.\\d+",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

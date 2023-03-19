@@ -1,0 +1,12 @@
+{
+  "id": "65b8ddfc-1816-47d0-9001-38a7802abe30",
+  "instruction": "Explain why the following sentence is grammatically incorrect.",
+  "input": "I seen a dog.",
+  "output": "This sentence is grammatically incorrect because \"seen\" is not the correct form of the verb \"see\". The correct form of the verb should be \"saw\". The sentence should read \"I saw a dog\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

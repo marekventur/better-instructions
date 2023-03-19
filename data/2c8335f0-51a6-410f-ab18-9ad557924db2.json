@@ -1,0 +1,12 @@
+{
+  "id": "2c8335f0-51a6-410f-ab18-9ad557924db2",
+  "instruction": "Given the input, identify the figure of speech being used.",
+  "input": "The ant crawled across the carpet like a bulldozer.",
+  "output": "The figure of speech used in this sentence is a simile.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

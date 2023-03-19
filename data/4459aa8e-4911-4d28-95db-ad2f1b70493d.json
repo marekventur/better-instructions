@@ -1,0 +1,12 @@
+{
+  "id": "4459aa8e-4911-4d28-95db-ad2f1b70493d",
+  "instruction": "Generate a travel route from London to Moscow.",
+  "input": "",
+  "output": "The most direct route from London to Moscow is to fly to Amsterdam and then take a connecting flight to Moscow. Alternatively, you can take a direct flight from London to St Petersburg and continue by train, bus or car to Moscow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

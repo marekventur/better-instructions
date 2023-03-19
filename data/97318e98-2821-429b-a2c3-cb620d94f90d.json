@@ -1,0 +1,12 @@
+{
+  "id": "97318e98-2821-429b-a2c3-cb620d94f90d",
+  "instruction": "Create a class for a computer programming language.",
+  "input": "",
+  "output": "class Program {\n    private String language;\n    private int numLines;\n    private List<String> commands;\n    \n    public Program(String language) {\n        this.language = language;\n        this.numLines = 0;\n        this.commands = new ArrayList<>();\n    }\n    \n    public void addLine(String command) {\n        this.commands.add(command);\n        this.numLines++;\n    }\n    \n    public List<String> getCommands() {\n        return this.commands;\n    }\n    \n    public int getNumLines() {\n        return this.numLines;\n    }\n    \n    public String getLanguage() {\n        return this.language;\n    }\n    \n    public void execute() {\n        for (String command : this.commands) {\n            switch(this.language) {\n                case 'Python':\n                    //execute python command\n                    break;\n                case 'Java':\n                    //execute java command\n                    break;\n                case 'C#':\n                    //execute C# command\n                    break;\n            }\n        }\n    }\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

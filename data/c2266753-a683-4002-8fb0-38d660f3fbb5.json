@@ -1,0 +1,12 @@
+{
+  "id": "c2266753-a683-4002-8fb0-38d660f3fbb5",
+  "instruction": "Rewrite the sentence including a relative adverb.",
+  "input": "I saw a sanke in the garden.",
+  "output": "I saw a snake where I was in the garden.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

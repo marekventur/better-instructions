@@ -1,0 +1,12 @@
+{
+  "id": "f5e182ed-4551-4177-8593-74ca551d7278",
+  "instruction": "Analyze the given poem in terms of its literary form, rhyme, rhythm and figurative language.",
+  "input": "\"To Sleep\" by John Keats",
+  "output": "John Keats' poem \"To Sleep\" is written in traditional English lyrical form which consists of six stanzas with six lines each. It contains an ABAB rhyme scheme and a Trochaic tetrameter rhythm. Additionally, the poem employs several use of figurative language including personification, metaphor and simile. An example of a metaphor is in the line \u201cCome, blessed barrier between day and day,\u201d where Keats metaphorically calls sleep a barrier between two days.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

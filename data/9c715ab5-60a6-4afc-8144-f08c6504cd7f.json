@@ -1,0 +1,12 @@
+{
+  "id": "9c715ab5-60a6-4afc-8144-f08c6504cd7f",
+  "instruction": "Given a sentence, determine if it constitutes an oxymoron.",
+  "input": "\"A fierce quiet\"",
+  "output": "Yes, this sentence is an oxymoron.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

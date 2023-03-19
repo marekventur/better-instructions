@@ -1,0 +1,12 @@
+{
+  "id": "ec15b5af-945f-4bfa-a91c-16bfc288572c",
+  "instruction": "Construct a set of questions to interview a software engineer.",
+  "input": "",
+  "output": "1. What inspired you to pursue a career in software engineering?\n2. What challenges have you faced in developing software?\n3. How do you keep up with the latest trends and technologies in software development?\n4. What steps do you take to ensure that the software you develop is secure and reliable?\n5. How do you handle feedback and unexpected challenges in your projects?\n6. What collaboration tools and processes do you use to work efficiently with other engineers?\n7. Are there any particular challenges in developing software for mobile or web applications?\n8. How do you stay motivated during ongoing projects?\n9. What advice would you give to someone interested in becoming a software engineer?\n10. What are the biggest challenges in the software engineering industry right now?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

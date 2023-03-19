@@ -1,0 +1,12 @@
+{
+  "id": "08ed46d5-4993-40a7-8c68-46bcf4053576",
+  "instruction": "Which of these is the largest mountain range in Europe?",
+  "input": "Alps, Pyrenees, Ural",
+  "output": "The Alps are the largest mountain range in Europe.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

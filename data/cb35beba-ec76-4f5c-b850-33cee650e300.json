@@ -1,0 +1,12 @@
+{
+  "id": "cb35beba-ec76-4f5c-b850-33cee650e300",
+  "instruction": "Generate a list of 3 to 4 key takeaways from the article.",
+  "input": "CNN's consultant on political television advertising believes that the cost to influence the 2008 election may exceed $3 billion.",
+  "output": "- The cost to influence the 2008 election could exceed $3 billion, an analysis shows.\n- Television ads on health care alone total $60 million so far this year.\n- Groups are pivoting from legislative advocacy mode to political mode and targeting candidates with aggressive advertising.\n- Candidates need to create ads that stand out from the sheer number of ads, otherwise they risk being lost in the noise.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

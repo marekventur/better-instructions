@@ -1,0 +1,12 @@
+{
+  "id": "9ba31c64-2bad-4256-8fb3-b79f94e69f78",
+  "instruction": "Output a recipe for making a veggie sandwich.",
+  "input": "",
+  "output": "Ingredients: \n- 2 slices of whole grain bread \n- 2 tablespoons of sun-dried tomato pesto\n- 1/2 cup baby spinach leaves \n- 1/4 cup alfalfa sprouts \n- 1/4 avocado, sliced \n- 1 tomato, sliced \n- 1/4 cup shredded carrot \n\nInstructions: \n1. Spread the sun-dried tomato pesto onto one slice of the bread.\n2. Layer the spinach leaves, sprouts, avocado, tomato slices, and carrot onto the pesto.\n3. Place the other slice of bread on top.\n4. Toast the sandwich in a non-stick skillet over medium heat until golden and toasted.\n5. Cut in half and serve.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "77d9cc17-230b-44f5-b0d8-b29db788006f",
+  "instruction": "Generate an example of a conversation between two people about the weather in San Francisco.",
+  "input": "",
+  "output": "Person 1: What's the weather like in San Francisco today?\nPerson 2: It's sunny, with temperatures up in the mid-70s. Pretty nice day!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

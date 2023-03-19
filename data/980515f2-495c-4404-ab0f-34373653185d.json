@@ -1,0 +1,12 @@
+{
+  "id": "980515f2-495c-4404-ab0f-34373653185d",
+  "instruction": "Explain what a convolutional neural network (CNN) could be used for in NLP.",
+  "input": "",
+  "output": "A convolutional neural network (CNN) can be used in NLP for tasks such as text classification, language modeling, question answering, and sentence similarity. CNNs enable the capture of local, short-term patterns in a text sequence and can help identify meaningful sources of information for language understanding tasks, such as sentence-level sentiment classification and sentence chunking for syntax analysis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

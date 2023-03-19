@@ -1,0 +1,12 @@
+{
+  "id": "9c5ce673-1b79-41f3-8114-fa47a2cbf0eb",
+  "instruction": "Compare K-Means and Hierarchical Clustering.",
+  "input": "",
+  "output": "K-Means and Hierarchical Clustering are both types of unsupervised learning algorithms used for clustering. K-Means is a hard clustering approach that creates clusters with a certain number of data points assigned to each cluster. Hierarchical Clustering is a soft clustering approach that creates clusters based on the distance between data points. K-Means is more popular and computationally efficient but can be affected by outliers, while Hierarchical Clustering is more flexible and can handle outliers better.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

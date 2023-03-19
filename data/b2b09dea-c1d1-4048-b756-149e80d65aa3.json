@@ -1,0 +1,12 @@
+{
+  "id": "b2b09dea-c1d1-4048-b756-149e80d65aa3",
+  "instruction": "List the steps to play the popular dice game Pig.",
+  "input": "",
+  "output": "There are two players, each with an individual score. \n\n1. The first player rolls one die, and after seeing the result, can decide to either roll again or stop. \n2. If the die roll is a 1, the player's turn is over, and their score for the turn is zero. If a 2 through 6 is rolled, the number is added to the player\u2019s overall score. \n3. If the player decides to roll again and rolls a 1, their score for the turn is wiped out and their turn is over. \n4. The player\u2019s turn is over when they decide to hold and not roll again. \n5. If the player reaches a total of 20 points in the round, their score for the turn is",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

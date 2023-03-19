@@ -1,0 +1,12 @@
+{
+  "id": "1bb7b386-9270-42ec-a0f2-c19124efe995",
+  "instruction": "Correctly punctuate the following sentence",
+  "input": "John asked me did you finish your work",
+  "output": "John asked me, \"Did you finish your work?\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

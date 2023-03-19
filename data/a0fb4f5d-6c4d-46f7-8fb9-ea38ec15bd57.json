@@ -1,0 +1,12 @@
+{
+  "id": "a0fb4f5d-6c4d-46f7-8fb9-ea38ec15bd57",
+  "instruction": "Given a passage, rewrite it in the present tense.",
+  "input": "Yesterday I went to the grocery store to buy some vegetables.",
+  "output": "I go to the grocery store to buy some vegetables today.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

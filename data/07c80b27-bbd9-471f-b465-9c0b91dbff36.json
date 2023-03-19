@@ -1,0 +1,12 @@
+{
+  "id": "07c80b27-bbd9-471f-b465-9c0b91dbff36",
+  "instruction": "Write an algorithm to sort the numbers in an array from highest to lowest.",
+  "input": "[3, 9, 8, 5, 1, 11]",
+  "output": "// Assign the array to a variable\nvar arr = [3, 9, 8, 5, 1, 11];\n\n// Create a function that takes unsorted array as argument\nfunction sortNum(arr) {\n\n// Create an empty array to store the sorted result\n let sortedArr = [];\n\n// Get the highest number in the array\n let highestNum = Math.max(...arr);\n\n// Loop until all the numbers have been sorted\n while (arr.length > 0) {\n    // Iterate through the array and find the index of the highest number\n    let highestNumIdx = arr.indexOf(highestNum)\n \n    // Retroactively push the highest number to the sorted array\n    sortedArr.push(arr[highestNumIdx]);\n\n    // Delete the highest number from the original array\n    arr.splice(highestNumIdx, 1);\n\n    // Replace the highest number with a lower number\n    highestNum = Math.max(...arr);\n}\n\n// Return the sorted array\n return sortedArr;\n}\n\n// Output: [11, 9, 8, 5, 3, 1]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

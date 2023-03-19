@@ -1,0 +1,12 @@
+{
+  "id": "ce5a866c-b415-416c-9650-1a3730c6f4ee",
+  "instruction": "Fill in the blank using a word that best completes the sentence.",
+  "input": "The city was blanketed in a thick layer of eerie ____.",
+  "output": "The city was blanketed in a thick layer of eerie fog.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

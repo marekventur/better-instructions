@@ -1,0 +1,12 @@
+{
+  "id": "e4d92cbf-a643-42c6-9001-1af5b2cbb21f",
+  "instruction": "Summarize the following article. Output a summarization of 5 sentences or fewer.",
+  "input": "The United Nations held a meeting in New York with representatives from 193 countries to discuss the rise of global temperatures and the increase in carbon dioxide levels. The delegates shared information about the environment, such as the melting of the polar ice caps, coastal flooding, and the spread of diseases to new areas. They also discussed ways in which countries can reduce their emissions and generate renewable energy.",
+  "output": "The United Nations held a meeting in New York to discuss global temperatures and rising carbon dioxide levels. Representatives from 193 countries shared information about the environment, including the melting of the polar ice caps and coastal flooding. They discussed ways to reduce emissions and generate renewable energy. The main objectives of the meeting were to raise awareness of the effects of climate change and to encourage governments to take action to mitigate the damage that is being done.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

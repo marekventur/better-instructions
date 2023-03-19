@@ -1,0 +1,12 @@
+{
+  "id": "1b552b07-182d-4e3f-a58c-558a552416df",
+  "instruction": "Write a summary of the author's main argument.",
+  "input": "[Article about the global effects of climate change]",
+  "output": "The author's main argument is that climate change is threatening the planet at an unprecedented rate, and its effects could be felt on a global scale. Climate change is caused by human activity, and the current trajectory is leading to an unstable global environment with an uncertain future. Therefore, it is important to take corrective steps against climate change to ensure the planet's future.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

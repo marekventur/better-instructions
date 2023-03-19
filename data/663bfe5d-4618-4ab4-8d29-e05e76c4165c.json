@@ -1,0 +1,12 @@
+{
+  "id": "663bfe5d-4618-4ab4-8d29-e05e76c4165c",
+  "instruction": "Explain the ethical dilemma in this situation.",
+  "input": "An insurance company promises low-cost health care coverage to its customers, but, upon examining the details of the policy, many customers find that they are not actually covered for life-saving procedures.",
+  "output": "The ethical dilemma is that the insurance company is making false promises to its customers, leading them to believe that they are covered for procedures that are not actually part of their policy, which could possibly result in them not being able to access needed medical care.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

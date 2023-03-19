@@ -1,0 +1,12 @@
+{
+  "id": "f26c5e21-7cc3-41fa-9145-290db7f44660",
+  "instruction": "Given a job description, list the important qualifications.",
+  "input": "A job listing for a software engineer.",
+  "output": "Qualifications for a software engineer include prior experience with software programming and development, strong knowledge in computer science, strong problem solving and analytical thinking skills, teamwork and communication skills, and a strong understanding of software engineering principles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

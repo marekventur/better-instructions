@@ -1,0 +1,12 @@
+{
+  "id": "196e18aa-ede2-4e37-8e7c-3bcda2e30f2b",
+  "instruction": "Write a list of steps to solve the following mathematical inequality:  9x + 8 > 17",
+  "input": "",
+  "output": "1. Subtract 8 from both sides of the equation:  9x > 9.\n2. Divide both sides by 9:  x > 1.\n3. The solution is x > 1.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

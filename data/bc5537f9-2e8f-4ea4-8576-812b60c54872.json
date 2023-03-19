@@ -1,0 +1,12 @@
+{
+  "id": "bc5537f9-2e8f-4ea4-8576-812b60c54872",
+  "instruction": "Highlight any errors in this sentence.",
+  "input": "He wrote a novel but it's was unsuccessful.",
+  "output": "He wrote a novel but it was unsuccessful.  (Error: \"it's\" should be \"it was\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

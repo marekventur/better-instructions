@@ -1,0 +1,12 @@
+{
+  "id": "523d3120-4d2e-4e11-aec0-d5b25c370d22",
+  "instruction": "Identify what type of text is given",
+  "input": "The market research analyst found that the average customer reviews was already high",
+  "output": "This is a descriptive text.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

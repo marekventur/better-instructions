@@ -1,0 +1,12 @@
+{
+  "id": "9a386b4d-6775-4f03-9261-8dcaa11bda6e",
+  "instruction": "Identify inaccuracies, if any, in the given statement.",
+  "input": "Antibiotics are used to treat viral infections.",
+  "output": "Inaccuracies: Antibiotics cannot be used to treat viral infections, as they are designed to fight bacteria, not viruses.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

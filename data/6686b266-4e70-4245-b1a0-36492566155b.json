@@ -1,0 +1,12 @@
+{
+  "id": "6686b266-4e70-4245-b1a0-36492566155b",
+  "instruction": "Determine whether this sentence is grammatical",
+  "input": "I didn't wanted it",
+  "output": "No, that sentence is not grammatical. The correct sentence is: \"I didn't want it\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

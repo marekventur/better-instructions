@@ -1,0 +1,12 @@
+{
+  "id": "d740071d-a9cc-412a-a5d4-930e47f72677",
+  "instruction": "Provide an appropriate output sentence for the given input with the provided context.",
+  "input": "Cats\nContext: Jane loves animals",
+  "output": "Jane loves cats too.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

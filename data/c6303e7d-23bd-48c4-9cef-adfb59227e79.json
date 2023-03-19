@@ -1,0 +1,12 @@
+{
+  "id": "c6303e7d-23bd-48c4-9cef-adfb59227e79",
+  "instruction": "Is the following statement true or false? Output \"true\" or \"false\".",
+  "input": "Our Sun is the largest star in the universe.",
+  "output": "false",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

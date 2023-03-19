@@ -1,0 +1,12 @@
+{
+  "id": "7a3314f1-456e-4de8-8be0-6da358ed672c",
+  "instruction": "Generate a poem given a subject.",
+  "input": "Subject: Puppies",
+  "output": "Puppies, so small and so sweet \nLiving in fur, so soft and light \nPlaying around in the sun\nEyes bright and noses wet\nBouncing off with no goal in sight\nFrolicking with so much delight \nIt's hard not to smile watching their show\nCuddling up with no cares to know. \nAh, those precious little bundles of joy,\nColoring our days with so much delight.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

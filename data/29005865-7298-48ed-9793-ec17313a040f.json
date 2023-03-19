@@ -1,0 +1,12 @@
+{
+  "id": "29005865-7298-48ed-9793-ec17313a040f",
+  "instruction": "Create a profile for a new user.",
+  "input": "Username: @superfan",
+  "output": "@superfan is an enthusiastic fan of superheroes and a passionate supporter of the Incredibles. They are always on the lookout for the latest news and updates, and they always share their thoughts and opinions with their followers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

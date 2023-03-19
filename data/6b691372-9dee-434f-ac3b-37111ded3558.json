@@ -1,0 +1,12 @@
+{
+  "id": "6b691372-9dee-434f-ac3b-37111ded3558",
+  "instruction": "Rewrite this paragraph so that it has the same meaning, is grammatically correct, and uses different vocabulary.",
+  "input": "The man was extraordinarily ill. He had been stricken with a virus for weeks.",
+  "output": "The man was in a critical condition. He had been struggling with a contagious disease for weeks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

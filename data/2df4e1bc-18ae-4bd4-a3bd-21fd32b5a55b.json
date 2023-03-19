@@ -1,0 +1,12 @@
+{
+  "id": "2df4e1bc-18ae-4bd4-a3bd-21fd32b5a55b",
+  "instruction": "Classify the email as 'promotional' or 'transactional', based on its contents",
+  "input": "Dear customer,\n\nWe are pleased to inform you that your order with the following reference number has been successfully confirmed. We hope that you have a pleasant shopping experience.\n\nThank you.",
+  "output": "Transactional.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

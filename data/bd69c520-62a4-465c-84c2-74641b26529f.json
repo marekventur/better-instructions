@@ -1,0 +1,12 @@
+{
+  "id": "bd69c520-62a4-465c-84c2-74641b26529f",
+  "instruction": "Generate a description of a facial recognition system.",
+  "input": "",
+  "output": "Facial recognition systems are computer-based algorithms that utilize mathematical and statistical techniques to identify and categorize faces based on characteristics such as features, texture, and shape. The system can process digital images or video files of people\u2019s faces, and compare them against a database of faces. This can provide information such as if a person is on a watch list, or if a certain person has been identified in a crowd. Facial recognition systems also can be used for authentication purposes, recognizing people based on their facial features. The accuracy of facial recognition systems has significantly improved with the widespread use of artificial intelligence and other technologies.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

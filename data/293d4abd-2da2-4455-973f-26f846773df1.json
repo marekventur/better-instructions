@@ -1,0 +1,12 @@
+{
+  "id": "293d4abd-2da2-4455-973f-26f846773df1",
+  "instruction": "Name three limitations of the given topic.",
+  "input": "AI",
+  "output": "- AI is unable to reason in the same way as humans, making it difficult to replicate the subtle nuances and complexities of the human decision-making process. \n- AI is limited in its ability to process and understand natural language. \n- AI systems are vulnerable to bias due to their reliance on datasets that reflect the biases of their creators.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

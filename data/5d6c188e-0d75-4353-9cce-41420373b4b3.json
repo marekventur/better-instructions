@@ -1,0 +1,12 @@
+{
+  "id": "5d6c188e-0d75-4353-9cce-41420373b4b3",
+  "instruction": "Given a list of data, identify the two inputs that can be used to create a specific output.",
+  "input": "Input1: temperature (in Celsius), Input2: humidity levels, Input3: time of day, Output: air quality",
+  "output": "Input1: temperature (in Celsius), Input2: humidity levels, Output: air quality",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

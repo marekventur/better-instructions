@@ -1,0 +1,12 @@
+{
+  "id": "11f9e4f7-aff6-431a-aaa1-a2ee3d997957",
+  "instruction": "Given some numbers, categorize the numbers into odd or even.",
+  "input": "3, 7, 4, 19",
+  "output": "Odd, Odd, Even, Odd",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

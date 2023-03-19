@@ -1,0 +1,12 @@
+{
+  "id": "ea9a0e4a-1198-49ce-9791-9e67bfa4f678",
+  "instruction": "Create an algorithm that can identify if a given text is sarcastic or not",
+  "input": "",
+  "output": "The algorithm should use natural language processing to identify certain words and expressions which indicate a sarcastic tone. These may include irony, ridicule, and sarcasm. The algorithm should also consider factors such as context, tone, and intonation in order to accurately identify sarcasm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

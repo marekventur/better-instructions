@@ -1,0 +1,12 @@
+{
+  "id": "5d01170e-ce9f-4967-914a-97cf733334b7",
+  "instruction": "Generate a sequence of operations to get from A to B",
+  "input": "A = (4, 8), B = (1, 10)",
+  "output": "A sequence of operations to get from A to B is as follows: \n1. Start from (4, 8) \n2. Move left by 3 \n3. Move up by 2 \n4. Move right by 1 \n5. Move up by 2 \n6. Your current position is (1, 10)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

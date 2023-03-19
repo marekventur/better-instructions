@@ -1,0 +1,12 @@
+{
+  "id": "f9ccb504-8036-4855-b5bd-79de9534fccb",
+  "instruction": "Take two given words and turn them into a question.",
+  "input": "Humidity Air",
+  "output": "What is the humidity of the air?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

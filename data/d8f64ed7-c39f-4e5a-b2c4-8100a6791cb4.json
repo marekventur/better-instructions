@@ -1,0 +1,12 @@
+{
+  "id": "d8f64ed7-c39f-4e5a-b2c4-8100a6791cb4",
+  "instruction": "Explain the concept of concurrency control in databases.",
+  "input": "",
+  "output": "Concurrency control in databases is a technique used to ensure multiple transactions can be executed in a safe and consistent manner. This is achieved by locking data when it is being modified, thus allowing transactions to take place sequentially instead of in parallel. This prevents several transactions from concurrently trying to update the same data, resulting in conflicts. This ensures that data integrity and consistency remain intact when transactions are executed concurrently.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

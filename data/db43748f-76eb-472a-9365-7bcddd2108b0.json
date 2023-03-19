@@ -1,0 +1,12 @@
+{
+  "id": "db43748f-76eb-472a-9365-7bcddd2108b0",
+  "instruction": "Identify the three types of triangle based on the following description.",
+  "input": "Triangles are classified according to their angles, which are measured in degrees.",
+  "output": "The three types of triangles are acute triangle, right triangle, and obtuse triangle. An acute triangle has three angles measuring less than 90 degrees, a right triangle has one angle measuring 90 degrees, and an obtuse triangle has one angle measuring more than 90 degrees.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2a7d0777-d386-45d2-b323-2d58e5106408",
+  "instruction": "Determine the difference between the two provided sentences.",
+  "input": "He has lived in London for a long time.\nHe has been living in London for a long time.",
+  "output": "The difference is that the first sentence is in the present perfect tense, while the second sentence is in the present perfect continuous tense.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

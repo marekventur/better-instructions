@@ -1,0 +1,12 @@
+{
+  "id": "14c3e828-c1e7-478c-8091-16e389997d8d",
+  "instruction": "Given a list of dates, provide the exact year for each.",
+  "input": "May 31,\nApril 15,\nJune 8,",
+  "output": "May 31, 2020\nApril 15, 2020\nJune 8, 2020",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

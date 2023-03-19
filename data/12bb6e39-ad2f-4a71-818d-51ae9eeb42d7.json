@@ -1,0 +1,12 @@
+{
+  "id": "12bb6e39-ad2f-4a71-818d-51ae9eeb42d7",
+  "instruction": "Find all the adverbs present in the given sentence.",
+  "input": "I quickly ran away from the dog.",
+  "output": "quickly",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

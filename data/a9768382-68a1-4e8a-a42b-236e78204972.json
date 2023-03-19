@@ -1,0 +1,12 @@
+{
+  "id": "a9768382-68a1-4e8a-a42b-236e78204972",
+  "instruction": "Name the movie that begins with the following line",
+  "input": "\"Life is like a box of chocolates, you never know what you're gonna get.\"",
+  "output": "Forrest Gump",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

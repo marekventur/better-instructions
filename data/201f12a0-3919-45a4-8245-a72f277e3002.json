@@ -1,0 +1,12 @@
+{
+  "id": "201f12a0-3919-45a4-8245-a72f277e3002",
+  "instruction": "Design a user interface that allows customers to pay for a subscription to a stream service.",
+  "input": "",
+  "output": "The user interface should allow customers to select the type of subscription they would like to purchase, as well as specify the payment method. The payment method should be flexible, allowing payment via credit card, PayPal, or other digital payment options. The user should then be able to confirm and complete the purchase. Additionally, the user should be able to add and update payment methods, view their subscription details, and cancel the subscription if needed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

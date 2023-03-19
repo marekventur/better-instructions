@@ -1,0 +1,12 @@
+{
+  "id": "7d8fdee5-da8e-4f76-b281-56a688c9eacf",
+  "instruction": "Create an argument for why the given cause is true.",
+  "input": "The current pandemic is caused by climate change.",
+  "output": "The current pandemic is, in part, a result of climate change. The disruption of wildlife habitats has led to greater contact between members of the animal kingdom, resulting in more pathogens and diseases being passed between species. In addition, large-scale changes in land use and farming have resulted in humans coming in contact with new pathogens, vastly increasing the potential for epidemic and pandemic spread. Furthermore, rising global temperatures have resulted in more heat waves, allowing pathogenic organisms to survive in otherwise uninhabitable areas. All of these factors contribute to the current pandemic, and climate change is the underlying cause of them all.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

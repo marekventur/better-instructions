@@ -1,0 +1,12 @@
+{
+  "id": "3308d13d-6b15-4578-b8d1-6d4c992a949d",
+  "instruction": "Convert the text into HTML.",
+  "input": "Lorem ipsum dolor sit amet,",
+  "output": "<p>Lorem ipsum dolor sit amet,</p>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

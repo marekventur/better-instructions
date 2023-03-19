@@ -1,0 +1,12 @@
+{
+  "id": "b11a69fb-f2bc-4478-98b9-eebd92f7e223",
+  "instruction": "Assess the impact of the following statement on global warming",
+  "input": "The government is investing heavily to develop novel solar energy solutions.",
+  "output": "The government's investment in solar energy solutions could have a positive impact on global warming, by reducing the amount of carbon emissions released into the environment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

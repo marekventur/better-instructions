@@ -1,0 +1,12 @@
+{
+  "id": "c2e07869-ae61-4159-b9cb-885afc7256d2",
+  "instruction": "Create a dialogue between a customer and a flight attendant for a plane ride",
+  "input": "",
+  "output": "Customer: Hi, I would like to inquire about the snacks available on the flight. \n\nFlight Attendant: Of course! We have a selection of snacks available including chips, crackers, and candy bars. Would you like to purchase any snacks?\n\nCustomer: Yes, I would like to purchase a snack. Do you have any healthy options?\n\nFlight Attendant: Yes, we offer a variety of healthy options such as yogurt, trail mix, and fruit. Would you like to choose any of those? \n\nCustomer: Yes, I'd like to purchase a yogurt. How much does it cost?\n\nFlight Attendant: The yogurt costs $3. Would you like to purchase that? \n\nCustomer: Yes, I'd like to purchase the yogurt. Thank you!\n\nFlight Attendant: You're welcome, here's your yogurt and have a great flight!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

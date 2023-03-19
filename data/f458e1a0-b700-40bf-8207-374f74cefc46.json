@@ -1,0 +1,12 @@
+{
+  "id": "f458e1a0-b700-40bf-8207-374f74cefc46",
+  "instruction": "Divide the given list into two: animals that live in water and animals that live on land",
+  "input": "Fish, crocodile, dogs, rats, snakes",
+  "output": "Animals that live in water: Fish, crocodile\n\nAnimals that live on land: Dogs, rats, snakes",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

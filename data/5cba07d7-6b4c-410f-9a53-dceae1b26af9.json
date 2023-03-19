@@ -1,0 +1,12 @@
+{
+  "id": "5cba07d7-6b4c-410f-9a53-dceae1b26af9",
+  "instruction": "Divide the following statement into two meaningful questions.",
+  "input": "What is the impact of global warming on the environment and human life?",
+  "output": "What is the impact of global warming on the environment?\nWhat is the impact of global warming on human life?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

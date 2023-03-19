@@ -1,0 +1,12 @@
+{
+  "id": "16712c8f-7760-4ccd-983a-fc8ddc4b41b7",
+  "instruction": "Rewrite the following sentence in better English style: \"This is the most awesomest thing ever!\".",
+  "input": "This is the most awesomest thing ever!",
+  "output": "This is the most awesome thing ever!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

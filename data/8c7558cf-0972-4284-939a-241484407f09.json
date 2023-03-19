@@ -1,0 +1,12 @@
+{
+  "id": "8c7558cf-0972-4284-939a-241484407f09",
+  "instruction": "Generate a valid HTML code to create a two column table",
+  "input": "",
+  "output": "<table>\n<tr>\n    <td>Column 1</td>\n    <td>Column 2</td>\n</tr>\n</table>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

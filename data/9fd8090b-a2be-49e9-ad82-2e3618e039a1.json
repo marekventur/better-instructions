@@ -1,0 +1,12 @@
+{
+  "id": "9fd8090b-a2be-49e9-ad82-2e3618e039a1",
+  "instruction": "Given the following recipe, modify it to make it vegan-friendly.",
+  "input": "This recipe calls for 2 eggs and 1/4 cup of butter.",
+  "output": "This recipe can be made vegan-friendly by using 2 tablespoons of ground flaxseed mixed with 6 tablespoons of water as a substitute for the eggs and 1/4 cup of vegan butter or margarine in place of the butter.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

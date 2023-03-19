@@ -1,0 +1,12 @@
+{
+  "id": "1e55fa9c-1b39-415c-b8b7-cefd02230859",
+  "instruction": "Categorize this Reddit thread",
+  "input": "This thread is about the struggles of being a student.",
+  "output": "Education",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

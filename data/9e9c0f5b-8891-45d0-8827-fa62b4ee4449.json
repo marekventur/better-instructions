@@ -1,0 +1,12 @@
+{
+  "id": "9e9c0f5b-8891-45d0-8827-fa62b4ee4449",
+  "instruction": "Cross out the most irrelevant sentence.",
+  "input": "I like hiking in the mountains, painting portraits, and eating ice cream.",
+  "output": "I like hiking in the mountains, painting portraits, and ~~eating ice cream~~.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

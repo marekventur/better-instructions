@@ -1,0 +1,12 @@
+{
+  "id": "e7c98d60-b722-4112-8e44-7e91d5cc941c",
+  "instruction": "Given a description of the symptom, suggest the possible causes.",
+  "input": "My foot is swollen and painful.",
+  "output": "The possible causes for a swollen and painful foot could be an injury, a sprain, an insect bite, an infection, or gout.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

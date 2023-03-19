@@ -1,0 +1,12 @@
+{
+  "id": "78240aeb-3a1d-408b-a459-fd378dc6d2ec",
+  "instruction": "Summarize the article about the new court ruling.",
+  "input": "The Supreme Court has recently released a ruling requiring prosecutors to prove intent to commit a crime in order to secure a conviction.",
+  "output": "The Supreme Court has ruled that prosecutors must now demonstrate that an accused person had the intent to commit a crime in order to secure a conviction..",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

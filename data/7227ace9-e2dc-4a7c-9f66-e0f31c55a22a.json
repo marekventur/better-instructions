@@ -1,0 +1,12 @@
+{
+  "id": "7227ace9-e2dc-4a7c-9f66-e0f31c55a22a",
+  "instruction": "Given the following table, give a generation instruction to list the countries and their total population.",
+  "input": "Country\tPopulation\nIndia\t1.33 billion\nChina\t1.38 billion\nUnited States\t328 million",
+  "output": "Generate a list of countries and their corresponding populations from the given table.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

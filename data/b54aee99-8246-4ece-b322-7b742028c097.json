@@ -1,0 +1,12 @@
+{
+  "id": "b54aee99-8246-4ece-b322-7b742028c097",
+  "instruction": "Compose a melody to the given lyrics.",
+  "input": "Lyrics: Joyful noise, singing out with every breath",
+  "output": "<NOINPUT>\nOutput:\nB A G G A B G A | B G F# E D B G | A B A G F# E | D B A G G A B G A",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

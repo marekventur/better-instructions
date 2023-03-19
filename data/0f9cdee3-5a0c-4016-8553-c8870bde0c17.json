@@ -1,0 +1,12 @@
+{
+  "id": "0f9cdee3-5a0c-4016-8553-c8870bde0c17",
+  "instruction": "Choose the best answer to why continuous prompts display waywardness.",
+  "input": "",
+  "output": "The reason why continuous prompts display waywardness is because it is difficult to faithfully interpret and generalize the prompts across models and tasks, leading to \"wayward\" behavior between the task solved by the continuous prompt and its nearest discrete neighbor.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

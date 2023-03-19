@@ -1,0 +1,12 @@
+{
+  "id": "1d31e260-f2cf-4f36-8b24-53bdef72b9ca",
+  "instruction": "Given the string \"abcde\", output its reverse:",
+  "input": "abcde",
+  "output": "edcba",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

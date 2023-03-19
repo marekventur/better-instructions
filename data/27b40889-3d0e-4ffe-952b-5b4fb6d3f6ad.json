@@ -1,0 +1,12 @@
+{
+  "id": "27b40889-3d0e-4ffe-952b-5b4fb6d3f6ad",
+  "instruction": "Generate a sample password that follows the given criteria.",
+  "input": "Must contain 12 characters, including one uppercase letter and one number",
+  "output": "AaBbCcDdEe12",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

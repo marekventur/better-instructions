@@ -1,0 +1,12 @@
+{
+  "id": "07d49185-bc0c-4322-8483-8edb7675f9c1",
+  "instruction": "Calculate the winning percentage for the team in the given statistics.",
+  "input": "Wins: 50\nLosses: 70",
+  "output": "The winning percentage for the team is 41.67% (50 wins / (50 wins + 70 losses)).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

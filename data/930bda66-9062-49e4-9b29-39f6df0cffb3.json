@@ -1,0 +1,12 @@
+{
+  "id": "930bda66-9062-49e4-9b29-39f6df0cffb3",
+  "instruction": "Select the most optimal response.",
+  "input": "What do you think of me?\n\nA) \"You're annoying.\"\nB) \"I don't know you.\"\nC) \"You're cool.\"\nD) \"You're great.\"",
+  "output": "D) \"You're great.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

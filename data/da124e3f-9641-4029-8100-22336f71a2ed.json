@@ -1,0 +1,12 @@
+{
+  "id": "da124e3f-9641-4029-8100-22336f71a2ed",
+  "instruction": "Create an input field and output field for a task that can generate a story based on a specific character.",
+  "input": "Character: Tyrell",
+  "output": "Input: Tyrell\n\nOutput:\nTyrell was a young man filled with ambition. He was determined to make something of himself, but he often found himself feeling lost and disconnected from the world around him. It wasn't until he traveled to an old city by the sea that he saw first hand the true beauty of life and the richness of his surroundings. He vowed to never forget what he saw and to make the most of his opportunities.  Tyrell eventually went on to become a successful businessman, and he always remembered the lessons he learned by the sea.  He never forgot to be grateful for all that the world had to offer. His story was filled with adventure and will live on for years to come.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

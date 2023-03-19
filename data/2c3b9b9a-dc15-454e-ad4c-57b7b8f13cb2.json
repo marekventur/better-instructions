@@ -1,0 +1,12 @@
+{
+  "id": "2c3b9b9a-dc15-454e-ad4c-57b7b8f13cb2",
+  "instruction": "Identify five pros and five cons of GMOs.",
+  "input": "`<noinput>`",
+  "output": "Pros of GMOs:\n1. Increased yields and better pest resistance.\n2. Reduced use of chemical pesticides.\n3. Higher quality and more nutritious food.\n4. Enhanced nutrition security.\n5. Possibility of greater variety in produce selection.\n\nCons of GMOs:\n1. Risk of potential health hazards.\n2. Increased dependency on chemical inputs.\n3. Potential contamination of the existing genetic diversity of local species.\n4. Ecological and biodiversity damage.\n5. Possible higher costs of production due to the development of new technologies.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

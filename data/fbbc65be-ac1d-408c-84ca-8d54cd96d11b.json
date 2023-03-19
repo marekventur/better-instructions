@@ -1,0 +1,12 @@
+{
+  "id": "fbbc65be-ac1d-408c-84ca-8d54cd96d11b",
+  "instruction": "Construct a way to animate a particular object.",
+  "input": "Tree",
+  "output": "A possible way to animate a tree is to draw a complete tree using vector graphics and create a timeline that adjusts the tree's elements throughout the animation. This could involve moving the leaves in the wind, changing their color through the seasons, or animating how the tree grows over time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

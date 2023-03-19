@@ -1,0 +1,12 @@
+{
+  "id": "86274552-a1c8-441a-8d18-e051875263de",
+  "instruction": "Describe how a recommender system works",
+  "input": "",
+  "output": "A recommender system is a type of information filtering system that uses user's past actions or preferences to suggest new items that the user may be interested in. The system works by first collecting data about user behavior and preferences, such as what items they often purchase or view online. This data is then used to create a personalized profile for the user, based on their past behaviors. The system can then recommend items that are tailored to the user's profile and interests, by analyzing the other items that similar users have purchased or viewed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

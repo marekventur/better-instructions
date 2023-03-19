@@ -1,0 +1,12 @@
+{
+  "id": "0855ddd3-6bf0-401c-bc72-729a55a11258",
+  "instruction": "Encode the given text using ROT13.",
+  "input": "Hello",
+  "output": "Uryyb",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

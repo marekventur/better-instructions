@@ -1,0 +1,12 @@
+{
+  "id": "e5a5008e-3bfd-4412-bf5c-576f9d26f7b3",
+  "instruction": "Update the following table with a new column",
+  "input": "Customer Name  |  Product Name \n-----------------|-------------------\nJohn Doe        |  Computer\nJane Doe        |  Printer",
+  "output": "Customer Name  |  Product Name  |  Price \n-----------------|-------------------|----------------\nJohn Doe        |  Computer        | $800\nJane Doe        |  Printer         | $150",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e4dbf978-c3fe-4e05-ae0a-e142000a823c",
+  "instruction": "Generate a list of countries that the company should enter in the next five years.",
+  "input": "Company: Volkswagen",
+  "output": "India, South Africa, Japan, Canada, Mexico, Brazil, Colombia, United Kingdom, Germany, Argentina.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

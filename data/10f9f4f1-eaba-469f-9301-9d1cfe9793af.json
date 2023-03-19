@@ -1,0 +1,12 @@
+{
+  "id": "10f9f4f1-eaba-469f-9301-9d1cfe9793af",
+  "instruction": "Calculate the average of the 4 student's grades.",
+  "input": "87, 89, 92, 95",
+  "output": "The average of the 4 student's grades is 90.5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

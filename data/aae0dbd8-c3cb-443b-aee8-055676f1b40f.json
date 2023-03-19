@@ -1,0 +1,12 @@
+{
+  "id": "aae0dbd8-c3cb-443b-aee8-055676f1b40f",
+  "instruction": "Given a list of numbers, sort the list from least to greatest.",
+  "input": "87, 11, 95, 64, 12",
+  "output": "11, 12, 64, 87, 95",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

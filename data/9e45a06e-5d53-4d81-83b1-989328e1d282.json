@@ -1,0 +1,12 @@
+{
+  "id": "9e45a06e-5d53-4d81-83b1-989328e1d282",
+  "instruction": "Given a sentence, output the verb forms of all the words.",
+  "input": "John likes the blue house at the end of the street.",
+  "output": "John (Present Simple: like) likes (Present Simple: like) the (No verb) blue (No verb) house (No verb) at (No verb) the (No verb) end (No verb) of (No verb) the (No verb) street (No verb).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

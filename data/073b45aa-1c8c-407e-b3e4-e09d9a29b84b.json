@@ -1,0 +1,12 @@
+{
+  "id": "073b45aa-1c8c-407e-b3e4-e09d9a29b84b",
+  "instruction": "Generate a list of potential questions for an interviewee who is applying for a job as a data analyst.",
+  "input": "",
+  "output": "1. What specific experience do you have analyzing data?\n2. What is your experience with data gathering and preparation?\n3. What technologies and software have you used to analyze data?\n4. Talk us through a project you have worked on that required data analysis.\n5. What techniques have you used when exploring data or deriving insights?\n6. How do you go about debugging data analysis code?\n7. Describe a challenging data analysis problem you have solved.\n8. What strategies do you use to handle data that\u2019s missing or incomplete?\n9. How do you go about cleaning and formatting data for analysis?\n10. What strategies do you use to detect anomalies or inconsistencies in data?\n11. How do you interpret results from data modeling and machine learning algorithms?\n12. What do you think are the most important qualities of a good data analyst?\n13. How do you communicate results from data analysis to colleagues?\n14. How do you stay organized when working with complex datasets?\n15. Describe a project where you had to utilize data visualization techniques to present data.\n16. In your opinion, what is the most important data analysis technique?\n17. How comfortable are you with testing and validating data analysis models?\n18. What strategies have you employed when working with large datasets?\n19. How do you lend your insights to the decision-making process?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

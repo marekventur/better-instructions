@@ -1,0 +1,12 @@
+{
+  "id": "a4968e27-8772-4289-933b-fb13f7ceadf7",
+  "instruction": "Given this business plan, predict likely outcomes.",
+  "input": "A restaurant business plan that seeks to open a new location in a densely populated suburban area.",
+  "output": "If successful, the restaurant could experience high customer traffic and potentially high profits due to the number of people in the surrounding area. Additionally, the business plan should take into account the competitive landscape in the area, which could potentially drive prices and profits downwards.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

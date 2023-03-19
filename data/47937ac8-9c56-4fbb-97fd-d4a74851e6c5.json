@@ -1,0 +1,12 @@
+{
+  "id": "47937ac8-9c56-4fbb-97fd-d4a74851e6c5",
+  "instruction": "Summarize the theme of this novel.",
+  "input": "The novel \"The Great Gatsby\" by F. Scott Fitzgerald.",
+  "output": "The novel \"The Great Gatsby\" by F. Scott Fitzgerald is a story of the futile pursuits of the American Dream and is ultimately a cautionary tale of the hollowness and greed associated with it. Through the story, Fitzgerald critiques the 1920s America, exposing its empty materialism and highlighting how a person's identity and social status determines their place in society.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

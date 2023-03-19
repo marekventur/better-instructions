@@ -1,0 +1,12 @@
+{
+  "id": "042e34b7-5aaf-4cad-b407-b8942a085695",
+  "instruction": "Explain how to calculate the tip on a $42 restaurant bill.",
+  "input": "",
+  "output": "To calculate the tip on a $42 restaurant bill, you first need to decide on the percentage of tip you would like to give. The most common tipping percentage is between 15-20%, so you would typically begin by multiplying the total bill by 0.15 or 0.2 to get the dollar amount of your tip. For example, if you wanted to leave a 20% tip, you would multiply 42 by 0.2 to get 8.40, so your total bill would be $50.40.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

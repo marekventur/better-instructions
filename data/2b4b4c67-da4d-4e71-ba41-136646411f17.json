@@ -1,0 +1,12 @@
+{
+  "id": "2b4b4c67-da4d-4e71-ba41-136646411f17",
+  "instruction": "Evaluate the given website.",
+  "input": "https://example.com",
+  "output": "The website at example.com is well designed and user-friendly. It has a clearly organized layout with multiple navigation options, a visually appealing design, and a search bar. The content is relevant and provides useful information. It is optimized for mobile devices, loads quickly, and is secure.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

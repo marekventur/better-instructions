@@ -1,0 +1,12 @@
+{
+  "id": "df07f1c9-9445-48e0-be8e-0346352c5aed",
+  "instruction": "Divide this line of Python code into meaningful steps.",
+  "input": "aa = np.array([[1, 2], [3, 4]])",
+  "output": "Step 1: Create an array using np.array():  aa = np.array([])\nStep 2: Add the objects [1, 2]:  aa = np.array([[1, 2])\nStep 3: Add the objects [3, 4]:  aa = np.array([[1, 2], [3, 4]])",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

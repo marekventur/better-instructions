@@ -1,0 +1,12 @@
+{
+  "id": "e66af145-2cd9-4244-b2e5-0a81ac3416ab",
+  "instruction": "Given a sentence, provide an antonym for the given word.",
+  "input": "She smiled triumphantly.",
+  "output": "She frowned despondently.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "384f70c9-5907-4d07-9c8b-168c23d1ec75",
+  "instruction": "Find the common elements between two sets.",
+  "input": "Set 1: {1,2,3,4,5,6}\nSet 2: {3,7,8,9}",
+  "output": "3 is the common element between the two sets.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

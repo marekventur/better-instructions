@@ -1,0 +1,12 @@
+{
+  "id": "c8b744c6-0b06-45fd-a315-c8a3c77bf4f8",
+  "instruction": "Identify the word in all capital letters.",
+  "input": "The TRUCK drove by the HOUSE.",
+  "output": "TRUCK",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

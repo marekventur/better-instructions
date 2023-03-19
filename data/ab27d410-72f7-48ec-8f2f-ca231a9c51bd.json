@@ -1,0 +1,12 @@
+{
+  "id": "ab27d410-72f7-48ec-8f2f-ca231a9c51bd",
+  "instruction": "Generate a one sentence summarization of the given data about climate change.",
+  "input": "The Earth's average global temperature has increased by 1.4\u00b0F since 1880, and is currently increasing at a rate of 0.2\u00b0F per decade.",
+  "output": "Earth's global temperature has been rising for the past 140 years, and is currently increasing at a rate of 0.2\u00b0F per decade.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

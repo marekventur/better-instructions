@@ -1,0 +1,12 @@
+{
+  "id": "fa87a382-27b8-4dca-9781-ef825241a43d",
+  "instruction": "Read through the instructions and then explain them in your own words.",
+  "input": "Put the ingredients in a bowl. Mix them together with a spoon.",
+  "output": "Take the ingredients and place them in a bowl. Stir them together with a spoon until they are combined.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

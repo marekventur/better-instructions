@@ -1,0 +1,12 @@
+{
+  "id": "30d7fa8d-c8a3-4995-9ad3-ad4e442df8b8",
+  "instruction": "Describe the type of database in the following statement.",
+  "input": "A relational database stores data in tables and uses SQL to manage the data.",
+  "output": "The type of database described is a relational database. It stores data in tables which are connected by relations and uses Structured Query Language (SQL) for data manipulation and querying.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

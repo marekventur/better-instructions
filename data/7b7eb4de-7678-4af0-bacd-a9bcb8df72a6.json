@@ -1,0 +1,12 @@
+{
+  "id": "7b7eb4de-7678-4af0-bacd-a9bcb8df72a6",
+  "instruction": "This sentence has an error; identify it",
+  "input": "Writting is not as hard as it looks.",
+  "output": "Writting -> Writing  (Error: Spelling)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

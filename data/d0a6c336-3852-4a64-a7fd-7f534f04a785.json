@@ -1,0 +1,12 @@
+{
+  "id": "d0a6c336-3852-4a64-a7fd-7f534f04a785",
+  "instruction": "Given two numbers, calculate the sum.",
+  "input": "7, 9",
+  "output": "16",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

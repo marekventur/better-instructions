@@ -1,0 +1,12 @@
+{
+  "id": "b7a9e6ec-a12f-413b-8147-d29945ac0f1f",
+  "instruction": "Identify the person that is referred to in the passage.",
+  "input": "My friend George lives in Boston and often comes to New York to visit me.",
+  "output": "George",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

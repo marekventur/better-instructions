@@ -1,0 +1,12 @@
+{
+  "id": "f178b57f-ab17-4e3e-b932-0b231a04daea",
+  "instruction": "Show the temperature in Fahrenheit, given temperature in Celsius.",
+  "input": "Temperature in Celsius: 25",
+  "output": "Temperature in Fahrenheit: 77.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

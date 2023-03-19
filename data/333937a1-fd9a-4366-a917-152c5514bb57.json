@@ -1,0 +1,12 @@
+{
+  "id": "333937a1-fd9a-4366-a917-152c5514bb57",
+  "instruction": "Classify the type of story in the passage.",
+  "input": "It was a dark and stormy night. She was alone in the forest. She was afraid of what she might encounter.",
+  "output": "The passage is a horror story.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0fc8b20a-30cf-4ebd-aaee-336b7c7e4d3a",
+  "instruction": "Generate a final solution concept based on the following requirements",
+  "input": "The system must be able to process images and provide feedback based on relevant facial recognition algorithms.",
+  "output": "A facial recognition system that uses algorithms to process images and give feedback based on the results.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

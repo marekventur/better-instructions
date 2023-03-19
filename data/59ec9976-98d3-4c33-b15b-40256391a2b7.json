@@ -1,0 +1,12 @@
+{
+  "id": "59ec9976-98d3-4c33-b15b-40256391a2b7",
+  "instruction": "Write a script for a scene in a court trial.",
+  "input": "",
+  "output": "Judge: This court is now in session.\nAttorney 1: Your Honor, we believe the defendant is guilty of the charges against them. We have witnesses, evidence, and compelling testimony to back up our case. \n\nAttorney 2: Your Honor, we disagree. We believe the defendant is innocent and did not commit the crime he's being accused of. We also have our own evidence and testimonies to support our argument. \n\nJudge: Very well. Let's hear from the witnesses.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

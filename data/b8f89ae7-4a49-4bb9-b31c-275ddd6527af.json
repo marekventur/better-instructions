@@ -1,0 +1,12 @@
+{
+  "id": "b8f89ae7-4a49-4bb9-b31c-275ddd6527af",
+  "instruction": "Make a flow chart representing a job application process.",
+  "input": "",
+  "output": "[Start] \n|\nV\nFill out job application \n|\nV\nAttach relevant documents \n|\nV\nSchedule job interview \n|\nV \nAttend job interview\n|\nV\nReceive job offer\n|\nV\n[End]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

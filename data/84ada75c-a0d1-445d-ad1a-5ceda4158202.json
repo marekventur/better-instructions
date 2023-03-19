@@ -1,0 +1,12 @@
+{
+  "id": "84ada75c-a0d1-445d-ad1a-5ceda4158202",
+  "instruction": "Classify the following object according to the following categories:",
+  "input": "Object: Bird\nCategories: Mammal, Insect, Fish, Bird",
+  "output": "Bird",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d8f4ec86-a20d-4b39-87ca-3a24b2ae4ea9",
+  "instruction": "Evaluate the given websites according to their usability and functionality.",
+  "input": "Websites: website1.com, website2.com",
+  "output": "Website1.com has a clear and intuitive layout and navigation, as well as an aesthetically pleasing design. It is easy to use and all of the pages load quickly. Website2.com is more cluttered, with an overly complicated navigation and design. It is difficult to understand and the pages take a long time to load.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

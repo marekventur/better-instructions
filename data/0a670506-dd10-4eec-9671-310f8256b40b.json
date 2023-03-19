@@ -1,0 +1,12 @@
+{
+  "id": "0a670506-dd10-4eec-9671-310f8256b40b",
+  "instruction": "Compose a table with two rows and three columns.",
+  "input": "",
+  "output": "| Column A  | Column B | Column C |\n| --------- | -------- | -------- |\n| Entry A1  | Entry B1 | Entry C1 |\n| Entry A2  | Entry B2 | Entry C2 |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "066925db-0a3e-4aa5-9696-7baca4d93d99",
+  "instruction": "Generate a correct PHP code for the following purpose",
+  "input": "Create a function to calculate the area of a rectangle.",
+  "output": "function calculateAreaRect($length, $width) {\n    $area = $length * $width;\n    return $area;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

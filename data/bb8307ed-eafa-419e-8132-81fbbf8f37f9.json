@@ -1,0 +1,12 @@
+{
+  "id": "bb8307ed-eafa-419e-8132-81fbbf8f37f9",
+  "instruction": "Fill in the blanks in the following sentence to make it grammatically correct.",
+  "input": "I decided to ____ the book back to the library because I had ____ it.",
+  "output": "I decided to return the book back to the library because I had finished it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2ac11041-6ef6-4955-828a-12a22e90039a",
+  "instruction": "Arrange the sentence fragments below into a meaningful sentence.",
+  "input": "Fragment 1: strong social media presence \nFragment 2: It is important for businesses",
+  "output": "It is important for businesses to have a strong social media presence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "67f64661-1674-4933-b5f0-6eeab003fc21",
+  "instruction": "Suggest 3 items of clothing based on the given context.",
+  "input": "Going to a formal outdoor black-tie event in the evening.",
+  "output": "1. Black tailored suit. \n2. White dress shirt.\n3. Black dress shoes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

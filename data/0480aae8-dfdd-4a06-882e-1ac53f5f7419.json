@@ -1,0 +1,12 @@
+{
+  "id": "0480aae8-dfdd-4a06-882e-1ac53f5f7419",
+  "instruction": "Important a Python script to print the sum of two numbers.",
+  "input": "4 + 1",
+  "output": "print(4+1)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

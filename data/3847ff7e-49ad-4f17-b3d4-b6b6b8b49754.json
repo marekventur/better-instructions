@@ -1,0 +1,12 @@
+{
+  "id": "3847ff7e-49ad-4f17-b3d4-b6b6b8b49754",
+  "instruction": "Write a comparison of the two given texts.",
+  "input": "Text 1: He was walking on the streets. \nText 2: He was running on the streets.",
+  "output": "The two texts compare two different modes of travel: walking and running. In the first text, the subject is walking, which is a slower, more leisurely form of transport. In the second text, the subject is running, which is a faster and more energetic form of transport. This suggests that the subject is in a hurry to reach his destination. The two texts therefore provide a contrast between leisurely travel and hurried travel.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

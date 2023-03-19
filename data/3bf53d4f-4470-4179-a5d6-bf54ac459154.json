@@ -1,0 +1,12 @@
+{
+  "id": "3bf53d4f-4470-4179-a5d6-bf54ac459154",
+  "instruction": "Find the best hypothesis to explain this phenomenon:",
+  "input": "The wind speeds in the desert are higher at night than during the day.",
+  "output": "The clear atmosphere, lower humidity and lack of obstructions at night allow the wind to blow more freely, resulting in increased wind speeds in the desert during nighttime.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

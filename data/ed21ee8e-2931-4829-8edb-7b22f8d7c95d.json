@@ -1,0 +1,12 @@
+{
+  "id": "ed21ee8e-2931-4829-8edb-7b22f8d7c95d",
+  "instruction": "given a python function, rewrite it in English.",
+  "input": "def say_hello():\n  print('Hello there!')",
+  "output": "The function say_hello() prints the text 'Hello there!' to the screen.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

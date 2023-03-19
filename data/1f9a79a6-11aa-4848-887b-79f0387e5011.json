@@ -1,0 +1,12 @@
+{
+  "id": "1f9a79a6-11aa-4848-887b-79f0387e5011",
+  "instruction": "Which celebrity does the following description match?",
+  "input": "Actress and singer Selena Gomez has had great success in the showbiz.",
+  "output": "Selena Gomez",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

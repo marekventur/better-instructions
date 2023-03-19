@@ -1,0 +1,12 @@
+{
+  "id": "ae996cc7-5bde-4e4a-8bd2-eb0f7309fe95",
+  "instruction": "Modify the following code to print the second highest value in the list.",
+  "input": "list1 = [18, 23, 9, 55, 2]\nprint(max(list1))",
+  "output": "list1 = [18, 23, 9, 55, 2]\nlist1.remove(max(list1))\nprint(max(list1))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fa04e929-8150-4d43-8f03-e7e54a01fd8d",
+  "instruction": "What is URL shortening?",
+  "input": "",
+  "output": "URL shortening is a technique used to create shorter versions of web addresses, making them easier to remember or share. By using an intermediary service, the URL is replaced by a shorter version that redirects the user to the original web address.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

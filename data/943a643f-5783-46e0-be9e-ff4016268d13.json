@@ -1,0 +1,12 @@
+{
+  "id": "943a643f-5783-46e0-be9e-ff4016268d13",
+  "instruction": "Create a single sentence using all of the words given.",
+  "input": "Apple, hat, run",
+  "output": "She ran with an apple in her hat.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

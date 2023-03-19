@@ -1,0 +1,12 @@
+{
+  "id": "4abd32dc-1f44-414d-b452-7feb9627ade1",
+  "instruction": "Cluster the following items into four different categories.",
+  "input": "- basketball\n- hamburgers \n- books\n- cars",
+  "output": "Category 1: basketball, books\nCategory 2: cars\nCategory 3: hamburgers\nCategory 4: None",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9365dfeb-1589-440f-be8e-dd0414bcdb36",
+  "instruction": "Compute the answer to this problem and give me the correct output.",
+  "input": "4 + 6 \u00d7 2",
+  "output": "16.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

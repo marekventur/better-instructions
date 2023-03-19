@@ -1,0 +1,12 @@
+{
+  "id": "20230469-1e4a-4471-87a8-80ed9e26f9d5",
+  "instruction": "Compare and contrast Depth-First Search (DFS) and Breadth-First Search (BFS).",
+  "input": "",
+  "output": "Depth-First Search (DFS) is a search strategy that starts by exploring one path in depth before backtracking and exploring alternative paths. On the other hand, Breadth-First Search (BFS) starts at the root node and scans every adjacent node before visiting the next node in a level order manner. DFS is typically used for finding a certain element in a graph, while BFS is often used for traversing the entire tree or graph and for finding the shortest path from one node to another. In terms of space complexity, DFS is more efficient and needs less memory than BFS.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

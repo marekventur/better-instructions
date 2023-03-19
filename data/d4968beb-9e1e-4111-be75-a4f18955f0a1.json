@@ -1,0 +1,12 @@
+{
+  "id": "d4968beb-9e1e-4111-be75-a4f18955f0a1",
+  "instruction": "Given a photo, create a caption that describes it.",
+  "input": "[photo of a person walking in the woods]",
+  "output": "She took a breath of freshing air as she explored the beautiful nature surrounding her.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

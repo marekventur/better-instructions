@@ -1,0 +1,12 @@
+{
+  "id": "bdce8255-374c-4af9-a674-c43fca29527c",
+  "instruction": "Construct a recipe for banana pancakes",
+  "input": "",
+  "output": "Ingredients: \n- 2 cups of all-purpose flour \n- 1 teaspoon of baking powder \n- 1/2 teaspoon of salt \n- 2 large eggs \n- 2 ripe bananas \n- 1/3 cup of brown sugar \n- 2 tablespoons of butter \n- 2 cups of whole milk\n\nInstructions:\n1. Preheat a non-stick pan over medium-high heat.\n2. In a large bowl, whisk together the flour, baking powder, and salt.\n3. In a separate small bowl, combine the eggs, bananas, brown sugar, and butter.\n4. Gently stir in the milk and the banana mixture into the flour mixture.\n5. Spoon 2 tablespoons of batter onto the preheated pan and cook until lightly golden.\n6. Flip and cook the opposite side.\n7. Serve with syrup or whipped cream and enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

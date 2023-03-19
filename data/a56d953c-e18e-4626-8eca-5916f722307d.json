@@ -1,0 +1,12 @@
+{
+  "id": "a56d953c-e18e-4626-8eca-5916f722307d",
+  "instruction": "Summarize the process of how a deep learning neural network works.",
+  "input": "",
+  "output": "A deep learning neural network works by taking data as input, processing the data in layers of mathematical functions, and learning by adjusting weights and biases. Each layer of neurons will take the information from the previous layer and create a more complex representation. After the data passes through all layers, the output layer creates a prediction. This prediction can then be used to make decisions or predictions about unseen data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

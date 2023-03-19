@@ -1,0 +1,12 @@
+{
+  "id": "5aabc562-5956-405b-b505-5eb98cea8713",
+  "instruction": "Output the first 10 words in alphabetical order from the sentence below.",
+  "input": "The man ate an apple for breakfast.",
+  "output": "an, apple, breakfast, ate, for, man, the, an, apple, for",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

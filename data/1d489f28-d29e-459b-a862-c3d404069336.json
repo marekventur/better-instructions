@@ -1,0 +1,12 @@
+{
+  "id": "1d489f28-d29e-459b-a862-c3d404069336",
+  "instruction": "Entity linking the given article.",
+  "input": "The World Cup is an international association football tournament contested by the senior men's national teams of the members of the F\u00e9d\u00e9ration Internationale de Football Association (FIFA), the sport's global governing body.",
+  "output": "The World Cup is an international association football tournament contested by the senior men's national teams of the members of the F\u00e9d\u00e9ration Internationale de Football Association (FIFA)<entity type=\"Organization\">FIFA</entity>, the sport's global governing body<entity type=\"Organization\">FIFA</entity>.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

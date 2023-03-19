@@ -1,0 +1,12 @@
+{
+  "id": "35da4231-42c8-4360-84b8-23010fdb645a",
+  "instruction": "Help the visitor plan a one-day trip in the given city.",
+  "input": "Buenos Aires",
+  "output": "Planning a one-day trip to Buenos Aires can be overwhelming, so here is a suggested itinerary to make the most of it: \n\nFirst, start your day with a visit to La Recoleta Cemetery to explore the grand mausoleums of some of the city\u2019s most notable figures. Afterward, wander El Ateneo Grand Splendid for a unique book-browsing experience inside a beautifully restored theater. \n\nNext, take a walk along the trendy streets of Palermo Soho for breakfast at one of the caf\u00e9s or restaurants. Afterward, hop onto a bus to bustling La Boca, stroll along Color Caminito street, take a peek inside the Pulperia La Sure\u00f1ita, and behold the architecture of the Puerto Madero. \n\nFor lunch, try El Sanjuanino Parrilla and sample their delicious traditional dishes. After lunch, take an afternoon break in Parque de la Memoria and pay tribute to the victims of state terrorism. Later, stop by the Centro Cultural Kirchner, to explore the many galleries, exhibits, and events. \n\nAs evening approaches, experience the city\u2019s vibrant nightlife at Palermo\u2019s bars and clubs, or take in the classical music of Teatro Colon. \n\nFinally, end your night with dinner at Caba\u00f1a Las Lilas, one of the city\u2019s most renowned steak restaurants.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

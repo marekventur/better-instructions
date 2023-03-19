@@ -1,0 +1,12 @@
+{
+  "id": "247c0e90-496d-4ad1-8ca9-433968e05298",
+  "instruction": "Replace the figurative idiomatic expression in the following sentence with a literal phrase that expresses the same meaning.",
+  "input": "I was on cloud nine when I heard about the news.",
+  "output": "I was extremely delighted when I heard about the news.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

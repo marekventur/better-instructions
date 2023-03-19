@@ -1,0 +1,12 @@
+{
+  "id": "7f5f3ff2-f058-4b29-a242-06fb1aaa282b",
+  "instruction": "What are two advantages and two disadvantages of using relational databases?",
+  "input": "No input",
+  "output": "Two advantages of using relational databases are that they are organized, structured and easier to query, as well as easily shared among different users. Two disadvantages of using relational databases are that they can be difficult to scale up, and that query performance can often suffer when more data is added.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

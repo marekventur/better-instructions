@@ -1,0 +1,12 @@
+{
+  "id": "db901d13-6153-47fa-871f-4b7fd30b9780",
+  "instruction": "Explain the difference between a random forest and a decision tree.",
+  "input": "",
+  "output": "The main difference between a random forest and a decision tree is that a random forest uses an ensemble of multiple decision trees to make predictions, rather than a single tree. Each tree in the ensemble is trained on a different subset of the data, and the final prediction is made by taking the majority vote of all the trees. Random forests are more accurate than decision trees and can be used for both regression and classification tasks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

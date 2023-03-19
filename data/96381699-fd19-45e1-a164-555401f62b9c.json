@@ -1,0 +1,12 @@
+{
+  "id": "96381699-fd19-45e1-a164-555401f62b9c",
+  "instruction": "Generate a hypothesis for why the bacteria strain is resistant to antibiotics.",
+  "input": "",
+  "output": "It is possible that the bacteria strain has developed an enzyme that breaks down the active ingredient(s) in the antibiotics, allowing it to resist the medication. Alternatively, the bacteria may have developed an immunity to the antibiotic, allowing the strain to survive even when exposed to the drug.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

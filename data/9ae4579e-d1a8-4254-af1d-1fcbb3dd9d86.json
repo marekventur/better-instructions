@@ -1,0 +1,12 @@
+{
+  "id": "9ae4579e-d1a8-4254-af1d-1fcbb3dd9d86",
+  "instruction": "Formulate a mathematical equation for calculating the average of a given set of values.",
+  "input": "[2,5,9,4]",
+  "output": "The equation for calculating the average of the given set of values is \nAverage = (2 + 5 + 9 + 4) / 4 = 5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "eb4e0b3f-a40f-4a37-95a8-6220c29c9362",
+  "instruction": "You are given an example sentence, rewrite it with a different word order.",
+  "input": "The dog barked loudly.",
+  "output": "Loudly the dog barked.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

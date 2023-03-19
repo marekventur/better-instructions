@@ -1,0 +1,12 @@
+{
+  "id": "882d6824-9bd0-4dcc-ac9f-4e2ecaa40b7f",
+  "instruction": "Categorize the following items as either furniture or kitchen items.",
+  "input": "Chair, Knife, Fork",
+  "output": "Furniture, Kitchen item, Kitchen item",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

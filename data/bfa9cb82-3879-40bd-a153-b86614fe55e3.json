@@ -1,0 +1,12 @@
+{
+  "id": "bfa9cb82-3879-40bd-a153-b86614fe55e3",
+  "instruction": "Add a transition sentence in the following paragraph that helps transition from one point to another.",
+  "input": "The first step in solving a problem is to recognize it. Only then can you start to think about potential solutions.",
+  "output": "The first step in solving a problem is to recognize it; then, you can start to think about potential solutions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

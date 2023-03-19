@@ -1,0 +1,12 @@
+{
+  "id": "b438f572-839f-4535-9a58-a7a866bbfd82",
+  "instruction": "Convert the measures of length.",
+  "input": "1 kilometer",
+  "output": "1000 meters.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7ede9bab-2d3e-4947-8acf-32697efd5621",
+  "instruction": "Classify the climate for the given input.",
+  "input": "Toronto, Canada",
+  "output": "Toronto, Canada has a Humid Continental climate, which is characterized by cold winters with considerable snowfall, and warm summers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

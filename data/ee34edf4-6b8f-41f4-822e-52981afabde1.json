@@ -1,0 +1,12 @@
+{
+  "id": "ee34edf4-6b8f-41f4-822e-52981afabde1",
+  "instruction": "Research the given topic and generate a theory.",
+  "input": "Causes of Autism",
+  "output": "My research suggests that Autism is caused by a combination of genetic and environmental factors. It is believed that genetics may play a role in the development of the disorder, as some individuals show a higher tendency towards Autism when they have a family history of it. Environmental factors such as stress, diet, or exposure to toxins may also contribute to the development of Autism.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

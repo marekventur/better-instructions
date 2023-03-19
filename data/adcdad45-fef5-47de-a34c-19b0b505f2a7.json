@@ -1,0 +1,12 @@
+{
+  "id": "adcdad45-fef5-47de-a34c-19b0b505f2a7",
+  "instruction": "Insert a sentence in the paragraph to provide appropriate transitions between the two sentences.",
+  "input": "Dave changed his mind quickly. He decided to go to the movies.",
+  "output": "Dave changed his mind quickly, so he decided to go to the movies.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

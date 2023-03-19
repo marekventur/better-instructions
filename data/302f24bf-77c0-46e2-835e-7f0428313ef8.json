@@ -1,0 +1,12 @@
+{
+  "id": "302f24bf-77c0-46e2-835e-7f0428313ef8",
+  "instruction": "Insert three line breaks in between the following two paragraphs.",
+  "input": "This restaurant is a favorite with locals. Prices are reasonable and the food is always fresh. The atmosphere is very pleasant and service is prompt.",
+  "output": "This restaurant is a favorite with locals. Prices are reasonable and the food is always fresh. \n\nThe atmosphere is very pleasant and service is prompt.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6e522b4f-06df-4365-ab90-40f7d11c359b",
+  "instruction": "Analyze how this decision will affect the people.",
+  "input": "The town is planning to build a new shopping mall.",
+  "output": "Building a new shopping mall will bring more economic activity to the town and create more job opportunities. It will also bring in more revenue through sales and property taxes. Although this is beneficial to the town, local businesses may suffer as they could not compete with the larger stores in the mall. It could also lead to traffic issues and have an environmental impact.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a6dba88d-8616-4169-b5e1-716c3aa51afd",
+  "instruction": "How does an decison tree algorithm work?",
+  "input": "",
+  "output": "A decision tree algorithm is a type of supervised machine learning algorithm used for classification and regression problems. It works by splitting the dataset into smaller subsets and then analyzing each subset using decision rules such as entropy or gini indices. It continues to split the subsets until it reaches a leaf node with a prediction or classification. The end result is a tree structure with a series of branches that represent the decisions made at each point in the data set.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

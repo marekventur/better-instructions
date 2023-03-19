@@ -1,0 +1,12 @@
+{
+  "id": "3ec4497e-d9e7-4a31-973a-1f71593ce3f3",
+  "instruction": "Identify an area where the given vehicle has superior performance.",
+  "input": "Tesla Model 3",
+  "output": "The Tesla Model 3 has superior performance in terms of acceleration and range. It is able to accelerate from 0-60 mph in as little as 3.5 seconds, and has a range of up to 310 miles on a single charge. Additionally, its regenerative braking system enhances the car\u2019s efficiency, furthering its driving range.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

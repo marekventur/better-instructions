@@ -1,0 +1,12 @@
+{
+  "id": "ca0d0ea7-948f-4930-813a-a8507f2eed56",
+  "instruction": "Classify the following Tweet as \"positive, \"negative\", or \"neutral\": \n\n(tweet) Finally finished that project!",
+  "input": "",
+  "output": "Positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

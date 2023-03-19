@@ -1,0 +1,12 @@
+{
+  "id": "c650f2b1-7d91-46ad-a1a9-342f9fd6102c",
+  "instruction": "Explain what is GPT-3",
+  "input": "",
+  "output": "GPT-3 (Generative Pre-trained Transformer 3) is an open-source language model from OpenAI that utilizes machine learning and natural language processing (NLP) to produce human-like text. It is the most powerful version of the GPT model to date, developed from the existing GPT-2 model and trained on a much larger dataset. GPT-3 is able to understand natural language and generate accurate answers to complex questions, as well as compose articles, stories, and code.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

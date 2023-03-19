@@ -1,0 +1,12 @@
+{
+  "id": "6a18d76a-676a-42c0-93c2-0e69fbe690aa",
+  "instruction": "Output potential side effects of the provided medication.",
+  "input": "Ibuprofen",
+  "output": "Possible side effects of Ibuprofen include upset stomach, nausea, dizziness, headache, heartburn, and rash. This medication may also affect your blood pressure and kidney function, as well as cause ringing in the ears and blurred vision.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

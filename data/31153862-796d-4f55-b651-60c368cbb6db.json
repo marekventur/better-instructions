@@ -1,0 +1,12 @@
+{
+  "id": "31153862-796d-4f55-b651-60c368cbb6db",
+  "instruction": "Group the following items into a list of related items.",
+  "input": "Computer, chair, pen, calculator",
+  "output": "- Computer, calculator\n- Chair, pen",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

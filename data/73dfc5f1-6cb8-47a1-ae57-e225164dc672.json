@@ -1,0 +1,12 @@
+{
+  "id": "73dfc5f1-6cb8-47a1-ae57-e225164dc672",
+  "instruction": "Grade this sentence on spelling.",
+  "input": "The cat ran aound the tre.",
+  "output": "F",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c34119e5-880b-43cc-bee7-0bd55cef07a8",
+  "instruction": "Create a basic budget for someone who makes $3500 per month.",
+  "input": "",
+  "output": "Assuming that the $3500 per month is the person's after-tax income, a basic budget could be as follows: \n\n- Rent/Mortgage Payments: 25-30% ($875-$1050) \n- Utilities: 5- 10% ($175- $350) \n- Groceries: 10-15% ($350-$525) \n- Savings/Investments: 10-15% ($350-$525)\n- Transportation: 5-10% ($175-$350) \n- Miscellaneous (including clothes, entertainment, etc.): 25-30% ($875-$1050)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

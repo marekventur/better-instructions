@@ -1,0 +1,12 @@
+{
+  "id": "c31dfffc-bf64-4df3-b30b-ecf350c09659",
+  "instruction": "Generate a conversation between two friends about the latest Barca match.",
+  "input": "",
+  "output": "Friend 1: Hey, did you watch the Barcelona game last night?\nFriend 2: Yeah, it was amazing! Barcelona scored three goals in the last ten minutes to come from behind and win the match. Their offense was incredible.\nFriend 1: Yeah, I'm so glad they won! I was really worried they wouldn't be able to come back.\nFriend 2: Me too! It was an amazing comeback.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

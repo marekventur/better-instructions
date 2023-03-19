@@ -1,0 +1,12 @@
+{
+  "id": "5d9c5bc1-c1ea-4740-a98d-71f5e9a3d995",
+  "instruction": "Predict the sentiment (\"positive\" or \"negative\") of the following sentence.",
+  "input": "The customer service team was unhelpful and slow.",
+  "output": "negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

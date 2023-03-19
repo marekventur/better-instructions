@@ -1,0 +1,12 @@
+{
+  "id": "5fed2e9b-e882-4626-a435-ff5f78e5538e",
+  "instruction": "Construct a multiple choice question with four options.",
+  "input": "What is the highest peak in the world?",
+  "output": "Q. What is the highest peak in the world?\nA. Mount Everest\nB. K2\nC. Denali\nD. Mount Kilimanjaro",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

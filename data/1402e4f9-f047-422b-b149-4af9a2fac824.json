@@ -1,0 +1,12 @@
+{
+  "id": "1402e4f9-f047-422b-b149-4af9a2fac824",
+  "instruction": "Use the following input to generate a 3-sentence summary of the article.",
+  "input": "The blockchain technology is a breakthrough phenomenon that offers a degree of digital trust. It is a distributed ledger with encrypted data that operates independently on a peer-to-peer network. It uses computer consensus to validate and secure digital information.",
+  "output": "Blockchain technology is an innovative solution that facilitates trust in the digital world. It works by distributing a digital ledger and encrypting the data among computers on a network. This network and its digital ledger must be verified and validated through a computer consensus mechanism to ensure data security.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

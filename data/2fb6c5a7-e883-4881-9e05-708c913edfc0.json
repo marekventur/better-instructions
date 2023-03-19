@@ -1,0 +1,12 @@
+{
+  "id": "2fb6c5a7-e883-4881-9e05-708c913edfc0",
+  "instruction": "Pick the odd one out in the following list of countries.",
+  "input": "France, Germany, Mexico, Portugal",
+  "output": "Mexico",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

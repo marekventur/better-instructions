@@ -1,0 +1,12 @@
+{
+  "id": "29d11756-3617-4540-bcfc-a423c54153f4",
+  "instruction": "Given a list of sports, identify the ones that are individual sports.",
+  "input": "Golf, Swimming, Rugby, Running",
+  "output": "Golf and running are individual sports. Swimming and rugby are team sports.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

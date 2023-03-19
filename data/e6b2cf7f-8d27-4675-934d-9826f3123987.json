@@ -1,0 +1,12 @@
+{
+  "id": "e6b2cf7f-8d27-4675-934d-9826f3123987",
+  "instruction": "Classify different dog breeds using a convolutional neural network.",
+  "input": "",
+  "output": "The convolutional neural network should be built with a series of convolutional and pooling layers. These layers should be used to extract features from the images of different dog breeds. The network should also be connected to a fully connected output layer with the number of nodes equal to the number of different dog breeds. Finally, the network should be trained using a dataset of images belonging to different dog breeds and then evaluated with an appropriate metric.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3da7d093-e88b-49d7-9edd-97eed140a097",
+  "instruction": "Extract important details from the given input related to the given topic.",
+  "input": "Topic: Computer Vision\nInput: Computer Vision is the process of extracting high-level information from images or videos.",
+  "output": "Computer Vision is a field of study that focuses on understanding and interpreting digital visuals such as images and videos. It employs algorithms to capture, process, analyze and make decisions based on the extracted data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

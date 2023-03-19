@@ -1,0 +1,12 @@
+{
+  "id": "a5d10461-c7ca-4f97-aaf3-d779a46ab979",
+  "instruction": "Compare the two poems with respect to their literary devices.",
+  "input": "Poem 1:\n\nI hear America singing, the varied carols I hear;\nThose of mechanics \u2014 each one singing his, as it should be, blithe and strong;\nThe carpenter singing his, as he measures his plank or beam,\nThe mason singing his, as he makes ready for work, or leaves off at the noon hour;\n\nPoem 2:\n\nAs I walked the boroughs of the bell-ringing city,\nI marked where on the gilded spire floated, high above\nThe bells, a thousand shaken voices\nOf silent people wreathing in the silent air.",
+  "output": "The first poem has a strong focus on sound and is characterized by short, simple language. It contains several personifications and metaphors to describe the carols, as well as descriptions of everyday activities to reveal the unity of the nation. The second poem, on the other hand, has a more spiritual tone, focusing on the invisible qualities related to the ringing of bells and the prayerful silence of the people. Through the use of metaphors and imagery, it creates a peaceful and reverent atmosphere.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

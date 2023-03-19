@@ -1,0 +1,12 @@
+{
+  "id": "352d69fe-b85c-4860-b305-609f7a50dd27",
+  "instruction": "Detect whether the sentence is a metaphor or not.",
+  "input": "He was a rock in a troubled sea.",
+  "output": "Yes, the sentence is a metaphor.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "caa8a358-2000-47c7-bb21-df65be1a96db",
+  "instruction": "Give an example of how natural language processing (NLP) has been used to address a real-world problem?",
+  "input": "",
+  "output": "Natural language processing has been used to automate customer service systems; for example, predicting customer support queries, classifying customer inquiries into predefined topics, providing customer recommended responses based of text analysis, and more. Additionally, NLP has been used in sentiment analysis arms of marketing teams to better understand consumer sentiment towards a product or brand. Natural language processing can also be applied to healthcare to provide a more personalized patient experience by summarizing medical records, predicting the progression of diseases, and providing a more accurate diagnosis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

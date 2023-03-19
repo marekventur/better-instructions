@@ -1,0 +1,12 @@
+{
+  "id": "85965cf2-f27b-4bcd-a421-732d01c5b533",
+  "instruction": "Pick the correct sentence.",
+  "input": "She gave us the wrong information. \n\nA) She gives us the wrong information\nB) She gave us the wrong informations",
+  "output": "A) She gives us the wrong information.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

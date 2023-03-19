@@ -1,0 +1,12 @@
+{
+  "id": "74c0d884-badc-46c0-8dab-41eea3e6fa82",
+  "instruction": "Find the average distance between two London boroughs.",
+  "input": "Boroughs: Newham and Waltham Forest",
+  "output": "The average distance between Newham and Waltham Forest is about 7.8 miles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ca662b9a-274f-413d-a90d-55d351082701",
+  "instruction": "Reorder this array [3,7,9,2] in ascending order.",
+  "input": "[3,7,9,2]",
+  "output": "[2,3,7,9]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

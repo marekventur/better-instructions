@@ -1,0 +1,12 @@
+{
+  "id": "a6e2028a-d57c-4fa6-913f-3e2c38de6017",
+  "instruction": "Determine whether a given string is a palindrome or not.",
+  "input": "String: level",
+  "output": "Yes, \"level\" is a palindrome.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

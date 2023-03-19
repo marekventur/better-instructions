@@ -1,0 +1,12 @@
+{
+  "id": "d0447da2-95d6-494b-b0f8-422fb8a767c3",
+  "instruction": "Given a string of characters, remove the whitespace characters.",
+  "input": "my_string = ' '",
+  "output": "def remove_whitespace(s):\n    # check for valid input\n    assert isinstance(s, str), 'Input must be a string.'\n    # remove whitespace characters\n    s = s.replace(\" \", \"\") \n    return s",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

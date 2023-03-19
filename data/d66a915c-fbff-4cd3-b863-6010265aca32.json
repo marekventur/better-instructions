@@ -1,0 +1,12 @@
+{
+  "id": "d66a915c-fbff-4cd3-b863-6010265aca32",
+  "instruction": "Given the following code, modify it to print the number of items that are greater than 50.",
+  "input": "list = [39, 50, 89, 101]",
+  "output": "list = [39, 50, 89, 101]\ncount = 0\nfor item in list:\n  if item > 50:\n    count += 1\nprint('Number of items greater than 50:', count)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9abb48cb-013d-4e12-81ad-896f31c6fec8",
+  "instruction": "Create a new recipe that you can make with leftovers.",
+  "input": "Leftovers consist of cooked lentils, steamed broccoli and white rice",
+  "output": "Try making a Lentil and Broccoli Rice bowl. Start by cubing the broccoli and saut\u00e9ing it in a pan with a bit of olive oil. Add in the cooked lentils and season with salt, pepper and any other spices you like. Combine the cooked white rice and vegetable mixture in the pan and stir to combine. Serve warm and enjoy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

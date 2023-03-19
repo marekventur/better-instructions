@@ -1,0 +1,12 @@
+{
+  "id": "18a8f15b-acd1-4ccb-8fee-4348ca5f78fe",
+  "instruction": "Research a famous person and summarize their life in 3 sentences.",
+  "input": "Marie Curie",
+  "output": "Marie Curie was a Polish physicist and chemist who lived in the late 19th and early 20th centuries. She pioneered research in the field of radioactivity and was the first woman to be awarded a Nobel Prize. She also co-founded the Curie Institute, which is still a major center for medical research today.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

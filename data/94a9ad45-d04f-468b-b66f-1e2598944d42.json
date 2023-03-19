@@ -1,0 +1,12 @@
+{
+  "id": "94a9ad45-d04f-468b-b66f-1e2598944d42",
+  "instruction": "Analyze a patient's medical history and provide a diagnosis.",
+  "input": "The patient is a 35-year-old female with a history of mild headaches and upper back pain.",
+  "output": "Based on the patient's medical history, it is likely that she is suffering from tension headaches due to muscle tension in the neck and upper back. A physical examination, imaging tests, and laboratory tests may be necessary to rule out potential causes such as infection, neurological disorder, or a mass.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

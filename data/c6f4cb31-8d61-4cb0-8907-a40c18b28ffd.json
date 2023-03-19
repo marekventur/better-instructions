@@ -1,0 +1,12 @@
+{
+  "id": "c6f4cb31-8d61-4cb0-8907-a40c18b28ffd",
+  "instruction": "Modify the given sentence by replacing the underlined words with synonyms.",
+  "input": "The old man was irate with the slow progress of the project.",
+  "output": "The old man was incensed with the sluggish progress of the project.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

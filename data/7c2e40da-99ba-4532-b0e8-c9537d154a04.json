@@ -1,0 +1,12 @@
+{
+  "id": "7c2e40da-99ba-4532-b0e8-c9537d154a04",
+  "instruction": "Given a description of a company, generate a line that summarizes its core values.",
+  "input": "Company description: An innovative technology company that strives to bring cutting-edge solutions to customers",
+  "output": "At this innovative technology company, we strive to offer cutting-edge solutions and create value for customers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

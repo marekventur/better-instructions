@@ -1,0 +1,12 @@
+{
+  "id": "5f699697-276f-4565-9aaf-e1470e8a5729",
+  "instruction": "Summarize the story as a one sentence statement",
+  "input": "Carol and Bobby are walking through the park. Carol takes out her phone to check her messages. She sees that her friend sent her an invitation to a party.",
+  "output": "Carol received a party invitation from her friend while taking a walk in the park with Bobby.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

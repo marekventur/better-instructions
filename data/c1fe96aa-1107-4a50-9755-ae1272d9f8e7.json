@@ -1,0 +1,12 @@
+{
+  "id": "c1fe96aa-1107-4a50-9755-ae1272d9f8e7",
+  "instruction": "Summarize the impact of the given economic trend",
+  "input": "Consumer confidence remains low",
+  "output": "Low consumer confidence has a significant impact on the economy, as it indicates decreased consumer spending due to uncertainty. This can lead to a decrease in businesses\u2019 profits, reduced investment, and slower economic growth. In addition, low consumer confidence can be associated with higher levels of savings, which reduces the demand for goods and services, further weakening economic growth.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c4f56ed7-cf06-4950-9443-0430cba7c615",
+  "instruction": "Compare and contrast these two football teams.",
+  "input": "Barcelona and Bayern Munich",
+  "output": "Barcelona is a Spanish football club based in Catalonia, Spain and is one of the most successful clubs in Spain and Europe. They have won the UEFA Champions League five times, the La Liga title a record 26 times, and the Copa del Rey record 30 times. Barcelona plays an attacking style of football that focuses on possession and short passing. Their main rivals are Real Madrid and Atl\u00e9tico Madrid. \n\nBayern Munich is a German professional football club based in Bavaria, Germany. They are one of the most successful clubs in Germany and the UEFA Champions League. Bayern Munich have won the Bundesliga a record 28 times, the Bundesliga 2.Bundesliga 8 times and the DFB-Pokal a record 18 times. They play an attacking style of football with high pressing and fast counter attacks. Their main rivals are Borussia Dortmund and Schalke 04. \n\nBoth Barcelona and Bayern Munich have experienced tremendous success during their histories and have played styles of football that have transformed the game. Barcelona is known for playing an attacking style of football with possession and short passing and Bayern Munich for their high pressing and fast counter attacks. Despite their different approaches, both teams are two of the most successful clubs in Europe.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

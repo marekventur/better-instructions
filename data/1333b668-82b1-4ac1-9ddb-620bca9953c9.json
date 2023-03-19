@@ -1,0 +1,12 @@
+{
+  "id": "1333b668-82b1-4ac1-9ddb-620bca9953c9",
+  "instruction": "Write a node.js program to print out \"Hello World\" in the console.",
+  "input": "",
+  "output": "console.log(\"Hello World\");",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

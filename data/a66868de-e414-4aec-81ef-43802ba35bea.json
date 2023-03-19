@@ -1,0 +1,12 @@
+{
+  "id": "a66868de-e414-4aec-81ef-43802ba35bea",
+  "instruction": "Calculate the final sum using these numbers and operations.",
+  "input": "3 + 10 - 4",
+  "output": "9",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d814d0c0-36d0-436a-8100-af09c3938e89",
+  "instruction": "Tell me why people prefer to use neural networks to solve problems?",
+  "input": "",
+  "output": "Neural networks are popular among machine learning researchers and engineers as they are well suited for managing complex problems. Neural networks are able to capture complex patterns in data that are not easily discerned by other algorithms, like linear models. Additionally, neural networks have the ability to learn automatically, requiring minimal input from the user. This allows machines to adapt quickly without having to constantly adjust the parameters of the problems. Furthermore, neural networks are easier to design and deploy, making them an ideal tool for solving real world problems.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

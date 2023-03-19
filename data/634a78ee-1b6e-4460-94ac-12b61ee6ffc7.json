@@ -1,0 +1,12 @@
+{
+  "id": "634a78ee-1b6e-4460-94ac-12b61ee6ffc7",
+  "instruction": "Label the following animal as either an invertebrate or a vertebrate",
+  "input": "Tiger",
+  "output": "Vertebrate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e886985f-7b11-472e-9807-c7c1e81d9d43",
+  "instruction": "Generate a list of three to five questions someone can ask to someone in an interview.",
+  "input": "",
+  "output": "1. What skills and experience do you have that make you a good fit for this position? \n2. What challenges have you faced in your past roles and how did you handle them?\n3. What do you think sets you apart from other applicants? \n4. How do you handle feedback, both constructive and positive?\n5. What do you think is the most important aspect of this role?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

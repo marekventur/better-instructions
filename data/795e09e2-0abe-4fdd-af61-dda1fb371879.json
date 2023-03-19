@@ -1,0 +1,12 @@
+{
+  "id": "795e09e2-0abe-4fdd-af61-dda1fb371879",
+  "instruction": "Generate a paragraph that explains the following fact.",
+  "input": "The highest mountain in the world is Mount Everest.",
+  "output": "Mount Everest is the highest mountain in the world, reaching an elevation of 8,848 metres (29,029 ft). Located in the Mahalangur Himal sub-range of the Himalayas, Mount Everest is part of the border between Nepal and Tibet, China. The summit was first reached in 1953 by a team of climbers led by Sir Edmund Hillary and Tenzing Norgay. The mountain has since become an iconic symbol of exploration and risk-taking. It is a popular destination for climbers, who come from all over the world to attempt to reach the summit. For those that succeed, reaching the peak of the highest mountain in the world is a rare and remarkable achievement.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

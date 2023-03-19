@@ -1,0 +1,12 @@
+{
+  "id": "51d44584-08c5-4b7c-8761-9cca22541803",
+  "instruction": "Identify the genre of the following song based on its lyrcis.",
+  "input": "The sky is purple\nThe wine is bitter",
+  "output": "Blues",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7f71067e-873a-4cd7-aa70-350bc56f9668",
+  "instruction": "Label whether an input sentence is true or false.",
+  "input": "Crows are nocturnal animals.",
+  "output": "False. Crows are most active during the day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

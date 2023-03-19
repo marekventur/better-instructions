@@ -1,0 +1,12 @@
+{
+  "id": "7eb7ad0d-146f-43b0-baab-af3f93d11aa1",
+  "instruction": "Given a topic, create an outline.",
+  "input": "The Benefits of Online Education",
+  "output": "I. Introduction \n- Definition of online education \n- Historical context of online education\n\nII. Benefits \n- Convenience\n- Lower cost \n- Improved collaboration \n\nIII. Challenges \n- Difficulty in monitoring student progress \n- Technical limitations \n- Anxiety and loneliness \n\nIV. Conclusion",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

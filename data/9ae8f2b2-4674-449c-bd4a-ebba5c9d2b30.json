@@ -1,0 +1,12 @@
+{
+  "id": "9ae8f2b2-4674-449c-bd4a-ebba5c9d2b30",
+  "instruction": "Design a recipe for an appetizer.",
+  "input": "",
+  "output": "Honey Mustard Bacon Wrapped Shrimp: \nIngredients: \n- 12-16 medium-large shrimp\n- 6 strips bacon\n- 1/4 cup honey\n- 2 tablespoons dijon mustard\n- 2 tablespoons olive oil\n- Salt and pepper to taste\nInstructions:\n1. Preheat oven to 375 degrees F.\n2. In a small bowl, mix together honey and mustard until fully combined.\n3. Peel and devein the shrimp. Wrap each shrimp in a slice of bacon and secure with a toothpick.\n4. Arrange the bacon-wrapped shrimp on a baking sheet.\n5. Drizzle the honey mustard mixture over the shrimp and then drizzle with olive oil.\n6. Sprinkle with salt and pepper to taste.\n7. Bake in preheated oven for 15-20 minutes until bacon is crisp and shrimp is cooked through.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b6da3b81-30ff-414c-a7a1-6b6f32db7f04",
+  "instruction": "Explain the differences between supervised and unsupervised learning in 5-8 sentences.",
+  "input": "",
+  "output": "Supervised learning is when input data is labeled in order to teach a machine how to classify and classify information. In this type of learning, examples are given to the machine, with a corresponding label or target, and it is trained to predict the output in future by generalizing from these examples. Unsupervised learning, on the other hand, does not require any labels or outputs but instead seeks to discover patterns, structure, and relationships in the data. Unsupervised learning is used for anomaly detection or to create clusters or groups in the data. Unlike supervised learning, it does not predict any specific output, but instead seeks to find patterns in the data. Additionally, unsupervised learning requires much less input data than supervised learning as it does not rely on labeled data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5870ee6b-5dd2-4bf3-a2cf-07fd8791502c",
+  "instruction": "Please create a list of 10 thrift stores near the given address.",
+  "input": "123 Main Street, Anytown, USA",
+  "output": "1. Beverly Thrift Store \n2. Uptown Thrift Store \n3. Savin' Money Thrift Store\n4. The Closet Denim Thrift Store \n5. Downtown Thrift Store \n6. Max Thrifty Thrift Store\n7. ReStyle Resale Boutique \n8. Goodwill Retail Store \n9. Sally's Thrift Store & Donation Center\n10. Value Village Thrift Store",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

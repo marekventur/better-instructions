@@ -1,0 +1,12 @@
+{
+  "id": "7e414028-dedf-42bf-8295-c669443a74f2",
+  "instruction": "Given a sentence, suggest an alternate version that will make the sentence more interesting.",
+  "input": "The house was very old.",
+  "output": "The house was ancient, its walls riddled with age-old secrets.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

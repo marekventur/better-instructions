@@ -1,0 +1,12 @@
+{
+  "id": "f60a07ea-d21b-4de1-9aec-15b4b50d4132",
+  "instruction": "Classify the following data with three labels.",
+  "input": "fjsklfjdsklfjsklfjsklfjs",
+  "output": "Label1: Character data\nLabel2: Alphabetical data\nLabel3: Non-alphabetical data",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

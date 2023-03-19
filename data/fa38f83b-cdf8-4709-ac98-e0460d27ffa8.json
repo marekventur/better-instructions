@@ -1,0 +1,12 @@
+{
+  "id": "fa38f83b-cdf8-4709-ac98-e0460d27ffa8",
+  "instruction": "Generate the feedback that should be given to this student",
+  "input": "John has completed the assignment correctly but his handwriting is sloppy.",
+  "output": "John did a great job with the assignment, however his handwriting needs some more improvement.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

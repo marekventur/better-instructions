@@ -1,0 +1,12 @@
+{
+  "id": "e861c940-0dd8-4acd-9c9f-bf5837def00f",
+  "instruction": "Delete the words that are superfluous to the meaning or that do not belong.",
+  "input": "A strange and slithering creature was briefly seen in the lake.",
+  "output": "A creature was seen in the lake.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

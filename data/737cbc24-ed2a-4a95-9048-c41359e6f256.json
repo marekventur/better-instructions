@@ -1,0 +1,12 @@
+{
+  "id": "737cbc24-ed2a-4a95-9048-c41359e6f256",
+  "instruction": "Rewrite the given sentence using synonyms. Output the new sentence.",
+  "input": "He hopped off the bus.",
+  "output": "He alighted from the bus.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

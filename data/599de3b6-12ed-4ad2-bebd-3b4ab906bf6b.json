@@ -1,0 +1,12 @@
+{
+  "id": "599de3b6-12ed-4ad2-bebd-3b4ab906bf6b",
+  "instruction": "Define a function that takes two numbers and returns their average.",
+  "input": "",
+  "output": "def average(a, b):\n  return (a + b) / 2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

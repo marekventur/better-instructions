@@ -1,0 +1,12 @@
+{
+  "id": "d8a9e7e6-c1c3-42e4-b35d-1214d16fbae7",
+  "instruction": "Describe a machine-learning model that can predict the success or failure of a business.",
+  "input": "No input",
+  "output": "A machine-learning model to predict business success or failure could be trained on data such as financial information, customer reviews, market share, and other factors. The model would need to be able to understand relationships between data points, identify patterns, and make predictions based on patterns in the data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

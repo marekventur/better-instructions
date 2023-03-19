@@ -1,0 +1,12 @@
+{
+  "id": "408cc1e1-7226-439f-a209-6ffe2bdb1de6",
+  "instruction": "Assign one word to describe the tone of the following poem.",
+  "input": "O gentle spring, how softly you smile",
+  "output": "Kind",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

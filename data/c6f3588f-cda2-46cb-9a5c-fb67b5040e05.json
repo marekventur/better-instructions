@@ -1,0 +1,12 @@
+{
+  "id": "c6f3588f-cda2-46cb-9a5c-fb67b5040e05",
+  "instruction": "In the following output, find and extract the first name, Last Name, city and zip code and output in a comma seperated format.",
+  "input": "Kaitlyn Smith, 560 N Main St., Barrington, IL 60010",
+  "output": "Kaitlyn, Smith, Barrington, 60010",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f8b1d393-0402-4239-9a5e-d430a50ec981",
+  "instruction": "Add five items to the following shopping list.",
+  "input": "Apples, Bananas,",
+  "output": "Apples, Bananas, Oranges, Grapes, Strawberries, Peaches, Mangoes, Tomatoes, Potatoes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

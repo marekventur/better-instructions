@@ -1,0 +1,12 @@
+{
+  "id": "54a67797-7561-48bf-976a-c02e83ce4dee",
+  "instruction": "Identify the parts of speech for the following sentence and provide corresponding tags.",
+  "input": "The dog chased the cat.",
+  "output": "The: determiner, dog: noun, chased: verb, the: determiner, cat: noun.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

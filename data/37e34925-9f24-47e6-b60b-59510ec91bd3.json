@@ -1,0 +1,12 @@
+{
+  "id": "37e34925-9f24-47e6-b60b-59510ec91bd3",
+  "instruction": "Create a function that will return all anagrams of a given string.",
+  "input": "",
+  "output": "def get_anagrams(str):\n    \"\"\"\n    Function to return all anagrams of the given string\n    \n    Parameters:\n    str: string to be anagrammed \n    \n    Returns: \n    anagrams: a list of strings that are anagrams of the given string\n    \"\"\"\n    if not str:\n        return []\n    \n    anagrams = []\n    letters = list(str)\n    comb = itertools.permutations(letters, len(letters))\n    \n    for t in comb:\n        anagram = ''.join(t)\n        if anagram != str:\n            anagrams.append(anagram)\n    \n    return anagrams",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

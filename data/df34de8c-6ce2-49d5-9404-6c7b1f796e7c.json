@@ -1,0 +1,12 @@
+{
+  "id": "df34de8c-6ce2-49d5-9404-6c7b1f796e7c",
+  "instruction": "Assemble an IKEA chair according to the given instructions.",
+  "input": "",
+  "output": "Step 1: Assemble the legs by attaching the four pieces using the provided screws and get a helper to hold them in place.\n\nStep 2: Attach the seat back to the seat using the provided screws and washers.\n\nStep 3: Place the seat onto the frame and secure with the screws and washers provided.\n\nStep 4: Attach the armrest to the frame with the provided screws and washers.\n\nStep 5: Attach the backrest to the seat and armrest using the provided screws and washers.\n\nStep 6: Attach the feet to the underside of the legs using the provided screws.\n\nStep 7: Tighten all screws and washers and check that everything is secure.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

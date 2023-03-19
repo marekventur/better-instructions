@@ -1,0 +1,12 @@
+{
+  "id": "07a8fd24-9832-40b5-9aee-a7a4c76134e7",
+  "instruction": "Build an emergency supplies list for an office building.",
+  "input": "This emergency supplies list is for a six floor office building with 250 employees.",
+  "output": "This emergency supply list is for a six floor office building with 250 employees:\n- Flashlights and batteries\n- Fire extinguishers and evacuation plans\n- First aid kits\n- Emergency food and water \n- Emergency lighting\n- Emergency communication equipment\n- Basic hand tools\n- Hygiene and sanitation supplies \n- Blankets and sleeping bags\n- Maps or plans of the building layout\n- Contact information for local emergency service personnel\n- Any other special supplies needed for the building (e.g. for hazardous materials).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

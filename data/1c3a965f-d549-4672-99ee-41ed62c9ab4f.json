@@ -1,0 +1,12 @@
+{
+  "id": "1c3a965f-d549-4672-99ee-41ed62c9ab4f",
+  "instruction": "Edit the given document and remove any spelling or grammar errors.",
+  "input": "I was so exited to here the news.",
+  "output": "I was so excited to hear the news.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

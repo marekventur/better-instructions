@@ -1,0 +1,12 @@
+{
+  "id": "a691e6e0-da55-4d8f-812e-c37de1717880",
+  "instruction": "Identify the logical fallacy in the following statement: \n\"We should close the borders to protect our jobs from being taken away by immigrants.\"",
+  "input": "",
+  "output": "The statement contains an appeal to fear, which is a logical fallacy. This fallacy assumes that all immigrants are a threat to taking jobs away from locals, and does not account for the potential positive contributions that immigrants could make.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

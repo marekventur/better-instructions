@@ -1,0 +1,12 @@
+{
+  "id": "f71b6df1-246c-4697-a454-aa201fcd485c",
+  "instruction": "Generate a support email comforting a frustrated customer.",
+  "input": "Dear [Name],\n\nI am sorry to hear that you are frustrated with our service.",
+  "output": "Dear [Name],\n\nI am sorry to hear that you are frustrated with our service. We understand how upsetting this might be, and we want to make sure we provide you with the best possible experience. Please let us know which issues you have encountered and we will do our best to solve them as quickly as possible.\n\nIn the meantime, we can offer you a special discount for your next purchase to make up for the trouble. We sincerely apologize for any inconvenience caused by your experience and we hope to provide you with a better solution in the near future.\n\nSincerely,\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

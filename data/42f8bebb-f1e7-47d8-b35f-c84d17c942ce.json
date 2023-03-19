@@ -1,0 +1,12 @@
+{
+  "id": "42f8bebb-f1e7-47d8-b35f-c84d17c942ce",
+  "instruction": "Write a short article on a machine learning algorithm.",
+  "input": "",
+  "output": "Machine learning is a branch of artificial intelligence that deals with the development of algorithms that can learn from existing data to make predictions, classifications and detect patterns. One of the most popular and widely used machine learning algorithms is the supervised learning algorithm. This algorithm builds a model from labeled data by looking for patterns in the training data, making it one of the most effective machine learning approaches for supervised learning tasks such as image recognition, speech recognition and natural language processing. Its biggest advantages are its ability to make predictions from past data, even when it has not seen the data before, and its ability to modify its predictions based on new data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

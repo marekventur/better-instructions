@@ -1,0 +1,12 @@
+{
+  "id": "f213d65e-0933-4ca5-bcd2-38872acacf89",
+  "instruction": "Create a script of a play with 5 characters.",
+  "input": "",
+  "output": "ACT I \nSCENE 1 \nThe setting is a garden in the early morning. \n\nCharacters: \nPaul: protagonist, a young boy \nLisa: Paul\u2019s best friend\nMax: Paul\u2019s loyal pet dog\nNina: Paul\u2019s neighbor\nStephen: Paul\u2019s father \n\nPaul and Lisa enter the garden. Paul is playing with his pet dog Max. \n\nPaul: Come on, Max! Fetch the ball!\n\nMax runs and fetches the ball and brings it back to Paul.\n\nPaul: Good boy! Now let's take a break. \n\nPaul and Lisa sit down and take a break while Max plays around them. Nina enters the garden. \n\nNina: Good morning, Paul and Lisa!\n\nPaul: Good morning, Nina!\n\nStephen enters the garden.\n\nStephen: Paul! It's time to go!\n\nPaul: Bye, everyone! See you soon!\n\nPaul and Stephen exit the garden. \n\nLisa and Nina wave goodbye to Paul and Stephen. \n\nThe End.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

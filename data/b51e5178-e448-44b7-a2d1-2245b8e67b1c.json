@@ -1,0 +1,12 @@
+{
+  "id": "b51e5178-e448-44b7-a2d1-2245b8e67b1c",
+  "instruction": "What is a NoSQL database?",
+  "input": "",
+  "output": "NoSQL databases are non-relational databases that are often used for storing large amounts of data. They provide an alternative to traditional SQL databases which require a predefined schema and are optimized for handling structured data. NoSQL databases offer greater scalability and flexibility than traditional SQL databases, and are often better suited for applications that require a distributed architecture and/or require high availability.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

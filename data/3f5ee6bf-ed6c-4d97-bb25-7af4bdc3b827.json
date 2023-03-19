@@ -1,0 +1,12 @@
+{
+  "id": "3f5ee6bf-ed6c-4d97-bb25-7af4bdc3b827",
+  "instruction": "Create a list of five open-ended questions for a customer survey.",
+  "input": "",
+  "output": "1. How would you rate your overall experience with our product/service?\n2. What motivated you to purchase our product/service?\n3. What do you think we can do to improve our product/service?\n4. How likely would you be to recommend our product/service to a friend?\n5. What can we do to better meet your needs?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

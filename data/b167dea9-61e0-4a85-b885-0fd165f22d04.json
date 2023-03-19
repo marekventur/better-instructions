@@ -1,0 +1,12 @@
+{
+  "id": "b167dea9-61e0-4a85-b885-0fd165f22d04",
+  "instruction": "Write an algorithm to sort the given array of integers.",
+  "input": "[3, 7, 1, 0, 4, 9, 8]",
+  "output": "// Loop through the array\nfor (int i = 0; i < array.length - 1; i++) {\n    // Find the index of the minimum element in the subarray\n    int minIndex = i;\n    for (int j = i + 1; j < array.length; j++) {\n        if (array[j] < array[minIndex]) {\n            minIndex = j;\n        }\n    }\n    \n    // Swap the minimum element with the first element of the subarray\n    int temp = array[i];\n    array[i] = array[minIndex];\n    array[minIndex] = temp;\n}\n\n// Array is now sorted in ascending order",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

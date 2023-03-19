@@ -1,0 +1,12 @@
+{
+  "id": "544690a4-874b-4068-9b85-2efacc1cd5e5",
+  "instruction": "Parse this query and output the boundaries for each clause and provide the type of clause it is.",
+  "input": "What are the top 10 most populous cities in the US",
+  "output": "Clause 1: [0-15] - Select\nClause 2: [16-24] - Filter\nClause 3: [25-26] - Limit",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

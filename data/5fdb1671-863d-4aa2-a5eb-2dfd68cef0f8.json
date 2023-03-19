@@ -1,0 +1,12 @@
+{
+  "id": "5fdb1671-863d-4aa2-a5eb-2dfd68cef0f8",
+  "instruction": "Given two ingredients, create a menu for a three-course meal.",
+  "input": "chicken and rice",
+  "output": "Appetizer: Chicken and Rice Spring Rolls; Main Course: Lemon-Herb Roast Chicken with Rice Pilaf; Dessert: Coconut Rice Pudding.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

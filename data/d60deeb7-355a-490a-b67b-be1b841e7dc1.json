@@ -1,0 +1,12 @@
+{
+  "id": "d60deeb7-355a-490a-b67b-be1b841e7dc1",
+  "instruction": "Find the biggest number in the following array and output its index.",
+  "input": "[2, 13, 7, 17, 4]",
+  "output": "3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

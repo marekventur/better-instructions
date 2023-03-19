@@ -1,0 +1,12 @@
+{
+  "id": "075ba6f0-336c-45bc-a561-e2757fecc77e",
+  "instruction": "Identify the incorrect definition.",
+  "input": "Fungi: \nA) A type of plant\nB) A type of bacteria\nC) A type of single-celled organism\nD) A type of organism that obtains its food from dead organic matter",
+  "output": "A) A type of plant",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

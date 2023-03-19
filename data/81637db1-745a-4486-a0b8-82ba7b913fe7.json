@@ -1,0 +1,12 @@
+{
+  "id": "81637db1-745a-4486-a0b8-82ba7b913fe7",
+  "instruction": "Construct a for-loop in Python.",
+  "input": "",
+  "output": "The following is an example of a for-loop in Python:\n\nfor i in range(10):\n    print(i)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

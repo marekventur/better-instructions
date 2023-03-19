@@ -1,0 +1,12 @@
+{
+  "id": "ae03db88-3aa9-4462-b76c-b2376a4b5ce2",
+  "instruction": "Analyze the given text and classify it into the following categories: Positive, Neutral, or Negative.",
+  "input": "The movie was okay, but it didn't reach the level of incredible.",
+  "output": "The sentiment of the text is Neutral.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

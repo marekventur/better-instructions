@@ -1,0 +1,12 @@
+{
+  "id": "abc52346-c521-488c-b5c6-3947908cd77a",
+  "instruction": "Write a basic SQL query to calculate the total number of orders in a dataset.",
+  "input": "",
+  "output": "SELECT COUNT(*)\nFROM Orders;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

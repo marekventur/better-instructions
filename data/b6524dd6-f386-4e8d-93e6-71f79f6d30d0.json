@@ -1,0 +1,12 @@
+{
+  "id": "b6524dd6-f386-4e8d-93e6-71f79f6d30d0",
+  "instruction": "Pick one song from the list and create a lyric rap verse to go with it.",
+  "input": "\"Circles\" by Mac Miller",
+  "output": "Verse 1:\nI'm stuck goin' round in circles,\nTryin' to find my way out of this mess,\nEvery night I toss and turn,\nSearchin' for some kinda sense.\n\nChasin' the same goals,\nAin't really reachin' a result,\nGettin' constant criticism,\nDespite puttin' in the work.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1405229c-e2b5-4102-835a-bd94cb419948",
+  "instruction": "Convert a temperature in Celsius to Fahrenheit given the temperature in Celsius.",
+  "input": "25\u00b0C",
+  "output": "77\u00b0F",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c4d72e92-9980-498a-ac8c-92575652ef48",
+  "instruction": "Describe a process for doing sentiment analysis.",
+  "input": "",
+  "output": "Sentiment analysis is a process of determining the attitude of a speaker or writer toward a topic, proposed idea, or product. A sentiment analysis system typically identifies words associated with positive sentiments, such as joy and pleasure, and negative sentiments, such as anger and fear. Natural language processing and machine learning techniques are used to identify the context of words and phrases in text documents, in order to determine the overall sentiment in the document. These techniques can be used for a variety of applications such as marketing, customer experience management and public opinion analysis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

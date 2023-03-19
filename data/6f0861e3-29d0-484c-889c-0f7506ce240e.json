@@ -1,0 +1,12 @@
+{
+  "id": "6f0861e3-29d0-484c-889c-0f7506ce240e",
+  "instruction": "Identify the country that is associated with the following flag.",
+  "input": "(Flag image)",
+  "output": "The flag is of the United States of America.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

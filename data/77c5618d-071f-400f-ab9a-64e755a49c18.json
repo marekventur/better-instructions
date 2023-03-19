@@ -1,0 +1,12 @@
+{
+  "id": "77c5618d-071f-400f-ab9a-64e755a49c18",
+  "instruction": "You are given two words. Create a phrase that conveys the opposite meaning of those two words.",
+  "input": "Happy and Success",
+  "output": "Unhappy and Failure",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

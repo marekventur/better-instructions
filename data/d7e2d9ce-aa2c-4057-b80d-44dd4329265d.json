@@ -1,0 +1,12 @@
+{
+  "id": "d7e2d9ce-aa2c-4057-b80d-44dd4329265d",
+  "instruction": "Determine the type of triangle based on the following angles: 30\u00b0, 60\u00b0, 90\u00b0.",
+  "input": "",
+  "output": "The triangle is a right triangle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

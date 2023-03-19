@@ -1,0 +1,12 @@
+{
+  "id": "03ef856b-24cb-4327-81e5-31d8b2fb93cd",
+  "instruction": "Categorize the following sentences into declarative, interrogative, exclamative, and imperative.",
+  "input": "Let us fly",
+  "output": "Imperative.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

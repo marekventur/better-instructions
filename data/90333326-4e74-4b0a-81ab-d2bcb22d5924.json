@@ -1,0 +1,12 @@
+{
+  "id": "90333326-4e74-4b0a-81ab-d2bcb22d5924",
+  "instruction": "Conver the temperature from Fahrenheit to Celsius.",
+  "input": "94F",
+  "output": "34.4C",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

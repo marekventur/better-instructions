@@ -1,0 +1,12 @@
+{
+  "id": "5c8201b4-b685-4ccb-bd49-160871a5275f",
+  "instruction": "Rewrite the following condition using a negated statement.",
+  "input": "If the car is red",
+  "output": "If the car is not red",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "134e6428-60c9-451c-a668-6b177ae13a76",
+  "instruction": "Create an algorithm to sort numbers in an array in ascending order.",
+  "input": "[3, 8, 5, 4, 1, 9, 7]",
+  "output": "The algorithm to sort numbers in an array in ascending order is: \n1. Set a marker for the first element in the array. \n2. Compare the marker to every other element in the array. \n3. Swap the positions of the marker and the element if the element is smaller than the marker. \n4. Set the marker to the next element and repeat steps 2 and 3 until the end of the array is reached. \n5. Repeat steps 1-4 until all elements in the array are sorted in ascending order.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

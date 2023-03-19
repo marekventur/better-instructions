@@ -1,0 +1,12 @@
+{
+  "id": "07a3a59f-2801-43fb-8d83-93d1df27f78d",
+  "instruction": "Given a set of statements, combine them into a single sentence.",
+  "input": "The city is bustling. Streets are packed.",
+  "output": "The city is bustling and the streets are packed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

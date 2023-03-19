@@ -1,0 +1,12 @@
+{
+  "id": "a48a6748-a3e0-430d-8185-0d5ffeb52b5c",
+  "instruction": "Identify the type of the relationship between the two words in the sentence.",
+  "input": "The car passed the truck.",
+  "output": "The relationship between the two words in the sentence is comparison.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "046b630c-f97a-44e6-b6d3-8c8619a770f1",
+  "instruction": "Find a quote from a famous philosopher that captures their main teachings.",
+  "input": "Friedrich Nietzsche",
+  "output": "Friedrich Nietzsche said, \u201cThat which does not kill us makes us stronger.\u201d",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

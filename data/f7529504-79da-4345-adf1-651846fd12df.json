@@ -1,0 +1,12 @@
+{
+  "id": "f7529504-79da-4345-adf1-651846fd12df",
+  "instruction": "Generate a different word for the given word, but with similar meaning.",
+  "input": "Anger",
+  "output": "Rage",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

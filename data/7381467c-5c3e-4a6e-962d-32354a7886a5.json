@@ -1,0 +1,12 @@
+{
+  "id": "7381467c-5c3e-4a6e-962d-32354a7886a5",
+  "instruction": "Add 5 traits to the following list",
+  "input": "- Courage\n- Self-control\n- Respect",
+  "output": "- Compassion\n- Integrity\n- Kindness\n- Resilience\n- Perseverance",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

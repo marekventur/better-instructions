@@ -1,0 +1,12 @@
+{
+  "id": "29ab2767-deb7-4b72-9e97-3442d274e470",
+  "instruction": "Detect the bias in the sentence.",
+  "input": "Women should focus more on taking care of their families rather than having a career.",
+  "output": "This sentence suggests that women are primarily responsible for taking care of their families and it implies that a career is a secondary priority, which is a gender-based bias.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

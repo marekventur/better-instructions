@@ -1,0 +1,12 @@
+{
+  "id": "92473fe2-8020-4cbb-9e03-6f4b514d5e49",
+  "instruction": "Synthesize the given information into one sentence describing the process",
+  "input": "A machine learning model is trained with labeled data.\nThe model is evaluated and tweaked if needed.",
+  "output": "A machine learning model is trained with labeled data, evaluated, and tweaked as necessary.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

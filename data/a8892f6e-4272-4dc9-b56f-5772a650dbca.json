@@ -1,0 +1,12 @@
+{
+  "id": "a8892f6e-4272-4dc9-b56f-5772a650dbca",
+  "instruction": "Compose a melody using the following notes.",
+  "input": "C, Eb, F, A",
+  "output": "Melody 1: C Eb F A | C Eb F A | C Eb F A | C Eb A G\n \nMelody 2: C Eb F A | F G Eb A | C Eb G A | C Eb A G",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

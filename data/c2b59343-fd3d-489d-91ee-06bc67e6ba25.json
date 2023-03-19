@@ -1,0 +1,12 @@
+{
+  "id": "c2b59343-fd3d-489d-91ee-06bc67e6ba25",
+  "instruction": "Determine the functional group of the following molecule.",
+  "input": "CH3-CH2-COOH",
+  "output": "The functional group of the molecule CH3-CH2-COOH is a carboxylic acid.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

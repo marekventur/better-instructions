@@ -1,0 +1,12 @@
+{
+  "id": "59ac5e40-cd26-4a73-837e-3acb1bb1a31d",
+  "instruction": "Explain the process of how a driverless car would know when to stop at a sign.",
+  "input": "",
+  "output": "A driverless car uses computer vision algorithms to identify and understand the world around it. In the case of stopping at a sign, the car would use its cameras, LiDAR and radar sensors to detect the sign and identify it. It would recognize the sign as a stop sign according to the design and shape, and then the car would slow down and come to a complete stop, following the rules of the road.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c4fa8ba9-fff4-41dc-8109-64362101792c",
+  "instruction": "Write a middleware program to filter all incoming requests on a website",
+  "input": "",
+  "output": "The program should function as an intermediary between the request and the response, and should include several layers for security. It should include input validation to weed out malicious requests, as well as content filtering to reject inappropriate requests such as those containing profanity or containing scripts. It should also evaluate requests against a blacklist of known malicious sites or IPs, as well as a whitelist of known valid sites.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

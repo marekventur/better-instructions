@@ -1,0 +1,12 @@
+{
+  "id": "8fe478a2-950f-4138-aa2f-1f35208c12ae",
+  "instruction": "Classify the following items as fruits, vegetables or grains.",
+  "input": "Apples, Asparagus, Wheat",
+  "output": "Apples - Fruit, Asparagus - Vegetable, Wheat - Grain.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

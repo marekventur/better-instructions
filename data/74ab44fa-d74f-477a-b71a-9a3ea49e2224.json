@@ -1,0 +1,12 @@
+{
+  "id": "74ab44fa-d74f-477a-b71a-9a3ea49e2224",
+  "instruction": "Come up with a way to explain the given scientific phenomenon.",
+  "input": "El Ni\u00f1o",
+  "output": "El Ni\u00f1o is a phenomenon caused by a combination of warm ocean surface temperatures in the Pacific Ocean and changes in atmospheric pressure. It occurs when the trade winds, which push warm water away from the coast of South America and towards Indonesia, weaken. This triggers a disruptive effect in the atmosphere, where warmer temperatures occur while storms commonly decrease. The effects of El Ni\u00f1o can widely affect weather conditions in the Pacific Ocean, North America, and other parts of the world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

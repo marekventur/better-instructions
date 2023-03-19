@@ -1,0 +1,12 @@
+{
+  "id": "15ea437f-6678-4f85-a8c4-0efeff25a3b7",
+  "instruction": "Predict the class for this text.",
+  "input": "The new car is a Jeep Wrangler.",
+  "output": "This text belongs to the `Car Model` class.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

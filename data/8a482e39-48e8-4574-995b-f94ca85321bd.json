@@ -1,0 +1,12 @@
+{
+  "id": "8a482e39-48e8-4574-995b-f94ca85321bd",
+  "instruction": "What is the significance of encryption in cyber security?",
+  "input": "",
+  "output": "Encryption is one of the most important tools in cyber security, as it ensures that data is kept private and secure. Encryption allows for the transmission and storage of data over insecure networks, such as the internet, in a manner that can only be deciphered by the intended recipient. This means that even if the data is intercepted, it is useless to whoever intercepted it as they do not have the key to unlock the data. This ensures that data is kept confidential and secure, protecting it from malicious actors.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

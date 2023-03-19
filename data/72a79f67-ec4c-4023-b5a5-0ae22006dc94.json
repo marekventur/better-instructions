@@ -1,0 +1,12 @@
+{
+  "id": "72a79f67-ec4c-4023-b5a5-0ae22006dc94",
+  "instruction": "Transform the given statement into an imperative one.",
+  "input": "I would like you to clean your room.",
+  "output": "Clean your room.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

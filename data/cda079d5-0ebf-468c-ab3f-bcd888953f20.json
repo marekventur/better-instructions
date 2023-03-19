@@ -1,0 +1,12 @@
+{
+  "id": "cda079d5-0ebf-468c-ab3f-bcd888953f20",
+  "instruction": "Classify the given poem as either free verse or sonnet.",
+  "input": "My love so deep, and\nMy heart so true.\nLike a dove in flight,\nIt's me and you.",
+  "output": "This poem is free verse.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

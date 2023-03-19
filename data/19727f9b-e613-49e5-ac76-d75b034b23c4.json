@@ -1,0 +1,12 @@
+{
+  "id": "19727f9b-e613-49e5-ac76-d75b034b23c4",
+  "instruction": "Write a code snippet to implement the algorithm described in the text.",
+  "input": "Create a function to generate the nth Fibonacci number.",
+  "output": "def fibonacci(n):\n    if n == 0:\n        return 0\n    elif n == 1:\n        return 1\n    else:\n        return fibonacci(n-1) + fibonacci(n-2)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

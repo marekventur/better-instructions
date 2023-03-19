@@ -1,0 +1,12 @@
+{
+  "id": "84406e74-cec6-451c-8eb4-0e0f5a99ca7d",
+  "instruction": "Create an algorithm that defines the neighborhood around an intersection.",
+  "input": "Intersection A and B",
+  "output": "The algorithm would involve defining the area in a 4-way pattern of the intersection acting as a center point. Any points within the four-way pattern would be categorized as within the neighborhood of the intersection.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

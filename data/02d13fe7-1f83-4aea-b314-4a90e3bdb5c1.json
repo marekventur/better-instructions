@@ -1,0 +1,12 @@
+{
+  "id": "02d13fe7-1f83-4aea-b314-4a90e3bdb5c1",
+  "instruction": "Translate a text from a given language to English.",
+  "input": "Hola",
+  "output": "Hello",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

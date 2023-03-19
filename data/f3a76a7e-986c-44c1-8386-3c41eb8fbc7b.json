@@ -1,0 +1,12 @@
+{
+  "id": "f3a76a7e-986c-44c1-8386-3c41eb8fbc7b",
+  "instruction": "In the passage below, edit each sentence for grammar errors or improper word use.",
+  "input": "Provided there's quite good mechanics, a car can ran for a long time.",
+  "output": "Provided there is good mechanics, a car can run for a long time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

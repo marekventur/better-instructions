@@ -1,0 +1,12 @@
+{
+  "id": "ce975af1-891b-4886-b82b-b6eece0023c6",
+  "instruction": "Answer this programming question: What is the difference between a static and a dynamic array?",
+  "input": "",
+  "output": "A static array is one whose size is fixed at the time of declaration, so no elements can be added or removed from it after declaration. A dynamic array, on the other hand, can grow and shrink in size during the program execution. It is implemented using pointers, so it uses more memory compared to a static array.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

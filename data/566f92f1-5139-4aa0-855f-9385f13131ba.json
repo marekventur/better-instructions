@@ -1,0 +1,12 @@
+{
+  "id": "566f92f1-5139-4aa0-855f-9385f13131ba",
+  "instruction": "Given a sample of text, edit it to make it more concise while preserving the content.",
+  "input": "The large screens that you can purchase these days are good for watching movies and playing games on, but they can also be great for efficient productivity.",
+  "output": "Large screens are great for watching movies, playing games, and improving productivity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

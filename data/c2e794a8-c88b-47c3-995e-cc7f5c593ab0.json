@@ -1,0 +1,12 @@
+{
+  "id": "c2e794a8-c88b-47c3-995e-cc7f5c593ab0",
+  "instruction": "Create a summary of the following text in under 25 words.",
+  "input": "The Galapagos Islands are an archipelago of volcanic islands distributed around the equator. It is home to a diversity of plant and animal species, such as giant tortoises, lizards, and some marine species like whales and dolphins.",
+  "output": "The Galapagos Islands are an archipelago of volcanic islands with a diverse array of flora and fauna, including giant tortoises, lizards, whales, and dolphins.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

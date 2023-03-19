@@ -1,0 +1,12 @@
+{
+  "id": "6cce86bd-84cf-45dd-9a93-f139aeed3bac",
+  "instruction": "Write a detailed instruction on how to change a tire.",
+  "input": "",
+  "output": "Instructions for Changing a Tire\n\n1. Make sure your car is parked on a flat, level ground, away from any traffic.\n\n2. Activate your parking brake.\n\n3. Loosen the lug nuts before jacking up the car by a quarter turn using a wrench.\n\n4. Place the jack securely underneath the car, following the manufacturer's instructions.\n\n5. Lift the car from the ground until the tire is just above the ground.\n\n6. Remove the lug nuts completely off the wheel and pull the wheel away from the car.\n\n7. Place the new tire in the same position of the old one.\n\n8. Secure the lug nuts back on the wheel and lower the jack slowly until the car is completely on the ground.\n\n9. Tighten the lug nuts by hand and then with the wrench.\n\n10. Make sure the center of the wheel cap is firmly pushed in the middle of the hubcap.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

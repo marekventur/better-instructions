@@ -1,0 +1,12 @@
+{
+  "id": "c66068df-0c6d-44d4-bac6-7412a958f175",
+  "instruction": "Find and remove any grammar mistakes from the following text.",
+  "input": "We enjoyeded our vacation too much.",
+  "output": "We enjoyed our vacation too much.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

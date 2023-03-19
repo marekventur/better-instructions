@@ -1,0 +1,12 @@
+{
+  "id": "37c44523-1fd6-44c9-935f-8a0ea6f9c9bd",
+  "instruction": "Compare and contrast cloud computing and edge computing",
+  "input": "",
+  "output": "Cloud computing is a centralized model that involves storing and processing data in remote data centers while edge computing involves storing and processing data closer to the edge of the network. Cloud computing is more cost-effective but also less secure, while edge computing is more secure but less cost-effective. Cloud computing is better suited for data transfer, while edge computing operates on a distributed model, which enables faster data analysis and response times than cloud computing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

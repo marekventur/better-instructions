@@ -1,0 +1,12 @@
+{
+  "id": "46b643aa-95f3-4f9c-9e07-4ee2db951466",
+  "instruction": "Generate a C++ program to find the minimum and maximum value of a given array",
+  "input": "",
+  "output": "#include <iostream>\n#include <algorithm>\n\nint main() {\n  int arr[] = {1, 2, 4, 8, 16};\n\n  int n = sizeof(arr) / sizeof(arr[0]);\n  int min = *std::min_element(arr, arr + n); \n  int max = *std::max_element(arr, arr + n); \n\n  std::cout << \"Minimum: \" << min << \"\\n\";\n  std::cout << \"Maximum: \" << max << \"\\n\";\n\n  return 0;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

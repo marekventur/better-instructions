@@ -1,0 +1,12 @@
+{
+  "id": "6e9af229-af17-4251-abbc-3e88521bbde4",
+  "instruction": "Given two pieces of text, how can you identify which is the fifth sentence of each?",
+  "input": "Text A: My name is John and I like to play basketball. I have played on a few teams in my life and I really enjoy the feeling of being part of a team.\n\nText B: She loves to go on long walks in the park. Her favorite place to go is Central Park. She loves the feeling of spending time in nature.",
+  "output": "Text A: I have played on a few teams in my life and I really enjoy the feeling of being part of a team. \n\nText B: Her favorite place to go is Central Park.  She loves the feeling of spending time in nature.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

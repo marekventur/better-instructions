@@ -1,0 +1,12 @@
+{
+  "id": "b1d05827-40b3-4a5f-8d63-c83f3ef8ce33",
+  "instruction": "Write a function to classify objects by their color.",
+  "input": "Objects: apple (red), banana (yellow), book (black)",
+  "output": "def classify_by_color(objects):\n    classified = {'red': [], 'yellow': [], 'black': []}\n    for object in objects:\n        name, color = object.split(' (')\n        color = color[:-1]  # remove trailing )\n        classified[color].append(name)\n    return classified",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

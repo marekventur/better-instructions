@@ -1,0 +1,12 @@
+{
+  "id": "d1da51cc-c226-4dfc-b1cb-93b661997056",
+  "instruction": "Generate a resum\u00e9 for a data scientist.",
+  "input": "",
+  "output": "John Smith\nData Scientist\n\nSummary\n\nHighly experienced data scientist with enthusiasm for developing creative solutions to challenging problems. Skilled in applying advanced analytics, machine learning, and AI techniques to identify trends, develop insights, and improve business decision-making. Proven ability to leverage data-driven solutions and effectively communicate complex ideas to key stakeholders.\n\nSkills\n\n- Statistical Software: Python, R, MATLAB, SAS, SPSS\n- Data Analysis & Visualization: Tableau, Power BI, Excel, SQL\n- Machine Learning: NLP, Decision Trees, Random Forests, Gradient Boosting, K Nearest Neighbors\n- AI & Deep Learning: TensorFlow, Keras, Scikit-Learn\n- Big Data: Hadoop, Spark, AWS Redshift\n\nExperience\n\nData Scientist\nABC Corporation, XYZ City, XYZ State (01/2019 \u2013 Present)\n- Developed and supervised data pipelines using Apache Spark, 80% faster that the traditional methods.\n- Analyzed over 3PB of web behavior data to devise new customer segmentation models which increased online sales by 20%.\n- Performed predictive modeling and extrapolated trends to generate product insights and improve marketing campaigns.\n\nData Analyst\nEFG Company, XYZ City, XYZ State (08/2017 \u2013 12/2018)\n- Utilized customer analytics and advanced customer segmentation strategies to deliver actionable customer insights for marketing campaigns.\n- Developed customer churn metrics and customer lifetime value models leading to a 10% improvement in customer retention.\n- Leveraged Tableau to deliver insights, forecasts and customer segmentation.\n\nEducation\n\nUniversity of Toronto\nBachelor of Science, Computer Science (06/14/2015)\n- GPA: 3.37\n- Coursework: Artificial Intelligence, Machine Learning, Database Systems, Computer Networks",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

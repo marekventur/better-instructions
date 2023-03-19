@@ -1,0 +1,12 @@
+{
+  "id": "9e14c824-136c-4c87-9ec8-28f2e6e5107b",
+  "instruction": "Generate an outline of a movie script",
+  "input": "",
+  "output": "Outline for Movie Script: \n\nAct I: \n\n1. Setup\u2010 introduction of characters and their motivations \n2. Inciting Incident\u2010 the event that kicks off the main conflict \n3. Plot Point One\u2010 first turning point, advances the story \n\nAct II: \n\n1. Rising Action\u2010 obstacles and complications develop, characters work to find a solution \n2. Plot Point Two\u2010 major turning point in the story \n3. Climax\u2010 the most exciting part of the story unfolds \n\nAct III: \n\n1. Falling Action\u2010 characters resolve the conflict \n2. Resolution\u2010 conflict is resolved, characters reach their goals \n3. Denouement\u2010 the end of the story with a resolution of all the plot points",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

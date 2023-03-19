@@ -1,0 +1,12 @@
+{
+  "id": "91d9a044-6e15-4529-b58e-206af9688d2e",
+  "instruction": "Edit the sentence to correct the pluralization of the word.",
+  "input": "The new swimmer practice everyday.",
+  "output": "The new swimmers practice every day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

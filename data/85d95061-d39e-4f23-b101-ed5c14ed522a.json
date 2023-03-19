@@ -1,0 +1,12 @@
+{
+  "id": "85d95061-d39e-4f23-b101-ed5c14ed522a",
+  "instruction": "Collect tweets about a given company for the past two weeks.",
+  "input": "Company name: Google",
+  "output": "Using the Twitter API, the tweets about Google for the past two weeks can be collected.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

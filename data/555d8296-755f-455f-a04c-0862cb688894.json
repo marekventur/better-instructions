@@ -1,0 +1,12 @@
+{
+  "id": "555d8296-755f-455f-a04c-0862cb688894",
+  "instruction": "Given a sentence, simplify it using equivalent words.",
+  "input": "It is possible for us to complete the task on time.",
+  "output": "We can finish the task on time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

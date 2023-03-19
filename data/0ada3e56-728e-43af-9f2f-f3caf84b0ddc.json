@@ -1,0 +1,12 @@
+{
+  "id": "0ada3e56-728e-43af-9f2f-f3caf84b0ddc",
+  "instruction": "Take the following input, and transform the statement into a rhetorical question.",
+  "input": "The British Royal Family has held a powerful position in the country for many years.",
+  "output": "How many years has the British Royal Family held a powerful position in the country?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

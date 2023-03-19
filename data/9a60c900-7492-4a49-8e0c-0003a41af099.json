@@ -1,0 +1,12 @@
+{
+  "id": "9a60c900-7492-4a49-8e0c-0003a41af099",
+  "instruction": "Train a model to classify the sentiment in a given sentence.",
+  "input": "This movie is incredibly beautiful and inspiring.",
+  "output": "The sentiment of the sentence is positive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

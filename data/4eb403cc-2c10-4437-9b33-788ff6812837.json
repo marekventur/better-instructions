@@ -1,0 +1,12 @@
+{
+  "id": "4eb403cc-2c10-4437-9b33-788ff6812837",
+  "instruction": "Create an email to send to your professor to inquire about an extra credit assignment.",
+  "input": "Name: John Smith\nSubject: Extra Credit Assignment",
+  "output": "Dear Professor Smith,\n\nMy name is John and I am currently enrolled in your course. I was wondering if there would be any extra credit assignments available for the semester. I am eager to make up for any missed assignments, if possible. I would very much appreciate if you could provide us with an opportunity to earn extra credit.\n\nThank you for your time.\n\nSincerely,\n\nJohn Smith",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0db3207a-3b9c-402e-8c74-2150c2973fef",
+  "instruction": "Provide the Java code to sum up two numbers",
+  "input": "",
+  "output": "int sum = a + b; \nSystem.out.println(sum);",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

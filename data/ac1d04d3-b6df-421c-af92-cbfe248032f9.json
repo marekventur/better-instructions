@@ -1,0 +1,12 @@
+{
+  "id": "ac1d04d3-b6df-421c-af92-cbfe248032f9",
+  "instruction": "Sort the following three items in the order of highest to lowest.",
+  "input": "Apple, Banana, Orange",
+  "output": "Apple, Orange, Banana",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

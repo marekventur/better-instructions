@@ -1,0 +1,12 @@
+{
+  "id": "79f95400-5510-4c9e-935c-66cc8d437853",
+  "instruction": "Give me the most important action from this text.",
+  "input": "Mary is cycling out of Paris to the beach. She has a picnic lunch in her basket.",
+  "output": "Cycling out of Paris.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

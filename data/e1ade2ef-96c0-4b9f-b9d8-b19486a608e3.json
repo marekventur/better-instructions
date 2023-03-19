@@ -1,0 +1,12 @@
+{
+  "id": "e1ade2ef-96c0-4b9f-b9d8-b19486a608e3",
+  "instruction": "You are given one blog post, condense the post into a tweet.",
+  "input": "The blog post discusses ways to reduce stress during the holidays.",
+  "output": "Take time to relax and focus on self-care this holiday season. Here are some tips to help reduce stress!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

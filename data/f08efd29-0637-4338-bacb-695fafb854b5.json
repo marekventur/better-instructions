@@ -1,0 +1,12 @@
+{
+  "id": "f08efd29-0637-4338-bacb-695fafb854b5",
+  "instruction": "Given a product description, what is the category of this product?",
+  "input": "This hand-held vacuum cleaner is ergonomically designed and comes with a dust container. It offers strong suction power and its built-in crevice tool helps clean hard-to-reach places.",
+  "output": "Home Appliances.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

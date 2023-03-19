@@ -1,0 +1,12 @@
+{
+  "id": "a2563d32-5132-4b44-8349-7c940808caf0",
+  "instruction": "Convert the sentence to the passive voice without changing the meaning of the sentence.",
+  "input": "His cat ate the mouse.",
+  "output": "The mouse was eaten by his cat.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

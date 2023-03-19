@@ -1,0 +1,12 @@
+{
+  "id": "77ec0ca3-596a-4de9-92e9-7906fd131a15",
+  "instruction": "Classify a given piece of text into a specified emotion.",
+  "input": "I can't believe this happened",
+  "output": "Sadness",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

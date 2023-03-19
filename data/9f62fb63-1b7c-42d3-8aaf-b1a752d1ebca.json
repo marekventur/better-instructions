@@ -1,0 +1,12 @@
+{
+  "id": "9f62fb63-1b7c-42d3-8aaf-b1a752d1ebca",
+  "instruction": "In a shallow container, prepare the following ingredients for a hamburger.",
+  "input": "- 2 beef patties\n- 1 bun\n- 3 slices of bacon\n- lettuce\n- tomato",
+  "output": "Place the beef patties and bacon in the shallow container. Toast the bun and place it on the side of the container. Place the lettuce and tomato in separate bowls and set them aside.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

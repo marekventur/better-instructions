@@ -1,0 +1,12 @@
+{
+  "id": "a2c2d8f9-74d7-4b74-8ebb-600d90b5f1cf",
+  "instruction": "Write an algorithm to rearrange an array of integers into an array with all negative integers in the front.",
+  "input": "[3, -4, 2, -1, 7]",
+  "output": "// Initialize two pointers to the start and end of the array \nint left = 0; \nint right = array.length - 1; \n\n// Loop through the array until left and right pointers cross \nwhile (left < right) { \n\n// Move left pointer until negative integer is found \nwhile (array[left] >= 0 && left < right) { \n    left++; \n} \n\n// Move right pointer until negative integer is found \nwhile (array[right] < 0 && left < right) { \n    right--; \n} \n\n// Swap positive and negative integers \nif (left < right) { \n    int temp = array[left]; \n    array[left] = array[right]; \n    array[right] = temp; \n} \n\n}\n// Return rearranged array \nreturn array;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

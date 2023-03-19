@@ -1,0 +1,12 @@
+{
+  "id": "2b0bcd2c-93ac-4023-9069-709c1f2a2f2e",
+  "instruction": "How does an electronic voting system work?",
+  "input": "",
+  "output": "An electronic voting system is an automated system used to collect and tabulate votes. Generally, the process includes a voter logging into the system, making their selections, and pressing a button to cast their vote. The votes are then stored on a secure database and the results can be tabulated in real-time. This system is more efficient than traditional manual voting systems, as it eliminates the need for paper ballots, simplifies the vote counting process, and can provide instant results.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

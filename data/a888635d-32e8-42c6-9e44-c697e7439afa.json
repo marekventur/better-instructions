@@ -1,0 +1,12 @@
+{
+  "id": "a888635d-32e8-42c6-9e44-c697e7439afa",
+  "instruction": "Transform this dish into a vegan-friendly dish.",
+  "input": "Spaghetti bolognese",
+  "output": "To make this classic dish vegan-friendly, replace the ground beef with crumbled tempeh and substitute the cow's milk for unsweetened non-dairy milk or vegetable stock. Furthermore, replace the Parmesan cheese with vegan cheese and use olive oil instead of butter.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

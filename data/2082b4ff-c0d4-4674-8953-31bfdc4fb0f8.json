@@ -1,0 +1,12 @@
+{
+  "id": "2082b4ff-c0d4-4674-8953-31bfdc4fb0f8",
+  "instruction": "Classifythe given tweet as negative, neutral, or positive.",
+  "input": "I absolutely loved this movie!",
+  "output": "Positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

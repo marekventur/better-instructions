@@ -1,0 +1,12 @@
+{
+  "id": "c2bbcda3-e16d-4830-b806-14cee84638ac",
+  "instruction": "Analyze the given text and list the five main characters.",
+  "input": "Once upon a time, there was a brave prince who set out to find the lost kingdom. Along his journey, he encountered a wise wizard, a sly fox, and a kindly old merchant.",
+  "output": "The five main characters in the given text are the brave prince, the wise wizard, the sly fox, the kindly old merchant, and the lost kingdom.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

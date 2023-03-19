@@ -1,0 +1,12 @@
+{
+  "id": "fa9ea6ad-d9c7-4386-ad9d-09c8b04bd345",
+  "instruction": "What is the purpose of multi-label classification?",
+  "input": "",
+  "output": "The purpose of multi-label classification is to predict multiple labels associated with a given instance of data. This is useful in applications such as text categorization, object recognition, and medical diagnosis where multiple labels can be assigned to a given data point. Multi-label classification algorithms are used to accurately and efficiently label instances of data with multiple labels that may have ambiguous boundaries such as in text categorization.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

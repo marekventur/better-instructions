@@ -1,0 +1,12 @@
+{
+  "id": "245b839b-b9b9-4a41-ac66-36391e11d93d",
+  "instruction": "Given the following array, print out maximum value in descending order. \n\n[4, 8, 0, 9, 15]",
+  "input": "[4, 8, 0, 9, 15]",
+  "output": "15\n9\n8\n4\n0",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1ed708f1-a06f-4391-8308-b28a710d43f1",
+  "instruction": "Convert the following digital time to words.",
+  "input": "22:45",
+  "output": "Ten forty-five PM.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

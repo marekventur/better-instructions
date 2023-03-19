@@ -1,0 +1,12 @@
+{
+  "id": "ae1a54d5-b334-4b95-9922-5a51e95ef682",
+  "instruction": "Create a word cloud representation of the input text.",
+  "input": "Today is a beautiful day with the sun shining brightly in the sky, the birds singing in the trees, and the gentle breeze blowing.",
+  "output": "See the attached image (wordcloud.jpg)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

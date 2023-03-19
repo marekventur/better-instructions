@@ -1,0 +1,12 @@
+{
+  "id": "aa5ce114-b641-4711-b6ef-8f5c838a722b",
+  "instruction": "Arrange a series of steps to explain how to cook a microwave recipe.",
+  "input": "Microwave Mac and Cheese",
+  "output": "- Gather the ingredients: macaroni, cheese, milk, butter and salt\n- Bring a pot of water to a boil \n- Add the macaroni and cook for the the amount of time indicated on the package \n- Drain the macaroni and place in a microwave-safe bowl\n- Stir in the cheese, milk, butter and salt \n- Place in the microwave and cook on high for 5 minutes\n- Stir the mac and cheese and cook for an additional 2 to 5 minutes \n- Remove from the microwave, serve and enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

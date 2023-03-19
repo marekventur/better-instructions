@@ -1,0 +1,12 @@
+{
+  "id": "22da6e99-d6b2-444e-bfae-3df90775c3b4",
+  "instruction": "Find the location of the given element in 2D array.",
+  "input": "arr = [ [ 1, 2, 3, 4], [ 5, 6, 7, 8], [ 9, 10, 11, 12]]\nelement = 10",
+  "output": "[1, 1]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

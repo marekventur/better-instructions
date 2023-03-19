@@ -1,0 +1,12 @@
+{
+  "id": "43d05cc1-6421-4b2a-8eeb-81086073cb4c",
+  "instruction": "Describe a situation where a security breach results in data being stolen.",
+  "input": "",
+  "output": "A security breach resulting in data being stolen could happen in a multitude of ways. For example, a malicious outsider or malicious insider could attempt to access a system without proper authorization, or a faulty security patch could allow a hacker to gain access to a system. Once the malicious actor is able to gain access to the system, they can steal confidential data such as personal information, financial information, customer records, and other sensitive data. This stolen data can be used to commit identity theft, financial fraud, and other malicious activities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

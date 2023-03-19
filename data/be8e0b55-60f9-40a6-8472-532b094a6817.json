@@ -1,0 +1,12 @@
+{
+  "id": "be8e0b55-60f9-40a6-8472-532b094a6817",
+  "instruction": "Construct a light switch circuit using only the components below.",
+  "input": "Switch, Light Bulb, Battery",
+  "output": "The circuit consists of a switch connected to the positive terminal of a battery. The negative terminal of the battery is connected to one terminal of the light bulb, and the other terminal of the light bulb is connected to the switch. When the switch is activated, the circuit is completed, allowing electricity to flow and illuminating the light bulb.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

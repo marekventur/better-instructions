@@ -1,0 +1,12 @@
+{
+  "id": "678e9f44-334c-4828-a957-d0ef1a7b9cf2",
+  "instruction": "Determine the value of a company's marketing budget.",
+  "input": "The company plans to spend $100,000 on marketing this year.",
+  "output": "The value of the company's marketing budget for the year is $100,000. This amount should be sufficient for the company to reach its desired goals, as long as it is adequately distributed across the various channels of their chosen marketing strategy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

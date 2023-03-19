@@ -1,0 +1,12 @@
+{
+  "id": "f06e7b41-e673-4546-a6f6-9d8222b3f3a5",
+  "instruction": "Change the following sentence to be grammatically correct.",
+  "input": "A technology company who creates products",
+  "output": "A technology company that creates products.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ab1281c3-17a7-4e72-99ce-e7fe981f31ce",
+  "instruction": "Classify whether a sentence is a main clause or a subordinate clause.",
+  "input": "Although the illness primarily affects children",
+  "output": "Subordinate clause.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "29ea9e66-140f-4ddf-83b9-20290275a924",
+  "instruction": "Predict what will happen to the stock prices of a company based on its quarterly earnings report",
+  "input": "Company ABC's quarterly earnings report showed a net loss of $5 million",
+  "output": "The stock prices of Company ABC are likely to go down following the release of the quarterly earnings report as it showed a net loss of $5 million.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

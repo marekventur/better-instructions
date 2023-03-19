@@ -1,0 +1,12 @@
+{
+  "id": "eb60e032-29de-4cdf-a112-f590c9969eb8",
+  "instruction": "Calculate the surface area of a cube from the given side length.",
+  "input": "a=4",
+  "output": "64",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e100edfb-a8f8-4f34-bef1-51485174baa0",
+  "instruction": "Edit this sentence to make it more concise and improve the grammar",
+  "input": "The new mayor had plans included lots of creative ideas which was very ambitious",
+  "output": "The new mayor had ambitious plans, including many creative ideas.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

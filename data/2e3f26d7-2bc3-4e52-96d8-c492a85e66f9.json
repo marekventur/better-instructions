@@ -1,0 +1,12 @@
+{
+  "id": "2e3f26d7-2bc3-4e52-96d8-c492a85e66f9",
+  "instruction": "Summarize a news article describing the controversy over the new voting laws.",
+  "input": "The recent voting laws being debated in the congress, have led to a lot of confusion and heated debate. Opponents of the bill argue that the new laws are an attack on democracy, while supporters argue that the laws are intended to reduce election fraud.",
+  "output": "The recent voting laws in Congress have sparked a great deal of controversy. Opponents argue that the new laws are an attack on democracy and will reduce voter access, while supporters claim they are needed to reduce election fraud. Both sides have been fiercely debating the issue, with no clear resolution in sight.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

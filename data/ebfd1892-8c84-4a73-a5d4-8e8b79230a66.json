@@ -1,0 +1,12 @@
+{
+  "id": "ebfd1892-8c84-4a73-a5d4-8e8b79230a66",
+  "instruction": "Generate a chart of the top 5 cities based on the number of movie theaters",
+  "input": "Tallahassee: 19\nMiami: 21\nOrlando: 33\nTampa: 43\nJacksonville: 17",
+  "output": "City | Number of Movie Theaters\n-----|----\nTampa  | 43\nOrlando | 33\nMiami  | 21\nTallahassee | 19\nJacksonville | 17",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

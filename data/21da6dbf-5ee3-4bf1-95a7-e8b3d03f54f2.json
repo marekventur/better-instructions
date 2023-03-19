@@ -1,0 +1,12 @@
+{
+  "id": "21da6dbf-5ee3-4bf1-95a7-e8b3d03f54f2",
+  "instruction": "Given a set of events, come up with a title.",
+  "input": "A climber struggles up a tough mountain and is able to reach the peak before sunset.",
+  "output": "The Climb to the Top before the Sun Goes Down.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

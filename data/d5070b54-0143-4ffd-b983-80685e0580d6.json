@@ -1,0 +1,12 @@
+{
+  "id": "d5070b54-0143-4ffd-b983-80685e0580d6",
+  "instruction": "Compare the effectiveness of two algorithms",
+  "input": "Algorithm A and Algorithm B",
+  "output": "Algorithm A and Algorithm B can vary in their effectiveness depending on the task they are being used for. Generally speaking, Algorithm A excels at speed, while Algorithm B is better suited for accuracy. Algorithm A works by using an efficient data-sorting approach that can quickly sort through large amounts of data even in complex scenarios. Algorithm B, on the other hand, is designed to be more precise and accurate, by working through the data slowly and meticulously. This makes Algorithm B better suited for tasks that require a higher level of accuracy and precision than Algorithm A.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

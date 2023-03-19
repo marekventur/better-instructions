@@ -1,0 +1,12 @@
+{
+  "id": "c6d93641-9fe3-4b1e-8433-45b279c7fdb3",
+  "instruction": "Create a response to the following customer complaint.",
+  "input": "I received the wrong order.",
+  "output": "We apologize for the inconvenience you have experienced. We understand it can be frustrating to receive an order that is not correct. We will replace the incorrect item with the correct one and send it to you as soon as possible. Please let us know if you have any further questions or concerns.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

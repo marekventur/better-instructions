@@ -1,0 +1,12 @@
+{
+  "id": "441cfb83-c6cf-4dd2-8eaa-9d9d6f102bd1",
+  "instruction": "Explain to me why this premise does not make sense.",
+  "input": "The chef in the kitchen at the restaurant can fly.",
+  "output": "The premise does not make sense because it breaks the laws of physics and biology. People, and thus chefs, cannot fly without the use of machines.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

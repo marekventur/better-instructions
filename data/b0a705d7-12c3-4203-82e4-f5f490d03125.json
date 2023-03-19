@@ -1,0 +1,12 @@
+{
+  "id": "b0a705d7-12c3-4203-82e4-f5f490d03125",
+  "instruction": "Classify the following photo as either a car, animal, or flower.",
+  "input": "Attached photo of a car",
+  "output": "Car",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a2920463-866a-4c81-aa98-0f6ef343ac1d",
+  "instruction": "Given the following passage, identify the main idea.",
+  "input": "Humans have always been fascinated by the stars. Since ancient times, people have studied the movements of the stars and planets, trying to uncover the secrets of our universe. Today, the study of astronomy has come a long way. With the help of powerful telescopes, satellites and computers, scientists have discovered new galaxies, stars, and planets.",
+  "output": "The main idea of the passage is that humans have always been intrigued by the stars, and with the advances in technology, we are able to discover new galaxies, stars and planets.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

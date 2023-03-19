@@ -1,0 +1,12 @@
+{
+  "id": "6d7ec333-f586-4005-abf2-2482863563bd",
+  "instruction": "Given a sentence, divide it into two parts for easier understanding.",
+  "input": "He turned off the TV and went to bed.",
+  "output": "He turned off the TV. He went to bed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

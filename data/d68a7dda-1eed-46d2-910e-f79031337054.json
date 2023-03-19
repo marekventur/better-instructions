@@ -1,0 +1,12 @@
+{
+  "id": "d68a7dda-1eed-46d2-910e-f79031337054",
+  "instruction": "Develop an algorithm to solve the Tower of Hanoi problem.",
+  "input": "",
+  "output": "An algorithm to solve the Tower of Hanoi problem can be expressed as follows:\n\n1. Move the n disks from the starting tower to the auxiliary tower, one at a time, using the final tower as the spare\n\n2. Move the nth disk from the auxiliary tower to the final tower\n\n3. Move the n-1 disks from the auxiliary to the final tower, one at a time, using the starting tower as the spare\n\n4. Repeat steps 1-3 until all disks are moved from the starting tower to the final tower",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

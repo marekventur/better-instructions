@@ -1,0 +1,12 @@
+{
+  "id": "84fd53d1-65b8-47b0-b2a2-420814098d9b",
+  "instruction": "Determine which of the noun phrases below is a proper noun.",
+  "input": "squirrel",
+  "output": "squirrel is not a proper noun.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

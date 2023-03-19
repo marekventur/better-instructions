@@ -1,0 +1,12 @@
+{
+  "id": "72896031-6bf6-4174-a140-832b6eb7522c",
+  "instruction": "Identify the name of the artist in the following lyrics.",
+  "input": "\"Hey, I just met you, and this is crazy\nBut here's my number, so call me maybe\"",
+  "output": "Carly Rae Jepsen",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

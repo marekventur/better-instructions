@@ -1,0 +1,12 @@
+{
+  "id": "ad3f247a-fed2-40da-89e2-0a676aed1c63",
+  "instruction": "Add 10 words to an existing vocabulary list.",
+  "input": "existing vocabulary list: happy, sad, funny, angry, scared, excited, energetic, tired, confused, frustrated",
+  "output": "amazing, content, cheerful, depressed, silly, irritable, exhilarated, exhausted, bewildered, aggravated",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

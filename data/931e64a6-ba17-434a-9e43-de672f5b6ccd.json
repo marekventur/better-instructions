@@ -1,0 +1,12 @@
+{
+  "id": "931e64a6-ba17-434a-9e43-de672f5b6ccd",
+  "instruction": "Put the following adjectives in order of increasing intensity.",
+  "input": "beautiful, spectacular, magnificent",
+  "output": "beautiful, magnificent, spectacular",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

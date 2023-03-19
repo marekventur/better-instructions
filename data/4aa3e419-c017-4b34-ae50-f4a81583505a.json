@@ -1,0 +1,12 @@
+{
+  "id": "4aa3e419-c017-4b34-ae50-f4a81583505a",
+  "instruction": "Generate a conversational response given the following statement.",
+  "input": "I don't think I can make it to the meeting tonight.",
+  "output": "That's understandable. Is there anything I can do to help?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

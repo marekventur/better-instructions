@@ -1,0 +1,12 @@
+{
+  "id": "26ab6191-d55c-42d9-89d7-7ba11915045c",
+  "instruction": "Write an algorithm to find the intersection of two arrays.",
+  "input": "",
+  "output": "// Algorithm to find the intersection of two arrays\n\nfunction intersection(arr1, arr2) {\n    // Create empty array to store intersection elements\n    let result = [];\n\n    // Loop through all elements of arr1\n    for (let i = 0; i < arr1.length; i++) {\n        // Loop through all elements of arr2\n        for (let j = 0; j < arr2; j++){\n            // Check if elements from arr1 and arr2 match\n            if (arr1[i] === arr2[j]) {\n                // If match, push element to result array\n                result.push(arr1[i]);\n            }\n        }\n    }\n\n    // Return the result array \n    return result;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

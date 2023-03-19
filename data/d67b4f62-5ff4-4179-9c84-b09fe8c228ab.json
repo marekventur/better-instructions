@@ -1,0 +1,12 @@
+{
+  "id": "d67b4f62-5ff4-4179-9c84-b09fe8c228ab",
+  "instruction": "Generate three expansion sentences of the given sentence.",
+  "input": "The app is easy to use.",
+  "output": "1. The app is designed to be user-friendly and intuitive.\n2. It's easy for users to navigate the app. \n3. It only takes a few minutes to learn how to use the app.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

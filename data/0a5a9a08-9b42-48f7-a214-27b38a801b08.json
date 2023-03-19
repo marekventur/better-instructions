@@ -1,0 +1,12 @@
+{
+  "id": "0a5a9a08-9b42-48f7-a214-27b38a801b08",
+  "instruction": "Construct an algorithm to identify if a sentence is positive or not.",
+  "input": "",
+  "output": "Create a function to identify if a sentence is positive or not.\n\n1. Create a list of words with positive connotations, such as \"lovely,\" \"joyful,\" \"blessed,\" and \"splendid\".\n\n2. Split the sentence into individual words and store them in an array.\n\n3. Loop through the array and compare the words to the list of positive words.\n\n4. If any of the words match, return true that the sentence is positive.\n\n5. Else, return false that the sentence is not positive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

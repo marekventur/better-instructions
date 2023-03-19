@@ -1,0 +1,12 @@
+{
+  "id": "13d61f56-bf50-4015-a0fb-3ba21406fa15",
+  "instruction": "Rewrite the sentence \u201cHe\u2019s an excellent surgeon\u201d to make it sound more impressive.",
+  "input": "He's an excellent surgeon",
+  "output": "He's an exceptional surgeon, a master of the craft whose skills are second to none.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

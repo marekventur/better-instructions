@@ -1,0 +1,12 @@
+{
+  "id": "9d7165c6-457e-46a0-a089-de6fc1d96393",
+  "instruction": "Generate a list of common mistakes in a given topic",
+  "input": "Email marketing",
+  "output": "- Failing to create compelling subject lines \n- Not segmenting your subscribers \n- Not optimizing emails for mobile \n- Not testing emails prior to sending\n- Not personalizing emails \n- Not tracking email performance \n- Not making emails scannable \n- Not including a call-to-action \n- Not using automation",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

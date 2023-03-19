@@ -1,0 +1,12 @@
+{
+  "id": "e5fa9f49-a36e-4be6-a6e5-e5ca959f9af5",
+  "instruction": "Create an example of a functional programming protocol in Scala.",
+  "input": "",
+  "output": "def timesTwo(n: Int): Int = \n    n * n \n\ndef timesThree(n:Int): Int = \n    n * n * n \n\nval numList = List (1,2,3,4,5)\nval result = numList.map(timesTwo).map(timesThree)\n\n// result: List[Int] = List(3, 24, 243, 1024, 3125)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

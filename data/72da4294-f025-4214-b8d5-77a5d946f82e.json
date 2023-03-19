@@ -1,0 +1,12 @@
+{
+  "id": "72da4294-f025-4214-b8d5-77a5d946f82e",
+  "instruction": "Suggest a way to organize data for the following case: Customer records for the past year.",
+  "input": "",
+  "output": "Customer records for the past year should be organized by month and year to make it easier to analyze the data over time. The records should also be accompanied by additional information such as customer name, order details, payment type, and location.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

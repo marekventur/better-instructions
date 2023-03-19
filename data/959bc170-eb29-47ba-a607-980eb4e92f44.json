@@ -1,0 +1,12 @@
+{
+  "id": "959bc170-eb29-47ba-a607-980eb4e92f44",
+  "instruction": "Write a function to calculate the discounted price of a product given its original price and the discount percentage",
+  "input": "",
+  "output": "def discount_price(price, percentage):\n    discounted_price = price - (price * percentage/100)\n    return discounted_price",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

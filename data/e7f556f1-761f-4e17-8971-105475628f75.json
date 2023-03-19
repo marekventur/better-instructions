@@ -1,0 +1,12 @@
+{
+  "id": "e7f556f1-761f-4e17-8971-105475628f75",
+  "instruction": "Put the provided antonym words in the correct blank.",
+  "input": "The coffee was _______ yet flavorful.\nAntonyms: bitter, bland",
+  "output": "The coffee was bitter yet flavorful.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

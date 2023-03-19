@@ -1,0 +1,12 @@
+{
+  "id": "204238f8-bfbd-4e18-baee-d038b2d101f4",
+  "instruction": "Insert two commas in the following sentence.",
+  "input": "After eating lunch we went to the movies.",
+  "output": "After eating lunch, we went to the movies.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

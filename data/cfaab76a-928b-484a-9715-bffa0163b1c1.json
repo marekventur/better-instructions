@@ -1,0 +1,12 @@
+{
+  "id": "cfaab76a-928b-484a-9715-bffa0163b1c1",
+  "instruction": "Provide a response to the given conversation.",
+  "input": "Person A: Are you hungry?\nPerson B:",
+  "output": "Yes, I am hungry.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

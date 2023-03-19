@@ -1,0 +1,12 @@
+{
+  "id": "f8c27ce6-c6ec-447e-a138-8eee20dd57b2",
+  "instruction": "Convert this currency into Euros.",
+  "input": "US Dollars: 200",
+  "output": "166.74 Euros",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

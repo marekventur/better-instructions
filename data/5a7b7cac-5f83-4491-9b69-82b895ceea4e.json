@@ -1,0 +1,12 @@
+{
+  "id": "5a7b7cac-5f83-4491-9b69-82b895ceea4e",
+  "instruction": "Convert the following paragraph into commands for a computer",
+  "input": "The data shows that the sales from Monday to Thursday increased by 10%.",
+  "output": "Set sales_increase to 10%.\nCalculate total sales from Monday to Thursday by adding 10% to each day's sales.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

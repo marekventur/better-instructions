@@ -1,0 +1,12 @@
+{
+  "id": "1107a6e7-a942-492e-8710-380da6540a2a",
+  "instruction": "Factor the polynomial x2 + 5x + 6",
+  "input": "",
+  "output": "The polynomial x2 + 5x + 6 can be factored as (x + 3)(x + 2).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

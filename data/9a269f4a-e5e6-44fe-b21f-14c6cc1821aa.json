@@ -1,0 +1,12 @@
+{
+  "id": "9a269f4a-e5e6-44fe-b21f-14c6cc1821aa",
+  "instruction": "Explain what \"Garbage in, garbage out\" means",
+  "input": "",
+  "output": "Garbage in, garbage out (GIGO) is a saying which means that the quality of output is only as good as the quality of the input. It is commonly used when discussing computers and computing to mean that if the input data is wrong, the output of the program will also be wrong. This is because computers rely on the input data they receive to find the results, so if the input is incorrect then the output will also be incorrect.\n \nGIGO is a reminder to always double check the data that is entered into the computer and make sure it is the correct data before running the program. It can also be used to explain why search engines are sometimes inaccurate. For example, if incorrect information is inputted into a search engine, then the results will also be incorrect. Therefore, it is important to check the accuracy of both inputs and outputs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7e40e432-8316-41e7-9264-7c15580e4b2d",
+  "instruction": "Return the vowel count for the following word: \"Apple\".",
+  "input": "Apple",
+  "output": "The vowel count for the word \"Apple\" is 2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8b3b3e6f-07e9-4733-b692-5742e1aebc00",
+  "instruction": "Review the following website to determine if it is a reliable source of scientific research.",
+  "input": "Http://www.example.com",
+  "output": "This website is not a reliable source of scientific research as it does not contain any original research or scientific evidence. It is likely a website that has been created to advertise a specific product or service, as there is a prominent link to purchase a product on the homepage.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

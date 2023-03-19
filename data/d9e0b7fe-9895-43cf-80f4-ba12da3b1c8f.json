@@ -1,0 +1,12 @@
+{
+  "id": "d9e0b7fe-9895-43cf-80f4-ba12da3b1c8f",
+  "instruction": "Suggest a strategy for achieving a goal.",
+  "input": "My goal is to be debt-free in two years.",
+  "output": "An effective strategy for achieving this goal would be to start by creating a budget and tracking your expenses. Next, look for ways to reduce your spending and focus on reducing debt with the highest interest rates first. Make sure to pay more than the minimum payment on all debt and consider ways to increase your income. Finally, be consistent and maintain motivation by setting shorter-term goals and rewarding yourself when you reach them.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

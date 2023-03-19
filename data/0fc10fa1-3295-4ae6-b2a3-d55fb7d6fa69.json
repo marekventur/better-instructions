@@ -1,0 +1,12 @@
+{
+  "id": "0fc10fa1-3295-4ae6-b2a3-d55fb7d6fa69",
+  "instruction": "Describe how machine learning algorithms work in 5 steps.",
+  "input": "",
+  "output": "1. Identify the problem and gather data: Machine learning algorithms are based on large amounts of data, which is used to train the algorithm by identifying patterns in the data and using them to create an understanding of the problem.\n\n2. Clean and preprocess the data: The data should be cleaned to remove missing values, outliers, and other errors. It should also be prepared in a format that the algorithms can use. \n\n3. Select a learning algorithm: Learning algorithms come in several forms, including supervised and unsupervised algorithms. It is important to select the best learning algorithm for the task. \n\n4. Train the model: The model is then trained via the data until the algorithm is able to make predictions or deduce conclusions from the data.\n\n5. Test the model and tune parameters: The model is then tested against additional data, and then adjusted as needed to improve accuracy. Any parameters that can be adjusted are then tuned to further improve the model's performance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

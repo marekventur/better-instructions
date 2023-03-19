@@ -1,0 +1,12 @@
+{
+  "id": "7e1f4780-ae9d-4016-93e6-bd38ef0eb909",
+  "instruction": "Explain why the given sentence is a run-on sentence.",
+  "input": "She went to the store she needed supplies.",
+  "output": "The given sentence is a run-on sentence because it contains two independent clauses (the two separate thoughts of \"She went to the store\" and \"She needed supplies\") that are not connected by a coordinating conjunction or a semicolon.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

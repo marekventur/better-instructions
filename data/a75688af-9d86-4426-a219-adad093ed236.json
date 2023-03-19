@@ -1,0 +1,12 @@
+{
+  "id": "a75688af-9d86-4426-a219-adad093ed236",
+  "instruction": "Add a comma after each clause in the sentence.",
+  "input": "She has been studying all day and is exhausted",
+  "output": "She has been studying all day, and is exhausted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

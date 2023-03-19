@@ -1,0 +1,12 @@
+{
+  "id": "c4df3b45-c632-42d8-bc68-80e05ff7951e",
+  "instruction": "Given a chemistry equation, provide an explanation.",
+  "input": "2H2O2 -> 2H2O + O2",
+  "output": "This equation shows the process of converting hydrogen peroxide (H2O2) into water (H2O) and oxygen gas (O2).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

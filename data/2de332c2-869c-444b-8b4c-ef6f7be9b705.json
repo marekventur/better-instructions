@@ -1,0 +1,12 @@
+{
+  "id": "2de332c2-869c-444b-8b4c-ef6f7be9b705",
+  "instruction": "Rewrite the following sentence \"He installed the operating system\" in passive voice.",
+  "input": "He installed the operating system",
+  "output": "The operating system was installed by him.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

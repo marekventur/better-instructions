@@ -1,0 +1,12 @@
+{
+  "id": "891fda43-42bf-42ca-b526-72d7f2704dc6",
+  "instruction": "Consolidate three sentences into one.",
+  "input": "The majority of people in my town are jobless. The economy is in a poor state. Everyone is desperate for a job.",
+  "output": "The majority of people in my town are jobless due to the poor state of the economy, leaving everyone desperately seeking employment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

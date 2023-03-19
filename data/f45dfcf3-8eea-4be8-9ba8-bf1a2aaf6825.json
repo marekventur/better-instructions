@@ -1,0 +1,12 @@
+{
+  "id": "f45dfcf3-8eea-4be8-9ba8-bf1a2aaf6825",
+  "instruction": "For this list of adjectives, output a sentence that describes a colorful character",
+  "input": "Loud, bubbly, mischievous, brave",
+  "output": "The loud and bubbly character was mischievous and brave.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

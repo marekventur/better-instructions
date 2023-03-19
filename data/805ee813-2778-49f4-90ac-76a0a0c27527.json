@@ -1,0 +1,12 @@
+{
+  "id": "805ee813-2778-49f4-90ac-76a0a0c27527",
+  "instruction": "Reverse engineer the following recipe ingredients to identify what dish it is for:",
+  "input": "-1/2 cup butter\n-2 tablespoons minced garlic\n-2 tablespoons all-purpose flour\n-1/2 teaspoon dried thyme\n-1/4 teaspoon pepper\n-2 cups chicken broth\n-1/4 cup dry white wine\n-1 pound boneless, skinless chicken breasts\n-2 tablespoons chopped fresh parsley",
+  "output": "The dish is for a garlic butter chicken.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

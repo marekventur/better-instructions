@@ -1,0 +1,12 @@
+{
+  "id": "c21f0f3a-95fe-4530-b392-5e237ffa5a47",
+  "instruction": "Create a basic budget for a family of 4 living in an urban area.",
+  "input": "Salary of $40,000 per year",
+  "output": "It is possible to create a basic budget for a family of 4 living in an urban area with a salary of $40,000 per year. The first step is to calculate the nontaxable income and deductibles. Nontaxable income includes childcare expenses, healthcare payments, and other expenses that are not subject to income taxes. Deductibles includes the cost of housing and transportation, such as rent or mortgage payments and car payments, respectively. \n\nThe total nontaxable income and deductions should be subtracted from the family\u2019s gross income, or their salary before taxes, to calculate the net income. This net income should be divided into two categories, which are to be allocated as follows: \n\n- 60% is allocated to needs, such as food, utilities, and housing; \n- 40% is allocated to wants, such as entertainment and leisure activities. \n\nAfter allocating the income, the next step is to save 10% of the family\u2019s net income each month. The remaining income should be used to pay any debt, such as loans or credit cards balances, first, and then the remaining money should be spent on needs and wants.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

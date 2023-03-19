@@ -1,0 +1,12 @@
+{
+  "id": "7a67c20f-28a7-426e-9daf-4f8dd5ece96a",
+  "instruction": "Compare the two products and rank them according to the criterion.",
+  "input": "Product A: Toaster\nProduct B: Vacuum Cleaner\nCriterion: Price",
+  "output": "Product A (Toaster) is cheaper than Product B (Vacuum Cleaner). Therefore, Product A is the better choice for price-conscious consumers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "814358ba-e83a-4753-82a8-d16e22382d13",
+  "instruction": "Rewrite this sentence omitting the comma:",
+  "input": "You can succeed, if you try.",
+  "output": "If you try you can succeed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

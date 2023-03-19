@@ -1,0 +1,12 @@
+{
+  "id": "5c446122-efa8-47c4-9bfd-a382dfc86c97",
+  "instruction": "Find the missing punctuation and add it to the sentence.",
+  "input": "She was excited that her project was finally accepted",
+  "output": "She was excited that her project was finally accepted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

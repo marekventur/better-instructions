@@ -1,0 +1,12 @@
+{
+  "id": "7e2b2374-5738-4c63-bcca-469a98fda671",
+  "instruction": "Create a dictionary of chemical elements and their symbols.",
+  "input": "",
+  "output": "elements = {\n    'Hydrogen': 'H',\n    'Helium': 'He',\n    'Lithium': 'Li', \n    'Berylium': 'Be',\n    'Boron': 'B',\n    'Carbon': 'C',\n    'Nitrogen': 'N',\n    'Oxygen': 'O',\n    'Fluorine': 'F',\n    'Neon': 'Ne',\n    'Sodium': 'Na',\n    'Magnesium': 'Mg',\n    'Aluminum': 'Al',\n    'Silicon': 'Si', \n    'Phosphorus': 'P',\n    'Sulfur': 'S',\n    'Chlorine': 'Cl',\n    'Argon': 'Ar',\n    'Potassium': 'K',\n    'Calcium': 'Ca'\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

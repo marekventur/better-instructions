@@ -1,0 +1,12 @@
+{
+  "id": "d5589a53-cf3c-4724-972e-6163efff4405",
+  "instruction": "Edit the following sentence so that it uses a modal verb:",
+  "input": "I must do the assignment before tomorrow",
+  "output": "I have to do the assignment by tomorrow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

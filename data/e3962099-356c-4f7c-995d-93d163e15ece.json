@@ -1,0 +1,12 @@
+{
+  "id": "e3962099-356c-4f7c-995d-93d163e15ece",
+  "instruction": "Explain the advantages and disadvantages of using a decision tree",
+  "input": "",
+  "output": "Advantages of using a decision tree are that it is simple to understand and explain, allows for the incorporation of new data, and is resistant to outliers. Disadvantages of using decision trees are that they can become overly complex, have a tendency to overfit to the data, and are sensitive to changes in the data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

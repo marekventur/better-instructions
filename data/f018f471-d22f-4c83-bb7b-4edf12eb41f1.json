@@ -1,0 +1,12 @@
+{
+  "id": "f018f471-d22f-4c83-bb7b-4edf12eb41f1",
+  "instruction": "Separate the nouns and verbs from the following sentence and list them.",
+  "input": "Technology is transforming the way businesses interact with customers.",
+  "output": "Nouns: Technology, businesses, customers\nVerbs: transforming, interact",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

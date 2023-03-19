@@ -1,0 +1,12 @@
+{
+  "id": "433b8f99-cb65-44b9-9d1c-830bfc28ed34",
+  "instruction": "Create a function to sort a list from highest to lowest.",
+  "input": "[10, 30, 20, 50, 40]",
+  "output": "def sort_list(arr): \n    arr.sort(reverse=True) \n    return arr\nsort_list([10, 30, 20, 50, 40])\nOutput: [50, 40, 30, 20, 10]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

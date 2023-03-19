@@ -1,0 +1,12 @@
+{
+  "id": "a685a0ca-df5e-4f43-99fd-4335d31a378f",
+  "instruction": "Change the subject to make the following sentence past tense:",
+  "input": "The cat is eating her breakfast",
+  "output": "The cat ate her breakfast.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

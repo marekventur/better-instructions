@@ -1,0 +1,12 @@
+{
+  "id": "bb77aac1-1deb-4640-b894-0d9eb1fa153d",
+  "instruction": "Assign a rating (1-5) to the following movie review",
+  "input": "This movie is so inspiring and touching",
+  "output": "5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

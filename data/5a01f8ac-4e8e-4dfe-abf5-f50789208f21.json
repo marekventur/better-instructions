@@ -1,0 +1,12 @@
+{
+  "id": "5a01f8ac-4e8e-4dfe-abf5-f50789208f21",
+  "instruction": "Calculate the area of an irregular pentagon.",
+  "input": "Length of sides: 3.2 cm, 4.5 cm, 8.3 cm, 9.6 cm, and 6.4 cm.",
+  "output": "The area of the pentagon is approximately 65.49 cm2. This can be calculated by first finding the interior angles of the pentagon using the Law of Cosines. After the angles are found, the area can be determined using the Heron's Formula.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1b2f8d76-44cd-432d-8e05-2407d434b824",
+  "instruction": "Sort the following items by type",
+  "input": "banana, apple, chair",
+  "output": "Fruit: banana, apple \nFurniture: chair",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2f26ba75-c202-4d97-8b3c-7a4d7827d0f2",
+  "instruction": "Find the third word in the sentence and make it the title of a book.",
+  "input": "The lively red dog is chasing a cat",
+  "output": "\"Dog Chasing a Cat\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

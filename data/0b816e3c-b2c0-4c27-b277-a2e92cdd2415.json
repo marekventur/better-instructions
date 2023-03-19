@@ -1,0 +1,12 @@
+{
+  "id": "0b816e3c-b2c0-4c27-b277-a2e92cdd2415",
+  "instruction": "Categorize the following word into an appropriate noun type",
+  "input": "Dog",
+  "output": "Animal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

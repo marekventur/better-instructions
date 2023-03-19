@@ -1,0 +1,12 @@
+{
+  "id": "0ceb71ac-a906-4608-90ad-151b59b33d59",
+  "instruction": "Write an algorithm to identify prime numbers.",
+  "input": "",
+  "output": "def is_prime(n):\n  if n <= 1:\n    return False\n  if n <= 3:  \n    return True  \n  if n % 2 == 0 or n % 3 == 0: \n    return False  \n  i = 5\n  while i*i <= n:\n    if n % i == 0 or n % (i + 2) == 0: \n      return False\n    i = i + 6\n  return True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "837af5ae-33bd-4e47-bea1-c833ca7310df",
+  "instruction": "Generate five adjectives to describe the given dog.",
+  "input": "<Image of a Corgi>",
+  "output": "Cute, fuzzy, energetic, playful, and curious.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

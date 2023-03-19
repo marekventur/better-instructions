@@ -1,0 +1,12 @@
+{
+  "id": "68cc11b8-08e3-4857-9050-decbabca2c80",
+  "instruction": "Estimate how long it will take to paint this room",
+  "input": "Size of room | 10 feet by 15 feet  |  Paint quality | matte finish",
+  "output": "Painting this room, which is 10 feet long and 15 feet wide with a matte finish, should take around 8-10 hours.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

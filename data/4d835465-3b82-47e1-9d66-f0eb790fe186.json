@@ -1,0 +1,12 @@
+{
+  "id": "4d835465-3b82-47e1-9d66-f0eb790fe186",
+  "instruction": "Classify the following word as noun, verb, or other (other can refer to adjectives, adverbs, etc.)",
+  "input": "Well",
+  "output": "Other (Adverb)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

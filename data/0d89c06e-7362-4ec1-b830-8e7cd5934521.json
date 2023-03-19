@@ -1,0 +1,12 @@
+{
+  "id": "0d89c06e-7362-4ec1-b830-8e7cd5934521",
+  "instruction": "Summarize the techniques used for summarizing text.",
+  "input": "",
+  "output": "Text summarization techniques involve identifying and extracting the important information from text in order to produce a shorter and more concise version of the original text. These techniques rely on machine learning algorithms and natural language processing to identify the important parts of the text and generate summaries. Common techniques include extractive summarization, which involves identifying the most important sentences and extracting them, and abstractive summarization, which involves generating novel summaries that capture the most important information of the text.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

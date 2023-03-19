@@ -1,0 +1,12 @@
+{
+  "id": "41ee771f-b748-4647-97df-8f0a27ea1cab",
+  "instruction": "Construct an algorithm for the popular board game, chess.",
+  "input": "",
+  "output": "The algorithm should include instructions for initializing the board, determining the possible moves for a given piece, validating a move and updating the board whenever a move is made, and evaluating the position of the pieces to determine if a checkmate or stalemate situation has been reached. Additionally, the algorithm should include instructions for selecting the best move by analyzing the position of all pieces on the board and evaluating the moves that can be made.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

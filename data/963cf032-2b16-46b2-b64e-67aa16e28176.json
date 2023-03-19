@@ -1,0 +1,12 @@
+{
+  "id": "963cf032-2b16-46b2-b64e-67aa16e28176",
+  "instruction": "Given the parameters of the user, write a query to select a suitable car.",
+  "input": "The user is looking for an economical, used car with a seating capacity of 5.",
+  "output": "SELECT * FROM cars WHERE used = TRUE AND seating_capacity = 5 AND economical = TRUE;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

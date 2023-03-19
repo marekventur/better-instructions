@@ -1,0 +1,12 @@
+{
+  "id": "4fc6b960-32e5-42b4-968c-7096aa45badd",
+  "instruction": "Write a letter to thank someone for a gift.",
+  "input": "Dear Aunt Sue",
+  "output": "Dear Aunt Sue,\n\nThank you so much for the lovely gift you sent me. I was so surprised and touched to receive it. It was just the perfect thing that I needed! I can't thank you enough for your thoughtfulness and generosity.\n\nI hope you and your family are doing well. I am sending you all my best wishes!\n\nLove,\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8f1e7049-47fe-412c-a5eb-0981bf00994d",
+  "instruction": "Come up with four questions about the following passage",
+  "input": "The anatomy of a bee is quite intricate. It has three body parts: the head, the thorax, and the abdomen. The head consists of sensory organs, three simple eyes and two compound eyes, and several appendages. The thorax has three pairs of legs and two pairs of wings, while the abdomen contains most of the bee's organs, including the reproductive system and the digestive system.",
+  "output": "1. What sensory organs are located on the head of a bee?\n2. How many pairs of legs are present on the thorax of a bee?\n3. What organs can be found on the abdomen of a bee?\n4. How many eyes does a bee have?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

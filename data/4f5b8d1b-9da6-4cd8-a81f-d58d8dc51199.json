@@ -1,0 +1,12 @@
+{
+  "id": "4f5b8d1b-9da6-4cd8-a81f-d58d8dc51199",
+  "instruction": "Add appropriate commas to this sentence.",
+  "input": "She was a teacher and a coach",
+  "output": "She was a teacher, and a coach.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

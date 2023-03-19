@@ -1,0 +1,12 @@
+{
+  "id": "228eb16e-b172-45d1-9ae1-c20f2d45edae",
+  "instruction": "Create a regex pattern that matches email addresses.",
+  "input": "",
+  "output": "^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\\.[a-zA-Z0-9-.]+$",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

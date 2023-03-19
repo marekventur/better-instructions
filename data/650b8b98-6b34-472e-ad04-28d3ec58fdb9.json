@@ -1,0 +1,12 @@
+{
+  "id": "650b8b98-6b34-472e-ad04-28d3ec58fdb9",
+  "instruction": "Construct a physics equation for calculating the momentum of a moving object",
+  "input": "",
+  "output": "The equation for calculating the momentum of a moving object is: p = m * v, where p is the momentum, m is the mass, and v is the velocity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

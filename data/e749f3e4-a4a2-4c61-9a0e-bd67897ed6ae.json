@@ -1,0 +1,12 @@
+{
+  "id": "e749f3e4-a4a2-4c61-9a0e-bd67897ed6ae",
+  "instruction": "Given a list of demands, generate a statement summarizing them",
+  "input": "- An increase in the minimum wage\n- Universal health care\n- Paid family leave",
+  "output": "We demand a living wage, universal health care and paid family leave for all.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

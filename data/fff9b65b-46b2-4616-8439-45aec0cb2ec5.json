@@ -1,0 +1,12 @@
+{
+  "id": "fff9b65b-46b2-4616-8439-45aec0cb2ec5",
+  "instruction": "Design a workflow for a machine learning system to analyze customer sentiment on social media.",
+  "input": "",
+  "output": "The workflow for a machine learning system to analyze customer sentiment on social media should begin by collecting relevant data from a variety of sources such as blogs, forums, and social media. Then, data pre-processing should occur, which involves cleaning the data, normalizing it, and extracting features. Next, a model or a set of models can be created, usually involving supervised or unsupervised learning. After the model is trained and validated, the sentiment analysis can be performed. Finally, the results of the sentiment analysis can be fed back into the system to improve its accuracy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

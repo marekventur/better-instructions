@@ -1,0 +1,12 @@
+{
+  "id": "ab16d047-5bba-4153-951e-999a778d8cc4",
+  "instruction": "What type of data structure is the Heap data structure?",
+  "input": "",
+  "output": "The Heap data structure is a type of tree data structure. Specifically, it is a specialized binary tree where each parent node is greater than its children nodes. Heap data structures are commonly used in priority queues and efficient sorting algorithms.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

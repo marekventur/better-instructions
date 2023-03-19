@@ -1,0 +1,12 @@
+{
+  "id": "e9a0d03e-45d5-4ce4-a178-05b24cc1f3e6",
+  "instruction": "Identify 4 common economic indicators for a given country.",
+  "input": "U.S",
+  "output": "The 4 common economic indicators for the U.S are gross domestic product (GDP), rate of inflation, unemployment rate, and consumer price index (CPI).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

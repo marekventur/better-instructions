@@ -1,0 +1,12 @@
+{
+  "id": "64a744ed-6019-4094-aa33-eb22f6bc697c",
+  "instruction": "Rewrite this sentence to reflect the same meaning, but in the passive voice:",
+  "input": "The cat chased the mouse.",
+  "output": "The mouse was chased by the cat.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

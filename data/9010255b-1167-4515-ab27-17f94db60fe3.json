@@ -1,0 +1,12 @@
+{
+  "id": "9010255b-1167-4515-ab27-17f94db60fe3",
+  "instruction": "Cite an example of a data-driven algorithm.",
+  "input": "",
+  "output": "An example of a data-driven algorithm is the Netflix recommendation system. The algorithm utilizes various pieces of data such as user ratings and viewing habits to determine what movies and shows a user might be interested in watching. Additionally, the algorithm uses collaborative filtering to make predictions based on similar choices made by other users.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

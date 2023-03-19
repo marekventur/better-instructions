@@ -1,0 +1,12 @@
+{
+  "id": "ec26f6d5-2bc1-40a2-ac29-7df7e12d9e93",
+  "instruction": "You need to turn the given story into a poem.",
+  "input": "John was a brave knight who needed to defend the kingdom from a fierce dragon.",
+  "output": "John was a brave knight\nHis cause-to defend the realm \nFrom a fierce dragon's raging might \nThat threatened to overwhelm \n\nHe ventured to its mighty keep \nAnd rallied for the fight \nDetermined to success-protector-sheep \nHe battled through the night \n\nFaced with the dragon's awful roar \nHis courage never wavered \nFor he had a shining honor, sure \nHis courage never wavered \n\nThough wounded he would not retreat \nHe stayed and fought his course \nUntil the land was freed from its foes \nHe'd fought with honor and with force",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

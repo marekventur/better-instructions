@@ -1,0 +1,12 @@
+{
+  "id": "533ffda1-1a66-403d-87a8-b09ab4269928",
+  "instruction": "Get the total cost of items from a list.",
+  "input": "2 pens - $1 each, 1 shirt - $10",
+  "output": "The total cost of these items is $12.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

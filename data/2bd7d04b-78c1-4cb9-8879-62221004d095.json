@@ -1,0 +1,12 @@
+{
+  "id": "2bd7d04b-78c1-4cb9-8879-62221004d095",
+  "instruction": "Please rewrite the following sentence to contain only 5 words.",
+  "input": "\"We have an appointment tomorrow at 5 pm.\"",
+  "output": "Tomorrow, 5 pm. appointment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

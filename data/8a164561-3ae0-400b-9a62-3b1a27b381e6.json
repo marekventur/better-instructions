@@ -1,0 +1,12 @@
+{
+  "id": "8a164561-3ae0-400b-9a62-3b1a27b381e6",
+  "instruction": "Create a recipe for a healthy breakfast includig the ingredients and cooking directions.",
+  "input": "",
+  "output": "Healthy Egg and Spinach Breakfast Bowl \n \nIngredients:\n- 2 large eggs\n- 2 cups spinach\n- \u00bc red onion, diced \n- \u00bd bell pepper, diced \n- \u00bc cup feta cheese\n- 2 tablespoons olive oil\n- Salt and pepper to taste\n \nInstructions: \n1. Heat olive oil in a skillet over medium heat. \n2. Add onion and bell pepper; cook until vegetables begin to soften, about 3 minutes.\n3. Add the spinach, stirring until it wilts. \n4. Crack the two eggs into the skillet and reduce the heat to low. \n5. Cook for about 3-4 minutes or until egg whites are cooked through.\n6. Sprinkle with feta cheese and season with salt and pepper to taste. \n7. Serve and enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

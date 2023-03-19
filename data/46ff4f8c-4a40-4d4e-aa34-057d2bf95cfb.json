@@ -1,0 +1,12 @@
+{
+  "id": "46ff4f8c-4a40-4d4e-aa34-057d2bf95cfb",
+  "instruction": "Create an algorithm to identify the most cost effective location to produce a product.",
+  "input": "A company is considering 3 cities to produce a product. The expected production cost in each city is $100, $200 and $300 respectively.",
+  "output": "The algorithm to identify the most cost effective location to produce a product starts by calculating the difference between the lowest cost and the maximum cost. If the difference is greater than a certain threshold, the algorithm determines that it is more cost effective to produce the product in the lowest cost city than the other two cities. Otherwise, it determines that it is more cost effective to produce the product in the two cities with a higher cost. \n\nThe next step of the algorithm is to calculate the potential profits from producing the product in the lowest cost city. If the potential profits are greater than a certain threshold, the algorithm determines that it is more cost effective to produce the product in the lowest cost city. Otherwise, the algorithm determines that it is more cost effective to produce the product in the two cities with a higher cost. \n\nFinally, the algorithm calculates the total cost of producing the product in the three cities, taking into account factors such as transportation costs, labour costs and taxes. If the total cost of producing the product in the lowest cost city is lower than the total cost of producing the product in the two cities with a higher cost, then the algorithm determines that it is more cost effective to produce the product in the lowest cost city.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

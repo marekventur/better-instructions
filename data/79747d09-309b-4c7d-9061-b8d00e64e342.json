@@ -1,0 +1,12 @@
+{
+  "id": "79747d09-309b-4c7d-9061-b8d00e64e342",
+  "instruction": "Extrapolate on the given statement by giving two examples.",
+  "input": "Instant messaging has greatly improved collaboration among workers",
+  "output": "For example, business teams can hold virtual conferences, meet online to solve difficult problems, and share files without spending money on travel costs. Also, employees can quickly ask questions and get answers from their colleagues, saving time and effort instead of having to wait for emails or phone calls.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

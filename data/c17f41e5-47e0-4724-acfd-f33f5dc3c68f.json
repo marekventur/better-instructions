@@ -1,0 +1,12 @@
+{
+  "id": "c17f41e5-47e0-4724-acfd-f33f5dc3c68f",
+  "instruction": "Categorize the following needs as either physiological needs or safety needs.",
+  "input": "Food, Security, Love",
+  "output": "Food: Physiological Need\nSecurity: Safety Need\nLove: Safety Need",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

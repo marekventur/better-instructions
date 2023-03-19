@@ -1,0 +1,12 @@
+{
+  "id": "00f2aa8f-d62b-4303-b604-2f8047645640",
+  "instruction": "Reshape the following user query for better understanding.",
+  "input": "How do I complete the task on the portal.",
+  "output": "How can I finish the task on the portal?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

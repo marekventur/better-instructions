@@ -1,0 +1,12 @@
+{
+  "id": "e1faa5f7-7117-4a91-8559-8fa5a8abc4d7",
+  "instruction": "Take the input list and select the item that comes alphabetically first, output the item.",
+  "input": "[Banana, Apple, Orange]",
+  "output": "Apple",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d492308f-a2d7-4557-9fb8-46add3045cc0",
+  "instruction": "What are the methods available for sentiment analysis?",
+  "input": "",
+  "output": "Sentiment analysis can be performed using several different methods. One approach is using supervised machine learning, which takes a set of training data and assigns labels (e.g. positive, negative, neutral) to each piece of data. An algorithm is then used to train the model on the data and generate predictions on new unseen data. Another approach is using unsupervised machine learning, which involves clustering data points into sentiment categories. Natural language processing and lexical analysis are also commonly used approaches for sentiment analysis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2aadd30a-0758-4e33-8fe3-99795fd95050",
+  "instruction": "Classify the following emotions - shame, pride, joy",
+  "input": "Shame, pride, joy",
+  "output": "Negative - Shame \nPositive - Pride, Joy",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5cd55c07-81aa-4253-92a8-651d6f6d34ff",
+  "instruction": "Explain the difference between regular and partial differentiation.",
+  "input": "",
+  "output": "Regular differentiation involves differentiating a single variable with respect to time, whereas partial differentiation involves differentiating multiple variables with respect to time. Regular differentiation yields a single derivative, whereas partial differentiation yields a function of partial derivatives.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

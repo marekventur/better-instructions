@@ -1,0 +1,12 @@
+{
+  "id": "69f06ae9-5d84-4fec-88c0-ab6dded4ef6f",
+  "instruction": "Write a query that returns the average salary of employees in each department.",
+  "input": "",
+  "output": "SELECT d.name, AVG(e.salary) AS average_salary\nFROM departments d LEFT JOIN employees e ON d.id = e.department_id \nGROUP BY d.name;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

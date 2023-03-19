@@ -1,0 +1,12 @@
+{
+  "id": "fc9bc39b-ad83-459e-af5b-b6c28074132f",
+  "instruction": "Which of the following two poem excerpts has the best meter?",
+  "input": "Excerpt 1: Alone, so lonely, I sit upon the shore\nExcerpt 2: A creature lived below, slowly forgotten and unheard",
+  "output": "Excerpt 1 has the best meter.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

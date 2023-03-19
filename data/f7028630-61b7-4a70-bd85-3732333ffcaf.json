@@ -1,0 +1,12 @@
+{
+  "id": "f7028630-61b7-4a70-bd85-3732333ffcaf",
+  "instruction": "Compare the following two facts and summarize their difference in one sentence.",
+  "input": "Fact 1: 78% of adults in the US have a smartphone. \nFact 2: 46% of adults in the US own a tablet.",
+  "output": "More adults in the US own a smartphone than a tablet, with 78% of adults having a smartphone compared to 46% owning a tablet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

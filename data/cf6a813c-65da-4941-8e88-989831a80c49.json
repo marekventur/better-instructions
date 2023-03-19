@@ -1,0 +1,12 @@
+{
+  "id": "cf6a813c-65da-4941-8e88-989831a80c49",
+  "instruction": "Given two strings, find all the matching characters between the two and remove them from the original string.",
+  "input": "String 1: \u201cHello World\u201d \nString 2: \u201cGood Morning\u201d",
+  "output": "String 1: \u201cHll Wrld\u201d \nString 2: \u201cGood Morning\u201d",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

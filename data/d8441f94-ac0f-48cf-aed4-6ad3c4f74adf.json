@@ -1,0 +1,12 @@
+{
+  "id": "d8441f94-ac0f-48cf-aed4-6ad3c4f74adf",
+  "instruction": "Summarize the main points from the article.",
+  "input": "Article examining the current state of the US economy.",
+  "output": "The US economy is currently in a period of growth, with unemployment rates at a historic low and consumer spending continuing to increase. However, there is a potential for a slowdown, such as due to tense US-China trade relations, or an unexpected global event. Inflation remains moderate, and the Federal Reserve is expected to continue its current monetary policy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

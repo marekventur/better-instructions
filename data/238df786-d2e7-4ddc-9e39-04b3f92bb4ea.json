@@ -1,0 +1,12 @@
+{
+  "id": "238df786-d2e7-4ddc-9e39-04b3f92bb4ea",
+  "instruction": "Given a set of data, create a story based on the information",
+  "input": "Jack | age | 9 years old\nJack | hometown | New York City\nJack | hobby | building model airplanes",
+  "output": "Jack is a 9-year-old boy from the bustling city of New York. He loves building model airplanes and spends his weekends turning pieces of wood and plastic into beautiful aircrafts.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

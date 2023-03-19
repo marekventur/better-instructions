@@ -1,0 +1,12 @@
+{
+  "id": "5fb9afb6-64fa-4fa7-8cd0-3133df23245b",
+  "instruction": "With the given information, indicate if this statement is true or false:",
+  "input": "Statement: The healthcare sector will invest the second-most in AI over the next five years.\n\nDocument: According to a recent report from PwC, the automotive industry is projected to invest the most in AI over the next five years, followed closely by the healthcare sector.",
+  "output": "True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

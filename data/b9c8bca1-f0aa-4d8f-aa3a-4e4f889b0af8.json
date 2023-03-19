@@ -1,0 +1,12 @@
+{
+  "id": "b9c8bca1-f0aa-4d8f-aa3a-4e4f889b0af8",
+  "instruction": "Write a function to implement a binary search for a list of integers",
+  "input": "",
+  "output": "def binary_search(arr, target):\n    left = 0\n    right = len(arr)-1\n    while left <= right:\n        mid = (left+right) // 2\n        if arr[mid] == target:\n            return mid\n        elif target < arr[mid]:\n            right = mid - 1\n        else:\n            left = mid + 1\n\n    return -1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

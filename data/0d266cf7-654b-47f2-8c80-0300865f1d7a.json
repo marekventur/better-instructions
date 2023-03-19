@@ -1,0 +1,12 @@
+{
+  "id": "0d266cf7-654b-47f2-8c80-0300865f1d7a",
+  "instruction": "Guess the next element in a given sequence",
+  "input": "3, 5, 7, 9, __",
+  "output": "11",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

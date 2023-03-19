@@ -1,0 +1,12 @@
+{
+  "id": "676c42f0-1039-48f2-987c-532967d30a9c",
+  "instruction": "Given a movie title and an actor name, suggest a related movie.",
+  "input": "\"Avatar\" and \"Sam Worthington\"",
+  "output": "A related movie of \"Avatar\" starring Sam Worthington is \"Clash of the Titans\", where Worthington plays the role of Perseus.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

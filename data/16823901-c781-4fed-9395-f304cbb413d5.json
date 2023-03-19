@@ -1,0 +1,12 @@
+{
+  "id": "16823901-c781-4fed-9395-f304cbb413d5",
+  "instruction": "Create a list of potentially difficult questions that a customer support team should be ready to answer",
+  "input": "",
+  "output": "Potentially difficult questions that customer support teams should be ready to answer include: \n- How long will my returns or refunds take to process?\n- How can I customize or personalize my product?\n- What are the warranties or guarantees associated with the product?\n- How do I go about requesting a replacement for a defective product?\n- What specific steps should I take if my product does not work as expected?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

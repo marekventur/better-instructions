@@ -1,0 +1,12 @@
+{
+  "id": "e068410e-8cb9-4388-92bb-8caa878ee844",
+  "instruction": "Categorize the following sentence as either an observation, inference, or evaluation",
+  "input": "That movie was terrible.",
+  "output": "Evaluation",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

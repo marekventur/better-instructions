@@ -1,0 +1,12 @@
+{
+  "id": "2c79a5ae-3382-4052-9abd-1908adbc9bb3",
+  "instruction": "Given the following three sentences, use a word to complete the fourth sentence to create a coherent paragraph.",
+  "input": "The model was accurate in its predictions. Data from the past three years was used. The data set was organized in an efficient manner.",
+  "output": "The model was accurate in its predictions, using data from the past three years that had been organized in an efficient manner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "882da493-1949-4027-af3d-e76d65daed95",
+  "instruction": "Find the adjective and adverb in this sentence.",
+  "input": "She quickly fell asleep.",
+  "output": "The adjective and adverb in this sentence are \"quickly\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

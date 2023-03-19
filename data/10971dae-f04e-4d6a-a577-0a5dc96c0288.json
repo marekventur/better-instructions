@@ -1,0 +1,12 @@
+{
+  "id": "10971dae-f04e-4d6a-a577-0a5dc96c0288",
+  "instruction": "Summarize an article about the NBA playoffs in less than five sentences.",
+  "input": "https://www.nba.com/news/nba-playoffs-2021-start-date",
+  "output": "The NBA Playoffs 2021 will begin on May 22nd and take place over a course of two months. The top seven teams from the East and West will qualify for the playoffs. All rounds, including the NBA Finals, will be conducted in a single-elimination format. During the first two rounds, the higher seed will host the game regardless of their division. All games in the Eastern/Western Conference Finals and NBA Finals will be held at one home court chosen by the higher seed.  The winner of the NBA Finals will be crowned the 2021 NBA Champion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

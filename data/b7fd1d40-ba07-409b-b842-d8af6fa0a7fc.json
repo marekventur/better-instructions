@@ -1,0 +1,12 @@
+{
+  "id": "b7fd1d40-ba07-409b-b842-d8af6fa0a7fc",
+  "instruction": "Describe the color and texture of this material",
+  "input": "<image of a cotton fabric>",
+  "output": "The fabric is white with a soft, velvety texture.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

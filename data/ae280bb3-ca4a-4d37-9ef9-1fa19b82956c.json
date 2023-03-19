@@ -1,0 +1,12 @@
+{
+  "id": "ae280bb3-ca4a-4d37-9ef9-1fa19b82956c",
+  "instruction": "Given a natural language query, classify it into one of the five categories: arts, science, sports, history, and literature.",
+  "input": "Query: Who is the current president of India?",
+  "output": "History",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

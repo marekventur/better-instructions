@@ -1,0 +1,12 @@
+{
+  "id": "68ca9c11-cc6e-4785-aae9-a5a8fb84f4fb",
+  "instruction": "Read the following text and delete any repetitions.",
+  "input": "This is a this sentence. This sentence is repetitive.",
+  "output": "This is a sentence. It is repetitive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

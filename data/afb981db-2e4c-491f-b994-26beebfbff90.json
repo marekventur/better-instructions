@@ -1,0 +1,12 @@
+{
+  "id": "afb981db-2e4c-491f-b994-26beebfbff90",
+  "instruction": "List five tools necessary for a space exploration mission.",
+  "input": "",
+  "output": "Five essential tools necessary for a space exploration mission include a spacecraft, communication system, a propulsion system, an electrical power system, and an attitude control system. The spacecraft is the vehicle that transports the crew and cargo, while the communication system enables the mission team to send and receive messages from the spacecraft. The propulsion system supplies thrust to the spacecraft, and the electrical power system provides power to the various components of the spacecraft. Finally, the attitude control system is responsible for keeping the spacecraft's orientation and trajectory in check.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

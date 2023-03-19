@@ -1,0 +1,12 @@
+{
+  "id": "18226af4-8342-4312-8498-6063cf02ec42",
+  "instruction": "Calculate the Cosine similarity between the following two sentences.",
+  "input": "She is the most beautiful girl in school.\nThe girl attends the college every day.",
+  "output": "0.2763",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

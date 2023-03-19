@@ -1,0 +1,12 @@
+{
+  "id": "5da4f74a-2b4a-4121-a66a-418baea6c312",
+  "instruction": "Classify the following movie into its genre(s).",
+  "input": "The Shawshank Redemption",
+  "output": "Drama.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

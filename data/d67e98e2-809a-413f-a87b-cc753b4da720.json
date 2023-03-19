@@ -1,0 +1,12 @@
+{
+  "id": "d67e98e2-809a-413f-a87b-cc753b4da720",
+  "instruction": "Given a string, find the longest palindrome substring in it.",
+  "input": "bananas",
+  "output": "The longest palindrome substring in 'bananas' is 'anana'.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

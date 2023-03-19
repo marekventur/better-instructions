@@ -1,0 +1,12 @@
+{
+  "id": "d8978456-39ec-4543-81e3-c2b5493bd613",
+  "instruction": "Classify the following movie as either an action, romance, comedy, or thriller.",
+  "input": "Mission Impossible",
+  "output": "Action",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

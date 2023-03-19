@@ -1,0 +1,12 @@
+{
+  "id": "82571cd9-2ce1-42f1-bcea-1a1e6ded88db",
+  "instruction": "Create a sentence using the given verb and adjective.",
+  "input": "Verb: glow\nAdjective: luminous",
+  "output": "The sky was illuminated with a luminous glow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

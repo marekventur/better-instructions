@@ -1,0 +1,12 @@
+{
+  "id": "1ebaa725-8ea8-4c7c-8239-8365d7f54a8c",
+  "instruction": "Generate a recipe for a vegetarian dish that doesn't use more than 5 ingredients.",
+  "input": "",
+  "output": "Vegetarian Shepherd's Pie. \nIngredients: \n- Potatoes \n- Carrots \n- Onions \n- Green peas \n- Vegetable broth \n\nInstructions: \n1. Preheat the oven to 350 F. \n2. In a pot, boil the potatoes, carrots and onions for about 10 minutes or until the potatoes are soft. \n3. Drain the potatoes and carrots, and mash together in a bowl. \n4. Add the green peas and a cup of vegetable broth and stir until everything is evenly mixed. \n5. Spread the mixture in a baking dish and top with the remaining half cup of vegetable broth. \n6. Bake for 30 minutes, or until the edges are golden brown. \nEnjoy your flavorful and healthy vegetarian shepherd's pie!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

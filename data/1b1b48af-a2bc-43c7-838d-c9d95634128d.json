@@ -1,0 +1,12 @@
+{
+  "id": "1b1b48af-a2bc-43c7-838d-c9d95634128d",
+  "instruction": "Find the cheapest train route from Los Angeles to San Francisco.",
+  "input": "",
+  "output": "The cheapest train route from Los Angeles to San Francisco is through Amtrak's Coast Starlight. The fare for a one-way ticket is $25 and the journey takes around 12-14 hours.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bbb7e4bc-2818-4fdd-8635-52e8a5ee4e93",
+  "instruction": "Select two elements from the given list of countries.",
+  "input": "Japan, France, India, Australia",
+  "output": "Japan, India",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

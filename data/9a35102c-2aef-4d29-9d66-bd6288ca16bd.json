@@ -1,0 +1,12 @@
+{
+  "id": "9a35102c-2aef-4d29-9d66-bd6288ca16bd",
+  "instruction": "Find the most cost effective way to ship these goods from China to the United States.",
+  "input": "4000 lbs of goods, shipping time is 10 days, shipping cost must not exceed $5000",
+  "output": "The most cost effective way to ship these goods from China to the United States would be to send them by ocean freight with a consolidator, as this will provide the best balance between cost, time and reliability. The estimated cost for shipping 4000 lbs for 10 days is about $3000-$4000, which is well under the stated budget of $5000.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

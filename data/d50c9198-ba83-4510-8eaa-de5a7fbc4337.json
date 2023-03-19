@@ -1,0 +1,12 @@
+{
+  "id": "d50c9198-ba83-4510-8eaa-de5a7fbc4337",
+  "instruction": "Write a C# program that prints out the lyrics of the ABC song.",
+  "input": "",
+  "output": "using System; \n  \npublic class GFG { \n    public static void Main() \n    { \n        Console.WriteLine(\"A B C D E F G\"); \n        Console.WriteLine(\"H I J K L M N O P\"); \n        Console.WriteLine(\"Q R S T U V\"); \n        Console.WriteLine(\"W X Y and Z\");  \n        Console.WriteLine(\"Now I know my ABCs\"); \n        Console.WriteLine(\"Next time won't you sing with me\");  \n    } \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

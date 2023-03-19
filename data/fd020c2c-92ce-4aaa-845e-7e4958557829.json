@@ -1,0 +1,12 @@
+{
+  "id": "fd020c2c-92ce-4aaa-845e-7e4958557829",
+  "instruction": "Edit the sentence to indicate uncertainty.",
+  "input": "I am sure she will come to the party.",
+  "output": "I am not sure she will come to the party.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

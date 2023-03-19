@@ -1,0 +1,12 @@
+{
+  "id": "81f4cebb-762f-4e5d-9bc8-e150c075bad5",
+  "instruction": "Put all of the following words into a single, logical sentence.",
+  "input": "ran, wearing, enjoyed, dress, she",
+  "output": "She ran wearing the dress and enjoyed it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

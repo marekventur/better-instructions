@@ -1,0 +1,12 @@
+{
+  "id": "c5699e16-f6db-462e-bcf1-0e07946da8b6",
+  "instruction": "Compare and contrast the features of React Native and Flutter.",
+  "input": "",
+  "output": "React Native and Flutter are both cross-platform frameworks for developing mobile applications. Both frameworks offer extremely fast development and powerful UI design capabilities. React Native has a larger community and better documentation, whereas Flutter has a much faster development speed and better hot reloading capabilities. React Native has the advantage of being able to access native APIs which give better performance, whereas Flutter has makes use of its own API that have very robust and powerful features. Finally, React Native uses JavaScript, whereas Flutter uses Dart.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

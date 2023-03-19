@@ -1,0 +1,12 @@
+{
+  "id": "e87533bd-2cb1-411a-b171-f8d2d17e2395",
+  "instruction": "Editing the following sentence so that the meaning is unchanged while maintaining proper grammar.",
+  "input": "In the 20th century, the most important development that take place was the industrial revolution.",
+  "output": "In the 20th century, the most important development that took place was the industrial revolution.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "65114547-6421-4a0c-8312-75db48b7bfc3",
+  "instruction": "Convert the following sentence to Morse code.",
+  "input": "I love programming.",
+  "output": "..   .-.. --- .--. .- -- .   .--. .-. .- .--. .-. . . ... .- . .-.. .-..  - .... .",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

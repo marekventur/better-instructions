@@ -1,0 +1,12 @@
+{
+  "id": "8f137ab3-db56-49be-bc26-762a72398c47",
+  "instruction": "Create a budget spreadsheet using the given financial details.",
+  "input": "Income = $3,000; Rent = $1,500; Utilities = $200; Groceries = $500; Entertainment = $150",
+  "output": "|Expense | Amount |\n| --- | --- |\n| Income | $3,000 |\n| Rent | $1,500 |\n| Utilities | $200 |\n| Groceries | $500 |\n| Entertainment | $150 |\n|    Total    |  $ 5,350  |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

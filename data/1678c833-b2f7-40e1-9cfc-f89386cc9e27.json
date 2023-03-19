@@ -1,0 +1,12 @@
+{
+  "id": "1678c833-b2f7-40e1-9cfc-f89386cc9e27",
+  "instruction": "Explain the spelling rules for forming plurals with words ending with -y.",
+  "input": "",
+  "output": "When a word ends in -y and the letter before the -y is a consonant, the -y should be changed to -i and -es should be added to form the plural. For example, the plural of family is families. However, if the letter before the -y is a vowel, there are usually no changes made to the spelling. For example, the plural of boys is boys.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

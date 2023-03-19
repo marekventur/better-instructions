@@ -1,0 +1,12 @@
+{
+  "id": "0235ff51-5d44-4435-9750-349525961028",
+  "instruction": "Create a structured report from unstructured data from customer feedback.",
+  "input": "Customer feedback: The customer service was amazing and helped me sort out all my issues quickly.",
+  "output": "The customer service was rated highly in customer feedback with comments indicating it was excellent and efficient. Customers praised the customer service for quickly resolving any issues with their inquiries. In summary, the customer service was seen as an overall positive experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

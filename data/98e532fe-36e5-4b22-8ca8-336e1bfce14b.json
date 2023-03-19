@@ -1,0 +1,12 @@
+{
+  "id": "98e532fe-36e5-4b22-8ca8-336e1bfce14b",
+  "instruction": "Place the following countries in order of time zones from east to west.",
+  "input": "Japan, Colombia, France, Australia",
+  "output": "Japan, Australia, France, Colombia",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

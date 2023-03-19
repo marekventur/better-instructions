@@ -1,0 +1,12 @@
+{
+  "id": "1e48571b-e885-4e76-8132-37062ad01eb6",
+  "instruction": "Categorize the following items into 'fruits' or 'vegetables': banana, potato, tomato",
+  "input": "",
+  "output": "Fruits: Banana\nVegetables: Potato, Tomato",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

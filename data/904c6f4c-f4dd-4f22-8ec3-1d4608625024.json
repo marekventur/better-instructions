@@ -1,0 +1,12 @@
+{
+  "id": "904c6f4c-f4dd-4f22-8ec3-1d4608625024",
+  "instruction": "Suggest 5 practices to prepare data for machine learning.",
+  "input": "none",
+  "output": "1. Understand and explore the data\n2. Handle missing data\n3. Scale and normalize the data\n4. Split the data into train and test sets\n5. Reshape the data",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

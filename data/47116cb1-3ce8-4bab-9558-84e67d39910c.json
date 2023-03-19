@@ -1,0 +1,12 @@
+{
+  "id": "47116cb1-3ce8-4bab-9558-84e67d39910c",
+  "instruction": "Rewrite the given sentence as an assertion in less than 10 words.",
+  "input": "The theory of evolution explains the diversity of life on earth.",
+  "output": "Life on Earth is evolved.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

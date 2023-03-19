@@ -1,0 +1,12 @@
+{
+  "id": "2602eef9-abd3-4c5a-bd6f-be9790c20eed",
+  "instruction": "Find the difference in temperatures between the following locations.",
+  "input": "Tokyo, Japan and Cairo, Egypt",
+  "output": "The difference in temperature between Tokyo, Japan and Cairo, Egypt is approximately 11 degrees Fahrenheit. Tokyo, Japan has an average temperature of 52.6 degrees Fahrenheit, while Cairo, Egypt has an average temperature of 41.6 degrees Fahrenheit.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

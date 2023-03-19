@@ -1,0 +1,12 @@
+{
+  "id": "34bff8b4-9170-46aa-936d-48818f4af47b",
+  "instruction": "Rank the following books in order of author's impact on literature.",
+  "input": "Little Women by Louisa May Alcott,\nThe Catcher in the Rye by J.D. Salinger,\nThings Fall Apart by Chinua Achebe",
+  "output": "1. Things Fall Apart by Chinua Achebe\n2. The Catcher in the Rye by J.D. Salinger \n3. Little Women by Louisa May Alcott",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

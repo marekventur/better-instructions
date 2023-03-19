@@ -1,0 +1,12 @@
+{
+  "id": "d93c1bc0-5644-4ed2-8027-404ccb65ef36",
+  "instruction": "Find a 5-star rated restaurant near the given location.",
+  "input": "Location: Tokyo",
+  "output": "Ichiran, located in Tokyo, is a 5-star rated restaurant. They specialize in Japanese Ramen, offering a variety of traditional flavors with a modern twist.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

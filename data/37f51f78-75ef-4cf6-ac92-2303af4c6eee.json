@@ -1,0 +1,12 @@
+{
+  "id": "37f51f78-75ef-4cf6-ac92-2303af4c6eee",
+  "instruction": "Given the facts, guess who the mystery person is and provide at least three facts about the person.",
+  "input": "Facts: \n- The person is an actor\n- The person is from California\n- The person won an Oscar for their performance in a 2017 movie",
+  "output": "The mystery person is Frances McDormand, an American actress from California. \n\nFacts about Frances McDormand: \n1. She won an Oscar for her performance as Mildred Hayes in the 2017 movie Three Billboards Outside Ebbing, Missouri.\n2. She has appeared in numerous films and television shows, most notably Fargo and Olive Kitteridge.\n3. She is married to director and writer Joel Coen and is a two-time Academy Award winner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

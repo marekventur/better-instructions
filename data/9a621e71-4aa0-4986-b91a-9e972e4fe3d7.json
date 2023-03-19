@@ -1,0 +1,12 @@
+{
+  "id": "9a621e71-4aa0-4986-b91a-9e972e4fe3d7",
+  "instruction": "Transform the given poem into a story",
+  "input": "The moon came out the night before \nReminding me that I\u2019m still here \nPain is deep but I will stand tall \nMy love is strong like a castle wall",
+  "output": "The moon shined brightly that night, reminding the protagonist of the strength that she has. Despite the deep pain and loneliness she was feeling, she knew that she could overcome any obstacle. She thought of the love that she shared with her family and friends and felt that it was as strong as a castle wall that would protect her no matter what. With a newfound sense of courage and hope, she was confident that she could make it through this difficult time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d9911f49-7816-4536-97be-4e2b0cfd7719",
+  "instruction": "Read the following legal document and determine if any sections are out of date.",
+  "input": "[Legal document]",
+  "output": "true/false",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

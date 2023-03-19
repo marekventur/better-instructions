@@ -1,0 +1,12 @@
+{
+  "id": "4109ef57-05a1-48d7-a788-1281066ba2a0",
+  "instruction": "Select one sentence describing the new iPhone 6s",
+  "input": "The new iPhone 6s is a revolutionary smartphone that comes with an entirely new iOS system, an improved camera and an extremely durable frame.",
+  "output": "The new iPhone 6s comes with an entirely new iOS system, an improved camera and an extremely durable frame.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

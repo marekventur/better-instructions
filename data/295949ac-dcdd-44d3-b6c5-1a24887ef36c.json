@@ -1,0 +1,12 @@
+{
+  "id": "295949ac-dcdd-44d3-b6c5-1a24887ef36c",
+  "instruction": "Select the correct punctuation to use in the following sentence.",
+  "input": "Jane said she forgot the key to the house again",
+  "output": "Jane said, \"I forgot the key to the house again.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

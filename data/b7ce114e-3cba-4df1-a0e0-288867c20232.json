@@ -1,0 +1,12 @@
+{
+  "id": "b7ce114e-3cba-4df1-a0e0-288867c20232",
+  "instruction": "Describe software testing methods.",
+  "input": "",
+  "output": "Software testing is the process of evaluating a software product to determine whether it meets certain requirements as well as its ability to perform as expected. There are various methods of software testing, including unit testing, integration testing, system testing, acceptance testing, and other specialized tests. Unit testing focuses on testing individual units of code, while integration testing tests how the individual units interact with one another. System testing tests the entire system as a whole, while acceptance testing determines whether or not the system meets the user's needs and expectations.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

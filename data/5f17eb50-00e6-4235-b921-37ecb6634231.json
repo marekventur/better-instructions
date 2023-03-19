@@ -1,0 +1,12 @@
+{
+  "id": "5f17eb50-00e6-4235-b921-37ecb6634231",
+  "instruction": "Generate an algorithm to calculate the end balance of an investment over a given period of time.",
+  "input": "",
+  "output": "The algorithm for calculating the end balance of an investment over a given period of time is as follows:\n1. Set the initial investment amount as the initial balance.\n2. Calculate the amount of interest earned based on the interest rate and the initial balance.\n3. Add the interest earned to the initial balance to get the end balance for the period.\n4. Repeat step 2 through 4 for each subsequent period of time.\n5. The final balance will be equal to the combination of all the end balances after all the periods of time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

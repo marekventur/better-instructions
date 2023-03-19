@@ -1,0 +1,12 @@
+{
+  "id": "53b37a40-7feb-4a1d-8dfd-a9a4cf783f0e",
+  "instruction": "Generate a list of vegetables, fruits and proteins that are low in carbs.",
+  "input": "",
+  "output": "Low Carb Vegetables: Broccoli, Spinach, Celery, Kale, Arugula, Brussel Sprouts, Mushrooms, Cucumbers, Lettuce, Asparagus, Cauliflower\n\nLow Carb Fruits: Strawberries, Peaches, Oranges, Lemons, Grapefruits, Cranberries, Blueberries, Apples, Watermelons\n\nLow Carb Proteins: Lean Beef, Skinless Chicken Breast, Tofu, Cod, Eggs, Salmon, Halibut, Shrimp, Tuna, Pork",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

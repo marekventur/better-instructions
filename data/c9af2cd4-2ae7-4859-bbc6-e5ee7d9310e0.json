@@ -1,0 +1,12 @@
+{
+  "id": "c9af2cd4-2ae7-4859-bbc6-e5ee7d9310e0",
+  "instruction": "Infer the meaning of the idiom given.",
+  "input": "Raining cats and dogs",
+  "output": "Raining cats and dogs is an idiom that means it is raining heavily.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

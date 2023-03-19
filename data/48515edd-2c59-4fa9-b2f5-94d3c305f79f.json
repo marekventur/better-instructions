@@ -1,0 +1,12 @@
+{
+  "id": "48515edd-2c59-4fa9-b2f5-94d3c305f79f",
+  "instruction": "Determine what type of triangle the following sides would create.",
+  "input": "7 cm, 3 cm, 9 cm",
+  "output": "Scalene triangle",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4b495ca2-f7d7-4740-a449-857b607530d3",
+  "instruction": "Categorize this text as formal or informal",
+  "input": "Gonna go out tonight.",
+  "output": "Informal",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

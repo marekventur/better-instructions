@@ -1,0 +1,12 @@
+{
+  "id": "43ce6ed9-144a-430a-8927-9b78845de5b4",
+  "instruction": "Create a database schema for the following problem.",
+  "input": "Design a database to store user information such as names, addresses, emails, and phone numbers.",
+  "output": "CREATE TABLE user_info (\n  id INT AUTO_INCREMENT PRIMARY KEY,\n  name VARCHAR(100) NOT NULL,\n  address VARCHAR(100) NOT NULL,\n  email VARCHAR(100) NOT NULL UNIQUE,\n  phone_number VARCHAR(32) NOT NULL UNIQUE\n);",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

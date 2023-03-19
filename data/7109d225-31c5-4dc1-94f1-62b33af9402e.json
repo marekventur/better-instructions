@@ -1,0 +1,12 @@
+{
+  "id": "7109d225-31c5-4dc1-94f1-62b33af9402e",
+  "instruction": "Find the title of the book from the following description",
+  "input": "The story is about an orphan boy who discovers that he has superpowers and joins a secret organization of superheroes.",
+  "output": "The title of the book is \"The Orphan and the Superpowers\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "974c7739-cded-4c55-8ad4-0f08d6bc75f9",
+  "instruction": "Add the value 5 to all the numbers in the array.\nOutput the updated array.",
+  "input": "[-5, 9, 10, 0]",
+  "output": "[0, 14, 15, 5]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

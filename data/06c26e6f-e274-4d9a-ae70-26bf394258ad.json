@@ -1,0 +1,12 @@
+{
+  "id": "06c26e6f-e274-4d9a-ae70-26bf394258ad",
+  "instruction": "Construct a query to select the top 5 movies with the highest rating on the website",
+  "input": "",
+  "output": "SELECT movie_title, rating \nFROM movies\nORDER BY rating DESC\nLIMIT 5;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

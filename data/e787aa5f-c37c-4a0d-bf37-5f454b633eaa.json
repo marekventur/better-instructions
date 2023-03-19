@@ -1,0 +1,12 @@
+{
+  "id": "e787aa5f-c37c-4a0d-bf37-5f454b633eaa",
+  "instruction": "Guess the animal that is being described.",
+  "input": "This animal has a long, slender body and a triangular head with a pointed snout.",
+  "output": "It sounds like a fox.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

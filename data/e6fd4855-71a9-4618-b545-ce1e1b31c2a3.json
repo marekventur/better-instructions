@@ -1,0 +1,12 @@
+{
+  "id": "e6fd4855-71a9-4618-b545-ce1e1b31c2a3",
+  "instruction": "Create a new cooking recipe.",
+  "input": "",
+  "output": "This recipe is for a delicious Oven-Baked Salmon with Roasted Vegetables.\nIngredients:\n-1 lb salmon fillet\n-2 Tbsp olive oil\n-salt and pepper\n-1 sweet potato, chopped into cubes\n-1 red bell pepper, chopped\n-1 onion, chopped\n-2 cloves garlic, minced \n-3 Tbsp balsamic vinegar\n-1 tsp rosemary, chopped \n-1 tsp oregano\nInstructions:\n1. Preheat oven to 400\u00b0F.\n2. Place salmon fillets on a greased baking tray and season with salt and pepper.\n3. In a bowl, combine the sweet potato, bell pepper, onion, garlic, olive oil and balsamic vinegar and toss until everything is evenly coated.\n4. Spread the vegetables around the salmon fillets and top with rosemary and oregano.\n5. Bake in preheated oven for 25 minutes. \n6. Serve the salmon and vegetables over a bed of cooked quinoa or rice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

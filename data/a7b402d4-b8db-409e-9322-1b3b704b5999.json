@@ -1,0 +1,12 @@
+{
+  "id": "a7b402d4-b8db-409e-9322-1b3b704b5999",
+  "instruction": "Calculate the length of the hypotenuse of a right triangle with right angle.",
+  "input": "",
+  "output": "The length of the hypotenuse of a right triangle with right angle is equal to the square root of the sum of the squares of the lengths of the other two sides. Therefore, if the lengths of the other two sides are a and b, the length of the hypotenuse is given by sqrt(a^2 + b^2).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

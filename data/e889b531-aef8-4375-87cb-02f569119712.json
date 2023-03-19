@@ -1,0 +1,12 @@
+{
+  "id": "e889b531-aef8-4375-87cb-02f569119712",
+  "instruction": "Construct a query to find out the average salary of Data Scientists in the US",
+  "input": "",
+  "output": "SELECT AVG(salary) FROM employment_data WHERE position = 'Data Scientist' AND country = 'US';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

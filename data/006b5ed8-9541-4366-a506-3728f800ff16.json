@@ -1,0 +1,12 @@
+{
+  "id": "006b5ed8-9541-4366-a506-3728f800ff16",
+  "instruction": "Classify the following sentence according to its sentiment \u2013 \u201cAI technology is advancing rapidly\u201d.",
+  "input": "",
+  "output": "The sentiment of the sentence is positive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

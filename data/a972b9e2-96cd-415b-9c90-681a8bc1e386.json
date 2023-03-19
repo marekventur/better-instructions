@@ -1,0 +1,12 @@
+{
+  "id": "a972b9e2-96cd-415b-9c90-681a8bc1e386",
+  "instruction": "Generate a list of features regarding a virtual assistant.",
+  "input": "",
+  "output": "Features of a virtual assistant include:\n- Ability to perform basic tasks like scheduling, setting reminders, and sending emails\n- Quick responses to inquiries\n- Ability to recognize and interpret natural language commands\n- Integrations with other apps and services\n- Protection against security threats\n- Automated monitoring of user data\n- Support for multiple languages\n- Generate personalized recommendations based on user preferences",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

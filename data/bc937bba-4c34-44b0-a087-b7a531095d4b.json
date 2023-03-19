@@ -1,0 +1,12 @@
+{
+  "id": "bc937bba-4c34-44b0-a087-b7a531095d4b",
+  "instruction": "Classify the given person as either \"alive\" or \"dead\".",
+  "input": "Julius Caesar",
+  "output": "Dead. Julius Caesar was assassinated in 44 BCE.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

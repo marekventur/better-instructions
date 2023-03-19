@@ -1,0 +1,12 @@
+{
+  "id": "8f5fe36c-a3a5-4e6b-9843-fd9239ad6d0e",
+  "instruction": "Given a positive integer, evaluate the sum of its digits.",
+  "input": "58",
+  "output": "13",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

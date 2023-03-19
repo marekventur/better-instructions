@@ -1,0 +1,12 @@
+{
+  "id": "d3cf8957-22fa-48cb-9146-861cc076cfe7",
+  "instruction": "Generate an appropriate input and output to create confusing sentences",
+  "input": "The cat is black",
+  "output": "Input: The cat is furry\nOutput: The black cat was soft and cuddly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

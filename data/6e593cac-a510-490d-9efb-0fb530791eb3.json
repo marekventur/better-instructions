@@ -1,0 +1,12 @@
+{
+  "id": "6e593cac-a510-490d-9efb-0fb530791eb3",
+  "instruction": "Determine how to measure the performance of a GPT model.",
+  "input": "",
+  "output": "The performance of the GPT model can be measured in terms of accuracy, speed, and fluency. Accuracy can be measured using standard metrics used in natural language processing such as BLEU score, PER, or ROUGE. Speed can be measured by how fast the model can complete a task. Fluency can be measured in terms of grammar, spelling, and clarity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

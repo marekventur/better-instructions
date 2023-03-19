@@ -1,0 +1,12 @@
+{
+  "id": "9dbb3452-16fd-41e1-89e4-1547ca143d71",
+  "instruction": "Given a string, generate its anagrams.",
+  "input": "\u201cmirror\u201d",
+  "output": "\"rimrore\", \"rerrimo\", \"mrieror\", \"erormir\", \"remorir\", \"rorreim\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

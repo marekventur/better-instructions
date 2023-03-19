@@ -1,0 +1,12 @@
+{
+  "id": "b42949b7-0bf7-41a8-a044-33bd561f61d5",
+  "instruction": "Categorieze the content below as Computer Science and Non-Computer Science",
+  "input": "The latest iPhone has been released",
+  "output": "Non-Computer Science",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

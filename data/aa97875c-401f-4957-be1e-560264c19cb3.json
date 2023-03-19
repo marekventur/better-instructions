@@ -1,0 +1,12 @@
+{
+  "id": "aa97875c-401f-4957-be1e-560264c19cb3",
+  "instruction": "Which of these numbers is a multiple of seven?",
+  "input": "21, 19, 22",
+  "output": "21",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

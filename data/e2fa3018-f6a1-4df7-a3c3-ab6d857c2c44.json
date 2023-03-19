@@ -1,0 +1,12 @@
+{
+  "id": "e2fa3018-f6a1-4df7-a3c3-ab6d857c2c44",
+  "instruction": "Describe the process of the following scientific experiment.",
+  "input": "DNA Replication",
+  "output": "DNA replication is the process when a cell duplicates its genetic material in preparation for cell division. It is a semi-conservative process, meaning that each strand of the original DNA molecule serves as a template for the creation of its partner strand. During the process, DNA polymerase binds to each of the two parental DNA strands and synthesizes a complementary daughter strand. The daughter strands separate from the parental strands and form two new molecules, completing the process of replication.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

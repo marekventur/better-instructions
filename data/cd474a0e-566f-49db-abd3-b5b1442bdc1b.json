@@ -1,0 +1,12 @@
+{
+  "id": "cd474a0e-566f-49db-abd3-b5b1442bdc1b",
+  "instruction": "You need to write a speech convincing people to vote for a particular candidate.",
+  "input": "",
+  "output": "Good evening, everyone! \n\nI am here today to talk to you about why you should vote for [candidate name]. [He/She] is a leader with great vision, a deep commitment to our community, and the kind of integrity that you can trust. \n\n[He/She] understands the issues facing our community and has concrete plans for how to address them. [He/She] has always put [his/her] constituents first and has a long record of advocating for their interests. [He/She] listens and takes decisive action when needed. \n\n[He/She] is also a bridge builder who is able to bring people from all sides of the table together. [He/She] works collaboratively and diligently to find solutions that are good for the community. \n\nSo, when you go to the polls this November, I urge you to take a stand and vote for [candidate name]. [He/She] is a leader we can trust, a bridge builder, and someone who will always put the interests of our community first. \nThank you.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

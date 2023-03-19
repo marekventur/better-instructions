@@ -1,0 +1,12 @@
+{
+  "id": "dbe11183-5a43-43de-9d10-81a2d641e300",
+  "instruction": "Given some data, classify it into a category.",
+  "input": "Features: Long neck, four legs, black and white patterned fur",
+  "output": "The animal is a giraffe.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

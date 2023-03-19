@@ -1,0 +1,12 @@
+{
+  "id": "b7b8571f-56a1-4bfa-b378-462cc525093a",
+  "instruction": "Create an algorithm for searching a text for a specific word.",
+  "input": "",
+  "output": "The algorithm should begin by splitting the text into an array of strings based on the characters such as spaces, tabs, and punctuation. The algorithm should then iterate through the array, comparing each string to the searched-for word. If the strings match, the position of the word should be saved in a list and returned when the algorithm terminates. The algorithm should be case-insensitive, so comparisons should ignore case when determining if the strings match.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

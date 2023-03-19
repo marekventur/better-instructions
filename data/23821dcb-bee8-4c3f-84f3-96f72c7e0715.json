@@ -1,0 +1,12 @@
+{
+  "id": "23821dcb-bee8-4c3f-84f3-96f72c7e0715",
+  "instruction": "Analyse the given text for any use of imagery.",
+  "input": "The flowers smelled sweet as the rain soaked them.",
+  "output": "The text contains imagery of rain and flowers. The use of \"smelled sweet\" implies that use of smell as a sensory image. The phrase \"soaked them\" implies the use of visual imagery.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

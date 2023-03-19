@@ -1,0 +1,12 @@
+{
+  "id": "4af8f2a4-b239-4fc6-b44d-377a253bf532",
+  "instruction": "Create a function to calculate the circumference of a circle",
+  "input": "",
+  "output": "def calculate_circumference(radius):\n  return 2 * 3.14 * radius",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

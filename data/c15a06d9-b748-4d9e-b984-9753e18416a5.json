@@ -1,0 +1,12 @@
+{
+  "id": "c15a06d9-b748-4d9e-b984-9753e18416a5",
+  "instruction": "Create a computer program that calculates the area of a circle.",
+  "input": "Radius = 5",
+  "output": "A program that calculates the area of a circle:\n\nradius = input('What is the radius of the circle?')\narea = 3.14 * radius**2\nprint('The area of the circle is:', area)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

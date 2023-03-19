@@ -1,0 +1,12 @@
+{
+  "id": "bd0c391a-77bd-4c6e-a282-f01711e65008",
+  "instruction": "Rewrite the sentence to avoid the weasel words and make the statement more specific.",
+  "input": "Some people believe eating bananas is healthy.",
+  "output": "Research shows that eating bananas can provide many health benefits.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

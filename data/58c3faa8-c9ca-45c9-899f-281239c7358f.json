@@ -1,0 +1,12 @@
+{
+  "id": "58c3faa8-c9ca-45c9-899f-281239c7358f",
+  "instruction": "Given this sentence, find an appropriate noun phrase.",
+  "input": "In the morning, my dog loves to go for a walk.",
+  "output": "My dog\u2019s morning walk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

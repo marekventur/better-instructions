@@ -1,0 +1,12 @@
+{
+  "id": "6c8c602e-6d4d-4748-b3ac-ff0c247b1ba5",
+  "instruction": "Translate the sentence into a new language.",
+  "input": "I like eating ice cream.",
+  "output": "Me gusta comer helado. (Spanish)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

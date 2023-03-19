@@ -1,0 +1,12 @@
+{
+  "id": "0cc30307-e7c9-4cc2-a80e-3f4c88628413",
+  "instruction": "Describe a list of five movies based on a given genre",
+  "input": "Genre: Psychological Thriller",
+  "output": "1. The Silence of the Lambs \n2. Shutter Island \n3. Psycho \n4. Black Swan \n5. Memento",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

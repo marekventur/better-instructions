@@ -1,0 +1,12 @@
+{
+  "id": "1eecfbfc-9547-410c-8340-156e2fc7bcb6",
+  "instruction": "Convert this given code snippet into pseudocode.",
+  "input": "for i in range(0,5):\n   print (i)",
+  "output": "for i from 0 to 5\n    print i",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a6aaa79a-26a4-46f9-b266-bbb0f28554ed",
+  "instruction": "Given the following text, provide the name of the genre.",
+  "input": "In the small town of Bedgon, Maine, nothing ever seems to change. That is, until one day, when a mysterious man moves into town and start asking questions. Who is this stranger, and what secrets is he hiding?",
+  "output": "Mystery.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

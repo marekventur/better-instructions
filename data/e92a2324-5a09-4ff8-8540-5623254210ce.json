@@ -1,0 +1,12 @@
+{
+  "id": "e92a2324-5a09-4ff8-8540-5623254210ce",
+  "instruction": "Analyze the given news article and rank it on objectivity and accuracy.",
+  "input": "The new health care bill is expected to revolutionize the healthcare industry.",
+  "output": "The article is not very objective or accurate. While the bill may revolutionize healthcare, it is impossible to know for sure without further information. The article does not provide enough evidence to give a definitive conclusion about the expected effects of the bill.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

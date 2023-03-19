@@ -1,0 +1,12 @@
+{
+  "id": "6d54f87b-d713-4a89-a034-b7806d18367b",
+  "instruction": "Rewrite the sentence \"They are playing football in the garden\"",
+  "input": "They are playing football in the garden",
+  "output": "Football is being played in the garden.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

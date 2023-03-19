@@ -1,0 +1,12 @@
+{
+  "id": "da9875e1-5f02-43a0-9208-167df1f666ee",
+  "instruction": "Design a customer survey for a restaurant",
+  "input": "",
+  "output": "1. How would you rate the overall quality of the food at our restaurant? \n2. Was the atmosphere of the restaurant enjoyable?\n3. How would you rate the speed of service?\n4. Would you recommend our restaurant to your friends and family?\n5. Was there anything you did not enjoy about your experience?\n6. What could we do to improve our service?\n7. What was the best part of your experience at our restaurant?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

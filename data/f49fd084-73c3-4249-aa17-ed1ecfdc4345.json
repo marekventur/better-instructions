@@ -1,0 +1,12 @@
+{
+  "id": "f49fd084-73c3-4249-aa17-ed1ecfdc4345",
+  "instruction": "Given some text and two people, show the difference in the sentiment",
+  "input": "John: I am so excited to go to the beach this summer!\n\nJessica: I don't think I'm going.",
+  "output": "John has an optimistic attitude towards going to the beach this summer, while Jessica is more pessimistic and does not plan on going.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c6991ab9-bd7d-4ab1-90a6-cf22b22640c7",
+  "instruction": "Write a phone script that a customer support representative could use when offering an apology to an angry customer.",
+  "input": "The customer's complaint was about a two-week delay in their delivery.",
+  "output": "Hello, my name is [name]. I apologize for the delay you experienced with your order. Our team is taking exceptional effort to ensure that our customers are happy, and we understand your frustration. We want to make things right. Is there anything we can do to improve your experience?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

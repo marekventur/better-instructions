@@ -1,0 +1,12 @@
+{
+  "id": "bdce277e-3fc1-4662-97f0-2060fc8bc47d",
+  "instruction": "Provide an overview of blockchain technology",
+  "input": "",
+  "output": "Blockchain technology is a distributed database that stores transactions across a peer-to-peer network. It uses cryptography to secure and verify transactions and allows for the development of decentralized applications (dapps) on top of it. It is a type of distributed ledger technology (DLT) that is immutable and has no single point of failure. The blockchain is maintained by a network of computers, or \u2018nodes\u2019, which are constantly verifying the chain and updating it with new data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

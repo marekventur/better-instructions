@@ -1,0 +1,12 @@
+{
+  "id": "20f89df3-8e54-4e1c-b482-9e8c268eb9f3",
+  "instruction": "Write a Jquery script to hide all HTML elements which have the class \u201chide-this.\u201d",
+  "input": "",
+  "output": "$(document).ready(function(){\n$('.hide-this').hide();\n});",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

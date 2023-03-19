@@ -1,0 +1,12 @@
+{
+  "id": "78828ece-edc5-4a10-a2b1-79e38cdd8f01",
+  "instruction": "List the steps to creating a 3D model using Blender.",
+  "input": "",
+  "output": "1. Open Blender and create a new scene. \n2. Add objects to the scene and create the basic shape of the 3D model.\n3. Add modifiers such as booleans, smooth, or subdivision to refine the 3D model.\n4. Add materials to the model such as colors, textures, and other effects.\n5. Add lights and render the scene.\n6. Fine-tune the 3D model and render again if necessary.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

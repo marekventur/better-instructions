@@ -1,0 +1,12 @@
+{
+  "id": "233bb395-2f39-4d15-8e3c-06fa1a9d6692",
+  "instruction": "Rank the following programming languages from the most to least difficult to learn.",
+  "input": "Java \nPython\nC++",
+  "output": "The programming languages should be ranked as follows:\n1. C++ \n2. Java \n3. Python",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

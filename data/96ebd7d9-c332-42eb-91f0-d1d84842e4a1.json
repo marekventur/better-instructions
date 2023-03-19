@@ -1,0 +1,12 @@
+{
+  "id": "96ebd7d9-c332-42eb-91f0-d1d84842e4a1",
+  "instruction": "Predict the following word.",
+  "input": "My greatest fear is ____.",
+  "output": "failure.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

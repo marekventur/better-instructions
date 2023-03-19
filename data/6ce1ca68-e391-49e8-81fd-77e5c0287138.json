@@ -1,0 +1,12 @@
+{
+  "id": "6ce1ca68-e391-49e8-81fd-77e5c0287138",
+  "instruction": "Describe the differences between machine and deep learning",
+  "input": "",
+  "output": "While both machine learning and deep learning are subfields of artificial intelligence, there are differences between the two. Machine learning algorithms rely on a series of manually crafted features and labeled data to train models. Deep learning models, on the other hand, are able to learn complex relationships between data points without the need for manual feature engineering. Deep learning is also capable of multi-layered learning, meaning it can learn multiple abstractions and relationships in the data, while machine learning is often limited to a single layer. Additionally, deep learning models have recently achieved impressive results on many tasks such as object recognition and natural language processing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

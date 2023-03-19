@@ -1,0 +1,12 @@
+{
+  "id": "f4c5ee22-7c96-4df7-a973-94215bbe7c3c",
+  "instruction": "Determine the author and year of this book",
+  "input": "The Great Gatsby",
+  "output": "The book The Great Gatsby was written by F. Scott Fitzgerald in 1925.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

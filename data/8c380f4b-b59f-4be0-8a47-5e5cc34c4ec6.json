@@ -1,0 +1,12 @@
+{
+  "id": "8c380f4b-b59f-4be0-8a47-5e5cc34c4ec6",
+  "instruction": "Find the angular momentum of a satellite orbiting a planet with a mass of 5,000 kg at a distance of 200 km.",
+  "input": "Mass of Planet: 5,000 kg\nDistance: 200 km",
+  "output": "The angular momentum of the satellite is 1.7 x 10^15 kg m^2/s.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

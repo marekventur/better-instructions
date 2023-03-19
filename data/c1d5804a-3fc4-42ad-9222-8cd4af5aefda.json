@@ -1,0 +1,12 @@
+{
+  "id": "c1d5804a-3fc4-42ad-9222-8cd4af5aefda",
+  "instruction": "What are the differences between HTML and CSS?",
+  "input": "",
+  "output": "HTML is a structural markup language used for building the structure of a web page, whereas CSS is a styling language used for adding design and layout to web pages. HTML is used to define the content of webpages, while CSS is used to apply styles to that content, such as fonts, colors, background images, etc. HTML is designed to display data with structure, while CSS is designed to add styling to the structure.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

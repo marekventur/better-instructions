@@ -1,0 +1,12 @@
+{
+  "id": "349da8e1-9b25-4974-8a4e-6912616f1e2a",
+  "instruction": "Write a query to get the average purchase price from the table \"orders\"",
+  "input": "",
+  "output": "SELECT AVG(price) FROM orders;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

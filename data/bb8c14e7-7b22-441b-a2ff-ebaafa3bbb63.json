@@ -1,0 +1,12 @@
+{
+  "id": "bb8c14e7-7b22-441b-a2ff-ebaafa3bbb63",
+  "instruction": "Given a sentence, suggest an alternative that preserves the original meaning but with a different wording (synonymous substitution).",
+  "input": "It's too late.",
+  "output": "It's beyond the point.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

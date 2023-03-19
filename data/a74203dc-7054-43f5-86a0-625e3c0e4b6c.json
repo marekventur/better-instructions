@@ -1,0 +1,12 @@
+{
+  "id": "a74203dc-7054-43f5-86a0-625e3c0e4b6c",
+  "instruction": "Tell me what is the weather like in the following place.",
+  "input": "New York City",
+  "output": "The weather in New York City is currently sunny and mild, with temperatures around 75 degrees Fahrenheit (24 degrees Celsius).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a33fdfe0-409a-460c-aadb-43eaa2be2901",
+  "instruction": "Generate a function to convert a string of numbers into integers.",
+  "input": "\"123456\"",
+  "output": "def convert_string_to_int(string):\n    result = 0\n    for c in string:\n        result = result * 10 + int(c)\n    return result\n\nconvert_string_to_int(\"123456\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

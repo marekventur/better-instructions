@@ -1,0 +1,12 @@
+{
+  "id": "329d3a10-7852-4227-a019-07f894fb6b8c",
+  "instruction": "Parse the given text to extract a list of all the nouns.",
+  "input": "The teacher asked the students to do their homework carefully.",
+  "output": "[teacher, students, homework]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

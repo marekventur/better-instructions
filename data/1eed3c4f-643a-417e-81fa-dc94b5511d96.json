@@ -1,0 +1,12 @@
+{
+  "id": "1eed3c4f-643a-417e-81fa-dc94b5511d96",
+  "instruction": "Find the geographic location of the restaurant.",
+  "input": "The restaurant is called \"La Table\".",
+  "output": "La Table is located in Paris, France.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

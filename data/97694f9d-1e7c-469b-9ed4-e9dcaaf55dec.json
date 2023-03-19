@@ -1,0 +1,12 @@
+{
+  "id": "97694f9d-1e7c-469b-9ed4-e9dcaaf55dec",
+  "instruction": "Identify the most important sentence in the following paragraph and explain why.",
+  "input": "Birds have adapted in multiple ways to improve their flight. They use their wings and tails for steering, flapping for generating lift, gliding for saving energy, and soaring for long-distance travel.",
+  "output": "The most important sentence in the paragraph is \"They use their wings and tails for steering, flapping for generating lift, gliding for saving energy, and soaring for long-distance travel\" because it outlines the key adaptation methods birds employ to improve their flight. These adaptations are what enable them to fly, and thus are essential to understand their behavior.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

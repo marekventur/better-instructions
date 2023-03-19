@@ -1,0 +1,12 @@
+{
+  "id": "5542917e-14fa-44e8-9775-55c0372238f6",
+  "instruction": "Explain the difference between HashMap and TreeMap in Java",
+  "input": "",
+  "output": "HashMap is a Map implementation that stores objects in a hash table based on a key. It allows null values. TreeMap is a Map implementation that stores objects in a tree structure based on their keys. It does not allow null values.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

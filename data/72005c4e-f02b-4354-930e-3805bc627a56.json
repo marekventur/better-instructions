@@ -1,0 +1,12 @@
+{
+  "id": "72005c4e-f02b-4354-930e-3805bc627a56",
+  "instruction": "Describe a typical use case for reinforcement learning",
+  "input": "",
+  "output": "A typical use case for reinforcement learning is a problem where an agent needs to find the best decisions or actions to take in order to maximize reward over time. Examples include robotics, playing games, autonomous driving, and financial trading. In these domains, reinforcement learning can be used to learn good strategies for decision making even in highly non-linear and non-deterministic environments.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

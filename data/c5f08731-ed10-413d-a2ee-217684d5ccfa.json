@@ -1,0 +1,12 @@
+{
+  "id": "c5f08731-ed10-413d-a2ee-217684d5ccfa",
+  "instruction": "Count the number of distinct elements in the given set.",
+  "input": "{2, 4, 6, 8, 4}",
+  "output": "The number of distinct elements in the given set is 4.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

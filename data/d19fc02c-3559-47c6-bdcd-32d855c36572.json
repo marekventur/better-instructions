@@ -1,0 +1,12 @@
+{
+  "id": "d19fc02c-3559-47c6-bdcd-32d855c36572",
+  "instruction": "Find the modifiers in the sentence and list them.",
+  "input": "The girl with short curly hair laughed loudly.",
+  "output": "with short curly hair, loudly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2c1742a5-1b12-49ff-b5ff-8bf6ac65202d",
+  "instruction": "Given the prompt, suggest two possible solutions.",
+  "input": "Customers are not able to find the product they are looking for on the website.",
+  "output": "Possible Solutions:\n1. Updating the website with the correct product information.\n2. Adding a search function that enables customers to easily find the relevant product.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

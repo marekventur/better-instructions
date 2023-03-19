@@ -1,0 +1,12 @@
+{
+  "id": "59285aa1-f15a-4450-84bc-57705cae3d4a",
+  "instruction": "Given a poem, identify the type of poem and its meter.",
+  "input": "Poem:\n\nThe night has come, and I am still awake\nThough I should be sleeping in the dark\nMy head still swirls in a restless state\nStaring out the window without a spark",
+  "output": "This is a quatrain poem and it follows a common trochaic meter with an eight-syllable pattern.\n\u200b",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

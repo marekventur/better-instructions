@@ -1,0 +1,12 @@
+{
+  "id": "f056d69f-cc0f-40f0-b198-fd212051b028",
+  "instruction": "Construct a list of skills to put on a resume for a machine learning position.",
+  "input": "",
+  "output": "- Programming Skills: Python, C/C++, Java\n- Machine Learning Algorithms: Neural Networks, Decision Trees, SVM, K-Means Clustering\n- Machine Learning Libraries: TensorFlow, Scikit-Learn, Keras\n- Data Analysis Tools: Pandas, Numpy, Matplotlib\n- Data Manipulation & Visualization: SQL, Tableau\n- Model Evaluation: Cross-Validation, K-Fold\n- Project Management: Agile, Scrum\n- Communication & Collaboration: Documentation, Presentations, Team Communication",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

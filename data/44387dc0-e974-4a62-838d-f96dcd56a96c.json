@@ -1,0 +1,12 @@
+{
+  "id": "44387dc0-e974-4a62-838d-f96dcd56a96c",
+  "instruction": "For the given instruction, generate an input and output.",
+  "input": "Instruction: Generate a story about walking in a forest",
+  "output": "Input: Jane was walking through a quiet forest when she heard a strange sound.\nOutput: Jane stopped in her tracks, looking around in the eerie silence. Something was not right. She looked around nervously and slowly stepped closer towards where the noise had come from. As she crept closer, she could make out the figure of a small fox, and soon after, two more appeared. They were curiously looking at her, as if expecting something. She took a few steps back, and the foxes slowly ran away into the forest. She felt a sense of wonder as she continued her walk, feeling a deeper connection with nature than before.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

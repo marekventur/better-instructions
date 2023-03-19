@@ -1,0 +1,12 @@
+{
+  "id": "dcf13193-95ce-4f28-b760-31a5ed2dd4bc",
+  "instruction": "Transform the following sentence from an indirect object to a direct object.",
+  "input": "I gave him a book",
+  "output": "I gave a book to him.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

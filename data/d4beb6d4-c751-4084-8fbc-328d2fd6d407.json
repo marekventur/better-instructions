@@ -1,0 +1,12 @@
+{
+  "id": "d4beb6d4-c751-4084-8fbc-328d2fd6d407",
+  "instruction": "Construct a question that matches the following answer.",
+  "input": "The capital of France is Paris.",
+  "output": "What is the capital of France?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

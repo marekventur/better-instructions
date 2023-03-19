@@ -1,0 +1,12 @@
+{
+  "id": "108bd037-af2b-482b-8d03-e6d7b500acfa",
+  "instruction": "Classify the following objects as either a mammal, amphibian, bird, reptile or fish",
+  "input": "Monkey, Frog, Eagle, Snake, Salmon",
+  "output": "Mammal \u2013 Monkey, \nAmphibian \u2013 Frog, \nBird \u2013 Eagle,\nReptile \u2013 Snake,\nFish \u2013 Salmon",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

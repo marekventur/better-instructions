@@ -1,0 +1,12 @@
+{
+  "id": "c305b90e-3a56-40a3-a8e4-8799c8276861",
+  "instruction": "Summarise this paragraph in less than 50 words.",
+  "input": "Social media has become an integral part of modern life. It is used by people of all ages and backgrounds to communicate, share information and express their personalities. However, with its ubiquity has come criticism of social media\u2019s effects, including cyberbullying, lack of privacy and its role in addiction.",
+  "output": "Social media has become pervasive in people's lives, but it has also been subject to criticism due to its effects, such as cyberbullying, lack of privacy, and addiction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

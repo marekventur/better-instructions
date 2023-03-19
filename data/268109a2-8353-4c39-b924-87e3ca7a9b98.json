@@ -1,0 +1,12 @@
+{
+  "id": "268109a2-8353-4c39-b924-87e3ca7a9b98",
+  "instruction": "Write a SQL query to select all rows of a table with a certain attribute.",
+  "input": "Table Name: \"Fruits\"\nAttribute: Type",
+  "output": "SELECT * FROM Fruits WHERE Type = 'Type'",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c67e5f94-b94e-49e7-af5e-e329eac93b3f",
+  "instruction": "Clean up the following code and list the changes you made.",
+  "input": "for (int i=0; i<n; i++ i=)\n  print (\"Hello World\")",
+  "output": "I cleaned up the following code by replacing the 'i=' within the for loop with '++' and also removing the unnecessary ')' after the for loop statement:\nfor (int i=0; i<n; i++) \n  print (\"Hello World\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "27644f88-f750-4d27-90df-7b21f82a9e0b",
+  "instruction": "Using the given information, construct a paragraph about the history of the company",
+  "input": "Company Name: Heavy Machinery\nYear Established: 1982",
+  "output": "Heavy Machinery was founded in 1982 by John Johnson, an experienced engineer from the nearby town. Since then the company has grown and prospered, expanding its operations to various industries such as construction, mining, and farming. With its high-quality products and reliable customer service, Heavy Machinery quickly gained recognition in the market and became an established leader in the field of heavy machinery. Over the years, the company has accumulated extensive experience and technical knowledge which enables it to provide superior products and services to its customers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

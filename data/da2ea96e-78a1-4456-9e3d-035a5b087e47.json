@@ -1,0 +1,12 @@
+{
+  "id": "da2ea96e-78a1-4456-9e3d-035a5b087e47",
+  "instruction": "Generate a PDF report of information about a company.",
+  "input": "ACME Co. is a successful software company that has been on the market for over 10 years. The company specializes in developing solutions with innovative and user-friendly interfaces, while focusing on customer satisfaction. The company employs 150+ people in 5 different countries and offers a wide range of services.",
+  "output": "Using Python, one could generate a PDF report of the information about ACME Co. by converting the information into a beautiful PDF template. The template could include details about the company such as the number of years ACME Co. has been in business, the number of employees, the countries where they are based, and the services they offer. The PDF report could also be supplemented with additional information such as the company mission statement, vision and core values, case studies, customer testimonials, and information about the technology and tools they use.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

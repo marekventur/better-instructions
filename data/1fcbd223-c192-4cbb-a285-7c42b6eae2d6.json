@@ -1,0 +1,12 @@
+{
+  "id": "1fcbd223-c192-4cbb-a285-7c42b6eae2d6",
+  "instruction": "Read the string of numbers and determine what is being described.",
+  "input": "2, 3, 7, 11, 15",
+  "output": "This is a sequence of prime numbers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

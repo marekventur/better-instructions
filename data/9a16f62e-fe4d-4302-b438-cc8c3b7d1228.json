@@ -1,0 +1,12 @@
+{
+  "id": "9a16f62e-fe4d-4302-b438-cc8c3b7d1228",
+  "instruction": "Classify the sentence into correct intent.",
+  "input": "I want to book an appointment with a doctor.",
+  "output": "Booking Appointment",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

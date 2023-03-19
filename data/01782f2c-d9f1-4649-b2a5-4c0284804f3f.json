@@ -1,0 +1,12 @@
+{
+  "id": "01782f2c-d9f1-4649-b2a5-4c0284804f3f",
+  "instruction": "Given a list of words, find out the last word.",
+  "input": "apple, banana, orange, strawberry",
+  "output": "The last word is strawberry.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

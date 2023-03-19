@@ -1,0 +1,12 @@
+{
+  "id": "3b1b3d03-7ebf-4d72-abdd-28272dca4114",
+  "instruction": "List the steps for baking a cake.",
+  "input": "\"<noinput>\"",
+  "output": "1. Preheat oven to the required temperature.\n2. Grease a cake tin or line a muffin pan.\n3. Combine dry ingredients in a bowl.\n4. Cream butter and sugar together.\n5. Add eggs, one at a time, and mix.\n6. Add the dry ingredients and mix until just blended.\n7. Add in any liquid ingredients such as milk or juice.\n8. Pour the batter into the prepared tin or muffin pan.\n9. Bake for the required amount of time.\n10. Allow the cake or muffins to cool before serving.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

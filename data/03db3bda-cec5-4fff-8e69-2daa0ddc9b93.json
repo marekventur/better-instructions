@@ -1,0 +1,12 @@
+{
+  "id": "03db3bda-cec5-4fff-8e69-2daa0ddc9b93",
+  "instruction": "Which word is an adverb?",
+  "input": "The bird always flew quickly.",
+  "output": "quickly",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

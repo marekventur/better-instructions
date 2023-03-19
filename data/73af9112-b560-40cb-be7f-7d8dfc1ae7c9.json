@@ -1,0 +1,12 @@
+{
+  "id": "73af9112-b560-40cb-be7f-7d8dfc1ae7c9",
+  "instruction": "Given the following facts, create a brief biographical summary.",
+  "input": "Facts: Maria is 25 years old, and recently graduated with a degree in computer science. She loves playing music and singing, and is looking for a job in a software engineering role.",
+  "output": "Maria is a 25-year-old computer science graduate, keen to start her career in software engineering. In her spare time, she loves to play music and sing, expressing her creativity and passion for music.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

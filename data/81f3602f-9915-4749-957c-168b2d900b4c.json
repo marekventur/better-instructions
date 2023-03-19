@@ -1,0 +1,12 @@
+{
+  "id": "81f3602f-9915-4749-957c-168b2d900b4c",
+  "instruction": "Create a chatbot dialogue that a customer would use to inquire about a product.",
+  "input": "Customer: I want to know more about the new iPhone.",
+  "output": "Customer: Hi, I'm looking for some information on the new iPhone. \n\nChatbot: Hi there! I can help you with that. Could you tell me which model of the iPhone you're interested in? \n\nCustomer: The 11 Pro. \n\nChatbot: Great! The iPhone 11 Pro has a 5.8-inch OLED Super Retina XDR display, triple cameras, and a new A13 Bionic chipset for top-of-the-line performance. Is there anything else you'd like to know?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

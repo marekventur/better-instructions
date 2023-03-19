@@ -1,0 +1,12 @@
+{
+  "id": "ad3d7ec9-c174-4b50-9617-8b86c2187963",
+  "instruction": "Predict what will happen next in the given story.",
+  "input": "John was walking home from school when he saw a glittering diamond on the ground.",
+  "output": "John will pick up the diamond and bring it home. He will show it to his family and they will be amazed by the discovery. He might try to trace the owners of the diamond to return it to them or he might keep it as a souvenir of his lucky find.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

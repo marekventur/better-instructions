@@ -1,0 +1,12 @@
+{
+  "id": "4cd106f6-90ec-4c35-985a-691a95496a86",
+  "instruction": "Design a KB-QA system for an online travel website",
+  "input": "",
+  "output": "A Knowledge-Based Question Answering (KB-QA) system for an online travel website can be created by creating a Knowledge Base (KB) containing information related to the website and its services. For example, the KB can contain information about destinations, attractions, hotels, flights, packages, deals and more. The KB-QA system can then use natural language processing (NLP) techniques such as entity recognition, part-of-speech tagging, and semantic parsing, to identify entities and key phrases from the input query. The system can then search the KB for relevant information, and generate the appropriate answer based on the input query. The KB-QA system can also be enhanced using other techniques such as rule-based matching and supervised machine learning algorithms to provide timely, accurate, and relevant answers to user queries.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

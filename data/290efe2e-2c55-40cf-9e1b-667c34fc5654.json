@@ -1,0 +1,12 @@
+{
+  "id": "290efe2e-2c55-40cf-9e1b-667c34fc5654",
+  "instruction": "Edit the following sentence to change the tense to past perfect: \"The cat has been eating the food all morning\".",
+  "input": "",
+  "output": "The cat had been eating the food all morning.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

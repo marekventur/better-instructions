@@ -1,0 +1,12 @@
+{
+  "id": "df56c98a-0aaa-45b8-9d48-77aeddeb9850",
+  "instruction": "Compose a letter of appreciation for a given situation.",
+  "input": "From a student to their teacher",
+  "output": "Dear [Teacher Name],\n\nI wanted to take a moment to express my sincere appreciation for the wonderful work you do. Your impact on my education and my growth is immeasurable. You have always been eager to seek out new instructional methods and creative activities that helped me to really understand and discover the material. You were always patient with every student in the class and worked hard to make sure that everyone had the same opportunity to succeed. I can feel the way you genuinely care about student outcomes and it's inspiring. Thank you for being an exemplary teacher and for dedicating so many valuable hours to our learning.\n\nWith heartfelt gratitude,\n[Student Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

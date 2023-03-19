@@ -1,0 +1,12 @@
+{
+  "id": "5d44094e-72e7-4bb3-a312-600a6ad8c551",
+  "instruction": "Write a function that finds the largest number in a list.",
+  "input": "",
+  "output": "def find_max(lst):\n    return max(lst)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

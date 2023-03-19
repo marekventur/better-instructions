@@ -1,0 +1,12 @@
+{
+  "id": "57b5c785-83b6-42af-b9e4-c46719b4832d",
+  "instruction": "Add a few more lines to the given haiku.",
+  "input": "Prayers upon the wind\ncircling all around the world\nThe love will never end",
+  "output": "Prayers upon the wind\nCircling all around the world\nThe love will never end\nTall mountains, green valleys\nThe sun's glowing warmth touches us all\nA blessing from above",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

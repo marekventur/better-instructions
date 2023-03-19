@@ -1,0 +1,12 @@
+{
+  "id": "b0e3fc76-9e21-4446-9edd-1b4ea0991589",
+  "instruction": "Describe the features of a state-of-the-art artificial intelligence system used for medical diagnosis.",
+  "input": "",
+  "output": "A state-of-the-art artificial intelligence system for medical diagnosis should have the following features: \n1. An advanced image recognition system, capable of detecting and interpreting medical images accurately. \n2. A robust deep learning system, capable of making accurate and reliable diagnoses from medical data.\n3. Integration with other medical databases for quick data access. \n4. A natural language processing system for understanding doctors' and patients' queries.\n5. A secure system, with user authentication and encryption protocols, to protect confidential health data.\n6. Space for doctors to add additional knowledge to the system.\n7. An intuitive user interface to allow doctors to easily enter and retrieve patient data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

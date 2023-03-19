@@ -1,0 +1,12 @@
+{
+  "id": "0f7bffbc-5ec4-477d-b42c-2f8225df49a1",
+  "instruction": "Translate the following sentence into a different language and add a proof of the translation in the footnotes.",
+  "input": "Carrying your own bag is an ecological choice",
+  "output": "Portar a tu propia bolsa es una elecci\u00f3n ecol\u00f3gica[1]\n\n[1]Translation from English to Spanish sourced from Google Translate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

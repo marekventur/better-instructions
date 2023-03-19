@@ -1,0 +1,12 @@
+{
+  "id": "9f9f412f-8b1c-4ece-9404-18f1edd6fa86",
+  "instruction": "Identify the part of speech for the given word.",
+  "input": "Laugh",
+  "output": "The part of speech for the word 'Laugh' is a verb.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

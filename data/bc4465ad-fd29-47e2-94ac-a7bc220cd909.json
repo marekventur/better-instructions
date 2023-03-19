@@ -1,0 +1,12 @@
+{
+  "id": "bc4465ad-fd29-47e2-94ac-a7bc220cd909",
+  "instruction": "Classify the following flowers as either annuals or perennials.",
+  "input": "Marigolds, Daisy, Sunflower",
+  "output": "Marigolds - Annuals\nDaisy - Perennials\nSunflower - Annuals",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

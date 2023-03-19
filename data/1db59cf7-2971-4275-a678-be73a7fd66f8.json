@@ -1,0 +1,12 @@
+{
+  "id": "1db59cf7-2971-4275-a678-be73a7fd66f8",
+  "instruction": "Find the prime factorization of 2800.",
+  "input": "",
+  "output": "The prime factorization of 2800 is 2\u00b2 x 2\u00b2 x 5\u00b2 x 7. This can be written as 2800 = 2\u2074 x 5\u00b2 x 7.  Each of the prime factors' exponents indicates the number of times that number appears in the factorization. In this case, 2\u00b2 appears 4 times, 5\u00b2 appears 2 times, and 7 appears 1 time. The product of the factors gives 2800.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "98a784e7-d7f7-4d8a-88e5-7a7cb50fd21f",
+  "instruction": "Measure the degree of similarity between the two given sentences.",
+  "input": "I am doing the laundry.\nI am washing the dishes.",
+  "output": "The degree of similarity between the two sentences is moderate. Both sentences talk about performing a household chore, but the specific activity in each sentence is different.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9fb29735-5211-4cf1-a81c-e31180da8807",
+  "instruction": "Specify a genre of books to recommend?",
+  "input": "Thriller",
+  "output": "Here are five thriller books to read: \n1. The Da Vinci Code by Dan Brown \n2. Gone Girl by Gillian Flynn \n3. Silence of the Lambs by Thomas Harris \n4. The Girl on the Train by Paula Hawkins \n5. The Hunger Games by Suzanne Collins",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

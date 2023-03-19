@@ -1,0 +1,12 @@
+{
+  "id": "9cd19b79-67e5-438e-98a1-28f6b1f0e30f",
+  "instruction": "Identify what kind of bias is present in the given statement.",
+  "input": "All bosses can be difficult to work with.",
+  "output": "This statement shows a bias towards bosses in general. It implies that there are certain characteristics associated with bosses that make them difficult to work with, regardless of the individual boss. This statement assumes an all-or-nothing attitude and perpetuates a negative stereotype thatbosses in general are difficult to work with.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0b3dafd7-f0ba-472c-947f-7f08686de0d3",
+  "instruction": "Rewrite the following sentence to start with the noun.",
+  "input": "He was driving to the store.",
+  "output": "Driving to the store, he was.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

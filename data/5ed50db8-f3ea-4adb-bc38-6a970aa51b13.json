@@ -1,0 +1,12 @@
+{
+  "id": "5ed50db8-f3ea-4adb-bc38-6a970aa51b13",
+  "instruction": "Shuffle the order of the following words.",
+  "input": "Words: apartment, her, rented",
+  "output": "Rented her apartment",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

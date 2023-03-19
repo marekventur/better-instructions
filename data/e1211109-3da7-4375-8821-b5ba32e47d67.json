@@ -1,0 +1,12 @@
+{
+  "id": "e1211109-3da7-4375-8821-b5ba32e47d67",
+  "instruction": "Search for word \"ravioli\" in the given sentence and make it bold.",
+  "input": "I had pizza, ravioli and salad for dinner last night.",
+  "output": "I had pizza, <b>ravioli</b> and salad for dinner last night.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

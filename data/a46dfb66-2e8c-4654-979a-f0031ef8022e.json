@@ -1,0 +1,12 @@
+{
+  "id": "a46dfb66-2e8c-4654-979a-f0031ef8022e",
+  "instruction": "Construct a for-loop for the given parameters.",
+  "input": "Integer a from 0 to 10",
+  "output": "for (int a=0; a<=10; a++) {\n  //code here\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

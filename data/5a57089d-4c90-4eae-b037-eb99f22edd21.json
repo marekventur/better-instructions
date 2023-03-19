@@ -1,0 +1,12 @@
+{
+  "id": "5a57089d-4c90-4eae-b037-eb99f22edd21",
+  "instruction": "Replace the word \"violent\" with the word \"forceful\" in the given sentence.",
+  "input": "She reacted violently to the news.",
+  "output": "She reacted forcefully to the news.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cdc2c8b7-7bdb-4f69-82d3-eef4c8f2da54",
+  "instruction": "Construct a function to classify words into nouns, verbs, and adjectives.",
+  "input": "",
+  "output": "def classify_word(word): \n  if word.endswith('ed'): \n    return 'verb'\n  elif word.endswith('ing'): \n    return 'verb'\n  elif word.endswith('ly'):\n    return 'adjective'\n  else: \n    return 'noun'",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

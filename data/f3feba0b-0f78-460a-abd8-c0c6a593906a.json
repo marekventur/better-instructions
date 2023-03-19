@@ -1,0 +1,12 @@
+{
+  "id": "f3feba0b-0f78-460a-abd8-c0c6a593906a",
+  "instruction": "Syndicate the financial information in the following article.",
+  "input": "Walmart Inc has seen a surge in their profits from their online sales. It has been reported that the retail giant saw a 37% increase in its web sales in operations outside of China. This was an unexpected success compared to their usual growth rate of 20% to 25%.",
+  "output": "Walmart Inc has experienced a surge in profits from its online sales, with a 37% increase in web sales in operations outside of China, exceeding their typical growth rate of 20-25%.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

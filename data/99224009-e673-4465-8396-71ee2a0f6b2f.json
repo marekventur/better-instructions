@@ -1,0 +1,12 @@
+{
+  "id": "99224009-e673-4465-8396-71ee2a0f6b2f",
+  "instruction": "Given a sentence, convert it into the present perfect tense",
+  "input": "She ate a banana",
+  "output": "She has eaten a banana",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

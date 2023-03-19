@@ -1,0 +1,12 @@
+{
+  "id": "a2d9f4cd-684b-425a-a50b-2942e8fe95c1",
+  "instruction": "Consult an expert and summarize the main characteristics of a new technology.",
+  "input": "Kubernetes",
+  "output": "Kubernetes is a cloud-native container orchestration system which allows users to manage and deploy distributed applications and services. It provides a platform for scaling and automating application deployment, provides for self healing and helps users in managing applications and services at a large scale. Kubernetes also provides a platform for running applications in virtual machines, containers and micro services. It provides a secure and reliable platform for development, testing and production environments.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

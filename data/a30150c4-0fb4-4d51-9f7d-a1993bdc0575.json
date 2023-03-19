@@ -1,0 +1,12 @@
+{
+  "id": "a30150c4-0fb4-4d51-9f7d-a1993bdc0575",
+  "instruction": "Write a formal email to the boss politely asking for leave the next day.",
+  "input": "Noinput",
+  "output": "Dear [Boss], \n\nI am writing to kindly request a leave of absence for tomorrow, [date]. I have an important personal matter that I need to attend to and would greatly appreciate your understanding in this matter.\n\nI assure you that I will make up for any work missed during my leave and look forward to hearing your response. \n\nBest regards, \n[Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

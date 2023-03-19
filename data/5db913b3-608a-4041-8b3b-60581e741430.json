@@ -1,0 +1,12 @@
+{
+  "id": "5db913b3-608a-4041-8b3b-60581e741430",
+  "instruction": "Given two datasets, analyze and compare them to find the similarities and differences.",
+  "input": "Dataset 1: Gender Distribution of Population in USA \nDataset 2: Gender Distribution of Population in Mexico",
+  "output": "The gender distribution of the population in both the USA and Mexico appears to be split roughly in half. However, the population of the USA is slightly more weighted towards males, with males making up about 50.4% of the population and females making up about 49.6% of the population. Meanwhile, the population of Mexico is slightly more weighted towards females, with males making up about 49.2% of the population and females making up about 50.8% of the population.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

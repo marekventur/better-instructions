@@ -1,0 +1,12 @@
+{
+  "id": "82bc0b7c-4194-4082-bfbe-8020da7be1fa",
+  "instruction": "Arrange the given list of words in alphabetical order.",
+  "input": "television, bed, chair, desk",
+  "output": "bed, chair, desk, television",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

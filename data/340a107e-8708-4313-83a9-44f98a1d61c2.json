@@ -1,0 +1,12 @@
+{
+  "id": "340a107e-8708-4313-83a9-44f98a1d61c2",
+  "instruction": "Create a Multilayer Perceptron (MLP) Neural Network with three inputs and one output that can predict an output based on the input variables.",
+  "input": "",
+  "output": "\"\"\"\nCreate a Multilayer Perceptron (MLP) Neural Network with three inputs and one output.\n\"\"\"\n\nimport keras\nfrom keras.models import Sequential\nfrom keras.layers import Dense\n\n# define the model\nmodel = Sequential()\nmodel.add(Dense(12, input_dim=3, activation='relu'))\nmodel.add(Dense(1, activation='sigmoid'))\n\n# compile the model\nmodel.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])\n\n# summarize the model\nmodel.summary()",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

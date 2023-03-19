@@ -1,0 +1,12 @@
+{
+  "id": "1261ed8c-9193-4d9b-8d50-57dc740e57bf",
+  "instruction": "Find the fact that supports the statement.",
+  "input": "Statement: By 2030, the global warming will rise to 1.5 degrees Celsius.",
+  "output": "According to the Intergovernmental Panel on Climate Change (IPCC), the temperature of the Earth could rise to 1.5 degrees Celsius above pre-industrial levels by 2030 if no significant actions are taken to reduce emissions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

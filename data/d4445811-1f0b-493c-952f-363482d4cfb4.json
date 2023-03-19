@@ -1,0 +1,12 @@
+{
+  "id": "d4445811-1f0b-493c-952f-363482d4cfb4",
+  "instruction": "Calculate the number of years needed to double your money at 5% annual interest.",
+  "input": "$1000",
+  "output": "14.4 years.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

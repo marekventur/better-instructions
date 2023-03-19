@@ -1,0 +1,12 @@
+{
+  "id": "be5cb54b-ee11-413b-b77c-ddc9fdb49358",
+  "instruction": "Classify the following animal as an invertebrate.",
+  "input": "Butterfly",
+  "output": "Butterfly is an invertebrate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

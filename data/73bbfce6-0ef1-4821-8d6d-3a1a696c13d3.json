@@ -1,0 +1,12 @@
+{
+  "id": "73bbfce6-0ef1-4821-8d6d-3a1a696c13d3",
+  "instruction": "Evaluate the following numerical expression",
+  "input": "(7-4)\u00d7 2",
+  "output": "6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

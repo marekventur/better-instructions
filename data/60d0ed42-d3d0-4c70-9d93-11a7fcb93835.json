@@ -1,0 +1,12 @@
+{
+  "id": "60d0ed42-d3d0-4c70-9d93-11a7fcb93835",
+  "instruction": "Given the given article, edit it such that the new article has the given tone.",
+  "input": "Article: The average cost of a cup of coffee in the US is rising.\nTone: Positive",
+  "output": "The cost of a cup of coffee in the US is increasing, which suggests that the quality of coffee is improving!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

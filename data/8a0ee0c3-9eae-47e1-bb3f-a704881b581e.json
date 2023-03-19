@@ -1,0 +1,12 @@
+{
+  "id": "8a0ee0c3-9eae-47e1-bb3f-a704881b581e",
+  "instruction": "Create a weather update for the following city.",
+  "input": "Madison, Wisconsin",
+  "output": "Madison, Wisconsin is expecting mostly sunny skies with temperatures between 62 and 73 degrees Fahrenheit. There is a light breeze with humidity at 55%. No rain is expected in the forecast.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

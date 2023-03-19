@@ -1,0 +1,12 @@
+{
+  "id": "fe9fcb6b-4260-4019-9c61-822d929f4cc0",
+  "instruction": "Copy the sentence while change the noun in the sentence.",
+  "input": "He likes to drink coffee.",
+  "output": "He likes to drink tea.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

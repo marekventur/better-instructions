@@ -1,0 +1,12 @@
+{
+  "id": "1b04a450-b81c-43a3-b5c2-42b69a417bf6",
+  "instruction": "Analyze the below cartoon.",
+  "input": "![cartoon](https://i.imgur.com/U67n6YB.jpg)",
+  "output": "The cartoon suggests that in today's world, we are increasingly relying on technology and often use it as a way of distracting ourselves from our own issues. The man in the cartoon is clearly overwhelmed by all the problems of life which are reflected in the symbols on the screen. The computer is the only way he is able to momentarily ignore the enormous amount of pressure he is dealing with. The two children looking at him symbolizes how modern technology is creating a generation of disconnected individuals.  It hints at the idea that technology can be a useful tool, but if used excessively it can lead to isolation and lack of fulfillment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

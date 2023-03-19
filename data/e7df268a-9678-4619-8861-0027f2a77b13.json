@@ -1,0 +1,12 @@
+{
+  "id": "e7df268a-9678-4619-8861-0027f2a77b13",
+  "instruction": "Diagnose the problem with the following medical test results",
+  "input": "Patient is exhibiting low-grade fever and flu-like symptoms",
+  "output": "The patient likely has a virus, such as the flu or a cold.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

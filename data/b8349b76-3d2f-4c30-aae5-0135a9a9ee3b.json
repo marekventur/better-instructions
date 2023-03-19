@@ -1,0 +1,12 @@
+{
+  "id": "b8349b76-3d2f-4c30-aae5-0135a9a9ee3b",
+  "instruction": "Classify the following as belonging to a supervised or unsupervised learning model.",
+  "input": "Computer vision.",
+  "output": "Supervised Learning.  Computer Vision is the process of using artificial neural networks to recognize patterns in visual data. Supervised learning requires the use of labeled data, which is easily available in the form of images. This makes it well-suited to supervised learning tasks, since these labels will tell the computer what to look for in the incoming visual data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

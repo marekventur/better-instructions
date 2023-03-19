@@ -1,0 +1,12 @@
+{
+  "id": "d5110efd-5a1c-44d4-b540-a716acfa9a63",
+  "instruction": "Generate an AI chatbot script for a customer service scenario",
+  "input": "",
+  "output": "Customer: I am having trouble logging in to my account.\n\nChatbot: No problem. I'm here to help. Can you please provide me with your username or email address associated with your account? \n\nCustomer: My username is mark123.\n\nChatbot: Great, thank you for confirming your username. To reset your password, please click on the \"Forgot Password\" link on the login page and follow the instructions. If you experience any further issues, please don't hesitate to reach out and we'll be able to assist you further.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

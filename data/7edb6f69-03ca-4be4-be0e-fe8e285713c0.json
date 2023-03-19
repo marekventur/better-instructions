@@ -1,0 +1,12 @@
+{
+  "id": "7edb6f69-03ca-4be4-be0e-fe8e285713c0",
+  "instruction": "Predict the covariance of two variables in the given dataset",
+  "input": "Variable 1 | Variable 2\n--- | --- \n2 | 3\n5 | 7\n10 | 11",
+  "output": "The covariance of the two variables is 5.5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

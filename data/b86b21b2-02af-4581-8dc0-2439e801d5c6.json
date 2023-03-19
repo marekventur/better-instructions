@@ -1,0 +1,12 @@
+{
+  "id": "b86b21b2-02af-4581-8dc0-2439e801d5c6",
+  "instruction": "Construct a non-trivial example sentence using a given word.",
+  "input": "Banal",
+  "output": "The banal series of questions at the job interview made me lose my enthusiasm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

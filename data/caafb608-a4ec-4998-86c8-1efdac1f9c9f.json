@@ -1,0 +1,12 @@
+{
+  "id": "caafb608-a4ec-4998-86c8-1efdac1f9c9f",
+  "instruction": "Categorize the following sound into either animal, human, or non-living.",
+  "input": "Sound: barking",
+  "output": "Animal",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

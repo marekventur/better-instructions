@@ -1,0 +1,12 @@
+{
+  "id": "9098ee72-e3b9-49dc-98f7-147f9698e208",
+  "instruction": "Write a function that calculates the average of three numbers",
+  "input": "",
+  "output": "def avg_3(num1, num2, num3): \n    return (num1 + num2 + num3)/3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

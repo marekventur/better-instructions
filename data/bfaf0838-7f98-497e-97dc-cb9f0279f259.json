@@ -1,0 +1,12 @@
+{
+  "id": "bfaf0838-7f98-497e-97dc-cb9f0279f259",
+  "instruction": "Group the following popular web browsers into open-source vs. proprietary",
+  "input": "- Firefox\n- Chrome\n- Safari",
+  "output": "- Firefox: Open-Source \n- Chrome: Proprietary\n- Safari: Proprietary",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

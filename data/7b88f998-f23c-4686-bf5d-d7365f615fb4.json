@@ -1,0 +1,12 @@
+{
+  "id": "7b88f998-f23c-4686-bf5d-d7365f615fb4",
+  "instruction": "What are the similarities and differences between the two texts?",
+  "input": "Text A: \nThe world is full of beauty and wonder.\nText B:\nWe live in a world of beauty and mystery.",
+  "output": "The similarities between the two texts are that they are both talking about the beauty and wonder of the world. The difference is that Text A uses the phrase \"full of beauty and wonder\" while Text B uses the phrase \"world of beauty and mystery\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

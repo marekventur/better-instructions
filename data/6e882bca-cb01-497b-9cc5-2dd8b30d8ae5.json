@@ -1,0 +1,12 @@
+{
+  "id": "6e882bca-cb01-497b-9cc5-2dd8b30d8ae5",
+  "instruction": "Classify the following sentence as an interrogative or a declarative sentence.",
+  "input": "How are you doing today?",
+  "output": "Interrogative sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

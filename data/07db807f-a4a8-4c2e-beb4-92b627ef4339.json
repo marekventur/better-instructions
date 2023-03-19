@@ -1,0 +1,12 @@
+{
+  "id": "07db807f-a4a8-4c2e-beb4-92b627ef4339",
+  "instruction": "Given a rectangle, output the coordinates for the lower left corner.",
+  "input": "The rectangle has a x-coordinate of 12 and a y-coordinate of 15, and the width and height of the rectangle are 4 and 5 respectively.",
+  "output": "The lower left corner of the rectangle has coordinates of (12, 20).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

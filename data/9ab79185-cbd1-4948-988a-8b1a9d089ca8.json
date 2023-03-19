@@ -1,0 +1,12 @@
+{
+  "id": "9ab79185-cbd1-4948-988a-8b1a9d089ca8",
+  "instruction": "Identify the statements which represent facts.",
+  "input": "Croissants are French pastries. The sky is blue.",
+  "output": "Facts: Croissants are French pastries. The sky is blue.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

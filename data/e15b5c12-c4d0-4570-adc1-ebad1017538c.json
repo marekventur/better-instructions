@@ -1,0 +1,12 @@
+{
+  "id": "e15b5c12-c4d0-4570-adc1-ebad1017538c",
+  "instruction": "Re-organize the sentences in chronological order.",
+  "input": "- Harry met Bill while they were at college \n- Bill graduated with an economics degree \n- Harry enrolled in the same college",
+  "output": "1. Harry enrolled in the same college \n2. Harry met Bill while they were at college \n3. Bill graduated with an economics degree",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

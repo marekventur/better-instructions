@@ -1,0 +1,12 @@
+{
+  "id": "ec766d9a-7480-406e-8da7-b4aaa91458cd",
+  "instruction": "Outline the steps to solve the following math problem",
+  "input": "25 + 52",
+  "output": "1. Count the total number of items: 25 + 52 = 77\n2. Add the numbers together: 25 + 52 = 77\n3. Write down the answer: 77",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

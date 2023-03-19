@@ -1,0 +1,12 @@
+{
+  "id": "1f22091b-ec41-418f-a801-7208edaa3fcc",
+  "instruction": "Construct the C++ program that prints a message \"Hello World\".",
+  "input": "",
+  "output": "#include <iostream> \n  \n// main function - \n// where the execution of program begins \nint main() \n{ \n    // prints hello world \n    std::cout<<\"Hello World\"; \n      \n    return 0; \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

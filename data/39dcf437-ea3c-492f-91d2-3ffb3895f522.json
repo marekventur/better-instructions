@@ -1,0 +1,12 @@
+{
+  "id": "39dcf437-ea3c-492f-91d2-3ffb3895f522",
+  "instruction": "Given a list of ingredients and directions, edit the recipe so that it serves two people.",
+  "input": "Ingredients: \n- 1 lb ground beef \n- 2 cloves garlic \n- 1 onion \n- 4 cups chicken broth \n- 4 slices of bacon\n\nDirections:\n1. In a large pot, cook the beef, onion, garlic until beef is no longer pink\n2. Add the chicken broth and bring to a boil\n3. Add the bacon and simmer for 1 hour",
+  "output": "Ingredients: \n- \u00bd lb ground beef \n- 1 clove garlic \n- \u00bd onion \n- 2 cups chicken broth \n- 2 slices of bacon\n\nDirections:\n1. In a large pot, cook the beef, onion, garlic until beef is no longer pink\n2. Add the chicken broth and bring to a boil\n3. Add the bacon and simmer for 30 minutes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

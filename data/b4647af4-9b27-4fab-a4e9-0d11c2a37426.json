@@ -1,0 +1,12 @@
+{
+  "id": "b4647af4-9b27-4fab-a4e9-0d11c2a37426",
+  "instruction": "How would you use linear regression to predict the age of an ancient tree?",
+  "input": "",
+  "output": "Linear regression can be used to predict the age of an ancient tree by measuring the rings in the tree's trunk. By counting the number of tree rings and analyzing their relative widths, an age estimate can be derived. This model can be further refined by determining the average width of the tree's rings, and comparing this value with the number of rings found in the tree's trunk. The linear regression model can then predict the tree's age based on its ring widths.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

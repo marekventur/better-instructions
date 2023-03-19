@@ -1,0 +1,12 @@
+{
+  "id": "421d7742-eed8-4f4c-9146-47769867e72d",
+  "instruction": "Given the following code, identify whether it's syntactically correct.",
+  "input": "def print_name ():\n  print(\"John\")",
+  "output": "Syntactically correct.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

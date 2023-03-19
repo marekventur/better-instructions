@@ -1,0 +1,12 @@
+{
+  "id": "539705c9-51b8-41a8-a05a-7c5d2d09c9b0",
+  "instruction": "Write an essay comparing two poems.",
+  "input": "\"A Red, Red Rose\u201d by Robert Burns and \u201cThe New Colossus\u201d by Emma Lazarus",
+  "output": "Robert Burns' \"A Red, Red Rose\" and Emma Lazarus' \"The New Colossus\" are powerful works that each offer unique perspectives on themes of love, hope and belonging. \"A Red, Red Rose\" is a love poem about unrequited love: the poet expresses his devotion for a faraway lover and stutters his words with passion as he professes his love. Lazarus' poem, on the other hand, reflects on the hopes of immigrants and those who seek a better life in America. While her poem has a heavy sense of patriotism and pride, her words carry an unspoken advocacy for worthy immigrants. \n\nThe style and structure of both poems is a stark contrast. Burns' poem has a traditional, lyrical flow with vivid imagery, while Lazarus' work is a sonnet with a strict rhyme scheme. This is reflective of the difference in the ways they portray their respective messages. While Burns' poem centers around romanticized and idealized love, Lazarus' work speaks to America as a country of immigrants, projecting hope and a greater future. \n\nDespite the differences, both poems offer a sense of optimism. Burns' poem implies that with passion and patience, things can still turn out right even though his own love life may not have. Lazarus' poem acknowledges the struggles that immigrants face, yet still speaks to nationalism and a greater dream ahead. Both writers draw attention to values of hope, courage and hope in the face of adversity. These two poems offer the readers different outlooks, yet remain united in their story of love, strength and courage.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

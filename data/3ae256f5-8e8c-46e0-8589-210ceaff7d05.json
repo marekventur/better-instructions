@@ -1,0 +1,12 @@
+{
+  "id": "3ae256f5-8e8c-46e0-8589-210ceaff7d05",
+  "instruction": "Rewrite the question using the given auxiliary verb.",
+  "input": "Should I take the TOEFL exam?\nAuxiliary verb: Must",
+  "output": "Must I take the TOEFL exam?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

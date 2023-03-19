@@ -1,0 +1,12 @@
+{
+  "id": "d8dbf805-f308-40ae-8eee-199582cbe8cb",
+  "instruction": "Construct a timeline showing significant events in the given historical period.",
+  "input": "Industrial Revolution",
+  "output": "1760-1790: Invention of the steam engine, spinning jenny and cotton gin leading to major advances in steel production, manufacturing and transport.\n1807-1860: Emergence of the factory system, emergence of new communication systems, emergence of railway networks and expansion of the British Empire.\n1880-1910: The emergence of large-scale industrial production, the development of electricity and the introduction of the assembly line.\n1917-1945: The development of mass production techniques, the mechanization of agriculture and the invention of the airplane and the automobile. \n1960-1980: Emergence of the modern economy, introduction of computer-based automation, emergence of the internet and the growth of globalization and international trade.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

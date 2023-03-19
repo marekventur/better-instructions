@@ -1,0 +1,12 @@
+{
+  "id": "4849f0e2-4c0c-4f4a-869e-0e266a830a4d",
+  "instruction": "Fill in the blank to make the following sentence true:\n\nThe movie _______ earned great ratings from both the audience and the critics.",
+  "input": "Joker",
+  "output": "The movie Joker earned great ratings from both the audience and the critics.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

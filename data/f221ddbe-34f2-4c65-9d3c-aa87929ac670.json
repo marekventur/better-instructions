@@ -1,0 +1,12 @@
+{
+  "id": "f221ddbe-34f2-4c65-9d3c-aa87929ac670",
+  "instruction": "Develop a layout for a survey asking participants about their shopping habits.",
+  "input": "",
+  "output": "- What is your occupation?\n- How often do you shop?\n- What do you typically purchase when shopping?\n- Do you prefer to shop online or in person?\n- Are you able to find everything you need?\n- What are the primary factors that influence your purchasing decisions?\n- Are there any particular stores or brands you typically purchase from?\n- Are there any services available (home delivery, click-and-collect, etc.) that you would be interested in using while shopping?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

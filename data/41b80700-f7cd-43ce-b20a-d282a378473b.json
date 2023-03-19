@@ -1,0 +1,12 @@
+{
+  "id": "41b80700-f7cd-43ce-b20a-d282a378473b",
+  "instruction": "Select the appropriate response for a given input.",
+  "input": "Can you tell me what time the store closes?",
+  "output": "The store closes at 11 PM.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

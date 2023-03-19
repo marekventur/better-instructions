@@ -1,0 +1,12 @@
+{
+  "id": "2761106c-2a95-47b4-958d-a9fea7b2627b",
+  "instruction": "Given a list of six grocery items, select the two most expensive items",
+  "input": "eggs, flour, milk, bananas, cherries, coffee",
+  "output": "Coffee and cherries are the two most expensive items in the list.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

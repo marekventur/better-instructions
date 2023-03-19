@@ -1,0 +1,12 @@
+{
+  "id": "c50b3703-623b-4e29-8351-64b23a1657cc",
+  "instruction": "Describe the purpose of sorting algorithms.",
+  "input": "",
+  "output": "Sorting algorithms are algorithms that rearrange a list of elements into a certain order, such as ascending or descending order. The purpose of sorting algorithms is to make searching and comparison operations more efficient by allowing faster access to the data. Sorting algorithms are also used in many areas such as data compression, graphics, and artificial intelligence. By arranging data in specific orders, it can be more efficiently accessed, making many tasks quicker and easier.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

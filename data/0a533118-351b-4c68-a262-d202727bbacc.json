@@ -1,0 +1,12 @@
+{
+  "id": "0a533118-351b-4c68-a262-d202727bbacc",
+  "instruction": "Construct a 500-character essay on a given topic.",
+  "input": "The benefits of technology in transportation.",
+  "output": "Technology has made an incredible impact on the transportation industry in recent years. Autonomous vehicles, improved navigation and route planning, and new methods of monitoring and managing traffic patterns have all made travel much easier and safer. Autonomous vehicles, like self-driving cars, are especially important, as they can increase safety and reduce the number of accidents that occur on the roads. Additionally, by utilizing GPS tracking, navigation and route planning, drivers can ensure their route is the most efficient and accurate. Finally, advanced traffic monitoring allows drivers to be aware of the current traffic conditions and plan their route accordingly. All of these technological advances have helped to make transportation much more efficient and safe.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

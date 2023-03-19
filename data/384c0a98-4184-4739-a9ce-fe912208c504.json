@@ -1,0 +1,12 @@
+{
+  "id": "384c0a98-4184-4739-a9ce-fe912208c504",
+  "instruction": "Using the given code, make the 'dog' variable contain the value 'rabbit'.",
+  "input": "dog = \"cat\"",
+  "output": "dog = \"rabbit\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

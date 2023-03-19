@@ -1,0 +1,12 @@
+{
+  "id": "e91b1e66-bb27-4764-92b4-6ba95b7d1e94",
+  "instruction": "Construct a bridge made with sticks and string.",
+  "input": "Two sticks, each 3 feet long and a 9-foot string.",
+  "output": "Tie the two sticks together with the string at the midpoint, forming an \"X\" shape. Tie off the ends to the sticks about 1 foot below the apex of the \"X\". Now you have a structure that can be used to span a gap of about 2 1/2 feet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

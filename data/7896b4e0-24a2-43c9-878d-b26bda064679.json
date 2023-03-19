@@ -1,0 +1,12 @@
+{
+  "id": "7896b4e0-24a2-43c9-878d-b26bda064679",
+  "instruction": "Rewrite the given sentence using a variety of grammar, punctuation, and structure.",
+  "input": "The woman ran quickly.",
+  "output": "The woman was sprinting; no doubt, hastily! \n\nShe rushed quickly; swiftly she ran. \n\nWith alacrity, the woman hastened; she moved rapidly. \n\nThe lady galloped hastily - rapidly she moved. \n\nQuickly the lady sprinted-- nothing would slow her progress!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

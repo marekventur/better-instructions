@@ -1,0 +1,12 @@
+{
+  "id": "8409511b-911c-4c60-8f9e-e2db8d978bf5",
+  "instruction": "Rewrite this sentence to eliminate the passive voice.",
+  "input": "The proposal was accepted by the committee.",
+  "output": "The committee accepted the proposal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

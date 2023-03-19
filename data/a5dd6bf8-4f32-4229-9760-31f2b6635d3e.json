@@ -1,0 +1,12 @@
+{
+  "id": "a5dd6bf8-4f32-4229-9760-31f2b6635d3e",
+  "instruction": "Transfer the styling of this sentence to the following sentence",
+  "input": "The tiger is a powerful creature\nIt is also very majestic",
+  "output": "The tiger is a powerful creature, majestic in its grace.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

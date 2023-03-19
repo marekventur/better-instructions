@@ -1,0 +1,12 @@
+{
+  "id": "1ded022b-9c8d-43b7-be23-a53d3bfa1935",
+  "instruction": "Explain a procedure for given instructions.",
+  "input": "How to bake a cake.",
+  "output": "Baking a cake is a relatively simple process. First, preheat your oven to the recommended temperature for the item you\u2019re making. Next, gather all your ingredients, like eggs, sugar, butter, and any flavoring you\u2019ll need. In a large bowl, combine the ingredients following the directions of your recipe. Grease a cake pan and pour the batter into it. Bake it for the amount of time prescribed and test it to ensure it is done. After it's cooled for the recommended amount of time, frost the cake and serve.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

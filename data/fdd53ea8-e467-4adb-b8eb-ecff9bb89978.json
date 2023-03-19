@@ -1,0 +1,12 @@
+{
+  "id": "fdd53ea8-e467-4adb-b8eb-ecff9bb89978",
+  "instruction": "Given a description of an animal, identify what type of animal it is.",
+  "input": "This animal has a long, flexible neck and narrow, pointed bill. It has long legs and webbed feet, and it feeds mainly on fish.",
+  "output": "This animal is a heron.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

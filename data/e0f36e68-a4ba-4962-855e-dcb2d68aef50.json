@@ -1,0 +1,12 @@
+{
+  "id": "e0f36e68-a4ba-4962-855e-dcb2d68aef50",
+  "instruction": "Add an appropriate noun to the sentence in place of the <mask> token.",
+  "input": "We met at the coffee shop for a <mask> this morning.",
+  "output": "We met at the coffee shop for a chat this morning.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

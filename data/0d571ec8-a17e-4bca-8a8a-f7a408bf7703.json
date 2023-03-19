@@ -1,0 +1,12 @@
+{
+  "id": "0d571ec8-a17e-4bca-8a8a-f7a408bf7703",
+  "instruction": "Calculate the median of the following data set.",
+  "input": "1, 2, 4, 5, 8, 9",
+  "output": "5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

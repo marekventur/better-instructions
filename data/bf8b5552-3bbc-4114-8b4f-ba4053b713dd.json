@@ -1,0 +1,12 @@
+{
+  "id": "bf8b5552-3bbc-4114-8b4f-ba4053b713dd",
+  "instruction": "Identify which sentence is an example of a question.",
+  "input": "What is the capital of France?\nWhere do you live?",
+  "output": "What is the capital of France?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

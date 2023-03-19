@@ -1,0 +1,12 @@
+{
+  "id": "241114fc-d43d-4e2d-94de-92b27d5c0abd",
+  "instruction": "Translates the sentence from German to English.",
+  "input": "Er mag Musik h\u00f6ren.",
+  "output": "He likes to listen to music.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

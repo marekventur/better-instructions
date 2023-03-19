@@ -1,0 +1,12 @@
+{
+  "id": "3eb8bc18-af6c-4398-987e-937e6a363367",
+  "instruction": "Imagine you have an hour left until dinner is ready. Based on the ingredients provided, come up with a recipe for a 3-course dinner.",
+  "input": "Ingredients: carrots, potatoes, onions, red pepper, salmon, spinach, mushrooms, eggs.",
+  "output": "For the starter: Grilled Red Pepper and Onion Soup. \n\nFor the main course: Salmon and Potato Gratin with a Spinach and Mushroom side dish. \n\nFor the dessert: Carrot Cake with cream cheese frosting.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

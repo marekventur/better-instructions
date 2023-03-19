@@ -1,0 +1,12 @@
+{
+  "id": "cc2eeee7-f77d-4cee-aef9-a426d8a746fe",
+  "instruction": "Compile a list of five books about World War 2.",
+  "input": "",
+  "output": "1. All the Light We Cannot See by Anthony Doerr\n2. The Guns at Last Light by Rick Atkinson\n3. Unbroken by Laura Hillenbrand\n4. The Boy in the Striped Pajamas by John Boyne \n5. The Book Thief by Markus Zusak",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

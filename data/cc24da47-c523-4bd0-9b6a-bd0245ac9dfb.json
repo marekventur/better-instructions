@@ -1,0 +1,12 @@
+{
+  "id": "cc24da47-c523-4bd0-9b6a-bd0245ac9dfb",
+  "instruction": "Identify whether the following sentence is a assertion or a query. Output 1 for assertion, and 0 for query.",
+  "input": "I think this is a good idea",
+  "output": "1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2de9bcba-71a2-4eb3-b184-a72634388f0b",
+  "instruction": "Generate a list of recommendations to improve the given website.",
+  "input": "www.example.com",
+  "output": "Recommendations to Improve www.example.com:\n\n- Improve website speed by optimizing scripts and images\n- Enhance the user experience by simplifying navigation and layout \n- Improve mobile compatibility\n- Write compelling and SEO-friendly content\n- Leverage social media to promote the website\n- Update the website regularly\n- Integrate analytics to track user behavior\n- Increase the number of CTAs (call-to-actions)\n- Add more visuals, like videos and infographics\n- Add reviews/testimonials\n- Incorporate interactive elements",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

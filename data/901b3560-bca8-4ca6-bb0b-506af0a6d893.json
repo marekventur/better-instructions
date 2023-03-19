@@ -1,0 +1,12 @@
+{
+  "id": "901b3560-bca8-4ca6-bb0b-506af0a6d893",
+  "instruction": "Compare and contrast the two given cities with regards to the architecture.",
+  "input": "Paris, France and Rome, Italy",
+  "output": "Paris and Rome both have a rich architectural history, with iconic buildings and monuments that are renowned worldwide. However, Paris is known for its more classical style of architecture, often featuring grand columns and wide boulevards lined with elaborate facades. On the other hand, Rome is more renowned for its unique blend of Gothic, Renaissance, and Baroque styles, best exemplified by St. Peter\u2019s Basilica and the Pantheon.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

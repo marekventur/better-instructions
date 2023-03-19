@@ -1,0 +1,12 @@
+{
+  "id": "ecfaa6d6-2245-49e8-ae64-4ac4a2799e97",
+  "instruction": "Break down the following word into its root and prefix.",
+  "input": "Inaccessible",
+  "output": "Inaccessible is composed of the prefix \"in-\" meaning \"not\" and the root word \"accessible\" meaning \"able to be reached or approached\". Therefore, the word \"inaccessible\" means \"not able to be reached or approached\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

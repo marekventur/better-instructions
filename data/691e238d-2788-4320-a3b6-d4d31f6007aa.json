@@ -1,0 +1,12 @@
+{
+  "id": "691e238d-2788-4320-a3b6-d4d31f6007aa",
+  "instruction": "Given the word, list 3 synonyms.",
+  "input": "big",
+  "output": "large, vast, immense",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

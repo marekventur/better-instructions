@@ -1,0 +1,12 @@
+{
+  "id": "40e7213e-419f-4a74-a41e-c0b1be395c81",
+  "instruction": "Compose an email introducing yourself to your new team.",
+  "input": "",
+  "output": "Hello everyone,\n\nI am very excited to join the team! My name is [Name], and I am joining as the [Position]. I have over [#] years of [Experience] in the [Field], and am looking forward to making an impact on the team. \n\nI am passionate about [Value], and am committed to helping the team reach its goals. I love learning new things and I'm excited to dive in and get to work. \n\nIf anyone has any questions about me or my background, please don't hesitate to reach out. \n\nI'm looking forward to getting to know you all!\n\nSincerely,\n[Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

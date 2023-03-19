@@ -1,0 +1,12 @@
+{
+  "id": "8d2bb074-7731-4383-8635-405930b5034c",
+  "instruction": "For the given input, create a mathematical expression that evaluates to \"true\".",
+  "input": "x = 5, y = 4",
+  "output": "5 + 4 > 9",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

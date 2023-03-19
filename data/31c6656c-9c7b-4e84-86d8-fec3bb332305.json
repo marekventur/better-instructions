@@ -1,0 +1,12 @@
+{
+  "id": "31c6656c-9c7b-4e84-86d8-fec3bb332305",
+  "instruction": "Generate a story starting with this sentence.",
+  "input": "Once upon a time, there was a small village nestled deep in a forest.",
+  "output": "Once upon a time, there was a small village nestled deep in a forest. The villagers had lived in peace for centuries, as the surrounding trees shielded them from any potential harm. But one day, misfortune struck the quiet town when a powerful storm brought along a nasty gale, tearing away the protective branches of the forest and flooding the village with a dreaded darkness. As the villagers were trying to get back on their feet, they were thrown yet another challenge: the despot of a nearby kingdom had come to claim their land. As the terror of his tyranny spread across the land, the village rallied together and chose a champion to face the despot in a duel. Despite the odds, the champion emerged victorious and the despot was forced to turn away in retreat. The bellowing cheers of joy in the village signaled the end of the darkness and new hope for a brighter future.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

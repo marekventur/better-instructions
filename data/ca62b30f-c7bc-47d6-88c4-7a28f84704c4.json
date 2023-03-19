@@ -1,0 +1,12 @@
+{
+  "id": "ca62b30f-c7bc-47d6-88c4-7a28f84704c4",
+  "instruction": "Create a recipe for a vegan sandwich.",
+  "input": "",
+  "output": "Ingredients: \n- 2 slices bread of your choice \n- 2 tablespoons vegan mayonnaise \n- 2 tablespoons vegan pesto \n- 1 sliced avocado \n- \u00bd cup alfalfa sprouts \n- 1 sliced tomato \n- \u00bc cup roasted red pepper \n- \u00bd teaspoon garlic powder \n\nInstructions: \n1. Toast the bread according to package instructions. \n2. Spread the mayonnaise and pesto onto the slices of bread. \n3. Top one of the slices with the avocado, alfalfa sprouts, tomato, and red pepper. \n4. Sprinkle garlic powder over the vegetables. \n5. Place the other slice of bread over the vegetables and lightly press. \n6. Cut sandwich in two and enjoy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

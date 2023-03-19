@@ -1,0 +1,12 @@
+{
+  "id": "e00202d1-6a49-4c77-8f96-71171a99d2fd",
+  "instruction": "Given a customer feedback, detect any sentiment words and explain what sentiment they convey.",
+  "input": "\"This product was beautiful, I'm so glad I bought it!\"",
+  "output": "The sentiment words in the customer feedback are \"beautiful\" and \"glad\". These words convey a positive sentiment, as the customer expresses satisfaction with the product. The customer is conveying their happiness with the product, indicating that they are content with their purchase.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

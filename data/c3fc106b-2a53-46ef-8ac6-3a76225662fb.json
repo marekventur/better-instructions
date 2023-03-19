@@ -1,0 +1,12 @@
+{
+  "id": "c3fc106b-2a53-46ef-8ac6-3a76225662fb",
+  "instruction": "From the given movie reviews, identify the genre of the movie.",
+  "input": "This movie is full of suspense and surprises at every turn.",
+  "output": "Thriller",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

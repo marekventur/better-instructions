@@ -1,0 +1,12 @@
+{
+  "id": "782ff441-f897-4b8b-a425-258b8e1d525a",
+  "instruction": "Generate a datamap for this sentence, summarizing the key information in it.",
+  "input": "He went to the store to buy apples and bananas, but they were out of oranges.",
+  "output": "He - to the store - buy apples, bananas - no oranges.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

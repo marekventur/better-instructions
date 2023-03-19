@@ -1,0 +1,12 @@
+{
+  "id": "f41e5dbb-28bb-48b7-9ba3-721ce83434df",
+  "instruction": "Identify the library required to execute the code snippet.",
+  "input": "import re",
+  "output": "re (The Python Standard Library)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

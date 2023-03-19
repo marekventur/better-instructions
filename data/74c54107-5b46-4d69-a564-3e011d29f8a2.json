@@ -1,0 +1,12 @@
+{
+  "id": "74c54107-5b46-4d69-a564-3e011d29f8a2",
+  "instruction": "Edit the given text to remove grammatical errors without changing the meaning.",
+  "input": "Joey enjoys to drink coffee in the morning.",
+  "output": "Joey enjoys drinking coffee in the morning.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

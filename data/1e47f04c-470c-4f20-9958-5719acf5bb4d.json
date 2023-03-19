@@ -1,0 +1,12 @@
+{
+  "id": "1e47f04c-470c-4f20-9958-5719acf5bb4d",
+  "instruction": "Construct a chart that compares the advantages and disadvantages of online vs. traditional higher education.",
+  "input": "",
+  "output": "Advantages                       Disadvantages\nOnline Education                Limited interaction with professors and \n                               classmates\n                               \nConvenience and flexibility     Reduced support services\n                               \nLower cost                      Technology needs and access issues\n                               \nWide variety of course options   Limited laboratory experiences \n \nCan work around personal schedule",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

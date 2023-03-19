@@ -1,0 +1,12 @@
+{
+  "id": "aab5fa72-2657-425f-becc-2d719c43fea1",
+  "instruction": "Detect if the text is an advertisement.",
+  "input": "This is the best laptop ever! Check us out for the latest products and discounts.",
+  "output": "Yes",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

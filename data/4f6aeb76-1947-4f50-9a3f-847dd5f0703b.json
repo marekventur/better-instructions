@@ -1,0 +1,12 @@
+{
+  "id": "4f6aeb76-1947-4f50-9a3f-847dd5f0703b",
+  "instruction": "Construct a GPT model capable of completing the addition and subtraction of two numbers.",
+  "input": "Example: 8 - 4",
+  "output": "4",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

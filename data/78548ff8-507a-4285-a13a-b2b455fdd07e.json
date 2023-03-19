@@ -1,0 +1,12 @@
+{
+  "id": "78548ff8-507a-4285-a13a-b2b455fdd07e",
+  "instruction": "Create a spreadsheet using MS Excel to track inventory for a retail store.",
+  "input": "",
+  "output": "A spreadsheet is created using MS Excel to track inventory for a retail store. The contents of the spreadsheet consists of columns for inventory item, item description, item quantity, and item type. The spreadsheet also includes a row for each inventory item, and allows the user to easily fill out information for each item, such as item description, item quantity, and item type. Furthermore, the spreadsheet includes a formula to calculate the total value of the items in inventory, which is useful for tracking the store\u2019s financial performance.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

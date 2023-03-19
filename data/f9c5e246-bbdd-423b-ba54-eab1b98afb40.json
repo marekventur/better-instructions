@@ -1,0 +1,12 @@
+{
+  "id": "f9c5e246-bbdd-423b-ba54-eab1b98afb40",
+  "instruction": "Write a persuasive open letter.",
+  "input": "To: The CEO of a major oil corporation",
+  "output": "Dear CEO, \n\nI am writing to express my concern about the devastating effects of your corporation's oil production on our environment. From the rising sea levels to the massive increase in carbon emissions, it's clear that our planet is quickly deteriorating due to the vast amounts of oil you're producing. \n\nI strongly urge you and your company to shift focus and invest in cleaner, renewable sources of energy like wind and solar. Not only will this action be beneficial to the environment and generations to come, but it will also serve to improve the standing of your company in the public eye.  \n\nI understand a shift towards renewable energy requires a major investment, but the costs of inaction are far greater. Please take this opportunity to make a positive impact on the world, and ensure a healthier future for all.\n\nSincerely, \n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0069210c-a3a7-4d76-847f-5b410c79f54f",
+  "instruction": "Explain what static analysis is.",
+  "input": "",
+  "output": "Static analysis is a type of software testing that involves examining the source code of a program without running the program. It typically involves examining all of the symbols, names, and tokens in the code in order to look for errors and vulnerabilities that could be exploited by an attacker. Static analysis can be used to identify common mistakes, such as use of incorrect variable names, unsafe APIs, and insecure interaction with other programs. It can also be used to detect malicious code, such as backdoors or time bombs, that may be hidden in the source code.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

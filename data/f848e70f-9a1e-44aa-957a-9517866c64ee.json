@@ -1,0 +1,12 @@
+{
+  "id": "f848e70f-9a1e-44aa-957a-9517866c64ee",
+  "instruction": "Classify the following passage as either informative or persuasive",
+  "input": "The government has implemented new restrictions in order to contain the spread of the virus.",
+  "output": "Informative.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

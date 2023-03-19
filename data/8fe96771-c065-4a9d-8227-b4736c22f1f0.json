@@ -1,0 +1,12 @@
+{
+  "id": "8fe96771-c065-4a9d-8227-b4736c22f1f0",
+  "instruction": "Create a dinner menu that includes entr\u00e9e, side dish and dessert options for the following cuisine.",
+  "input": "Thai",
+  "output": "Entr\u00e9e: \n- Massaman Curry\n- Phat Thai\n- Tom Kha Gai Soup \n\nSide Dish: \n- Som Tum (Green Papaya Salad)\n- Khao Niaow Ma Muang (Sticky Rice with Mango)\n- Khanom Chin (Thai Rice Noodles) \n\nDessert: \n- Khao Niew Ma Muang (Mango Sticky Rice)\n- Khanom Thuay (Coconut Custard)\n- Kluay Kaek (Banana Fritters)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

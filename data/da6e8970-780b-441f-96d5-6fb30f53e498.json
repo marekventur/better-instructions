@@ -1,0 +1,12 @@
+{
+  "id": "da6e8970-780b-441f-96d5-6fb30f53e498",
+  "instruction": "Predict the sentiment of this sentence: \"This movie was a huge disappointment.\"",
+  "input": "",
+  "output": "This sentence has a negative sentiment. It conveys that the movie was not enjoyable and was a let-down for the audience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

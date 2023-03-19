@@ -1,0 +1,12 @@
+{
+  "id": "adef40b1-61e6-4c72-a472-9179ecdc1eef",
+  "instruction": "Given the input, generate an appropriate title for the photo.",
+  "input": "Image of two people on a beach watching the sunset",
+  "output": "A Moment of Reflection",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

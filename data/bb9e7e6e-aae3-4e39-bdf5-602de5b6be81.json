@@ -1,0 +1,12 @@
+{
+  "id": "bb9e7e6e-aae3-4e39-bdf5-602de5b6be81",
+  "instruction": "From the following list, select the items which are examples of unstructured data.",
+  "input": "images, audio clips, tweets, spreadsheets",
+  "output": "images, audio clips, tweets.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

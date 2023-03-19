@@ -1,0 +1,12 @@
+{
+  "id": "234ed157-8109-4aa5-8ce2-49e4614c469e",
+  "instruction": "Explain the differences between statistical and machine learning algorithms.",
+  "input": "",
+  "output": "Statistical algorithms are mainly used for analyzing a large amount of data and discovering patterns in the data. Machine learning algorithms are used to identify complex relationships in the data and make predictions based on the identified patterns. Statistical algorithms are mainly used to describe data while machine learning algorithms are mainly used to make predictions or decisions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

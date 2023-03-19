@@ -1,0 +1,12 @@
+{
+  "id": "e86c7acf-c2d2-465d-b933-1eb7824238ee",
+  "instruction": "Categorize the item as belonging to a particular group.",
+  "input": "A ship",
+  "output": "Water transportation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

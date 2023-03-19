@@ -1,0 +1,12 @@
+{
+  "id": "35075b1a-26f0-4048-998a-037df4df9a40",
+  "instruction": "Improve the following sentence by removing redundancy, splitting it up into two sentences, and adding a transition.",
+  "input": "She wanted to stay updated with the news and therefore she set Google alerts.",
+  "output": "She wanted to stay updated with the news. Therefore, she set up Google alerts.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

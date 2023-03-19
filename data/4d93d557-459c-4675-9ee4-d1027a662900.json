@@ -1,0 +1,12 @@
+{
+  "id": "4d93d557-459c-4675-9ee4-d1027a662900",
+  "instruction": "Generate a list of resources that might be helpful to someone who is learning to code.",
+  "input": "",
+  "output": "- Online tutorials like Codecademy, Udemy, and Coursera\n- Informative books like Code Complete and The Pragmatic Programmer\n- Resources from programming language communities such as StackOverflow and Reddit\n- Videos from YouTube and other streaming sites\n- Free coding boot camps\n- Mentorships and internships\n- Local coding Meetup groups",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

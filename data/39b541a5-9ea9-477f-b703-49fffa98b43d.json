@@ -1,0 +1,12 @@
+{
+  "id": "39b541a5-9ea9-477f-b703-49fffa98b43d",
+  "instruction": "Combine these two sentences so that the sentence is grammatically correct.",
+  "input": "Cats can see in the dark. They have excellent night vision.",
+  "output": "Cats have excellent night vision and can see in the dark.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

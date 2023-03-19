@@ -1,0 +1,12 @@
+{
+  "id": "292ece45-31e4-44f1-9376-621389eeb2ac",
+  "instruction": "Identify the celebrity mentioned in this Reddit thread.",
+  "input": "u/Uverworlds:\n\nWhat do you think about actor John Travolta's latest movie \"The Fanatic\"?\n\nu/mazzakazza:\n\nI loved it! He's a great actor and he definitely gave a great performance.",
+  "output": "John Travolta.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

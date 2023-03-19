@@ -1,0 +1,12 @@
+{
+  "id": "3ebf7c67-0c1b-4095-85a2-678471c1dce1",
+  "instruction": "Write a thank you note to your friend after they sent you a gift.",
+  "input": "Gift: a kind and thoughtful card with heartfelt words",
+  "output": "Dear Friend,\n\nThank you so much for the wonderful and kind card you sent me. Your thoughtful words warmed my heart and made me feel so appreciated. I really appreciate the time and effort you put into writing the card and sending it to me. It definitely put a smile on my face and made my day.\n\nThank you for thinking of me and showing your support.\n\nSincerely,\n(Name)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

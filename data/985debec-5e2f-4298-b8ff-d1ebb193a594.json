@@ -1,0 +1,12 @@
+{
+  "id": "985debec-5e2f-4298-b8ff-d1ebb193a594",
+  "instruction": "Come up with 10 ideas for 'X'.",
+  "input": "X: A blog on technology",
+  "output": "1. AI and Machine Learning \u2013 their history, applications, and implications\n2. The Internet of Things \u2013 connecting the world through technology\n3. Cyber Security \u2013 best practices for keeping data safe\n4. Designing Human-Computer Interactions \u2013 creating friendly user experiences \n5. Automation and Robotics \u2013 creating smarter factories and workplaces\n6. Programing Languages \u2013 an overview of the most popular options \n7. Cloud Computing \u2013 understanding the basics\n8. Overview of the latest gadgets and features\n9. Exploring the world of virtual reality\n10. Innovative use of technology in healthcare, education and more.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

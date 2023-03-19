@@ -1,0 +1,12 @@
+{
+  "id": "c4a7d97c-cfde-449c-a4b5-6b751ddfa24d",
+  "instruction": "Delete any words from the sentence \"The exhibition was shocked by the audience's loud applause\" that are redundant.",
+  "input": "",
+  "output": "The exhibition was shocked by applause.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

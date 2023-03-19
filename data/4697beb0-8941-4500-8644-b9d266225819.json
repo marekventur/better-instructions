@@ -1,0 +1,12 @@
+{
+  "id": "4697beb0-8941-4500-8644-b9d266225819",
+  "instruction": "Create a sorting algorithm for a given set of numbers.",
+  "input": "[6, 2, 8, 3, 1, 2]",
+  "output": "def sort(nums):\n    for i in range(len(nums)-1):\n        min_index = i\n        for j in range(i+1, len(nums)):\n            if nums[min_index] > nums[j]:\n                min_index = j\n        nums[i], nums[min_index] = nums[min_index], nums[i]\n    return nums",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

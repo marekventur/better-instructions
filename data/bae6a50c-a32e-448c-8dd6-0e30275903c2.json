@@ -1,0 +1,12 @@
+{
+  "id": "bae6a50c-a32e-448c-8dd6-0e30275903c2",
+  "instruction": "Given a sentence, classify it whether it is in a friendly tone or not. You should respond with \"Friendly\" or \"Unfriendly\".",
+  "input": "It's great that you're so committed to this project!",
+  "output": "Friendly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

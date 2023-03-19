@@ -1,0 +1,12 @@
+{
+  "id": "9107eb30-65d3-4f0b-a9d2-841569ea72c9",
+  "instruction": "Write a response to a customer who is complaining about the wrong delivery.",
+  "input": "We received a wrong delivery and need the correct item ASAP.",
+  "output": "I am sorry for the inconvenience caused. We will immediately look into the problem and arrange the correct item for delivery to you as soon as possible. We apologize for the delay and inconvenience and apologize for any inconvenience caused. We will make sure to rectify the issue as soon as possible. Please accept our sincere apologies.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

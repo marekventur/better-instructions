@@ -1,0 +1,12 @@
+{
+  "id": "fd2aaba6-6c25-4215-8063-8858a875d683",
+  "instruction": "Identify the type of data contained in the input field. Output should be one of the following types: numerical, categorical, text.",
+  "input": "Fern",
+  "output": "Text",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

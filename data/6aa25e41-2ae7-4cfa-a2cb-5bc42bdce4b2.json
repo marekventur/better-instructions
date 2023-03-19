@@ -1,0 +1,12 @@
+{
+  "id": "6aa25e41-2ae7-4cfa-a2cb-5bc42bdce4b2",
+  "instruction": "Analyze this sentence: She didn't shop because she was too tired",
+  "input": "\u201cShe didn't shop because she was too tired.\u201d",
+  "output": "This sentence is expressing an opinion that the woman is too tired to shop. It implies that she may have wanted to shop, but that she didn't have the energy due to her being tired.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

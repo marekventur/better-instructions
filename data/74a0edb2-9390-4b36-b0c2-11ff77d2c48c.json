@@ -1,0 +1,12 @@
+{
+  "id": "74a0edb2-9390-4b36-b0c2-11ff77d2c48c",
+  "instruction": "Use the given word to fill in the blank in the sentence.",
+  "input": "Word: scintillating\n\nShe was giving a _________ speech that everyone enjoyed.",
+  "output": "She was giving a scintillating speech that everyone enjoyed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

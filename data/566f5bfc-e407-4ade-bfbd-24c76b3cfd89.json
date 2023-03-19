@@ -1,0 +1,12 @@
+{
+  "id": "566f5bfc-e407-4ade-bfbd-24c76b3cfd89",
+  "instruction": "Detect any bias in the following statement and explain.",
+  "input": "Women are more suited for a desk job than a manual labor job.",
+  "output": "This statement is biased against women, as it implies that manual labor is not something that women are capable or should aspire to. This suggests that there is an inherent gender quality that is preventing women from performing such jobs, which is not true.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

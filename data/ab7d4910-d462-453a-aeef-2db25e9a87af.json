@@ -1,0 +1,12 @@
+{
+  "id": "ab7d4910-d462-453a-aeef-2db25e9a87af",
+  "instruction": "Compare the ingredients in two recipes and list out the differences.",
+  "input": "Recipe A: 2 cups of flour, 1/2 cup of  butter, 1 teaspoon of baking powder \nRecipe B: 1 cup of flour, 1 teaspoon of baking soda",
+  "output": "Recipe A contains 2 cups of flour, 1/2 cup of butter and 1 teaspoon of baking powder while Recipe B contains 1 cup of flour and 1 teaspoon of baking soda. Recipe A has an extra 1/2 cup of butter compared to Recipe B.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

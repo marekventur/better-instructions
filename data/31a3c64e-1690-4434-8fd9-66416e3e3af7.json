@@ -1,0 +1,12 @@
+{
+  "id": "31a3c64e-1690-4434-8fd9-66416e3e3af7",
+  "instruction": "Suggest a data visualization technique to visualize the given dataset.",
+  "input": "[Dataset containing the sales of a product in each month for the past year]",
+  "output": "A line chart would be a suitable data visualization technique to visualize the given dataset. A line chart allows visualizing the trend of the data points over a period of time which is ideal for visualizing sales data. The line chart clearly demonstrates the sales trend over the months, including any sudden spikes or drops in the sales.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

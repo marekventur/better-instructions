@@ -1,0 +1,12 @@
+{
+  "id": "7a13ac9e-7bbf-493c-a1e6-88d5268b8c35",
+  "instruction": "Analyze the data in the following table and suggest a business strategy.",
+  "input": "+-------+-----+-----------+\n| Sales | Qty |   Date    |\n+-------+-----+-----------+\n|   5   |  10 | 2020-1-1  |\n|   5   |  20 | 2020-1-2  |\n|   5   |  30 | 2020-1-3  |\n|   5   |  70 | 2020-1-4  |\n|   5   |  90 | 2020-1-5  |\n+-------+-----+-----------+",
+  "output": "The data suggests that the quantity of sales has been increasing significantly every day, which might indicate that the demand for the product is growing. Therefore, it would be beneficial to devise a strategy targeting the increased customer base in order to maximize sales. This could include discounts, promotions, or additional marketing campaigns.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

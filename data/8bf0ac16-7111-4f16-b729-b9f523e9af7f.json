@@ -1,0 +1,12 @@
+{
+  "id": "8bf0ac16-7111-4f16-b729-b9f523e9af7f",
+  "instruction": "Find the sentence in the text which describes the protagonist.",
+  "input": "Text: \nJohn was a young man in his twenties. He had just finished college and was looking for a job. He had big dreams and ambitions and was determined to make them come true.",
+  "output": "The sentence that describes the protagonist is \"John was a young man in his twenties.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

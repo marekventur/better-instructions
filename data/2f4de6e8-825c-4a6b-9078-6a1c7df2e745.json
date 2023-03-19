@@ -1,0 +1,12 @@
+{
+  "id": "2f4de6e8-825c-4a6b-9078-6a1c7df2e745",
+  "instruction": "Organize this list of groceries",
+  "input": "Carrots, apples, broccoli, potatoes, eggs",
+  "output": "Vegetables: Carrots, Broccoli, Potatoes\nFruits: Apples\nEggs: Eggs",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

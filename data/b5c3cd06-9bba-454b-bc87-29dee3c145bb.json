@@ -1,0 +1,12 @@
+{
+  "id": "b5c3cd06-9bba-454b-bc87-29dee3c145bb",
+  "instruction": "What is the purpose of the producer-consumer pattern in computer science?",
+  "input": "",
+  "output": "The producer-consumer pattern is a computer science technique used to make an efficient workflow between multiple threads. It enables producers to produce an item and give it to the consumer, who in turn processes the item. This pattern helps achieve concurrency and scalability, as it allows more producers and consumers to work on the same problem concurrently. It also helps to prevent the producer from having to wait for the consumer to finish processing an item before producing another, as the consumer can work in the background.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

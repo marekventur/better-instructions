@@ -1,0 +1,12 @@
+{
+  "id": "a99c8db6-c69a-4c5c-96e2-4349bdbb6e5d",
+  "instruction": "Describe the main character in this book.",
+  "input": "Book: To Kill a Mockingbird by Harper Lee",
+  "output": "The protagonist of 'To Kill a Mockingbird' is Atticus Finch, a lawyer in the small town of Maycomb, Alabama. Atticus is a wise and noble man, and he is held in high esteem in his community. He is an advocate for justice and morality, and a defender of the accused. He is also a loving father who is firm but fair with his two children, Jem and Scout.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "eabed9a3-149d-4d12-86de-f8cc04124fa6",
+  "instruction": "Design a 10-question survey related to online shopping",
+  "input": "",
+  "output": "1. How often do you shop online?\n2. What is the typical amount you spend on an online purchase?\n3. What type of items do you typically buy online?\n4. What payment method do you prefer when making an online purchase?\n5. How satisfied are you with the selection of products available online?\n6. How likely are you to recommend an online store to a friend?\n7. How satisfied are you with the user experience of online stores?\n8. Are there any features or changes you would like to see in online stores?\n9. Do you prefer physical stores or online stores?\n10. What is one thing you dislike the most about online shopping?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

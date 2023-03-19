@@ -1,0 +1,12 @@
+{
+  "id": "11aa1db7-667b-4cca-a5f2-44d7f2a789f8",
+  "instruction": "Given an animal, identify its diet.",
+  "input": "Grizzly bear",
+  "output": "The grizzly bear is an omnivore and primary diet consists of fish, fruits, nuts, roots, and small mammals. They will also scavenge on carrion, and eat large mammals such as moose, deer, and caribou.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

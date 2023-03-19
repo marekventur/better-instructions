@@ -1,0 +1,12 @@
+{
+  "id": "02b390e3-90bf-4aeb-a546-5e743520d423",
+  "instruction": "Pick a color from the given list and write its hex code.",
+  "input": "Blue, Yellow, Purple",
+  "output": "Blue - #0000FF",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

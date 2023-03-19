@@ -1,0 +1,12 @@
+{
+  "id": "09bf0dd2-f727-45a3-9964-6daf40246f3f",
+  "instruction": "Classify this sentence as a statement, question, command, or exclamation?",
+  "input": "What is the capital of California?",
+  "output": "This sentence is a question.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

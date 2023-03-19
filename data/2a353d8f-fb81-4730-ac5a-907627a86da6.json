@@ -1,0 +1,12 @@
+{
+  "id": "2a353d8f-fb81-4730-ac5a-907627a86da6",
+  "instruction": "Convert the following equation into a word problem.",
+  "input": "2x + 3 = 7",
+  "output": "There are two items. The combined total is 7. How much is each item? \nThe first item is 2x and the second item is 3. Therefore, 2x = 4 and 3 = 3.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

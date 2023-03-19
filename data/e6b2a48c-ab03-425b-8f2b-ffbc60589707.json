@@ -1,0 +1,12 @@
+{
+  "id": "e6b2a48c-ab03-425b-8f2b-ffbc60589707",
+  "instruction": "Edit the given sample budget.",
+  "input": "Income: $3000\n\nExpenses: \n- Rent: $1000\n- Utilities: $200 \n- Groceries: $200\n- Gas: $100",
+  "output": "Income: $3000 \n\nExpenses: \n- Rent: $1000 \n- Utilities: $200 \n- Groceries: $250 \n- Gas: $150 \n- Entertainment: $100 \n- Savings: $200",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

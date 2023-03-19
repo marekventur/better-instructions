@@ -1,0 +1,12 @@
+{
+  "id": "28262c7d-9033-486d-b4e0-6249f0a5b077",
+  "instruction": "Classify a set of data as valid or invalid.",
+  "input": "Apple, Amazon, Google",
+  "output": "Valid.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "59ece98c-0eee-4163-9672-c66c190db63c",
+  "instruction": "Fix the scrambled words and give the correct order.",
+  "input": "hital hsecp",
+  "output": "Healthspa -> Spa Health",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

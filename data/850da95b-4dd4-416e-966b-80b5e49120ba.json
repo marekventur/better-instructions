@@ -1,0 +1,12 @@
+{
+  "id": "850da95b-4dd4-416e-966b-80b5e49120ba",
+  "instruction": "Find the words that are used more frequently in this passage.",
+  "input": "I love to go to the beach, especially in the summertime. That's when I can feel the sun beaming down on my face and the breeze cooling me off. I make sand castles, search for shells, and do my best to catch a wave on my surfboard.",
+  "output": "beach, summertime, sun, breeze, sand castles, shells, surfboard.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

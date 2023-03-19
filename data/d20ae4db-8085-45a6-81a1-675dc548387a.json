@@ -1,0 +1,12 @@
+{
+  "id": "d20ae4db-8085-45a6-81a1-675dc548387a",
+  "instruction": "Explain why the Pythagorean Theorem works.",
+  "input": "",
+  "output": "The Pythagorean Theorem states that in a right triangle, the sum of the squares of the two shorter sides is equal to the square of the hypotenuse (longest side). This can be explained mathematically by considering a right triangle in which the two shorter sides are represented by x and y and the longest side is represented by z. When the squares of these three sides are calculated and added together, the result is x2 + y2 = z2, which is the Pythagorean Theorem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

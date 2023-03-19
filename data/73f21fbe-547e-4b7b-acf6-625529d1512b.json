@@ -1,0 +1,12 @@
+{
+  "id": "73f21fbe-547e-4b7b-acf6-625529d1512b",
+  "instruction": "Generate a dialogue in which the two characters are expressing contrasting opinions.",
+  "input": "Bob:",
+  "output": "Bob: \"I think that the new policy will be beneficial for the company.\"\n\nAlice: \"I disagree. I think that the new policy will cause more harm than good.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

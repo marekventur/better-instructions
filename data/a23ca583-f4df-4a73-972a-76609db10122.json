@@ -1,0 +1,12 @@
+{
+  "id": "a23ca583-f4df-4a73-972a-76609db10122",
+  "instruction": "Explain the difference between an operating system and an application.",
+  "input": "",
+  "output": "An operating system (OS) is a collection of software that manages the hardware and software resources of a computer. It provides an interface between the user and the computer hardware and is responsible for memory management, task scheduling, file system management, user authentication and more. An application, on the other hand, is a specific piece of software that performs a specific task. It requires the operating system to run and operate, but it is distinct in that it is designed to fulfill a single purpose or solve a particular problem. Examples of applications include word processors, graphics software, web browsers and communication tools.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

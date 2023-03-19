@@ -1,0 +1,12 @@
+{
+  "id": "c53ce116-5494-4f8c-a86f-23c1e1343ec9",
+  "instruction": "What is the probability of rolling a total of 13 when rolling two dice?",
+  "input": "",
+  "output": "The probability of rolling a total of 13 when rolling two dice is 2/36 or 1/18. This is because there are two possible combinations that will produce a total of 13 when rolling two dice - 6 and 7, and 5 and 8. To calculate the probability, divide the number of possible combinations (2) by the total number of combinations (36). Thus, the probability of rolling a total of 13 when rolling two dice is 2/36 or 1/18.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

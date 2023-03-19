@@ -1,0 +1,12 @@
+{
+  "id": "00b94431-5c40-4eef-aa9e-2a96b54ec636",
+  "instruction": "Explain a new invention that could be used to solve the issue mentioned in the input.",
+  "input": "The issue is that many elderly people living alone in rural areas lack access to reliable health care due to their location.",
+  "output": "A possible solution to this issue is an automated monitoring system that remotely tracks vital health indicators such as heart rate, blood pressure, and oxygen saturation. The system could be equipped with sensors that measure and transmit this data to healthcare professionals, allowing them to access and monitor the health of elderly patients in remote locations. The system could also be programmed to alert emergency services if any vitals fall outside the safe ranges.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

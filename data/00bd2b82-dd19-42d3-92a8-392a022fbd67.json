@@ -1,0 +1,12 @@
+{
+  "id": "00bd2b82-dd19-42d3-92a8-392a022fbd67",
+  "instruction": "Generate a cleaning schedule for an office.",
+  "input": "",
+  "output": "- Clean desktops, keyboards, and mouse every morning.\n- Vacuum carpets three times a week.\n- Dust surfaces often.\n- Mop floors once a week.\n- Empty trash bins daily.\n- Clean windows twice a month.\n- Clean bathrooms weekly.\n- Replenish soap, toilet paper, and hand towels daily.\n- Organize store rooms and conference rooms monthly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

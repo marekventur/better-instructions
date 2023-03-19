@@ -1,0 +1,12 @@
+{
+  "id": "0ce3ff85-691f-4a1b-8024-8c5129b51672",
+  "instruction": "Construct a SQL statement that selects the name, ID, and address from a table called \"people\"",
+  "input": "",
+  "output": "SELECT Name, ID, Address FROM People;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

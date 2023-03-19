@@ -1,0 +1,12 @@
+{
+  "id": "f0e03ef0-ed71-4489-b6c5-e398e8a87263",
+  "instruction": "Given a song name, provide its genre.",
+  "input": "Uptown Funk",
+  "output": "Uptown Funk is a Funk, Pop and Soul song by Mark Ronson ft. Bruno Mars.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

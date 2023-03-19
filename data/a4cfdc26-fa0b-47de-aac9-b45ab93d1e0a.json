@@ -1,0 +1,12 @@
+{
+  "id": "a4cfdc26-fa0b-47de-aac9-b45ab93d1e0a",
+  "instruction": "For the following movie, what is the main moral value?",
+  "input": "Movie: The Princess Bride",
+  "output": "The main moral value of The Princess Bride is loyalty.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

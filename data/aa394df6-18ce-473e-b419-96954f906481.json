@@ -1,0 +1,12 @@
+{
+  "id": "aa394df6-18ce-473e-b419-96954f906481",
+  "instruction": "Identify the point of view of the given passage.",
+  "input": "The mountains loomed majestically above me, the trees swaying in the wind like a lullaby.",
+  "output": "The point of view of the passage is first-person.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

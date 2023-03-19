@@ -1,0 +1,12 @@
+{
+  "id": "2f08749c-a8f0-46f5-91e4-68deb795161d",
+  "instruction": "Create a one-by-one matrix.",
+  "input": "1,2,3",
+  "output": "A one-by-one matrix can be created with the following elements:\n\n[1]\n[2]\n[3]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

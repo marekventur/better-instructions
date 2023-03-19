@@ -1,0 +1,12 @@
+{
+  "id": "59663359-2b5b-4ea2-a586-6adbe9c42af5",
+  "instruction": "Identify which of the options is the main argument of the passage.",
+  "input": "In recent years, the use of artificial intelligence has become increasingly widespread. AI is being used to automate processes, to increase efficiency, and to ramp up innovation across many industries. \n\nA) AI is rapidly becoming an essential part of the digital economy\nB) AI is helping to drive the growth of digital businesses\nC) AI is creating new opportunities for businesses in digital spaces\nD) AI is becoming essential for the digitalization of business processes",
+  "output": "A) AI is rapidly becoming an essential part of the digital economy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

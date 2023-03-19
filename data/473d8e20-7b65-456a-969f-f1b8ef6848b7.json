@@ -1,0 +1,12 @@
+{
+  "id": "473d8e20-7b65-456a-969f-f1b8ef6848b7",
+  "instruction": "Generate an answer to the following math problem. Output the numerical answer.",
+  "input": "What is the area of a square with a side length of 6 meters?",
+  "output": "36 square meters",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

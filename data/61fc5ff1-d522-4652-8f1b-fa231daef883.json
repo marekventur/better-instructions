@@ -1,0 +1,12 @@
+{
+  "id": "61fc5ff1-d522-4652-8f1b-fa231daef883",
+  "instruction": "If a bank was introducing a new savings account, come up with guidelines for the account.",
+  "input": "",
+  "output": "The XYZ Bank savings account is designed to help customers build their savings with the benefit of earning interest. Eligibility requirements are outlined below: \n\n- The minimum age for account holders is 18. \n- A valid U.S. Government-issued photo identification is required for account set-up. \n- There is no minimum deposit required to open an account. \n- Interest is compounded daily and credited to the account on the last day of each month. \n- Customers must maintain a minimum balance of $1000 to avoid a maintenance fee. \n- Withdrawals are allowed up to a limit of six per month, with a fee of $5 for each additional withdrawal. \n- Account holders can close their account at any time and all interest earned to that point will be credited to their account. \n- Only one account holder per account is allowed. \n- XYZ Bank reserves the right to change the terms and conditions of the savings account at any time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a1b2753f-ed7a-4c38-9fa1-016b41298077",
+  "instruction": "Generate a line of code that sets two variables equal to one another.",
+  "input": "Let x = 3",
+  "output": "x = 3; \nlet y = x;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

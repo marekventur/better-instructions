@@ -1,0 +1,12 @@
+{
+  "id": "9a8df4e2-8a92-4e9f-9469-dd1140a60272",
+  "instruction": "Replace the given verb with its gerund.",
+  "input": "She likes to swim",
+  "output": "She likes swimming.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

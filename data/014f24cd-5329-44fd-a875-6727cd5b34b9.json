@@ -1,0 +1,12 @@
+{
+  "id": "014f24cd-5329-44fd-a875-6727cd5b34b9",
+  "instruction": "Develop a solution to monitor employee attendance.",
+  "input": "The company has 500 employees spread across 10 different cities.",
+  "output": "The proposed solution would be to develop a centralized cloud-based system to monitor employee attendance. The system should track and store the time-in and time-out data for all 500 employees and store the information in a secure cloud database. The system should also have the capability to generate reports about employee attendance and productivity, as well as send automated notification to HR if an employee is late or absent.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

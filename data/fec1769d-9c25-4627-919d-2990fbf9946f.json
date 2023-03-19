@@ -1,0 +1,12 @@
+{
+  "id": "fec1769d-9c25-4627-919d-2990fbf9946f",
+  "instruction": "Rank these three states in order of population size.",
+  "input": "Texas, California, New York",
+  "output": "1. California\n2. Texas\n3. New York",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

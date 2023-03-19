@@ -1,0 +1,12 @@
+{
+  "id": "116ea3c2-6209-40b4-9f02-bc73bf94536d",
+  "instruction": "Design a website layout for a movie review blog.",
+  "input": "",
+  "output": "The website should have a simple design and layout, with the main navigation bar on the right showing categories of movie reviews, Actor/Actresses sections, and a Home page. The header should contain the blog name, a logo and search feature. The body of the page should contain sections and/or a blog roll. Each movie review should have a review section, with a movie poster, ratings and the review body. At the bottom of each review, there should be social media sharing buttons.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

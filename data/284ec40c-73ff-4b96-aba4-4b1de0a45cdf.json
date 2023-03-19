@@ -1,0 +1,12 @@
+{
+  "id": "284ec40c-73ff-4b96-aba4-4b1de0a45cdf",
+  "instruction": "Design a class that represents a clothing brand.",
+  "input": "",
+  "output": "class ClothingBrand:\n    def __init__(self, name, style, colors):\n        self.name = name\n        self.style = style\n        self.colors = colors\n    \n    def get_name(self):\n        return self.name\n    \n    def set_name(self, name):\n        self.name = name\n    \n    def get_style(self):\n        return self.style\n    \n    def set_style(self, style):\n        self.style = style\n    \n    def get_colors(self):\n        return self.colors\n    \n    def set_colors(self, colors):\n        self.colors = colors",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

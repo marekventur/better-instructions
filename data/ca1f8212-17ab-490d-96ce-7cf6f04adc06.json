@@ -1,0 +1,12 @@
+{
+  "id": "ca1f8212-17ab-490d-96ce-7cf6f04adc06",
+  "instruction": "Given two sentences, produce a unified sentence by proper coordination and subordination",
+  "input": "Alice makes coffee. Bob drinks tea.",
+  "output": "Alice makes coffee while Bob drinks tea.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

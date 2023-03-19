@@ -1,0 +1,12 @@
+{
+  "id": "897d98ae-d4e0-4926-978d-c995d3f48e5b",
+  "instruction": "Construct a list containing at least ten items.",
+  "input": "Items you need to pack for a camping trip.",
+  "output": "1. Tent\n2. Sleeping bag\n3. Flashlight\n4. Camping stove\n5. Cutlery and utensils\n6. Water container\n7. Matches or lighter\n8. Compass\n9. First aid kit\n10. Food and snacks\n11. Extra clothes\n12. Personal care items.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

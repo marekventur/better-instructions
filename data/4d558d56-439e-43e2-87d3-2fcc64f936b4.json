@@ -1,0 +1,12 @@
+{
+  "id": "4d558d56-439e-43e2-87d3-2fcc64f936b4",
+  "instruction": "Collect 5 data points that are relevant to the following topic: the cost of higher education.",
+  "input": "",
+  "output": "1. The average cost of college tuition for in-state students at public 4-year institutions for the 2018-2019 academic year was $10,230.\n2. The average cost of college tuition for out-of-state students at public 4-year institutions for the 2018-2019 academic year was $26,290. \n3. The average cost of college tuition for private non-profit 4-year institutions for the 2018-2019 academic year was $35,830.\n4. The average cost of fees and room and board for public 4-year institutions for the 2018-2019 academic year was $21,370 \n5. The average cost of fees and room and board for private non-profit 4-year institutions for the 2018-2019 academic year was $45,370.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

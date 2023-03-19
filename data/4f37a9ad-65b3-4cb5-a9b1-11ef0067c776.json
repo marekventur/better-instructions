@@ -1,0 +1,12 @@
+{
+  "id": "4f37a9ad-65b3-4cb5-a9b1-11ef0067c776",
+  "instruction": "Create a valid JSON object that contains the given information.",
+  "input": "Person's name: John Smith\nAge: 40",
+  "output": "{\"name\": \"John Smith\", \"age\": 40}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

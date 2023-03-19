@@ -1,0 +1,12 @@
+{
+  "id": "2aebc696-8a9d-4e16-a47a-527fad9164e0",
+  "instruction": "Determine the age of the following person:",
+  "input": "John Smith was born on November 17, 1996.",
+  "output": "John Smith is 24 years old.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

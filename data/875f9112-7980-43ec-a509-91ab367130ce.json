@@ -1,0 +1,12 @@
+{
+  "id": "875f9112-7980-43ec-a509-91ab367130ce",
+  "instruction": "Categorize a given set of words.",
+  "input": "Words: laptop, mouse, keyboard, mobile phone",
+  "output": "Electronics: laptop, mouse, keyboard\nCommunications: mobile phone",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

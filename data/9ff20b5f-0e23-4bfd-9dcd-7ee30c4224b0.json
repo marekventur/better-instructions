@@ -1,0 +1,12 @@
+{
+  "id": "9ff20b5f-0e23-4bfd-9dcd-7ee30c4224b0",
+  "instruction": "Take the input, create a data structure and generate a JSON output.",
+  "input": "countries = [\"Brazil\", \"India\", \"China\", \"USA\"]",
+  "output": "{\n    \"countries\": [\n        \"Brazil\",\n        \"India\",\n        \"China\",\n        \"USA\"\n    ]\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

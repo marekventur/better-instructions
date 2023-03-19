@@ -1,0 +1,12 @@
+{
+  "id": "09283ff2-c98c-46f6-b470-19f14698de3e",
+  "instruction": "Classify the following common kitchen appliances.",
+  "input": "Toaster, Blender, Vacuum",
+  "output": "Small Appliances: Toaster, Blender \nCleaning Appliances: Vacuum",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

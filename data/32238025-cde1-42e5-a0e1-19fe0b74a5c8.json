@@ -1,0 +1,12 @@
+{
+  "id": "32238025-cde1-42e5-a0e1-19fe0b74a5c8",
+  "instruction": "Create a class that accepts a username, email address, and password and has a method that will output a formatted string of the username, email and an asterisks representation of the password.",
+  "input": "username = \"USER123\", email = \"user123@gmail.com\", password = \"password123\"",
+  "output": "\"USER123, user123@gmail.com, **********\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

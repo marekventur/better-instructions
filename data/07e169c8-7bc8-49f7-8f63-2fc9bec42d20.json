@@ -1,0 +1,12 @@
+{
+  "id": "07e169c8-7bc8-49f7-8f63-2fc9bec42d20",
+  "instruction": "For a given URL, generate a list of 10 related URLs in the same domain.",
+  "input": "https://medium.com/analytics-vidhya/how-ai-transforms-business-processes-589fd2c66324",
+  "output": "https://medium.com/analytics-vidhya/the-impact-of-ai-on-business-processes-8099c9f0f961\nhttps://medium.com/analytics-vidhya/understanding-artificial-intelligence-3d51a8b233de\nhttps://medium.com/analytics-vidhya/how-ai-can-improve-business-outcomes-4b3a3d2be720\nhttps://medium.com/analytics-vidhya/how-ai-drives-business-change-cc313f09f98a\nhttps://medium.com/analytics-vidhya/the-surge-of-ai-in-the-business-world-dcac7a8f4093\nhttps://medium.com/analytics-vidhya/how-to-leverage-ai-for-business-success-915fee87b2c1\nhttps://medium.com/analytics-vidhya/how-artificial-intelligence-evolves-business-f324d88f7ff1\nhttps://medium.com/analytics-vidhya/the-advantages-of-artificial-intelligence-for-business-7c487b73ec98\nhttps://medium.com/analytics-vidhya/how-ai-and-machine-learning-are-transforming-business-82cbb326a9fb\nhttps://medium.com/analytics-vidhya/designing-ai-for-business-value-underscores-how-ai-can-amplify-enterprise-processes-d458d85645ee",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

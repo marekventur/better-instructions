@@ -1,0 +1,12 @@
+{
+  "id": "bd7166cb-8f36-4ee2-80c9-a94ef7001ebd",
+  "instruction": "Generate a new email message from the following conversation.",
+  "input": "John: Can you please send in the report tonight?",
+  "output": "Dear John,\n \nI am writing to confirm that I will be sending in the report tonight as requested.\n\nSincerely,\n<name>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

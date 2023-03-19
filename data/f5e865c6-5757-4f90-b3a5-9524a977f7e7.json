@@ -1,0 +1,12 @@
+{
+  "id": "f5e865c6-5757-4f90-b3a5-9524a977f7e7",
+  "instruction": "Describe how a Docker container works.",
+  "input": "",
+  "output": "A Docker container is an isolated environment in which applications can be packaged and run. It consists of the application, system libraries, and other configuration files necessary for a specific task. The container runs within a docker host, which isolates the container from other host resources and is responsible for managing its life cycle. Docker containers are lightweight and highly portable; they can be quickly spun up and transported to different environments such as cloud, bare metal, and on-premises. Containers are isolated from the underlying host system so they can be securely run and managed. Docker also uses images which function like snapshots \u2013 making it easy to deploy and run applications reliably and consistently across different environments.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

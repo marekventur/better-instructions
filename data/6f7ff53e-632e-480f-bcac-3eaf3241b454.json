@@ -1,0 +1,12 @@
+{
+  "id": "6f7ff53e-632e-480f-bcac-3eaf3241b454",
+  "instruction": "Generate an example of a 'recommended list' for an e-commerce website.",
+  "input": "None",
+  "output": "Welcome to Technology Geekz! We know your time is valuable, so here are 5 products we think you might like based on your previous purchases: \n\n1. Lenovo IdeaPad 530S Laptop: This laptop provides a powerful performance, with a long-lasting battery, plenty of RAM, and a fast processor. \n\n2. Apple AirPods: Enjoy the convenience of wireless audio and cutting-edge technology with these popular AirPods. \n\n3. Microsoft Surface Pro 7: This powerful 2-in-1 laptop and tablet combo offers an impressive performance. \n\n4. Logitech Wireless Keyboard: This wireless keyboard provides a seamless, lag-free connectivity for everyday computing. \n\n5. Sony Bravia X900F: Experience clear and vibrant visuals with this 4K Ultra HD TV.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

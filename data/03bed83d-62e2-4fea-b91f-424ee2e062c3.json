@@ -1,0 +1,12 @@
+{
+  "id": "03bed83d-62e2-4fea-b91f-424ee2e062c3",
+  "instruction": "Find any typos or grammatical errors in the sentence and edit it accordingly.",
+  "input": "She was to excited to notice her mistake.",
+  "output": "She was too excited to notice her mistake.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

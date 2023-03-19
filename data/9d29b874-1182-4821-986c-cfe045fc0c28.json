@@ -1,0 +1,12 @@
+{
+  "id": "9d29b874-1182-4821-986c-cfe045fc0c28",
+  "instruction": "Given a logical statement, evaluate the truthfulness of the statement.",
+  "input": "2 > 3",
+  "output": "False",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

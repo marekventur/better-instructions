@@ -1,0 +1,12 @@
+{
+  "id": "06f0cca9-f0cb-4cc4-b680-95bb45bfb89e",
+  "instruction": "Explain how the internet works.",
+  "input": "",
+  "output": "The internet is a global network of connected computers and devices that can send and receive data. It works by using a network of computers and servers to store and share data. When you make a request on the internet, your computer sends a message to the server that holds the requested data. That server then sends a response back to your computer. This process is enabled by a series of protocols and standards, including HTTP, the HyperText Transfer Protocol. This process happens in milliseconds and allows users to access data almost instantly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

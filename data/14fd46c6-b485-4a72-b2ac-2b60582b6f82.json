@@ -1,0 +1,12 @@
+{
+  "id": "14fd46c6-b485-4a72-b2ac-2b60582b6f82",
+  "instruction": "Troubleshoot the issue of a webpage loading slowly",
+  "input": "The webpage content includes text, images and videos.",
+  "output": "Possible solutions: \n1. Optimize website images, videos and other media by reducing their file size.\n2. Leverage browser caching to store static content on the visitors' computer so that it doesn't need to be downloaded each time the page is accessed. \n3. Reduce server response time by optimizing database queries and using a better hosting service. \n4. Minimize the number of plugins and scripts used in the website that can slow down loading time. \n5. Compress files with gzip to reduce page size and improve page loading time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

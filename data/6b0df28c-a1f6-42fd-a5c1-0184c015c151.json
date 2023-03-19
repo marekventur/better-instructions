@@ -1,0 +1,12 @@
+{
+  "id": "6b0df28c-a1f6-42fd-a5c1-0184c015c151",
+  "instruction": "Given the set of words, form a creative sentence.",
+  "input": "orange, up, dog",
+  "output": "The orange-colored dog leaped up into the air.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

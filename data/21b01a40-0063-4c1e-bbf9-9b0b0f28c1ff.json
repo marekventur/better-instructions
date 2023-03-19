@@ -1,0 +1,12 @@
+{
+  "id": "21b01a40-0063-4c1e-bbf9-9b0b0f28c1ff",
+  "instruction": "Explain the concept of cuckoo hashing.",
+  "input": "",
+  "output": "Cuckoo hashing is a hashing technique used for storing key-value pairs in a table. It is based on the idea that two elements can occupy the same spot in a table when the table is full. In cuckoo hashing, when an element can't be placed in one spot, it is moved to another spot that's already occupied by another element. This process is known as \"kicking out\" and is repeated until an empty slot is found.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

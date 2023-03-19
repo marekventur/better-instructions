@@ -1,0 +1,12 @@
+{
+  "id": "b29d50e1-1de6-4b61-9d74-910f7ffdd088",
+  "instruction": "If a sequence is a decreasing by 1 and the first number is 20, what is the tenth number in the sequence?",
+  "input": "",
+  "output": "The tenth number in the sequence is 11.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

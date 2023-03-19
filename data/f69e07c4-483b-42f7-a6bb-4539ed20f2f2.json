@@ -1,0 +1,12 @@
+{
+  "id": "f69e07c4-483b-42f7-a6bb-4539ed20f2f2",
+  "instruction": "Write a formal email to an investor about a project you are working on.",
+  "input": "Dear investor,",
+  "output": "Dear Investor,\n\nI hope this email finds you well. I am writing on behalf of [Company Name], a [industry] business that I am sure you have heard of. I wanted to reach out to you to share some exciting news about a project we are currently developing. \n\nWe believe that [Project Description], when completed, will revolutionize the [industry] industry. Our team of experts is currently hard at work on this project, and we are confident that it will be a great success. \n\nWe would love to have you as a part of our venture and would be very interested to explore opportunities for collaboration and investment. I can provide more details about this project upon request.\n\nI look forward to hearing from you and thank you for your time and consideration.\n\nSincerely,\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7314b051-ab29-445b-8638-2ef03ccd0e51",
+  "instruction": "Given a list of numbers, compute their sum.",
+  "input": "1, 5, 10, 15",
+  "output": "31",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "32d410e6-ede9-4184-9add-c1abd7fc668c",
+  "instruction": "Build a dialogue between two friends eating dinner.",
+  "input": "",
+  "output": "Friend 1: Hey, this looks delicious! What is it? \n\nFriend 2: It's my mom's special veggie lasagna. I can tell you, it's amazing. \n\nFriend 1: It smells wonderful! You've definitely got to share the recipe with me.\n\nFriend 2: Of course! I'd be more than happy to. It's actually quite easy to make. You just have to layer all the ingredients, bake it for an hour, and then dinner is ready! \n\nFriend 1: Sounds great! Can't wait to give it a try. \n\nFriend 2: Me neither! Enjoy it while it's hot!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

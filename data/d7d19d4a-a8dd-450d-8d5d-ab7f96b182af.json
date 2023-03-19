@@ -1,0 +1,12 @@
+{
+  "id": "d7d19d4a-a8dd-450d-8d5d-ab7f96b182af",
+  "instruction": "Create an HTML email template that promotes a new product.",
+  "input": "",
+  "output": "<html>\n  <header>\n    <title>New Product Release</title>\n  </header>\n  <body>\n    <h1>Introducing Our Newest Product!</h1>\n    <p>At [company name], we are proud to announce the newest release to our product line: [product name].</p>\n    <p>This exciting new product is perfect for [application]: it's [ability] and [feature 1], [feature 2], and [feature 3]. It's more convenient than ever and offers the best in [benefit 1] and [benefit 2].</p>\n    <p>Plus, by purchasing [product name], you are helping us to [positive impact].</p>\n    <p>Visit our website and get [product name] today before it's gone!</p>\n  </body>\n</html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

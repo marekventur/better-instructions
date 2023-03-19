@@ -1,0 +1,12 @@
+{
+  "id": "904bd0b6-982e-4e16-84eb-02144cb54b59",
+  "instruction": "Generate a list of questions to ask someone to probe their understanding of a given topic.",
+  "input": "Military history",
+  "output": "- What were the major causes of World War I? \n- Who were the main leaders of World War II?\n- How did the fall of the Berlin Wall affect geopolitical relations? \n- What were the lasting effects of the Vietnam War? \n- What strategies were used in the American Civil War?\n- What were the most significant battles in the Napoleonic Wars?\n- How did World War II change the course of history?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

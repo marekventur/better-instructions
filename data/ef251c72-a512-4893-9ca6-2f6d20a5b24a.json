@@ -1,0 +1,12 @@
+{
+  "id": "ef251c72-a512-4893-9ca6-2f6d20a5b24a",
+  "instruction": "Categorize the following objects: apple, orange, banana.",
+  "input": "Apple, orange, banana",
+  "output": "Fruits: Apple, orange, banana.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

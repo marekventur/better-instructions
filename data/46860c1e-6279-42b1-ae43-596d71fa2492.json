@@ -1,0 +1,12 @@
+{
+  "id": "46860c1e-6279-42b1-ae43-596d71fa2492",
+  "instruction": "Find the 5th largest element in a list",
+  "input": "[-5, 10, 15, 20, 25, 30, 35]",
+  "output": "25",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

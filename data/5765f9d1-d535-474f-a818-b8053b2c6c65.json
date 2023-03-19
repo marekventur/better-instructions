@@ -1,0 +1,12 @@
+{
+  "id": "5765f9d1-d535-474f-a818-b8053b2c6c65",
+  "instruction": "Find the area of this triangle in m2",
+  "input": "Base: 10m Height: 8m",
+  "output": "The area of the triangle is 40m2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

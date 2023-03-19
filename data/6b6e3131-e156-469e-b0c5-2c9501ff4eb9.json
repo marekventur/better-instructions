@@ -1,0 +1,12 @@
+{
+  "id": "6b6e3131-e156-469e-b0c5-2c9501ff4eb9",
+  "instruction": "Write a function to determine the sum of all prime numbers up to a given limit.",
+  "input": "",
+  "output": "def sum_primes(limit):\n    sum = 0\n    for number in range(2, limit + 1):\n        if all(number % i != 0 for i in range(2, number)):\n            sum += number\n    return sum",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

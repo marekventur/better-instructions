@@ -1,0 +1,12 @@
+{
+  "id": "12d63eb9-92f1-4e1c-a86a-5ff6d6b51fb4",
+  "instruction": "Classify these animals as either predators or prey: wolf, deer, rabbit.",
+  "input": "",
+  "output": "The wolf is a predator, the deer is prey, and the rabbit is prey.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

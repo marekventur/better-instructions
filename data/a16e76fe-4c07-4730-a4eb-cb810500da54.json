@@ -1,0 +1,12 @@
+{
+  "id": "a16e76fe-4c07-4730-a4eb-cb810500da54",
+  "instruction": "Write a review of a restaurant you recently visited.",
+  "input": "I recently visited the \"China Bowl\" Chinese buffet in Chicago.",
+  "output": "I recently visited the \"China Bowl\" Chinese buffet on the south side of Chicago. It has been open for a few months and offers a variety of Chinese dishes, such as dumplings, noodles, and chicken dishes. The buffet was well-stocked with plenty of food, and the staff was very friendly. The food was fresh and tasted delicious. The price was reasonable, and I will definitely be returning to the restaurant. Overall, it was a great experience and I highly recommend it to anyone looking for a good Chinese buffet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

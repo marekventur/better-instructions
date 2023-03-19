@@ -1,0 +1,12 @@
+{
+  "id": "0cd73967-b9dd-449b-aa22-844b179ab572",
+  "instruction": "Given two strings, determine whether they are anagrams or not.",
+  "input": "String 1 = \"silent\"\nString 2 = \"listen\"",
+  "output": "Yes, \"silent\" and \"listen\" are anagrams.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

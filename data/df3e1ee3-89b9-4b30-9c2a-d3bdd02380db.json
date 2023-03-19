@@ -1,0 +1,12 @@
+{
+  "id": "df3e1ee3-89b9-4b30-9c2a-d3bdd02380db",
+  "instruction": "Rewrite the sentence using the adjectives in the input.",
+  "input": "The dogs barked loudly. \nAdjectives: shrill, piercing",
+  "output": "The dogs barked shrill and piercingly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

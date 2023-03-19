@@ -1,0 +1,12 @@
+{
+  "id": "217d6c49-e6de-436c-9d38-63abf5ad2c70",
+  "instruction": "Rewrite the given sentence using the plural form of the noun.",
+  "input": "The kid drank a glass of milk.",
+  "output": "The kids drank glasses of milk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

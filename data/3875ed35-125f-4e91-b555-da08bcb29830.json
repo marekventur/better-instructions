@@ -1,0 +1,12 @@
+{
+  "id": "3875ed35-125f-4e91-b555-da08bcb29830",
+  "instruction": "Find the last person's name from the text.",
+  "input": "John, Jane, and William went to the store.",
+  "output": "William",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

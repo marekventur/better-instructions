@@ -1,0 +1,12 @@
+{
+  "id": "a4350f12-0a5f-4588-b841-5041363b862b",
+  "instruction": "Edit the following sentence for grammar and style.",
+  "input": "The professor answers the questions of the student accurately.",
+  "output": "The professor answered the student's questions accurately.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

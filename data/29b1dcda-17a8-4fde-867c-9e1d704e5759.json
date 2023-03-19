@@ -1,0 +1,12 @@
+{
+  "id": "29b1dcda-17a8-4fde-867c-9e1d704e5759",
+  "instruction": "Given a real-world scenario, design a system to automate the task.",
+  "input": "Restaurant food delivery system",
+  "output": "The restaurant food delivery system will allow customers to order online or through a mobile app. Customers will be able to select items from the restaurant's menu and choose the delivery option. Drivers will receive an alert once the order has been placed, and they can navigate to the restaurant to pick up the order and deliver it to the customer's address. The system must also include payment options and order tracking features.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9e29b85f-3ae6-4af7-9505-24a8ef112064",
+  "instruction": "Create a unique password for a user account.",
+  "input": "The user's name is John Doe.",
+  "output": "JohnDoe_#21!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

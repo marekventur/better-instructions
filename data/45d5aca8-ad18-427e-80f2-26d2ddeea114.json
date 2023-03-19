@@ -1,0 +1,12 @@
+{
+  "id": "45d5aca8-ad18-427e-80f2-26d2ddeea114",
+  "instruction": "Read the passage and categorize it by genre.",
+  "input": "The movie was thrilling, with high-speed car chases, explosions, and action-packed fight scenes.",
+  "output": "The genre of the passage is Action.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

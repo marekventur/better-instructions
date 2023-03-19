@@ -1,0 +1,12 @@
+{
+  "id": "c7da0fdd-bf11-4fd4-ac82-f105543b8caf",
+  "instruction": "Create a list of 5 online resources that contain information to help people quit smoking.",
+  "input": "",
+  "output": "1. Centers for Disease Control and Prevention\u2019s (CDC) Tips From Former Smokers: https://www.cdc.gov/tobacco/campaign/tips/\n2. Mayo Clinic\u2019s Quit Smoking Resource: https://www.mayoclinic.org/healthy-lifestyle/quit-smoking\n3. QuitSmokingSupport.com: https://quitsmokingsupport.com/\n4. American Cancer Society\u2019s Guide to Quitting Smoking: https://www.cancer.org/healthy/stay-away-from-tobacco/guide-quitting-smoking.html\n5. American Lung Association\u2019s Freedom from Smoking: https://www.lung.org/quit-smoking/",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

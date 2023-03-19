@@ -1,0 +1,12 @@
+{
+  "id": "4b69b35d-02c8-4475-83f1-4f0f4c42508f",
+  "instruction": "Describe what a web crawler is",
+  "input": "",
+  "output": "A web crawler, also known as a spider, is a program that automatically visits websites and collects information about the content found on them. It goes through the content of a page, following links to other pages, in order to collect information on a variety of topics. The gathered data is then used by search engines, content providers, and other applications.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

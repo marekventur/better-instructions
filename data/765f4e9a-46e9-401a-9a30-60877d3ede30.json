@@ -1,0 +1,12 @@
+{
+  "id": "765f4e9a-46e9-401a-9a30-60877d3ede30",
+  "instruction": "Calculate the slope of this line.",
+  "input": "y = 2x + 4",
+  "output": "The slope of the line is 2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

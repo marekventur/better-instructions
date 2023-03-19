@@ -1,0 +1,12 @@
+{
+  "id": "5588ab97-45c3-445f-9c7f-3805dd45c38c",
+  "instruction": "Find the correct proverb from the given list that best fits with the given sentence.",
+  "input": "It's always better to ask and know the answer than not to ask and remain in the dark.",
+  "output": "\"It is better to be prepared for an opportunity and not have one than to have an opportunity and not be prepared.\" - Whitney M. Young, Jr.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

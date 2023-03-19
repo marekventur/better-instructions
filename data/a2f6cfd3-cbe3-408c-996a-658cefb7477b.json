@@ -1,0 +1,12 @@
+{
+  "id": "a2f6cfd3-cbe3-408c-996a-658cefb7477b",
+  "instruction": "Create a C++ function that orders an array",
+  "input": "No input",
+  "output": "void orderArray(int arr[], int n)\n{\n    int temp;\n    for(int i = 0; i < n; i++)\n    {\n        for(int j = i+1; j < n; j++)\n        {\n            if (arr[j] < arr[i])\n            {\n                temp = arr[i];\n                arr[i] = arr[j];\n                arr[j] = temp;\n            }\n        }\n    }\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

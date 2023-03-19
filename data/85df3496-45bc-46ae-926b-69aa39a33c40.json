@@ -1,0 +1,12 @@
+{
+  "id": "85df3496-45bc-46ae-926b-69aa39a33c40",
+  "instruction": "Rank the following books within the given genres according to the number of Amazon ratings. Output the ranking in ascending order.",
+  "input": "Genre: Fantasy\nBook 1: Harry Potter - 12000000 ratings\nBook 2: Lord of the Rings - 3000000 ratings\nBook 3: The Hobbit - 3500000 ratings",
+  "output": "Book 2: Lord of the Rings - 3000000 ratings \nBook 3: The Hobbit - 3500000 ratings \nBook 1: Harry Potter - 12000000 ratings",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

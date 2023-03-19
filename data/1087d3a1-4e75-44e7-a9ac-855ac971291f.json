@@ -1,0 +1,12 @@
+{
+  "id": "1087d3a1-4e75-44e7-a9ac-855ac971291f",
+  "instruction": "Classify the painting as either abstract or landscape.",
+  "input": "![The-Ladies-of-the-Village-William-Henderson.jpg](attachment:The-Ladies-of-the-Village-William-Henderson.jpg)",
+  "output": "Abstract.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

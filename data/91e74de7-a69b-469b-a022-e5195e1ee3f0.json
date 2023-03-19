@@ -1,0 +1,12 @@
+{
+  "id": "91e74de7-a69b-469b-a022-e5195e1ee3f0",
+  "instruction": "Create an algorithm that can sort an array of numbers into ascending order.",
+  "input": "[5, 2, 8, 1, 4]",
+  "output": "\"\"\"\nAlgorithm to sort an array of numbers into ascending order\n\"\"\"\n\ndef sort_ascending(nums):\n    sorted_list = []\n    while nums:\n        lowest = nums[0]\n        for num in nums:\n            if num < lowest:\n                lowest = num\n        sorted_list.append(lowest)\n        nums.remove(lowest)\n\n    return sorted_list\n\nif __name__ == '__main__':\n    unsorted = [5, 2, 8, 1, 4]\n    print(sort_ascending(unsorted)) #[1, 2, 4, 5, 8]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

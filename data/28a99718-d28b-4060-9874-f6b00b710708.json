@@ -1,0 +1,12 @@
+{
+  "id": "28a99718-d28b-4060-9874-f6b00b710708",
+  "instruction": "Design an algorithm to determine whether a given number is prime.",
+  "input": "",
+  "output": "We can use the following algorithm to determine whether a given number, n, is prime or not:\n1. Set a counter, i, to 2.\n2. Check if n is evenly divisible by i. If n is evenly divisible by i, n is not a prime number. If n is not evenly divisible by i, increment i by 1 and go back to Step 2.\n3. If i is greater than or equal to the square root of n, then n is a prime number.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

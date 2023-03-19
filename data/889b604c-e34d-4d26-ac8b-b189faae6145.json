@@ -1,0 +1,12 @@
+{
+  "id": "889b604c-e34d-4d26-ac8b-b189faae6145",
+  "instruction": "Given a sentence, make the first word uppercase.",
+  "input": "the apple is really sweet.",
+  "output": "The apple is really sweet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

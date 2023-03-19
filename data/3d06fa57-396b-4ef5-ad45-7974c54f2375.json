@@ -1,0 +1,12 @@
+{
+  "id": "3d06fa57-396b-4ef5-ad45-7974c54f2375",
+  "instruction": "Given two strings, determine the largest possible numeric value that can be obtained",
+  "input": "String 1: 23\nString 2: 45",
+  "output": "4523",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

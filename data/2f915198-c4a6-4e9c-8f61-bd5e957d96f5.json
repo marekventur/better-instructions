@@ -1,0 +1,12 @@
+{
+  "id": "2f915198-c4a6-4e9c-8f61-bd5e957d96f5",
+  "instruction": "Classify the following movie genres: comedy, action, drama.",
+  "input": "",
+  "output": "- Comedy\n- Action\n- Drama",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

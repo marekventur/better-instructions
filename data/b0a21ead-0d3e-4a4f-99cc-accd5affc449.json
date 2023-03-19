@@ -1,0 +1,12 @@
+{
+  "id": "b0a21ead-0d3e-4a4f-99cc-accd5affc449",
+  "instruction": "Classify the following text as either describing a computer vision task or a natural language processing task.",
+  "input": "The computer is capable of automatically detecting the faces in an image.",
+  "output": "This text is describing a computer vision task.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

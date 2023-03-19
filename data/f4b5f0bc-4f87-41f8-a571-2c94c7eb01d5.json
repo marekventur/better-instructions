@@ -1,0 +1,12 @@
+{
+  "id": "f4b5f0bc-4f87-41f8-a571-2c94c7eb01d5",
+  "instruction": "Given an input of a product category, suggest three ideas for improving customer experience",
+  "input": "Fashion clothing",
+  "output": "1. Offer customers personalized fashion advice and suggestions based on their individual styles and preferences. \n2. Create an interactive virtual fashion showroom to enable customers to browse and compare products digitally.\n3. Implement a loyalty rewards program offering exclusive discounts, free gifts, and other benefits to returning customers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1c035f14-0644-4926-8cfa-8b8ed4be3cee",
+  "instruction": "Evaluate the following article to find the strengths and weaknesses.",
+  "input": "Pittsburgh is a city that has reinvented itself and is now one of the most vibrent economies in the United States. With an ever-growing population and an equally strong talent pool moving to the city and diverse industries and an attractive quality of living \u2013 Pittsburgh is truly a great place to live, work and play.\n\nThe city is a major hub for innovation and creativity with the second HQ of Google and Amazon reportedly located in the city. The vibrant cityscape and a technology driven job market makes it a great place for professionals flock to for opportunity and stability.\n\nInternationally, the city has always been a leader in the technology and innovation driven economy for the past three decades. At any given time there are more than 500 tech startups and entrepreneurial ventures in the city.\n\nThe city has also been at the forefront in the green movement, with initiatives such as the GoGreen Pittsburgh program to conserve energy and reduce waste.",
+  "output": "Strengths:\n- Diverse population and talent pool \n- Attractive quality of living\n- Major hub for innovation and creativity\n- Second headquarters of Google and Amazon\n- Vibrant cityscape\n- Technology driven job market\n- 500+ technology startups\n- Green initiatives to conserve energy and reduce waste\n\nWeaknesses: \n- None identified.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

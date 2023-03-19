@@ -1,0 +1,12 @@
+{
+  "id": "beaaf942-1141-420c-9f24-74519d83d901",
+  "instruction": "Given some context, edit a movie review",
+  "input": "The movie was enjoyable but the plot was too predictable.\n\nContext: I watched a movie called \u201cThe Pied Piper\u201d last week.",
+  "output": "I recently watched the movie \u201cThe Pied Piper\u201d and overall, it was very enjoyable. The story was interesting, with plenty of twists and turns to keep me entertained. However, I did find that the plot was somewhat predictable, which took away from the excitement a bit. Nevertheless, I would still recommend it for a lighthearted night's entertainment.\n![image.png](attachment:image.png)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b51ff467-5743-44f4-9627-43f5db91fbd4",
+  "instruction": "Using the given condition and information, devise a set of questions to ask the assistant.",
+  "input": "Condition: The assistant is giving advice about college life",
+  "output": "What tips do you have for budgeting in college? \nHow can I best manage my time as a student? \nWhat activities can I participate in to meet new people and make friends? \nWhat safety measures can I take while I'm at college? \nWhat tips do you have to help me stay motivated and focused? \nWhat resources are available to help me succeed academically?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

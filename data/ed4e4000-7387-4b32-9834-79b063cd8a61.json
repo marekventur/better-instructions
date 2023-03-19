@@ -1,0 +1,12 @@
+{
+  "id": "ed4e4000-7387-4b32-9834-79b063cd8a61",
+  "instruction": "Rearrange the items in the list in the alphabetical order.",
+  "input": "Bananas, Apples, Pears",
+  "output": "Apples, Bananas, Pears",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7b32729d-767b-44f3-9e81-10fa9bd847ec",
+  "instruction": "Classify the following items into two groups: food and clothing",
+  "input": "Apple, Pants, Chocolate, Shirt",
+  "output": "Food: Apple, Chocolate\n\nClothing: Pants, Shirt",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

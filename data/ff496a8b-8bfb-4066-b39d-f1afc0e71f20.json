@@ -1,0 +1,12 @@
+{
+  "id": "ff496a8b-8bfb-4066-b39d-f1afc0e71f20",
+  "instruction": "Train a machine learning model to detect sarcasm in tweets.",
+  "input": "This is a collection of tweets from a Twitter handle @sarcastic_tweets.\n\nTweet_1: What a beautiful day!\nTweet_2: So glad I have to work on a Saturday\nTweet_3: My cat is so cute when he sleeps",
+  "output": "Model is trained to assign a score between 0 and 1 to each tweet, indicating the probability for the tweet being sarcastic. If the probability is above a certain threshold, then the model classifies the tweet as sarcastic.\nThe model classifies Tweet_2 as sarcastic with a probability of 0.9 and the other two tweets as not sarcastic with a probability of 0.1.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

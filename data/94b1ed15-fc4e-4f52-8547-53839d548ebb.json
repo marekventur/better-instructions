@@ -1,0 +1,12 @@
+{
+  "id": "94b1ed15-fc4e-4f52-8547-53839d548ebb",
+  "instruction": "Write down three principles of object-oriented programming.",
+  "input": "",
+  "output": "1. Encapsulation: objects include both state (data) and behavior (methods). \n2. Abstraction: objects hide complexity and present a simple interface for interaction. \n3. Inheritance: objects can use behavior from other objects.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

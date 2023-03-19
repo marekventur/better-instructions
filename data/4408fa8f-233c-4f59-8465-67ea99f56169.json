@@ -1,0 +1,12 @@
+{
+  "id": "4408fa8f-233c-4f59-8465-67ea99f56169",
+  "instruction": "Identify a sentence type for each sentence in the given text.",
+  "input": "The committee is meeting. We are discussing the issue.",
+  "output": "Sentence 1: Declarative \nSentence 2: Imperative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

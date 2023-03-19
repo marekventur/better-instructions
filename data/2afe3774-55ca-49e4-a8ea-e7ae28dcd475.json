@@ -1,0 +1,12 @@
+{
+  "id": "2afe3774-55ca-49e4-a8ea-e7ae28dcd475",
+  "instruction": "Edit the following sentence for clarity: We made cake for breakfast",
+  "input": "We made cake for breakfast",
+  "output": "We made a cake for breakfast.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

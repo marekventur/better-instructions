@@ -1,0 +1,12 @@
+{
+  "id": "c6106010-c133-488f-bd0a-abff2d6349fb",
+  "instruction": "Design an algorithm to solve the following problem.\nInput: A string and an integer k Output: A string",
+  "input": "Input: \"abcdefg\", 3",
+  "output": "defgabc\n\ndef scramble(string, k):\n    length = len(string)\n    newString = \"\"\n    \n    for i in range(length):\n        newString += string[(i + k) % length]\n    \n    return newString",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

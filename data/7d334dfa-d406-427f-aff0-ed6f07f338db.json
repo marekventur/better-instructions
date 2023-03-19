@@ -1,0 +1,12 @@
+{
+  "id": "7d334dfa-d406-427f-aff0-ed6f07f338db",
+  "instruction": "Classify these five objects into a single meaningful category.",
+  "input": "Pencil, paper, eraser, ruler, book",
+  "output": "These five objects can be classified into the category of \u201cschool supplies\u201d.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

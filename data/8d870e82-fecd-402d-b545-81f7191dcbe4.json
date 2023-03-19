@@ -1,0 +1,12 @@
+{
+  "id": "8d870e82-fecd-402d-b545-81f7191dcbe4",
+  "instruction": "Classify the poem \"The Road Not Taken\" by Robert Frost as either a romantic or a modernist poem.",
+  "input": "",
+  "output": "This poem is classified as a modernist poem because of its focus on individualism and the internal struggle with decision making. The poem centers around the speaker making a choice between two roads, presenting the idea of a non-linear journey and emphasizing the importance of making an individual decision. The poem has an ambiguous ending that reflects the complex nature of modern life, rather than the more straightforward narrative of a romantic poem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

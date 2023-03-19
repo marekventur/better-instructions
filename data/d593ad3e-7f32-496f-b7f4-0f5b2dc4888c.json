@@ -1,0 +1,12 @@
+{
+  "id": "d593ad3e-7f32-496f-b7f4-0f5b2dc4888c",
+  "instruction": "What type of clause is the highlighted part of the sentence?",
+  "input": "The cat purred because it was pleased.",
+  "output": "The highlighted part of the sentence is a subordinate clause.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

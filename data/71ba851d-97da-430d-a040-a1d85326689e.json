@@ -1,0 +1,12 @@
+{
+  "id": "71ba851d-97da-430d-a040-a1d85326689e",
+  "instruction": "You are provided with a description of a setting. Explain the atmosphere of the setting.",
+  "input": "The interior of a castle.",
+  "output": "The atmosphere of the castle is filled with an air of grandiosity, exuding a sense of class and opulence. The walls are lined with ornate tapestries, depicting heroic stories from the past, and the high ceilings are decorated with intricate murals. The stone flooring give it a sense of formality, and the candlelight gives the castle an inviting, warm atmosphere.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

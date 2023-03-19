@@ -1,0 +1,12 @@
+{
+  "id": "1f6a4b6d-c7e8-4de7-a415-72f5b840d65b",
+  "instruction": "Train a GPT-2 language model on the given corpus.",
+  "input": "<Corpus: A collection of texts related to your topic>",
+  "output": "<nooutput>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

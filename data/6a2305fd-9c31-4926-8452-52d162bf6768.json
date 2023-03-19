@@ -1,0 +1,12 @@
+{
+  "id": "6a2305fd-9c31-4926-8452-52d162bf6768",
+  "instruction": "Suggest 3 plant-based alternate ingredients for a given dish.",
+  "input": "Cheesecake",
+  "output": "Three plant-based alternatives for cheesecake include: \n- Cashew Cream - Blend together soaked cashews, dates, coconut milk and spices. \n- Tofu Cream - Blend together firm tofu, non-dairy milk, dates or maple syrup, and spices.\n- Coconut Cream - Blend together full-fat coconut milk, coconut oil, dates or maple syrup, and spices.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

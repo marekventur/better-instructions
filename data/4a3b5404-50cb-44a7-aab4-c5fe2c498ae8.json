@@ -1,0 +1,12 @@
+{
+  "id": "4a3b5404-50cb-44a7-aab4-c5fe2c498ae8",
+  "instruction": "Write a short summarization of the following text.",
+  "input": "Smartphones are one of the most popular devices currently used by many people all over the world. They not only offer different types of communication but can also be used to listen to music, take pictures and videos, watch movies, and play games.",
+  "output": "Smartphones are a ubiquitous device nowadays, enabling users to communicate with others, listen to music, take pictures and videos, watch movies, and enjoy playing games.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "63b339b0-3e76-41a0-a7cf-4b7cd6cd0c44",
+  "instruction": "Identify what type of movie the given description belongs to.",
+  "input": "A charismatic professor and his quirky friends come together to solve a series of puzzles involving a mysterious supercomputer.",
+  "output": "Mystery.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

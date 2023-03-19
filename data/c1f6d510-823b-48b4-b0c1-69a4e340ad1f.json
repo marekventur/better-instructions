@@ -1,0 +1,12 @@
+{
+  "id": "c1f6d510-823b-48b4-b0c1-69a4e340ad1f",
+  "instruction": "Rewrite the expression using distributive property.",
+  "input": "2(x + 3y - 4z)",
+  "output": "2x + 6y - 8z",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

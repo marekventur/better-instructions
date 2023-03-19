@@ -1,0 +1,12 @@
+{
+  "id": "84688a0d-f5ac-49fd-8ff3-bbab9905db54",
+  "instruction": "Simplify the given arithmetic expression.",
+  "input": "(5x+3)(2x\u22125)",
+  "output": "10x\u00b2 - 15x + 15",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

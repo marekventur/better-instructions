@@ -1,0 +1,12 @@
+{
+  "id": "a13b7714-73b5-449f-bdac-0e53b3420e9b",
+  "instruction": "Rewrite the given sentence using a different point of view.",
+  "input": "I am really glad that our team won the match.",
+  "output": "Our team was really glad to have won the match.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

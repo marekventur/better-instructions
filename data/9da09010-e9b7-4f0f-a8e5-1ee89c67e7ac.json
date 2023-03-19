@@ -1,0 +1,12 @@
+{
+  "id": "9da09010-e9b7-4f0f-a8e5-1ee89c67e7ac",
+  "instruction": "Identify the data type of the following piece of information.",
+  "input": "Mountain climbers climb Mount Everest",
+  "output": "String",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

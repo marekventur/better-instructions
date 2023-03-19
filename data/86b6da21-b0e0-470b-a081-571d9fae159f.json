@@ -1,0 +1,12 @@
+{
+  "id": "86b6da21-b0e0-470b-a081-571d9fae159f",
+  "instruction": "Describe the following computer system to me in terms I would understand.",
+  "input": "Cloud Computing",
+  "output": "Cloud computing is a system that allows you to access applications and data from an off-site virtual server. Instead of relying on physical hardware located at your premises, cloud computing allows you to access the same applications on demand. This means that you can access the same software applications, databases, and other resources remotely through the internet, which eliminates the need for purchasing, maintaining, and upgrading physical hardware and software.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

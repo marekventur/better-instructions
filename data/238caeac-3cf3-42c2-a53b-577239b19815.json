@@ -1,0 +1,12 @@
+{
+  "id": "238caeac-3cf3-42c2-a53b-577239b19815",
+  "instruction": "Given a document, find the most frequently used words.",
+  "input": "John went to the store to buy some candy.",
+  "output": "The most frequently used words in the document are \"John\" (occurring once), \"the\" (occurring twice), and \"to\" (occurring twice).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

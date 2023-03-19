@@ -1,0 +1,12 @@
+{
+  "id": "563df77c-8535-4d3a-a3bf-3b4fd53b1527",
+  "instruction": "What are the differences between data explorative and prescriptive analytics?",
+  "input": "",
+  "output": "Data explorative analytics is the process of finding patterns and trends in data, while prescriptive analytics takes those patterns and trends and gives recommendations on how to act on them. Data explorative analytics collects, cleans and prepares data in order to analyze data and create visualizations, while prescriptive analytics uses predictive models and optimization algorithms to recommend decisions. Data explorative analytics provides an overview of the data, while prescriptive analytics helps to identify the best decision to take. Finally, data explorative analytics focuses on the present, while prescriptive analytics looks at the future and determines the most efficient way to reach the desired outcome.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

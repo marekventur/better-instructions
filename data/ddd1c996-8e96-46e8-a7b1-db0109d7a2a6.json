@@ -1,0 +1,12 @@
+{
+  "id": "ddd1c996-8e96-46e8-a7b1-db0109d7a2a6",
+  "instruction": "Develop an argument to support a given statement.",
+  "input": "Search engines are an effective way to find information",
+  "output": "Search engines are effective and efficient when it comes to finding information because of their ability to quickly scan and filter large amounts of information in order to provide accurate results. Furthermore, because the search engine aggregates information from a variety of resources and websites, it can provide a comprehensive and balanced source for a user to consult. Additionally, search engines provide the use with the ability to customize the search in order to hone in on more specific results.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

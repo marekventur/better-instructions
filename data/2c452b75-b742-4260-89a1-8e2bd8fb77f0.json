@@ -1,0 +1,12 @@
+{
+  "id": "2c452b75-b742-4260-89a1-8e2bd8fb77f0",
+  "instruction": "Tell me about a technology that is used to detect malicious items in our system.",
+  "input": "",
+  "output": "One technology used to detect malicious items in our system is Intrusion Detection Systems (IDS). An IDS is a software system that monitors all incoming and outgoing network communication and identifies suspicious activity. IDSs can detect malicious activities such as unauthorized access attempts, port scans, file downloads, and other malicious traffic. They can also detect known malicious items like viruses, and will alert the system administrator when they are detected.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

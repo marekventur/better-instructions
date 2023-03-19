@@ -1,0 +1,12 @@
+{
+  "id": "0a31575a-b5ca-4872-8de5-078141332414",
+  "instruction": "Identify a trend from the given news article.",
+  "input": "https://www.nytimes.com/2020/05/26/us/black-americans-medicine.html",
+  "output": "The trend identified in this article is the increasing number of Black Americans pursuing medical education, especially in light of the disproportionate effects of the COVID-19 pandemic on their communities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

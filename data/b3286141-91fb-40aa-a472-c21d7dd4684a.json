@@ -1,0 +1,12 @@
+{
+  "id": "b3286141-91fb-40aa-a472-c21d7dd4684a",
+  "instruction": "Convert this temperature to Celsius.",
+  "input": "85\u00b0F",
+  "output": "The temperature 85\u00b0F is equivalent to 29.4\u00b0C.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

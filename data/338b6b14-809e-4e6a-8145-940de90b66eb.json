@@ -1,0 +1,12 @@
+{
+  "id": "338b6b14-809e-4e6a-8145-940de90b66eb",
+  "instruction": "Perform basic calculations and output the result.",
+  "input": "6 + 3",
+  "output": "9",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

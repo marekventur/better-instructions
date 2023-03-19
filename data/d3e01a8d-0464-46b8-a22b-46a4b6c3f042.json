@@ -1,0 +1,12 @@
+{
+  "id": "d3e01a8d-0464-46b8-a22b-46a4b6c3f042",
+  "instruction": "Create a list of pros and cons for the following policy.",
+  "input": "banning plastic bags",
+  "output": "Pros of Banning Plastic Bags:\n-Reduces waste production, therefore decreasing the amount of pollutants in the environment\n-Promotes the use of reusable bags, resulting in lower costs for consumers\n-Encourages the use of eco-friendly materials in consumer goods\n\nCons of Banning Plastic Bags:\n-More expensive for businesses and consumers, as they may be required to purchase biodegradable or reusable bags\n-Could create a strain on the manufacturing and distribution of biodegradable or reusable alternatives\n-May be difficult to enforce in certain areas as plastic bags are very accessible and widely used",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7d13d946-fa7b-41f7-8e01-83355f2d1615",
+  "instruction": "Calculate the length of the hypotenuse of a triangle if the other two sides are 5 and 7.",
+  "input": "5\n7",
+  "output": "The length of the hypotenuse is 8.6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

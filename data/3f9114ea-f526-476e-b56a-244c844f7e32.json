@@ -1,0 +1,12 @@
+{
+  "id": "3f9114ea-f526-476e-b56a-244c844f7e32",
+  "instruction": "Create a function for calculating factorials.",
+  "input": "",
+  "output": "def calculateFactorial(n: int) -> int: \n    '''Returns the factorial of n (n!)\n\n    Parameters:\n        n (int): the number to calculate the factorial for.\n\n    Returns:\n        int: the factorial of n (n!)\n    '''\n    # base case: 0! = 1\n    if n == 0: \n        return 1\n    # recursive case: n! = n * (n - 1)!\n    else: \n        return n * calculateFactorial(n-1)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

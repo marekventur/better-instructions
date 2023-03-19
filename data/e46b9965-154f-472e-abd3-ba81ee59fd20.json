@@ -1,0 +1,12 @@
+{
+  "id": "e46b9965-154f-472e-abd3-ba81ee59fd20",
+  "instruction": "Omit unnecessary information from this sentence.",
+  "input": "The apple tree, which is red in colour and is located in my backyard,",
+  "output": "The apple tree is red.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

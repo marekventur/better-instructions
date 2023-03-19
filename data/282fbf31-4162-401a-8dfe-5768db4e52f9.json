@@ -1,0 +1,12 @@
+{
+  "id": "282fbf31-4162-401a-8dfe-5768db4e52f9",
+  "instruction": "Classify the dialogue into one of the following categories: 1) making or cancelling orders; 2) shipping & delivery; 3) change and return; 4) technical issue with website or app.",
+  "input": "- Agent: I am sorry we will cancel that order for you, and you will get refund within 7 business days. \n- Customer: oh that takes too long. I want you to take quicker action on this.",
+  "output": "3 (change and return)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

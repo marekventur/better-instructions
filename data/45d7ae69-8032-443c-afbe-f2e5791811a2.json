@@ -1,0 +1,12 @@
+{
+  "id": "45d7ae69-8032-443c-afbe-f2e5791811a2",
+  "instruction": "How can the following equation be solved?",
+  "input": "3x + 4y = 20",
+  "output": "The equation can be solved by isolating one of the variables (x or y), multiplying both sides by the inverse of the coefficient of that variable and then solving for the variable. \nFor example, to solve for x, we first divide both sides by 4, giving \n$\\frac{3x}{4} + y = \\frac{20}{4}$. \nThen we multiply both sides by $\\frac{4}{3}$ to get \n$3x + \\frac{4 \\times 4}{3}y = \\frac{20 \\times 4}{3}$. \nFinally, we subtract $\\frac{4 \\times 4}{3}y$ from both sides to get \n$3x = \\frac{20 \\times 4}{3} - \\frac{4 \\times 4}{3}y$. \nThen we divide both sides by 3 to get\n$x = \\frac{\\frac{20 \\times 4}{3} - \\frac{4 \\times 4}{3}y}{3}$. \nNow we have a linear equation for y, that can be solved for the value of y. \nOnce we know the value of y, we can substitute it into the equation for x to calculate the value of x.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

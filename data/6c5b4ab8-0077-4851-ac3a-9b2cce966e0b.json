@@ -1,0 +1,12 @@
+{
+  "id": "6c5b4ab8-0077-4851-ac3a-9b2cce966e0b",
+  "instruction": "Put the text into a specific category",
+  "input": "The cat is lounging in the sun",
+  "output": "This text belongs to the category of \"cat behavior\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

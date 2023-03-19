@@ -1,0 +1,12 @@
+{
+  "id": "998d8550-8899-4b28-b214-53c5e547f0e4",
+  "instruction": "Given a set of sentences, decide which one contains the most facts.",
+  "input": "Sentence 1: Life is filled with joy and sorrow.\nSentence 2: The sky is blue.",
+  "output": "Sentence 2 is the one that contains the most facts.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0f1a9b36-8daf-4479-ba2c-b5eb3600503e",
+  "instruction": "Rewrite the following sentence using a pronoun:\nHe likes tennis but he doesn't like basketball.",
+  "input": "",
+  "output": "He likes tennis but he doesn't like basketball.\n\nHe likes tennis but not basketball.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

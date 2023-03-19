@@ -1,0 +1,12 @@
+{
+  "id": "847426a5-dde6-41cb-9c59-8de0021108d2",
+  "instruction": "Generate a code snippet to show the current date and time.",
+  "input": "",
+  "output": "from datetime import datetime\n \nthen = datetime.now()\nprint(then)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

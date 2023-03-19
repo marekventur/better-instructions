@@ -1,0 +1,12 @@
+{
+  "id": "03dc1cb9-995d-4e86-aa71-3b2399872101",
+  "instruction": "What classification would you assign to the following article?",
+  "input": "With COVID-19's ongoing global impact, many cities have had to reduce their budgets significantly in order to cope.",
+  "output": "Economy/Finance",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

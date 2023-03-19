@@ -1,0 +1,12 @@
+{
+  "id": "75f75e64-9d19-4555-b470-a190d217177f",
+  "instruction": "Construct a table that highlights the pros and cons of artificial intelligence.",
+  "input": "",
+  "output": "Pros    |    Cons\n  ----------------------------\n  Efficiency | Risk of error\n  Automation | Data privacy\n  Machine learning | Unpredictable behavior\n  Improved accuracy | Potential loss of jobs \n  Increased speed | Limited to narrow tasks",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

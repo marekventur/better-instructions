@@ -1,0 +1,12 @@
+{
+  "id": "15538577-268f-4e3c-8402-011d47d67fd6",
+  "instruction": "Add two interesting facts to the following sentence.",
+  "input": "Oceans cover 70% of the Earth\u2019s surface.",
+  "output": "Oceans cover 70% of the Earth's surface, and the average depth of these oceans is 3,790 meters. Additionally, the world's oceans hold 97% of the Earth's water.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

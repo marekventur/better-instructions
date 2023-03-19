@@ -1,0 +1,12 @@
+{
+  "id": "a1aa3c3d-a4d1-42c3-9c79-f3385955fb0b",
+  "instruction": "Create a recipe for roasted broccoli",
+  "input": "",
+  "output": "Ingredients:\n- 1 head of broccoli \n- 2 tablespoons of olive oil \n- 1 teaspoon of garlic powder\n- 1 teaspoon of onion powder\n- Salt and pepper to taste\n\nInstructions:\n1. Preheat oven to 425\u02daF.\n2. Cut broccoli into small florets. \n3. Place broccoli on a baking sheet and drizzle olive oil over them. \n4. Sprinkle garlic powder, onion powder, salt and pepper over the broccoli. \n5. Roast for 15-20 minutes, stirring halfway through, until broccoli is golden and crispy. \n6. Serve warm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

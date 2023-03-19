@@ -1,0 +1,12 @@
+{
+  "id": "e0c27330-7a45-4fae-b5c7-a49641ad66fe",
+  "instruction": "Output a dialogue between two friends talking about current events.",
+  "input": "",
+  "output": "Friend 1: Did you hear about the new scandal involving the president?\nFriend 2: Yeah, it's pretty shocking. Did you see the news reports?\nFriend 1: Yeah, I can't believe how so many people are in favor of it.\nFriend 2: Me neither. It's a shame it happened in the first place.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a9b7859f-cb71-44fd-bc5f-3c850fd244d7",
+  "instruction": "Name five types of data frequently used in data science projects.",
+  "input": "",
+  "output": "Five types of data frequently used in data science projects are numerical data, categorical data, text data, time series data, and geospatial data. Numerical data includes integers, decimals, and fractions. Categorical data includes categories, such as male or female, or labels, such as high, medium, and low. Text data includes words and phrases. Time series data includes historical, sequential data points. Geospatial data includes geographic data and associated information, such as countries, cities, and zip codes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

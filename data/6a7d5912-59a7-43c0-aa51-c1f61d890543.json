@@ -1,0 +1,12 @@
+{
+  "id": "6a7d5912-59a7-43c0-aa51-c1f61d890543",
+  "instruction": "Categorize the following entity as either a plant, an animal, or a fungus",
+  "input": "Mushroom",
+  "output": "Fungus",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

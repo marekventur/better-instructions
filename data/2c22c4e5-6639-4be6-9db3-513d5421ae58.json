@@ -1,0 +1,12 @@
+{
+  "id": "2c22c4e5-6639-4be6-9db3-513d5421ae58",
+  "instruction": "Analyze the article excerpt and explain the main message in your own words",
+  "input": "WASHINGTON (CNN) -- A wide-open presidential race and a willingness by candidates, interest groups, unions and corporations to buy TV time will lead to historic spending for political and issue-advocacy advertising in the 2008 election cycle, an analysis shows.",
+  "output": "An analysis has predicted that the political and issue-advocacy advertising spending in the 2008 election cycle will be a record-breaking number because of the wide range of presidential candidates and the willingness of candidates, interest groups, unions, and corporations to buy TV airtime. This is double the amount spent in the 2004 election cycle, showing a major increase in the amount of money being thrown into political advertising. This increase in spending could affect the way voters perceive the candidates.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

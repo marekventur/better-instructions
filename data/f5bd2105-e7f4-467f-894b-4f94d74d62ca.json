@@ -1,0 +1,12 @@
+{
+  "id": "f5bd2105-e7f4-467f-894b-4f94d74d62ca",
+  "instruction": "Find the longest word in the given phrase.",
+  "input": "The quick brown fox jumped over the lazy dog",
+  "output": "jumped",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "99c9e3e0-2211-4c70-8fbf-82312a4ebea2",
+  "instruction": "Create a new poetry stanza based on the given template.",
+  "input": "The twilight was a____\nThe stars a _____",
+  "output": "The twilight was a dream\nThe stars a shimmering gleam.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

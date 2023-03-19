@@ -1,0 +1,12 @@
+{
+  "id": "8705f20d-f01e-4c6b-8b5d-833351f77b1a",
+  "instruction": "Describe what happens in a given photo.",
+  "input": "[Image of fireworks]",
+  "output": "A colorful display of fireworks lighting up the night sky.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

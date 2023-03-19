@@ -1,0 +1,12 @@
+{
+  "id": "1e77cddc-005e-480c-9e56-5f5deaf2f8e0",
+  "instruction": "Construct a query to search for documents with the keyword 'GPT'",
+  "input": "",
+  "output": "SELECT * FROM documents WHERE content LIKE '%GPT%'",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

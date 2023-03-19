@@ -1,0 +1,12 @@
+{
+  "id": "93062fba-741a-4e25-a18b-635863bfedf6",
+  "instruction": "Summarize the laws of thermodynamics.",
+  "input": "",
+  "output": "The laws of thermodynamics, also known as the four laws of thermodynamics, describe the fundamental principle of energy in the universe. The First Law states that energy can be converted from one form to another, but cannot be created or destroyed. The Second Law states that heat flows from a hotter system to a colder one and entropy, or disorder, always increases. The Third Law states that the entropy of a perfect crystal approaches zero at absolute zero temperatures. The Fourth Law states that all energy ultimately is converted to heat energy in the limit of zero temperature.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

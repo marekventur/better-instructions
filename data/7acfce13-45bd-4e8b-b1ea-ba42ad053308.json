@@ -1,0 +1,12 @@
+{
+  "id": "7acfce13-45bd-4e8b-b1ea-ba42ad053308",
+  "instruction": "Make a list of five books that explore similar themes.",
+  "input": "Book Title: Harry Potter and the Philosopher's Stone",
+  "output": "- The Golden Compass by Philip Pullman\n- His Dark Materials series by Philip Pullman\n- Percy Jackson and the Olympians Series by Rick Riordan\n- The Lightning Thief by Rick Riordan\n- The Magicians by Lev Grossman",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

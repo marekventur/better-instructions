@@ -1,0 +1,12 @@
+{
+  "id": "4a9dfd84-f698-4832-ac63-c97be1488961",
+  "instruction": "Write a math equation to find the geometric mean between two numbers",
+  "input": "10 and 15",
+  "output": "The geometric mean of 10 and 15 is \\(\\sqrt{10\\times 15}=12.25\\).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

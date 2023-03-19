@@ -1,0 +1,12 @@
+{
+  "id": "b9c5b2c3-7678-4585-b358-07e629aac5e3",
+  "instruction": "Given a product's price and tax rate, calculate the product's price with tax",
+  "input": "Price: $120, Tax Rate: 0.05",
+  "output": "$126",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

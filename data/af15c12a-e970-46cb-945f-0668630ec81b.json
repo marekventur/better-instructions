@@ -1,0 +1,12 @@
+{
+  "id": "af15c12a-e970-46cb-945f-0668630ec81b",
+  "instruction": "What is the estimated value of the company's stock at the end of the year?",
+  "input": "The company's stock has grown from $50 to $80 over the course of the year.",
+  "output": "The estimated value of the company's stock at the end of the year is $80.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

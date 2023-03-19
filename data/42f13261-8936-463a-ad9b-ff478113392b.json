@@ -1,0 +1,12 @@
+{
+  "id": "42f13261-8936-463a-ad9b-ff478113392b",
+  "instruction": "Determine the output category of the following Document. Output should be 1 for: 1) Action; 2) Principle; 3) Process; 4) Technology",
+  "input": "Information technology (IT) is the use of computers and networks to store, retrieve, transmit, and manipulate data.",
+  "output": "4",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

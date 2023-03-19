@@ -1,0 +1,12 @@
+{
+  "id": "3a07b1ea-8f79-48c8-bb48-acb0de59583d",
+  "instruction": "Evaluate the following code and identify a bug.",
+  "input": "def add(a, b):\n    return a - b",
+  "output": "The bug in the code is that instead of adding two numbers, the code is subtracting the two numbers. The correct code should be: return a + b.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

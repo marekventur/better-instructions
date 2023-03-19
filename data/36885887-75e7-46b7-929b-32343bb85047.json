@@ -1,0 +1,12 @@
+{
+  "id": "36885887-75e7-46b7-929b-32343bb85047",
+  "instruction": "Rewrite the following sentence which contains a grammatical error.",
+  "input": "The music that I enjoyed listen was classical.",
+  "output": "I enjoyed listening to classical music.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

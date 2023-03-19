@@ -1,0 +1,12 @@
+{
+  "id": "ad91058a-c45c-4f9e-8fe4-0ff6f527c3e9",
+  "instruction": "Generate a computer program to add two vectors of size 5.",
+  "input": "[3, 2, 1, 5, 7], [4, 1, 6, 9, 0]",
+  "output": "def add_vector(v1, v2):\n    if len(v1) != len(v2):\n        raise Exception(\"Vectors are of different lengths\")\n    result = []\n    for i in range(len(v1)):\n        result.append(v1[i] + v2[i])\n    return result",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

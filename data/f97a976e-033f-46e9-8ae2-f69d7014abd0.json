@@ -1,0 +1,12 @@
+{
+  "id": "f97a976e-033f-46e9-8ae2-f69d7014abd0",
+  "instruction": "Calculate the cost of adding an extra bedroom to a house",
+  "input": "Average bedroom size is 12 ft by 12 ft. The house is located in Atlanta, GA.",
+  "output": "Adding an extra bedroom to a house in Atlanta, GA would cost an estimated $13,440 to $17,280. This includes the cost of the materials, labor, and any necessary permits. The cost can vary depending on the location, size of the bedroom, type of materials used and any additional features such as windows and closets.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

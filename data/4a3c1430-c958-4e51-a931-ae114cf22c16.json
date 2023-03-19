@@ -1,0 +1,12 @@
+{
+  "id": "4a3c1430-c958-4e51-a931-ae114cf22c16",
+  "instruction": "Re-write the following sentence to make it simpler without losing the original meaning.",
+  "input": "Despite the fact that the organization has assembled various documents to prove that the issue was solved, the report still implies that there is room for improvement.",
+  "output": "The organization has submitted the necessary documents to prove the issue was resolved, but the report suggests there is still improvement to be made.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9a1dff1e-ede9-4226-b5c2-95dbe0b0c5bf",
+  "instruction": "Identify any logical fallacies in the following statement",
+  "input": "All vaccines are dangerous and should be avoided at all costs.",
+  "output": "False Dichotomy - The statement implies that all vaccines are either dangerous or should be avoided, when in reality there are many other options.  It does not account for the fact that some vaccines may be more or less safe than others, or that some may be more or less appropriate for different individuals.  It also does not acknowledge the possible benefits of vaccines.  The implication that vaccines must be avoided in all circumstances is an oversimplification.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "492be423-3b9c-457b-9417-209620703a09",
+  "instruction": "Create a comparison chart to compare apples and oranges.",
+  "input": "",
+  "output": "| Apples | Oranges  | \n|--------|----------| \n| Texture: Crunchy | Texture: Juicy | \n| Color: Red or Yellow | Color: Orange | \n| Taste: Sweet | Taste: tart/sour | \n| High in vitamins A, C and B-complex | High in vitamins A and C | \n| High in fiber | High in folate |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dae16197-5d60-44de-956c-e23356391d67",
+  "instruction": "Classify the parts of speech of each word in this sentence.",
+  "input": "We went on a hike to enjoy the scenery.",
+  "output": "We (pronoun) went (verb) on (preposition) a (article) hike (noun) to (preposition) enjoy (verb) the (article) scenery (noun).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

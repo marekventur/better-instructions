@@ -1,0 +1,12 @@
+{
+  "id": "d43f0aad-edef-4c3c-86f0-5fa2dc4740b1",
+  "instruction": "Change the given sentence into imperative form.",
+  "input": "Please don't forget to turn off the lights.",
+  "output": "Don't forget to turn off the lights.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

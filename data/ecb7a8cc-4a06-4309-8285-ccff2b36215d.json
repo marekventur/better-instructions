@@ -1,0 +1,12 @@
+{
+  "id": "ecb7a8cc-4a06-4309-8285-ccff2b36215d",
+  "instruction": "For the following company, generate a unique brand story in three sentences.",
+  "input": "Apple",
+  "output": "Apple has been empowering people through technology for over four decades. Its products have set the standard for innovation and have revolutionized the way in which we interact with technology. From the groundbreaking Macintosh to the iPhone, Apple has pushed the boundaries of what is possible and shaped the world as we know it today.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

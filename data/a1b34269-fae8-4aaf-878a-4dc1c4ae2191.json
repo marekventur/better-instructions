@@ -1,0 +1,12 @@
+{
+  "id": "a1b34269-fae8-4aaf-878a-4dc1c4ae2191",
+  "instruction": "Reformulate the given sentence into a \"wh\" question.",
+  "input": "He has not been home for five days.",
+  "output": "How many days has he not been home for?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

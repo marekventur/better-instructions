@@ -1,0 +1,12 @@
+{
+  "id": "8fc75383-fa1a-4bf5-8233-7a9327880c4b",
+  "instruction": "From a given prompt, generate a sentence using words from the given word list.",
+  "input": "Prompt:\nThe cat was\nWord List: slender, beguiling, bouncing",
+  "output": "The cat was beguilingly slender, bouncing around the room.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

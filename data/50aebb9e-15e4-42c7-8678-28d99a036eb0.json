@@ -1,0 +1,12 @@
+{
+  "id": "50aebb9e-15e4-42c7-8678-28d99a036eb0",
+  "instruction": "Does the following word follow the correct spelling rule?",
+  "input": "imossible",
+  "output": "No, it does not follow the correct spelling rule. The correct spelling should be \"impossible\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

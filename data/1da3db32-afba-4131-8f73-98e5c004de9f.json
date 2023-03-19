@@ -1,0 +1,12 @@
+{
+  "id": "1da3db32-afba-4131-8f73-98e5c004de9f",
+  "instruction": "Create a regex pattern that matches emails in the format name@server.",
+  "input": "",
+  "output": "The regex pattern would be \\w+@\\w+\\.\\w+",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

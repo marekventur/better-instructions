@@ -1,0 +1,12 @@
+{
+  "id": "1c6eb8b8-456d-4de9-bbc7-9dcc1c2ff975",
+  "instruction": "Guess what the speaker is trying to say.",
+  "input": "I'm feeling a bit under the weather.",
+  "output": "The speaker is feeling unwell.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

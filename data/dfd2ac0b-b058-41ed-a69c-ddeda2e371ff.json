@@ -1,0 +1,12 @@
+{
+  "id": "dfd2ac0b-b058-41ed-a69c-ddeda2e371ff",
+  "instruction": "Write an equation for a given problem",
+  "input": "Calculate the net force when two forces of 4N and 6N are acting in the same direction",
+  "output": "Net Force = 4 N + 6 N = 10 N",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

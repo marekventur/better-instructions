@@ -1,0 +1,12 @@
+{
+  "id": "89ddae77-0742-49a6-b827-bec4c84a16ce",
+  "instruction": "Simplify the given equation to solve for the unknown x.",
+  "input": "2x \u2013 3 = 4",
+  "output": "2x \u2013 3 = 4\n2x = 7\nx = 7/2\nx = 3.5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

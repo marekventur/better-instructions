@@ -1,0 +1,12 @@
+{
+  "id": "05106b1f-ddb1-426b-8029-81a20c3cd230",
+  "instruction": "Create a database query to list the top ten customers based on sales amount",
+  "input": "",
+  "output": "SELECT customer_id, SUM(sales_amount) \nFROM customer_transactions \nGROUP BY customer_id \nORDER BY SUM(sales_amount) DESC \nLIMIT 10;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

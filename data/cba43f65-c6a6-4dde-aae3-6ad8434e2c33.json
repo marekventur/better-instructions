@@ -1,0 +1,12 @@
+{
+  "id": "cba43f65-c6a6-4dde-aae3-6ad8434e2c33",
+  "instruction": "Identify the sentiment of the sentiment.",
+  "input": "I had the worst experience with their customer service.",
+  "output": "Negative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

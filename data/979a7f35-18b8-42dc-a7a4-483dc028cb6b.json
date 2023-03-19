@@ -1,0 +1,12 @@
+{
+  "id": "979a7f35-18b8-42dc-a7a4-483dc028cb6b",
+  "instruction": "Given the pattern and the dimensions, calculate the area of the shape.",
+  "input": "Hexagon with side length of 5 cm.",
+  "output": "The area of the hexagon is estimated to be approximately 97.43 cm2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

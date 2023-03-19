@@ -1,0 +1,12 @@
+{
+  "id": "cd6ce0c9-09da-423f-a412-e87b4f425ae9",
+  "instruction": "Develop a scoring policy for a quiz game.",
+  "input": "The game has 10 questions and each question has three possible answers.",
+  "output": "Scoring Policy for the Quiz Game: \nFor each right answer given to a question, the player will receive 10 points. A wrong answer will result in an equivalently reversed score, resulting in negative 10 points. If the player chooses to not answer a question, they will receive 0 points. At the end of the game, the player's overall score will be calculated based on the 10 questions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

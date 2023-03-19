@@ -1,0 +1,12 @@
+{
+  "id": "cd7865f9-588d-4212-ba62-ce316a4a883c",
+  "instruction": "Are the two sentences below grammatically correct? Output yes or no.",
+  "input": "Sentence 1: I am going to the store.\nSentence 2: I goes to the store.",
+  "output": "No",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f44d179e-457a-4104-a704-10790ed535eb",
+  "instruction": "Name all the characters in the given book.",
+  "input": "Book title: Harry Potter and The Chamber of Secrets",
+  "output": "Harry Potter, Ron Weasley, Hermione Granger, Ginny Weasley, Draco Malfoy, Albus Dumbledore, Minerva McGonagall, Hagrid, Lord Voldemort, Professor Quirrell, Aunt Petunia, Uncle Vernon, Gilderoy Lockhart, Lucius Malfoy, Sirius Black, Aragog, Professor Sprout, Gringotts goblins, Professor Lupin, Dumbledore\u2019s Army, Dobby, Cornelius Fudge, Professor Sinistra, Moaning Myrtle, Tom Riddle, Argus Filch, Bellatrix Lestrange, Fenrir Greyback, Bartemius Crouch Jr., Arthemus Dumbledore.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

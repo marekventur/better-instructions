@@ -1,0 +1,12 @@
+{
+  "id": "91d5840d-62cc-4295-84d7-8fe6ca4e02a2",
+  "instruction": "Create a list of 10 random numbers between 1 and 100.",
+  "input": "",
+  "output": "[15, 42, 89, 93, 28, 64, 23, 81, 11, 52]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

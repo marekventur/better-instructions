@@ -1,0 +1,12 @@
+{
+  "id": "d6700a49-ee34-4859-972e-65af5a05e9ab",
+  "instruction": "Describe the purpose of Subnet masks.",
+  "input": "",
+  "output": "Subnet masks are used to divide larger networks into smaller, more manageable subnets. They help identify which portions of the IP address represent the network and which portions represent the host. By using subnet masks, network administrators can increase security, conserve IP address space, and better manage traffic flows on their networks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

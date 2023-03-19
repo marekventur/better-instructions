@@ -1,0 +1,12 @@
+{
+  "id": "5c771153-f437-4935-b1e2-9e572e54edb2",
+  "instruction": "Using the facts given, construct an argument to support the given statement.",
+  "input": "Statement: People should wear masks in public\nFacts: Wearing a mask reduces the risk of spreading infectious diseases, masks prevent inhalation of polluted air, masks provide psychological comfort",
+  "output": "Wearing a mask is beneficial to both individuals and the public as a whole. It reduces the risk of spreading infectious diseases by preventing droplets from entering the air when a person coughs, talks, or sneezes. Wearing a mask also helps prevent the inhalation of polluted air, which can cause serious health problems such as respiratory diseases. Finally, wearing a mask gives people a sense of security and psychological comfort when in public spaces. Therefore, it is wise for people to wear masks in public.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

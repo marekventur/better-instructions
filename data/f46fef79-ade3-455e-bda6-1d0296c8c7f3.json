@@ -1,0 +1,12 @@
+{
+  "id": "f46fef79-ade3-455e-bda6-1d0296c8c7f3",
+  "instruction": "Explain in detail how the given process works.",
+  "input": "Genetic Engineering",
+  "output": "Genetic engineering is the process of manipulating an organism\u2019s DNA to change its traits. This can include altering existing DNA or introducing new DNA from another species. The process begins with identifying the desired DNA of a species and then isolating the genes that code for it. These genes are then inserted into the organism\u2019s DNA, either through a virus or by directly injecting the genes. After this, the organism replicates the new DNA and passes it on to its offspring. This new trait can then be bred and maintained by selecting the organisms with the desired trait.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

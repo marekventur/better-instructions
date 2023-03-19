@@ -1,0 +1,12 @@
+{
+  "id": "28e34fb9-f701-46c9-92e5-788d144a67db",
+  "instruction": "Describe the steps to use AI to solve this humanitarian problem.",
+  "input": "End hunger in the world",
+  "output": "Using AI to address the issue of hunger in the world includes several steps. First, data on global hunger must be collected and organized. This includes tracking food production, distribution, and consumption. Next, predictive models need to be created using this data. These models would allow insight into the factors that influence hunger in different areas and countries. Finally, AI solutions must be created that leverage this data and predictive models to identify the best actions to take in order to reduce global hunger. This could involve creating better food production systems, smarter distribution networks, providing access to more nutritious foods, improving markets, and more.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

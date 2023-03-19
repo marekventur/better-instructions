@@ -1,0 +1,12 @@
+{
+  "id": "c7e344c8-9aec-4be8-87c7-f8d9236207b8",
+  "instruction": "Given two sentences, rewrite them to make for a smoother connection.",
+  "input": "Jake woke up early. He forgot to set his alarm.",
+  "output": "Jake woke up early due to forgetting to set his alarm.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

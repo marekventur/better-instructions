@@ -1,0 +1,12 @@
+{
+  "id": "7455818d-6c85-493e-9aec-fee12b7a4b01",
+  "instruction": "Analyze the given text to identify the maximum and the minimum values.",
+  "input": "The temperatures on Tuesday ranged between 20\u00b0C and 40\u00b0C.",
+  "output": "The minimum value is 20\u00b0C and the maximum value is 40\u00b0C.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

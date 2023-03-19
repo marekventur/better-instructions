@@ -1,0 +1,12 @@
+{
+  "id": "4bead355-91a9-4123-b999-d4103293c039",
+  "instruction": "Extract the subject of this sentence.",
+  "input": "Many people watch TV shows.",
+  "output": "People",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

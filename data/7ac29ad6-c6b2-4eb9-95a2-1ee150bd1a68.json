@@ -1,0 +1,12 @@
+{
+  "id": "7ac29ad6-c6b2-4eb9-95a2-1ee150bd1a68",
+  "instruction": "Describe the mood or ulterior motive of the character in the given excerpt.",
+  "input": "Excerpt: \"I'm not sure this is a good idea,\" she said.",
+  "output": "The character is hesitant and uncertain, likely due to doubts or fears as to the outcome of this particular action.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "93d304b5-4957-443f-81aa-33022ac73852",
+  "instruction": "Generate a model to describe this process.",
+  "input": "The process of ordering a meal at a restaurant",
+  "output": "A model for ordering a meal at a restaurant would involve the following steps: Firstly, the customer enters the restaurant and is seated. Secondly, the customer peruses the menu and chooses the meal he/she would like and the quantity. Thirdly, the customer informs the waiter of the items he/she wishes to order. Fourthly, the waiter sends the order to the kitchen and the meal will eventually be served at the customer's table. The customer pays for the meal as the last step.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

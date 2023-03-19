@@ -1,0 +1,12 @@
+{
+  "id": "f357e2b2-4ff2-440e-9f05-e1e602eeb333",
+  "instruction": "Let\u2019s see which character from the given input is the oldest.",
+  "input": "Max, Anthony, Gina",
+  "output": "Max is the oldest of the three characters.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

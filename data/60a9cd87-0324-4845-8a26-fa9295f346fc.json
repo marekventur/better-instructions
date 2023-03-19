@@ -1,0 +1,12 @@
+{
+  "id": "60a9cd87-0324-4845-8a26-fa9295f346fc",
+  "instruction": "From the given list of numbers, separate the ones that are powers of 2",
+  "input": "List: [2, 4, 8, 10, 16, 32]",
+  "output": "The numbers that are powers of 2 from the list are: 2, 4, 8, 16, 32.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

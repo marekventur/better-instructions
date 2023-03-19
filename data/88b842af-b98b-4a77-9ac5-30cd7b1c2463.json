@@ -1,0 +1,12 @@
+{
+  "id": "88b842af-b98b-4a77-9ac5-30cd7b1c2463",
+  "instruction": "Identify which type of conjunction is used in the following sentence.",
+  "input": "We discussed the issue, and he agreed.",
+  "output": "The conjunction used in the sentence is a coordinating conjunction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

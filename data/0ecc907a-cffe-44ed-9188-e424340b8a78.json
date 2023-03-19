@@ -1,0 +1,12 @@
+{
+  "id": "0ecc907a-cffe-44ed-9188-e424340b8a78",
+  "instruction": "Diagnose and troubleshoot this computer problem",
+  "input": "A user reports that their computer won't turn on when they press the power button.",
+  "output": "The first step to troubleshoot this issue is to check the power supply. ensure that the power cord is securely connected to the power supply and to the wall outlet. If the power cord is securely connected, then check to see if the power button is working by connecting a different device to the outlet. If the power button is working, then check the internal power supply. Make sure all the connections are secure and none of the wires are loose. If none of these steps resolve the issue, then the problem may be a hardware issue and may require professional service.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

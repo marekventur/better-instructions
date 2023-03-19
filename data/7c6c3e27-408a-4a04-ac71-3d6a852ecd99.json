@@ -1,0 +1,12 @@
+{
+  "id": "7c6c3e27-408a-4a04-ac71-3d6a852ecd99",
+  "instruction": "Generate a script for a conversation between a patient and a nurse.",
+  "input": "",
+  "output": "Patient: Hi, I'm here for my check-up. \nNurse: Hi! Please have a seat and let's have a look at your medical history. What has been happening since we last spoke? \nPatient: I've been feeling a bit more fatigued and I'm having a hard time sleeping at night. \nNurse: That sounds concerning. Are there any other symptoms? \nPatient: Yes, I've also been having headaches and a sore throat. \nNurse: That's definitely not a good sign. Let's get your vitals checked and we'll go from there.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

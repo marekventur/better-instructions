@@ -1,0 +1,12 @@
+{
+  "id": "265e568e-4120-4a9a-a189-bed02b137f0a",
+  "instruction": "Upvote the answer which is most helpful",
+  "input": "Answer 1: Try the following steps\nAnswer 2: Here's the solution",
+  "output": "Upvote Answer 2: Here's the solution",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

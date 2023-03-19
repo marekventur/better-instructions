@@ -1,0 +1,12 @@
+{
+  "id": "2de8209f-7bf4-4781-8421-bbf972ad4572",
+  "instruction": "Find the out-of-vocabulary (OOV) words in the given sentence.",
+  "input": "The maneager likes to play crottonball.",
+  "output": "Out-of-Vocabulary words: maneager, crottonball.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

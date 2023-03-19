@@ -1,0 +1,12 @@
+{
+  "id": "9ad1a65c-05cc-4700-ada3-ece958950d66",
+  "instruction": "Analyze the structural elements of this song.",
+  "input": "Verse 1: It was late at night, I was thinking of you  / Chorus: In my dreams I see your face / Verse 2: You said the sweetest words that carried me away",
+  "output": "This song starts with a verse, then a chorus, before concluding with another verse. The chorus is repeated throughout the song. The lyrics of the verse talk about a person's thoughts and emotions, while the chorus conveys a more optimistic feeling.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a23bcaf7-4508-43f7-9d11-4848202fca92",
+  "instruction": "Create a list of 3 protection techniques that businesses should use against cyberattacks.",
+  "input": "",
+  "output": "Businesses should use the following techniques to protect against cyberattacks: \n\n1. Enable multi-factor authentication to restrict access to sensitive networks and data.\n2. Utilize application whitelisting to restrict access to certain applications and functions. \n3. Keep software up to date by installing updates and patches as soon as possible. \n4. Regularly back up data and encrypt any data stored on the cloud.\n5. Implement network segmentation to isolate valuable data.\n6. Utilize a secure web gateway to filter out malicious content on the web.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

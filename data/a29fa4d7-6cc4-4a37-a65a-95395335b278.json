@@ -1,0 +1,12 @@
+{
+  "id": "a29fa4d7-6cc4-4a37-a65a-95395335b278",
+  "instruction": "Given the hand-written text, come up with the corresponding computer text.",
+  "input": "Hand-written Text: To find the area of a triangle we need to know the base and the height.",
+  "output": "To find the area of a triangle, we need to know the length of the base and the corresponding height. The area can be calculated using the formula: Area = (base * height) / 2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

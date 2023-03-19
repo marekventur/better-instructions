@@ -1,0 +1,12 @@
+{
+  "id": "55d6e826-f5f8-4714-bef6-0f95cf8aa514",
+  "instruction": "Given a string, reverse the order of the characters and print it on the screen",
+  "input": "Hello",
+  "output": "olleH",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

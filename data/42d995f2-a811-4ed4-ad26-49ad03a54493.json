@@ -1,0 +1,12 @@
+{
+  "id": "42d995f2-a811-4ed4-ad26-49ad03a54493",
+  "instruction": "Describe the working of the given algorithm in less than 100 words.",
+  "input": "K-Means Clustering",
+  "output": "K-Means Clustering is an unsupervised machine learning technique used to find clusters or groups of similar data points within a dataset. The algorithm first randomly initializes \u2018k\u2019 number of centroids, then proceeds to assign each data point to the closest cluster by calculating the distance between them. Then, the algorithm updates the centroids to the average of the data points within that cluster before repeating the process again until the centroids don\u2019t move anymore. This iterative process is then used to group the data points based on the similarities within them and assign them to the corresponding clusters.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

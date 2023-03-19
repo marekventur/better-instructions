@@ -1,0 +1,12 @@
+{
+  "id": "e381197e-7d1e-44b1-ba4a-5194c51d4f37",
+  "instruction": "Generate a list of questions to determine the customer's opinion of a product.",
+  "input": "",
+  "output": "- What do you think of the product's design?\n- Was the product easy to use?\n- Was the product reliable?\n- How did the product help you achieve your goals?\n- What did you like most about the product?\n- What did you like least about the product?\n- How would you rate the overall quality of the product?\n- How satisfied are you with the product's performance?\n- Would you recommend the product to someone else?\n- Was the cost of the product appropriate for the quality?\n- What improvements would you like to see in the product?\n- Was the customer service responsive?\n- How does this product compare to its competitors?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c7de71c2-179f-42b8-a3ea-8c2373ca5f34",
+  "instruction": "Construct a truth table for the given expression.",
+  "input": "(~P -> Q) v (R -> S)",
+  "output": "P    Q    R    S    (~P -> Q) v (R -> S)\n  T    T    T    T          T\n  T    T    F    F          F\n  T    F    T    T          T\n  T    F    F    F          F\n  F    T    T    T          T\n  F    T    F    F          F\n  F    F    T    T          T\n  F    F    F    T          T",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "534a80c6-5e52-43ba-b002-befa8e1a3472",
+  "instruction": "What is the process of fixing a flat tire?",
+  "input": "",
+  "output": "The process of fixing a flat tire typically involves the following steps: ensuring the car is on a level surface and jacked up securely; loosen the lug nuts on the wheel before removing; remove the wheel; remove the inner tube; inspect the wheel, inner tube and tire for damage or debris; patch or replace the inner tube; inflate the tube and re-install the wheel; reinstall and correctly tighten the lug nuts; Lower the car; and finally, give the wheel a few more turns on the lug nuts to ensure it is secured.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

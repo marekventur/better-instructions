@@ -1,0 +1,12 @@
+{
+  "id": "24ff111d-d668-475b-9fc8-20d09935edb7",
+  "instruction": "Given the context and keywords, come up with a funny, non-offensive joke.",
+  "input": "Context: Interview\nKeywords: Cows, Monkeys",
+  "output": "Q: What did the cow say to the monk during an interview? \nA: \"It's udderly bizarre!\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

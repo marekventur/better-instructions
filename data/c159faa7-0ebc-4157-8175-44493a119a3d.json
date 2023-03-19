@@ -1,0 +1,12 @@
+{
+  "id": "c159faa7-0ebc-4157-8175-44493a119a3d",
+  "instruction": "Sort the ingredients below in order of importance in a recipe.",
+  "input": "eggs, sugar, vanilla, butter",
+  "output": "Butter, Sugar, Eggs, Vanilla",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "74b611d4-1b21-43f2-8dab-f81fc1b80586",
+  "instruction": "Remove the unnecessary word from the given sentence.",
+  "input": "She drove her car quickly very quickly.",
+  "output": "She drove her car quickly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

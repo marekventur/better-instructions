@@ -1,0 +1,12 @@
+{
+  "id": "74cf0f23-8d5a-4290-ae1c-bc8074d4ab01",
+  "instruction": "You are given a dataset containing customer records. Determine the most common demographic among these customers.",
+  "input": "Name | Age | Gender | Location \nJohn | 28 | Male | New York \nKate | 32 | Female | California\nGreg | 45 | Male | Texas",
+  "output": "Male, with an average age of 35, located in the United States.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

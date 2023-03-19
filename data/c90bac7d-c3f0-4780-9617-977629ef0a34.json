@@ -1,0 +1,12 @@
+{
+  "id": "c90bac7d-c3f0-4780-9617-977629ef0a34",
+  "instruction": "You need to explain how machine learning works.",
+  "input": "",
+  "output": "Machine learning is a type of artificial intelligence that enables computers to learn and improve without being explicitly programmed. It works by using algorithms that analyze data, learn from it, and make predictions or decisions without being explicitly instructed to do so. It can be used in a variety of applications, such as data mining, classification, prediction and clustering.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

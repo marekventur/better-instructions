@@ -1,0 +1,12 @@
+{
+  "id": "ea699576-ee5c-4777-8305-66fdd4b3e83b",
+  "instruction": "Categorize the given statement as belonging to past, present, or future tense.",
+  "input": "He will buy a car tomorrow.",
+  "output": "This statement is in the future tense.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

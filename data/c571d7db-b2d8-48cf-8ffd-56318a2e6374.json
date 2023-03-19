@@ -1,0 +1,12 @@
+{
+  "id": "c571d7db-b2d8-48cf-8ffd-56318a2e6374",
+  "instruction": "Create a dialogue between two characters that demonstrates how they are feeling about a situation.",
+  "input": "John and Jessica have been friends for many years but lately have been arguing a lot.",
+  "output": "John: \"Why is it that suddenly, everything I say rubs you the wrong way?\"\n\nJessica: \"I don't know, John. We used to get along so well, and now it seems like we can't agree on anything!\"\n\nJohn: \"Maybe we're both frustrated with this situation? Maybe it's time that we both just sit down and talk it out.\"\n\nJessica: \"You're right, John. I think it's time we really try to figure out why we're feeling this way so we can get back to the way we used to be.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

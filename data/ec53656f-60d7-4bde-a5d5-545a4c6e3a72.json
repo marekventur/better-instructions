@@ -1,0 +1,12 @@
+{
+  "id": "ec53656f-60d7-4bde-a5d5-545a4c6e3a72",
+  "instruction": "Synthesize sentences from the given Clause.",
+  "input": "Although he was unwell",
+  "output": "Despite being unwell, he still managed to attend.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

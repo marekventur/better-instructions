@@ -1,0 +1,12 @@
+{
+  "id": "73fcaea5-6019-4711-821e-423e4a073c9e",
+  "instruction": "Develop a web-based application that does the following",
+  "input": "Sorts images according to category",
+  "output": "This web-based application should use a database to store the images and associated categorization information. The application should allow users to upload images and assign tags to them. Additionally, there should be an interface which provides the ability to search and filter the images by tags. Lastly, the application should use computer vision techniques, like object detection and image classification, to sort the images into categories.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

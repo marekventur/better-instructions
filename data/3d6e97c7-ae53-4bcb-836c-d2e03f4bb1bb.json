@@ -1,0 +1,12 @@
+{
+  "id": "3d6e97c7-ae53-4bcb-836c-d2e03f4bb1bb",
+  "instruction": "Come up with an imaginary dialogue between two people on the topic of the article.",
+  "input": "In a recent survey, 90% of participants indicated that self-care is important for their overall health and well-being.",
+  "output": "Person 1: Have you seen the results of the survey? \nPerson 2: No, what did it say? \nPerson 1: It indicated that 90% of participants agreed that self-care is important for their overall health and wellbeing. \nPerson 2: Wow, that's a great reminder to make time for ourselves! We all need to take care of ourselves and make sure we're not burning ourselves out.\nPerson 1: Absolutely! I'm going to start setting aside time for myself this week.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

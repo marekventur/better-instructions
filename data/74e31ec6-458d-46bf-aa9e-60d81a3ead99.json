@@ -1,0 +1,12 @@
+{
+  "id": "74e31ec6-458d-46bf-aa9e-60d81a3ead99",
+  "instruction": "For the string \"Hello World!\", compare which letters are different between the two words.",
+  "input": "Hello World!",
+  "output": "The letters 'e', 'o', 'r', and 'l' are different between the two words.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

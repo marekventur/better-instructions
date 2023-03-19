@@ -1,0 +1,12 @@
+{
+  "id": "19f49644-02a8-43d3-890f-a0ca085e44e9",
+  "instruction": "Design a classification model for sentiment analysis of movie reviews.",
+  "input": "",
+  "output": "A sentiment analysis classification model for movie reviews should use supervised learning to classify input reviews as either positive, negative, or neutral, based on features such as the words used, sentence structure, and the overall sentiment of the review. The model should also take into account the context of the review, as well as any relevant emoticons or symbols. Finally, the model should be tested with a large dataset of movie reviews to ensure it has the highest accuracy possible.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

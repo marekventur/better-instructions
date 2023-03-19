@@ -1,0 +1,12 @@
+{
+  "id": "f6922db9-28d4-413d-ab22-5a31ec3b68e2",
+  "instruction": "Describe the quality assurance process of a software product.",
+  "input": "",
+  "output": "The quality assurance process of a software product involves several steps to ensure the product meets the customer's requirements and expectations. The process begins with analyzing customer requirements, followed by designing the project, coding and unit testing. After that developers work on integration, system testing and acceptance testing. At the end of the process, the product goes through performance testing, user acceptance testing and finally verification and validation, which includes analyzing customer feedback and bug-fixing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

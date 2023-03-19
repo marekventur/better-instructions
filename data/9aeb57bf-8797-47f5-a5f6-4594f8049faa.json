@@ -1,0 +1,12 @@
+{
+  "id": "9aeb57bf-8797-47f5-a5f6-4594f8049faa",
+  "instruction": "Classify the given sample of text.",
+  "input": "The sky was a deep blue, and the clouds were wispy and white.",
+  "output": "This sample of text is a descriptive passage.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

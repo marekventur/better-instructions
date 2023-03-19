@@ -1,0 +1,12 @@
+{
+  "id": "d557465e-e6c1-41c2-b616-f18801218422",
+  "instruction": "Describe the musical style of a particular composer.",
+  "input": "John Cage",
+  "output": "John Cage was an American avant-garde composer known for his use of traditional and experimental musical techniques, particularly within the field of indeterminacy. His compositions often explore ideas of chance and indeterminacy, combining elements of traditional classical, atonal, and percussion music in his works. Cage's most famous works include the 4'33\" which does not actually contain any music, but encourages listeners to explore the sounds of a concert hall for the duration of the piece.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

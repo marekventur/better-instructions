@@ -1,0 +1,12 @@
+{
+  "id": "4865fc7e-dc40-40e2-88dd-4d073d1d1738",
+  "instruction": "Join the two lists of words together so that the result is a sentence.",
+  "input": "[global, efforts, reducing, CO2]\n[contributing, climate, change]",
+  "output": "Global efforts to reduce CO2 are contributing to climate change.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0161d772-0ae7-4775-9a0a-39f2a107b6a1",
+  "instruction": "Edit the following code to include a while loop",
+  "input": "for (i = 0; i < 10; i++)\n{\n    console.log(i);\n}",
+  "output": "for (i = 0; i < 10; i++)\n{\n    console.log(i);\n    while (i < 10)\n    {\n        i++;\n    }\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

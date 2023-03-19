@@ -1,0 +1,12 @@
+{
+  "id": "4bbe3945-58ad-47cc-8ed2-c9a2877a90f6",
+  "instruction": "Modify the given code by adding a for loop.",
+  "input": "grade = A\n\nif (grade == A):\n    print(\"Excellent\")",
+  "output": "grades = [\"A\", \"B\", \"C\", \"D\"]\n\nfor grade in grades:\n    if (grade == \"A\"):\n        print(\"Excellent\")\n    elif (grade == \"B\"):\n        print(\"Good\")\n    elif (grade == \"C\"):\n        print(\"Average\")\n    elif (grade == \"D\"):\n        print(\"Poor\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c53ed294-9d43-4d2d-90cf-e0ba39223029",
+  "instruction": "Create a program to fetch the account balance of the customer.",
+  "input": "Customer Name: John Smith",
+  "output": "# Program to fetch the account balance of the customer\n\ndef fetch_account_balance(name):\n    # Access customer data from database\n    customer_data = get_data_from_db(name)\n\n    # Get customer's account balance\n    customer_balance = customer_data['account_balance']\n\n    # Return customer's account balance\n    return customer_balance\n\n# Fetch the account balance of John Smith\njohn_smith_balance = fetch_account_balance('John Smith')\nprint(john_smith_balance)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

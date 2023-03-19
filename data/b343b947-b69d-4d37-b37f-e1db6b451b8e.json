@@ -1,0 +1,12 @@
+{
+  "id": "b343b947-b69d-4d37-b37f-e1db6b451b8e",
+  "instruction": "Identify the grammatical error in the phrase.",
+  "input": "It's raining cats and dog.",
+  "output": "It's raining cats and dogs. (Replace 'dog' with 'dogs').",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

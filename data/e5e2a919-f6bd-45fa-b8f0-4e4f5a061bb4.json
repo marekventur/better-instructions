@@ -1,0 +1,12 @@
+{
+  "id": "e5e2a919-f6bd-45fa-b8f0-4e4f5a061bb4",
+  "instruction": "Take the following article and summarize it into one paragraph",
+  "input": "The development of artificial intelligence has posed both opportunities and threats. On the one hand, AI-powered automation can increase efficiency and reduce costs for businesses, creating new job opportunities for people with the right skills. On the other hand, AI can result in job displacement and increased surveillance, particularly in low-income communities.",
+  "output": "The development of artificial intelligence offers numerous opportunities, such as increased efficiency and cost-savings, as well as the potential creation of new employment opportunities. However, it also brings risks of job displacement and increased surveillance, especially in disadvantaged communities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

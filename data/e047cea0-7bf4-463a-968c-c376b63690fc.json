@@ -1,0 +1,12 @@
+{
+  "id": "e047cea0-7bf4-463a-968c-c376b63690fc",
+  "instruction": "You have a list of words, and you need to come up with a new word or phrase by combining them.",
+  "input": "Wind, Rise",
+  "output": "Windrise.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a01bd659-8b3d-409f-955f-de31e7ee93a0",
+  "instruction": "Write the HTML code to create a button that links to a certain page.",
+  "input": "Link to page: https://example.com\nText on button: Click Here",
+  "output": "<button type=\"button\"><a href=\"https://example.com\">Click Here</a> </button>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

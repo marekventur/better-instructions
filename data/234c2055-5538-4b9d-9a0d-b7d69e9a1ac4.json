@@ -1,0 +1,12 @@
+{
+  "id": "234c2055-5538-4b9d-9a0d-b7d69e9a1ac4",
+  "instruction": "Imagine you are given the task to classify emotions into two categories: happy vs. sad. Describe two features that could help classify emotions.",
+  "input": "",
+  "output": "Two features that can help in classifying emotions are facial expressions and body language. Facial expressions such as smiling or laughing can indicate happiness while furrowed brows and downturned lips could indicate sadness. Likewise, body language such as open and relaxed posture, light movement and head nodding can suggest happiness, whereas hunched shoulders and slow movements could suggest the opposite.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

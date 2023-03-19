@@ -1,0 +1,12 @@
+{
+  "id": "e2ac718e-b7cd-4a8a-ba06-7b4fa3d75c74",
+  "instruction": "Construct a Big-O notation to explain the complexity of a certain algorithm",
+  "input": "",
+  "output": "The complexity of the algorithm is O(n\u00b2), which means that the time it takes to complete the algorithm grows with the square of the size of the input data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

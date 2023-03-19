@@ -1,0 +1,12 @@
+{
+  "id": "a8190586-2478-4148-97ae-5192222650de",
+  "instruction": "Find the shortest path from point A to point B using a GPS trajectory.",
+  "input": "Point A = (41.65407\u00b0 N, 91.53147\u00b0 W)\nPoint B = (41.65104\u00b0 N, 91.52863\u00b0 W)",
+  "output": "41.65407\u00b0N, 91.53147\u00b0W, 41.653475\u00b0N, 91.53124\u00b0W, 41.65219\u00b0N, 91.53063\u00b0W, 41.65104\u00b0N, 91.52863\u00b0W",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

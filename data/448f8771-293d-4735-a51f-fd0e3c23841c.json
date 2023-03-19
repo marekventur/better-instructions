@@ -1,0 +1,12 @@
+{
+  "id": "448f8771-293d-4735-a51f-fd0e3c23841c",
+  "instruction": "Describe different types of computer viruses and their effects.",
+  "input": "",
+  "output": "Computer viruses can be categorized into different types, including Worms, Trojans, Adware, and Logic Bombs. Worms are programs that replicate themselves from computer to computer without needing any user intervention. Trojans are malicious programs that masquerade as programs to gain unauthorized access to computers. Adware are programs that display unwanted ads and collect personal data. Logic Bombs are codes that, when triggered, cause all sorts of damage to a computer, such as deleting files or corrupting the disk drive. The effects of these viruses range from slowing down a computer to data corruption and complete system failure.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

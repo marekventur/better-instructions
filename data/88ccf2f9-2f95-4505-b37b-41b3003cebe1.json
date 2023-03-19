@@ -1,0 +1,12 @@
+{
+  "id": "88ccf2f9-2f95-4505-b37b-41b3003cebe1",
+  "instruction": "Rank the following 4 modes of transport according to their total impact on the environment.\n4. Air transportation\n3.Train transportation\n2. Road transportation\n1. Ship transportation",
+  "input": "",
+  "output": "1. Ship transportation \n2. Road transportation \n3. Train transportation \n4. Air transportation \n\nShip transportation has the least environmental impact because ships emit lower levels of pollutants compared to the other modes of transport. Road transportation is the next least environmental impact, followed by train transportation. Air transportation has the highest environmental impact out of the four modes, due to its high emissions of pollutants.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

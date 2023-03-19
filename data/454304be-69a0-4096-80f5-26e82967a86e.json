@@ -1,0 +1,12 @@
+{
+  "id": "454304be-69a0-4096-80f5-26e82967a86e",
+  "instruction": "Which driver is best for solving the given problem? Output A, B, C, D or E.",
+  "input": "A problem a company is facing is the need to develop their own monitoring software for their hardware to improve performance.\n\nA: SolarWinds\nB: Sophos\nC: APC by Schneider Electric\nD: Splunk\nE: Zabbix",
+  "output": "E: Zabbix",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

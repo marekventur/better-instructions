@@ -1,0 +1,12 @@
+{
+  "id": "61eecab9-fd7b-4a56-9ff2-be1827f4e6fd",
+  "instruction": "Tell me the evidence in support of the following statement.",
+  "input": "Gentrification can have a positive impact on local communities.",
+  "output": "Evidence suggests that gentrification can increase the tax base of cities, provide access to better quality housing and services, increase economic opportunities, and reduce crime in some areas. It can also lead to improvements to education and public infrastructure, as well as an overall increase in the quality of life for local residents.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

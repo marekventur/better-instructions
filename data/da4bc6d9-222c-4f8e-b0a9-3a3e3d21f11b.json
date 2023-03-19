@@ -1,0 +1,12 @@
+{
+  "id": "da4bc6d9-222c-4f8e-b0a9-3a3e3d21f11b",
+  "instruction": "Create a data set containing the population of 5 countries.",
+  "input": "",
+  "output": "Country  | Population\nChina        | 1.4 billion\nIndia        | 1.37 billion\nUnited States | 329 million\nIndonesia    | 270 million\nBrazil       | 212 million",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

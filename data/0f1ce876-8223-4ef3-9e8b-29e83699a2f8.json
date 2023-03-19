@@ -1,0 +1,12 @@
+{
+  "id": "0f1ce876-8223-4ef3-9e8b-29e83699a2f8",
+  "instruction": "Explain why the given scientific theory is accepted by most of the scientists.",
+  "input": "Theory of Evolution",
+  "output": "The Theory of Evolution is accepted by most scientists because it is evidence-based and can explain the diversity of life on Earth. Scientists have been able to observe the changes in species over time and understand how they adapt to the environment. Molecular evidence, such as homologous DNA structures, show a clear link between species, and fossil evidence allows a record to be traced back to a common ancestor. This evidence provides the foundation for current evolutionary theory.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

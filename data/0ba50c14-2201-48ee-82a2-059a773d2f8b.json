@@ -1,0 +1,12 @@
+{
+  "id": "0ba50c14-2201-48ee-82a2-059a773d2f8b",
+  "instruction": "What is the proper APA formatting for a journal article citation?",
+  "input": "",
+  "output": "APA formatting for a journal article citation should include the article title, author's name, year of publication, journal title, volume, page numbers and DOI (if applicable). For example: \n\nColeman, J. (2016). The effects of video games on student achievement. Journal of Video Games, 15(3), 234-236. https://doi.org/10.12345/jvg.15.3.234",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1fa0c20a-c3d6-45b3-bce3-7dd6982ba4f9",
+  "instruction": "Create a script that sends out automatic email notifications to customers.",
+  "input": "",
+  "output": "The script should contain the following sections: \n\n1. A check to see if customers have opted-in to the service.\n2. A loop to iterate through each customer\u2019s email address. \n3. A method to construct and format the email. \n4. A method to send out the automated email notification. \n5. A section for any error handling.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

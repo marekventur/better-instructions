@@ -1,0 +1,12 @@
+{
+  "id": "f99f22ba-a094-4df4-abed-e6b32b8aa7a4",
+  "instruction": "Categorize the following list of objects as either living or non-living: frog, rock, tree",
+  "input": "",
+  "output": "Frog: Living \nRock: Non-living \nTree: Living",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

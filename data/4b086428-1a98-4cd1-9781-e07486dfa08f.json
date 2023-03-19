@@ -1,0 +1,12 @@
+{
+  "id": "4b086428-1a98-4cd1-9781-e07486dfa08f",
+  "instruction": "According to the laws of physics, a ball thrown up into the sky will follow which trajectory?",
+  "input": "",
+  "output": "The ball will follow a parabolic trajectory when thrown upwards, which is a curved path defined by the acceleration of gravity. Once the ball reaches its apex, it will then start to descend along the same path.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "98d501f8-af21-49bf-90aa-8ab8ce65377b",
+  "instruction": "Suggest an algorithm to find the total number of substrings in a given string.",
+  "input": "string = \"hello\"",
+  "output": "The following algorithm can be used to find the total number of substrings in a given string: \n\n1. Initialize two variables, count and n, and set count = 0 and n = the length of the string. \n2. Iterate through the length of the string using a for loop and set a variable i as the iterator. \n3. Inside the loop, set another nested loop that allows j to iterate over a range beginning at i and ending at n. \n4. Increment count by n minus i when the inner loop ends. \n5. After the outer loop ends, return count. \n\nThis algorithm will give us the total number of substrings in a given string.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

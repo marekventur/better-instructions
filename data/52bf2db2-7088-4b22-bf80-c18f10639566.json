@@ -1,0 +1,12 @@
+{
+  "id": "52bf2db2-7088-4b22-bf80-c18f10639566",
+  "instruction": "Construct a database query to count the number of records that have a status of 'completed'.",
+  "input": "",
+  "output": "SELECT COUNT(*) FROM table WHERE status = 'completed';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3686f0c5-2c7c-418a-87dd-8c1104c1ccf5",
+  "instruction": "Convert the following EUR amount to USD.",
+  "input": "150 EUR",
+  "output": "179.65 USD",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

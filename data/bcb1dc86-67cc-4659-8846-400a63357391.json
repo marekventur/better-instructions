@@ -1,0 +1,12 @@
+{
+  "id": "bcb1dc86-67cc-4659-8846-400a63357391",
+  "instruction": "Construct a new sentence from the two provided sentences",
+  "input": "She was too afraid to take the job. She wanted to travel the world.",
+  "output": "She was too afraid to take the job, but she still had the dream of travelling around the world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

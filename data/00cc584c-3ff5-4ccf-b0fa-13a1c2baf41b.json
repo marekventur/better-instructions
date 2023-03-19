@@ -1,0 +1,12 @@
+{
+  "id": "00cc584c-3ff5-4ccf-b0fa-13a1c2baf41b",
+  "instruction": "Determine the median of the following group of numbers:",
+  "input": "8, 22, 11, 47",
+  "output": "11",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

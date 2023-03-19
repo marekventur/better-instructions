@@ -1,0 +1,12 @@
+{
+  "id": "81607c78-09fc-458e-a935-dc25e98eee94",
+  "instruction": "Provide an evaluation of the given painting",
+  "input": "Artwork: Monet's \"Water Lilies\"",
+  "output": "Monet's \"Water Lily\" is an exquisite piece of art filled with beautiful colors and peaceful imagery. The artist captures the tranquility of the water lilies and their reflection in the lake with a masterful use of brushstrokes and light. The scene conveys a sense of calm and serenity that is sure to bring a sense of peace and contentment to all who view it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

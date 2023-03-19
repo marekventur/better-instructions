@@ -1,0 +1,12 @@
+{
+  "id": "9bc1cebd-6269-4eba-bf45-ce8af827cb21",
+  "instruction": "Calculate the percentage increase or decrease in the given dataset.",
+  "input": "Five years ago, the company had 10,000 employees and now the company has 15,000 employees.",
+  "output": "50% increase",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

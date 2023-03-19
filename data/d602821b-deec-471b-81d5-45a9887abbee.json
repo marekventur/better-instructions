@@ -1,0 +1,12 @@
+{
+  "id": "d602821b-deec-471b-81d5-45a9887abbee",
+  "instruction": "Sort the following words by different categories.",
+  "input": "Despair, Hope, Futility",
+  "output": "Despair and Futility can be classified as negative experiences, while Hope is a more positive emotion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e9df0405-1558-4474-bc78-19d392b6bcf5",
+  "instruction": "Given these five pieces of evidence, adjust the article's conclusion to reflect the new information.",
+  "input": "Article Conclusion: AI-driven facial recognition technology is not reliable enough for public use yet. \n\nEvidence: \n1. 80 percent of companies are already utilizing facial recognition services \n2. Facial recognition technology is believed to be accurate within 98 percent of cases\n3. It is considered to be more reliable than other biometrics such as fingerprints\n4. Trials are ongoing on the use of facial recognition in solving crimes\n5. Facial recognition technology can be used to detect fraud and verify identity",
+  "output": "Despite a few controversies and risks associated with using AI-driven facial recognition technology in public spaces, the technology is already utilized by 80 percent of companies and is believed to be accurate within 98 percent of cases. Furthermore, it is more reliable than other biometrics such as fingerprints and is being used in trials to solve crimes. Additionally, the technology is also being used to detect fraud and verify identity. It appears that, although the technology is not fully reliable yet, it does have the potential for widespread use in public spaces.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

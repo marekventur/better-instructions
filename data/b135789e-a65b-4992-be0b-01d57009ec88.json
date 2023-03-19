@@ -1,0 +1,12 @@
+{
+  "id": "b135789e-a65b-4992-be0b-01d57009ec88",
+  "instruction": "Create an algorithm to predict future sales trends.",
+  "input": "",
+  "output": "The algorithm can use past sales data, economic indicators, customer demographics, and market trends to make predictions about future sales trends. It can use statistical methods such as linear regression or decision tree analysis to do so. The algorithm can then use the data to build models and make predictions about future sales. The algorithm can also use deep learning models, such as neural networks, to make better and more accurate predictions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

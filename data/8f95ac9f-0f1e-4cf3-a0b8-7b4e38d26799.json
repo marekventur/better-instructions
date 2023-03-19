@@ -1,0 +1,12 @@
+{
+  "id": "8f95ac9f-0f1e-4cf3-a0b8-7b4e38d26799",
+  "instruction": "Analyze this news article and give three main points",
+  "input": "Qatar is facing international condemnation amid reports that foreign workers\u2019 wages have not been paid for months. The country has for years been accused of human rights abuses relating to its use of the kafala sponsorship system for migrant workers, which prevents them from changing jobs or leaving the country without their employer\u2019s permission.",
+  "output": "1. Qatar is facing criticism amid reports of unpaid wages for foreign workers. \n2. The country has been repeatedly accused of using the kafala sponsorship system to abuse migrant workers' rights. \n3. This system prevents workers from changing jobs or leaving the country without their employer's permission.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "003c568d-a907-40f2-8b50-bcbb5640384e",
+  "instruction": "Determine whether the following words are correctly capitalized and output the result.",
+  "input": "example eXampLE",
+  "output": "The first word is correctly capitalized, while the second word is incorrectly capitalized.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

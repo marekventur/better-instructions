@@ -1,0 +1,12 @@
+{
+  "id": "c8865794-8f67-48aa-b49a-4acae834a3b5",
+  "instruction": "Come up with a question that the given statement answers.",
+  "input": "Phone numbers were invented in 1879.",
+  "output": "When were phone numbers invented?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

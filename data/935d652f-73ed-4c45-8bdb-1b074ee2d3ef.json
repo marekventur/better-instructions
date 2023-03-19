@@ -1,0 +1,12 @@
+{
+  "id": "935d652f-73ed-4c45-8bdb-1b074ee2d3ef",
+  "instruction": "Summarize a given poem in max 5 sentences.",
+  "input": "The poem \"The Sun Rising\" by John Donne\n\nNoinput",
+  "output": "John Donne's poem \"The Sun Rising\" presents an argument to the sun that its light is not needed because the poet and his beloved are content in their love even when the sunrise is not visible. He claims that he and his beloved form the \"world\" and that their love will continue despite the sun's release of its light. The poem ends with words of assurance to the sun that their love will last forever and that their world will remain unchanged even if the sun withdraws its light.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8ed348cd-9993-4641-8d73-a186111a0b09",
+  "instruction": "Classify the type of food each of the following items are associated with.",
+  "input": "Burrito, Egg",
+  "output": "Burrito: Mexican, \nEgg: Protein",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "88f1ab04-f333-43ac-98e3-e9a92b6c2e0d",
+  "instruction": "Cut the following phrase into individual words.",
+  "input": "swallowedthekey",
+  "output": "swallowed, the, key",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

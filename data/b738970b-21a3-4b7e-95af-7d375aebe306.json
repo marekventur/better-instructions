@@ -1,0 +1,12 @@
+{
+  "id": "b738970b-21a3-4b7e-95af-7d375aebe306",
+  "instruction": "Describe the organizational structure of a solar panel.",
+  "input": "",
+  "output": "Solar panels are composed of a number of individual solar cells, usually made from silicon, that convert sunlight into electricity. The top layers of the panel are specially coated glass and other protective coatings. Underneath this is a series of smaller cells connected in a grid pattern. These are connected to metal contacts that allow an electrical circuit to be formed. The metal contacts are connected to additional wiring that leads to the output terminals. The output terminals then provide power to an inverter which can be used to charge batteries or convert the DC power of the panel into AC power used in homes and businesses.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

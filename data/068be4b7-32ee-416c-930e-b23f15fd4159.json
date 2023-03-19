@@ -1,0 +1,12 @@
+{
+  "id": "068be4b7-32ee-416c-930e-b23f15fd4159",
+  "instruction": "Given the following recipe, name 5 ingredients needed to make the dish.",
+  "input": "Lasagna",
+  "output": "The five ingredients needed to make lasagna are: lasagna noodles, ricotta cheese, mozzarella cheese, tomato sauce, and ground beef.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

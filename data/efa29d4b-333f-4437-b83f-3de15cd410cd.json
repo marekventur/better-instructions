@@ -1,0 +1,12 @@
+{
+  "id": "efa29d4b-333f-4437-b83f-3de15cd410cd",
+  "instruction": "Customize the following text to a particular user.",
+  "input": "Dear Customer,",
+  "output": "Dear [Name of Customer],",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

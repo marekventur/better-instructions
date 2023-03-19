@@ -1,0 +1,12 @@
+{
+  "id": "3dd13310-fa7a-4d09-8e38-2b3caec5c1a5",
+  "instruction": "Generate a poem using the words \"dog,\" \"tree,\" and \"dandelion\".",
+  "input": "",
+  "output": "The dog sleeps beneath the tree,\nA gentle breeze rustles the dandelion,\nLifting its soft seed-heads high,\nA shelter for the dog's lonely soul. \nThe sun warms the tree,\nGiving strength to the dandelion,\nGiving courage to the dog,\nBeneath the safe and happy tree.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

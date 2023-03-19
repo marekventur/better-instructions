@@ -1,0 +1,12 @@
+{
+  "id": "d49a9c09-8719-466c-8582-fcd09bdd07b5",
+  "instruction": "Arrange the following countries in ascending order of GDP per capita.",
+  "input": "China, US, India, Japan",
+  "output": "India, China, Japan, US",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

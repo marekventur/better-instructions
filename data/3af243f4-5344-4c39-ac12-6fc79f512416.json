@@ -1,0 +1,12 @@
+{
+  "id": "3af243f4-5344-4c39-ac12-6fc79f512416",
+  "instruction": "Combine the two sentences in one",
+  "input": "I like to play soccer. I like to play basketball.",
+  "output": "I like to play soccer and basketball.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

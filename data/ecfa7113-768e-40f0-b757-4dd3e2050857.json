@@ -1,0 +1,12 @@
+{
+  "id": "ecfa7113-768e-40f0-b757-4dd3e2050857",
+  "instruction": "Compose a song based on the provided lyrics.",
+  "input": "Lyrics:\nI've been trying so hard just to make it\nNo one's willing to take a stand\nTime is running out and I'm feeling like I'm fading",
+  "output": "Verse 1:\n\nI've been trying so hard just to make it\nNo one's willing to take a stand\nTime is running out and I'm feeling like I'm fading\nBut I won't give up, I'm gonna be brave\n\nChorus:\n\nI'll keep fighting no matter what comes my way\nGonna keep pushing, no matter how hard it gets\nI won't stop, I won't give in, it won't be long now\nI'll stand up for what I need, I'll make a change somehow!\n\nVerse 2: \n\nGonna keep going no matter what life throws my way\nGonna keep trying, no matter the odds \nMy heart won't break and I won't be defeated\nI'm gonna make it somehow, I'll stand tall and proud!\n\nChorus: \n\nI'll keep fighting no matter what comes my way\nGonna keep pushing, no matter how hard it gets\nI won't stop, I won't give in, it won't be long now\nI'll stand up for what I need, I'll make a change somehow!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

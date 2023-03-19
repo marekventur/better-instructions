@@ -1,0 +1,12 @@
+{
+  "id": "8c17a868-82e2-47af-a95d-e6ad7f36cd7a",
+  "instruction": "Write a C++ code to calculate the sum of the following numbers",
+  "input": "2, 4, 6",
+  "output": "#include <iostream>\n \nint main()\n{\n    int num1 = 2;\n    int num2 = 4;\n    int num3 = 6;\n    int sum = num1 + num2 + num3;\n \n    std::cout << \"The sum of 2, 4 and 6 is: \" << sum << std::endl;\n \n    return 0;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

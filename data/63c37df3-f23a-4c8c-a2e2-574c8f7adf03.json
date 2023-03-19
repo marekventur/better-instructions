@@ -1,0 +1,12 @@
+{
+  "id": "63c37df3-f23a-4c8c-a2e2-574c8f7adf03",
+  "instruction": "What is the main subject of the article in the link below?",
+  "input": "https://news.yahoo.com/us-approves-cyberattack-china-disinformation-campaign-203727922.html",
+  "output": "The main subject of the article is the U.S. government's approval of a cyberattack against China for a disinformation campaign.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

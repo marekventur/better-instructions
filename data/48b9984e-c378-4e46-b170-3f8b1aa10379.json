@@ -1,0 +1,12 @@
+{
+  "id": "48b9984e-c378-4e46-b170-3f8b1aa10379",
+  "instruction": "Explain how to play chess",
+  "input": "",
+  "output": "Chess is a two-player game where each player controls an army of 16 total pieces with the objective of checkmating the other player's king. On each turn, a single piece can be moved to a different position on the board, which can range from an empty space to a space occupied by an opponent's piece. The piece types include the King, Queen, Bishop, Knight, Rook and Pawn, which each move in different ways. The game ends either when one player checkmates the other or when both players agree to a draw.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "90f77b46-7043-4e56-a20f-64b5b3463331",
+  "instruction": "Select the incorrect verb below.",
+  "input": "Played, Studied, Rise",
+  "output": "Rise.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

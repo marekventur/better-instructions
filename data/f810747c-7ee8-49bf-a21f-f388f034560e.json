@@ -1,0 +1,12 @@
+{
+  "id": "f810747c-7ee8-49bf-a21f-f388f034560e",
+  "instruction": "Find the probability that a two digit number is divisible by 3.",
+  "input": "",
+  "output": "The probability that a two-digit number is divisible by 3 is approximately 33.33%, since 33 out of the 100 possible two-digit numbers are divisible by 3.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

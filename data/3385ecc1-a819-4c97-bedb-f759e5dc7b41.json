@@ -1,0 +1,12 @@
+{
+  "id": "3385ecc1-a819-4c97-bedb-f759e5dc7b41",
+  "instruction": "Create a function that takes two strings and checks if they are an anagram of each other.",
+  "input": "",
+  "output": "def is_anagram(str1, str2):\n    char_map1 = {}\n    for char in str1:\n        if char in char_map1:\n            char_map1[char] += 1\n        else:\n            char_map1[char] = 1\n\n    char_map2 = {}\n    for char in str2:\n        if char in char_map2:\n            char_map2[char] += 1\n        else:\n            char_map2[char] = 1\n\n    if char_map1 != char_map2:\n        return False\n    else:\n        return True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

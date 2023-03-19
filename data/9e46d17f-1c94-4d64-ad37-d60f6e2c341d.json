@@ -1,0 +1,12 @@
+{
+  "id": "9e46d17f-1c94-4d64-ad37-d60f6e2c341d",
+  "instruction": "Copy-edit the following text and fix any grammatical errors or sentences that need rephrasing.",
+  "input": "The customer was unhappy with the products and was demanding a refund and he not had a good experience",
+  "output": "The customer was unhappy with the product and was demanding a refund, as he had not had a good experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

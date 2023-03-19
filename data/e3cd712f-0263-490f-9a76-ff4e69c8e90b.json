@@ -1,0 +1,12 @@
+{
+  "id": "e3cd712f-0263-490f-9a76-ff4e69c8e90b",
+  "instruction": "Generate a plausible solution to the following problem.",
+  "input": "The mayor needs a way to reduce traffic in the city.",
+  "output": "The mayor could implement a city-wide bike-sharing program to encourage more citizens to switch to biking instead of driving. The city could also incentivize carpooling by providing discounted parking passes for groups of two or more. In addition, the mayor could explore traffic calming techniques such as adding speed bumps or narrowing the lanes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

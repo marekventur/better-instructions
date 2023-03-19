@@ -1,0 +1,12 @@
+{
+  "id": "a000f34c-2dc5-4211-a38e-7b3f2fda23c7",
+  "instruction": "Calculate the average temperature of the given list.",
+  "input": "[25.2, 24.6, 22.7, 26.1, 28.2]",
+  "output": "25.26 degrees Celsius.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

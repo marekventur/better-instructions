@@ -1,0 +1,12 @@
+{
+  "id": "463fc9a9-df5d-4616-975a-1ed88cd49029",
+  "instruction": "Determine if this is a valid object-oriented programming language.",
+  "input": "Kotlin",
+  "output": "Yes, Kotlin is a valid object-oriented programming language. It is a statically typed, interoperable, and general purpose programming language for the JVM and Android that combines the best features of both functional and object-oriented programming paradigms. It was designed to be intuitive, modern, and low-overhead.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

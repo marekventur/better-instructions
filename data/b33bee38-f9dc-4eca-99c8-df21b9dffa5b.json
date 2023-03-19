@@ -1,0 +1,12 @@
+{
+  "id": "b33bee38-f9dc-4eca-99c8-df21b9dffa5b",
+  "instruction": "Edit the following paragrapg to make it suitable for an newspaper article.",
+  "input": "Last Monday, an amazing event happend in our town. Everyone was super excited to watch it.",
+  "output": "Last Monday, our town was treated to an amazing event that had the whole community abuzz with excitement.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

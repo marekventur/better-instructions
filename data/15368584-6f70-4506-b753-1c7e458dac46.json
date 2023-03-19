@@ -1,0 +1,12 @@
+{
+  "id": "15368584-6f70-4506-b753-1c7e458dac46",
+  "instruction": "Identify the most commonly used words in the text",
+  "input": "I am so excited to go on an adventure and explore the world, it is going to be great!",
+  "output": "The most commonly used words in the text are \"I\", \"to\", \"an\", \"go\", \"and\", \"the\", \"be\", \"explore\", \"great\", \"adventure\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

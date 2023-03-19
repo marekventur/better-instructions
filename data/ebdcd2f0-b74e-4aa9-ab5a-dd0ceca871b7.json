@@ -1,0 +1,12 @@
+{
+  "id": "ebdcd2f0-b74e-4aa9-ab5a-dd0ceca871b7",
+  "instruction": "Rearrange the following words to form a proper mathematical equation.",
+  "input": "2 x 3 =",
+  "output": "3 x 2 = 6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

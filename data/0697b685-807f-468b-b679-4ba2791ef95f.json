@@ -1,0 +1,12 @@
+{
+  "id": "0697b685-807f-468b-b679-4ba2791ef95f",
+  "instruction": "Create an algorithm to detect spam emails.",
+  "input": "",
+  "output": "An algorithm to detect spam emails could involve analyzing keywords and phrases in the email content, comparing the source of the email to other known spammers, identifying unusual HTML coding structures or URLs, and tracking the email for signs of suspicious activity or inconsistencies with known factual information.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

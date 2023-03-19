@@ -1,0 +1,12 @@
+{
+  "id": "ae174c90-6c5d-4201-8800-2b8b2ff8ac1d",
+  "instruction": "Determine how this example sentence illustrates parallel structure.",
+  "input": "My brother loves to play video games, watch movies, and to read books.",
+  "output": "This sentence illustrates parallel structure by using the same verb form (\"to play\", \"to watch\", and \"to read\") for each of the activities listed in the sentence. This creates a smoother and more balanced sentence that reads more smoothly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

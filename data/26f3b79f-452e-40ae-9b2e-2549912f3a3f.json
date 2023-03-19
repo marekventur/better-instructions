@@ -1,0 +1,12 @@
+{
+  "id": "26f3b79f-452e-40ae-9b2e-2549912f3a3f",
+  "instruction": "Insert two adjectives to describe this product.",
+  "input": "The new auto-lock door system is a revolutionary product for homes and businesses.",
+  "output": "The new auto-lock door system is a revolutionary revolutionary and innovative product for homes and businesses.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

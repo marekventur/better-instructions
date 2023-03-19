@@ -1,0 +1,12 @@
+{
+  "id": "45832ad1-02e0-4a77-be83-7f21c80925bb",
+  "instruction": "Make the second sentence shorter.",
+  "input": "Winter is usually the coldest season of the year. Snow is a common element during winter.",
+  "output": "Winter is the coldest season, often accompanied by snow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

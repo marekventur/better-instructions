@@ -1,0 +1,12 @@
+{
+  "id": "972e2452-607c-41f4-b403-0f3f93a5036f",
+  "instruction": "Compare the two works of art.",
+  "input": "![alt text](https://i.imgur.com/XzrAxTc.jpg)",
+  "output": "The two works of art depict the same subject matter - a figure in a contemplative pose - but they differ in style. The painting on the left has a more impressionistic quality with its softer colors and less-defined outline. The painting on the right has a more abstract expressionistic style with its more vivid colors, more defined outline and more aggressive brush strokes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

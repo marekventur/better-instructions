@@ -1,0 +1,12 @@
+{
+  "id": "05798232-7898-4936-b574-1a61cbb5179d",
+  "instruction": "In the following sentence, determine what type of word \"it\" represents",
+  "input": "John put forth his best effort, but it was insufficient.",
+  "output": "In this sentence, the word \"it\" is a pronoun representing John's effort.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

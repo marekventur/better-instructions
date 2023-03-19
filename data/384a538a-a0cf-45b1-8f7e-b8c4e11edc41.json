@@ -1,0 +1,12 @@
+{
+  "id": "384a538a-a0cf-45b1-8f7e-b8c4e11edc41",
+  "instruction": "What language is this sentence written in?",
+  "input": "Je suis \u00e0 la recherche d'un nouvel emploi.",
+  "output": "French.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "689ba2c2-2a87-40c9-ae7d-5951d4fe55bb",
+  "instruction": "Parse the following JSON data and reformat into an HTML table.",
+  "input": "{\"People\": [\n    {\"Name\": \"John\", \"Age\": 20}, \n    {\"Name\": \"Jill\", \"Age\": 27}\n]}",
+  "output": "<table>\n    <tr>\n        <th>Name</th>\n        <th>Age</th>\n    </tr>\n    <tr>\n        <td>John</td>\n        <td>20</td>\n    </tr>\n    <tr>\n        <td>Jill</td>\n        <td>27</td>\n    </tr>\n</table>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

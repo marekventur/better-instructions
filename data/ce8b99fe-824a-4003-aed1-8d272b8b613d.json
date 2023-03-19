@@ -1,0 +1,12 @@
+{
+  "id": "ce8b99fe-824a-4003-aed1-8d272b8b613d",
+  "instruction": "Compare and contrast URL encoding and base64 encoding",
+  "input": "",
+  "output": "URL encoding and base64 encoding are both methods of converting data into a character string that is safe to be transmitted in an URL. URL encoding involves encoding unsafe characters into a string of characters that are safe to transmit and then reverting them back once they reach the intended destination, while base64 encoding converts the data into a string of characters using a base64 encoding scheme, which is a set of 64 characters in a specific order that is used to represent data.\n\nThe main difference between the two is that URL encoding only works for unsafe characters, while base64 encoding works for any kind of data, including binary data. Additionally, URL encoding is much simpler and can be applied directly to a string, whereas base64 encoding is more complex and requires the data to be converted into bytes before encoding.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

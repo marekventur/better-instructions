@@ -1,0 +1,12 @@
+{
+  "id": "3720c603-a84c-4f90-91cd-7f58fc182fe0",
+  "instruction": "Classify the following product as either a necessity or luxury item: cell phone.",
+  "input": "",
+  "output": "The product cell phone can be classified as a necessity item. While it is not strictly necessary for survival, a cell phone is necessary in order to maintain successful communication with others and to access important resources such as the internet. Thus, it is an essential part of everyday life.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

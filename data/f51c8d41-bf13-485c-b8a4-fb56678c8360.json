@@ -1,0 +1,12 @@
+{
+  "id": "f51c8d41-bf13-485c-b8a4-fb56678c8360",
+  "instruction": "Rearrange the words and punctuation to form a valid sentence.",
+  "input": "state the and issue firmly",
+  "output": "Firmly state the issue.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

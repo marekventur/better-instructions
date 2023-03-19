@@ -1,0 +1,12 @@
+{
+  "id": "1783217c-d804-44ab-ada3-72bccaa0a619",
+  "instruction": "Create a program that returns 'true' when a given number is a prime number.",
+  "input": "",
+  "output": "\"\"\"\nCreate a program that returns 'true' when a given number is a prime number.\n\"\"\"\ndef is_prime(num):\n    # Edge case \n    if num == 1:\n        return False\n    # Check from 2 to n-1 \n    for i in range(2, num):\n        if (num % i) == 0:\n            return False\n    return True\n    \nif __name__ == '__main__':\n    num = int(input())\n    print(is_prime(num))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

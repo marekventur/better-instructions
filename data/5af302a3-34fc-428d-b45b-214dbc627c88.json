@@ -1,0 +1,12 @@
+{
+  "id": "5af302a3-34fc-428d-b45b-214dbc627c88",
+  "instruction": "Edit this sentence: \"The good movie was fantastic\"",
+  "input": "The good movie was fantastic",
+  "output": "The amazing movie was fabulous!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

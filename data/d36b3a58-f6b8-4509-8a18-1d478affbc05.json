@@ -1,0 +1,12 @@
+{
+  "id": "d36b3a58-f6b8-4509-8a18-1d478affbc05",
+  "instruction": "Describe a new password policy for a given organization",
+  "input": "University of Washington",
+  "output": "The University of Washington\u2019s password policy requires that users create passwords that are at least 8 characters in length that contain a mix of uppercase, lowercase, numbers, and symbols. Additionally, passwords must be changed after every 90 days, and passwords cannot be reused within a 12 month period. Users are also encouraged to use a two-factor authentication whenever possible and must not share their password with any other person. These measures ensure the utmost security and protection of all user accounts.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ed3b26db-5981-4968-a309-0553e54fdaf0",
+  "instruction": "Analyze the following sentence for any spelling and/or grammar errors, and provide the correct version of the sentence.",
+  "input": "I saw the most amazig sunset last weekend.",
+  "output": "I saw the most amazing sunset last weekend.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

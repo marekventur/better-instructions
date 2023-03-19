@@ -1,0 +1,12 @@
+{
+  "id": "2bc4b10f-0c4f-4051-8ded-e4d92d60f899",
+  "instruction": "Create a riddle about the given topic.",
+  "input": "Tree",
+  "output": "What has a trunk, branches and leaves,\nBut never moves and has no life?\n\nAnswer: A tree.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

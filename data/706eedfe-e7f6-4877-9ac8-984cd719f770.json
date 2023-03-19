@@ -1,0 +1,12 @@
+{
+  "id": "706eedfe-e7f6-4877-9ac8-984cd719f770",
+  "instruction": "Using SQL, create a command to make a new table.",
+  "input": "The new table will be called \"customers\" and should have columns for: id, name, phone, email.",
+  "output": "CREATE TABLE customers (\n\tid INT AUTO_INCREMENT PRIMARY KEY,\n \tname VARCHAR(255),\n\tphone VARCHAR(255),\n\temail VARCHAR(255)\n);",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

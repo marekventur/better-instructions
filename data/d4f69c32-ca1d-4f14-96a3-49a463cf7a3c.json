@@ -1,0 +1,12 @@
+{
+  "id": "d4f69c32-ca1d-4f14-96a3-49a463cf7a3c",
+  "instruction": "Describe how to perform a given task or activity.",
+  "input": "Making scrambled eggs",
+  "output": "To make scrambled eggs, start by heating a pan over medium heat and add butter or oil. Beat two or three eggs in a bowl and season with salt and pepper. Pour the eggs into the pan and stir continuously until the eggs begin to set. When the eggs are almost cooked, remove them from the heat and serve.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

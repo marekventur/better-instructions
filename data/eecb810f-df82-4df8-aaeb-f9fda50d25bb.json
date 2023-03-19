@@ -1,0 +1,12 @@
+{
+  "id": "eecb810f-df82-4df8-aaeb-f9fda50d25bb",
+  "instruction": "Given a list of names, create a function to find the longest name.",
+  "input": "James, Maria, Robert",
+  "output": "def find_longest_name(names): \n  longest_name = \"\"\n  for name in names:\n    if len(name) > len(longest_name):\n      longest_name = name\n  return longest_name\n  \nprint(find_longest_name([\"James\", \"Maria\", \"Robert\"]))\n\n# Output: Robert",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6f2cd811-375d-4040-828e-7208f0b9d13f",
+  "instruction": "Create an algorithm to find the common elements in two lists.",
+  "input": "list1 = [1,2,3,4,5]\nlist2 = [2,4,5,6,7]",
+  "output": "\"\"\"\nFind the common elements in two lists\n\"\"\"\n\ndef findCommonElements(list1, list2):\n    # initialize a list to store the common elements\n    common_elements = []\n\n    # loop through list1 to find common elements in both lists\n    for i in list1:\n        if i in list2:\n            common_elements.append(i)\n    \n    return common_elements\n\nif __name__ == '__main__':\n    list1 = [1,2,3,4,5]\n    list2 = [2,4,5,6,7]\n    print(findCommonElements(list1, list2))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

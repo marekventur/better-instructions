@@ -1,0 +1,12 @@
+{
+  "id": "fcd5bd1d-3356-4a32-8354-927e9b77d16f",
+  "instruction": "Provide a detailed explanation of the given mathematical equation.",
+  "input": "a/b = c",
+  "output": "This equation states that a divided by b is equal to c. This can be interpreted as a ratio between a and b, where a is the numerator and b is the denominator. The resulting value, c, is the quotient of a and b. In other words, if we divide a by b, the answer is c.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

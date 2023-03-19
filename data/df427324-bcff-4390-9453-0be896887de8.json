@@ -1,0 +1,12 @@
+{
+  "id": "df427324-bcff-4390-9453-0be896887de8",
+  "instruction": "Refactor the following code fragment to square a number without using multiplication.",
+  "input": "int result = number * number;",
+  "output": "int result = number + number + (number - number) + (number - number);",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

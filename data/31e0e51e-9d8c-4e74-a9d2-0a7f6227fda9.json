@@ -1,0 +1,12 @@
+{
+  "id": "31e0e51e-9d8c-4e74-a9d2-0a7f6227fda9",
+  "instruction": "What is the concept of transfer learning in AI?",
+  "input": "",
+  "output": "Transfer learning is a technique in which a model developed for a task is reused, with or without further training, for a different task. This technique can be used to solve a new problem at minimal cost, taking advantage of the experience gained from proven solutions to related problems. In AI, this concept has been used extensively to reduce the cost of training machine learning models and to increase their accuracy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

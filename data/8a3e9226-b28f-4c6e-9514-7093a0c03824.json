@@ -1,0 +1,12 @@
+{
+  "id": "8a3e9226-b28f-4c6e-9514-7093a0c03824",
+  "instruction": "Given a data set, write a program that counts the number of instances of each label.",
+  "input": "Data Set:\n\n['puppy', 'dog', 'kitten', 'cat', 'puppy', 'dog', 'fish', 'cat']",
+  "output": "#include<stdio.h>\n#include <string.h>\n \nint main() \n{\n    char data[][10] = {\"puppy\",\"dog\",\"kitten\",\"cat\",\"puppy\",\"dog\",\"fish\",\"cat\"};\n    int puppy_count = 0;\n    int dog_count = 0;\n    int kitten_count = 0;\n    int cat_count = 0;\n    int fish_count = 0;\n    int i;\n    int size = sizeof(data)/10;\n \n    for(i=0;i<size;i++)\n    {\n        if(strcmp(data[i],\"puppy\")==0)\n            puppy_count++;\n        if(strcmp(data[i],\"dog\")==0)\n            dog_count++;\n        if(strcmp(data[i],\"kitten\")==0)\n            kitten_count++;\n        if(strcmp(data[i],\"cat\")==0)\n            cat_count++;\n        if(strcmp(data[i],\"fish\")==0)\n            fish_count++;\n    }\n    printf(\"puppy count is %d\\ndog count is %d\\nkitten count is %d\\ncat count is %d\\nfish count is %d\\n\",\n    puppy_count, dog_count, kitten_count, cat_count, fish_count);\n \n    return 0;\n  }",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

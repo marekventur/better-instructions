@@ -1,0 +1,12 @@
+{
+  "id": "a378fa5c-c0d2-471b-a9c5-9fa3b57eaeec",
+  "instruction": "Summarize the concept of deep learning in a few sentences.",
+  "input": "",
+  "output": "Deep learning is a branch of machine learning that uses multiple layers of artificial neural networks to process large sets of data autonomously. The aim of deep learning is to enable a computer to learn how to draw conclusions from data, and to constantly improve its accuracy and performance. Deep learning models are able to learn complex tasks, such as recognizing objects in an image and improving natural language processing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

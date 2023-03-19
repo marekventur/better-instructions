@@ -1,0 +1,12 @@
+{
+  "id": "e9d2e86d-4625-4eab-bb6d-7bbb12bd6b08",
+  "instruction": "Predict the temperature for one week given the current temperature.",
+  "input": "Today's temperature is 70 degree Fahrenheit",
+  "output": "The temperature is expected to stay at 70 degrees Fahrenheit for the next three days, but then start to cool down to 65 degrees Fahrenheit on day four. Day Five is forecasted to be at 70 degrees Fahrenheit again. Days Six and Seven should show a gradual increase to 72 degrees Fahrenheit and then back down to 70 degrees Fahrenheit on the last day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

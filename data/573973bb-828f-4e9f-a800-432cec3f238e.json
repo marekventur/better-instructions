@@ -1,0 +1,12 @@
+{
+  "id": "573973bb-828f-4e9f-a800-432cec3f238e",
+  "instruction": "Explain the intricacies of a Turing Test.",
+  "input": "",
+  "output": "The Turing Test is a way to evaluate the intelligence of a computer by comparing it to a human. The Turing Test was formulated by Alan Turing, and is a method used to evaluate the intelligence of a computer program by comparing the program's response to the response of a human. The test works by having two people, one of which is a computer, interact with each other and answer questions. A panel of judges then tries to guess which one is the computer. If the judges cannot determine which one is the computer, the program passes the test and is considered to be of \u2018intelligent\u2019 level.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

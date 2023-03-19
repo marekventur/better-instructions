@@ -1,0 +1,12 @@
+{
+  "id": "27c93e04-ce72-4fb0-ba5a-d54262cf7331",
+  "instruction": "Given a stream of text, extract special characters",
+  "input": "HelloWorld123!",
+  "output": "Special characters extracted: !",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

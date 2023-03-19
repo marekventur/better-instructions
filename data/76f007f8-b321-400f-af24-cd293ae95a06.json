@@ -1,0 +1,12 @@
+{
+  "id": "76f007f8-b321-400f-af24-cd293ae95a06",
+  "instruction": "Given two separate sentences, join them into one using the conjunction 'but'.",
+  "input": "She wanted to go. She was afraid.",
+  "output": "She wanted to go but she was afraid.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

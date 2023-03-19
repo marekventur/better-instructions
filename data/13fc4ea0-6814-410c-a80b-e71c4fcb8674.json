@@ -1,0 +1,12 @@
+{
+  "id": "13fc4ea0-6814-410c-a80b-e71c4fcb8674",
+  "instruction": "Give an example of a novel in a given genre.",
+  "input": "Mystery",
+  "output": "An example of a mystery novel is Agatha Christie's \"Murder on the Orient Express\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "47e23698-0cd0-4cc6-bbf5-0fce4d394b50",
+  "instruction": "Find the frequency of the letter \"c\" in the following sentence. Output the frequency.",
+  "input": "I accidentally dropped my phone on the ground.",
+  "output": "1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

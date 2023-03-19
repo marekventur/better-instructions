@@ -1,0 +1,12 @@
+{
+  "id": "d9243cf6-1c0c-422d-a24c-16372bb689e1",
+  "instruction": "Find the US state that the following capital belongs to.",
+  "input": "Austin",
+  "output": "Texas",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

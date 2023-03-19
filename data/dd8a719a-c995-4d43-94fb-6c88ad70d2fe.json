@@ -1,0 +1,12 @@
+{
+  "id": "dd8a719a-c995-4d43-94fb-6c88ad70d2fe",
+  "instruction": "Summarize the article about data privacy in under 50 words.",
+  "input": "[Input: Link to article about data privacy]",
+  "output": "Data privacy is becoming increasingly important in the digital age, as companies and governments collect, use, and store personal data. Regulations like the EU's General Data Protection Regulation have been passed to protect user data and ensure privacy rights. Securing personal data is essential for protecting an individual's personal information.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

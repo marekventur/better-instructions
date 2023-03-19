@@ -1,0 +1,12 @@
+{
+  "id": "d8d6d2b4-6015-4dc8-81f1-b6e0f569bfa4",
+  "instruction": "Summarize the movie Jurassic Park.",
+  "input": "",
+  "output": "Jurassic Park is an action-adventure film about an eccentric billionaire with a dream of creating a prehistoric theme park filled with live dinosaurs. When the park opens, chaos ensues as the visitors must fight to survive the prehistoric creatures and overcome the hostile environment. Through teamwork and courage, they are ultimately able to escape the park safely and make it back to the mainland alive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "584f8ac1-06ae-4a89-bd8d-168201021b28",
+  "instruction": "Given the following ingredients, provide a recipe for Spaghetti Carbonara.",
+  "input": "- 500g spaghetti\n- 4 tablespoons olive oil\n- 4 garlic cloves\n- 2 eggs\n- 2 egg yolks\n- 1 cup grated Parmesan cheese\n- Salt\n- Pepper",
+  "output": "Ingredients:\n- 500g spaghetti\n- 4 tablespoons olive oil\n- 4 garlic cloves, minced\n- 2 eggs\n- 2 egg yolks\n- 1 cup grated Parmesan cheese\n- Salt\n- Pepper\n\nInstructions:\n1. Bring a large pot of salted water to a boil. Add the spaghetti and cook until al dente.\n2. Meanwhile, heat the olive oil in a large skillet over medium-high heat. Add the garlic and cook for about 1 minute until fragrant.\n3. In a separate bowl, whisk together the eggs, egg yolks, Parmesan cheese, and a pinch of salt and pepper.\n4. Drain the cooked spaghetti and immediately add it to the skillet with the garlic. \n5. Add the egg mixture and stir to combine. Cook, stirring continuously, for about 2 minutes until the eggs have set.\n6. Serve the Spaghetti Carbonara immediately with additional Parmesan cheese and black pepper, if desired. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

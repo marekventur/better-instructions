@@ -1,0 +1,12 @@
+{
+  "id": "10ed6460-33db-4497-b982-bbebb3706810",
+  "instruction": "Categorize this car as subcompact, compact, or midsize.",
+  "input": "The Honda Civic",
+  "output": "Compact.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "46c5b584-9c0c-42bb-8cdf-39c844d5f4b5",
+  "instruction": "How many paragraphs does the text have?",
+  "input": "This is the first paragraph.\n\nThis is the second one.\n\nAnd finally, the third.",
+  "output": "The text has 3 paragraphs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

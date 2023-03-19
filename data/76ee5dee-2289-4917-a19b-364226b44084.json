@@ -1,0 +1,12 @@
+{
+  "id": "76ee5dee-2289-4917-a19b-364226b44084",
+  "instruction": "Create a computer program that can play chess.",
+  "input": "",
+  "output": "The computer program should be able to calculate legal chess moves based on the board position and the chess rules. The program should also be able to evaluate the position and select the best move based on some evaluation criteria. It should also be able to keep track of its previously played moves, and be able to re-play the game in a graphical interface for the user. Additionally, the program should be able to play against a human opponent and use a game tree to think ahead and look for advantageous moves.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

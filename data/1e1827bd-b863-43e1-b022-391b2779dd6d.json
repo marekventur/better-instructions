@@ -1,0 +1,12 @@
+{
+  "id": "1e1827bd-b863-43e1-b022-391b2779dd6d",
+  "instruction": "Write a script to check for missing values in a dataset.",
+  "input": "",
+  "output": "The following script can be used to check for missing values in a dataset: \n\n#import numpy library\nimport numpy as np\n\n#read in the dataset\ndataset = np.genfromtxt('dataset.csv', delimiter=',')\n\n#check for any null values in the dataset\nif np.isnan(dataset).any():\n    print(\"Missing values found!\")\nelse:\n    print(\"No missing values found!\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

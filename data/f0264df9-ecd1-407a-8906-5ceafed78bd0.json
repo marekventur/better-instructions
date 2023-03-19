@@ -1,0 +1,12 @@
+{
+  "id": "f0264df9-ecd1-407a-8906-5ceafed78bd0",
+  "instruction": "Suggest a healthier alternative for the given item.",
+  "input": "Chocolate",
+  "output": "Dark chocolate is a healthier alternative to regular chocolate.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

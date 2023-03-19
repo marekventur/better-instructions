@@ -1,0 +1,12 @@
+{
+  "id": "0caa29c2-70a7-4844-842b-3fec8dfaebbd",
+  "instruction": "How does a neural network help the machine learning process?",
+  "input": "",
+  "output": "A neural network is a type of machine learning algorithm that mimics the way the brain functions. It takes inputs, passes them through layers of neurons and then determines a final output. Neural networks are powerful tools used to speed up the process of machine learning and pattern recognition by allowing the machine to \"learn\" from data and find patterns in it. The networks are able to perform complex computations, identify patterns and features of data, and generalize the rules of input and output. This makes them useful for tasks such as speech recognition, image recognition, and natural language processing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

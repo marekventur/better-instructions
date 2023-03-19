@@ -1,0 +1,12 @@
+{
+  "id": "ddec0d7b-7721-4f37-bdc7-69cf2c4c2546",
+  "instruction": "Output a list of a different kind of fruits",
+  "input": "",
+  "output": "1. Apples\n2. Bananas\n3. Oranges\n4. Mangoes\n5. Strawberries\n6. Grapes\n7. Blueberries\n8. Cherries\n9. Kiwi\n10. Melon\n11. Pineapple\n12. Plums\n13. Peaches",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

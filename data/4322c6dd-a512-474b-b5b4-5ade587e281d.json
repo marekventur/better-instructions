@@ -1,0 +1,12 @@
+{
+  "id": "4322c6dd-a512-474b-b5b4-5ade587e281d",
+  "instruction": "Construct a Regular Expression that allows for IP addresses in the range of 10.0.0.0 to 10.255.255.255",
+  "input": "",
+  "output": "^10\\.([0-9]|[1-9][0-9]|1[0-9][0-9]|2[0-4][0-9]|25[0-5])\\.([0-9]|[1-9][0-9]|1[0-9][0-9]|2[0-4][0-9]|25[0-5])\\.([0-9]|[1-9][0-9]|1[0-9][0-9]|2[0-4][0-9]|25[0-5])$",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

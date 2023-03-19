@@ -1,0 +1,12 @@
+{
+  "id": "b654b54e-5013-4068-a541-77e70c057400",
+  "instruction": "Delete all words with more than 5 letters from this sentence.",
+  "input": "This sentence has many long words like 'sentence' and 'instruction'.",
+  "output": "This has many words like 'and'.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bb58db82-1a2f-49c7-97a1-1061e840ea0f",
+  "instruction": "Calculate the average age of the following five people.",
+  "input": "John, 32 \nAnne, 25 \nHugh, 27\nPeter, 40 \nRebecca, 28",
+  "output": "The average age of the five people is 30.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

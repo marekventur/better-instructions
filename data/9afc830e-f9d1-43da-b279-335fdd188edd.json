@@ -1,0 +1,12 @@
+{
+  "id": "9afc830e-f9d1-43da-b279-335fdd188edd",
+  "instruction": "Manipulate the given list such that all numbers are multiplied by 3.",
+  "input": "[1, 2, 3, 4]",
+  "output": "[3, 6, 9, 12]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

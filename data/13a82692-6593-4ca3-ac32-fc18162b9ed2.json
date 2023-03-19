@@ -1,0 +1,12 @@
+{
+  "id": "13a82692-6593-4ca3-ac32-fc18162b9ed2",
+  "instruction": "Calculate the mean from the following list",
+  "input": "1, 7, 4, 8, 10",
+  "output": "6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

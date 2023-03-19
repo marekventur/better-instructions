@@ -1,0 +1,12 @@
+{
+  "id": "3e586c47-4b5c-4f76-8c5c-ee2c584d5c52",
+  "instruction": "Rewrite the sentence so that it's in the present tense.",
+  "input": "She had worked at the company for the past 3 years.",
+  "output": "She has worked at the company for the past 3 years.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

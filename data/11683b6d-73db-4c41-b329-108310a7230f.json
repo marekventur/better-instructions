@@ -1,0 +1,12 @@
+{
+  "id": "11683b6d-73db-4c41-b329-108310a7230f",
+  "instruction": "Given a number, generate a poem with the same number of syllables in each line.",
+  "input": "Number: 8",
+  "output": "Beneath the moon's light,\nThe ripples sparkle bright.\nMy oars\u2019 soft soothing sound,\nRings in the night abound.\nMy mind and heart they too,\nCatching this sweet euphony.\nSuch moments I hold dear,\nIn my heart they quietly seep.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

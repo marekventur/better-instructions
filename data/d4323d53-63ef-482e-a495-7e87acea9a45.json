@@ -1,0 +1,12 @@
+{
+  "id": "d4323d53-63ef-482e-a495-7e87acea9a45",
+  "instruction": "Summarize the upcoming weather",
+  "input": "",
+  "output": "The weather for the upcoming week will be generally mild and sunny, with temperatures ranging from the mid-60s on the coast to the low-80s in interior areas. Rain showers are expected early in the week to the far north, but most of the state will remain dry.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

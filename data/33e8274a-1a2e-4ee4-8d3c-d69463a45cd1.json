@@ -1,0 +1,12 @@
+{
+  "id": "33e8274a-1a2e-4ee4-8d3c-d69463a45cd1",
+  "instruction": "Explain what hidden layers are used for.",
+  "input": "",
+  "output": "Hidden layers are used in artificial neural networks to transform input data into something that the output layer can use to generate predictions. Hidden layers use a combination of activation functions to calculate output values from the inputs. These values are then passed on to the next layer in the network.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

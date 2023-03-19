@@ -1,0 +1,12 @@
+{
+  "id": "b630b223-7a0e-4509-834a-475cd377a715",
+  "instruction": "What type of context should be included in the following instruction?",
+  "input": "Create an invoice",
+  "output": "The context should include information such as the recipient's name and address, the list of goods or services being billed for, the quantity, rate and total cost, taxes, and payment due date.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

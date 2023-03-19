@@ -1,0 +1,12 @@
+{
+  "id": "4ac345f0-0774-4ab3-b0d7-caa98c5347da",
+  "instruction": "Categorise the following items : pencil, pen, laptop",
+  "input": "<No Input>",
+  "output": "Stationery: Pencil, Pen\nElectronic devices: Laptop",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

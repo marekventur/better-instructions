@@ -1,0 +1,12 @@
+{
+  "id": "8b7bf3bf-8665-431e-b36a-f4ee4570defe",
+  "instruction": "Find the correct facts from the given list and delete the incorrect ones.",
+  "input": "The capital of India is Mumbai, California was the first state of USA, Apple is the symbol of Microsoft.",
+  "output": "The capital of India is New Delhi, California was the first state of USA, Apple is the symbol of Apple.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

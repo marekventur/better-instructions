@@ -1,0 +1,12 @@
+{
+  "id": "8e688d58-224a-4211-aa9e-b188565aa3a0",
+  "instruction": "Explain the concept of spam filtering.",
+  "input": "",
+  "output": "Spam filtering is the process of sorting through email messages to detect and reject unsolicited, unwanted or malicious content. This process is usually done through the use of AI algorithms and natural language processing (NLP) techniques. With the help of dedicated software, email gateways and other services, spam filtering can identify unwanted messages and prevent them from reaching a user's inbox. The AI algorithms utilize features such as the sender's address and content of the message to accurately identify spam emails and stop them from entering the user's inbox.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f79b3f36-3f9c-4cde-ba37-65483966dbae",
+  "instruction": "Rewrite this sentence to contain a homophone",
+  "input": "He ate a big piece of cake.",
+  "output": "He ate a big peace of cake.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

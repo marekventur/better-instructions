@@ -1,0 +1,12 @@
+{
+  "id": "419a0c9b-4e31-4782-a8e6-15b6606b7363",
+  "instruction": "Edit the sentence to make it more specific using a prepositional phrase.",
+  "input": "The cat likes to eat.",
+  "output": "The cat likes to eat treats in the morning.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

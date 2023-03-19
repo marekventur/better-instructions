@@ -1,0 +1,12 @@
+{
+  "id": "dbddc237-c63f-434c-9b3b-54d975c85842",
+  "instruction": "Categorize the company's product line into four.",
+  "input": "Face Creams, Night Creams, Facial Toner, Beauty Bars",
+  "output": "Category 1: Face Creams, Night Creams\nCategory 2: Facial Toner\nCategory 3: Beauty Bars\nCategory 4:",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

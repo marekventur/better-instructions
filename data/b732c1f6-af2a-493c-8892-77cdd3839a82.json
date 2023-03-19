@@ -1,0 +1,12 @@
+{
+  "id": "b732c1f6-af2a-493c-8892-77cdd3839a82",
+  "instruction": "Classify the following sentence into negative or positive sentiment.",
+  "input": "I can't wait to try this new restaurant.",
+  "output": "Positive sentiment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

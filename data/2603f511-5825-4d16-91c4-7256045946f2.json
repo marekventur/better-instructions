@@ -1,0 +1,12 @@
+{
+  "id": "2603f511-5825-4d16-91c4-7256045946f2",
+  "instruction": "Arrange these three words in alphabetic order",
+  "input": "Cat, Banana, Apple",
+  "output": "Apple, Banana, Cat",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

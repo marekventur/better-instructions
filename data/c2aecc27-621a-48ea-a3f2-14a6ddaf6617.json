@@ -1,0 +1,12 @@
+{
+  "id": "c2aecc27-621a-48ea-a3f2-14a6ddaf6617",
+  "instruction": "Write a Python function that takes a number and returns the factorial of that number.",
+  "input": "",
+  "output": "def factorial(num): \n  if num == 0: \n    return 1 \n  else: \n    return num * factorial(num-1)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

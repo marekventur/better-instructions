@@ -1,0 +1,12 @@
+{
+  "id": "afd86813-06f3-4344-96e6-21014d3cf063",
+  "instruction": "Categorize the following song as either rock, folk, or classical.",
+  "input": "Song: \"F\u00fcr Elise\" by Ludwig van Beethoven",
+  "output": "The song \"F\u00fcr Elise\" by Ludwig van Beethoven is classified as classical music.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

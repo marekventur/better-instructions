@@ -1,0 +1,12 @@
+{
+  "id": "367ea66e-2127-4b92-877f-93fea0e9f923",
+  "instruction": "How would you generate random numbers between 1 and 10 in Java?",
+  "input": "",
+  "output": "In Java, you can generate random numbers between 1 and 10 using the following code: \n\nint max = 10;\nint min = 1;\nint range = max - min + 1;\n\nint randomNumber = (int) (Math.random() * range) + min;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

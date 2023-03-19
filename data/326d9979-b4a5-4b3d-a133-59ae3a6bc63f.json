@@ -1,0 +1,12 @@
+{
+  "id": "326d9979-b4a5-4b3d-a133-59ae3a6bc63f",
+  "instruction": "Generate a paragraph that explains the steps to build a Natural Language Processing (NLP) model.",
+  "input": "",
+  "output": "Building an NLP model requires several steps. First, data must be collected and preprocessed in order to remove unnecessary information and create clean data sets. Next, the data must be split into training and validation datasets in order to properly evaluate the model. Then, the model must be chosen and trained using one of the available NLP frameworks. Finally, the model must be tested and optimized in order to ensure that it is performing as expected. These steps must be repeated until the model is able to produce the desired results.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

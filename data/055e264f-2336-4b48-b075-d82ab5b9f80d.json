@@ -1,0 +1,12 @@
+{
+  "id": "055e264f-2336-4b48-b075-d82ab5b9f80d",
+  "instruction": "Find all the same sounding words in the sentence.",
+  "input": "The bough of the pine tree shook as the wind blew.",
+  "output": "the - the; bough - shook; of - of; pine - pine; tree - tree; as - as; wind - blew.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

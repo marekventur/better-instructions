@@ -1,0 +1,12 @@
+{
+  "id": "a5df5c2f-8365-4762-ba0d-ac4b08242f91",
+  "instruction": "Calculate the root-mean-square error and explain what it measures.",
+  "input": "",
+  "output": "Root Mean Squared Error (RMSE) is an error metric used in machine learning and data science to evaluate how well a model is performing on a given dataset. It measures the average absolute difference between the actual and predicted values. RMSE is the square root of the average squared difference between the predicted and actual values. It punishes large errors more heavily than small errors, making it a better measure for model performance than mean absolute error.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a1c220d7-f048-452a-adb6-3b4f47918264",
+  "instruction": "Given the sentence, classify it according to type.",
+  "input": "She decided to fly a kite in the park.",
+  "output": "This sentence is a declarative sentence as it declares an action taken by the subject.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

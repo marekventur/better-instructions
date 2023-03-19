@@ -1,0 +1,12 @@
+{
+  "id": "29aff131-587e-48ef-bf65-0cd35315c348",
+  "instruction": "Create three questions about the novel \"Dr. No\".",
+  "input": "Dr. No is the sixth novel by the English author Ian Fleming to feature his British Secret Service agent James Bond. Written at Fleming's Goldeneye estate in Jamaica, it was first published in the United Kingdom by Jonathan Cape in 1958.",
+  "output": "1. What worldly influences inspired the character of Doctor No?\n2. What other British Secret Service agents appear in the novel? \n3. What events take place at Fleming\u2019s Goldeneye estate in Jamaica?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

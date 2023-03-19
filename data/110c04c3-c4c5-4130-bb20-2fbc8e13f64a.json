@@ -1,0 +1,12 @@
+{
+  "id": "110c04c3-c4c5-4130-bb20-2fbc8e13f64a",
+  "instruction": "Write a customer service reply to the following complaint.",
+  "input": "I was disappointed with the service I received.",
+  "output": "I apologize for the inconvenience caused. We take customer satisfaction very seriously and would like to make it up to you. Please do let us know what we can do for you to make your experience better. We appreciate you bringing this to our attention and we look forward to hearing from you.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

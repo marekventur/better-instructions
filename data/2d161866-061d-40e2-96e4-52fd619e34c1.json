@@ -1,0 +1,12 @@
+{
+  "id": "2d161866-061d-40e2-96e4-52fd619e34c1",
+  "instruction": "Output a list of brands of pasta.",
+  "input": "",
+  "output": "- Barilla \n- De Cecco \n- Banza \n- Ancient Harvest \n- Bertolli \n- Ronzoni \n- Devonvale \n- DeLallo \n- La Molisana \n- Mueller\u2019s \n- Buitoni \n- Garofalo \n- Michelina\u2019s \n- San Remo \n- Andronico\u2019s  \n- No Yolks \n- Casa dienza \n- Vita-Grain \n- Kikkoman \n- Heartland.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d2c80d2c-ed4a-4a57-b405-dbf765702942",
+  "instruction": "Write an email to a teacher requesting an extension on an assignment.",
+  "input": "",
+  "output": "Dear [Teacher],\n\nI am writing to request an extension on the [assignment name] due [date]. I have been working diligently on the assignment, but due to [reason for extension request], I am unable to complete it by the due date. I understand the importance of abiding by the due date, and I hope that you will be understanding of my situation.\n\nI would really appreciate it if you could grant me an extension of [length of extension]. I understand any potential consequences for being unable to meet the due date, and I am willing to accept them.\n\nThank you for your time and consideration.\n\nSincerely,\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

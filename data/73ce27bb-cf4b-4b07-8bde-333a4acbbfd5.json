@@ -1,0 +1,12 @@
+{
+  "id": "73ce27bb-cf4b-4b07-8bde-333a4acbbfd5",
+  "instruction": "Create a tweet that summarises this article.",
+  "input": "https://www.nytimes.com/2020/08/08/us/politics/tribal-national-monuments.html",
+  "output": "Native American tribes are challenging the Trump administration's changes to tribal monuments, which would remove the monuments' protective status, in court. #TribalMonuments #BrokenTreaty #NativeRights",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

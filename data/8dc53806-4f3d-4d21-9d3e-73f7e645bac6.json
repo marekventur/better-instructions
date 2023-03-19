@@ -1,0 +1,12 @@
+{
+  "id": "8dc53806-4f3d-4d21-9d3e-73f7e645bac6",
+  "instruction": "Add 3 descriptive adjectives to the given passage.",
+  "input": "The woman walked down the beach.",
+  "output": "The woman walked leisurely down the pristine beach, admiring the tranquil scenery.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

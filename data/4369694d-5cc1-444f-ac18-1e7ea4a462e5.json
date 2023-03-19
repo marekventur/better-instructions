@@ -1,0 +1,12 @@
+{
+  "id": "4369694d-5cc1-444f-ac18-1e7ea4a462e5",
+  "instruction": "Write a function in python that checks if the given number is a prime number or not.",
+  "input": "n = 27",
+  "output": "def check_prime(n):\n    if n < 2:\n        return False\n    for i in range(2, n):\n        if n % i == 0:\n            return False\n    return True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

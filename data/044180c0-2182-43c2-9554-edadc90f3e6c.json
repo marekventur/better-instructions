@@ -1,0 +1,12 @@
+{
+  "id": "044180c0-2182-43c2-9554-edadc90f3e6c",
+  "instruction": "Add two associated adjectives to the given noun",
+  "input": "Despair",
+  "output": "Deep and insidious despair.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

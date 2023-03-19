@@ -1,0 +1,12 @@
+{
+  "id": "7721200a-f933-48b5-b783-a4fdd06665fb",
+  "instruction": "Construct a program that will generate a digital ticket.",
+  "input": "",
+  "output": "The program should generate a unique code that can be used to access the ticket. The code should be sent to the customer with details regarding the ticket such as the event name, date, time, location, and ticket number. The code should be stored in a database and should be encrypted to ensure security.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

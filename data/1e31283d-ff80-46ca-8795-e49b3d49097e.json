@@ -1,0 +1,12 @@
+{
+  "id": "1e31283d-ff80-46ca-8795-e49b3d49097e",
+  "instruction": "Make a list of books and authors in the fantasy genre",
+  "input": "",
+  "output": "-The Lord of the Rings by J.R.R. Tolkien \n-Harry Potter series by J.K. Rowling \n-The Chronicles of Narnia by C.S. Lewis \n-The Hobbit by J.R.R. Tolkien \n-A Song of Ice and Fire by George R.R. Martin \n-His Dark Materials trilogy by Philip Pullman \n-Eragon by Christopher Paolini \n-The Kingkiller Chronicle by Patrick Rothfuss",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

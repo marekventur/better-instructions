@@ -1,0 +1,12 @@
+{
+  "id": "2e0ac28f-52cf-409f-a574-6eef56ed5898",
+  "instruction": "Write a review for the following movie.",
+  "input": "The Godfather",
+  "output": "The Godfather is widely considered an all-time classic, and for good reason. It is a gripping story of crime and family dynamics, featuring stellar performances from the entire cast. The story is expertly crafted and wonderfully acted, making it an unforgettable experience. It might be slow at times, but don't let that stop you from watching this brilliant masterpiece.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0b4fa7f1-44eb-465b-81f1-668e4718f3e0",
+  "instruction": "Create a function to remove all the punctuation from a given sentence.",
+  "input": "",
+  "output": "\"\"\"\nFunction to remove all punctuation from a given sentence\n\"\"\"\n\ndef remove_punctuation(sentence): \n    punctuations = ',;:\u201d!'\n    for x in sentence: \n        if x in punctuations: \n            sentence = sentence.replace(x, \"\") \n    return sentence\n\nif __name__ == \"__main__\": \n \n    print(remove_punctuation(\"I'm going to the store, see you there!\")) # Output: Im going to the store see you there",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

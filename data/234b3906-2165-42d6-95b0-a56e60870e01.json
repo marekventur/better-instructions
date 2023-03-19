@@ -1,0 +1,12 @@
+{
+  "id": "234b3906-2165-42d6-95b0-a56e60870e01",
+  "instruction": "Construct a boolean query to find all documents that contain the words \"GPT-2\" and \"language model\"",
+  "input": "",
+  "output": "GPT-2 AND language model",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

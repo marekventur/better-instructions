@@ -1,0 +1,12 @@
+{
+  "id": "3aa66396-7237-4af4-bab5-491538cdb881",
+  "instruction": "Write an algorithm to solve a given problem in pseudocode.",
+  "input": "Problem: Suppose we want to find the smallest number in a given array.",
+  "output": "//input: array of numbers\n\n//output: smallest number in array\n\nmin_num = null\n\nfor each number in array:\n    if min_num is null\n        min_num = number\n    else if number < min_num\n        min_num = number\n\nreturn min_num;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

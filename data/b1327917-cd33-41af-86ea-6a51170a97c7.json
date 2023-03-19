@@ -1,0 +1,12 @@
+{
+  "id": "b1327917-cd33-41af-86ea-6a51170a97c7",
+  "instruction": "Edit this sentence to make it more concise: \u201cDue to the fact that the roads were frozen solid, the car had fishtailed on the icy surface.\u201d",
+  "input": "Due to the fact that the roads were frozen solid",
+  "output": "The car fishtailed on the icy roads.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

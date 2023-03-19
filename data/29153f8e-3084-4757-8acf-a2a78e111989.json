@@ -1,0 +1,12 @@
+{
+  "id": "29153f8e-3084-4757-8acf-a2a78e111989",
+  "instruction": "Sort the following words into adjectives and adverbs.",
+  "input": "Fast, quickly, pleasant, wisely",
+  "output": "Adjectives: Fast, pleasant\nAdverbs: quickly, wisely",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

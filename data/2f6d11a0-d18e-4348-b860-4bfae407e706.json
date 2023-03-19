@@ -1,0 +1,12 @@
+{
+  "id": "2f6d11a0-d18e-4348-b860-4bfae407e706",
+  "instruction": "Detect if the following sentence contains any factual errors. Output 1 for error and 0 for no error.",
+  "input": "The Australian Parliament is located in Sydney.",
+  "output": "1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

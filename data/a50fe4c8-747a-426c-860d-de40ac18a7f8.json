@@ -1,0 +1,12 @@
+{
+  "id": "a50fe4c8-747a-426c-860d-de40ac18a7f8",
+  "instruction": "Provide advice for the given situation.",
+  "input": "Situation: My friend is depressed and I don't know what to do to help her.",
+  "output": "The best thing you can do is to be there for your friend. Listen to them, acknowledge their feelings and don't be judgmental. Show them that you care and appreciate them, and let them know that they are not alone in their struggles. Offer to help them find a professional to talk to if they are open to it, and be supportive as they may open up about things as time goes by.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

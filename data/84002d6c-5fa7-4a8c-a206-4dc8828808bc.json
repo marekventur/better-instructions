@@ -1,0 +1,12 @@
+{
+  "id": "84002d6c-5fa7-4a8c-a206-4dc8828808bc",
+  "instruction": "Generate a resume given the candidate's achievement.",
+  "input": "Achievement: \n- 2 years of work experience\n- Leadership role in a student organization\n- Earned Graduate Certificate in Data Analysis\n- Two published research papers",
+  "output": "I am a motivated professional with two years of work experience in the field of data analysis and two published research papers. I recently obtained a Graduate Certificate in Data Analysis and am passionate about utilizing my skills and knowledge to take on new challenges. I have also held a leadership role in a student organization. My ambition is to use my expertise to help organizations drive innovation and optimize their data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

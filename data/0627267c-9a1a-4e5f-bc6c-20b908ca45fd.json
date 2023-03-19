@@ -1,0 +1,12 @@
+{
+  "id": "0627267c-9a1a-4e5f-bc6c-20b908ca45fd",
+  "instruction": "Describe an algorithm for computing the factorial of a number",
+  "input": "",
+  "output": "The algorithm for computing the factorial of a number is as follows:\n\n1. Take the number n as input\n2. Initialize the result as 1\n3. Iterate from 1 to n\n3.1. Multiply the result with the iteration number\n3.2. Increase the iteration number\n4. Exit the loop\n5. Output the result\n\nFor example, if the number is 5, the output will be 120 (1x2x3x4x5 = 120).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fcf56ef2-ef38-48fd-a83a-7d377a093c53",
+  "instruction": "Change the parts of speech while retaining the meaning of the sentence",
+  "input": "He had to endure a hard time.",
+  "output": "He was obliged to suffer a difficult period.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

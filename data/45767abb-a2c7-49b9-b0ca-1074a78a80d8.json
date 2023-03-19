@@ -1,0 +1,12 @@
+{
+  "id": "45767abb-a2c7-49b9-b0ca-1074a78a80d8",
+  "instruction": "Describe the process used to find a lost cell phone",
+  "input": "",
+  "output": "If you lost your cell phone, you can try tracking it using a GPS or phone tracking app. You can also use the 'Find My Phone' feature from your service provider or use the IMEI to trace your cell phone. If tracking fails, you can contact your service provider and blacklist the device. Additionally, you can contact the local law enforcement to report the loss and also take steps to ensure the phone cannot be accessed by anyone else.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

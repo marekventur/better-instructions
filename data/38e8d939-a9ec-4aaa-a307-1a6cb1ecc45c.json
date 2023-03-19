@@ -1,0 +1,12 @@
+{
+  "id": "38e8d939-a9ec-4aaa-a307-1a6cb1ecc45c",
+  "instruction": "Parse the sentence into its components such as subject, verb, object, etc.",
+  "input": "Maria likes singing in the shower.",
+  "output": "Subject: Maria, Verb: Likes, Object: Singing, Context: Shower.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

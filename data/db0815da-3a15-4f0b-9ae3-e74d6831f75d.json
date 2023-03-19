@@ -1,0 +1,12 @@
+{
+  "id": "db0815da-3a15-4f0b-9ae3-e74d6831f75d",
+  "instruction": "Explain why the following numbers are irrational.",
+  "input": "\u03c0",
+  "output": "\u03c0 is an irrational number because its exact value can never be determined. Its decimal expansion is infinite and non-repeating. Furthermore, any fraction constructed with \u03c0 in the numerator and denominator is also an irrational number. Therefore, it is impossible to express \u03c0 as a fraction of two integers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

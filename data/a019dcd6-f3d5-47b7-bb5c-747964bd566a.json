@@ -1,0 +1,12 @@
+{
+  "id": "a019dcd6-f3d5-47b7-bb5c-747964bd566a",
+  "instruction": "Order the following items from highest to lowest priority: washing dishes, doing laundry, vacuuming",
+  "input": "",
+  "output": "The order of priority from highest to lowest for washing dishes, doing laundry, and vacuuming is doing laundry, washing dishes, and then vacuuming.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

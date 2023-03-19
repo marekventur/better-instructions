@@ -1,0 +1,12 @@
+{
+  "id": "ae1cc88f-9334-4fad-a8a9-b2e98797c1c3",
+  "instruction": "Generate a multiplications table for 4.",
+  "input": "",
+  "output": "4x1 = 4\n4x2 = 8\n4x3 = 12\n4x4 = 16\n4x5 = 20\n4x6 = 24\n4x7 = 28\n4x8 = 32\n4x9 = 36\n4x10 = 40",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

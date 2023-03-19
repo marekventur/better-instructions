@@ -1,0 +1,12 @@
+{
+  "id": "0aeb3dec-93f2-4361-9ef4-910f7dd0f557",
+  "instruction": "Describe a specific instance of bias in AI.",
+  "input": "",
+  "output": "One prominent example of bias in AI is facial recognition technology. This technology has been known to have higher accuracy when it comes to identifying people with lighter skin tones than darker skin tones. This is due in part to the bias in the datasets used to train the algorithms, as they are typically predominantly white. This has led to cases of false arrests and misidentifications based on the technology and can lead to serious discrimination against communities of color.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

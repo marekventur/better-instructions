@@ -1,0 +1,12 @@
+{
+  "id": "786e45c7-a232-490c-9219-c33a858b9d6a",
+  "instruction": "Given a dataset of customer purchase histories, identify the customer segment that is most likely to purchase again from the same store.",
+  "input": "",
+  "output": "The customer segment that is most likely to purchase from the same store again are customers who have made multiple purchases in the past. By analyzing the purchase histories in the dataset, it is possible to identify customers who have made multiple purchases and target them for repeat sales.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

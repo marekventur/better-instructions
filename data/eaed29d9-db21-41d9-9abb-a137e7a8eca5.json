@@ -1,0 +1,12 @@
+{
+  "id": "eaed29d9-db21-41d9-9abb-a137e7a8eca5",
+  "instruction": "Rewrite this recipe to make it healthier",
+  "input": "Ingredients:\n- 2 cups all-purpose flour\n- 4 tablespoons sugar\n- 4 teaspoons baking powder\n- 3 tablespoons semi-sweet chocolate chips\n- 2 eggs\n- 2/3 cup whole milk",
+  "output": "Ingredients:\n- 2 cups whole wheat flour\n- 2 tablespoons of honey\n- 4 teaspoons baking powder\n- 2 tablespoons semi-sweet chocolate chips\n- 2 egg whites\n- 2/3 cup unsweetened almond milk",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

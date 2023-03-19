@@ -1,0 +1,12 @@
+{
+  "id": "c56a0880-0481-42d7-94d1-96acc0e4a667",
+  "instruction": "Identify the part of speech of each word in the sentence: \"The robot painted the house.\"",
+  "input": "",
+  "output": "The - article\nrobot - noun\npainted - verb\nthe - article\nhouse - noun\n. - punctuation mark",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

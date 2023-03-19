@@ -1,0 +1,12 @@
+{
+  "id": "b893a3f4-a3be-4700-a1a6-aaf5ab08d776",
+  "instruction": "Replace the 3rd and 5th element of an array with their respective square root.",
+  "input": "[1, 2, 9, 4, 25]",
+  "output": "[1, 2, 3, 4, 5]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

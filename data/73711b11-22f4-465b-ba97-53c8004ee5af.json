@@ -1,0 +1,12 @@
+{
+  "id": "73711b11-22f4-465b-ba97-53c8004ee5af",
+  "instruction": "Write an email given the subject and the task.",
+  "input": "Subject: Follow-up on our meeting\nTask: Remind the team about the actions agreed upon in the meeting",
+  "output": "Dear team, \n\nI am writing this email to follow up on our meeting earlier today. I want to remind you all of the actions that were agreed upon. First and foremost, we discussed starting our new task force and assigning roles to each member. Please make sure that you have selected your role, and distributed the tasks accordingly. Secondly, we also discussed our timeline for delivering the project. Our deadline is in six weeks, so please ensure that you are on track. Lastly, we discussed budgeting. I have included a budget template in this email, which should help you understand what has been agreed upon in terms of expenses. \n\nPlease let me know if you have any questions or if you need any clarification. \n\nBest, \n\n[name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fd448750-9c63-4aee-b7ee-968e85810ae1",
+  "instruction": "Answer a quiz question",
+  "input": "Who painted \"The Starry Night\"",
+  "output": "Vincent van Gogh painted \"The Starry Night\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

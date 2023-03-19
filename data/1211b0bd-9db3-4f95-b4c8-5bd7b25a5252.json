@@ -1,0 +1,12 @@
+{
+  "id": "1211b0bd-9db3-4f95-b4c8-5bd7b25a5252",
+  "instruction": "Infer what the person may be feeling from the sentence",
+  "input": "The exam we had to take was really hard.",
+  "output": "The person may be feeling frustrated and exhausted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

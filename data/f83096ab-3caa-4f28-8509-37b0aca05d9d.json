@@ -1,0 +1,12 @@
+{
+  "id": "f83096ab-3caa-4f28-8509-37b0aca05d9d",
+  "instruction": "Explain what continuous integration (CI) is in a sentence.",
+  "input": "",
+  "output": "Continuous Integration (CI) is a software development practice in which developers regularly merge their code changes into a shared repository, where automated tests and builds are executed to ensure the integrity of the codebase.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

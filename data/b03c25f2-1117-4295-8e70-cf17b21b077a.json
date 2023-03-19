@@ -1,0 +1,12 @@
+{
+  "id": "b03c25f2-1117-4295-8e70-cf17b21b077a",
+  "instruction": "Classify this tweet from the categories of positive, negative, or neutral.",
+  "input": "Tweet: I'm so thankful for all the wonderful people in my life",
+  "output": "Positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

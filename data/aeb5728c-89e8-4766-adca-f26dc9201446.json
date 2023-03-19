@@ -1,0 +1,12 @@
+{
+  "id": "aeb5728c-89e8-4766-adca-f26dc9201446",
+  "instruction": "Change the underlined word to make the sentence correct.",
+  "input": "The tomatoes are ripe for pick.",
+  "output": "The tomatoes are ripe for picking.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

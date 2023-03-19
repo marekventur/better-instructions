@@ -1,0 +1,12 @@
+{
+  "id": "5a783a57-62c8-41f2-ac91-bfd96bfe7004",
+  "instruction": "Convert the given historical facts into a story.",
+  "input": "The city of Rome was founded in 753 BC and became the capital of the Roman Empire in 28 BC.",
+  "output": "In 753 BC, a small village populated by a small number of settlers was founded on a hilltop along the banks of the Tiber river. Over the centuries, the village steadily grew and prospered, becoming the republic of Rome and eventually, the center of the Roman Empire in 28 BC.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

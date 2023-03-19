@@ -1,0 +1,12 @@
+{
+  "id": "957a9722-1c2a-46ed-9466-e4ea9fbe0551",
+  "instruction": "Describe what the coffee machine should do when the user presses the 'Brew' button.",
+  "input": "",
+  "output": "When the user presses the 'Brew' button, the coffee machine should grind the beans, heat the water to the desired temperature, and then pass the water through the coffee grounds to produce a fresh cup of coffee.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

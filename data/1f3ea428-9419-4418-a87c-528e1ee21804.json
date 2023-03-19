@@ -1,0 +1,12 @@
+{
+  "id": "1f3ea428-9419-4418-a87c-528e1ee21804",
+  "instruction": "Synthesize a sentence that summarizes the text.",
+  "input": "The novel 1984 by George Orwell is a dystopian novel written in 1948, depicting a totalitarian society. It tells the story of Winston Smith and his rebellion against the oppressive social structure.",
+  "output": "George Orwell's 1948 novel 1984 is a dystopian tale of Winston Smith's revolt against a totalitarian society.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

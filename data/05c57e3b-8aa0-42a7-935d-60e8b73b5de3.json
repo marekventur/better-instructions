@@ -1,0 +1,12 @@
+{
+  "id": "05c57e3b-8aa0-42a7-935d-60e8b73b5de3",
+  "instruction": "Convert the list of characters into a single string.",
+  "input": "[a, b, c, d]",
+  "output": "abcd",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

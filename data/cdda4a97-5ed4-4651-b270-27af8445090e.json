@@ -1,0 +1,12 @@
+{
+  "id": "cdda4a97-5ed4-4651-b270-27af8445090e",
+  "instruction": "Rewrite the instructions given to the recruiters while recruiting new interns.",
+  "input": "Recruiting new interns involves reviewing resumes, interviewing potential interns, and selecting candidates.",
+  "output": "Recruiters should evaluate resumes, conduct interviews, and make selections when recruiting new interns. During the interviews, it is important to enquire about potential intern\u2019s qualifications, skills, and interests to determine if they are a good fit for the role. It is also important to ask probing questions to assess their critical thinking, problem solving, and communication skills. It is further necessary to evaluate whether the intern can work well independently and as part of a team. After assessing the applicants, a final selection should be made.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

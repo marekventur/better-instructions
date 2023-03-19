@@ -1,0 +1,12 @@
+{
+  "id": "9da7b0ed-4ca3-40d4-ae02-e7fc78a9bdfe",
+  "instruction": "Classify the following animals: lion, deer, owl",
+  "input": "",
+  "output": "Lion - Mammal \nDeer - Mammal \nOwl - Bird",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

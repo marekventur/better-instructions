@@ -1,0 +1,12 @@
+{
+  "id": "f8f5dc93-d170-4c64-9cee-906de4ed2e60",
+  "instruction": "Correct spelling mistakes in these sentences:\n\"He went to the stroer to buy somethign\"\n\"She loves eating choclate cake\"",
+  "input": "",
+  "output": "He went to the store to buy something. \nShe loves eating chocolate cake.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

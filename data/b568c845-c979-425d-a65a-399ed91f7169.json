@@ -1,0 +1,12 @@
+{
+  "id": "b568c845-c979-425d-a65a-399ed91f7169",
+  "instruction": "Generate a tweet that summarizes the content of this article.",
+  "input": "Article: The impacts of rising sea levels",
+  "output": "Sea levels are rising as a result of climate change, leading to devastating impacts for coastal communities and ecosystems. #ClimateChange #RisingSealevel #GlobalWarming",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

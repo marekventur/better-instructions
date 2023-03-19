@@ -1,0 +1,12 @@
+{
+  "id": "088367ea-b302-41b8-8246-a9f18df5ea2e",
+  "instruction": "Analyze the following structure for a news article.",
+  "input": "Title: Inflated airbag prices anger car industry\nSubtitle: Prices of airbags have risen sharply since new safety regulations came into effect",
+  "output": "The article points out the price increase of airbags since new safety regulations were implemented. It suggests that the car industry is frustrated with the high prices, with it being unclear if the high price is justified. The article clearly expresses a viewpoint that the car industry is angry about the higher prices and questions where the additional money is going.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

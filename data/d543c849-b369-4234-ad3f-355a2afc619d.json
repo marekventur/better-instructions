@@ -1,0 +1,12 @@
+{
+  "id": "d543c849-b369-4234-ad3f-355a2afc619d",
+  "instruction": "Given the following sentence, determine whether it is active or passive voice",
+  "input": "The project was finished yesterday",
+  "output": "The sentence is in passive voice.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

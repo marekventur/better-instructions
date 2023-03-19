@@ -1,0 +1,12 @@
+{
+  "id": "46c96fef-4e0b-462f-aacc-4a6b38d35b6d",
+  "instruction": "Write some example questions for a customer survey about a home appliance.",
+  "input": "",
+  "output": "1. How easy was the installation of the appliance?\n2. What features do you like most about the appliance?\n3. Were you satisfied with the overall performance of the appliance?\n4. How frequently do you use the appliance?\n5. What are some features you would like to be added to the appliance?\n6. Have you experienced any problems with your appliance?\n7. How does the appliance compare to other similar appliances?\n8. How likely are you to recommend this appliance to a friend?\n9. Are you satisfied with the customer service you have received?\n10. Are you satisfied with the purchase price of the appliance?\u200b",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

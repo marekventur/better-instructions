@@ -1,0 +1,12 @@
+{
+  "id": "6f7819a8-afb2-42e8-8dd9-a440b2bd1c42",
+  "instruction": "Given the following sentence, find the subject in the sentence.",
+  "input": "The cat jumped over the fence.",
+  "output": "The subject in this sentence is \"cat\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9188096e-6d37-423d-994a-5e6a83f835c8",
+  "instruction": "Propose two appropriate and different methods to solve the given problem.",
+  "input": "Predicting whether an email is a spam or not.",
+  "output": "Two possible methods for predicting whether an email is a spam or not are supervised machine learning models such as artificial neural networks and Naive Bayes classifiers, or an unsupervised machine learning method such as clustering and anomaly detection.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

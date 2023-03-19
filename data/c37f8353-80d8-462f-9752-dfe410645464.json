@@ -1,0 +1,12 @@
+{
+  "id": "c37f8353-80d8-462f-9752-dfe410645464",
+  "instruction": "Reorder the following list of integers from smallest to largest [-9, 0, 5, 12, 19]",
+  "input": "[-9, 0, 5, 12, 19]",
+  "output": "[-9, 0, 5, 12, 19] -> [-9, 0, 5, 12, 19]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

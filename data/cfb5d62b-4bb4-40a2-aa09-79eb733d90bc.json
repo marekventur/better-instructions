@@ -1,0 +1,12 @@
+{
+  "id": "cfb5d62b-4bb4-40a2-aa09-79eb733d90bc",
+  "instruction": "Summarize the following article about data science in 3 sentences.",
+  "input": "The article is about the role of data science in the modern age.\nData science is the driving force of modern businesses and organizations, helping them understand and make better use of the data they collect. Data science is a complex and rapidly changing field, and it can be difficult to stay up-to-date with all the latest developments.",
+  "output": "Data science has become an essential tool for modern businesses and organizations to make sense of their data and make better use of it. It is a complex field that changes quickly and requires willingness to keep up with the latest developments. With data science, businesses have access to valuable insights that enable them to make better decisions and stay ahead of the competition.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

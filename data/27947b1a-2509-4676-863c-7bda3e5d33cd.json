@@ -1,0 +1,12 @@
+{
+  "id": "27947b1a-2509-4676-863c-7bda3e5d33cd",
+  "instruction": "Insert a comma into this sentence.",
+  "input": "The girl put on a pink dress",
+  "output": "The girl, put on a pink dress.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

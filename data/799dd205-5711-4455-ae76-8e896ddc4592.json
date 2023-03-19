@@ -1,0 +1,12 @@
+{
+  "id": "799dd205-5711-4455-ae76-8e896ddc4592",
+  "instruction": "Identify the mistakes (if any) in the library management system design below.",
+  "input": "The Library Management System should store the number of books available in the library and the activities occurring in the library. Additionally it should also store the details of the users who take the books.",
+  "output": "The Library Management System should not only store the number of books available in the library and the activities occurring in the library, but also the details of the users who take the books. This allows the library to track who took which book and when. Additionally, it should also store details on how long they have the book and when it needs to be returned. This enables the library to ensure books are returned on time. It should also have a system for notifying users when their books are due for return.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

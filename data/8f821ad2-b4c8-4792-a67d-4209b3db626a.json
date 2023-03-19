@@ -1,0 +1,12 @@
+{
+  "id": "8f821ad2-b4c8-4792-a67d-4209b3db626a",
+  "instruction": "Classify 3 professions as either physical or non-physical.",
+  "input": "Teacher, Architect, Housekeeper",
+  "output": "Teacher: Non-Physical \nArchitect: Non-Physical\nHousekeeper: Physical",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "63dd3265-17a0-4ed0-a33b-8f5f37e903bc",
+  "instruction": "Edit the given text to have parallel structures.",
+  "input": "I get up early in the morning, walking my dog and grab a coffee.",
+  "output": "I get up early in the morning, walk my dog, and grab a coffee.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

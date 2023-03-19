@@ -1,0 +1,12 @@
+{
+  "id": "4d9f4aff-1105-47a3-8bad-7255050db911",
+  "instruction": "Output a conversation between two people at a job interview.",
+  "input": "",
+  "output": "Interviewer: So tell me, why do you want to be a part of this company? \nCandidate: I have always been passionate about technology, and this company has innovate solutions to many of the problems in the industry. I believe my skills and knowledge will be an asset to the company. \nInterviewer: That's great to hear! Can you tell me a bit more about your experience in the field? \nCandidate: Sure. I have been working in the industry for the past 5 years and have gained a lot of insights and skills that I believe would be invaluable to this company.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4a514116-e4de-45b9-ba65-1957913e661e",
+  "instruction": "Create an algorithm for a computer-science project that calculates the volume of a pyramid",
+  "input": "",
+  "output": "To create an algorithm for calculating the volume of a pyramid, you can use the following formula: Volume = (Base Area * Height) / 3. To calculate the base area, you need to calculate the area of the pyramid's base. The formula for calculating the base area is Base Area = (Length * Width). With this formula, you can calculate the volume of a pyramid.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

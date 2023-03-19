@@ -1,0 +1,12 @@
+{
+  "id": "c9045bd2-2292-4e18-85b9-bc76404d6533",
+  "instruction": "Categorize the given object into an appropriate category.",
+  "input": "Cheese",
+  "output": "Dairy product",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

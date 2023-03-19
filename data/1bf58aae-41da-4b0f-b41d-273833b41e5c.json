@@ -1,0 +1,12 @@
+{
+  "id": "1bf58aae-41da-4b0f-b41d-273833b41e5c",
+  "instruction": "Correct the mistake in the following sentence. Output the correct sentence.",
+  "input": "I have trieded to understand the situation.",
+  "output": "I have tried to understand the situation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

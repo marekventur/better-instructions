@@ -1,0 +1,12 @@
+{
+  "id": "202560e0-fcae-41d5-8579-dd2b2fe43df2",
+  "instruction": "Given a user query, identify the best sentence in the following paragraph that can be used to answer the query. Output the sentence index.",
+  "input": "Query: What is the main purpose of machine learning?\nParagraph:\n1) Machine learning is a field of computer science that uses algorithms to enable computers to learn from data without explicit programming.\n2) Through machine learning, computers can now identify images, recognise speech, suggest relevant content and make decisions with minimal human input.\n3) The main purpose of machine learning is to enable computers to improve their performance over time based on experience. \n4) Machine learning techniques are used across a wide range of applications, from healthcare to financial services and from natural language processing to robotics.",
+  "output": "3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

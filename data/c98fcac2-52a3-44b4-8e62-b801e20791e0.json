@@ -1,0 +1,12 @@
+{
+  "id": "c98fcac2-52a3-44b4-8e62-b801e20791e0",
+  "instruction": "Compare the differences between 2 versions of the same work of art.",
+  "input": "Version A: The Starry Night by Van Gogh\nVersion B: The Starry Night by Claude Monet",
+  "output": "Van Gogh's painting of 'The Starry Night' is dominated by a swirling blue night sky full of stars, a dark rolling hill, a church tower, and a crescent moon. Claude Monet's version of 'The Starry Night' is much brighter than its predecessor. Instead of an array of stars, there are just a few faint stars depicting a twilight sky. The rolling hills are pale green and bright yellow instead of dark, and the church tower is replaced with a small cottage, located in a calm, sunlit landscape.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

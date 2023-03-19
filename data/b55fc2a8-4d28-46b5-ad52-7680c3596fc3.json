@@ -1,0 +1,12 @@
+{
+  "id": "b55fc2a8-4d28-46b5-ad52-7680c3596fc3",
+  "instruction": "According to the document, which industry will invest the most in AI in the next 5 years?",
+  "input": "Document: According to a recent report from PwC, the automotive industry is projected to invest the most in AI over the next five years, followed closely by the healthcare sector.",
+  "output": "The automotive industry is projected to invest the most in AI over the next five years.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

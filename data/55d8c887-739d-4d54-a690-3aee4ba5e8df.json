@@ -1,0 +1,12 @@
+{
+  "id": "55d8c887-739d-4d54-a690-3aee4ba5e8df",
+  "instruction": "You are given a set of chemical elements. Write a program that computes the sum of all the MAsses.",
+  "input": "[\"H\", \"He\", \"Li\", \"Be\", \"B\", \"C\", \"N\", \"O\", \"F\", \"Ne\", \"Na\", \"Mg\", \"Al\", \"Si\", \"P\", \"S\", \"Cl\", \"Ar\"]",
+  "output": "Total Mass = 55.845 g/mol",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

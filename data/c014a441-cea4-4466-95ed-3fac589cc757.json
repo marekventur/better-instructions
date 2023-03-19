@@ -1,0 +1,12 @@
+{
+  "id": "c014a441-cea4-4466-95ed-3fac589cc757",
+  "instruction": "Add one more word to make the sentence grammatically correct.",
+  "input": "We witnessed a car crash.",
+  "output": "We witnessed an awful car crash.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

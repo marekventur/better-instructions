@@ -1,0 +1,12 @@
+{
+  "id": "623b1b8f-735f-4d13-b6f4-58b5e57102b0",
+  "instruction": "Generate a sentence using the provided adjectives that follows this pattern:",
+  "input": "Adjectives: energetic, punctual",
+  "output": "He was an energetic and punctual worker.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

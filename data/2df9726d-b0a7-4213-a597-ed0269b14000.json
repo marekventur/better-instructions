@@ -1,0 +1,12 @@
+{
+  "id": "2df9726d-b0a7-4213-a597-ed0269b14000",
+  "instruction": "Explain the usage of an ontology in artificial intelligence.",
+  "input": "",
+  "output": "An ontology is a representation of a specific domain of knowledge. It is a structured data model which can be used to represent information in the form of concepts, relationships, and other meta-data. In artificial intelligence, an ontology can be used to represent knowledge to a computer in a machine-readable format, which can then be used to power AI applications, such as natural language processing and question answering.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

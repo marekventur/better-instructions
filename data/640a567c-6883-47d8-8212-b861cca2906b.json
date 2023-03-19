@@ -1,0 +1,12 @@
+{
+  "id": "640a567c-6883-47d8-8212-b861cca2906b",
+  "instruction": "Rewrite the following sentence according to the provided tone:\n\nThe restaurant had a bad rating",
+  "input": "Tone: Optimistic",
+  "output": "The restaurant had a positive rating.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "49f16aa5-5565-4f6e-9c4f-a8307cf60b26",
+  "instruction": "For the given text, identify the action and the object.",
+  "input": "Sally enjoyed the movie.",
+  "output": "Action: enjoyed\nObject: movie.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

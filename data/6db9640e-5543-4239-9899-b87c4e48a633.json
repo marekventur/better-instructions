@@ -1,0 +1,12 @@
+{
+  "id": "6db9640e-5543-4239-9899-b87c4e48a633",
+  "instruction": "Create a function which takes two arguments and returns the result of multiplying them.",
+  "input": "",
+  "output": "def multiply(a, b):\n    return a*b",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

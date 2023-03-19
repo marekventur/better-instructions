@@ -1,0 +1,12 @@
+{
+  "id": "cdd1b2f7-2888-4897-8893-06c670d9fade",
+  "instruction": "Construct a database table to maintain records of user activities.",
+  "input": "",
+  "output": "CREATE TABLE user_activities (\n  id INTEGER PRIMARY KEY,\n  user_id INTEGER NOT NULL,\n  activity_name VARCHAR(20) NOT NULL,\n  time_stamp TIMESTAMP DEFAULT current_timestamp\n);\n\nALTER TABLE user_activities ADD FOREIGN KEY (user_id) REFERENCES user_info(id);",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

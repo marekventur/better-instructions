@@ -1,0 +1,12 @@
+{
+  "id": "16199695-67aa-4701-8f6b-f826e0bea7dd",
+  "instruction": "You are given an example sentence, rephrase it without changing the original meaning.",
+  "input": "I am tired because I didn't sleep well.",
+  "output": "I am weary due to lack of adequate sleep.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

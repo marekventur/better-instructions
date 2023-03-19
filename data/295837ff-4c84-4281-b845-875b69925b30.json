@@ -1,0 +1,12 @@
+{
+  "id": "295837ff-4c84-4281-b845-875b69925b30",
+  "instruction": "Extract the positive integers from an array?",
+  "input": "arr = [5,-2,8,-7,3,-1,0,5]",
+  "output": "[5, 8, 3, 5]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

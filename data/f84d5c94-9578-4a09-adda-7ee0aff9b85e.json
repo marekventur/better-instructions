@@ -1,0 +1,12 @@
+{
+  "id": "f84d5c94-9578-4a09-adda-7ee0aff9b85e",
+  "instruction": "Generate a conversation between two people who have just met.",
+  "input": "People: John and Kate",
+  "output": "John: Hey, I'm John. It's really nice to meet you.\n\nKate: Hi John, I'm Kate. Nice to meet you too.\n\nJohn: Are you from around here?\n\nKate: Yeah, I was born and raised here. What about you? \n\nJohn: I'm from the other side of town. I just moved here.\n\nKate: That's cool. Do you like it so far?\n\nJohn: Yeah, I'm enjoying it so far.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

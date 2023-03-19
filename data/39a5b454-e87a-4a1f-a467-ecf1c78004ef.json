@@ -1,0 +1,12 @@
+{
+  "id": "39a5b454-e87a-4a1f-a467-ecf1c78004ef",
+  "instruction": "Analyze this news story and explain the results.",
+  "input": "According to a study by the Institute for Sustainable Social Policies, the number of registered unemployed people in Germany increased by 42% from February to April.",
+  "output": "The results of the study show that there has been a significant increase in the number of people registered as unemployed in Germany from February to April. This is likely due to the impact of the COVID-19 pandemic across the country. As businesses and industries closed, people lost their jobs and had to register for unemployment benefits in order to survive. The study also highlights the need for more sustainable social policies and measures that can help protect people and mitigate the economic impact of the pandemic.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

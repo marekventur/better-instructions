@@ -1,0 +1,12 @@
+{
+  "id": "dd1d6ea5-975c-4dbb-b578-5f0665021ace",
+  "instruction": "What are the components of a Linear Regression Model?",
+  "input": "",
+  "output": "The components of a linear regression model are the independent variables (inputs) that are used to predict the dependent variable (output). The model is a mathematical equation that is made up of these variables and the coefficients or weights for each variable. This equation is used to predict the values of the dependent variable based on the values of the independent variables. The coefficients are determined by a process called optimization, which is used to minimize the error between the predicted output and the actual output.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

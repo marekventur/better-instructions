@@ -1,0 +1,12 @@
+{
+  "id": "3fcec5a3-a3d4-4876-8fa8-5f9c45e81d34",
+  "instruction": "Categorize the following items as edible or not edible.",
+  "input": "Paperclips, Apples",
+  "output": "Paperclips: Not Edible, Apples: Edible",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

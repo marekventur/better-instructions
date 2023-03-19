@@ -1,0 +1,12 @@
+{
+  "id": "79460d30-e88d-432d-8502-5d61409a9f01",
+  "instruction": "Analyze this data to calculate the mean and the median.",
+  "input": "5, 10, 15, 20, 25",
+  "output": "The mean is 15 and the median is 15.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

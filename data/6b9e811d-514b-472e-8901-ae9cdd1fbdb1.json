@@ -1,0 +1,12 @@
+{
+  "id": "6b9e811d-514b-472e-8901-ae9cdd1fbdb1",
+  "instruction": "Find the similarity between two objects",
+  "input": "Cat and Dog",
+  "output": "The similarity between a cat and a dog is that they are both mammals.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

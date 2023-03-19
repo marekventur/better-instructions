@@ -1,0 +1,12 @@
+{
+  "id": "a0ddf608-52a3-45c9-b5a7-fbc3f5067398",
+  "instruction": "Put the following words in order from shortest to longest:",
+  "input": "desk chair table",
+  "output": "desk, chair, table",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f05606d5-4d05-4488-917e-fa093b536be4",
+  "instruction": "Find the closest restaurant that offers Italian cuisine.",
+  "input": "40.752007,  -73.984140",
+  "output": "The closest restaurant that offers Italian cuisine is Il Fornaio Cucina Italiana, located at 919 Third Avenue, New York, NY. The restaurant is 0.4 miles away from the given coordinates, and it is open until 10:00PM.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

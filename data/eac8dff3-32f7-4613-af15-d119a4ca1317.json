@@ -1,0 +1,12 @@
+{
+  "id": "eac8dff3-32f7-4613-af15-d119a4ca1317",
+  "instruction": "Find a book from the given genre.",
+  "input": "Mystery",
+  "output": "Agatha Christie's And Then There Were None is a classic mystery novel. It follows a group of people invited to an island where they discover they've been framed for murder. As they start dying one by one, they must work together to figure out who the murderer is before it's too late.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7cff5fee-50f4-4606-a36c-fd6d23483954",
+  "instruction": "Provide a list of items of the food in the given kitchen.",
+  "input": "<image>",
+  "output": "In the kitchen, there is a refrigerator, oven, microwave, pantry, cooking utensils, dishes, pots and pans.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

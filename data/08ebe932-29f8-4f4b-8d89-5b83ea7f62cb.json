@@ -1,0 +1,12 @@
+{
+  "id": "08ebe932-29f8-4f4b-8d89-5b83ea7f62cb",
+  "instruction": "Tell me what country this flag belongs to.",
+  "input": "[flag.jpg]",
+  "output": "The flag belongs to Portugal.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

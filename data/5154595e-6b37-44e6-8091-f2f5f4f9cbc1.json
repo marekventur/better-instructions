@@ -1,0 +1,12 @@
+{
+  "id": "5154595e-6b37-44e6-8091-f2f5f4f9cbc1",
+  "instruction": "Authenticate the given user credentials.",
+  "input": "Username: Jane Doe\nPassword: secret123",
+  "output": "Authenticated: Jane Doe. Welcome to the system!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

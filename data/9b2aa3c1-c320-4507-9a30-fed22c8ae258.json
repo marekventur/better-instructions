@@ -1,0 +1,12 @@
+{
+  "id": "9b2aa3c1-c320-4507-9a30-fed22c8ae258",
+  "instruction": "Modify the following sentence so that the verb is in the third person singular present tense.",
+  "input": "She read the book yesterday.",
+  "output": "She reads the book every day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

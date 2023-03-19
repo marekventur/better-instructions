@@ -1,0 +1,12 @@
+{
+  "id": "9a861513-a773-47f2-b4aa-05b5941963cf",
+  "instruction": "Describe what a computer virus is.",
+  "input": "",
+  "output": "A computer virus is a malicious software program that can spread itself to other files on a computer or network. It has the ability to alter system functions, cause data loss, and disrupt the performance of computers and other devices. Some viruses can even wipe out the entire hard drive or delete important files. Viruses are often spread through email attachments, downloads, or by other users accessing a computer or network.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

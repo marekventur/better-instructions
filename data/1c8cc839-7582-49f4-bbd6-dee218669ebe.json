@@ -1,0 +1,12 @@
+{
+  "id": "1c8cc839-7582-49f4-bbd6-dee218669ebe",
+  "instruction": "Generate an example of a car following a given path.",
+  "input": "",
+  "output": "A car is travelling on a straight path from point A to point B. As the car travels from Point A, it takes the left turn onto a sloping road, before taking a right turn at an intersection, followed by a left turn on a flat road, and then a final right turn onto a straight road to arrive at Point B.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

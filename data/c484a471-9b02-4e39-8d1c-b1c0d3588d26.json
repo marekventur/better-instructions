@@ -1,0 +1,12 @@
+{
+  "id": "c484a471-9b02-4e39-8d1c-b1c0d3588d26",
+  "instruction": "Construct a tweet about a fictional book using 280 characters.",
+  "input": "Book title: The Adventures of Tom Sawyer",
+  "output": "Just finished an adventurous read: The Adventures of Tom Sawyer. Daring escapes, hidden fortunes, and unforgettable characters make this classic an adventure worth rediscovering. #TheAdventuresOfTomSawyer #BooksAreForever  # MustRead",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

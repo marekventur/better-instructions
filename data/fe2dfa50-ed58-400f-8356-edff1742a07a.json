@@ -1,0 +1,12 @@
+{
+  "id": "fe2dfa50-ed58-400f-8356-edff1742a07a",
+  "instruction": "Analyze a provided sentence and identify the type of sentence. Output should be a sentence type (Ex: declarative).",
+  "input": "I enjoy playing football.",
+  "output": "Declarative sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

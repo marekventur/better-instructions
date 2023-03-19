@@ -1,0 +1,12 @@
+{
+  "id": "a6348d0a-152e-4431-bbba-39c8260a3f00",
+  "instruction": "Search the internet and find an example of a memo.",
+  "input": "",
+  "output": "This is an example of a memo from the American Bar Association: \n\nTo: All ABA Employees\nFrom: Ann E. Becker, Chair\nRe: Working From Home\n\nDate: April 5, 20XX \n \nAs we continue to monitor the coronavirus pandemic and take steps to protect the health and safety of our employees, the ABA is allowing employees to work from home. Those who are able to work from home should do so. For questions or other guidance related to COVID-19, please consult the ABA\u2019s HR website or call our HR hotline. \n\nThank you and be safe.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

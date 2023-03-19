@@ -1,0 +1,12 @@
+{
+  "id": "ef93a2e9-4e22-415c-bf68-fdc54548e398",
+  "instruction": "Write a script to generate a random password that meets the following criteria.",
+  "input": "Password length: 8 characters\nMust contain uppercase letters\nMust contain lowercase letters\nMust contain at least one number",
+  "output": "import random \nrand_string = \"\" \n  \n# generate upper case letters \n# by using ASCII values \nfor i in range(2): \n    rand_string += chr(random.randint(65, 90)) \n\n# generate lower case letters \n# by using ASCII values \nfor i in range(4): \n    rand_string += chr(random.randint(97, 122)) \n\n# generate numbers by using \n# ASCII values \nrand_string += str(random.randint(1, 9)) \n\n# generate symbols \n# by using ASCII values \nrand_string += chr(random.randint(33, 47)) \n     \n# Print the pssword \nprint(\"Random password is \", \n                rand_string) \n\n# Output: \n# Random password is yG2{x8g1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c74a6808-021c-458c-ba1e-6903adb6570d",
+  "instruction": "Categorize the following items",
+  "input": "- Orange\n- Melon\n- Pen",
+  "output": "Orange: Fruit; Melon: Fruit; Pen: Stationery.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e41b5f5d-9b50-49c5-a7b8-3f0600188db4",
+  "instruction": "Create a regex expression that excludes words containing the letter \"x\".",
+  "input": "",
+  "output": "^(?!.*x).*$",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

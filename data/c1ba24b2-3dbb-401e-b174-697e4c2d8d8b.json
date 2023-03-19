@@ -1,0 +1,12 @@
+{
+  "id": "c1ba24b2-3dbb-401e-b174-697e4c2d8d8b",
+  "instruction": "Construct a regular expression that characterizes a valid string of length 5 containing only numbers.",
+  "input": "",
+  "output": "^[0-9]{5}$",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

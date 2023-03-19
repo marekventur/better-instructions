@@ -1,0 +1,12 @@
+{
+  "id": "1224ad7b-bf8f-46d5-8db8-407cc8da46bf",
+  "instruction": "Give an example of a stateful lambda function",
+  "input": "",
+  "output": "An example of a stateful lambda function is one that stores user data in a database and uses that data to generate personalized responses. For example, a stateful lambda function in a chatbot application can store each user's conversation history and use it to generate personalized responses.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

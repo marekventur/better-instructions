@@ -1,0 +1,12 @@
+{
+  "id": "1c12ece5-0ba8-4e78-b802-c949e64eac5c",
+  "instruction": "Name 5 questions that a customer might ask a chatbot.",
+  "input": "",
+  "output": "1. What products do you have in stock? \n2. How do I return an item?\n3. What are your store hours?\n4. Do you offer any discounts?\n5. What payment options do you accept?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

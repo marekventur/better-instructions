@@ -1,0 +1,12 @@
+{
+  "id": "40a6c4d0-299e-4266-aa63-708b1841c40d",
+  "instruction": "Given the following sentence, show me how to transform it into a haiku.",
+  "input": "The soothing moonlight basks the sea",
+  "output": "Moonlight soothes\nthe serene waves that bask in it\nendless and calming.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "db88f109-ef82-41ab-a1c6-292fc550fd24",
+  "instruction": "Describe what a Confusion Matrix is",
+  "input": "",
+  "output": "A Confusion Matrix is a table that is used to evaluate the performance of a classification model. It summarizes the correct and incorrect predictions made by the model and provides a visual representation of the performance of the model. The confusion matrix is a useful tool for understanding how a model is making its predictions and how accurate it is in predicting the outcomes in the test data set. It is commonly used to determine the accuracy, precision, recall and f1-score of a classification model.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

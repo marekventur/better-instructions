@@ -1,0 +1,12 @@
+{
+  "id": "e2cce07c-33b5-4174-83f3-2ab2154e392c",
+  "instruction": "Give an example of a data science use case for an airline.",
+  "input": "",
+  "output": "One data science use case for an airline is to use predictive analytics to more effectively allocate resources. For example, an airline could use data about plane departure and arrival times, weather, and traffic patterns to predict which flights will be delayed, and then adjust routes and staffing levels to minimize the delays. Additionally, using data to analyze customer behavior and preferences can help airlines target marketing campaigns and optimize pricing to maximize profits.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

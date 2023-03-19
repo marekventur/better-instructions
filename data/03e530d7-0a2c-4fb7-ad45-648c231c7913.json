@@ -1,0 +1,12 @@
+{
+  "id": "03e530d7-0a2c-4fb7-ad45-648c231c7913",
+  "instruction": "Send a text message to a designated contact.",
+  "input": "Receiver: John\nMessage: Hello, how are you?",
+  "output": "<noinput>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2d6337bf-3d77-4250-ba14-1026d8465129",
+  "instruction": "Create a bar chart to show the correlation between age and education level.",
+  "input": "Data: \n\nAge: 25, 30, 35, 40 \n\nEducation Level: High school, Bachelor's, Master's, Doctoral",
+  "output": "[Insert Bar Chart]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

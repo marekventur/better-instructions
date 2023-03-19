@@ -1,0 +1,12 @@
+{
+  "id": "2ce077d2-b630-4d02-a692-934cb9774046",
+  "instruction": "Write an example of code that calls an API.",
+  "input": "",
+  "output": "Exampe:  \n\nimport requests  \n\nurl = \"https://api.example.com/v1/getdata\"  \n\nresponse = requests.get(url)  \n\ndata = response.json()",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "74fecbb2-5c68-4713-b85a-28039761de90",
+  "instruction": "Given a list of words, create a poem that captures the feeling of your current state of mind.",
+  "input": "peaceful, mindful, grateful",
+  "output": "Peaceful is the soul that breathes within\nMindful ears hear my heart's tender spin\nGrateful smiles reflect a tranquil sheen\nA contentment that can never be unseen.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

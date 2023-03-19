@@ -1,0 +1,12 @@
+{
+  "id": "58b28092-a7fa-49b9-87f4-306bc87f544d",
+  "instruction": "Generate an example of how the given technology is being used in the industry.",
+  "input": "AI in healthcare",
+  "output": "AI is being used in healthcare to automate operational tasks such as scheduling and patient intake forms, as well as providing intelligent insights for better diagnostics. AI-powered chatbots are being used to answer questions related to medical procedures, medications and insurance, and AI-driven image recognition can be used to detect medical conditions from scans and images without the need for expensive and time-consuming tests.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

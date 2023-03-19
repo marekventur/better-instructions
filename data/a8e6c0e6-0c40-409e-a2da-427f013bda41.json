@@ -1,0 +1,12 @@
+{
+  "id": "a8e6c0e6-0c40-409e-a2da-427f013bda41",
+  "instruction": "Match the items in the two given lists.",
+  "input": "List 1: [\"Duncan\", \"Nick\", \"Mikaela\"]\nList 2: [\"Engineer\", \"Business Analyst\", \"Software Developer\"]",
+  "output": "Duncan: Software Developer\nNick: Business Analyst\nMikaela: Engineer",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

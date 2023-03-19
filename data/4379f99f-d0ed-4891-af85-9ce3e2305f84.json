@@ -1,0 +1,12 @@
+{
+  "id": "4379f99f-d0ed-4891-af85-9ce3e2305f84",
+  "instruction": "Is the following sentence true or false?\n\n\"Jupiter has the highest temperature of all the planets in our solar system.\"",
+  "input": "",
+  "output": "False. Jupiter has the highest mass in our solar system, but the planet with the highest temperature is Venus.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

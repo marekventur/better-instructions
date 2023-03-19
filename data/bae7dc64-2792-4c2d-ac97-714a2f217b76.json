@@ -1,0 +1,12 @@
+{
+  "id": "bae7dc64-2792-4c2d-ac97-714a2f217b76",
+  "instruction": "Categorize this type of text.",
+  "input": "He had no choice but to continue his search despite growing tired.",
+  "output": "Literary Fiction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e8aad916-5fd4-4439-b853-3efc29d3bead",
+  "instruction": "Suggest a way to analyze data to detect potential fraud.",
+  "input": "",
+  "output": "One way to analyze data to detect potential fraud is to use predictive analytics. This involves using data mining techniques to identify patterns that could indicate fraudulent behavior. This could involve things such as monitoring for suspicious transactions, unexpected changes in spending patterns, or any other anomalies that could be indicative of fraud.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

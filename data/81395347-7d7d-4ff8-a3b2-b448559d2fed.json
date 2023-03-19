@@ -1,0 +1,12 @@
+{
+  "id": "81395347-7d7d-4ff8-a3b2-b448559d2fed",
+  "instruction": "Formulate a multiple choice question related to the following topic.",
+  "input": "The payment systems developed in the 19th century",
+  "output": "Which of the following payment systems was developed in the 19th century?\nA. Automated Clearing House \nB. Magnetic Stripe Card\nC. Digital Wallet\nD. Interbank Transfer System \n\nAnswer: D. Interbank Transfer System",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

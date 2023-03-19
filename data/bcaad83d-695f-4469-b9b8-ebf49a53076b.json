@@ -1,0 +1,12 @@
+{
+  "id": "bcaad83d-695f-4469-b9b8-ebf49a53076b",
+  "instruction": "Classify the following sentence into one of the types of sentences: declarative, exclamatory, interrogative, imperative",
+  "input": "Have you seen this movie?",
+  "output": "Interrogative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

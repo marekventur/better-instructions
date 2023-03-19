@@ -1,0 +1,12 @@
+{
+  "id": "a91097f8-d66d-4dfa-8c84-2e98edf96816",
+  "instruction": "Given a dataset of the population of a city in the US, create a histogram which shows a breakdown of the population by age.",
+  "input": "Population of San Francisco, CA: 884,000",
+  "output": "A histogram showing a breakdown of the population of San Francisco, CA by age would look like this: \n\n0-9 Years: 48,480\n10-19 Years: 99,716",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

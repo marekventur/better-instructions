@@ -1,0 +1,12 @@
+{
+  "id": "b2d2f74b-10e2-4104-a509-d64f5d2b1a9a",
+  "instruction": "Segment the input into individual words",
+  "input": "Todayisagoodday",
+  "output": "Today is a good day",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e7ef7908-5d0d-42b5-9224-c65596a96c9c",
+  "instruction": "Given a sentence, modify it to make it sound more positive.",
+  "input": "This task is really hard.",
+  "output": "This task is a great challenge.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

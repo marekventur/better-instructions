@@ -1,0 +1,12 @@
+{
+  "id": "e7e833bc-e3fc-4930-82b8-5b82836d0bec",
+  "instruction": "Design a smart assistant conversation conversation flow to help users figure out local public transport fare information.",
+  "input": "",
+  "output": "User: Hi, I'm looking for information on public transport fares in my local area.\n\nAssistant: Hi, what kind of public transport fare information are you looking for? You could tell me the type of fare you need help with, or the type of public transport you will be taking.\n\nUser: I'm looking for bus fare information.\n\nAssistant: Sure, I can help you with that! What city are you in? \n\nUser: I'm in Seattle. \n\nAssistant: Got it! Let me check the bus fare information for Seattle. Are you looking for a one-way fare, or a round-trip fare? \n\nUser: One-way.\n\nAssistant: Okay, the one-way adult fare for Seattle buses is $2.75. Are you looking for more information about fares, or something else? \n\nUser: That's all I need, thank you!\n\nAssistant: You're welcome, glad I could help! Is there anything else I can do for you?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

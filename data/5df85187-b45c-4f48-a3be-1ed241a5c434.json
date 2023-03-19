@@ -1,0 +1,12 @@
+{
+  "id": "5df85187-b45c-4f48-a3be-1ed241a5c434",
+  "instruction": "Describe what a customer service agent should do when the customer expresses a complaint.",
+  "input": "The customer is saying their refund was not processed yet.",
+  "output": "The customer service agent should apologize to the customer and actively listen to the customer's complaint. The agent should then take any necessary steps to ensure the customer's refund is processed as soon as possible and follow up with the customer afterwards.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

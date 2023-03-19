@@ -1,0 +1,12 @@
+{
+  "id": "57a808d8-765c-4f25-adc2-0de2feae37d8",
+  "instruction": "Modify the given code to add an exception handler.",
+  "input": "def divide(x, y):\n  return x / y",
+  "output": "def divide(x, y):\n  try:\n    return x / y\n  except ZeroDivisionError:\n    print(\"Cannot divide by 0\")",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

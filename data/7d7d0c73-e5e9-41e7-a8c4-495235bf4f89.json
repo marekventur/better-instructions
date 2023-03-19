@@ -1,0 +1,12 @@
+{
+  "id": "7d7d0c73-e5e9-41e7-a8c4-495235bf4f89",
+  "instruction": "Given a number expression, identify the mathematical operation(s) needed to solve it.",
+  "input": "8 x (7 \u2013 4)",
+  "output": "The given mathematical expression requires two operations: multiplication and subtraction. Therefore, it can be solved using the order of operations, beginning with the subtraction operation: 8 x (7 \u2013 4) = 8 x (3) = 24.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

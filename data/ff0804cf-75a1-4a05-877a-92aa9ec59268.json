@@ -1,0 +1,12 @@
+{
+  "id": "ff0804cf-75a1-4a05-877a-92aa9ec59268",
+  "instruction": "Fit the input text into the given structure.",
+  "input": "John went to the store to buy some apples.",
+  "output": "John had decided to go to the store to buy some apples.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b49afe7b-481e-47a3-86f9-5942a868ebc2",
+  "instruction": "Find all elements with the class \"box\" in the given html section, and remove them. Output the entire html section without the class \"box\" boxes.",
+  "input": "<div class=\"header\">\n    <div class=\"box\">\n        <h1>Header</h1>\n    </div>\n    <div class=\"box\">\n        <h2>Sub-header</h2>\n    </div>\n</div>",
+  "output": "<div class=\"header\">\n    <h1>Header</h1>\n    <h2>Sub-header</h2>\n</div>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

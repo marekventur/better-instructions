@@ -1,0 +1,12 @@
+{
+  "id": "874c33bd-5970-48a9-84f1-1b4ee0563e48",
+  "instruction": "Construct a python class for an apple.",
+  "input": "",
+  "output": "class Apple:\n    def __init__(self, color, size):\n        self.color = color\n        self.size = size\n    \n    def get_color(self):\n        return self.color\n    \n    def get_size(self):\n        return self.size",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

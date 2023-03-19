@@ -1,0 +1,12 @@
+{
+  "id": "26261920-26de-4d7a-a488-2387a04fca91",
+  "instruction": "Calculate the tax rate for an employee with a salary of $75000 in California.",
+  "input": "",
+  "output": "The tax rate for an employee with a salary of $75000 in California is 9.3% (state income tax), plus 1% (county income tax), for a total tax rate of 10.3%.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

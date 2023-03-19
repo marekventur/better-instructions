@@ -1,0 +1,12 @@
+{
+  "id": "78446c1e-1431-48a8-a797-283a5b46a129",
+  "instruction": "Find the 2nd smallest number in this set.",
+  "input": "{0, 2, 5, 22, 15, 11, 37}",
+  "output": "5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

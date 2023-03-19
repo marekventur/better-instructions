@@ -1,0 +1,12 @@
+{
+  "id": "f5bf2b3c-b33d-468e-82f6-f18f1f899dfd",
+  "instruction": "Generate a word cloud for the given text.",
+  "input": "Data Science is changing the world across industries and academia",
+  "output": "<img src=\"word-cloud.png\" alt=\"Word Cloud\">",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

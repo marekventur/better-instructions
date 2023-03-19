@@ -1,0 +1,12 @@
+{
+  "id": "d385fe01-9e19-4ace-b58d-c28cb398d4de",
+  "instruction": "Generate a one sentence summary that answers a yes/no question.",
+  "input": "Does McDonald's offer vegan items in their menu?",
+  "output": "Yes, McDonald's offers vegan options on their menu.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

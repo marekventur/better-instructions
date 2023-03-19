@@ -1,0 +1,12 @@
+{
+  "id": "41f0bbbf-a608-4b29-a18d-dd1d5a4ba2fb",
+  "instruction": "Infer the appropriate action from the given information.",
+  "input": "Tim has been skipping school for the past three weeks",
+  "output": "Tim should be spoken to about the importance of attending school regularly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

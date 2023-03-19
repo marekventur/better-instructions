@@ -1,0 +1,12 @@
+{
+  "id": "05a4bc06-c745-4a6d-acdf-d4d5d6ce0686",
+  "instruction": "Classify the given text as belonging to a genre.",
+  "input": "The novel is set in a small coastal town, where a wealthy family owns the only hotel.",
+  "output": "The given text belongs to the genre of realism fiction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

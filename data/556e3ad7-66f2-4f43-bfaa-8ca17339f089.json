@@ -1,0 +1,12 @@
+{
+  "id": "556e3ad7-66f2-4f43-bfaa-8ca17339f089",
+  "instruction": "Generate a correct java program to find the nth term of an arithmetic sequence.",
+  "input": "",
+  "output": "public class ArithmeticSequence {\n\u00a0 \u00a0 public static int nthTerm(int a, int d, int n)\u00a0{\n\u00a0 \u00a0 \u00a0 \u00a0 // 'a' is first term \u00a0\n\u00a0 \u00a0 \u00a0 \u00a0 // 'd' is common difference \u00a0\n\u00a0 \u00a0 \u00a0 \u00a0 // 'n' is the nth term\n\u00a0 \u00a0 \u00a0 \u00a0 int result = a + (n - 1) * d; \u00a0\n\u00a0 \u00a0 \u00a0 \u00a0 return result; \n\u00a0 \u00a0 }\n\u00a0 \u00a0 public static void main(String[] args){ \u00a0\n\u00a0 \u00a0 \u00a0 \u00a0 // Sample usage\n\u00a0 \u00a0 \u00a0 \u00a0 int a = 3;\n\u00a0 \u00a0 \u00a0 \u00a0 int d = 2;\n\u00a0 \u00a0 \u00a0 \u00a0 int n = 4;\n\u00a0 \u00a0 \u00a0 \u00a0 int nthTerm = nthTerm(a, d, n);\n\u00a0 \u00a0 \u00a0 \u00a0 System.out.println(n + \"th term of the arithmetic sequence with first term \"+a+\" and common difference \"+d+\" is \"+nthTerm);\n\u00a0 \u00a0 } \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

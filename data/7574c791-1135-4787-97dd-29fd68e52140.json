@@ -1,0 +1,12 @@
+{
+  "id": "7574c791-1135-4787-97dd-29fd68e52140",
+  "instruction": "Find the highest average score in the following set of numbers.",
+  "input": "68, 46, 34, 98, 82",
+  "output": "The highest average score in the set of numbers is 82.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

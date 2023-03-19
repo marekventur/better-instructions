@@ -1,0 +1,12 @@
+{
+  "id": "0ad6c47b-62ca-40b5-8bee-05675898f1cb",
+  "instruction": "Given a person\u2019s name, write a sentence describing them using adjectives and explanatory phrases.",
+  "input": "Bob",
+  "output": "Bob is a kindhearted man with a great sense of adventure.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

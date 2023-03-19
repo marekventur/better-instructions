@@ -1,0 +1,12 @@
+{
+  "id": "bfcc1a53-8110-4dd7-aa33-65cbed7f8272",
+  "instruction": "Create a list of ingredients for a homemade ice cream.",
+  "input": "",
+  "output": "Ingredients: \n1. 1 cup heavy cream \n2. 1/2 cup milk \n3. 1/2 cup sugar \n4. 2 teaspoons vanilla extract \n5. 1/4 teaspoon salt \n6. 1/2 cup chopped nuts (optional) \n7. 1/2 cup chocolate chips (optional)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

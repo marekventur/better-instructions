@@ -1,0 +1,12 @@
+{
+  "id": "65364569-b19c-47d3-aac9-275dd97a77bb",
+  "instruction": "Automatically correct the grammar in the following sentence: \"The two dogs sleeps in the garden\".",
+  "input": "",
+  "output": "The two dogs sleep in the garden.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

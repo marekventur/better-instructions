@@ -1,0 +1,12 @@
+{
+  "id": "56b04dcc-bb78-4c8a-88ae-472fee7af3d6",
+  "instruction": "Write a recipe for a cheese omelette.",
+  "input": "",
+  "output": "Ingredients:\n- 3 eggs\n- \u00bc cup of milk\n- \u00bd cup of shredded cheddar cheese\n- 1 tablespoon of butter\n- Salt and pepper to taste\n\nInstructions:\n\n1. Beat the eggs in a bowl with the milk.\n2. Melt butter in a large skillet over medium heat.\n3. Pour the egg mixture into the skillet and let it cook for a few minutes.\n4. Sprinkle the cheese over the omelette, and then fold the omelette in half.\n5. Continue cooking for about another 3-4 minutes, or until the cheese is melted and the omelette is cooked through.\n6. Serve with salt and pepper to taste.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

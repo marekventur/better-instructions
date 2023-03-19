@@ -1,0 +1,12 @@
+{
+  "id": "4258e0f2-49f9-4058-bf6b-daeb9d48daf8",
+  "instruction": "Classify the given plant as either a monocot or a dicot.",
+  "input": "Apple",
+  "output": "Apple is a dicot.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "aaa31fae-7e5e-452a-bfab-e633cb5762d0",
+  "instruction": "Create a data visualization to show the trend of COVID-19 cases in your country.",
+  "input": "",
+  "output": "A line chart can be used to visualize the trend of COVID cases in the given country. The x-axis would track the number of days, while the y-axis would show total number of cases, the total number of deaths, the total number of recoveries, the cumulative number of cases, the cumulative number of deaths and the cumulative number of recoveries. The data points for each of these metrics can be used to generate a line that can either be colored (to show the different metrics) or plotted with different icons (to show different metrics).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

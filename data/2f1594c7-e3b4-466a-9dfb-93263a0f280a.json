@@ -1,0 +1,12 @@
+{
+  "id": "2f1594c7-e3b4-466a-9dfb-93263a0f280a",
+  "instruction": "Summarize the effects of deforestation",
+  "input": "<noinput> 8",
+  "output": "Deforestation has a range of negative effects on the environment, including biodiversity loss, air and water pollution, soil erosion, and disruption of the water cycle. It accelerates climate change through carbon emissions and reduces carbon sequestration potential. Additionally, it increases the risk of flooding, disrupts ecological and socioeconomic balance, and reduces the availability of resources for local communities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

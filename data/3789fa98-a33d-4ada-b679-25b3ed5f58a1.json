@@ -1,0 +1,12 @@
+{
+  "id": "3789fa98-a33d-4ada-b679-25b3ed5f58a1",
+  "instruction": "For the following poem, write the rhyme scheme.",
+  "input": "Once upon a time there was a bear\nit roamed around with no one to care\nTrudging through the forest day and night\nWithout food it couldn't take flight",
+  "output": "aabb",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

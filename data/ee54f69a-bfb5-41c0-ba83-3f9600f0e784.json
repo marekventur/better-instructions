@@ -1,0 +1,12 @@
+{
+  "id": "ee54f69a-bfb5-41c0-ba83-3f9600f0e784",
+  "instruction": "Read this poem and describe the theme in one sentence",
+  "input": "The fog comes\non little cat feet.\nIt sits looking\nover harbor and city\non silent haunches\nand then moves on.",
+  "output": "The theme of this poem is the mysterious, soft, and fleeting presence of fog in an urban environment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

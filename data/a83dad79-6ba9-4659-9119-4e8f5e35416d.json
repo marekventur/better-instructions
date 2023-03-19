@@ -1,0 +1,12 @@
+{
+  "id": "a83dad79-6ba9-4659-9119-4e8f5e35416d",
+  "instruction": "Design a car parking system",
+  "input": "",
+  "output": "A car parking system could be designed to facilitate parking for vehicles and minimize congestion in parking lots. The system could track the number of available parking spaces in a given parking lot or garage, allowing cars to easily find open spots. \n\nThe system could also be integrated with a payment system, allowing users to pay for parking remotely. Furthermore, the system could allow users to reserve specific spots that would be pre-adjusted for their vehicle, ensuring that it will fit. This would reduce time spent trying to fit a vehicle in a spot. \n\nIn conclusion, a car parking system could be designed to provide users with an efficient, hassle-free way to find parking spaces and pay for them.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

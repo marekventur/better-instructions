@@ -1,0 +1,12 @@
+{
+  "id": "6f2ac63f-218c-49a9-b4d8-9f4a7cf73c3b",
+  "instruction": "Compare two approaches and state advantages and disadvantages of each one.",
+  "input": "Approach1: Applying mathematical combinations\nApproach2: Using machine-learning algorithms",
+  "output": "Applying mathematical combinations allows for easily decipherable and explainable results but requires substantial manual effort. Conversely, using machine learning algorithms generally can yield highly-accurate results and can automate a lot of the computation, but the underlying processes can be opaque and difficult to understand.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

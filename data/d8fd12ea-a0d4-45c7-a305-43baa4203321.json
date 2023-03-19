@@ -1,0 +1,12 @@
+{
+  "id": "d8fd12ea-a0d4-45c7-a305-43baa4203321",
+  "instruction": "Generate a definition for 'robot'.",
+  "input": "",
+  "output": "A robot is a machine that is capable of performing autonomous or semi-autonomous tasks and is typically programmed to work in environments that are dangerous for humans to operate in. Robots are often used in manufacturing, medical research, and material handling. They typically possess sensors that allow them to respond to their environment, as well as actuators that allow them to move and manipulate objects. Additionally, robots often have decision-making capabilities and can be programmed to work autonomously or under remote control.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

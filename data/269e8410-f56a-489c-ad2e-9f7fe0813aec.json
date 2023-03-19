@@ -1,0 +1,12 @@
+{
+  "id": "269e8410-f56a-489c-ad2e-9f7fe0813aec",
+  "instruction": "Find the matching antonyms of the given words",
+  "input": "Words: increase, complex",
+  "output": "Decrease, simple",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

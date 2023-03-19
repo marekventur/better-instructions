@@ -1,0 +1,12 @@
+{
+  "id": "800ae7f8-6b7e-433e-9384-74d1ca4f4a68",
+  "instruction": "Tell us about an example of a computer virus and how it works.",
+  "input": "",
+  "output": "A computer virus is a malicious software program designed to replicate itself and spread to other computers. The most common type of virus is the Trojan Horse virus, which masquerades as a legitimate program and once installed, causes damage by deleting files and corrupting data. Computer viruses can be transmitted via email attachments, external storage devices, and malicious websites. When a virus is activated, it is capable of replicating itself and may spread via peer-to-peer connections and other networks, making it difficult to stop the infection before it causes serious damage.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

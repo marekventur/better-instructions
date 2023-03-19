@@ -1,0 +1,12 @@
+{
+  "id": "6edbc25f-8315-4b48-9a78-8ddd3afbbea4",
+  "instruction": "Given a list of animals, name their habitats.",
+  "input": "Cheetah, Blue whale",
+  "output": "Cheetah (Savannahs), Blue whale (Marine)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

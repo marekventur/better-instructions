@@ -1,0 +1,12 @@
+{
+  "id": "e72e6cc8-05da-4f42-b652-b84c66a23d4f",
+  "instruction": "Write a function that takes two strings as arguments and returns true if they are anagrams of each other and false otherwise.",
+  "input": "string str1 = \"anagram\"; \nstring str2 = \"nagaram\";",
+  "output": "bool isAnagram(string str1, string str2) {\n    if (str1.length() != str2.length()) \n        return false; \n    sort(str1.begin(), str1.end()); \n    sort(str2.begin(), str2.end()); \n  \n    for (int i = 0; i < str1.length(); i++) \n        if (str1[i] != str2[i]) \n            return false; \n  \n    return true; \n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a06a0922-75ba-4ea8-adde-0bf0e68f972f",
+  "instruction": "Name one data augmentation technique and how it works.",
+  "input": "",
+  "output": "One data augmentation technique is data jittering, which adds random noise to input data in order to create multiple variations of the same data sample. This adds diversity to the training data as well as making the model more robust to input noise.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

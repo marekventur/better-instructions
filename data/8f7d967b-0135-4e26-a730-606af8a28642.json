@@ -1,0 +1,12 @@
+{
+  "id": "8f7d967b-0135-4e26-a730-606af8a28642",
+  "instruction": "Generate 3 questions related to the following passage.",
+  "input": "Most people associate Queen Elizabeth II with England. However, she also has authority in 15 other countries.",
+  "output": "1. What are the 15 other countries where Queen Elizabeth II has authority? \n2. How long has Queen Elizabeth II been Head of State for England?\n3. What other responsibilities does the Queen of England have in addition to her authority in these 15 countries?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

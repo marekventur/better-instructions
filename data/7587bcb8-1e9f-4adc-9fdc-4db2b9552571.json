@@ -1,0 +1,12 @@
+{
+  "id": "7587bcb8-1e9f-4adc-9fdc-4db2b9552571",
+  "instruction": "Using the input data, classify this event as a political, economic, or social event.",
+  "input": "A new law passed in France raising the minimum wage.",
+  "output": "This is an economic event.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

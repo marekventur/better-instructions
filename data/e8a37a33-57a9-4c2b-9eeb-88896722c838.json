@@ -1,0 +1,12 @@
+{
+  "id": "e8a37a33-57a9-4c2b-9eeb-88896722c838",
+  "instruction": "Categorize the following job titles",
+  "input": "Accountant, Chef, Surgeon, Plumber",
+  "output": "Accountant: Finance \nChef: Culinary \nSurgeon: Medical \nPlumber: Construction",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

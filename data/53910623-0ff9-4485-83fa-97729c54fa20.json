@@ -1,0 +1,12 @@
+{
+  "id": "53910623-0ff9-4485-83fa-97729c54fa20",
+  "instruction": "Given a product description, identify the main product feature and describe it in one sentence.",
+  "input": "The Samsung Galaxy Fold has three AMOLED screens, one on the outside, two on the inside and a powerful battery that can last for more than a day.",
+  "output": "The Samsung Galaxy Fold boasts a unique triple-screen design and an impressive long-lasting battery.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

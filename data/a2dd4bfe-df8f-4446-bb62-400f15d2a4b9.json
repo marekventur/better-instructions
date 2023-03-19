@@ -1,0 +1,12 @@
+{
+  "id": "a2dd4bfe-df8f-4446-bb62-400f15d2a4b9",
+  "instruction": "Give a 5-step summary for the following text.",
+  "input": "The healthcare system in the United States is a complex, interconnected web of organizations, policies, and regulations designed to ensure high-quality healthcare services are available to all citizens.",
+  "output": "1. The healthcare system in the United States is composed of organizations, policies, and regulations. \n2. The main goal of the system is to provide high-quality healthcare services to citizens.\n3. These services are organized by a web of interconnected providers, stakeholders, and government entities.\n4. The system is monitored by regulatory bodies to ensure quality standards are maintained.\n5. Policies are regularly revised to adapt to the changing needs of the healthcare industry.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

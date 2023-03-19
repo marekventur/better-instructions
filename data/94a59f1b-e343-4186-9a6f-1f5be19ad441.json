@@ -1,0 +1,12 @@
+{
+  "id": "94a59f1b-e343-4186-9a6f-1f5be19ad441",
+  "instruction": "Does the sentence use a metaphorical figure of speech?",
+  "input": "The angry sea was roaring.",
+  "output": "Yes, this sentence uses a metaphor as it is comparing the angry sea to a creature that is roaring.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

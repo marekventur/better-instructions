@@ -1,0 +1,12 @@
+{
+  "id": "5ffdb988-7629-445e-9f55-0a63636ce7cd",
+  "instruction": "Categorize this book title as either fiction or non-fiction.",
+  "input": "The Compassionate Mind",
+  "output": "Non-fiction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

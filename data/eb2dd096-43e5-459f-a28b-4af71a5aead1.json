@@ -1,0 +1,12 @@
+{
+  "id": "eb2dd096-43e5-459f-a28b-4af71a5aead1",
+  "instruction": "Classify the following paragraph into one of the three categories (Natural Disaster, Health Crisis, International Conflict).",
+  "input": "With the recent outbreak of the Coronavirus, medical facilities across the world have been scrambling to meet the needs of the population.",
+  "output": "Health Crisis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "46b02361-3b7a-4b5b-a2bd-0493dcf13c2d",
+  "instruction": "Classify the following utterance as 1) phone usage; 2) order and payment",
+  "input": "I lost my phone and need to transfer my account information",
+  "output": "1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

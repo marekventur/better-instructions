@@ -1,0 +1,12 @@
+{
+  "id": "cad36913-31b6-4ea6-a805-80530a5b2764",
+  "instruction": "Write an algorithm to sort a list of numbers from smallest to largest.",
+  "input": "",
+  "output": "Step 1: Create a function to compare two numbers - a and b\nStep 2: Create an empty list for the sorted numbers\nStep 3: Loop through the list of numbers\nStep 4: For every two numbers, use the comparison function to determine which one is smaller\nStep 5: Append the smaller number to the sorted list\nStep 6: Repeat step 3 until all numbers have been sorted\nStep 7: Return the sorted list",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

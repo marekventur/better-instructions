@@ -1,0 +1,12 @@
+{
+  "id": "b7f99b7a-7d67-4e11-9e9f-2be0e9d04404",
+  "instruction": "Calculate the age difference between the given two people.",
+  "input": "Person 1: 40 years old\nPerson 2: 20 years old",
+  "output": "The age difference between Person 1 and Person 2 is 20 years.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

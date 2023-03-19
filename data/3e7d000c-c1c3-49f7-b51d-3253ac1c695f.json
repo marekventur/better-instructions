@@ -1,0 +1,12 @@
+{
+  "id": "3e7d000c-c1c3-49f7-b51d-3253ac1c695f",
+  "instruction": "Given a sentence and a list of adverbs, modify the sentence using the adverbs.",
+  "input": "He walked slowly\nAdverbs: reluctantly, hesitantly",
+  "output": "He walked reluctantly or hesitantly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

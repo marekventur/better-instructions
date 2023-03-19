@@ -1,0 +1,12 @@
+{
+  "id": "8516f8e5-2d1a-4892-a3eb-b470830ae635",
+  "instruction": "Explain how to calculate the median of a set of numbers.\nOutput should be less than 100 words.",
+  "input": "",
+  "output": "To calculate the median of a set of numbers, first arrange the numbers in ascending order. Then, if the number of values is odd, the median is the middle value. If the number of values is even, subtract the two middle numbers and divide by two to find the median value. For example, if the set of numbers is [2, 4, 8, 10], the two middle numbers are 4 and 8 which have a difference of 4. Divide the difference by two and the median of the set is 6.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

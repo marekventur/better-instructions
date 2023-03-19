@@ -1,0 +1,12 @@
+{
+  "id": "270cda24-f726-430a-8d2f-7242845a03e0",
+  "instruction": "Rewrite the sentence to change the word that is being modified:",
+  "input": "\"The girl said goodbye with tearful eyes\"",
+  "output": "The girl said goodbye with sad eyes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

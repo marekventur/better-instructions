@@ -1,0 +1,12 @@
+{
+  "id": "2e8f7b96-aabb-4e94-ae4a-5e693b81bcdd",
+  "instruction": "Produce a conversation between two people using the context \"Meeting at Starbucks\"",
+  "input": "",
+  "output": "Jane: Hi, how are you?\n\nJohn: Hi! I'm doing great. How about you?\n\nJane: Pretty good. I'm glad we were able to meet up here at Starbucks.\n\nJohn: Yeah, me too. So, what did you want to talk about?\n\nJane: I wanted to discuss the project proposal that you sent out yesterday. What do you think?\n\nJohn: Well, I think it is a great start, but I think there are a couple of things that we should adjust. What do you think?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

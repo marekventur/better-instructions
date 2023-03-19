@@ -1,0 +1,12 @@
+{
+  "id": "bab2e69c-f3a8-445c-a31f-481725927cb9",
+  "instruction": "Give appropriate input values to this equation: $y=2x^2 - 4x + 1$",
+  "input": "",
+  "output": "For x=0, y=1, for x=1, y=-1, for x=2, y=3, and for x=3, y=7.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

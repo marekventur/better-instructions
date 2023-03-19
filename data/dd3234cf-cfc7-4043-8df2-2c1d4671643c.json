@@ -1,0 +1,12 @@
+{
+  "id": "dd3234cf-cfc7-4043-8df2-2c1d4671643c",
+  "instruction": "Reduce the length of the given sentence without altering the meaning",
+  "input": "Our company will offer you a versatile role where you will be able to get an opportunity to learn new skills and develop your expertise.",
+  "output": "You'll have a varied role with learning and growth opportunities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

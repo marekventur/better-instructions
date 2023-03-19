@@ -1,0 +1,12 @@
+{
+  "id": "0176b551-e8ac-4219-8607-fac2cd91eb4a",
+  "instruction": "Classify the following object as either a star, a planet, or an asteroid:",
+  "input": "Jupiter",
+  "output": "Planet",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

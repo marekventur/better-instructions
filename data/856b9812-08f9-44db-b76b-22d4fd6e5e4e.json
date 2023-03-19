@@ -1,0 +1,12 @@
+{
+  "id": "856b9812-08f9-44db-b76b-22d4fd6e5e4e",
+  "instruction": "Organize this list of food into healthy and unhealthy items.",
+  "input": "Chips, Salad, Fried Chicken, Orange",
+  "output": "Healthy: Salad, Orange\nUnhealthy: Chips, Fried Chicken",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "08b3ce04-c1c4-452e-9085-91e483c00b4d",
+  "instruction": "Classify the following diseases according to their area of specialty.",
+  "input": "Celiac Disease, Cystic Fibrosis, and Diabetes",
+  "output": "Celiac Disease is an autoimmune disorder, Cystic Fibrosis is a genetic disorder, and Diabetes is a metabolic disorder.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

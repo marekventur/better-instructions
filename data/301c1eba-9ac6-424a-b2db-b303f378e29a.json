@@ -1,0 +1,12 @@
+{
+  "id": "301c1eba-9ac6-424a-b2db-b303f378e29a",
+  "instruction": "Correct the following paragraph and make grammatical changes.",
+  "input": "The current plan of action isn't working. We needs to try a  different approach.",
+  "output": "The current plan of action isn't working. We need to try a different approach.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

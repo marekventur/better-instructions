@@ -1,0 +1,12 @@
+{
+  "id": "2e9e50ca-608d-4a41-b20a-079a4ca6d8fa",
+  "instruction": "Summarize what is described in the below paragraph.",
+  "input": "The demand for renewable energy sources such as solar, wind, and geothermal is growing. This is due to increasing public awareness about the importance of conserving the environment, as well as concerns about the finite nature of traditional energy sources such as coal and petroleum.",
+  "output": "The demand for renewable energy sources is on the rise due to increasing public awareness about the importance of environmental conservation and the need for sustainable energy sources. Traditional energy sources, such as coal and petroleum, are finite and are becoming increasingly scarce.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

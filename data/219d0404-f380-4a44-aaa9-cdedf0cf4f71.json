@@ -1,0 +1,12 @@
+{
+  "id": "219d0404-f380-4a44-aaa9-cdedf0cf4f71",
+  "instruction": "Select a suitable representative from a given set of candidates .",
+  "input": "John, Mary and Sarah",
+  "output": "John is best suited to be the representative as he is experienced in dealing with similar issues, has excellent communication skills and a talent for public speaking.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

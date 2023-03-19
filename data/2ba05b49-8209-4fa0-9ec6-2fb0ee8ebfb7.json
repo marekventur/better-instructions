@@ -1,0 +1,12 @@
+{
+  "id": "2ba05b49-8209-4fa0-9ec6-2fb0ee8ebfb7",
+  "instruction": "Write the text in past tense.",
+  "input": "They are running to the store.",
+  "output": "They ran to the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

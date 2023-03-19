@@ -1,0 +1,12 @@
+{
+  "id": "eb48ef93-14f3-4098-ac4b-7e0817191034",
+  "instruction": "Explain how quantum computing differs from classical computing.",
+  "input": "",
+  "output": "Quantum computing differs from classical computing in that it uses quantum mechanical phenomena, such as superposition and entanglement, to perform computations. Unlike classical bits, which can only be in one of two states, quantum bits (or qubits) can exist in multiple states at once. This allows quantum computers to solve complex problems much faster than their classical counterparts. Additionally, quantum computing is more powerful and efficient when compared to classical computing, as its parallelism enables the processing of much more data at a much faster pace.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

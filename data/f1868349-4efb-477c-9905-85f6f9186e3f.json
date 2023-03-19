@@ -1,0 +1,12 @@
+{
+  "id": "f1868349-4efb-477c-9905-85f6f9186e3f",
+  "instruction": "Generate a 5 word haiku based on the keyword provided.",
+  "input": "Keyword: moon",
+  "output": "Silver moonlight cascades, \nGlistening on water waves, \nSerenity unfolds.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3db3a165-9cf5-43ee-bc51-2c440ddecf59",
+  "instruction": "Summarize this poem while retaining much of the original phrasing.",
+  "input": "A sharp word of scolding,\nAs I heard tonite.\nNo longer embracing,\nMental moves out of sight.\n\nPeace and understanding,\nFar away from here.\nLeft to battle aloud,\nFeeling so much fear.",
+  "output": "I was scolded harshly, leaving me feeling alone and afraid. There was no peace or understanding, only the muffled sound of a distant battle. My thoughts run away from me, my embrace of the world fading in the night.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

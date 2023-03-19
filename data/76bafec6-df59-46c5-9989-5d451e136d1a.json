@@ -1,0 +1,12 @@
+{
+  "id": "76bafec6-df59-46c5-9989-5d451e136d1a",
+  "instruction": "Suggest a method to optimize a website\u2019s performance.",
+  "input": "",
+  "output": "One method to optimize a website's performance is to minimize the number of HTTP requests by reducing the size of files and combining multiple files into one. Other methods include caching, minifying HTML, CSS, and JavaScript code, optimizing images, compressing files, and using a content delivery network.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

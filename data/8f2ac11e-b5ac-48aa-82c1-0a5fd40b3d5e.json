@@ -1,0 +1,12 @@
+{
+  "id": "8f2ac11e-b5ac-48aa-82c1-0a5fd40b3d5e",
+  "instruction": "Identify three issues with this program implementation.",
+  "input": "def function(input):\n  if (input == 0):\n    return 0\n  else:\n    for i in range(input):\n      return i",
+  "output": "1. The program is missing an input argument - the function is defined to take in one argument, but none has been provided. \n2. The loop that is set up to return each index of the input is not working correctly - the loop only runs once, and so is only returning 0.\n3. The function should return a list, rather than individual values - the program is only returning the first item in the loop, when it should be returning a list of all the indices that were ran through the loop. The return statement should be changed to a return list containing all the indices in the loop.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "01b1ff8b-7fb7-4756-92ff-f09cb56182b3",
+  "instruction": "Analyze the following text and classify if it is written in a formal or informal tone.",
+  "input": "Hey guys, what's up?",
+  "output": "This text is written in an informal tone. It is addressed to \"guys\" and uses informal slang (\"what's up\").",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

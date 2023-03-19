@@ -1,0 +1,12 @@
+{
+  "id": "f5919348-96fb-49f3-91df-097c31413fdd",
+  "instruction": "Generate a dialogue between two people discussing their plans for the weekend.",
+  "input": "",
+  "output": "John: What are you thinking about doing this weekend?\n\nMary: I thought about going for a hike. You?\n\nJohn: That sounds fun. I was planning on attending a concert.\n\nMary: Who's playing?\n\nJohn: It's a local band. I heard they're really good and I wanted to go check them out.\n\nMary: That's cool. Maybe we can do the hike on Sunday and then go to the concert afterwards.\n\nJohn: Sure, sounds like a plan!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

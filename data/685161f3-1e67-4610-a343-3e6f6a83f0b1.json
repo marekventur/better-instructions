@@ -1,0 +1,12 @@
+{
+  "id": "685161f3-1e67-4610-a343-3e6f6a83f0b1",
+  "instruction": "Find the number of students who participated in the survey",
+  "input": "The survey was conducted to investigate the shift from physical to virtual classrooms. It was sent out to 500 students, and 89.4% replied with satisfactory results.",
+  "output": "445 students participated in the survey. (500 x 0.894 = 445)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

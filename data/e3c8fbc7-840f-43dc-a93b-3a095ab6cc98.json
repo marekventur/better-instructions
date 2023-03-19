@@ -1,0 +1,12 @@
+{
+  "id": "e3c8fbc7-840f-43dc-a93b-3a095ab6cc98",
+  "instruction": "Compare the following doobjects and tell which is heavier",
+  "input": "A stone and a feather",
+  "output": "The stone is heavier than the feather.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

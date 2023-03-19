@@ -1,0 +1,12 @@
+{
+  "id": "ded680bf-5c7d-4ed6-86c1-8d3dcd42efd0",
+  "instruction": "Identify the type of sentiment expressed in following statement.",
+  "input": "I would like to believe that one day we will be able to solve our problems.",
+  "output": "The sentiment expressed in the statement is hope.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

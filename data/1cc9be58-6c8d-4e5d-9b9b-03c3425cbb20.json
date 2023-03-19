@@ -1,0 +1,12 @@
+{
+  "id": "1cc9be58-6c8d-4e5d-9b9b-03c3425cbb20",
+  "instruction": "Calculate the rate of change.",
+  "input": "The price of a commodity increased from $20 to $25 in one month.",
+  "output": "The rate of change is 25% per month.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

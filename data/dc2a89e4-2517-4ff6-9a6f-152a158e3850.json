@@ -1,0 +1,12 @@
+{
+  "id": "dc2a89e4-2517-4ff6-9a6f-152a158e3850",
+  "instruction": "Classify the following as an activity in the morning or an activity in the evening.",
+  "input": "Listening to music",
+  "output": "Listening to music is an activity in the evening.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

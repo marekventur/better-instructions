@@ -1,0 +1,12 @@
+{
+  "id": "4f664e86-0f9f-4096-a052-e80e01ca8a03",
+  "instruction": "Explain the difference between a hard disk and a solid state drive.",
+  "input": "",
+  "output": "A hard disk is a type of storage device where data is stored on a rotating disk. It is composed of multiple platters that spin at very high speeds, creating a magnetic field. A Solid State Drive (SSD) is a type of storage device that uses electronic memory to store data. It does not have any movable parts, making it faster and more reliable than a hard disk.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

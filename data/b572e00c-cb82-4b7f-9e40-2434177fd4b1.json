@@ -1,0 +1,12 @@
+{
+  "id": "b572e00c-cb82-4b7f-9e40-2434177fd4b1",
+  "instruction": "Edit the sentence \"The cat is play in the garden\" to make it grammatically correct.",
+  "input": "The cat is play in the garden",
+  "output": "The cat is playing in the garden.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

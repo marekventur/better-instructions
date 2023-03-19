@@ -1,0 +1,12 @@
+{
+  "id": "c09a8f32-76ee-414b-b2bb-b739deb50b7b",
+  "instruction": "Automatically trim a given phrase",
+  "input": "phrase: \"The quick brown fox jumps over the lazy dog\"",
+  "output": "The quick brown fox jumps over the lazy dog \u2192 Quick brown fox jumps over lazy dog",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

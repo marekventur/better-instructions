@@ -1,0 +1,12 @@
+{
+  "id": "621b2936-3b9a-44ed-8c7b-4973a242330c",
+  "instruction": "Find the screw size needed for the battery replacement process",
+  "input": "We need to replace the battery in an electronic device.",
+  "output": "The screw size needed for the battery replacement process is Phillips #00.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

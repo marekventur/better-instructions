@@ -1,0 +1,12 @@
+{
+  "id": "9091a859-e016-45c6-866a-0b8d1b46c166",
+  "instruction": "Describe a common machine learning algorithm?",
+  "input": "",
+  "output": "A common machine learning algorithm is the support vector machine (SVM). It is a supervised learning algorithm that looks for the optimal decision boundary that separates the data points into distinct classes. It is often used to classify data or recognize patterns.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

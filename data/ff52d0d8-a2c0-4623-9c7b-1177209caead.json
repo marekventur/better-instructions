@@ -1,0 +1,12 @@
+{
+  "id": "ff52d0d8-a2c0-4623-9c7b-1177209caead",
+  "instruction": "Construct a logical argument from the given premises.",
+  "input": "Premise 1: All dogs bark\nPremise 2: Rover is a dog",
+  "output": "Therefore, Rover must bark.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

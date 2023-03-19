@@ -1,0 +1,12 @@
+{
+  "id": "3898aec5-2a96-4f37-a838-d4317d1d7ca8",
+  "instruction": "Design a database schema for storing customer orders.",
+  "input": "",
+  "output": "A database schema for storing customer orders would have tables for customer information, order details, and payment information. The customer information table would store basic information, such as name, contact information, and any other relevant customer information. The order details table would store information such as order date and time, product, quantity, and price. The payment information table would store payment method, billing address, and payment status.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

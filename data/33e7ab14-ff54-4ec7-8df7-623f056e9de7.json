@@ -1,0 +1,12 @@
+{
+  "id": "33e7ab14-ff54-4ec7-8df7-623f056e9de7",
+  "instruction": "Generate a question that could follow the response below.",
+  "input": "I saw a movie last week.",
+  "output": "What movie did you see last week?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

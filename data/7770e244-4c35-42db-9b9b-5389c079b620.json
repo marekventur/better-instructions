@@ -1,0 +1,12 @@
+{
+  "id": "7770e244-4c35-42db-9b9b-5389c079b620",
+  "instruction": "Given a text, create a response in a dialog format.",
+  "input": "John just got a promotion.",
+  "output": "Congrats John! How does it feel to be the manager of your department?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

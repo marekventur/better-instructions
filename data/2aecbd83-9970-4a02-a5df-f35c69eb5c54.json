@@ -1,0 +1,12 @@
+{
+  "id": "2aecbd83-9970-4a02-a5df-f35c69eb5c54",
+  "instruction": "Given the input sentence, rewrite it to make it more concise without changing the meaning.",
+  "input": "Many studies have been conducted that have explored the effects of television viewing on children's behavior.",
+  "output": "Studies examining the impact of TV viewing on kids' behavior abound.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

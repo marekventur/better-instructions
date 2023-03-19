@@ -1,0 +1,12 @@
+{
+  "id": "615a8c5a-dd7a-4f66-af02-bae89c3f73b2",
+  "instruction": "Provide a statistical analysis of the following data.",
+  "input": "Age: 18, 21, 22, 25, 26, 27",
+  "output": "Mean = 23, Median = 23, Mode = none, Range = 9 years.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

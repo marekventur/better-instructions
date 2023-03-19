@@ -1,0 +1,12 @@
+{
+  "id": "f4739a7d-f9ed-4c72-967a-fb453b444ea9",
+  "instruction": "Rearrange the sentence to make the subject of the sentence the last word.",
+  "input": "The dog is sleeping on the bed.",
+  "output": "On the bed is sleeping the dog.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

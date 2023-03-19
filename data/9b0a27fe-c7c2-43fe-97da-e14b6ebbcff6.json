@@ -1,0 +1,12 @@
+{
+  "id": "9b0a27fe-c7c2-43fe-97da-e14b6ebbcff6",
+  "instruction": "Given a text input, summarize the key points into a shorter output.",
+  "input": "Gratitude is the feeling of appreciation and thankfulness for the good in our lives. It's an attitude that many focus on during Thanksgiving but should apply all year round. Practicing gratitude on a regular basis helps to boost feelings of belonging, share joy and be more mindful.",
+  "output": "Gratitude is an attitude of appreciation and thankfulness for what we have in life, that should be practiced regularly for a greater sense of belonging and joy, as well as mindfulness.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

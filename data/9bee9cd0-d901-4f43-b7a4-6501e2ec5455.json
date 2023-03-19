@@ -1,0 +1,12 @@
+{
+  "id": "9bee9cd0-d901-4f43-b7a4-6501e2ec5455",
+  "instruction": "Adjust the formatting in the given paper, ensuring that all items in the list are correctly aligned, and the references are done according to APA guidelines.",
+  "input": "The paper is about the significance of animals in human culture.\n\nAnimals play an important role in human cultures around the world:\n              1. Animals are a source of food, clothing, and shelter.\n              2. Animals are an integral part of many religious and spiritual beliefs. \n             3. Animals have served as a source of companionship and comfort for people throughout history. \nReferences:\nArmstrong, E. (2017). Animal-human relationships in history. Animal Behavior and Cognition, 4(2), 79-81.",
+  "output": "The paper is about the significance of animals in human culture.\n\nAnimals play an important role in human cultures around the world:\n1. Animals are a source of food, clothing, and shelter.\n2. Animals are an integral part of many religious and spiritual beliefs.\n3. Animals have served as a source of companionship and comfort for people throughout history.\n\nReferences:\nArmstrong, E. (2017). Animal-human relationships in history. Animal Behavior and Cognition, 4(2), 79-81.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

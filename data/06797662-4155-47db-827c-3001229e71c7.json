@@ -1,0 +1,12 @@
+{
+  "id": "06797662-4155-47db-827c-3001229e71c7",
+  "instruction": "Construct a 2-3 sentence summary of the provided excerpt.",
+  "input": "The French Revolution began in 1789 and quickly turned into a ten year period of terror and instability in France.",
+  "output": "The French Revolution began in 1789 and marked a dramatic shift in the way the country was governed. It ultimately resulted in a ten-year period of terror and instability in France, accompanied by a series of civil wars, social upheaval, and political reorganization.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

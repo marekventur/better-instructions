@@ -1,0 +1,12 @@
+{
+  "id": "cef846ee-d3b2-4f3a-93ab-abdf3ddd4d98",
+  "instruction": "Identify the algorithm used for google's page ranking.",
+  "input": "",
+  "output": "Google's page ranking algorithm is called PageRank. It uses links from other websites to calculate the importance of each page to determine its rank.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "23506945-4b88-4940-81e2-8945e2d825f7",
+  "instruction": "Design a financial forecasting algorithm using historical data.",
+  "input": "The historical data involves stock pricing over the past 5 years.",
+  "output": "The designed financial forecasting algorithm should be based on the historical data of stock prices over the last 5 years. The algorithm should incorporate various factors such as economic cycles, market trends, and news sentiment into its model to create reliable predictions. Additionally, the algorithm should be able to provide users with both short-term and long-term predictions, as well as the confidence level of each prediction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

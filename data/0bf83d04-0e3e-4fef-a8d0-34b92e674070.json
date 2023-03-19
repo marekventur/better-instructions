@@ -1,0 +1,12 @@
+{
+  "id": "0bf83d04-0e3e-4fef-a8d0-34b92e674070",
+  "instruction": "Create a function to calculate the mean of an array.",
+  "input": "",
+  "output": "function findMean(array) {\n  let sum = 0;\n  for (let i=0; i<array.length; i++) {\n    sum += array[i];\n  }\n  return sum/array.length;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

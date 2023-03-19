@@ -1,0 +1,12 @@
+{
+  "id": "bf214a57-06a6-419b-ba6b-c5048fa175ae",
+  "instruction": "Given a text, classify the text into one of the following categories: fiction, non-fiction, opinion, or other.",
+  "input": "This essay is about the importance of nature conservation.",
+  "output": "Non-fiction",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

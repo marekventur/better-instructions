@@ -1,0 +1,12 @@
+{
+  "id": "0d987207-5ca4-43ac-884a-cd4ac424d0a7",
+  "instruction": "Given a list of books, classify them based on their genre.",
+  "input": "Harry Potter and the Philosopher's Stone, A Game of Thrones, Frankenstein",
+  "output": "Fantasy, Fantasy, Sci-fi",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1e135b43-de80-43c0-92fe-8ae963fc2b1d",
+  "instruction": "Summarize the steps for creating a WordPress site",
+  "input": "",
+  "output": "Creating a WordPress website requires setting up web hosting, installing WordPress, selecting a theme, adding plugins, and customizing the site to meet your needs. First, sign up for a web hosting plan, and then use the WordPress installation provided by the web hosting service. Once installed, select a theme and configure settings such as color, font, and logo. Then, start adding plugins to add advanced features to your website like contact forms, e-commerce tools, or a membership system. Finally, customize your website by adding your brand\u2019s text and logos, creating pages, and adding content to your blog.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

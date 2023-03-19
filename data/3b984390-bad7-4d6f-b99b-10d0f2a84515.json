@@ -1,0 +1,12 @@
+{
+  "id": "3b984390-bad7-4d6f-b99b-10d0f2a84515",
+  "instruction": "Answer this math problem.",
+  "input": "12/8",
+  "output": "1.5",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

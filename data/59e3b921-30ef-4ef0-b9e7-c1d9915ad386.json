@@ -1,0 +1,12 @@
+{
+  "id": "59e3b921-30ef-4ef0-b9e7-c1d9915ad386",
+  "instruction": "Label each of the given pieces of data as either \"discrete\" or \"continuous\".",
+  "input": "Height",
+  "output": "Continuous",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

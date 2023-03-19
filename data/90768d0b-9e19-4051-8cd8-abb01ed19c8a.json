@@ -1,0 +1,12 @@
+{
+  "id": "90768d0b-9e19-4051-8cd8-abb01ed19c8a",
+  "instruction": "Analyze a poem and explain its main theme.",
+  "input": "The Road Not Taken\nby Robert Frost\n\nTwo roads diverged in a yellow wood,\nAnd sorry I could not travel both\nAnd be one traveler, long I stood",
+  "output": "The poem \u201cThe Road Not Taken\u201d by Robert Frost is a reflection on the decisions one makes in life and the consequences of these decisions. The poem is structured around the speaker's contemplation of two paths, one well-traveled and one less traveled. The speaker eventually chooses to take the less traveled path and wonders what might have been along the other path. The poem is ultimately about accepting and respecting the individual choices one makes in life and realizing that no one else is the same and that no single path will lead the same outcomes for everyone.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

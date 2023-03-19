@@ -1,0 +1,12 @@
+{
+  "id": "ac958096-4fe5-4a54-817c-5f2d2b75bf66",
+  "instruction": "Explain why some programming languages are easier to read than others.",
+  "input": "",
+  "output": "Some programming languages are easier to read than others because they are designed to be more user-friendly. These languages focus on readability and use keywords that are easy to understand. They also use consistent syntax with clear and recognizable patterns, making them easier to parse and understand. Additionally, they often provide clear documentation, helpful error messages, and intuitive debugging tools. All of these features make it easier for developers to quickly learn and write code in these languages.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

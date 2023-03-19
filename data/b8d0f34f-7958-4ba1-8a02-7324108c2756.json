@@ -1,0 +1,12 @@
+{
+  "id": "b8d0f34f-7958-4ba1-8a02-7324108c2756",
+  "instruction": "Create an example output using the following template:",
+  "input": "Template: \nI am a [noun] who loves to [verb].",
+  "output": "I am a teacher who loves to explore.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "35ef7ce1-057c-4866-89ca-618a99df1740",
+  "instruction": "Find the cost of 10 apples if the price is $2.49 per pound",
+  "input": "",
+  "output": "The cost of 10 apples is $4.98. To calculate this, we multiply the price of $2.49 per pound by the number of pounds for 10 apples (0.5 pounds). This gives us $2.49 \u00d7 0.5 = $4.98.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

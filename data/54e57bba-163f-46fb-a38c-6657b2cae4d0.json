@@ -1,0 +1,12 @@
+{
+  "id": "54e57bba-163f-46fb-a38c-6657b2cae4d0",
+  "instruction": "Given a sentence and a target word, produce another sentence that has the same meaning as the original sentence but does not contain the target word.",
+  "input": "Sentence: They proceeded to their destination.\nTarget word: proceed",
+  "output": "They journeyed to their destination.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

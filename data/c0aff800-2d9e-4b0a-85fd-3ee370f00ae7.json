@@ -1,0 +1,12 @@
+{
+  "id": "c0aff800-2d9e-4b0a-85fd-3ee370f00ae7",
+  "instruction": "Create a pseudo-code algorithm to find the maximum number in a given list of numbers.",
+  "input": "",
+  "output": "Algorithm:\n1. Create a new list to store the maximum numbers.\n2. Start a for loop with index i for the given list of numbers.\n3. Compare the current number with other numbers in the list.\n4. If the current number is greater, store it in the new list.\n5. If the current number is lesser, do nothing.\n6. After the for loop is complete, the new list contains the maximum numbers.\n7. Find the maximum of the maximum numbers and store it in a new variable.\n8. Return the new variable.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

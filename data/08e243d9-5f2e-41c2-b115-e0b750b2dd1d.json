@@ -1,0 +1,12 @@
+{
+  "id": "08e243d9-5f2e-41c2-b115-e0b750b2dd1d",
+  "instruction": "Given a customer review, generate a response",
+  "input": "\"I'm very disappointed with the customer service I received today. The staff were not helpful at all.\"",
+  "output": "We apologize for the unsatisfactory experience you had at our store. We pride ourselves on excellent customer service and are striving to improve. We appreciate your feedback, and we hope you will give us another chance to make it right.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3e3d239a-4572-40ee-a408-8bdfca99a838",
+  "instruction": "Remove third-person words from the following sentence.",
+  "input": "Someone or something increased the rate of firearm deaths from 10.3 per 100,000 to 12 per 100,000 from 1999 to 2017.",
+  "output": "I increased the rate of firearm deaths from 10.3 per 100,000 to 12 per 100,000 from 1999 to 2017.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

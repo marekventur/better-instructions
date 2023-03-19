@@ -1,0 +1,12 @@
+{
+  "id": "3055c815-7472-452f-9496-d8736e37e5b5",
+  "instruction": "How does Newton's second law of motion explain the relationship between force, mass, and acceleration?",
+  "input": "",
+  "output": "Newton's second law of motion states that a net force applied to a mass will cause it to accelerate, and the acceleration is proportional to the force divided by the mass. Therefore, the greater the force applied to an object with a given mass, the greater its acceleration. Conversely, the greater the mass of an object, the less its acceleration will be with a given amount of force.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

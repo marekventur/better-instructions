@@ -1,0 +1,12 @@
+{
+  "id": "6442285b-353a-4f7b-8d04-9d491a3b8db5",
+  "instruction": "For the following statement, list two pros and two cons.",
+  "input": "Increasing the budget for public education.",
+  "output": "Pros: \n1. More money would be invested in improving the quality of education. \n2. It would increase access to educational resources and materials.\n\nCons: \n1. It could create an unequal distribution of resources between students. \n2. It could lead to increased spending on administrators, instead of in-classroom resources.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

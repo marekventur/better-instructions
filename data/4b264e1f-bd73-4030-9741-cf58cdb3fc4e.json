@@ -1,0 +1,12 @@
+{
+  "id": "4b264e1f-bd73-4030-9741-cf58cdb3fc4e",
+  "instruction": "Given two sets, find the union of the two sets.",
+  "input": "A = {2, 3, 4} \nB = {1, 2, 6}",
+  "output": "A \u222a B = {1, 2, 3, 4, 6}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

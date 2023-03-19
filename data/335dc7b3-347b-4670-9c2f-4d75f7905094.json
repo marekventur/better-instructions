@@ -1,0 +1,12 @@
+{
+  "id": "335dc7b3-347b-4670-9c2f-4d75f7905094",
+  "instruction": "Create a list of five items contained in a first aid kit.",
+  "input": "",
+  "output": "A first aid kit should always include the following items: \n- Bandages of different sizes \n- Adhesive tape\n- Gauze pads\n- Antiseptic wipes\n- Disposable gloves \n- Tweezers \n- Scissors \n- Safety pins \n- Antibiotic ointment \n- Alcohol wipes \n- Instant cold packs\n- Calamine lotion \n- Over-the-counter pain medications",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

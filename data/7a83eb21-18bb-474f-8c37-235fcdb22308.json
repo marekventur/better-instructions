@@ -1,0 +1,12 @@
+{
+  "id": "7a83eb21-18bb-474f-8c37-235fcdb22308",
+  "instruction": "Give examples of three programs that are used for data wrangling.",
+  "input": "",
+  "output": "1. Python pandas: It is an open-source data analysis and manipulation library used to extract, filter, clean, transform, and summarize data. \n2. Apache Spark: It provides an efficient distributed framework for large-scale computation and cluster computing. It is ideal for handling big data.\n3. Microsoft Excel: It is one of the most popular and widely used tools for data wrangling by business analysts and data scientists.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

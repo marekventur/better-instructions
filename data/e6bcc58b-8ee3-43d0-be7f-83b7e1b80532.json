@@ -1,0 +1,12 @@
+{
+  "id": "e6bcc58b-8ee3-43d0-be7f-83b7e1b80532",
+  "instruction": "Using the input, explain how each color of the rainbow is created.",
+  "input": "Rainbows",
+  "output": "Rainbows are created by the dispersion of sunlight through water droplets in the atmosphere. Red is the longest wavelength and appears at the top of the rainbow. Orange and yellow follow, then green, blue, indigo, and finally violet at the bottom of the rainbow. This is because shorter wavelengths being scattered first, meaning that red is scattered least and violet is scattered most.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

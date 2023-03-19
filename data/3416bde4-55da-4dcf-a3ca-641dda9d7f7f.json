@@ -1,0 +1,12 @@
+{
+  "id": "3416bde4-55da-4dcf-a3ca-641dda9d7f7f",
+  "instruction": "Given the ingredients, suggest a recipe",
+  "input": "Ingredients: \n- 4 pitted dates \n- 2 tablespoons of almonds\n- \u00bd cup walnuts\n- 2 tablespoons honey\n- 2 tablespoons coconut oil",
+  "output": "Date, Nut and Honey Energy Bars:\n\n- Preheat oven to 350\u00b0F (175\u00b0C).\n- In a food processor, process the dates, almonds and walnuts until they become a coarsely ground mixture.\n- In a microwave-safe bowl, heat the honey and oil until just melted. \n- Pour the honey and oil mixture over the ground date and nut mixture and process until well combined. \n- Grease an 8x8 inch square pan.\n- Press the date and nut mixture into the pan, pressing down firmly to ensure that it's packed evenly. \n- Bake in the oven for 15 minutes. \n- Let cool before cutting into bars.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

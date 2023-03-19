@@ -1,0 +1,12 @@
+{
+  "id": "650dde7e-5e45-47e7-9f04-f4edf74c6780",
+  "instruction": "Create a valid CSS selector to select all the <p> elements",
+  "input": "",
+  "output": "The valid CSS selector to select all the <p> elements is: p { }",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

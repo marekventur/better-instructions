@@ -1,0 +1,12 @@
+{
+  "id": "c2d9634c-80ed-491a-a73d-ff2243d3b149",
+  "instruction": "Compose a short summary about the following article.",
+  "input": "The article is written on Leonardo Da Vinci's life and states that he was an Italian Artist, Engineer, and scientist during the Italian Renaissance. He is best known for his works of art like the Monalisa and Last Supper.",
+  "output": "Leonardo Da Vinci was a celebrated figure during the Italian Renaissance, credited with numerous works of art, engineering, and science. He is best remembered for his painting of the Mona Lisa and The Last Supper. His work has had a lasting legacy on the art world and science that still persists today.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

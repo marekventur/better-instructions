@@ -1,0 +1,12 @@
+{
+  "id": "889ca16e-66ed-40b8-85ee-d6ee27a5760e",
+  "instruction": "Categorize these words into adjectives and nouns.",
+  "input": "Fast, car, slow, desk",
+  "output": "Adjectives: fast, slow\nNouns: car, desk",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "56d124d8-ed4b-4396-8ab7-4340b6bca149",
+  "instruction": "Generate an example of a piece of data that fits the given criteria.",
+  "input": "A grocery store product with a price between $9 and $10",
+  "output": "A jar of Chunky peanut butter with a price of $9.99.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

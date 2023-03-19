@@ -1,0 +1,12 @@
+{
+  "id": "eee2d3b3-4323-4805-b9ab-f3837d036cfc",
+  "instruction": "Find 3 examples of persuasive techniques in the following paragraph.",
+  "input": "The new product has been a huge hit with consumers. It has been praised for its convenience, affordability and durability.",
+  "output": "1. Convenience: \"It has been praised for its convenience.\"\n2. Affordability: \"It has been praised for its affordability.\"\n3. Credibility: \"It has been praised...\" (implies that it has been praised by many people).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

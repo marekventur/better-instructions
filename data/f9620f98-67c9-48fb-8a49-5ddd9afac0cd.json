@@ -1,0 +1,12 @@
+{
+  "id": "f9620f98-67c9-48fb-8a49-5ddd9afac0cd",
+  "instruction": "Describe the basic operation of a database",
+  "input": "",
+  "output": "A database is a structured collection of data stored on a computer system. A database can be used to store information such as a person's name, address, birthday, and any other pertinent information. To store this data, the database first breaks down the information into individual pieces (called fields) and then arranges these fields together as records. This way, the database can store and organize the data in a consistent and efficient manner. To access the data stored in a database, a query is used. This type of query allows the user to search for specific records using keywords or phrases, allowing them to retrieve the desired information in a matter of seconds.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

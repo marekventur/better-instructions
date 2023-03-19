@@ -1,0 +1,12 @@
+{
+  "id": "8e2b21b5-e11f-43fd-bb59-743501f8e2fc",
+  "instruction": "Generate a list of questions to ask a movie director during an interview.",
+  "input": "",
+  "output": "- What initially inspired you to become a movie director?\n- What are the major themes in your movies?\n- How did you develop your own unique style of film-making?\n- How do you create a sense of mood or atmosphere in your films?\n- What techniques do you use to effectively communicate with your actors?\n- How important is the music in your films?\n- How do you prepare for filming a scene?\n- What has been the most difficult scene to shoot in your films?\n- What is the process you go through when selecting locations for the films?\n- What have been the biggest challenges you have faced as a movie director? \n- How did you handle the criticism of your films?\n- How have your films evolved since you began directing?\n- What advice would you give to aspiring movie directors?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

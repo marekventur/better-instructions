@@ -1,0 +1,12 @@
+{
+  "id": "e6a9dce0-728e-4d6d-a4aa-445c5714adbf",
+  "instruction": "Research a popular statistic about the given place.",
+  "input": "United States",
+  "output": "The most popular statistic about the United States is that it is the world's third most populous country, with an estimated population of 331.5 million as of 2021. Approximately 82.8% of the population is native-born, with another 13.7% coming from other countries or regions. The United States has a total Gross Domestic Product of over $21.4 trillion, making it the largest economy in the world. It also has the highest number of Fortune 500 companies of any country, with 636.  Additionally, approximately 64.9% of adults have a college degree or higher.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

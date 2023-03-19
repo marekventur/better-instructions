@@ -1,0 +1,12 @@
+{
+  "id": "db1fa8ce-a912-46ca-b721-af83ed4f072f",
+  "instruction": "Analyze the given text using a sentiment analysis model.",
+  "input": "The new product was absolutely amazing.",
+  "output": "The sentiment analysis model indicates that the sentiment conveyed in the text is positive. It shows that the speaker is expressing feelings of enthusiasm, elation, excitement, and admiration. They are highly satisfied with the new product.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "445a2472-4782-4ac9-a458-0318b2d50775",
+  "instruction": "Generate a list of 5 action items to take when handling a customer's complaint",
+  "input": "",
+  "output": "1. Acknowledge receipt of the complaint and keep records of the conversations. \n2. Inquiry into the issue to get a full understanding of the complaint. \n3. Apologize and offer a solution.\n4. Regularly communicate the progress of the solution. \n5. Follow up after the resolution to ensure customer satisfaction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

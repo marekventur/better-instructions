@@ -1,0 +1,12 @@
+{
+  "id": "e24862c9-14f1-4996-bfac-425c07b0a3ef",
+  "instruction": "Summarize the story from a given book or movie.",
+  "input": "The Great Gatsby",
+  "output": "The Great Gatsby tells the story of Jay Gatsby and his intense passion for rekindling a lost romance with Daisy Buchanan. After five years apart, Gatsby throws extravagant parties and uses his wealth to try to win her back. When Daisy comes to one of Gatsby's parties, tensions build between Gatsby, Daisy, and Daisy's husband Tom. Eventually, none of their relationships can survive and Gatsby is tragically killed in the end.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

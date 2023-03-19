@@ -1,0 +1,12 @@
+{
+  "id": "02854608-76f8-4073-a50a-21ce8f6b79f1",
+  "instruction": "You are provided with a sentence. Generate a question that can be asked about the sentence.",
+  "input": "He walked around the garden and admired the beautiful flowers.",
+  "output": "What kind of flowers were in the garden?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

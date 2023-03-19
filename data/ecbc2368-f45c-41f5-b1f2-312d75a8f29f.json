@@ -1,0 +1,12 @@
+{
+  "id": "ecbc2368-f45c-41f5-b1f2-312d75a8f29f",
+  "instruction": "Create a dialogue between two people trying hard to make a connection.",
+  "input": "",
+  "output": "Person 1: Hi, I'm John. It's nice to meet you.\nPerson 2: Hi John, I'm Julie. I'm so glad we finally got the chance to talk.\nPerson 1: Me too! I've been looking forward to this for a while. \nPerson 2: Same here! What do you like to do for fun?\nPerson 1: I like to read, go hiking, and spend time with my family. How about you? \nPerson 2: I love playing sports, exploring the outdoors, and doing anything creative. It's nice to find someone who has the same interests as me!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

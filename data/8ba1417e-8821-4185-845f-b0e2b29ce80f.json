@@ -1,0 +1,12 @@
+{
+  "id": "8ba1417e-8821-4185-845f-b0e2b29ce80f",
+  "instruction": "Given the input list, calculate the total",
+  "input": "Apple - $2.99\nBanana - $0.99\nPear - $1.50",
+  "output": "$5.48",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "62fb4cdc-1086-4e76-878b-e010f0a094cf",
+  "instruction": "Generate a recipe for an apple tart",
+  "input": "",
+  "output": "Apple Tart\nIngredients:\n- 2 cups all-purpose flour\n- 3/4 cup white sugar\n- 1/2 teaspoon salt\n- 3/4 cup cold butter, cubed\n- 2 eggs\n- 1 1/2 cups peeled, cored, and chopped apples\n- 2 tablespoons all-purpose flour\n- 3 tablespoons white sugar\n- 1/2 teaspoon ground cinnamon\n- 1 tablespoon butter\n\nDirections:\n1. Preheat oven to 375 degrees F (190 degrees C).\n2. In a medium bowl, mix together the flour, sugar and salt.\n3. Using a fork, blend in the butter until the mixture resembles fine crumbs. Beat in the eggs until the dough is stiff.\n4. Press dough out onto a floured surface, and then into a 9-inch tart pan.\n5. Arrange the apples over the pastry, and sprinkle with the 2 tablespoons of flour, 3 tablespoons of sugar and cinnamon. Dot with butter.\n6. Bake in preheated oven until apples are tender and crust is golden brown, 40 to 50 minutes. Cool on wire rack.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

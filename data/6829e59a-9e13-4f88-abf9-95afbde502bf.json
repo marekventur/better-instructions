@@ -1,0 +1,12 @@
+{
+  "id": "6829e59a-9e13-4f88-abf9-95afbde502bf",
+  "instruction": "Generate a prediction for the following time series data.",
+  "input": "15, 18, 21, 12, 19",
+  "output": "The forecasted value for the next data point is 17.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

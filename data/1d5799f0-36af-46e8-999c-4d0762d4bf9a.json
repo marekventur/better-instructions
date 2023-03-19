@@ -1,0 +1,12 @@
+{
+  "id": "1d5799f0-36af-46e8-999c-4d0762d4bf9a",
+  "instruction": "Restructure this sentence to avoid a comma splice.",
+  "input": "She was exhausted, she hadn't slept since the night before.",
+  "output": "She had not slept since the night before, and she was exhausted.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5501a545-0009-4cd5-8ea2-92cf980eb73e",
+  "instruction": "Create a function that takes a number as an argument and returns a string.",
+  "input": "",
+  "output": "def num_to_string(num):\n    return str(num)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

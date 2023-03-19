@@ -1,0 +1,12 @@
+{
+  "id": "a51b3f75-286e-4cd5-9215-67265cd555a8",
+  "instruction": "Convert the dates into ISO 8601 format",
+  "input": "November 25, 2020",
+  "output": "",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

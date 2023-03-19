@@ -1,0 +1,12 @@
+{
+  "id": "e9f3f638-b869-422d-a6aa-7850f6c9d90c",
+  "instruction": "Take two numbers and combine them into one.",
+  "input": "4, 7",
+  "output": "47",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

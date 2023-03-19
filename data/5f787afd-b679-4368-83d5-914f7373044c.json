@@ -1,0 +1,12 @@
+{
+  "id": "5f787afd-b679-4368-83d5-914f7373044c",
+  "instruction": "Find the five most similar sentences to the one given.",
+  "input": "The cat perched atop the tree.",
+  "output": "1. The feline perched on top of the trunk. \n2. The cat perched above the branch. \n3. The kitten perched on the highest branch of the tree. \n4. The cat clambered up the bark of the tree. \n5. The cat sat atop the tallest branch of the tree.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

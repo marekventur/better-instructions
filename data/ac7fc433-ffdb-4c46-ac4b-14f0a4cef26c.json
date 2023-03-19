@@ -1,0 +1,12 @@
+{
+  "id": "ac7fc433-ffdb-4c46-ac4b-14f0a4cef26c",
+  "instruction": "Create a description of a famous historic landmark.",
+  "input": "Eiffel Tower",
+  "output": "The Eiffel Tower is a wrought iron lattice tower located on the Champ de Mars in Paris, which is named after the engineer Gustave Eiffel, who designed it in 1889. It is the tallest building in Paris, standing 318 meters tall, and it is one of the most iconic landmarks of the country, visible from various points in the city. It is recognized all over the world as a symbol of France, and it is now a major tourist attraction, offering breathtaking views of the city below.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

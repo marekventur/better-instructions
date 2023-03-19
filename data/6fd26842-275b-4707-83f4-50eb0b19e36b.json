@@ -1,0 +1,12 @@
+{
+  "id": "6fd26842-275b-4707-83f4-50eb0b19e36b",
+  "instruction": "Suggest five questions to ask a job applicant",
+  "input": "",
+  "output": "1. What makes you the best fit for this position?\n2. What experience do you have that is most relevant to this role? \n3. What have been your greatest successes and challenges in the workplace?\n4. What do you believe are the key components of a successful team?\n5. How would you handle a disagreement between yourself and a colleague?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

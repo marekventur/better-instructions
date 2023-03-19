@@ -1,0 +1,12 @@
+{
+  "id": "e8b3acbd-c2c2-4d26-85eb-ec4c03a1eb33",
+  "instruction": "Write the conclusions of the article given below.",
+  "input": "This study examined the effects of educational interventions on reducing teenage substance use. The study found that teens who received the intervention were significantly less likely to use cigarettes, marijuana, and alcohol. However, there were no significant differences in other drugs. There was also no difference between males and females or in different socio-economic statuses.",
+  "output": "The study concluded that educational interventions are effective in reducing teenage substance use, specifically for cigarettes, marijuana, and alcohol. There were no significant differences in other types of drugs, nor any differences between males and females or different socio-economic statuses.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "54b89f9e-1bce-447e-ab99-0556d47aa542",
+  "instruction": "Given an item, suggest different ways for it to be recycled.",
+  "input": "Cardboard",
+  "output": "Cardboard can be recycled in a variety of ways, such as breaking it down and adding it to compost, making arts and crafts projects, turning it into packaging materials, or donating it to local charities.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

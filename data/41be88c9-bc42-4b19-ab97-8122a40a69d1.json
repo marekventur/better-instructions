@@ -1,0 +1,12 @@
+{
+  "id": "41be88c9-bc42-4b19-ab97-8122a40a69d1",
+  "instruction": "Identify the parts of speech in this sentence: \"The dog barked at the postman\".",
+  "input": "",
+  "output": "\"The\" is an article, \"dog\" is a noun, \"barked\" is a verb, \"at\" is a preposition, and \"postman\" is a noun.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

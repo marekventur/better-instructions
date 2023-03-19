@@ -1,0 +1,12 @@
+{
+  "id": "f094b4db-0c1a-42c5-83bc-1edae3362623",
+  "instruction": "Create a table summarizing the key differences between cats and dogs.",
+  "input": "",
+  "output": "| Key Difference | Cats | Dogs |\n|--|--|--|\n|Size| Generally smaller than dogs | Generally larger than cats |\n|Socialization| Generally independent | Generally crave companionship |\n|Intelligence| Good problem-solving skills | Can be trained more easily |\n|Playfulness| More independent | More playful and interactive |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

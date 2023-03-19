@@ -1,0 +1,12 @@
+{
+  "id": "f2abbd41-c7cd-4b52-8659-92748ecae78e",
+  "instruction": "How would you retrieve specific information from a database?",
+  "input": "",
+  "output": "To retrieve data from a database you must use an appropriate query language. The most common query language is Structured Query Language (SQL). The language allows you to specify which columns of data you wish to retrieve, and how you want to sort the retrieved data. Additionally, any other criteria you specify, such as a condition for matching data, must be included in the query to get the correct data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

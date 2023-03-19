@@ -1,0 +1,12 @@
+{
+  "id": "d66a7bbc-e371-4fda-a2b6-46b4bfdc960d",
+  "instruction": "Generate a question that someone would ask when they are trying to learn more about a particular topic.",
+  "input": "The state of California",
+  "output": "What are the five largest cities in the state of California?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

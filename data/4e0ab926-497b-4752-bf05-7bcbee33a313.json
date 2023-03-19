@@ -1,0 +1,12 @@
+{
+  "id": "4e0ab926-497b-4752-bf05-7bcbee33a313",
+  "instruction": "Classify the following item into one of the categories: fruit, vegetable, or junk food.",
+  "input": "Potato Chips",
+  "output": "Junk food.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

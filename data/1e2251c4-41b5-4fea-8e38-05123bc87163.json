@@ -1,0 +1,12 @@
+{
+  "id": "1e2251c4-41b5-4fea-8e38-05123bc87163",
+  "instruction": "Sort the list of items into two groups",
+  "input": "Bananas, apples, broccoli",
+  "output": "Fruits: Bananas, apples \nVegetables: Broccoli",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

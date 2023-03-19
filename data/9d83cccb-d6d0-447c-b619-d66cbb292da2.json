@@ -1,0 +1,12 @@
+{
+  "id": "9d83cccb-d6d0-447c-b619-d66cbb292da2",
+  "instruction": "Design a survey to analyze customer sentiment about an online store.",
+  "input": "",
+  "output": "Dear Customer,\n\nWe are interested in understanding your experience with our online store. We appreciate your honest feedback and would be grateful if you could take a few minutes to answer the following survey questions. \n\n1. How would you rate your overall experience with our online store? \n\n2. What do you think are our store's strengths?\n\n3. What do you think could be improved? \n\n4. How likely are you to recommend our store to a friend or family member? \n\nThank you very much!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "47558cd6-7bb4-40f3-8ebf-e0fdc766d17c",
+  "instruction": "Create a stack data structure using an array",
+  "input": "",
+  "output": "class Stack:\n    def __init__(self):\n        self.items = []\n    \n    def is_empty(self):\n        return len(self.items) == 0\n        \n    def push(self, item):\n        self.items.append(item)\n        \n    def pop(self):\n        if not self.is_empty():\n            return self.items.pop()\n        \n    def peek(self):\n        if not self.is_empty():\n            return self.items[-1]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

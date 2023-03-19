@@ -1,0 +1,12 @@
+{
+  "id": "575a52f4-3830-435e-a6b4-48aee3c93911",
+  "instruction": "Sort the following countries based on population.",
+  "input": "Japan, India, Indonesia, United States",
+  "output": "India, Indonesia, United States, Japan (in order of population size)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

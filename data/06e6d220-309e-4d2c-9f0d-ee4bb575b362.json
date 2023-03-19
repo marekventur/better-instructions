@@ -1,0 +1,12 @@
+{
+  "id": "06e6d220-309e-4d2c-9f0d-ee4bb575b362",
+  "instruction": "Predict how the given law will affect the economy.",
+  "input": "The government has passed a law that increases the minimum wage.",
+  "output": "The increase in the minimum wage could have potentially positive impacts on the economy. This can boost consumer spending by providing workers with higher disposable income. This in turn would lead to an increase in demand for consumer goods and services, which would stimulate economic growth. Additionally, higher wages can help decrease poverty rates, which would reduce economic inequality and benefits the overall economy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

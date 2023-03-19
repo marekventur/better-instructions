@@ -1,0 +1,12 @@
+{
+  "id": "2ac27f22-d2f6-48cf-8366-8a4513552f28",
+  "instruction": "Search the web and return the title of a news article related to the given topic.",
+  "input": "Global warming",
+  "output": "\"Climate Change: Global Warming's Toll On Nature\" by Viviane Rutabingwa, National Geographic",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

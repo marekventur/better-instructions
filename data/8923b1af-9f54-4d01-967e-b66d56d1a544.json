@@ -1,0 +1,12 @@
+{
+  "id": "8923b1af-9f54-4d01-967e-b66d56d1a544",
+  "instruction": "Identify all the verbs in the sentence and create a list.",
+  "input": "He quickly ran across the bridge.",
+  "output": "Verbs in the sentence: He, quickly, ran, across.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

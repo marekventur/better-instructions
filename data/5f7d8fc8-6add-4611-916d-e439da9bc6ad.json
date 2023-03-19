@@ -1,0 +1,12 @@
+{
+  "id": "5f7d8fc8-6add-4611-916d-e439da9bc6ad",
+  "instruction": "Explain how to set up a website.",
+  "input": "",
+  "output": "Setting up a website requires preparing the domain, hosting environment, and content. First, you need to acquire a domain name from a domain registrar. Next, you have to select a hosting provider where your website can reside. Finally, you need to create content for your website and upload it to the hosting provider's server. Once the setup is complete, your website can be accessed by typing in the domain name.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

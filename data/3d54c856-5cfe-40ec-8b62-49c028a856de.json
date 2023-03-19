@@ -1,0 +1,12 @@
+{
+  "id": "3d54c856-5cfe-40ec-8b62-49c028a856de",
+  "instruction": "Given some facts, provide a comprehensive analysis of the situation.",
+  "input": "A recent survey of local residents found that 77% of them disagree with new rules restricting access to the river.",
+  "output": "The survey reveals that a majority of people disagree with the new regulations restricting access to the river. This indicates that local support for the regulation is quite low. It is likely that the regulations have been viewed as an unnecessary and oppressive measure by the local population. Furthermore, the survey results suggest that the local population perceives the regulations as a violation of their rights and freedom, as well as a potential violation of their traditional ways of life. This indicates that there is a great deal of opposition to the regulations, and that the regulations are likely to be unpopular in the area. As such, the local government may need to re-examine the regulations in light of the survey results, in order to ensure that the regulations are acceptable to the local population and are not overly restrictive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

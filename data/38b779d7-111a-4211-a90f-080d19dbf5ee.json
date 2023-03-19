@@ -1,0 +1,12 @@
+{
+  "id": "38b779d7-111a-4211-a90f-080d19dbf5ee",
+  "instruction": "Given a company website, suggest two design changes to improve the user experience.",
+  "input": "Company website: https://www.jefferson.edu/",
+  "output": "Two design changes that could be implemented to improve the user experience on the Jefferson University website would be reorganizing the navigation links to make them easier to find and simplifying the design to make it easier to read. Additionally, introducing more interactive elements like videos, infographics, and animations could help to engage users while they are browsing the site.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

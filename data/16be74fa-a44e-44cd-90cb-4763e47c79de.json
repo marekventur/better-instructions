@@ -1,0 +1,12 @@
+{
+  "id": "16be74fa-a44e-44cd-90cb-4763e47c79de",
+  "instruction": "In the given text, identify the person featured in it.",
+  "input": "Michelle Obama is an American lawyer, university administrator, and writer who served as the first lady of the United States from 2009 to 2017.",
+  "output": "Michelle Obama",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

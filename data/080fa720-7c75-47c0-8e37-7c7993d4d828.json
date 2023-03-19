@@ -1,0 +1,12 @@
+{
+  "id": "080fa720-7c75-47c0-8e37-7c7993d4d828",
+  "instruction": "Implement a sorting algorithm to arrange the following numbers in ascending order.",
+  "input": "8, 3, 9, 5",
+  "output": "3, 5, 8, 9",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

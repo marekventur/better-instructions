@@ -1,0 +1,12 @@
+{
+  "id": "bab22ea4-d282-434a-a96e-0b6b17313130",
+  "instruction": "Express the given note in different words.",
+  "input": "Note: Children should be discouraged from watching too much television.",
+  "output": "Parents should discourage their children from spending too much time in front of the television.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

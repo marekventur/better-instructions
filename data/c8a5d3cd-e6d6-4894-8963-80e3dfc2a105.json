@@ -1,0 +1,12 @@
+{
+  "id": "c8a5d3cd-e6d6-4894-8963-80e3dfc2a105",
+  "instruction": "Take the following sentence and replace the 'they' pronoun with a more specific pronoun.",
+  "input": "They decided it was time to leave.",
+  "output": "We decided it was time to leave.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

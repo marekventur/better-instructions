@@ -1,0 +1,12 @@
+{
+  "id": "55ad72a0-9ca2-4b83-9d7b-4775b7a1a9d4",
+  "instruction": "Create a storyboard to communicate a given message",
+  "input": "Message: Technology is transforming the way we learn",
+  "output": "A storyboard that tells the story of technology transforming the way we learn may include: \n\n1. A student sitting in a classroom with other peers, reading from a traditional textbook.\n2. The same student in the same classroom, now using an iPad or laptop to access an interactive lesson.\n3. Another student using virtual reality to learn about a particular concept.\n4. An older student, who is now taking an online class to further their education.\n5. A group of students collaborating on an assignment through a video call.\n6. A student doing research for an assignment by searching for relevant material on the internet.\n7. A student who is now able to access a wealth of information from any location, with just the click of a button.\n8. A student giving a presentation on a project they completed using technology, to the rest of the class.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

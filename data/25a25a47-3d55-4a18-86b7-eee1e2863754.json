@@ -1,0 +1,12 @@
+{
+  "id": "25a25a47-3d55-4a18-86b7-eee1e2863754",
+  "instruction": "Go through the text and edit the typos.",
+  "input": "Arthurrrr, who was residin in New York had a plan.",
+  "output": "Arthur, who was residing in New York, had a plan.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

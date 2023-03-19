@@ -1,0 +1,12 @@
+{
+  "id": "e8ab7b05-6ae3-4cf1-81c6-23145c99adb6",
+  "instruction": "Edit the text \"The giraffe\u2019s neck are seven feet long\"",
+  "input": "The giraffe\u2019s neck are seven feet long",
+  "output": "The giraffe\u2019s neck is seven feet long.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

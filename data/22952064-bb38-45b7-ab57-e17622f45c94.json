@@ -1,0 +1,12 @@
+{
+  "id": "22952064-bb38-45b7-ab57-e17622f45c94",
+  "instruction": "Create a function to check if an array contains an item.",
+  "input": "",
+  "output": "def contains(array, item):\n    for element in array:\n        if element == item:\n            return True\n    return False",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

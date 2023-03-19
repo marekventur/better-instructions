@@ -1,0 +1,12 @@
+{
+  "id": "a7a28d3a-a91f-4e92-8352-300acc6a445e",
+  "instruction": "Analyze the problem presented in the following statement:",
+  "input": "Poor patient outcomes stem from improper medical care",
+  "output": "The statement suggests that inadequate medical care is the cause of poor patient outcomes. This could be due to an inadequate number of medical professionals, lack of access to treatment, inadequate training of medical professionals, or lack of funding for medical services. The root cause of this problem must be identified in order to decrease the number of poor patient outcomes. Potential solutions could include increased regulation of medical care, increased funding for medical services, or improved training for medical professionals. Ultimately, the goal would be to increase the quality of medical care to improve patient outcomes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

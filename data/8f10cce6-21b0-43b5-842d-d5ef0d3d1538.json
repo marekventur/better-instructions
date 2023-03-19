@@ -1,0 +1,12 @@
+{
+  "id": "8f10cce6-21b0-43b5-842d-d5ef0d3d1538",
+  "instruction": "State a cause and an effect related to the given statement.",
+  "input": "COVID-19 pandemic has led to a rise in digital transactions",
+  "output": "Cause: People wanting to limit physical contact with others. \nEffect: Increased use of digital payment solutions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

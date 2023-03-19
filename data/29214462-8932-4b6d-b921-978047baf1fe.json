@@ -1,0 +1,12 @@
+{
+  "id": "29214462-8932-4b6d-b921-978047baf1fe",
+  "instruction": "List five examples of ethical dilemmas that a AI-based product may face.",
+  "input": "",
+  "output": "1. Data confidentiality and privacy issues regarding personal information collected.\n2. Ensuring transparency in decision-making processes using Machine Learning algorithms.\n3. Addressing safety concerns and ensuring accountability for autonomous systems.\n4. Making sure data is not misused or manipulated to influence user behaviour or affect social beliefs.\n5. Deciding between enabling or disabling certain features that could be used to manipulate behaviour.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

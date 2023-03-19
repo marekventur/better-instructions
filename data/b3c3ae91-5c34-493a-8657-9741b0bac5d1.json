@@ -1,0 +1,12 @@
+{
+  "id": "b3c3ae91-5c34-493a-8657-9741b0bac5d1",
+  "instruction": "Classify this data as either numerical or categorical.",
+  "input": "Shoe size",
+  "output": "The data \"Shoe size\" is numerical as it is a numerical measurement.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "84436ec3-e3b9-40b9-bafc-d11b0f2bc19b",
+  "instruction": "Detect any gender bias in the sentence and suggest an alternate phrase.",
+  "input": "The CEO appointed two of his sons to the job.",
+  "output": "The CEO appointed two of his children to the job.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

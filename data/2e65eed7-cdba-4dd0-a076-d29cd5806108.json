@@ -1,0 +1,12 @@
+{
+  "id": "2e65eed7-cdba-4dd0-a076-d29cd5806108",
+  "instruction": "Create a list of questions to ask a client who is looking to build a website.",
+  "input": "",
+  "output": "- What is the purpose of the website, i.e sales, marketing, media? \n- What features do you need on your website, e.g. e-commerce capabilities, searchable database? \n- What design elements do you have in mind, e.g. colour scheme, layout? \n- How often do you expect the website to be updated? \n- Are there any existing websites that you want to replicate elements from? \n- What is the budget for this project? \n- What timeframe do you need the website completed by? \n- What qualities are you looking for in a web design agency? \n- Who will be responsible for providing copy and images? \n- Do you require any additional services, e.g. SEO or content marketing? \n- What kind of technical support do you need?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

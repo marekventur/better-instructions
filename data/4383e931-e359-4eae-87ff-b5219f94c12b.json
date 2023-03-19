@@ -1,0 +1,12 @@
+{
+  "id": "4383e931-e359-4eae-87ff-b5219f94c12b",
+  "instruction": "Find a school in the given city that focuses on the given subject",
+  "input": "City: Los Angeles,\nSubject: Computer Science",
+  "output": "Los Angeles is home to a number of universities and colleges that specialize in computer science, including the University of Southern California, California State University Dominguez Hills and California State University Northridge. UCLA also offers a range of computer science specializations through its Computer Science and Engineering department.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

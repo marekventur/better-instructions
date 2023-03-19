@@ -1,0 +1,12 @@
+{
+  "id": "e5dff7d4-3e7d-4fba-9e09-d7966417e762",
+  "instruction": "Read the following article and use it to answer a classification question.",
+  "input": "Article: Europe is the smallest continent in the world. It is home to more than 700 million people and covers an area of 10,180,000 square kilometers. Italy, France, Germany and the United Kingdom are some of the most populous countries in Europe.\n\nQuestion: Which continent is Europe?",
+  "output": "Europe is a continent.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

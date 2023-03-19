@@ -1,0 +1,12 @@
+{
+  "id": "63d9764e-49ef-4bb7-be9b-4f2513386bfb",
+  "instruction": "Create a restaurant menu for a burger joint.",
+  "input": "",
+  "output": "Appetizers: \n- French Fries\n- Onion Rings\n- Veggie Fritters \n\nMain Course: \n- Classic Cheeseburger\n- Bacon Cheeseburger\n- Veggie Burger\n- Fried Chicken Sandwich \n\nSides: \n- Coleslaw\n- Potato Wedges \n\nDrinks: \n- Soda\n- Milkshakes\n- Coffee \n\nDesserts: \n- Apple Pie \n- Chocolate Cake \n- Vanilla Ice Cream",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d004307d-b0ee-4cc7-ad0d-649f0518f30c",
+  "instruction": "Compare and contrast the Hippo signaling pathway and the MAPK cascade.",
+  "input": "",
+  "output": "The Hippo signaling pathway and the MAPK cascade are both signaling pathways involved in the regulation of cell growth and metabolism. The Hippo pathway is important for organ size regulation and stem cell maintenance, while the MAPK cascade is primarily involved in controlling cell division, growth, and gene expression. The Hippo pathway includes the upstream kinase cascade that activates the transcription factors Yap and Taz, while the MAPK cascade includes several distinct kinase cascades that activate transcription factors such as c-fos and c-Myc. Both pathways are important for cell growth, but they employ different regulatory mechanisms to achieve this.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

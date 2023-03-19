@@ -1,0 +1,12 @@
+{
+  "id": "72b5970e-2220-4831-b1fa-fec5567e7009",
+  "instruction": "Generate a product security policy following best practices.",
+  "input": "",
+  "output": "Our product security policy aims to protect the data and assets of our organization and our customers through effective security control measures. We strive for transparency in the design and implementation of our product securities, and welcome ongoing feedback from our users. We require authorization for any access to production data, and are committed to periodically reviewing our security measures and updating them if necessary. Additionally, we monitor our system for malicious activity, and have processes in place to handle incidents when they occur. All personnel with access to our system are trained in best practice security measures and are made aware of their secure computing responsibilities. We strive to maintain the highest standards of product security and welcome feedback and questions about our product security procedures.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

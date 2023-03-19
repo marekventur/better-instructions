@@ -1,0 +1,12 @@
+{
+  "id": "38845744-dc70-425b-b81f-518776c005fe",
+  "instruction": "Given the following information, generate a meaningful sentence.",
+  "input": "Subject: The caf\u00e9 \nVerb: Celebrate\nObject: Anniversary",
+  "output": "The caf\u00e9 is celebrating its anniversary.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

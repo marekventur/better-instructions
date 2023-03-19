@@ -1,0 +1,12 @@
+{
+  "id": "5078d58e-90b9-434c-a9e0-25a8cd93c40b",
+  "instruction": "Given an open-ended statement, generate the next sentence in a story.",
+  "input": "She was walking along the shoreline when she saw something glinting in the distance.",
+  "output": "She was curious, so she walked towards it to see what it was.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

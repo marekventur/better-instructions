@@ -1,0 +1,12 @@
+{
+  "id": "6d479877-bb84-4c8e-b035-2bf757faddef",
+  "instruction": "Replace the underlined word with a suitable adjective.",
+  "input": "The chair was strong.",
+  "output": "The chair was sturdy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

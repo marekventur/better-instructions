@@ -1,0 +1,12 @@
+{
+  "id": "9a4decf6-5062-4c18-8f40-008173851be1",
+  "instruction": "Generate an original sentence by combining the two given sentences.",
+  "input": "I want to go on a vacation. My friend said it would be fun.",
+  "output": "I want to go on a vacation with my friend because they said it would be fun.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

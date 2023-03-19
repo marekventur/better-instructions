@@ -1,0 +1,12 @@
+{
+  "id": "2e854d4c-83f4-4008-b7cc-d99429c4e054",
+  "instruction": "Provide a list of 5 best practices for designing user interfaces for mobile applications.",
+  "input": "",
+  "output": "1. Keep it simple: stick to familiar design patterns and design for reliability and intuitiveness.\n2. Focus on responsiveness: design for both portrait and landscape orientations, and ensure the content reflows when the user rotates the screen.\n3. Design for accessibility: make sure the interface is usable by all users regardless of their preferences and abilities.\n4. Follow platform conventions: keep the user interface consistent with the platform\u2019s guidelines and native design conventions.\n5. Utilize photos and illustrations: visuals can help to engage the user and keep them engaged throughout the interface.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

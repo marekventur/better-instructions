@@ -1,0 +1,12 @@
+{
+  "id": "969d4497-ce9c-4047-9ab3-0fb67baf1bd5",
+  "instruction": "Add one word to the sentence to make it more descriptive.",
+  "input": "The family visited the park.",
+  "output": "The family joyously visited the park.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

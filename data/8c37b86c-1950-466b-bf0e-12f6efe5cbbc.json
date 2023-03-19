@@ -1,0 +1,12 @@
+{
+  "id": "8c37b86c-1950-466b-bf0e-12f6efe5cbbc",
+  "instruction": "Given a list of ingredients, produce a shopping list for a recipe.",
+  "input": "Ingredients:\n- 2 cups of cooked chicken\n- 2 cups cooked spinach\n- 2 tablespoons olive oil\n- 2 tablespoons butter\n- 2 teaspoons garlic powder\n- 1 teaspoon ground black pepper",
+  "output": "Shopping List:\n- 2 cups cooked chicken\n- 2 cups cooked spinach\n- 2 tablespoons olive oil\n- 2 tablespoons butter\n- 2 teaspoons garlic powder\n- 1 teaspoon ground black pepper",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

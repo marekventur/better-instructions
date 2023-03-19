@@ -1,0 +1,12 @@
+{
+  "id": "74cda6cc-f8c2-4a16-8190-5532f2b1572a",
+  "instruction": "Given two circles centered at (1,0) and (-1,0) each with a radius of 1, find the equation of the line of tangent at (-1,0).",
+  "input": "",
+  "output": "The equation of the line of tangent at (-1,0) is y= -x.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "44a62071-0d26-4760-ae15-19ba604c2a58",
+  "instruction": "Create a dictionary of 5 items, with keys being numbers and values being strings.",
+  "input": "",
+  "output": "my_dict = {\n    1: \"a\",\n    2: \"b\",\n    3: \"c\",\n    4: \"d\",\n    5: \"e\"\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

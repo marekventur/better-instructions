@@ -1,0 +1,12 @@
+{
+  "id": "2c9579b4-612f-4623-9f74-7758f0528a73",
+  "instruction": "Write a query to find all books published in 2021 and later.",
+  "input": "",
+  "output": "SELECT * FROM books WHERE year >= 2021;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

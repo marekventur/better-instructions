@@ -1,0 +1,12 @@
+{
+  "id": "aea01735-a6f3-4ec5-8551-caf81d4fccf8",
+  "instruction": "Which of the following sentences is correct?",
+  "input": "He goed to the store.\nHe went to the store.",
+  "output": "He went to the store.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

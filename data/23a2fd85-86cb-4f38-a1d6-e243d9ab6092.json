@@ -1,0 +1,12 @@
+{
+  "id": "23a2fd85-86cb-4f38-a1d6-e243d9ab6092",
+  "instruction": "Based on the given sentence, create a sentence using a different but equivalent idiom.",
+  "input": "His father gave him a pat on the back",
+  "output": "His father gave him a pat on the shoulder.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

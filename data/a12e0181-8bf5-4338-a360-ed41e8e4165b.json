@@ -1,0 +1,12 @@
+{
+  "id": "a12e0181-8bf5-4338-a360-ed41e8e4165b",
+  "instruction": "Explain a genetic algorithm",
+  "input": "",
+  "output": "A genetic algorithm is a type of search algorithm that is used to optimize complex problems. It works by creating a population of possible solutions, selecting the best ones to use, and combining their characteristics to generate new and improved solutions. The algorithms apply the rules of natural selection to arrive at an optimal solution to the particular problem.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

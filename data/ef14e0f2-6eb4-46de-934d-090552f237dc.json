@@ -1,0 +1,12 @@
+{
+  "id": "ef14e0f2-6eb4-46de-934d-090552f237dc",
+  "instruction": "Classify the type of habitat described below",
+  "input": "A tropical rainforest is an area with high rainfall and a diverse array of plant and animal life.",
+  "output": "Tropical rainforest",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

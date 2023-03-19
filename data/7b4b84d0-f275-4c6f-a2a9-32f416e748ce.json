@@ -1,0 +1,12 @@
+{
+  "id": "7b4b84d0-f275-4c6f-a2a9-32f416e748ce",
+  "instruction": "After given a list of products, assign them with the correct categories.",
+  "input": "iPad, desktop computer, laptop",
+  "output": "iPad: technology, desktop computer: technology, laptop: technology.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

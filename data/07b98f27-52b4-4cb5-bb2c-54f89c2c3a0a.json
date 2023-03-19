@@ -1,0 +1,12 @@
+{
+  "id": "07b98f27-52b4-4cb5-bb2c-54f89c2c3a0a",
+  "instruction": "Create a timeline of computer technology from 1960-1980",
+  "input": "",
+  "output": "1960: \n- IBM introduces the IBM 1401, the first commercial computer for small businesses.\n- Computer software development begins with the invention of FORTRAN (Formula Translator) at IBM. \n\n1961:\n- Tim Berners-Lee, father of the World Wide Web, is born.\n\n1962: \n- The first video game, Spacewar!, is invented.\n- The first computer-controlled video game is installed at a New York bowling alley.\n\n1964: \n- IBM develops the first floppy disk storage device.\n\n1965: \n- ARPANET, the precursor to the internet, is developed.\n\n1966: \n- The first commercial time-sharing system is launched. \n\n1967: \n- The first computer mouse is developed by Douglas Engelbart.\n\n1968: \n- The first computer with a graphical user interface is released.\n\n1969: \n- ARPANET is expanded to four hosts, becoming the first internet.\n\n1970: \n- The first computerized cash register is introduced. \n\n1971: \n- The first microprocessor is introduced by Intel. \n\n1972: \n- The first commercial video game console, the Magnavox Odyssey, is released.\n\n1973: \n- Xerox Alto is the first personal computer with a Graphical User Interface (GUI).\n\n1975: \n- The first consumer-grade computer, the Altair 8800, is released. \n\n1977: \n- Apple releases the first Apple II computer.\n\n1978: \n- VisiCalc launches, establishing the first spreadsheet software. \n\n1979: \n- IBM releases the first IBM PC personal computer.\n\n1980: \n- The first laser printer is introduced.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

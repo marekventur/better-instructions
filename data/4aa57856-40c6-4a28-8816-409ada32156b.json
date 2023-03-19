@@ -1,0 +1,12 @@
+{
+  "id": "4aa57856-40c6-4a28-8816-409ada32156b",
+  "instruction": "Convert the following statement from plural to singular.",
+  "input": "The cars are parked outside.",
+  "output": "A car is parked outside.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

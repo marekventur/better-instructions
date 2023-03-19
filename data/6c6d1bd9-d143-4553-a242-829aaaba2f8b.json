@@ -1,0 +1,12 @@
+{
+  "id": "6c6d1bd9-d143-4553-a242-829aaaba2f8b",
+  "instruction": "Generate instructions for a recipe for steamed pork dumplings.",
+  "input": "",
+  "output": "Instructions for Steamed Pork Dumplings: \n1. In a bowl, combine the ground pork, grated ginger, garlic, scallions, soy sauce, sesame oil and salt. \n2. Mix the ingredients until they are evenly blended.\n3. Take a wonton wrapper, fill it with the pork filling, and wrap it into a triangle or crescent shape. \n4. Prepare a steamer and line it with parchment paper.\n5. Place the dumplings in the steamer and steam for 8-10 minutes. \n6. Once done, remove the steamed dumplings from the steamer and enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

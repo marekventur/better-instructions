@@ -1,0 +1,12 @@
+{
+  "id": "3303be4e-84dc-4a6a-af78-42276bb2b46b",
+  "instruction": "Generate a question that could be used in a survey about the given topic.",
+  "input": "E-commerce",
+  "output": "What factors influence your decision when choosing an online store for your purchases?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "257f3e5f-7cdb-4a7a-b8b0-841c5a3b4759",
+  "instruction": "Give me the remaining digits for the following number.",
+  "input": "123_",
+  "output": "12345",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

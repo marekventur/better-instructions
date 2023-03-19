@@ -1,0 +1,12 @@
+{
+  "id": "21963e71-85b4-4b40-a78d-7caf488fcf55",
+  "instruction": "Put together a recipe for a given dish.",
+  "input": "Chocolate Chip Cookies",
+  "output": "Ingredients:\n- 2 1/4 cups all-purpose flour \n- 1 teaspoon baking soda \n- 1 teaspoon salt \n- 1 cup (2 sticks) butter, softened \n- 3/4 cup granulated sugar \n- 3/4 cup packed brown sugar \n- 1 teaspoon vanilla extract \n- 2 large eggs \n- 2 cups semi-sweet chocolate chips \n\nInstructions:\n1. Preheat oven to 375\u00b0F. \n2. In a medium bowl, mix together the flour, baking soda, and salt. \n3. In a large bowl, cream together the butter, granulated sugar, brown sugar, and vanilla extract until light and fluffy.\n4. Beat in the eggs, one at a time.\n5. Gradually add in the dry ingredients, mixing until incorporated.\n6. Stir in the chocolate chips.\n7. Drop cookie dough onto greased cookie sheets.\n8. Bake for 9-11 minutes, or until golden brown. \n9. Cool slightly before transferring to a wire rack to cool completely.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

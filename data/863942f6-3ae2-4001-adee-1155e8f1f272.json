@@ -1,0 +1,12 @@
+{
+  "id": "863942f6-3ae2-4001-adee-1155e8f1f272",
+  "instruction": "Run a sentiment analysis on the tweet.",
+  "input": "Love the new update!",
+  "output": "Positive sentiment. The tweet is expressing a liking for the new update.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

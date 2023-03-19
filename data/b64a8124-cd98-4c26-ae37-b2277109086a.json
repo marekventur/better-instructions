@@ -1,0 +1,12 @@
+{
+  "id": "b64a8124-cd98-4c26-ae37-b2277109086a",
+  "instruction": "Edit the sentence so there is no grammar or syntax mistakes",
+  "input": "We offered to help them, but them ignored us.",
+  "output": "We offered to help them, but they ignored us.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f62d8a39-a6a0-483a-bbb5-6896bf1031f7",
+  "instruction": "Given a sentence, return the position of the 2nd highest frequency word in the sentence. The position should start from 1.",
+  "input": "This is a random sentence.",
+  "output": "3",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

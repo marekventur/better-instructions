@@ -1,0 +1,12 @@
+{
+  "id": "50d7579e-f4f3-44b5-ac9f-670f022a278b",
+  "instruction": "Formulate an 'if-then' statement using the following sentence.",
+  "input": "Frances brought her pencil to school.",
+  "output": "If Frances brings her pencil to school, then she can complete her work.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

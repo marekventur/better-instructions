@@ -1,0 +1,12 @@
+{
+  "id": "3d6bcd94-566b-4b30-a4b1-494c4b3a6ab3",
+  "instruction": "Given the following news article, provide three key points",
+  "input": "The government has proposed a new regulation to levy taxes on the internet.",
+  "output": "1. The government has proposed a new regulation involving taxes.\n2. The regulation specifically targets the internet.\n3. Consumers may have to pay more for their services as a result of this tax.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bb4c9964-dc00-428f-9393-a17d1d9d7c81",
+  "instruction": "Design a machine learning algorithm for predicting stock prices.",
+  "input": "",
+  "output": "The machine learning algorithm designed for predicting stock prices should be a supervised learning task using a deep neural network. The input layer should include features such as the historical stock prices, the current market sentiment and technical indicators. The model will be trained on labeled data and will predict future prices based on the input features. The outputs from the model can be used to buy or sell stocks based on their predicted prices. The model should also be able to train itself in order to better predict future prices.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

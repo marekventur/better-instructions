@@ -1,0 +1,12 @@
+{
+  "id": "8f663ca3-51d2-40c2-bf2b-dc81fbd8ed79",
+  "instruction": "In the given scenario, predict the probability of the person suffering from Diabetes.",
+  "input": "Person aged 58, smokes 30 cigarettes a day, drinks alcohol, overweight",
+  "output": "The probability of the person suffering from Diabetes is high. Smoking elevates the risk of type 2 diabetes. Heavy alcohol consumption can also increase the risk. Being overweight also increases the risk of type 2 diabetes significantly. Therefore, the probability of them having diabetes is high.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

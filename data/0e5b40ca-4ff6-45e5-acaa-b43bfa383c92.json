@@ -1,0 +1,12 @@
+{
+  "id": "0e5b40ca-4ff6-45e5-acaa-b43bfa383c92",
+  "instruction": "Identify the reference of the pronoun \"them\"",
+  "input": "The company has published their financial reports and made them public.",
+  "output": "The reference of \"them\" is the company's financial reports.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

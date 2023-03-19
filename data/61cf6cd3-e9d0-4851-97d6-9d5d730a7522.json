@@ -1,0 +1,12 @@
+{
+  "id": "61cf6cd3-e9d0-4851-97d6-9d5d730a7522",
+  "instruction": "Change the code below to correct the syntax error.",
+  "input": "for num in range 1, 10",
+  "output": "for num in range(1, 10):",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

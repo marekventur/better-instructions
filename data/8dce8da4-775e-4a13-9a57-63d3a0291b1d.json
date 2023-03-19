@@ -1,0 +1,12 @@
+{
+  "id": "8dce8da4-775e-4a13-9a57-63d3a0291b1d",
+  "instruction": "Given a sentence, explain how it could be misinterpreted",
+  "input": "We need to stay focused on the task at hand.",
+  "output": "This sentence could be misinterpreted to mean that we don't need to consider other related tasks or that other tasks are not important.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

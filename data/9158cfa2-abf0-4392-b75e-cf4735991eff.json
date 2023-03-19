@@ -1,0 +1,12 @@
+{
+  "id": "9158cfa2-abf0-4392-b75e-cf4735991eff",
+  "instruction": "Select the two words from the given list that are similar in meaning.",
+  "input": "Deflect, Avoid, Abstain",
+  "output": "Avoid and abstain are similar in meaning.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

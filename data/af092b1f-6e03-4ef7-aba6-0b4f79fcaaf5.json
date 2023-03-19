@@ -1,0 +1,12 @@
+{
+  "id": "af092b1f-6e03-4ef7-aba6-0b4f79fcaaf5",
+  "instruction": "Given these objects, how can they be combined?",
+  "input": "Objects: Chain, hook, and fence",
+  "output": "The chain can be used to attach the hook to the fence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

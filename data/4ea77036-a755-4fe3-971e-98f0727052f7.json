@@ -1,0 +1,12 @@
+{
+  "id": "4ea77036-a755-4fe3-971e-98f0727052f7",
+  "instruction": "Generate the factorial of a given number.",
+  "input": "Number: 7",
+  "output": "5040",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

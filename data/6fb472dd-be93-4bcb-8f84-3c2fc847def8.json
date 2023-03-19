@@ -1,0 +1,12 @@
+{
+  "id": "6fb472dd-be93-4bcb-8f84-3c2fc847def8",
+  "instruction": "Categorize the given news story as politics, science, entertainment, or business.",
+  "input": "The new Apple watch will be released this fall.",
+  "output": "business",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

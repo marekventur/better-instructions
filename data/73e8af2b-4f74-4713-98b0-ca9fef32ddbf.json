@@ -1,0 +1,12 @@
+{
+  "id": "73e8af2b-4f74-4713-98b0-ca9fef32ddbf",
+  "instruction": "Write a description that conveys the given information about a creature.",
+  "input": "Name: Basilisk\nSize: 6 feet tall\nLifespan: 200 years",
+  "output": "The legendary Basilisk is a mythical creature resembling a giant serpent, standing 6 feet in height. It is said to have a lifespan of 200 years.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

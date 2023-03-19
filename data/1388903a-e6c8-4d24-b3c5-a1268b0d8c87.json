@@ -1,0 +1,12 @@
+{
+  "id": "1388903a-e6c8-4d24-b3c5-a1268b0d8c87",
+  "instruction": "Construct a mathematical equation. Output should be in the form of <answer>=<answer>",
+  "input": "Find the value of x when y=8",
+  "output": "x+8=y",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

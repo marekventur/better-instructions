@@ -1,0 +1,12 @@
+{
+  "id": "cb38c194-aea7-42db-8225-3dcdce983179",
+  "instruction": "For a given photo, list a celebrity that it resembles.",
+  "input": "https://images.unsplash.com/photo-1511918984145-48de785d4c4d",
+  "output": "The photo resembles actress Jennifer Lawrence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

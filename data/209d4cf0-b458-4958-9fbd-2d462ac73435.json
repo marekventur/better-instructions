@@ -1,0 +1,12 @@
+{
+  "id": "209d4cf0-b458-4958-9fbd-2d462ac73435",
+  "instruction": "Ranking the following items according to their popularity.",
+  "input": "Books, Movies, Video Games",
+  "output": "Video Games, Movies, Books",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

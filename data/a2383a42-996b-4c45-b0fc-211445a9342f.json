@@ -1,0 +1,12 @@
+{
+  "id": "a2383a42-996b-4c45-b0fc-211445a9342f",
+  "instruction": "Categorize the following items as either technology, food or sport.",
+  "input": "Laptop, Pizza, Tennis",
+  "output": "Laptop - Technology, Pizza - Food, Tennis - Sport",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

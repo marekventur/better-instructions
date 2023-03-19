@@ -1,0 +1,12 @@
+{
+  "id": "5e7ea66d-b2a4-4e33-81d2-b75e0965b785",
+  "instruction": "Process the following data and output the results",
+  "input": "List: [3, 7, 2, 5]",
+  "output": "The list contains the following numbers: 3, 7, 2, 5. The average of the list is 4.5 and the sum of the numbers is 17.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

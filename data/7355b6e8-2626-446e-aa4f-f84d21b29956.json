@@ -1,0 +1,12 @@
+{
+  "id": "7355b6e8-2626-446e-aa4f-f84d21b29956",
+  "instruction": "Look up a word in the dictionary.",
+  "input": "\"amorphous\"",
+  "output": "The word amorphous is an adjective that means having no definite form or distinct shape.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

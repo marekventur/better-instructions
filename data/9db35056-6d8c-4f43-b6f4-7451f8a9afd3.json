@@ -1,0 +1,12 @@
+{
+  "id": "9db35056-6d8c-4f43-b6f4-7451f8a9afd3",
+  "instruction": "Demonstrate how to use XOR operator in Python.",
+  "input": "",
+  "output": "In Python, the XOR operator is written as \"^\". It is a binary operator that will perform the operation of exclusive OR on two boolean values. A value of True is returned only if one of the operands is True and the other is False. For example:\n\na = True\nb = False\n\nresult = a^b  # result will be True",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

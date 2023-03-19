@@ -1,0 +1,12 @@
+{
+  "id": "bed97e66-1f14-4199-b4f1-f551d0b2a617",
+  "instruction": "Create a tag cloud from the following sentence.",
+  "input": "Artificial intelligence is becoming an increasingly important part of our daily lives.",
+  "output": "Artificial | Intelligence | Important | Daily | Lives | Increasingly | Becoming | Part | Our",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

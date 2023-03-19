@@ -1,0 +1,12 @@
+{
+  "id": "6f972ada-9b5d-424c-816d-3996f11c6d2c",
+  "instruction": "Convert a text string to upper case.",
+  "input": "i love dogs",
+  "output": "I LOVE DOGS",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

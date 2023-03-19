@@ -1,0 +1,12 @@
+{
+  "id": "aa62bd88-f528-4b42-aa4e-2560e19b34c4",
+  "instruction": "Edit this sentence: \"This tree is green leafs.\"",
+  "input": "This sentence: \"This tree is green leafs.\"",
+  "output": "This sentence: \"This tree has green leaves.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

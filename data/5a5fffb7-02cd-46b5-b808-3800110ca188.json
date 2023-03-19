@@ -1,0 +1,12 @@
+{
+  "id": "5a5fffb7-02cd-46b5-b808-3800110ca188",
+  "instruction": "Reword this instruction in a question format.",
+  "input": "Find the distance of the shortest route between two cities.",
+  "output": "What is the distance of the shortest route between two cities?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

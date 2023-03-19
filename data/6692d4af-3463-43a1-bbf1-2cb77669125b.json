@@ -1,0 +1,12 @@
+{
+  "id": "6692d4af-3463-43a1-bbf1-2cb77669125b",
+  "instruction": "Find the x-intercept of the line given by the equation.",
+  "input": "y = 4x + 10",
+  "output": "The x-intercept of the line given by the equation y = 4x + 10 is x = -2.5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1d50857b-c4b4-447f-ac87-ce72ac5fafba",
+  "instruction": "Edit the paragraph to follow formal writing standards.",
+  "input": "Dustin and carmen are siblings. they like to hangout every saturday.",
+  "output": "Dustin and Carmen are siblings who like to hang out every Saturday.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

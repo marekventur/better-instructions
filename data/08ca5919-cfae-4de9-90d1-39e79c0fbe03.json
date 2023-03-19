@@ -1,0 +1,12 @@
+{
+  "id": "08ca5919-cfae-4de9-90d1-39e79c0fbe03",
+  "instruction": "You are given a date. Make up a sentence using the date as a reference.",
+  "input": "February 28, 2020",
+  "output": "On the last day of February in 2020, I decided to make a change.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

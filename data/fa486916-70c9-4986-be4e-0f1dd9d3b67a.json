@@ -1,0 +1,12 @@
+{
+  "id": "fa486916-70c9-4986-be4e-0f1dd9d3b67a",
+  "instruction": "Replace the verb with one that has a similar meaning, but is in the present perfect.",
+  "input": "I made a mistake",
+  "output": "I have made a mistake.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d58d4805-16a8-42da-95b2-caa168df7960",
+  "instruction": "Choose a flower name for the given person.",
+  "input": "Name: Anamika",
+  "output": "Anamika could choose a flower name like Daisy, Rose, Lily, or Orchid, depending on the associated meaning she prefers.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b0710efc-ddc6-44e0-b3f4-2a9b8ba99682",
+  "instruction": "Detect if the following sentence uses a cliche.",
+  "input": "Everything is going downhill.",
+  "output": "true",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

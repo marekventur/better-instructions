@@ -1,0 +1,12 @@
+{
+  "id": "ed9d14e9-3043-4cb4-b382-4f8c985b3d4f",
+  "instruction": "Generate a function to sort a list of strings alphabetically",
+  "input": "",
+  "output": "def alphabetic_sort(lst): \n    return sorted(lst, key=str.lower)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

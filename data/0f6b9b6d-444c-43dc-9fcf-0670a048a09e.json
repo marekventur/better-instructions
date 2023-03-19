@@ -1,0 +1,12 @@
+{
+  "id": "0f6b9b6d-444c-43dc-9fcf-0670a048a09e",
+  "instruction": "Given a URL, produce an article summarizing its content.",
+  "input": "https://www.nytimes.com/2020/09/02/business/stock-market-today.html",
+  "output": "On Wednesday, the stock market had a strong start to September, with the Dow Jones Industrial Average closing up 327.51 points. The Nasdaq Composite also rose 91.08 points. Investors were encouraged by optimism about the progress of coronavirus vaccine trials and lured by generous fiscal stimulus from the Federal Reserve. The S&P 500 and Nasdaq have gained more than 50 percent each since troughing in March, while the Dow is up more than 40 percent.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

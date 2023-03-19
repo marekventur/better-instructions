@@ -1,0 +1,12 @@
+{
+  "id": "87742ce9-1fcb-4d4b-94e5-3cddf657e0c0",
+  "instruction": "Determine the surface area of a rectangular prism that is 19.6 cm long, 10 cm wide, and 5.9 cm high.",
+  "input": "",
+  "output": "The surface of the rectangular prism is 1177.6 cm^2. This is calculated by multiplying the length (19.6 cm) by the width (10 cm) and then multiplying that by 2. Then, multiply the length (19.6 cm) by the height (5.9 cm) and then multiply that by 2. Finally, add the two values together to get 1177.6 cm^2.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

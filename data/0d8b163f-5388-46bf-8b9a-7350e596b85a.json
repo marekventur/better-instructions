@@ -1,0 +1,12 @@
+{
+  "id": "0d8b163f-5388-46bf-8b9a-7350e596b85a",
+  "instruction": "Edit the following text to have a casual tone.",
+  "input": "The store opens at 8 a.m. and closes at 5 p.m., Monday to Saturday.",
+  "output": "The store's open from 8 a.m. to 5 p.m., Monday through Saturday.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

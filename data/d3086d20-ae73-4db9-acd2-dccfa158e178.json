@@ -1,0 +1,12 @@
+{
+  "id": "d3086d20-ae73-4db9-acd2-dccfa158e178",
+  "instruction": "Using the provided information, build a SQL query to extract the top 10 highest valued orders.",
+  "input": "Table Name: Orders\nColumns: ID (primary key), value, customer_id, date",
+  "output": "SELECT TOP 10 *\nFROM Orders\nORDER BY value DESC;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

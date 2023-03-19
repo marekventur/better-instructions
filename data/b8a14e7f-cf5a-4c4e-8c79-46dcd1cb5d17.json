@@ -1,0 +1,12 @@
+{
+  "id": "b8a14e7f-cf5a-4c4e-8c79-46dcd1cb5d17",
+  "instruction": "Given an input sentence, come up with an example of alliteration that fits the context.",
+  "input": "He wants to make a quick decision.",
+  "output": "He wants to make a smart swap swiftly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

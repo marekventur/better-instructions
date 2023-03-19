@@ -1,0 +1,12 @@
+{
+  "id": "1d3189b8-50f6-4626-8b1a-343f58fadef0",
+  "instruction": "Text-summarize the provided passage.",
+  "input": "Smallpox is an infectious disease caused by the variola virus. Symptoms of smallpox include a fever, fatigue, and a distinctive rash. Smallpox is believed to have first appeared in human populations around 10,000 BCE. Throughout history, the disease has caused large-scale epidemics and mortality, particularly in the 18th and 19th centuries. By 1980, the disease had been effectively eradicated worldwide due to a successful global vaccination program.",
+  "output": "Smallpox is a highly infectious disease caused by the variola virus, characterized by fever, fatigue, and a distinctive rash. It first appeared in human populations around 10,000 BCE, presenting large-scale epidemics and mortality during the 18th and 19th centuries. Through a successful global vaccination program, the disease was eradicated worldwide by 1980.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

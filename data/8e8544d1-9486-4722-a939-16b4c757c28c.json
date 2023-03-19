@@ -1,0 +1,12 @@
+{
+  "id": "8e8544d1-9486-4722-a939-16b4c757c28c",
+  "instruction": "Generate 3-5 questions to use in a survey related to the impacts of technology",
+  "input": "",
+  "output": "1. To what extent do you think technology has had a positive impact on your life? \n2. In what ways has technology had a negative effect on your life? \n3. How does technology affect your experience with nature? \n4. To what extent do you think technology has had a positive impact on the environment? \n5. How do you think technology can be used to promote sustainability?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

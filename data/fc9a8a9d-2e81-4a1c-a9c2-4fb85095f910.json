@@ -1,0 +1,12 @@
+{
+  "id": "fc9a8a9d-2e81-4a1c-a9c2-4fb85095f910",
+  "instruction": "Look up the boiling point of water.",
+  "input": "",
+  "output": "The boiling point of water is 100\u00b0C (212\u00b0F), at standard atmospheric pressure. When heated at higher pressures, water's boiling point increases. For example, water will boil at a temperature of 115\u00b0C (239\u00b0F) at an atmospheric pressure of 1 bar. At higher pressures, such as those experienced at the bottom of the ocean, the boiling point of water can be as high as 374\u00b0C (705\u00b0F).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1d83ab7b-1949-49d3-997a-677d6d851d0f",
+  "instruction": "Generate a list of names of characters of the Harry Potter series based on the given first name.",
+  "input": "Hermione",
+  "output": "Hermione Granger, Hermione Jean Granger, Hermione Weasley, Hermione Lovegood, Hermione Balcombe.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

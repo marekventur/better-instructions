@@ -1,0 +1,12 @@
+{
+  "id": "74724db6-c113-4eed-802a-d9bd0988e836",
+  "instruction": "Identify the differences between a processing unit and a control unit.",
+  "input": "",
+  "output": "A processing unit carries out all of the instructions of the computer, manipulating and performing calculations on the data from the memory. On the other hand, the control unit is responsible for coordinating and directing the activities of the other components within the system. It is responsible for the sequential execution of instructions, the transfer of data to and from memory and the control of input and output devices within the computer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

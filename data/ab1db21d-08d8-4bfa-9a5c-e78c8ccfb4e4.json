@@ -1,0 +1,12 @@
+{
+  "id": "ab1db21d-08d8-4bfa-9a5c-e78c8ccfb4e4",
+  "instruction": "Create a function to check if a given string contains any capital letters.",
+  "input": "",
+  "output": "def has_capitals(s):\n    for letter in s:\n        if letter.isupper():\n            return True\n    return False",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

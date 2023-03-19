@@ -1,0 +1,12 @@
+{
+  "id": "1e3d8714-7ba7-460d-b0fc-7523c09af37a",
+  "instruction": "Given a list of sports, determine the rules for each game.",
+  "input": "Football, Basketball",
+  "output": "Football: Football is a team sport played between two teams of eleven players each. The goal is to score points by advancing an object into the opponent's goal.\n\nBasketball: Basketball is a team sport played on a court by two teams of five players each. The goal is to score points by shooting a ball through a hoop at the opponents basket.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

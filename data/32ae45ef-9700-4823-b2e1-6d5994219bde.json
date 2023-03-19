@@ -1,0 +1,12 @@
+{
+  "id": "32ae45ef-9700-4823-b2e1-6d5994219bde",
+  "instruction": "Identify all the different terms used to describe the same thing in the given sentence.",
+  "input": "The new-born baby is just a few days old.",
+  "output": "Child, infant, new-born, baby, newborn.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

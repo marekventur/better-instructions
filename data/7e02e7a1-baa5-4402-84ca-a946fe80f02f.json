@@ -1,0 +1,12 @@
+{
+  "id": "7e02e7a1-baa5-4402-84ca-a946fe80f02f",
+  "instruction": "Generate a list of suggestions for lowering energy consumption in businesses.",
+  "input": "No input",
+  "output": "- Switch to more efficient lighting, such as LED bulbs.\n- Utilize power strips to properly shut off equipment when it isn't in use.\n- Upgrade to more efficient heating and cooling equipment.\n- Educate staff on energy conservation practices.\n- Use motion sensors or timers to turn off lights in unoccupied rooms.\n- Install solar panels or other renewable energy systems.\n- Encourage telecommuting to reduce energy consumption related to commuting.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

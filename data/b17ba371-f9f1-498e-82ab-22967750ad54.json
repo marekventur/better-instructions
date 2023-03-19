@@ -1,0 +1,12 @@
+{
+  "id": "b17ba371-f9f1-498e-82ab-22967750ad54",
+  "instruction": "Identify three benefits of object-oriented programming.",
+  "input": "",
+  "output": "The three benefits of object-oriented programming are: 1) code reusability; 2) improved modularity; and 3) reduced development time and cost. Code reusability involves writing code once and then using the same code in other programs. Improved modularity means that code can be organized into modules that are easier to debug and maintain. Finally, object-oriented programming can reduce development time and cost because it can be used to quickly create complex programs with fewer lines of code.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

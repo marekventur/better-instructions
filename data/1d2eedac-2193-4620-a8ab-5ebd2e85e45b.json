@@ -1,0 +1,12 @@
+{
+  "id": "1d2eedac-2193-4620-a8ab-5ebd2e85e45b",
+  "instruction": "Come up with a story incorporating the following characters and objects.",
+  "input": "Characters: Mouse, Tiger, Fish; Objects: Ball, Teapot",
+  "output": "Once upon a time there was a small mouse who loved to play with a red ball every day. One day, the mouse accidentally rolled the ball into a nearby river. The mouse was very sad but then noticed a tiger at the water's edge. The tiger saw the mouse and offered to dive in and get the ball back. The tiger dived in, but instead of retrieving the ball, came back with a teapot! The mouse was astonished, and asked the tiger why did he bring a teapot instead. The tiger replied that he saw the teapot being stolen away by a large fish in the river and he was merely trying to help the mouse out. The mouse thanked the tiger, and happily went home with the teapot.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

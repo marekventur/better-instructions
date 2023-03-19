@@ -1,0 +1,12 @@
+{
+  "id": "be8f0aac-5902-4587-8c84-a4092fb402ab",
+  "instruction": "Design a circuit for controlling the brightness of a light bulb.",
+  "input": "",
+  "output": "This circuit uses a variable voltage source, such as a potentiometer or a variable resistor, to control the voltage applied to the light bulb. The variable voltage source is connected to the light bulb in series. The light bulb will then be dimmable, as the voltage applied to it can be changed. This method of controlling the brightness of a light bulb is called a dimmer circuit.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

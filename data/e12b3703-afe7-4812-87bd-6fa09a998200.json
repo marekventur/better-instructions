@@ -1,0 +1,12 @@
+{
+  "id": "e12b3703-afe7-4812-87bd-6fa09a998200",
+  "instruction": "Explain why a text be considered biased.",
+  "input": "The President's speech was filled with slandering of the other party.",
+  "output": "The text could be considered biased because it contained derogatory language aimed at the other party. Furthermore, it presented the President's views as the only valid ones, while ignoring alternative perspectives or facts. Therefore, it lacked objectivity and did not provide any balanced information.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

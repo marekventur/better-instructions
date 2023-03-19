@@ -1,0 +1,12 @@
+{
+  "id": "7b94f9ac-0a2d-4d39-a5de-5e51717dfeca",
+  "instruction": "Generate a recipe for gumbo",
+  "input": "",
+  "output": "Ingredients:\n1 tablespoon of vegetable oil\n2 onions, chopped\n3 cloves of garlic, chopped\n1 green bell pepper, chopped\n1 red bell pepper, chopped\n1 stalk of celery, chopped\n\u00bd teaspoon kosher salt\n\u00bd teaspoon freshly ground black pepper\n1 teaspoon paprika\n1 teaspoon dried thyme\n1 teaspoon cayenne pepper\n2 tablespoons of all-purpose flour\n2 cups chicken broth\n1 (14.5 ounce) can diced tomatoes\n2 cups cooked and diced chicken\n2 cups cooked andouille sausage\n1 (10 ounce) package sliced okra\nHot cooked white rice\n\nInstructions:\n\n1. Heat oil in a large pot over medium heat.\n2. Add onions, garlic, bell peppers, celery, salt, pepper, paprika, thyme and cayenne pepper.  Cook, stirring occasionally, until vegetables are softened, about 10 minutes.\n3. Add flour and stir until lightly browned, about 2 minutes.\n4. Add broth, tomatoes and bring to a boil.\n5. Add chicken and sausage, reduce heat to low and simmer for 15 minutes\n6. Add okra and cook an additional 10 minutes.\n7. Serve over hot cooked rice.  Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

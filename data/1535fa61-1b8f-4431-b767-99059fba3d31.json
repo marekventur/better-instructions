@@ -1,0 +1,12 @@
+{
+  "id": "1535fa61-1b8f-4431-b767-99059fba3d31",
+  "instruction": "Create a function that takes a string of parentheses and determines its validity",
+  "input": "",
+  "output": "function validateParens(str) {\n  let parenthesesCounter = 0;\n  for (let i = 0; i < str.length; i++) {\n    if (str[i] === '(') {\n      parenthesesCounter++;\n    } else if (str[i] === ')') {\n      parenthesesCounter--;\n    }\n\n    if (parenthesesCounter < 0) {\n      return false;\n    }\n  }\n  return parenthesesCounter === 0;\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

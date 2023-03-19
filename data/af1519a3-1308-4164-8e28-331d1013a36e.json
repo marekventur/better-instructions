@@ -1,0 +1,12 @@
+{
+  "id": "af1519a3-1308-4164-8e28-331d1013a36e",
+  "instruction": "Edit the following paragraph to refine its flow.",
+  "input": "Flying on an airplane can be a stressful experience, especially during long haul flights. People often experience discomfort due to the lack of room to move, the cramped seating, and the stale air that make an already long journey longer.",
+  "output": "Flying on an airplane can be particularly stressful during long-haul flights. People often experience discomfort due to cramped seating, lack of space to move, and stale air, making the journey even more arduous.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

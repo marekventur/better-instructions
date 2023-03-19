@@ -1,0 +1,12 @@
+{
+  "id": "400655a1-b30f-4ef9-b575-4127c1143364",
+  "instruction": "Summarize the information in the paragraph.",
+  "input": "The Sunshine Act is an important law in healthcare intended to make the relationship between medical practitioners and drug companies more transparent. It is also known as the Physician Payment Sunshine Act, and was passed as part of the Affordable Care Act.",
+  "output": "The Sunshine Act is an important law that aims to make the relationship between medical practitioners and drug companies more transparent. It is also known as the Physician Payment Sunshine Act and was passed as part of the Affordable Care Act.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

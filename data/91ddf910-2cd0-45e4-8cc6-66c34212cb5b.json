@@ -1,0 +1,12 @@
+{
+  "id": "91ddf910-2cd0-45e4-8cc6-66c34212cb5b",
+  "instruction": "Using the input below, rewrite the story as a first person narrative.",
+  "input": "The tall vase on the table wobbled as the train rocked back and forth, coming to another stop. Ann walked over to the kitchenette and realized she had left her passport somewhere in the cabin.",
+  "output": "As the train jolted, I noticed the tall vase on the table wobble and thought to myself how I'd have to be careful with it. I made my way towards the kitchenette, but stopped suddenly when I realized I had left my passport somewhere in the cabin. I frantically, yet carefully, searched all around, hoping to find it before the train departed again.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

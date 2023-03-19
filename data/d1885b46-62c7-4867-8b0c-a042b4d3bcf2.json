@@ -1,0 +1,12 @@
+{
+  "id": "d1885b46-62c7-4867-8b0c-a042b4d3bcf2",
+  "instruction": "Design a 5-sentence story that starts with the given first sentence.",
+  "input": "He stepped out of the house and onto the street.",
+  "output": "He stepped out of the house and onto the street. He felt a sense of excitement and anticipation as he looked around. He was off on a new adventure, something he had been dreaming of for months. He took a deep breath, and began walking towards his destination with a newfound resolve. Little did he know, this journey would change his life forever.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0bac9453-2905-47de-9a19-51a4234abeda",
+  "instruction": "Update the following Wikipedia article about cats by adding one new sentence that is not already mentioned in the article.",
+  "input": "Cats are small, carnivorous mammals in the family Felidae, often referred to as the domestic cats to distinguish them from wild members of the family.",
+  "output": "Cats are known for their flexibility and intelligence, as they can learn some basic commands and activities from their owners.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

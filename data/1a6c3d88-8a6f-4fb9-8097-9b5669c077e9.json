@@ -1,0 +1,12 @@
+{
+  "id": "1a6c3d88-8a6f-4fb9-8097-9b5669c077e9",
+  "instruction": "Rank the products from the most expensive to the least expensive based on the given prices.",
+  "input": "Cable TV: $49.95, Cable Modem: $25.49, HDMI Cable: $17.99",
+  "output": "Cable TV: $49.95, Cable Modem: $25.49, HDMI Cable: $17.99",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

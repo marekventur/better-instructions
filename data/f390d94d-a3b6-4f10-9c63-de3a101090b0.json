@@ -1,0 +1,12 @@
+{
+  "id": "f390d94d-a3b6-4f10-9c63-de3a101090b0",
+  "instruction": "Categorize the items in the list.",
+  "input": "apple, banana, car, plane",
+  "output": "Fruits: apple, banana \nVehicles: car, plane",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

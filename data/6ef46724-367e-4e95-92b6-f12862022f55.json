@@ -1,0 +1,12 @@
+{
+  "id": "6ef46724-367e-4e95-92b6-f12862022f55",
+  "instruction": "Compose a tweet in response to the following endorsement.\nOutput should be lead by a hashtag followed by the text within 280 characters.",
+  "input": "We are proud to endorse Susan for the upcoming election",
+  "output": "#VoteForSusan Let's elect Susan and make sure the future is bright! Create a better future for the next generation with a leader like Susan. #SusanForLeadership",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

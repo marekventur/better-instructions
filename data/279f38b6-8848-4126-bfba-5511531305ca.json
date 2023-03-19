@@ -1,0 +1,12 @@
+{
+  "id": "279f38b6-8848-4126-bfba-5511531305ca",
+  "instruction": "Systematically analyze the argument in the given passage.",
+  "input": "We should not use plastic bags for shopping as they are bad for the environment.",
+  "output": "The argument presented is that plastic bags are bad for the environment. This argument is supported by evidence that plastic bags are a source of pollution and can take thousands of years to decompose. Additionally, plastic bags have been linked to negative effects on wildlife, ecosystems and human health. The conclusion is that plastic bags should be avoided due to the environmental effects they have.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

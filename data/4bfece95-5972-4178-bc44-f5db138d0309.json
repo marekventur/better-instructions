@@ -1,0 +1,12 @@
+{
+  "id": "4bfece95-5972-4178-bc44-f5db138d0309",
+  "instruction": "Explain why a student should not run a GPT language model at scale on a laptop computer.",
+  "input": "",
+  "output": "Running a GPT language model at scale on a laptop computer is not recommended due to the computational power it requires. GPT models use large neural networks that consume large amounts of memory and computing power. Running them on a laptop computer, which typically has limited computing power and memory, will likely cause significantly slower training and inference times. Additionally, running complex tasks on a laptop will severely deplete the battery, and may even cause your laptop to overheat. It is better to run a GPT model on a larger machine or in the cloud, where there is sufficient computing power and memory available.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ebba209f-f36e-4ef0-aff3-f054ca850e61",
+  "instruction": "Given a movie summary, provide a film rating.",
+  "input": "The movie follows a man who moves to a small town to find peace only to discover the town is filled with secrets.",
+  "output": "I would rate this movie 8/10.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

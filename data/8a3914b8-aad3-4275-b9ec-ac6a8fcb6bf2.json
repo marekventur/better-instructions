@@ -1,0 +1,12 @@
+{
+  "id": "8a3914b8-aad3-4275-b9ec-ac6a8fcb6bf2",
+  "instruction": "You need to quickly analyze the given text and find all the proper nouns within it.",
+  "input": "The president of France Emmanuel Macron addressed the crowd of protestors in Paris saying that he sympathised with their grievances but emphasized the need for responsibility and sobriety.",
+  "output": "France, Emmanuel Macron, Paris.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

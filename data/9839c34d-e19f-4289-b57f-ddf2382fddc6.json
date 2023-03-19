@@ -1,0 +1,12 @@
+{
+  "id": "9839c34d-e19f-4289-b57f-ddf2382fddc6",
+  "instruction": "Adjust the tone of the sentence to make it friendly.",
+  "input": "Your application has been denied.",
+  "output": "We regret to inform you that your application has been denied.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

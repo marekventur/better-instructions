@@ -1,0 +1,12 @@
+{
+  "id": "766d71ec-21bb-4ce1-b6af-16049d96d104",
+  "instruction": "Summarize the following text into one or two sentences.",
+  "input": "Fossil Fuels are hydrocarbons, primarily coal, fuel oil or natural gas, formed from the remains of dead plants and animals. In common dialogue, the term fossil fuel also includes hydrocarbon-containing natural resources that are not derived from animal or plant sources.",
+  "output": "Fossil fuels are hydrocarbons formed from the remains of dead plants and animals which can include coal, fuel oil, natural gas and other sources.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

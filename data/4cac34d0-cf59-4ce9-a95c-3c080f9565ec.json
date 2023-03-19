@@ -1,0 +1,12 @@
+{
+  "id": "4cac34d0-cf59-4ce9-a95c-3c080f9565ec",
+  "instruction": "Describe three differences between a neural network and a decision tree",
+  "input": "",
+  "output": "Three differences between a neural network and a decision tree are:\n- Neural networks can learn and make educated guesses, while decision trees rely on predefined rules and don't have the capacity to learn.\n- Neural networks are most often used for complex tasks such as image or speech recognition, while decision trees are used for simpler tasks such as classification.\n- Neural networks can be trained with large amounts of data, while decision trees require less data for training.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6ccdf28d-24cb-4cc8-9c71-ff1cd4c3998e",
+  "instruction": "Given a work of literature, create a list of major themes and motifs in the work.",
+  "input": "Les Miserables",
+  "output": "- Redemption and Sacrifice \n- Social Injustice\n- Selfless Love\n- Revolution and Uprising\n- Hope\n- Fate and Destiny \n- Identity\n- Human Dignity and Integrity\n- Forgiveness\n- Compassion\n- Human Nature \n- Poverty\n- Religion and Spirituality\n- Nature and Beauty\n- Capitalism and Exploitation\n- Brotherhood and Sisterhood \n- Honor\n- Innocence\n- Justice \n- Poverty and Suffering \n- Struggle Between Good and Evil",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

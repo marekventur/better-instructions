@@ -1,0 +1,12 @@
+{
+  "id": "e6317809-d283-48b7-b4f9-e7747a2dd052",
+  "instruction": "Classify the following objects by color.",
+  "input": "Ribbon, Tie, Pen",
+  "output": "-Red: Ribbon\n-Blue: Tie\n-Black: Pen",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

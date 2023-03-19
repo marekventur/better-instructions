@@ -1,0 +1,12 @@
+{
+  "id": "0da9bc60-1c5d-4530-aedf-75b20cec2d97",
+  "instruction": "Generate a list of 3 proactive solutions for preventing Twitter bots.",
+  "input": "",
+  "output": "1. Implementing better algorithms for user verification and mandatory personal phone verification.\n2. Increasing the threshold of bot accounts\u2019 activity allowed in a single day. \n3. Introducing stricter rules and penalties for those who create and utilize bots for malicious purposes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a57fb586-2247-4957-8417-7a2bfbedfc6b",
+  "instruction": "Convert the following XML data into JSON format.",
+  "input": "<books>\n\t<book>\n\t\t<title>Alice in Wonderland</title>\n\t\t<author>Lewis Carroll</author>\n\t\t<price>14.99</price>\n\t</book>\n</books>",
+  "output": "{\n  \"books\": {\n    \"book\": {\n      \"title\": \"Alice in Wonderland\",\n      \"author\": \"Lewis Carroll\",\n      \"price\": 14.99\n    }\n  }\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b2224974-405c-42d6-9563-e9fa9b3abcf9",
+  "instruction": "Compare two datasets to identify the similarities and differences.",
+  "input": "Dataset 1: {9, 8, 11, 0, 3}\n Dataset 2: {10, 3, 2, 12, 5}",
+  "output": "The two datasets have similarities in that both contain the number 3. They differ in that the first dataset includes numbers 9, 8, 11, and 0, while the second dataset includes numbers 10, 2, 12, and 5.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

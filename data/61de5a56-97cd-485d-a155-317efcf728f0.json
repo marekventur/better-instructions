@@ -1,0 +1,12 @@
+{
+  "id": "61de5a56-97cd-485d-a155-317efcf728f0",
+  "instruction": "Sort the following animals by habitat.",
+  "input": "Penguin, Tiger, Rabbit",
+  "output": "Tiger - Land\nRabbit - Land\nPenguin - Aquatic",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

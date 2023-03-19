@@ -1,0 +1,12 @@
+{
+  "id": "c31ee1fb-0bb1-44d5-bd1e-2503b50a06c2",
+  "instruction": "Circle the correct verb form.",
+  "input": "The cat (scratches / scratched) the carpet.",
+  "output": "The cat scratches the carpet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

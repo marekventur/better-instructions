@@ -1,0 +1,12 @@
+{
+  "id": "09c27312-e359-4a75-9bad-f8b9e820c05f",
+  "instruction": "Change the rating from 5 stars to 1 star.",
+  "input": "\u2605\u2605\u2605\u2605\u2605",
+  "output": "\u2605",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

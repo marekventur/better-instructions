@@ -1,0 +1,12 @@
+{
+  "id": "68765cbd-b279-45f7-8607-1c78fc38da07",
+  "instruction": "Classify the following movie as romance, thriller, action, or comedy.",
+  "input": "Avengers: Endgame",
+  "output": "Action",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

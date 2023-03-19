@@ -1,0 +1,12 @@
+{
+  "id": "174ec085-3c11-45b6-8bab-d7db8b56d8db",
+  "instruction": "Improvise a song given the following input.",
+  "input": "The moon is so far away, but it still shines down and lights up the night sky.",
+  "output": "Verse 1:\nThe moon is so far away, \nIt's out of reach so far and away, \nBut it still shines down to light up the night sky,\nBringing joy and peacefulness to the night. \n\nChorus:\nThe moon it rises, it lingers in the air, \nIt's a mystery beyond all understanding, \nAnd so we go, not knowing where it leads, \nThe moon shines down, outshining all the stars. \n\nVerse 2:\nThe moon is so distant and so bright, \nIt's our constant companion in the night, \nWiping away our worries with the dawn of a new day, \nIt's love that guides us from the dark. \n\nChorus: \nThe moon it rises, it lingers in the air, \nIt's a mystery beyond all understanding, \nAnd so we go, not knowing where it leads, \nThe moon shines down, outshining all the stars.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

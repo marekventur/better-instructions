@@ -1,0 +1,12 @@
+{
+  "id": "c8120981-86b2-42ea-96be-0e6ddee24b4c",
+  "instruction": "Analyze the text and output the best summary of the text.",
+  "input": "E-commerce is the purchasing of goods or services over the internet. It has grown from the early internet days to today's all-encompassing socially interactive experience. Instead of store front businesses creating websites for customers to purchase their goods, companies, like Amazon and eBay, were established specifically to connect buyers and sellers in an online marketplace. Today, many companies have not just established an online presence but have fully incorporated an online model that is either their main form or conduit of commerce or expands and supplements existing brick-and-mortar stores.",
+  "output": "E-commerce is the purchasing of goods and services online, which has grown from its early days to today's socially interactive experience. Companies such as Amazon and eBay have been established to connect buyers and sellers in an online marketplace, while many other companies have incorporated an online model that is either their main form of commerce or expands and supplements existing brick-and-mortar stores.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

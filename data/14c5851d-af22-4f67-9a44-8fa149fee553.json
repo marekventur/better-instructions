@@ -1,0 +1,12 @@
+{
+  "id": "14c5851d-af22-4f67-9a44-8fa149fee553",
+  "instruction": "Select the words/phrases in the passage that provide a contrast.",
+  "input": "Choosing to be kind is a difficult yet vital part of life, it can involve uncomfortable honest conversations with yourself and the people you care about.",
+  "output": "choosing, difficult, vital, uncomfortable, honest.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

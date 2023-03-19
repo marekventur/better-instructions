@@ -1,0 +1,12 @@
+{
+  "id": "5254f26d-fe02-4566-acd9-56f42f3ba993",
+  "instruction": "Summarize this paragraph in 2 sentences.",
+  "input": "Venus has an exceptionally thick atmosphere, composed primarily of carbon dioxide. Its dense clouds are mainly composed of sulfuric acid droplets. This has caused a phenomenon known as a 'super-greenhouse effect', which has raised the planet's temperature to more than 400 degrees Celsius.",
+  "output": "Venus has an extremely dense atmosphere composed primarily of carbon dioxide, as well as sulfuric acid droplets in its clouds. This has caused a 'super-greenhouse effect', which has raised the temperature of the planet to over 400 degrees Celsius.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

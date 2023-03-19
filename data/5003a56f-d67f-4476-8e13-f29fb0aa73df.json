@@ -1,0 +1,12 @@
+{
+  "id": "5003a56f-d67f-4476-8e13-f29fb0aa73df",
+  "instruction": "Design a website page layout.",
+  "input": "",
+  "output": "<div class=\"container\">\n  <header>\n    Header Content\n  </header>\n  <div class=\"main-content\">\n    Main Content\n  </div>\n  <aside>\n    Aside Content\n  </aside>\n  <footer>\n    Footer Content\n  </footer>\n</div>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

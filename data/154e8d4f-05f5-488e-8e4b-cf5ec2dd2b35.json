@@ -1,0 +1,12 @@
+{
+  "id": "154e8d4f-05f5-488e-8e4b-cf5ec2dd2b35",
+  "instruction": "Summarize the content of the article \"Understanding the Different Types of RNA\".",
+  "input": "Article URL: (https://www.omicsonline.org/open-access/understanding-the-different-types-of-rna-2155-9870.1000171.pdf)",
+  "output": "The article \"Understanding the Different Types of RNA\" discusses the three main types of RNA, which are messenger RNA, transfer RNA and ribosomal RNA. Messenger RNA is responsible for relaying genetic information from DNA to create proteins. Transfer RNA assists in the translation of mRNA into proteins. Ribosomal RNA is part of the ribosome, which helps assemble amino acids into proteins. Additionally, the article covers editing sites and other topics related to the structure and function of RNA.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

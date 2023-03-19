@@ -1,0 +1,12 @@
+{
+  "id": "8bff8e7e-ddca-4ac5-be6c-9ccb01cbf80d",
+  "instruction": "Name a common ingredient for this type of dish.",
+  "input": "Sushi",
+  "output": "A common ingredient for sushi is rice. It is typically cooked with a rice vinegar and sugar mixture to give it a sweet flavor. Sushi may also contain fish, vegetables, eggs, and various toppings such as sesame seeds and seaweed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

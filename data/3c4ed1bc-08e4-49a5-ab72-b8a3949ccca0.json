@@ -1,0 +1,12 @@
+{
+  "id": "3c4ed1bc-08e4-49a5-ab72-b8a3949ccca0",
+  "instruction": "Classify the sentence based on content: is it a fact, an opinion, or a general statement?",
+  "input": "Clean energy is the future.",
+  "output": "Opinion",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

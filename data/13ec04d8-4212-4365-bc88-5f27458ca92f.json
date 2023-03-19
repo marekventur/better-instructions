@@ -1,0 +1,12 @@
+{
+  "id": "13ec04d8-4212-4365-bc88-5f27458ca92f",
+  "instruction": "Determine if the given statement is a correct usage of grammar.",
+  "input": "The sun rises in the west.",
+  "output": "False. The sun rises in the east.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

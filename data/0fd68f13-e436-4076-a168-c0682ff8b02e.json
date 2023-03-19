@@ -1,0 +1,12 @@
+{
+  "id": "0fd68f13-e436-4076-a168-c0682ff8b02e",
+  "instruction": "Given the two passages, compare and contrast their concepts.",
+  "input": "Passage 1: Agile methodology emphasizes rapid iteration and quickly responding to change.\n\nPassage 2: Waterfall methodology is an action-oriented approach to project management which follows a linear progression from beginning to end.",
+  "output": "Both Agile methodology and Waterfall methodology are approaches to project management. However, Agile methodology emphasizes an iterative process of rapid change and response, while Waterfall methodology follows a linear progression from beginning to end with an emphasis on action. Agile methodology focuses on rapid development cycles, while Waterfall methodology allows for more control and meticulous oversight over the development process.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4f0accd7-0c23-4826-8a7f-e999bb584568",
+  "instruction": "Determine the size of a shoe, given shoe length and width measurements in centimeters.",
+  "input": "Shoe length: 25 cm, Shoe width: 11 cm",
+  "output": "The shoe size is 8.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2c78bf71-2d6b-45f3-9d8a-306ff4356cde",
+  "instruction": "Create a script to generate a Mad Libs story",
+  "input": "",
+  "output": "Once upon a time there was a <adjective> <noun>. It lived in a <noun> and was always <adjective>. \nOne day it decided to go on an adventure and ended up in a <noun>. It met a <noun> and it was <adjective>. Then suddenly a <noun> appeared and the <noun> and the <noun> <verb> away in fear. \nThe <adjective> <noun> then had to find a way back home. It eventually found a <adjective> <noun> to take it back. \nIt learned an important lesson: no matter how <adjective> something seems, it\u2019s always a good idea to <verb> your way back home.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

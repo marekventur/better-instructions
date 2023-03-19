@@ -1,0 +1,12 @@
+{
+  "id": "af76c378-6f21-4946-a201-15b74e424b27",
+  "instruction": "Given the title, write a short paragraph summarizing the content of an academic paper.",
+  "input": "Title: Applying Fine-Tuning to Enhance Language Model Performance",
+  "output": "This paper examines the practice of using fine-tuning for language model performance. Fine-tuning involves modifying the parameters and weights of a trained language model to improve its performance on a specific task. The authors investigate and analyze the effects of fine-tuning on downstream tasks, focusing on recent advances in language models such as OpenAI GPT, BERT, and RoBERTa. The empirical experiments show that fine-tuning can improve the performance of language models on a wide range of tasks, such as text classification, text generation and question answering. These findings are further discussed and the implications of these results are discussed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

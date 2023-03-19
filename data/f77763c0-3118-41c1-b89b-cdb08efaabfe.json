@@ -1,0 +1,12 @@
+{
+  "id": "f77763c0-3118-41c1-b89b-cdb08efaabfe",
+  "instruction": "For the given sentence, remove the adjectives from it by replacing them with the proper nouns.",
+  "input": "The bright yellow sun had just set on the dark horizon.",
+  "output": "The Sun had just set on the horizon.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

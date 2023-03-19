@@ -1,0 +1,12 @@
+{
+  "id": "2c2e8597-403e-4037-874f-7b9a8ef5afe2",
+  "instruction": "Classify the following 10 items as either vegetables or fruits.\n\nTomato, Broccoli, Banana, Carrot, Apple, Lettuce, Mango, Peas, Watermelon, Potato",
+  "input": "",
+  "output": "Vegetables: Tomato, Broccoli, Carrot, Lettuce, Peas, Potato.\nFruits: Banana, Apple, Mango, Watermelon.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

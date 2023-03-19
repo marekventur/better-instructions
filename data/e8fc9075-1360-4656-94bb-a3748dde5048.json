@@ -1,0 +1,12 @@
+{
+  "id": "e8fc9075-1360-4656-94bb-a3748dde5048",
+  "instruction": "Write the code for multiplying two matrices",
+  "input": "multiply two 3x3 matrices",
+  "output": "def multiply_matrices(A, B):\n    result = [[0, 0, 0],\n              [0, 0, 0],\n              [0, 0, 0]]\n\n    for i in range(len(A)):\n        for j in range(len(B[0])):\n            for k in range(len(B)):\n                result[i][j] += A[i][k] * B[k][j]\n    return result",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

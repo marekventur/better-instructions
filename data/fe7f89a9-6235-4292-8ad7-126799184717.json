@@ -1,0 +1,12 @@
+{
+  "id": "fe7f89a9-6235-4292-8ad7-126799184717",
+  "instruction": "Given two sentences, identify any wrong grammar and word usage and revise the sentences.",
+  "input": "I love watching movies with the familities.\nI heard it was going to rain heavily.",
+  "output": "I love watching movies with the family.\nI heard it was going to rain heavily.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

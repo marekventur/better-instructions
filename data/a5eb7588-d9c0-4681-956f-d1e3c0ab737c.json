@@ -1,0 +1,12 @@
+{
+  "id": "a5eb7588-d9c0-4681-956f-d1e3c0ab737c",
+  "instruction": "Paraphrase the following sentence.\nOutput should be similar in meaning to the input sentence.",
+  "input": "He watered the plants with enthusiasm.",
+  "output": "He enthusiastically sprinkled the plants with water.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

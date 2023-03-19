@@ -1,0 +1,12 @@
+{
+  "id": "c551bb67-55a3-4a77-b477-d8659d303b63",
+  "instruction": "Take a list of words, separate them into two sets: nouns and verbs.",
+  "input": "Write, read, jump, book, run",
+  "output": "Nouns: book \nVerbs: write, read, jump, run",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

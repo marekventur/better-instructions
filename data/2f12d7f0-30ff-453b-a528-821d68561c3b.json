@@ -1,0 +1,12 @@
+{
+  "id": "2f12d7f0-30ff-453b-a528-821d68561c3b",
+  "instruction": "What type of genre is that song playing?",
+  "input": "The song is called \"Shake it Off\" by Taylor Swift",
+  "output": "The song \"Shake it Off\" by Taylor Swift is in the genre of pop music.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

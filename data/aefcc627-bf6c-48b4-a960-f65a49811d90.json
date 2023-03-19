@@ -1,0 +1,12 @@
+{
+  "id": "aefcc627-bf6c-48b4-a960-f65a49811d90",
+  "instruction": "Describe the natural language processing tasks you can do with GPT-3.",
+  "input": "No input",
+  "output": "GPT-3 can be used for a variety of natural language processing tasks, such as: text generation, machine translation, text classification, question answering, summarization, genre detection, parsing, sentiment analysis, information extraction, entity recognition, and text clustering. Moreover, GPT-3 can also be used to build interactive applications, such as dialog systems or chatbots. Finally, GPT-3 can be used to extend the capabilities of other machine learning models, such as providing additional data or insights to train a model to perform certain tasks more accurately.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

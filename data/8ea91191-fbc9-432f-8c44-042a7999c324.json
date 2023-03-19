@@ -1,0 +1,12 @@
+{
+  "id": "8ea91191-fbc9-432f-8c44-042a7999c324",
+  "instruction": "Did the article mention the use of artificial intelligence?",
+  "input": "The article discusses the advantages and disadvantages of using machine learning for data analysis.",
+  "output": "Yes, the article mentions the use of artificial intelligence for data analysis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "200013fe-973f-4e2c-bc59-78a6b61a4cf0",
+  "instruction": "Given a customer complaint write an appropriate response.",
+  "input": "Complaint: I received the wrong item.",
+  "output": "I apologize for the inconvenience. We will make sure that you receive the correct item as soon as possible and provide you with a full refund. Please let us know if there is anything else we can do to make this up to you.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

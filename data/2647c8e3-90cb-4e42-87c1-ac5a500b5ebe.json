@@ -1,0 +1,12 @@
+{
+  "id": "2647c8e3-90cb-4e42-87c1-ac5a500b5ebe",
+  "instruction": "Create a program that takes input and creates a list of all possible words that it contains.",
+  "input": "pink",
+  "output": "The program should generate the following list of possible words: \n\n- p\n- pi\n- pin\n- pink",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

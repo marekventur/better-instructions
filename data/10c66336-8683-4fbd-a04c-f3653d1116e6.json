@@ -1,0 +1,12 @@
+{
+  "id": "10c66336-8683-4fbd-a04c-f3653d1116e6",
+  "instruction": "How does GPT-3 work?",
+  "input": "",
+  "output": "GPT-3 is a large-scale autoregressive language model that uses deep learning to generate human-like text. It is trained on a massive amount of unstructured text data, which it then uses to generate contextually relevant text. GPT-3 incorporates attention mechanisms, allowing it to capture complex relationships between words and phrases. This enables GPT-3 to generate high-quality text that is relevant to the context it was provided.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

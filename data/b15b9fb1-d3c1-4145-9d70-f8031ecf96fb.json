@@ -1,0 +1,12 @@
+{
+  "id": "b15b9fb1-d3c1-4145-9d70-f8031ecf96fb",
+  "instruction": "Check if the following statement is true or false: Goldfish have a 3-second memory",
+  "input": "",
+  "output": "False. Goldfish have been found to have an average memory span of at least three months and can remember the exact position of obstacles in a tank for up to five months. They can also recognize the scent of a food item and its location even after months from the initial feeding.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

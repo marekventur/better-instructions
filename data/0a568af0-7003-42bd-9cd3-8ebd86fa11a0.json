@@ -1,0 +1,12 @@
+{
+  "id": "0a568af0-7003-42bd-9cd3-8ebd86fa11a0",
+  "instruction": "Create a story that uses the given keywords.",
+  "input": "Keywords: Adventure, Mountain",
+  "output": "Once upon a time there was a brave adventurer who decided to climb a distant mountain in search of fame and fortune. As he climbed the steep and treacherous slope, he encountered many dangers and difficult challenges. He eventually reached the summit, and to his surprise, he was rewarded with a hidden treasure.\n\nThe explorer returned home triumphant with a new sense of purpose and determination. From then on, he was famous throughout the land, and everyone marveled at his incredible journey and what he had achieved.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

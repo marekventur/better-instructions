@@ -1,0 +1,12 @@
+{
+  "id": "45f812ac-9197-41e0-86cd-0798bd1ccc41",
+  "instruction": "Given some sentences, combine them into a single sentence using appropriate language.",
+  "input": "It is an excellent idea. We should definitely try it.",
+  "output": "It is an excellent idea and we should definitely give it a try.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

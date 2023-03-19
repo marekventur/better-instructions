@@ -1,0 +1,12 @@
+{
+  "id": "2b948194-0b2c-4f47-9ef2-b7b0eb0886a5",
+  "instruction": "Given a sentence, identify all the named entities.",
+  "input": "John Smith visited Boston last week.",
+  "output": "John Smith (Person), Boston (Location)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

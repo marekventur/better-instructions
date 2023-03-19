@@ -1,0 +1,12 @@
+{
+  "id": "61a2163e-dd10-4a0c-9f35-50786df3a804",
+  "instruction": "Clean the HTML code by removing all the unnecessary tags.",
+  "input": "<html><head><title>Website</title></head><body><p>This is a paragraph.</p><p>This is the second paragraph.</p></body></html>",
+  "output": "<html><head><title>Website</title></head><body>This is a paragraph.<p>This is the second paragraph.</p></body></html>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

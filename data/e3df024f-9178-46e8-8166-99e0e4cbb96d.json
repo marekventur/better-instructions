@@ -1,0 +1,12 @@
+{
+  "id": "e3df024f-9178-46e8-8166-99e0e4cbb96d",
+  "instruction": "Analyze the benefits and drawbacks of the given political concept.",
+  "input": "Capitalism",
+  "output": "Capitalism is an economic system in which private individuals and corporations have the freedom to own and control capital, and the free market determines the prices of goods and services. It is a system that has been praised for its ability to create economic growth and for giving individuals the opportunity to succeed. At the same time, it can be criticized for leading to concentration of wealth and power, inequality, environmental destruction, exploitation of workers, and lack of access to essential services.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

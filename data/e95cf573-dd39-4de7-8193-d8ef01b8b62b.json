@@ -1,0 +1,12 @@
+{
+  "id": "e95cf573-dd39-4de7-8193-d8ef01b8b62b",
+  "instruction": "Explain how to debug a C program",
+  "input": "",
+  "output": "Debugging a C program involves finding and correcting errors in the code. A programmer can use a debugger to track the program while it is running, and to inspect variables, data structures, and other information related to the program\u2019s execution. Common techniques for debugging include setting breakpoints, viewing memory allocation, and tracing program execution. Additionally, tools such as debuggers and profilers can be used to identify errors in the code more quickly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

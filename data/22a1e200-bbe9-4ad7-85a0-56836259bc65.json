@@ -1,0 +1,12 @@
+{
+  "id": "22a1e200-bbe9-4ad7-85a0-56836259bc65",
+  "instruction": "Explain the concept of centrifugal force.",
+  "input": "",
+  "output": "Centrifugal force is an apparent force that appears to act on objects that are moving in a curved or circular path. This force is directed outward away from the center of the circle or curve and is equal to the object's mass multiplied by its velocity squared, divided by the radius of the circle. This force is responsible for the circular motion of objects in a centrifuge, where the object is pulled outward from the center of the circle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

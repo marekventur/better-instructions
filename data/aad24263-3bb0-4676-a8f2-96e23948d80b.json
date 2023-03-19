@@ -1,0 +1,12 @@
+{
+  "id": "aad24263-3bb0-4676-a8f2-96e23948d80b",
+  "instruction": "Identify the food item given the ingredients.",
+  "input": "Milk, sugar, eggs, vanilla, flour",
+  "output": "The food item is a vanilla cake.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

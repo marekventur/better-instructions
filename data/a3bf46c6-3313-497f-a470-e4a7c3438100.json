@@ -1,0 +1,12 @@
+{
+  "id": "a3bf46c6-3313-497f-a470-e4a7c3438100",
+  "instruction": "Categorize the given text into one of the given topics. Output the selected topic.",
+  "input": "Text: The Indian cricket team is one of the best teams in the world\nCategories: Sports, Technology, Politics",
+  "output": "Sports",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ebc191e2-fa78-4d8c-8f19-68eb4e45beb9",
+  "instruction": "Edit the paragraph for grammatical errors.",
+  "input": "The apple's are ripe and juicy.",
+  "output": "The apples are ripe and juicy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

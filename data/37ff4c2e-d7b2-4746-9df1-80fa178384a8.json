@@ -1,0 +1,12 @@
+{
+  "id": "37ff4c2e-d7b2-4746-9df1-80fa178384a8",
+  "instruction": "Insert a sentence of three clauses at the beginning of the text that provides context to the topic.",
+  "input": "This text is about the history of coffee.",
+  "output": "As early as the 15th century, coffee had already become popular in the Middle East and its surrounding regions, with native coffee trees bearing fruit in such countries as Yemen, Ethiopia, and Sudan.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

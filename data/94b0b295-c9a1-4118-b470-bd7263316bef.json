@@ -1,0 +1,12 @@
+{
+  "id": "94b0b295-c9a1-4118-b470-bd7263316bef",
+  "instruction": "Write a general purpose instruction to complete a given shopping task.",
+  "input": "Task: Find the best deal for a new laptop on the internet.",
+  "output": "Search for the laptop you are looking for on the internet, comparing prices among different online retailers. Also check for online coupons and discounts. Before you purchase, also make sure that you read reviews to ensure that you have picked the best product for your needs.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

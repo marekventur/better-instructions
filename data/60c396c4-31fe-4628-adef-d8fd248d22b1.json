@@ -1,0 +1,12 @@
+{
+  "id": "60c396c4-31fe-4628-adef-d8fd248d22b1",
+  "instruction": "Edit and improve the given sentence making sure that you maintain the same meaning.",
+  "input": "It have been raining hard all day.",
+  "output": "It has been raining hard all day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

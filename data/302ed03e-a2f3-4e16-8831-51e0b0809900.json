@@ -1,0 +1,12 @@
+{
+  "id": "302ed03e-a2f3-4e16-8831-51e0b0809900",
+  "instruction": "Sort the following foods by what time of day they should be consumed.",
+  "input": "Cheeseburger, Kale Salad, Scrambled Eggs",
+  "output": "Scrambled Eggs, Cheeseburger, Kale Salad (breakfast, lunch, dinner).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

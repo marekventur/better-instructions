@@ -1,0 +1,12 @@
+{
+  "id": "ddef3e65-7d45-44f2-adff-2be9f28201f9",
+  "instruction": "Explain what a Bloom filter is",
+  "input": "",
+  "output": "A Bloom filter is a space-efficient probabilistic data structure used to determine whether an element is a member of a set. A Bloom filter can test whether an element has been previously added to the set with a high degree of accuracy. It works by creating a compact bit array that is used to store the elements in the set. An element is considered to be a member of the set if the bit array contains a certain value for that element, otherwise it is not. Bloom filters are used in many areas such as search engine optimization, spam filtering, databases and network routing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

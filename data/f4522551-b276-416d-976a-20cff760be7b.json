@@ -1,0 +1,12 @@
+{
+  "id": "f4522551-b276-416d-976a-20cff760be7b",
+  "instruction": "Specify the advantages and disadvantages of cloud computing.",
+  "input": "",
+  "output": "Advantages of Cloud Computing:\n- Flexibility and scalability \n- Cost savings \n- Accessibility from anywhere \n- Reliability and uptime \n- Security and privacy \n- Improved collaboration \n\nDisadvantages of Cloud Computing:\n- Dependency on internet connection \n- Vulnerability to cyberattacks \n- Possibility of data breaches \n- Lack of control over data location \n- Loss of ownership \n- Limited customization and configuration options",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

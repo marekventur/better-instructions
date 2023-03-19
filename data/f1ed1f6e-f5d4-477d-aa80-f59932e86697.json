@@ -1,0 +1,12 @@
+{
+  "id": "f1ed1f6e-f5d4-477d-aa80-f59932e86697",
+  "instruction": "In the following text, edit the sentence which contains an incorrect and/or grammatically incorrect structure.",
+  "input": "My dad was the first one in my family to have a college degrees",
+  "output": "My dad was the first one in my family to have a college degree.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ab83348d-991d-4489-8ca5-aecbddfa0ad1",
+  "instruction": "Count the number of times the word 'quick' appears in the text.",
+  "input": "The quick brown fox jumps over the lazy dog",
+  "output": "1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

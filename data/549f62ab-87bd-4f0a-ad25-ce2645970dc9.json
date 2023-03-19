@@ -1,0 +1,12 @@
+{
+  "id": "549f62ab-87bd-4f0a-ad25-ce2645970dc9",
+  "instruction": "Convert this sentence from the present tense to the past tense",
+  "input": "We drive to the store",
+  "output": "We drove to the store",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

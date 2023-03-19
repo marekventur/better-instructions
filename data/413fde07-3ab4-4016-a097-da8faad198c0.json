@@ -1,0 +1,12 @@
+{
+  "id": "413fde07-3ab4-4016-a097-da8faad198c0",
+  "instruction": "Construct a haiku based on given theme",
+  "input": "Love",
+  "output": "love's sweet embrace \nfilling life with warmth and joy \nour hearts in harmony",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

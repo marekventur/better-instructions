@@ -1,0 +1,12 @@
+{
+  "id": "a03f7b50-f6e8-4a8a-9672-b60ec4bb0a75",
+  "instruction": "Which element will become the results after the following mutation operation is applied?",
+  "input": "[1, 2, [3, 4], 5, 6] -> [1, 2, 3, 5, 6]",
+  "output": "4 will be removed from the list. The result will be [1, 2, 3, 5, 6].",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

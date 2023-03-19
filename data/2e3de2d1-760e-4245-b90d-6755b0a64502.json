@@ -1,0 +1,12 @@
+{
+  "id": "2e3de2d1-760e-4245-b90d-6755b0a64502",
+  "instruction": "Explain the following term: Data warehouse",
+  "input": "",
+  "output": "A data warehouse is a centralized repository for data from multiple sources, which are processed and stored in a way that makes them easier to analyze and access. Data warehouses provide an efficient way to store large amounts of data and make it accessible to users, allowing for faster data retrieval and analysis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

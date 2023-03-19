@@ -1,0 +1,12 @@
+{
+  "id": "c089b8d5-bf16-4917-9d57-b921e9f952f6",
+  "instruction": "Classify the given character as a protagonist or antagonist in the story.",
+  "input": "John Doe",
+  "output": "Protagonist",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

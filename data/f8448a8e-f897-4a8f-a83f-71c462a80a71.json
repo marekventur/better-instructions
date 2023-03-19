@@ -1,0 +1,12 @@
+{
+  "id": "f8448a8e-f897-4a8f-a83f-71c462a80a71",
+  "instruction": "Split the list of elements into two different lists.",
+  "input": "Apple, Banana, Orange, Pear",
+  "output": "List1: Apple, Orange\nList2: Banana, Pear",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

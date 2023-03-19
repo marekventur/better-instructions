@@ -1,0 +1,12 @@
+{
+  "id": "3f74dc4d-7afa-40f5-82ab-ffc22c88b86a",
+  "instruction": "Edit the following sentence to make it apply to the given context.\n\nContext: Working from home\nSentence:  Everyone in the office needed to arrive at 8 a.m.",
+  "input": "",
+  "output": "Everyone working from home needed to be ready to start at 8 a.m.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

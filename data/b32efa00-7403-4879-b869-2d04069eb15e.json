@@ -1,0 +1,12 @@
+{
+  "id": "b32efa00-7403-4879-b869-2d04069eb15e",
+  "instruction": "List the most recent five books that Mark Twain wrote.",
+  "input": "",
+  "output": "The most recent five books written by Mark Twain are: \n1. Letters From the Earth (1909) \n2. What Is Man? And Other Philosophical Writings (1917)\n3. The Mysterious Stranger and Other Stories (1916) \n4. Mark Twain's Autobiography (1924) \n5. Mark Twain's Notebooks & Journals (Vol. 1, 1935)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

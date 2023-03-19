@@ -1,0 +1,12 @@
+{
+  "id": "a7e1cc03-aec2-42b2-bf0c-7b0cc28648ad",
+  "instruction": "Choose three alternatives and explain why they are the best options.",
+  "input": "Which type of camera is the best for taking pictures of wildlife in its natural habitat?",
+  "output": "The best cameras for taking pictures of wildlife in their natural habitat are DSLRs, bridge cameras, and mirrorless cameras. DSLRs provide excellent image quality and professional-level features like interchangeable lenses and manual settings. Bridge cameras offer an impressive level of zoom and good image quality, making them a great choice for getting close up shots. Mirrorless cameras are very lightweight and compact, making them ideal for travelling and getting good shots in difficult environments.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

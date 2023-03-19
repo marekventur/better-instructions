@@ -1,0 +1,12 @@
+{
+  "id": "5ad9e079-57d9-40f8-9eb8-0f81eaf353a8",
+  "instruction": "Identify the most profitable stock over the past 5 days.",
+  "input": "List of stocks: AAPL, MSFT, NFLX, GOOG",
+  "output": "Microsoft (MSFT) has been the most profitable stock over the past 5 days. It has seen a 2.73% rise in stock price.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2d518507-708e-403e-beab-5438815d4572",
+  "instruction": "Evaluate the given article and provide feedback.",
+  "input": "Article about Global Warming",
+  "output": "The article about global warming was very informative and provided a comprehensive overview of the issue. It provided an in-depth description of what global warming is and the contributing factors to it. It also discussed the effects of global warming, both in the short-term and long-term. The article also included accurate facts and data to back up its claims. However, it would be beneficial to expand the section on potential solutions to global warming, as well as provide more specific examples of how global warming has already impacted the world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

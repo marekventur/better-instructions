@@ -1,0 +1,12 @@
+{
+  "id": "11834457-2ab2-449f-88f6-552df1a43bc7",
+  "instruction": "Create a timeline for the following history event.",
+  "input": "The fall of the Berlin Wall in 1989",
+  "output": "Timeline {1980: The wall is first erected. 1984: Protocol on the opening of the wall is signed. 1989: People climb and hammer away at the wall, symbolizing its fall. Nov 9, 1989: Berlin Wall officially comes down. 1990: Partition of German is officially ended.}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

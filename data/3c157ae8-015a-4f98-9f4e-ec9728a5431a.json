@@ -1,0 +1,12 @@
+{
+  "id": "3c157ae8-015a-4f98-9f4e-ec9728a5431a",
+  "instruction": "Rewrite the following sentence to make it active: \"The ball was kicked by the player.\"",
+  "input": "The ball was kicked by the player.",
+  "output": "The player kicked the ball.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

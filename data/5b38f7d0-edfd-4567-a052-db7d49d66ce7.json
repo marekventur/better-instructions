@@ -1,0 +1,12 @@
+{
+  "id": "5b38f7d0-edfd-4567-a052-db7d49d66ce7",
+  "instruction": "Classify the following fruits into red and yellow.",
+  "input": "Strawberry, Peach, Banana",
+  "output": "Red: Strawberry\nYellow: Peach, Banana",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

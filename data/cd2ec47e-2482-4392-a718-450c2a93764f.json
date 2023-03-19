@@ -1,0 +1,12 @@
+{
+  "id": "cd2ec47e-2482-4392-a718-450c2a93764f",
+  "instruction": "Given a dictionary of words, print out all the words with exactly three letters.",
+  "input": "{\"dog\": 1, \"cat\": 2, \"rabbit\":3, \"shoe\": 4, \"hat\": 5}",
+  "output": "dog, cat, hat",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

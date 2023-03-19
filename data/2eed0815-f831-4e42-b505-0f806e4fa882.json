@@ -1,0 +1,12 @@
+{
+  "id": "2eed0815-f831-4e42-b505-0f806e4fa882",
+  "instruction": "Create a short drama skit which is humorous and contains the following characters: a doctor and a patient.",
+  "input": "",
+  "output": "(Patient enters the room looking nervous) \n\nDoctor: \"Good day, what can I do for you?\"\n\nPatient: \"Doctor, I think I'm suffering from a serious case of notepad-abosis.\" \n\nDoctor: (confused) \"Err, what is that?\"\n\nPatient: \"Well, I spend way too much time writing notes on my notepad and now my handwriting is terrible!\" \n\nDoctor: (shaking his head) \"Well, unfortunately there's nothing I can do for you...but maybe you should just switch to typing your notes on a computer instead!\"\n\n(Patient smirks) \n\nPatient: \"Thanks doctor, I guess I'll just have to take it one step at a time!\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

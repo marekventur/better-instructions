@@ -1,0 +1,12 @@
+{
+  "id": "a0d10bad-55fd-4819-b779-da7406e7fb39",
+  "instruction": "Output a definition of the following term.",
+  "input": "Algorithmic bias",
+  "output": "Algorithmic bias is the propensity for automated systems to produce results that are systematically prejudiced due to factors such as the selection of training data, the structure of the algorithm, or the values of its designers. It can lead to subtle, unfair, and unexpected consequences that widely affect many people.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cd36e967-e219-4bc4-bb44-9efc96d84708",
+  "instruction": "Suggest the best type of encryption for this message.",
+  "input": "This is a sensitive message about a confidential purchase.",
+  "output": "The best type of encryption for this message would be AES (Advanced Encryption Standard) 256bit encryption, as this provides a high level of security and is virtually unbreakable.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

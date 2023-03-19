@@ -1,0 +1,12 @@
+{
+  "id": "1873e9c7-06cd-4e38-8481-639d1ac07505",
+  "instruction": "Classify this excerpt into either comedy or drama.",
+  "input": "He waited anxiously as the door opened.",
+  "output": "This excerpt is best classified as drama.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

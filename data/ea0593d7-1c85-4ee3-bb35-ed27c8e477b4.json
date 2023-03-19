@@ -1,0 +1,12 @@
+{
+  "id": "ea0593d7-1c85-4ee3-bb35-ed27c8e477b4",
+  "instruction": "Add the missing words",
+  "input": "A race car ___ around the ______",
+  "output": "A race car raced around the track.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

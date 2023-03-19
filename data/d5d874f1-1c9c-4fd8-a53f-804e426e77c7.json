@@ -1,0 +1,12 @@
+{
+  "id": "d5d874f1-1c9c-4fd8-a53f-804e426e77c7",
+  "instruction": "Update the content of the given table",
+  "input": "Table with four columns containing country, population, GDP and GDP per capita",
+  "output": "The table has been updated with the latest information about the countries, population, GDP and GDP per capita.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

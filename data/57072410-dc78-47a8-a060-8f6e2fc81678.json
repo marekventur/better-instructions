@@ -1,0 +1,12 @@
+{
+  "id": "57072410-dc78-47a8-a060-8f6e2fc81678",
+  "instruction": "Categorize the following words according to their parts of speech:\n\nstrenuous, allocate, eclipse",
+  "input": "",
+  "output": "strenuous - adjective\nallocate - verb\neclipse - verb",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

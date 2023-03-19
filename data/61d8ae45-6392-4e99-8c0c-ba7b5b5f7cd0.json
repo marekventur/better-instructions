@@ -1,0 +1,12 @@
+{
+  "id": "61d8ae45-6392-4e99-8c0c-ba7b5b5f7cd0",
+  "instruction": "Consider the following passage and classify it into one of the following categories: (a) fiction (b) non-fiction",
+  "input": "The seasons are changing, and the forest is alive with the sound of birds chirping, the rustle of leaves turning its many colors, and a fresh scent in the air.",
+  "output": "a  (fiction)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

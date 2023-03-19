@@ -1,0 +1,12 @@
+{
+  "id": "5cc678a7-97ad-4738-b088-a4530ca9ad6f",
+  "instruction": "Given the following input string, produce a random alphanumeric string.",
+  "input": "Hello",
+  "output": "ad6KX8W",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

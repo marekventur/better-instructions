@@ -1,0 +1,12 @@
+{
+  "id": "bb790668-d075-40aa-bb32-b7caa96be0de",
+  "instruction": "Write a movie review with a star rating from 1-5.",
+  "input": "Movie title: The Greatest Showman",
+  "output": "The Greatest Showman is a must-see film with a powerful message. The cast is full of likable characters, and the music is truly inspiring. The movie has a great energy and masterfully evokes emotion in the viewers. It is a beautiful and uplifting story that is sure to make you smile. I rate The Greatest Showman 5 out of 5 stars.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "21556425-94eb-4971-9ee4-650898c0a779",
+  "instruction": "Classify this as either an animal, plant, or fungus.",
+  "input": "Unicorn",
+  "output": "animal",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

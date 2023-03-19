@@ -1,0 +1,12 @@
+{
+  "id": "e1d97fe8-db52-41c0-be5a-ba5636ca6a22",
+  "instruction": "Compare and contrast databases and search engines.",
+  "input": "",
+  "output": "Databases and search engines serve different purposes. Databases store data, whereas search engines provide a way to search forthat data. Databases are organized around data and accessed through queries, while search engines use algorithms to index and rank webpages. Databases are usually used by companies and organizations for internal purposes, while search engines are used by the public. Additionally, databases usually contain existing information, while search engines attempt to find the most relevant results for a given query.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dfa934c5-f24a-4083-84c5-34ddf953de14",
+  "instruction": "Determine if the following sentence contains any modal verb.",
+  "input": "I can recommend the best restaurant in town.",
+  "output": "Yes",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

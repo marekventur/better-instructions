@@ -1,0 +1,12 @@
+{
+  "id": "736191b1-4594-49a4-95f2-e57c0f7e3d24",
+  "instruction": "Given this C code, what is the expected output?",
+  "input": "#include <stdio.h>\n \nint main()\n{\n   int i = 1;\n   for ( i = 1; i <= 5; i++ )\n   {\n      if ( i%2 == 0)\n      {\n          printf(\"%d\\n\", i);\n          break;\n      }\n   }\n \n   return 0;\n}",
+  "output": "2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

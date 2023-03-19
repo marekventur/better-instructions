@@ -1,0 +1,12 @@
+{
+  "id": "d418ef11-19bb-473e-92c3-1ed760e0f054",
+  "instruction": "Create a data structure appropriate for storing student records.",
+  "input": "",
+  "output": "A dictionary would be a suitable data structure for storing student records. The key could be the student id and the value could be a list containing their name, age, gender, and other relevant data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

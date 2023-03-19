@@ -1,0 +1,12 @@
+{
+  "id": "2578570d-225f-468e-8153-88e240c14fe2",
+  "instruction": "Craft a survey to measure customer satisfaction for a retail store.",
+  "input": "",
+  "output": "1. How satisfied are you with the customer service you received?\n2. How would you rate the quality of the products in the store?\n3. How would you rate the value of the products in the store?\n4. How easy was it to find what you were looking for?\n5. Did you find the prices at the store to be reasonable?\n6. Did the employees at the store respond quickly to your questions and concerns?\n7. Did the employees provide helpful advice or suggestions?\n8. Would you recommend the store to a friend?\n9. How likely are you to return to the store in the future?\n10. Is there anything we could do to improve your shopping experience?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

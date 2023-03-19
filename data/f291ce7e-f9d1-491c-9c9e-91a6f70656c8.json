@@ -1,0 +1,12 @@
+{
+  "id": "f291ce7e-f9d1-491c-9c9e-91a6f70656c8",
+  "instruction": "Provide a CSS code for making all text boxes visible on the page.",
+  "input": "",
+  "output": "The CSS code for making all text boxes visible on the page is:\n\n`input[type=\"text\"] { display: block; }`",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

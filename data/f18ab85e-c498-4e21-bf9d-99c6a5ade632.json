@@ -1,0 +1,12 @@
+{
+  "id": "f18ab85e-c498-4e21-bf9d-99c6a5ade632",
+  "instruction": "How long will it take to give a relatively accurate result using a neural network?",
+  "input": "",
+  "output": "It depends on the complexity of the problem and the size of the neural network. Generally, neural networks can take anywhere from a few hours to a few days to train, depending on the size of the data set and the complexity of the task.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

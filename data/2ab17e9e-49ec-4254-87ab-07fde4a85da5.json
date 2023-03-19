@@ -1,0 +1,12 @@
+{
+  "id": "2ab17e9e-49ec-4254-87ab-07fde4a85da5",
+  "instruction": "Suggest a response for this customer's feedback.",
+  "input": "I'm disappointed with the product.",
+  "output": "We apologize for your disappointment with the product. We are always looking for ways to improve our products and we greatly value your input. Is there anything we can do to make your experience better?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

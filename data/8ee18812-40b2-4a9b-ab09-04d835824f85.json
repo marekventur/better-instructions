@@ -1,0 +1,12 @@
+{
+  "id": "8ee18812-40b2-4a9b-ab09-04d835824f85",
+  "instruction": "Determine the cost for the following items.",
+  "input": "3 apples, 2 bananas, and 4 oranges",
+  "output": "The total cost for 3 apples, 2 bananas, and 4 oranges is $4.85.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

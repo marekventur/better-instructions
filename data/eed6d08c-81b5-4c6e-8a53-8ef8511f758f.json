@@ -1,0 +1,12 @@
+{
+  "id": "eed6d08c-81b5-4c6e-8a53-8ef8511f758f",
+  "instruction": "Given a description and a list of words, create a virtual assistant command.",
+  "input": "Description: The user wants to watch a movie.\nWords: watch, movie",
+  "output": "\"Alexa, watch a movie for me.\"",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

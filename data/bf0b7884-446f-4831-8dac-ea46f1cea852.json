@@ -1,0 +1,12 @@
+{
+  "id": "bf0b7884-446f-4831-8dac-ea46f1cea852",
+  "instruction": "Explain the four essential features of object-oriented programming.",
+  "input": "",
+  "output": "Object-oriented programming (OOP) has four essential features: encapsulation, inheritance, polymorphism, and abstraction. Encapsulation is the process of binding data and code into a single unit. Inheritance is the process of obtaining traits of one class from another. Polymorphism is the ability to represent entities in various forms. Abstraction is the process of hiding implementation details while exposing only the functionality.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

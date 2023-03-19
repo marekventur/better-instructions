@@ -1,0 +1,12 @@
+{
+  "id": "9a45ad44-af84-4a1c-99df-7697026193de",
+  "instruction": "Given the lyrics, determine the genre of the song.",
+  "input": "\"Hey, I just met you\nAnd this is crazy\nBut here's my number\nSo call me, maybe\"",
+  "output": "The genre of the song is Pop.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

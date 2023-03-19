@@ -1,0 +1,12 @@
+{
+  "id": "4dc55f18-00dc-46b1-90cc-1e0bd0f267e1",
+  "instruction": "Rank the following from strongest to weakest in terms of acidic character.",
+  "input": "Lemon juice, vinegar, coffee",
+  "output": "Lemon juice > Vinegar > Coffee",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

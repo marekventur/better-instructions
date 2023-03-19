@@ -1,0 +1,12 @@
+{
+  "id": "b1dac2b7-7508-4749-a1c4-b5e7d5e507b9",
+  "instruction": "Find the geographical coordinates for the given location.",
+  "input": "Big Ben, London",
+  "output": "The geographical coordinates of Big Ben in London, United Kingdom are 51\u00b030'26.6\"N, 0\u00b007'39.2\"W.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "49c2656b-1dea-4baf-97cf-a00f543b70d0",
+  "instruction": "Rewrite the sentence given to avoid using gender-specific language",
+  "input": "The office manager spoke to his employees.",
+  "output": "The office manager spoke to their employees.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ee4adc15-4e1e-4c5e-9751-e39dc8614554",
+  "instruction": "Access the third element of the list.",
+  "input": "[0, 1, 6, 3, 4]",
+  "output": "6",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6cf498f6-fec8-451e-b586-959d39ceb863",
+  "instruction": "Categorize the following words into either animals or plants: apple, shark, oak, cow",
+  "input": "",
+  "output": "Animals: Shark, Cow\n\nPlants: Apple, Oak",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

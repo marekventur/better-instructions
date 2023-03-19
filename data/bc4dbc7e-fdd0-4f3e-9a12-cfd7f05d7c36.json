@@ -1,0 +1,12 @@
+{
+  "id": "bc4dbc7e-fdd0-4f3e-9a12-cfd7f05d7c36",
+  "instruction": "Create a program to predict stock prices.",
+  "input": "",
+  "output": "A program to predict stock prices can be created using a machine learning model trained on historical stock data. The model can use this data to identify patterns in the stock market and make forecasts about future prices. The model can then be evaluated using metrics such as accuracy, precision, and recall to ensure that it is making accurate predictions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

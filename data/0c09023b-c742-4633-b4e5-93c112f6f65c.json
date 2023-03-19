@@ -1,0 +1,12 @@
+{
+  "id": "0c09023b-c742-4633-b4e5-93c112f6f65c",
+  "instruction": "With the given input, describe a typical day in the life of a doctor.",
+  "input": "Dr. Jane Scott, Pediatrician",
+  "output": "A typical day for Dr. Jane Scott, a pediatrician, starts very early in the morning with rounds of hospital visits and patient consultations. Throughout the day she consults with various specialization departments and medical staff, keeping an eye on her younger patients in the paediatric ward. In between patient visits she examines test results and medical reports before prescribing treatments and medications.\n\nAt night, Dr. Scott finishes off paperwork and reviews records, before ensuring that her patients are comfortably cared for and their progress is documented. Before heading home she makes sure to check any new developments with her younger patients, giving them the time and attention they deserve. And after a long and challenging day, she leaves the hospital feeling grateful that she can make a positive difference in children's lives.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

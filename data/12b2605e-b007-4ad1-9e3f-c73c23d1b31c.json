@@ -1,0 +1,12 @@
+{
+  "id": "12b2605e-b007-4ad1-9e3f-c73c23d1b31c",
+  "instruction": "Classify the word as \"animal\" or \"non-animal\".",
+  "input": "Elephant",
+  "output": "Animal",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

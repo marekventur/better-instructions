@@ -1,0 +1,12 @@
+{
+  "id": "e53d865b-17db-475d-b8c2-2805a079dd88",
+  "instruction": "Create an algorithm to sort the following numbers from the smallest to the largest",
+  "input": "[45, -102, 10, 3400]",
+  "output": "[-102, 10, 45, 3400]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

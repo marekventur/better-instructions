@@ -1,0 +1,12 @@
+{
+  "id": "ff9a5bec-f342-4697-adf8-b6876f064959",
+  "instruction": "Output all the words in the sentence with length of 4 or more.",
+  "input": "The language is easy to learn.",
+  "output": "language, easy, learn",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

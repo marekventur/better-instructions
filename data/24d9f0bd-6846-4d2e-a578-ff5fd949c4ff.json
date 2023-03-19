@@ -1,0 +1,12 @@
+{
+  "id": "24d9f0bd-6846-4d2e-a578-ff5fd949c4ff",
+  "instruction": "Create a predictive algorithm that could identify drug interactions.",
+  "input": "",
+  "output": "The predictive algorithm would use existing clinical and pharmacological data to identify potential drug interactions by analyzing the various components of drugs, such as active ingredients, pharmacokinetics and pharmacodynamics. The algorithm would process the data to identify different drug combinations that may interact in potentially harmful ways, based on their shared compounds or effects. The algorithm would then be able to provide input to warn healthcare professionals or users of potential drug interactions and the severity of side effects or reactions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

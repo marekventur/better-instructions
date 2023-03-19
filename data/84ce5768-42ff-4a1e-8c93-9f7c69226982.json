@@ -1,0 +1,12 @@
+{
+  "id": "84ce5768-42ff-4a1e-8c93-9f7c69226982",
+  "instruction": "Predict the weather for the next 3 days in your city.",
+  "input": "City: Los Angeles",
+  "output": "The weather for the next three days in Los Angeles is expected to be mostly sunny with temperatures ranging from highs of 81 degrees to lows of 63 degrees.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

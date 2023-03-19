@@ -1,0 +1,12 @@
+{
+  "id": "38eb72fa-fdfb-4384-ad98-d18f01e38872",
+  "instruction": "Generate a sentence predicting what will happen in the following scenario.",
+  "input": "A chicken walks into a library",
+  "output": "The chicken will be confused, looking around the library for something to read.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

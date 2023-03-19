@@ -1,0 +1,12 @@
+{
+  "id": "7d77cb10-5418-4739-8b51-5c6bed1ee73f",
+  "instruction": "Create an algorithm that solves this problem.",
+  "input": "Given a list of integers, return only the even numbers in that list.",
+  "output": "def return_even_nums(num_list):\n    even_nums = []\n    for num in num_list:\n        if num % 2 == 0:\n            even_nums.append(num)\n    return even_nums",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

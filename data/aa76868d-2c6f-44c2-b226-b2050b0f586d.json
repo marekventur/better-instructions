@@ -1,0 +1,12 @@
+{
+  "id": "aa76868d-2c6f-44c2-b226-b2050b0f586d",
+  "instruction": "Make a list of 5 questions that can be answered by reading the given text.",
+  "input": "After a tense exchange between President Donald Trump and Democratic challenger Joe Biden during their first 2020 presidential debate, many viewers are wondering: Who won?",
+  "output": "1. What was the topic of the first 2020 presidential debate? \n2. What was the exchange between President Donald Trump and Democratic challenger Joe Biden like? \n3. What was the outcome of the debate? \n4. Who is the current President of the United States? \n5. Who is running against President Donald Trump in the 2020 US presidential election?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

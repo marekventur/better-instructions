@@ -1,0 +1,12 @@
+{
+  "id": "ec1b1b6d-9e2e-4cca-927a-0ac3d2d91466",
+  "instruction": "Explain the following scientific concept in layperson's terms: chi-squared test",
+  "input": "",
+  "output": "A chi-squared test is a type of statistical test used to measure the differences between observed and expected outcomes. To do this, the test evaluates how likely it is that the observed data deviate from the expected data. The test's results are based on the chi-squared statistic, which uses a comparison of observed and expected frequencies in a data set. Generally, if the chi-squared value is large, it indicates that there is a significant difference between observed and expected results and vice versa. In simpler terms, a chi-squared test is used to measure the probability that two data sets are related.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

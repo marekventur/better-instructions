@@ -1,0 +1,12 @@
+{
+  "id": "c2c1e1a5-01c4-4d0b-87ee-91e294645b3c",
+  "instruction": "Create a function to to check if a given number is an Armstrong number or not.",
+  "input": "",
+  "output": "\"\"\"\nCheck if a given number is an Armstrong number or not\n\"\"\"\n\ndef isArmstrongNumber(num): \n    # Calculate the length of num \n    n = len(str(num)) \n  \n    # Initialize sum \n    sum = 0\n  \n    # Find a sum of nth power of    \n    # individual digits\n    temp = num \n    while temp > 0: \n        digit = temp % 10\n        sum += digit ** n \n        temp //= 10\n  \n    # Return True if num is equal to the sum \n    # of nth power of its digits\n    if num == sum: \n        return True\n    else: \n        return False\n\nif __name__ == '__main__':\n    print(isArmstrongNumber(153))",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

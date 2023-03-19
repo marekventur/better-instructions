@@ -1,0 +1,12 @@
+{
+  "id": "f330834b-5616-4cb2-851a-2310734fc4b8",
+  "instruction": "Explain what is a neural network",
+  "input": "",
+  "output": "A neural network is an artificial intelligence (AI) system inspired by the structure and functioning of the human brain. It is an interconnected system of artificial neurons that use signals from datasets to make predictions or decisions. Neural networks consist of an input layer, hidden layers, and a output layer. The input layer receives data from the outside. The hidden layers process and manipulate the data. And the output layer provides predictions or decisions to the outside world. Neural networks are used in a range of tasks such as image recognition, text analysis and forecasting.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "db3b75f3-71d5-47d4-9663-6ccbde929ab3",
+  "instruction": "Develop a method for clustering astronomical data.",
+  "input": "",
+  "output": "A method for clustering astronomical data can involve using various clustering algorithms, such as hierarchical clustering, k-means clustering, and others. These algorithms can be used to separate astronomical data into distinct, meaningful chunks, and further analysis can be done on the clusters, such as to group objects with similar characteristics.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

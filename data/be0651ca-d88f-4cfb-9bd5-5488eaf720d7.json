@@ -1,0 +1,12 @@
+{
+  "id": "be0651ca-d88f-4cfb-9bd5-5488eaf720d7",
+  "instruction": "Transform the sentence into a question, using the word \u201chow\u201d.",
+  "input": "John built a race car.",
+  "output": "How did John build a race car?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

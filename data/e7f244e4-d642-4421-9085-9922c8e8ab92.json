@@ -1,0 +1,12 @@
+{
+  "id": "e7f244e4-d642-4421-9085-9922c8e8ab92",
+  "instruction": "Compare the terms 'sublimation' and 'deposition'.",
+  "input": "",
+  "output": "Sublimation is a physical process where a solid converts directly to a gas, bypassing the liquid phase. Deposition is a physical process where a gas is converted directly to a solid. Both processes are endothermic, meaning they absorb heat energy from the environment. They differ in that sublimation requires a higher temperature than deposition for the phase transition to occur. Additionally, sublimation is typically restricted to certain substances, whereas deposition is a common phase transition for any gas to a solid.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

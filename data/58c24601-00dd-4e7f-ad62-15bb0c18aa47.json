@@ -1,0 +1,12 @@
+{
+  "id": "58c24601-00dd-4e7f-ad62-15bb0c18aa47",
+  "instruction": "Take the following text and add two more sentences to it.",
+  "input": "Alice and Bob were two best friends living in the same city.",
+  "output": "Alice and Bob were two best friends living in the same city. They spent their days exploring the city together, going to restaurants and amusement parks and having grand adventures. One day, they decided to take a trip to a nearby beach and spend their summer days swimming and sun tanning. They even made a pact to always be there for each other no matter what life threw at them.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

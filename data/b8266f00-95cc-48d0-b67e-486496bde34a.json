@@ -1,0 +1,12 @@
+{
+  "id": "b8266f00-95cc-48d0-b67e-486496bde34a",
+  "instruction": "Edit the sentence to better its grammar",
+  "input": "I am looking for the groceries which are on sale",
+  "output": "I am looking for groceries that are on sale.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

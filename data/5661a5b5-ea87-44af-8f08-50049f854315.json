@@ -1,0 +1,12 @@
+{
+  "id": "5661a5b5-ea87-44af-8f08-50049f854315",
+  "instruction": "Describe the process of extracting data from a database.",
+  "input": "",
+  "output": "The process of extracting data from a database begins by establishing a connection to the database. Once the connection is established, the data can be queried by writing an appropriate query. The results of the query are then retrieved from the database and stored in some local or remote data storage. This process can be automated, where the query is run periodically, or manually done by end user. Depending on the complexity of the query and the database, the process of extracting data from a database can vary.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

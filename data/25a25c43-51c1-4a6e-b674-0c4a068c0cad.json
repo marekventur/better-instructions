@@ -1,0 +1,12 @@
+{
+  "id": "25a25c43-51c1-4a6e-b674-0c4a068c0cad",
+  "instruction": "Explain the concept of \"Four Factor Authentication\"",
+  "input": "",
+  "output": "Four factor authentication (4FA) is a security measure that requires users to provide four different pieces of evidence to verify their identity. These include something that the user knows, such as a password or PIN number; something that the user has, such as a mobile phone or hardware token; something the user is, such as a biometric like a fingerprint or iris scan; and a location factor such as an IP address. All four of these factors must be verified before access is granted. This security measure is considered to be significantly more difficult to breach than two-factor authentication, making it extremely popular among businesses that need to secure data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8cee929f-2590-41f1-9998-9540402e0719",
+  "instruction": "Classify each of the following countries according to their continent.",
+  "input": "Brazil, India, China",
+  "output": "Brazil: South America\nIndia: Asia\nChina: Asia",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

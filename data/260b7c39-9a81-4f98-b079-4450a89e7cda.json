@@ -1,0 +1,12 @@
+{
+  "id": "260b7c39-9a81-4f98-b079-4450a89e7cda",
+  "instruction": "Describe the main differences between an engine used in a car and an engine used in a plane.",
+  "input": "",
+  "output": "The main difference between an engine used in a car and an engine used in a plane is the type of fuel used. A car engine typically uses gasoline, while a plane engine typically uses jet fuel. Another difference is the size and weight of the engine; a plane engine is far bigger and heavier than a car engine, because it has to generate the power required to lift the plane off the ground. Finally, plane engines produce thrust, whereas car engines only produce torque.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

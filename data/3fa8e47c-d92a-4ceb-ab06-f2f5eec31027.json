@@ -1,0 +1,12 @@
+{
+  "id": "3fa8e47c-d92a-4ceb-ab06-f2f5eec31027",
+  "instruction": "Given a set of instructions, reword it to make it sound polite.",
+  "input": "You have to finish this task by tomorrow.",
+  "output": "We would appreciate it if you could finish this task by tomorrow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

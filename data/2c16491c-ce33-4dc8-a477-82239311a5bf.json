@@ -1,0 +1,12 @@
+{
+  "id": "2c16491c-ce33-4dc8-a477-82239311a5bf",
+  "instruction": "Construct a table to compare the effectiveness of 5 different treatments",
+  "input": "",
+  "output": "Treatment  |  Effectiveness  | \n-----------------------------------\nTreatment 1  |  x  | \nTreatment 2  |  y  | \nTreatment 3  |  z  | \nTreatment 4  |  a  | \nTreatment 5  |  b  |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

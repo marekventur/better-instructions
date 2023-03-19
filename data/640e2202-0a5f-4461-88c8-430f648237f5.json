@@ -1,0 +1,12 @@
+{
+  "id": "640e2202-0a5f-4461-88c8-430f648237f5",
+  "instruction": "Create a new recipe using 5 ingredients.",
+  "input": "onion, tomatoes, garlic, cilantro, chili",
+  "output": "Chilli Onion Garlic Tomato & Cilantro Curry\nIngredients:\n-2 tablespoons olive oil\n-1 large onion, diced\n-3 cloves garlic, finely chopped\n-1 large tomato, diced\n-1 teaspoon chili flakes\n-1/2 cup cilantro, chopped\n-1/2 teaspoon salt\n-1/2 teaspoon black pepper\n-1-2 cups water\n-1/4 cup plain yogurt (optional)\n\nInstructions:\n1. Heat olive oil in a large pot over medium heat.\n2. Add onion and garlic and saut\u00e9 for about 3 minutes until the onion is lightly golden.\n3. Add tomato and chili flakes and saut\u00e9 for another 2 minutes.\n4. Add cilantro, salt, pepper and 1 cup of water and bring to a boil.\n5. Reduce heat to low and simmer for 20 minutes over low-medium heat, stirring occasionally.\n6. Add more water if needed and cook until the curry is thick and creamy.\n7. Serve with plain yogurt, if desired.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

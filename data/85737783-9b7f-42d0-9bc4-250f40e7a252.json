@@ -1,0 +1,12 @@
+{
+  "id": "85737783-9b7f-42d0-9bc4-250f40e7a252",
+  "instruction": "Create a dynamic query to filter a large table of user data",
+  "input": "Table : user_data in MongoDB\nColumns : _id, username, gender\nFilter: Male",
+  "output": "db.user_data.find( { gender : \"Male\" } )",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

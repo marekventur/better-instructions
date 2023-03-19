@@ -1,0 +1,12 @@
+{
+  "id": "2dc6f9eb-050a-4a13-95e1-5b64ef61eddc",
+  "instruction": "Given the following text, summarize it in one sentence.",
+  "input": "This paper presents a novel technique for learning from video data. Our method is based on temporal convolutional networks, which are trained on multiple temporal segments extracted from each video sample. We validated our approach on multiple action recognition datasets and achieved competitive results among existing state-of-the-art algorithms.",
+  "output": "This paper introduces a temporal convolutional network for learning from video data with competitive results on various action recognition datasets.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

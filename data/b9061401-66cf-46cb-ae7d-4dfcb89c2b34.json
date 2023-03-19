@@ -1,0 +1,12 @@
+{
+  "id": "b9061401-66cf-46cb-ae7d-4dfcb89c2b34",
+  "instruction": "Using the given words, compose a complete sentence that is grammatically correct.",
+  "input": "was, house, my",
+  "output": "My house was.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b82de9c7-6ede-46e6-8f77-0389cd3de4a8",
+  "instruction": "Create a route planner to reach the destination.",
+  "input": "Start Location: Interlaken, Switzerland\nDestination: Lauterbrunnen, Switzerland",
+  "output": "Head north-east on Marktgasse towards Bahnhofstrasse, turn left onto Bahnhofstrasse, turn left onto Bernstrasse, take the first right onto Hauptstrasse and then continue onto Murbacherstrasse. Turn left onto Interlakenstrasse and turn slightly right onto Gewerbestrasse. Follow the signs for Lauterbrunnen and turn right onto Zellerweg. Turn right onto Steinbridge at the fork in the road and follow the winding road to Lauterbrunnen.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

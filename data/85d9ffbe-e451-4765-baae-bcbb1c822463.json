@@ -1,0 +1,12 @@
+{
+  "id": "85d9ffbe-e451-4765-baae-bcbb1c822463",
+  "instruction": "Given a sentence, convert it into its correct possessive form.",
+  "input": "Pauls hat",
+  "output": "Paul's hat",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

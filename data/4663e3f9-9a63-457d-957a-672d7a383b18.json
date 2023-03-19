@@ -1,0 +1,12 @@
+{
+  "id": "4663e3f9-9a63-457d-957a-672d7a383b18",
+  "instruction": "Edit the given program to create a loop that prints numbers from 1 to 10.",
+  "input": "for (int i = 1; i < 10; i++):",
+  "output": "for (int i = 1; i <= 10; i++) {\n    System.out.println(i);\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

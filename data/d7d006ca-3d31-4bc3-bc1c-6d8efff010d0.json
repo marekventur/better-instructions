@@ -1,0 +1,12 @@
+{
+  "id": "d7d006ca-3d31-4bc3-bc1c-6d8efff010d0",
+  "instruction": "Given the following statement, find the category of the statement. Categories include: Inquiry, Order, Compliment, Complaint.",
+  "input": "I can\u2019t find what I\u2019m looking for.",
+  "output": "Inquiry",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

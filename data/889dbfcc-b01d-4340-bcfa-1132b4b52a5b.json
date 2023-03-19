@@ -1,0 +1,12 @@
+{
+  "id": "889dbfcc-b01d-4340-bcfa-1132b4b52a5b",
+  "instruction": "Design a system architecture for a data processing task.",
+  "input": "The system should process text documents and convert them into audio files.",
+  "output": "The system architecture should include components to read the text document, perform natural language processing tasks, use text-to-speech software to convert the text into audio, and store the audio files.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

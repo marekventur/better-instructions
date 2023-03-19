@@ -1,0 +1,12 @@
+{
+  "id": "edfd8d5f-9744-4e34-ba34-e57e908e546b",
+  "instruction": "Given a text, suggest the right audience for the text.",
+  "input": "This article talks about the importance of maintaining healthy eating habits.",
+  "output": "The right audience for this text is people of all ages who are interested in maintaining a healthy lifestyle and adopting healthy eating habits.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

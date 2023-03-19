@@ -1,0 +1,12 @@
+{
+  "id": "31baadf2-e928-45f3-aaa7-89d836157e03",
+  "instruction": "Given a scientific article, answer a question about the article.",
+  "input": "Article: \"Effects of Memory Consolidation on Stress-Induced Neural and Behavioral Modification\"\nQuestion: What are the effects of memory consolidation?",
+  "output": "Memory consolidation is associated with modifications in neural activity and behavior that protect against the effects of stress and trauma.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

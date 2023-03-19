@@ -1,0 +1,12 @@
+{
+  "id": "911a02ca-54a6-4a24-896e-5eba5bc31f26",
+  "instruction": "Which word collocation is correct in the following sentence?",
+  "input": "In the 18th Century, European imports to the US __ vastly.",
+  "output": "In the 18th Century, European imports to the US increased vastly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

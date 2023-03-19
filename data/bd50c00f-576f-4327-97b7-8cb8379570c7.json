@@ -1,0 +1,12 @@
+{
+  "id": "bd50c00f-576f-4327-97b7-8cb8379570c7",
+  "instruction": "Arrange the following list of animals based on their size.",
+  "input": "Lion, Elephant, Frog, Rat",
+  "output": "Rat, Frog, Lion, Elephant",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

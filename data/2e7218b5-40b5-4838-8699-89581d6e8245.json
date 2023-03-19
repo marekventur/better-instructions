@@ -1,0 +1,12 @@
+{
+  "id": "2e7218b5-40b5-4838-8699-89581d6e8245",
+  "instruction": "Compare with the following items",
+  "input": "Apple, Orange",
+  "output": "Apple and Orange are both fruits that grow on trees. Apple is sweeter and has a crunchy texture, while Orange is juicier and has a softer texture. They both contain Vitamin C and can be eaten as a snack or used in various recipes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

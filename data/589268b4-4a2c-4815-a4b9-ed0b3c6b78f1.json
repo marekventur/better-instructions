@@ -1,0 +1,12 @@
+{
+  "id": "589268b4-4a2c-4815-a4b9-ed0b3c6b78f1",
+  "instruction": "Describe the general idea behind genetic algorithms.",
+  "input": "",
+  "output": "Genetic algorithms are a type of optimization algorithm that uses principles of evolution and natural selection to find solutions to problems. A genetic algorithm starts with a population of solutions and applies genetic operators such as mutation, selection, and crossover to create new solutions which are evaluated against a fitness function. The most fit solutions are kept and the process is repeated until suitable solutions are found.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

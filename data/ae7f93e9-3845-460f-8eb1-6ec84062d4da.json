@@ -1,0 +1,12 @@
+{
+  "id": "ae7f93e9-3845-460f-8eb1-6ec84062d4da",
+  "instruction": "Organize the sentences chronologically.",
+  "input": "His family moved to the United States when he was four. He graduated from high school and went on to college. After college, he got his first job as an engineer.",
+  "output": "1. His family moved to the United States when he was four.\n2. He graduated from high school and went on to college.\n3. After college, he got his first job as an engineer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

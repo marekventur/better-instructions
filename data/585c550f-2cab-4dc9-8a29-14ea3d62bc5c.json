@@ -1,0 +1,12 @@
+{
+  "id": "585c550f-2cab-4dc9-8a29-14ea3d62bc5c",
+  "instruction": "Toggle the third word in this sentence from singular to plural.",
+  "input": "The cat slept.",
+  "output": "The cats slept.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "77822b82-b0dc-4739-81f0-3db77b88d4a3",
+  "instruction": "Simplify the given sentence.",
+  "input": "The fact that I can't think of anything to write is making me feel frustrated.",
+  "output": "I'm frustrated since I can't think of anything to write.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

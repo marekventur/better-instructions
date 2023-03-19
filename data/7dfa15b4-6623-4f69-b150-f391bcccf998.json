@@ -1,0 +1,12 @@
+{
+  "id": "7dfa15b4-6623-4f69-b150-f391bcccf998",
+  "instruction": "Classify this sentence as an example of a rhetorical device.",
+  "input": "She is the wind beneath my wings.",
+  "output": "This sentence is an example of personification.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

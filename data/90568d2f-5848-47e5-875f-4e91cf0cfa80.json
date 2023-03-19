@@ -1,0 +1,12 @@
+{
+  "id": "90568d2f-5848-47e5-875f-4e91cf0cfa80",
+  "instruction": "Summarize the current state of renewable energy in the US.",
+  "input": "",
+  "output": "The United States is making progress in the development of renewable energy, but still lags behind other countries when it comes to the percentage of energy generated from renewable sources. Currently, 23% of US electricity comes from renewable sources, with solar energy accounting for a majority of that, followed by wind and geothermal. Government incentives have enabled many utilities to invest in renewable energy sources, and policymakers continue to focus on ways to accelerate its development. Despite the progress that has been made, more work needs to be done in order to make renewable energy a more prominent part of the US energy mix.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

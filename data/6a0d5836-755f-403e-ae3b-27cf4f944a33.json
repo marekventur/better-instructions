@@ -1,0 +1,12 @@
+{
+  "id": "6a0d5836-755f-403e-ae3b-27cf4f944a33",
+  "instruction": "Determine the type of quadrilateral formed by the given points.",
+  "input": "A (3, 2)\nB (3, 8)\nC (8, 8)\nD (8, 2)",
+  "output": "A rectangle.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

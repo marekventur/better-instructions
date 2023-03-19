@@ -1,0 +1,12 @@
+{
+  "id": "5f3f4263-59b7-466c-ba6e-69cc7fa48f8a",
+  "instruction": "Design a data structure to store a dictionary of 5,000 words.",
+  "input": "",
+  "output": "A hash table can be used to store the dictionary of 5,000 words, as it allows for efficient retrieval of words in the dictionary. The data structure would use a hash function to calculate an index based on the key of each word, which can then be used to retrieve the value (the word itself) in the dictionary.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

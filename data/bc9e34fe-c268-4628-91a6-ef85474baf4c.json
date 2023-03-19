@@ -1,0 +1,12 @@
+{
+  "id": "bc9e34fe-c268-4628-91a6-ef85474baf4c",
+  "instruction": "Suggest an effective way to debug a software program.",
+  "input": "",
+  "output": "A good way to debug a software program is to use a systematic approach. Start by isolating the issue to a specific code section. Then, use tools such as breakpoints, logging, debugging, and testing to identify and fix the problem. Lastly, check the entire codebase to ensure that it works properly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4c055bbc-79d9-4824-8b44-51371206965c",
+  "instruction": "Classify the given text into a given field.",
+  "input": "Relativity Mathematics",
+  "output": "Field: Physics",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

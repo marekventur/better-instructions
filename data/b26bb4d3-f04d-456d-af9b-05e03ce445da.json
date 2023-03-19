@@ -1,0 +1,12 @@
+{
+  "id": "b26bb4d3-f04d-456d-af9b-05e03ce445da",
+  "instruction": "Calculate the total cost of a trip for two people who fly from Los Angeles to Philadelphia.",
+  "input": "Round-trip flight tickets from Los Angeles to Philadelphia: two adult tickets",
+  "output": "The total cost of the trip for two people who are flying from Los Angeles to Philadelphia would be $998.00.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "865af04f-a24a-4fd1-a124-c2dc8ef83fb0",
+  "instruction": "Given the following sentence, provide a context of a customer service scenario.",
+  "input": "I apologize for the inconvenience.",
+  "output": "You have been waiting for your order for an extended period of time and you have been unable to reach customer service by phone. Eventually you get through and the customer service rep apologizes for the inconvenience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

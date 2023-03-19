@@ -1,0 +1,12 @@
+{
+  "id": "48e4c0d1-a5e6-47c9-ab60-2914b035ba3e",
+  "instruction": "Return the given string in reverse order.",
+  "input": "This is a sample sentence",
+  "output": "ecnetnes elpmas a si sihT",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

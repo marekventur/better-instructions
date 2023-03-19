@@ -1,0 +1,12 @@
+{
+  "id": "0c5b027c-889d-475b-8540-f1fc81f0917c",
+  "instruction": "Produce a list of open-ended questions that one could ask to evaluate data.",
+  "input": "",
+  "output": "- What patterns can you observe on the data?\n- What relationships exist between the data points?\n- Does the data indicate any trends or anomalies?\n- Are there any outliers in the data?\n- How can the data be visualized in an effective way?\n- What are the potential implications of the data?\n- Are there any areas that require further investigation?\n- How would the data change if a different approach were taken?\n- What predictive action can be taken based on the data?\n- How could the data be used to inform decision-making?\n- Are there any gaps in the data that should be filled?\n- What are the limitations of the data?\n- Which sources of data should be included for better accuracy?\n- Does the data adhere to ethical standards for its use?\n- Are there any areas where additional data collection might be beneficial?\n- Are there any correlations between variables?\n- Does the data reflect any underlying biases?\n- What kind of trends are emerging from the data?\n- Do any of the data points contradict each other?\n- Are any of the data points unexpected or inconclusive?\n- What factors might have caused changes in the data over time?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "78e13004-af4c-4030-9b89-117e8aeb4ff8",
+  "instruction": "Determine the cost of shipping a package from New York to Chicago.",
+  "input": "Package weight: 10 lbs",
+  "output": "The cost of shipping a 10 lb package from New York to Chicago will be approximately $29.90.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

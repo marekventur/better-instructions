@@ -1,0 +1,12 @@
+{
+  "id": "a7cf25ad-2d38-49f3-9cdd-27f10db0291d",
+  "instruction": "Explain how Facebook determines what posts display on a user's newsfeed.",
+  "input": "",
+  "output": "Facebook uses a complex algorithm that takes into account several factors to determine which posts should be shown in a user's newsfeed. These factors include the type of content, who posted it and how recently the post was made, the user's preferences and interactions with posts, the interactions between other users on the post, and more. Facebook also takes into account posts from the user's connections, as well as sponsored posts.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

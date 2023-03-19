@@ -1,0 +1,12 @@
+{
+  "id": "4d682cb0-08c3-4d67-8e71-4a40f243b351",
+  "instruction": "Explain what is meant by the circle of fifths.",
+  "input": "",
+  "output": "The circle of fifths is a musical diagram which maps out all the different key signatures and their respective relationships to one another, by arranging them in a circle with the key of C in the center. It is based on the fact that when going in a clockwise direction, each successive key is a fifth higher than the previous one. This enables musicians to quickly work out the relationships between the different key signatures, which can be helpful in composition and arranging music.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

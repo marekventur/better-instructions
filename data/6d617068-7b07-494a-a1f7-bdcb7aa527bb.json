@@ -1,0 +1,12 @@
+{
+  "id": "6d617068-7b07-494a-a1f7-bdcb7aa527bb",
+  "instruction": "Classify the following object as a mammal, a fish, a reptile, or a bird: Humpback whale.",
+  "input": "",
+  "output": "Mammal",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

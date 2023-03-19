@@ -1,0 +1,12 @@
+{
+  "id": "9430bc14-39be-4546-b684-26206fbd5ec4",
+  "instruction": "Name three common validation techniques used in Machine Learning.",
+  "input": "",
+  "output": "Three common validation techniques used in Machine Learning are K-Fold Cross Validation, Leave One Out Cross Validation, and Hold Out Validation. K-Fold Cross Validation is a technique where data is divided into subsets of training and test data. Leave One Out Cross Validation is a type of resampling technique where a single data sample is used for testing and the remaining samples are used for training. Hold Out Validation is a technique where a fixed percentage of the data is used for testing, while the remaining data is used for training.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

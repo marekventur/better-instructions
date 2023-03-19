@@ -1,0 +1,12 @@
+{
+  "id": "0a649615-ea7b-4ff2-9243-ecd1506aa8e8",
+  "instruction": "Given two animals, create a alliterative phrase to describe them.",
+  "input": "tiger, tree",
+  "output": "Terrific Tiger, Tremendous Tree.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

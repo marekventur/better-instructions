@@ -1,0 +1,12 @@
+{
+  "id": "95bb8791-3008-4550-a8a4-ee798bf60a2f",
+  "instruction": "Identify which version of the following book is newer.",
+  "input": "Book 1: First Edition, Published in 1995\nBook 2: Revised Edition, Published in 2003",
+  "output": "The Revised Edition of the book, published in 2003, is the newer version.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

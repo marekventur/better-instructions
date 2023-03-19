@@ -1,0 +1,12 @@
+{
+  "id": "3113944b-d224-4f19-9e83-3c750255902b",
+  "instruction": "Calculate the total price including sales tax for the item purchased.",
+  "input": "Item price: $50\nSales tax: 8.875%",
+  "output": "The total price including sales tax is $54.44.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

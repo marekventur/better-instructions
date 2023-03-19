@@ -1,0 +1,12 @@
+{
+  "id": "d13bb9e4-057e-4a31-a733-3827e957c95e",
+  "instruction": "Identify the functions of table columns \"age\" and \"salary\".",
+  "input": "",
+  "output": "The \"age\" column provides information on the age of a person or entity. It indicates the amount of time that person/entity has had experience or been alive. The \"salary\" column indicates the amount of money a person earns. It is typically used to compare job titles and ensure that employees are paid commensurate with their level of experience.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

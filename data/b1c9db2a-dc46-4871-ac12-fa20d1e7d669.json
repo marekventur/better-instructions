@@ -1,0 +1,12 @@
+{
+  "id": "b1c9db2a-dc46-4871-ac12-fa20d1e7d669",
+  "instruction": "Calculate each department\u2019s budget-to-salary ratio",
+  "input": "Given two tables: instructor, department.",
+  "output": "SELECT d.name, (d.budget/ SUM(i.salary)) as budget_salary_ratio FROM instructor i JOIN department d ON i.dept_name = d.name GROUP BY i.dept_name;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

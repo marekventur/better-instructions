@@ -1,0 +1,12 @@
+{
+  "id": "c193ae0e-4cde-46ee-bad8-e924af7ff53e",
+  "instruction": "Formulate a query to find all the documents containing the term public health.",
+  "input": "",
+  "output": "SELECT * FROM Documents WHERE document_text LIKE '%public health%';",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

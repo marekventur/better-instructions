@@ -1,0 +1,12 @@
+{
+  "id": "ece362db-d4f9-4b04-a349-90f95cb32bd3",
+  "instruction": "Generate a list of five reasons why plastic straws are bad for the environment.",
+  "input": "",
+  "output": "1. Plastic straws are not biodegradable and can take hundreds of years to decompose. \n2. Plastic straws are a significant source of plastic pollution and are designed for single-use.\n3. Plastic straws are often too lightweight to be recycled.\n4. Plastic straws can contribute to the spread of oceanic micro-plastics, which adversely affect marine life.\n5. The production of plastic straws requires fossil fuels, which can contribute to global climate change.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

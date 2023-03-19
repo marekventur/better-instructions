@@ -1,0 +1,12 @@
+{
+  "id": "3ac8e5ef-44ac-45b3-9e22-45d17cc072c6",
+  "instruction": "Insert one sentence into the following paragraph to improve the flow:",
+  "input": "Cats and dogs are the two most common types of pet. They provide a different set of benefits to their owners.",
+  "output": "Cats and dogs are the two most common types of pet, which offer a variety of advantages to their owners. They provide company, affection and exercise as well as help to promote mental and physical wellbeing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

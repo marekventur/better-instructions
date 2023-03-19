@@ -1,0 +1,12 @@
+{
+  "id": "c63c9a78-004a-43dd-82f6-e11e75fcb298",
+  "instruction": "Construct a program to predict the stock trend of a given company over the next 12 months.",
+  "input": "",
+  "output": "def stock_trend_prediction(company):\n  # code to collect company data  \n  # code for feature engineering \n  # code for machine-learning algorithm\n  \n  prediction = algorithm.predict(company_data)\n  return prediction",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

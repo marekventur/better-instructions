@@ -1,0 +1,12 @@
+{
+  "id": "4f2effb3-2258-4b4a-aad7-91ce44310b6b",
+  "instruction": "You are required to analyze the following financial statement for any discrepancies.",
+  "input": "The following financial statement includes total revenue of $13,000, total expenses of $10,000, and net income of $3,000.",
+  "output": "After conducting an analysis of the financial statement, I verified that the total revenue, total expenses, and net income all match. There were no discrepancies found.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

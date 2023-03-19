@@ -1,0 +1,12 @@
+{
+  "id": "7222f06d-aa2f-4286-8d83-52c2f1ecdd6a",
+  "instruction": "After reading the following passage, describe how the protagonist should handle the situation.",
+  "input": "John is facing a difficult dilemma. His mother and father are at odds and he needs to choose a side.",
+  "output": "John should try to remain impartial, but it is likely that he will have to choose a side eventually. He should think carefully about both sides of the argument and try to come up with a compromise that satisfies both of his parents and takes into account their feelings. He should be sure to communicate clearly and offer his support to whoever he ultimately chooses to back.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

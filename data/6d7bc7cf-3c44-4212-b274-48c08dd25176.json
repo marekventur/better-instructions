@@ -1,0 +1,12 @@
+{
+  "id": "6d7bc7cf-3c44-4212-b274-48c08dd25176",
+  "instruction": "Sort a list of items alphabetically.",
+  "input": "apple, banana, orange, grape",
+  "output": "apple, banana, grape, orange",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

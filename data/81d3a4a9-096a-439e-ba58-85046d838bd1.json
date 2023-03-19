@@ -1,0 +1,12 @@
+{
+  "id": "81d3a4a9-096a-439e-ba58-85046d838bd1",
+  "instruction": "Delete the words in parentheses.",
+  "input": "The (very) old man walked slowly.",
+  "output": "The old man walked slowly.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

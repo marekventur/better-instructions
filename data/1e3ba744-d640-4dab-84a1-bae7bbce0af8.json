@@ -1,0 +1,12 @@
+{
+  "id": "1e3ba744-d640-4dab-84a1-bae7bbce0af8",
+  "instruction": "Find the mean of the following array of numbers: [2, 5, 7, 9, 11]",
+  "input": "[2, 5, 7, 9, 11]",
+  "output": "The mean of the array is 7.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

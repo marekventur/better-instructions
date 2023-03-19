@@ -1,0 +1,12 @@
+{
+  "id": "607530db-545b-4259-a6d5-a06f5d7e274a",
+  "instruction": "You are given two lists. Find all the items that are in both lists.",
+  "input": "List 1: Apples, Bananas, Peaches\nList 2: Lemons, Oranges, Apples",
+  "output": "The items that are in both lists are Apples.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

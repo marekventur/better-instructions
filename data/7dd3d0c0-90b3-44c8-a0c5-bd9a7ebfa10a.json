@@ -1,0 +1,12 @@
+{
+  "id": "7dd3d0c0-90b3-44c8-a0c5-bd9a7ebfa10a",
+  "instruction": "Make a clear statement regarding the given information.",
+  "input": "Current polls suggest that Joe Biden is the favorite to win the upcoming election.",
+  "output": "Joe Biden is projected to win the upcoming election according to current polls.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

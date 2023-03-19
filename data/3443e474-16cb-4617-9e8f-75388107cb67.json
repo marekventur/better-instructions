@@ -1,0 +1,12 @@
+{
+  "id": "3443e474-16cb-4617-9e8f-75388107cb67",
+  "instruction": "Take the following sentence and fix the spelling and grammar errors",
+  "input": "I went to their house, but there was noboby home",
+  "output": "I went to their house, but there was nobody home.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

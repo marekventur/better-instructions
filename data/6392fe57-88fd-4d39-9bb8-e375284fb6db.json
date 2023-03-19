@@ -1,0 +1,12 @@
+{
+  "id": "6392fe57-88fd-4d39-9bb8-e375284fb6db",
+  "instruction": "Identify if the phrase contains an emotional sentiment.",
+  "input": "I don't understand why this always happens to me.",
+  "output": "Yes",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

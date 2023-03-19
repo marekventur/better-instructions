@@ -1,0 +1,12 @@
+{
+  "id": "93a055e3-dbff-4caf-bfe6-4fe0ae06c23a",
+  "instruction": "Identify the mistakes in the given sentence and explain why it is wrong",
+  "input": "The man had bought a horse but the horse wasn't good",
+  "output": "The sentence is grammatically incorrect. The correct sentence should be \"The man had bought a horse, but the horse was not good\". The mistake is the use of \"wasn't\" instead of \"was not\". This is incorrect because \"wasn't\" is the incorrect form of \"was not\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

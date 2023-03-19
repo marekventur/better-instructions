@@ -1,0 +1,12 @@
+{
+  "id": "d6fc6e65-2ffe-4900-8ce9-69c7d6ca5c0c",
+  "instruction": "Label the words in bold.",
+  "input": "Cats are known to be very agile and playful animals.",
+  "output": "Cats are known to be very agile and playful <adjectives>.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

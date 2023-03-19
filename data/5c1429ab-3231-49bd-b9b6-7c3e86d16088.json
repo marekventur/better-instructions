@@ -1,0 +1,12 @@
+{
+  "id": "5c1429ab-3231-49bd-b9b6-7c3e86d16088",
+  "instruction": "Analyze the given sentence and identify if it is a compound sentence",
+  "input": "She had been studying the paper for more than two hours but had not completed the task.",
+  "output": "Yes, this is a compound sentence as it contains two independent clauses linked by the conjunction 'but'.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

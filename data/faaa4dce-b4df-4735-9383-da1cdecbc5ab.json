@@ -1,0 +1,12 @@
+{
+  "id": "faaa4dce-b4df-4735-9383-da1cdecbc5ab",
+  "instruction": "Sort the following list of numbers into a numerical sequence from smallest to largest: 7, -3, 39, 0, 100",
+  "input": "",
+  "output": "-3, 0, 7, 39, 100",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

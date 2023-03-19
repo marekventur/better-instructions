@@ -1,0 +1,12 @@
+{
+  "id": "3c84b5c5-cc81-4154-873c-5c3832ed857c",
+  "instruction": "Add a subject line for this email",
+  "input": "Hi, \n\nI just wanted to reach out and see if you're interested in hearing about our new product.",
+  "output": "Subject Line: Interested in learning about our new product?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

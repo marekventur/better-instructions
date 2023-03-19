@@ -1,0 +1,12 @@
+{
+  "id": "a104c717-2d86-488b-b413-76fd0cd099d5",
+  "instruction": "Provide a solution to this problem.",
+  "input": "A cyclist is biking from Point A to Point B. Along the way, he passes point C, which is one-third of the distance from A to B. At what point is the cyclist halfway to his destination?",
+  "output": "The cyclist is halfway to his destination at point C.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

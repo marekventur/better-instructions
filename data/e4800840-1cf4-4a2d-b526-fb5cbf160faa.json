@@ -1,0 +1,12 @@
+{
+  "id": "e4800840-1cf4-4a2d-b526-fb5cbf160faa",
+  "instruction": "Change the sentence using a modal verb.",
+  "input": "He should complete the project by the end of the month.",
+  "output": "He must complete the project by the end of the month.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

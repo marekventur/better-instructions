@@ -1,0 +1,12 @@
+{
+  "id": "9fe98f10-c12c-4cea-a573-18ca79f9c994",
+  "instruction": "Analyze the following political statement and determine its accuracy.",
+  "input": "Many people agree that the current president has been a successful leader.",
+  "output": "The accuracy of the statement depends on one's political views. Some people may agree with it while others may not.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

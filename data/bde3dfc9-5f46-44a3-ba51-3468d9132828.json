@@ -1,0 +1,12 @@
+{
+  "id": "bde3dfc9-5f46-44a3-ba51-3468d9132828",
+  "instruction": "Write a function to calculate the price of a product with taxes.",
+  "input": "price = 100, tax rate = 0.2",
+  "output": "const calculatePrice = (price, taxRate) => {\n   return (price * (1+taxRate)).toFixed(2);\n} \n\ncalculatePrice(100, 0.2) // 1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

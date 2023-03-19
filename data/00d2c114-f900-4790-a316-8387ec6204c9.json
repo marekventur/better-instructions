@@ -1,0 +1,12 @@
+{
+  "id": "00d2c114-f900-4790-a316-8387ec6204c9",
+  "instruction": "Compile a list of all the verbs included in the text",
+  "input": "The old man ran to the store and sat down in the chair",
+  "output": "ran, sat",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

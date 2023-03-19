@@ -1,0 +1,12 @@
+{
+  "id": "d8594064-b238-42ad-bf51-9f4a015bf8a5",
+  "instruction": "Input two short sentences and generate a longer sentence that combines them into one.",
+  "input": "He was nervous. His palms were sweaty.",
+  "output": "He was nervous and his palms were sweaty as he prepared for the big moment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

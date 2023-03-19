@@ -1,0 +1,12 @@
+{
+  "id": "185f19dd-7b22-405b-a19e-a09d19c78820",
+  "instruction": "Generate a set of multiple choice questions from the given article.",
+  "input": "Article: Eating Insects as a Sustainable Food Source\n\nInsects have long been consumed for sustenance in many parts of the world and may become an important food source for the world\u2019s growing population. Insects are high in protein and provide essential vitamins, minerals, and fatty acids known to be beneficial for health, making them a more sustainable option than conventional animal flesh. Insects like crickets and mealworms can be raised and harvested with fewer resources than required for cows, sheep, and poultry, and with a lower environmental impact due to lower water and feed requirements.",
+  "output": "Q1. What are some of the benefits of eating insects as a food source?\nA. They are high in protein and provide essential vitamins, minerals, and fatty acids. \nB. They require fewer resources and have a lower environmental impact than conventional animal flesh.\nC. They are better for overall health than other forms of food.\nD. All of the above.\n\nQ2. Which animals require more resources and have a higher environmental impact to raise and harvest than insects?\nA. Crickets and mealworms\nB. Chickens and turkeys\nC. Pigs and cows\nD. Rabbits and goats",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

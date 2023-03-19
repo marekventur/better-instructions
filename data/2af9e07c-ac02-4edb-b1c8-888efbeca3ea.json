@@ -1,0 +1,12 @@
+{
+  "id": "2af9e07c-ac02-4edb-b1c8-888efbeca3ea",
+  "instruction": "Convert a phrase into a question.",
+  "input": "She is learning about the rainforest.",
+  "output": "What is she learning about the rainforest?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

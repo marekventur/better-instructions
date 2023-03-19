@@ -1,0 +1,12 @@
+{
+  "id": "adba0b6a-a32c-4dbf-b719-f7d9cff0b512",
+  "instruction": "Link the person's name, email address, age and gender in the following table.",
+  "input": "Person A | Alice Jones | alice@email.com | 30 | Female \nPerson B | John Smith | john@email.com | 25 | Male",
+  "output": "Alice Jones (Female, 30) - alice@email.com \nJohn Smith (Male, 25) - john@email.com",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

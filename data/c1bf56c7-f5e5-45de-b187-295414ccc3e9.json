@@ -1,0 +1,12 @@
+{
+  "id": "c1bf56c7-f5e5-45de-b187-295414ccc3e9",
+  "instruction": "Write a web crawler program that collects all posts from a given website.",
+  "input": "",
+  "output": "The web crawler program should be able to scan the website and collect any posts from the given website. It should also be able to store the posts in a database for further analysis. The program should be able to traverse the website by following internal links to other pages and identify new posts to be collected.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

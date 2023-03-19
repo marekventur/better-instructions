@@ -1,0 +1,12 @@
+{
+  "id": "deb030fc-2bd4-4976-afe3-f30fda459f4f",
+  "instruction": "Summarize the key points of the book \"The Three Musketeers\" in 3 sentences or less.",
+  "input": "",
+  "output": "The Three Musketeers is an adventure story set in the 17th century France, featuring the brave and loyal heroes, Athos, Aramis, and Porthos. Throughout the book they fight against injustices, protect those in need, and take on dangerous missions while pursued by the evil Cardinal Richelieu. Finally, they achieve justice, triumph over their enemies and reaffirm their loyalty to one another.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

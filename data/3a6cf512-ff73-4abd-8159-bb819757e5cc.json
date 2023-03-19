@@ -1,0 +1,12 @@
+{
+  "id": "3a6cf512-ff73-4abd-8159-bb819757e5cc",
+  "instruction": "Classify the following tweet into two categories 'sad' and 'happy'.",
+  "input": "I passed my final exam!",
+  "output": "happy",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

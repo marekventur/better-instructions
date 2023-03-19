@@ -1,0 +1,12 @@
+{
+  "id": "26805639-a73c-4e24-860a-cccd39300c59",
+  "instruction": "Given a set of two sentences, combine them into one sentence such that the output sentence still makes sense.",
+  "input": "He visited Paris. It was a long time ago.",
+  "output": "He visited Paris a long time ago.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

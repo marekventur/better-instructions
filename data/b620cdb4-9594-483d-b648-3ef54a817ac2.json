@@ -1,0 +1,12 @@
+{
+  "id": "b620cdb4-9594-483d-b648-3ef54a817ac2",
+  "instruction": "Generate three new lines for an incomplete poem.",
+  "input": "The sun rose in the sky\nBringing with it a warmth",
+  "output": "That filled the morning air\nSpreading joy and cheer\nAs far as one could see.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

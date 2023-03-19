@@ -1,0 +1,12 @@
+{
+  "id": "792d7fc1-97b1-40b3-8cbd-6eab8062fa47",
+  "instruction": "Fix this text so it follows basic grammar rules.",
+  "input": "me and my sister is shopping for clothes",
+  "output": "My sister and I are shopping for clothes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

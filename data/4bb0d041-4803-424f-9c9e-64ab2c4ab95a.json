@@ -1,0 +1,12 @@
+{
+  "id": "4bb0d041-4803-424f-9c9e-64ab2c4ab95a",
+  "instruction": "Classify this object as either living or non-living.",
+  "input": "A computer",
+  "output": "Non-living",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

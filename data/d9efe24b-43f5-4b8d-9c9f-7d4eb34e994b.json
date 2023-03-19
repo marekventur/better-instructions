@@ -1,0 +1,12 @@
+{
+  "id": "d9efe24b-43f5-4b8d-9c9f-7d4eb34e994b",
+  "instruction": "Generate a conversation between a customer and a tech support representative about resetting a password.",
+  "input": "Customer: I need to reset my password.",
+  "output": "Customer: I need to reset my password.\n\nTech Support Representative: No problem! What is the email address you use to login to your account? \n\nCustomer: It's example@example.com \n\nTech Support Representative: Great. Please give me one moment while I look up your account so that I can reset the password. \n\n[tech support searches for account, resets password]\n\nTech Support Representative: Okay, I was able to reset your password for your account. Your new password is [redacted]. Please use this password to login to your account. Do you have any other questions? \n\nCustomer: No, that's it. Thank you for your help. \n\nTech Support Representative: You're welcome! Have a great rest of your day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

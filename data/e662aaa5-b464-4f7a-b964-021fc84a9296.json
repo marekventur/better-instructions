@@ -1,0 +1,12 @@
+{
+  "id": "e662aaa5-b464-4f7a-b964-021fc84a9296",
+  "instruction": "Edit the given paragraph.",
+  "input": "The food was delicious, however, the restaurant has a poor decor.",
+  "output": "The food was delicious, but the restaurant's decor was unsatisfactory.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cc5ba1c9-6fdb-4ea0-8dc1-f73b7d520808",
+  "instruction": "Summarize the article \u201cWhat is an Algorithm?\u201d",
+  "input": "",
+  "output": "An algorithm is a set of precise instructions that are used to solve a problem or accomplish a task. It is more than a basic step-by-step list of instructions, since it must include defined processes and precise rules to be able to complete a task in the most efficient way. Algorithms can be used by computers to complete a wide variety of tasks, such as predicting and analyzing data, problem solving, and automation. Algorithms are a crucial part of computer science and technology, as they are used in almost all computer applications.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

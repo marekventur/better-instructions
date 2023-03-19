@@ -1,0 +1,12 @@
+{
+  "id": "ec305834-3e53-46fb-a81b-af7212f2eb4a",
+  "instruction": "Provide an outline to create a blog post about machine learning using the given data.",
+  "input": "Machine learning has recently become more accessible to everyone due to its open-source nature. It can help businesses automate and improve their processes significantly.",
+  "output": "1. Introduction - short overview of machine learning and how it has become more accessible to everyone due to its open-source nature\n2. Benefits of machine learning for businesses\n  - Automating processes\n  - Improved accuracy and efficiency\n  - Enhancing decision making\n  - Increased cost savings\n3. Real-life examples of successful machine learning applications\n4. Challenges of using machine learning\n5. Conclusions",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b8162dd3-6957-468b-a3fc-54e64f991463",
+  "instruction": "List three positive qualities of the person in the photo.",
+  "input": "Photo of PersonX",
+  "output": "The three positive qualities of PersonX in this photo are that he looks confident, friendly, and has a great sense of style.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

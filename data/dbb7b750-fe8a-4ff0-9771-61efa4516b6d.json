@@ -1,0 +1,12 @@
+{
+  "id": "dbb7b750-fe8a-4ff0-9771-61efa4516b6d",
+  "instruction": "Analyze the text using a sentiment analysis model to determine whether it is positive, negative or neutral.",
+  "input": "I'm really excited about the new project!",
+  "output": "Positive",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

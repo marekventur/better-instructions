@@ -1,0 +1,12 @@
+{
+  "id": "7892dc89-899d-41ff-9a34-8eecec72c80f",
+  "instruction": "Design a trading strategy for stock XYZ with at least 5 rules.",
+  "input": "",
+  "output": "1. Only buy XYZ when the stock has strong momentum i.e. if the RSI is above 50.\n2. Set a stop-loss of 10% below the purchase price.\n3. Consider the long-term trend and only buy when the stock is trending upwards.\n4. Sell when the RSI falls below 70.\n5. Implement profit-targets of at least 5% or more.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

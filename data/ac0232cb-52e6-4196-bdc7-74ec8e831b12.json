@@ -1,0 +1,12 @@
+{
+  "id": "ac0232cb-52e6-4196-bdc7-74ec8e831b12",
+  "instruction": "Given the facts, create a comprehensive survey to gather customer opinions on a new product.",
+  "input": "The new product is a bicycle geared towards beginners.",
+  "output": "We would greatly appreciate your opinion on a new product that is geared towards beginner cyclists. Please complete the following survey to help us understand how to better serve your needs. \n\n1. How familiar are you with cycling?\na. Highly familiar \nb. Somewhat familiar \nc. Not very familiar \n\n2. Are you considering purchasing a beginner bicycle?\na. Definitely \nb. Maybe \nc. Not sure \n\n3. What features are most important to you in a beginner bicycle?\na. Price \nb. Weight\nc. Durability \nd. Comfort \ne. Design \n\n4. What is the maximum amount you would be willing to pay for a beginner bicycle?\n\n5. How important is customer service in your decision to purchase a beginner bicycle?\na. Highly important \nb. Somewhat important \nc. Not important  \n\n6. Do you have any other thoughts or opinions about beginner bicycles?\n\nThank you for taking the time to complete this survey. Your feedback is invaluable and will help us provide the best product for beginner cyclists.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

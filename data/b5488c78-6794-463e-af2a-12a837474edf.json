@@ -1,0 +1,12 @@
+{
+  "id": "b5488c78-6794-463e-af2a-12a837474edf",
+  "instruction": "Determine the area of the triangle with the following dimensions.",
+  "input": "Base: 5 cm\nHeight: 4 cm",
+  "output": "10 cm\u00b2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

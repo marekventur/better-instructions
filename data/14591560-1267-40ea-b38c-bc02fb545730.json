@@ -1,0 +1,12 @@
+{
+  "id": "14591560-1267-40ea-b38c-bc02fb545730",
+  "instruction": "Given a list of words and descriptions, categorize the words into two distinct groups.",
+  "input": "Pluto \u2014 dwarf planet\nHelium \u2014 chemical element\nUranus \u2014 planet\nTitanium \u2014 chemical element",
+  "output": "Group 1: Pluto, Uranus\nGroup 2: Helium, Titanium.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "06b26c5a-6cb9-405a-b93c-9025fb255bf4",
+  "instruction": "According to the given context, classify the following sentence into whether it is true or false",
+  "input": "Context: Life can be unfair\nSentence: Life should always be fair",
+  "output": "False",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

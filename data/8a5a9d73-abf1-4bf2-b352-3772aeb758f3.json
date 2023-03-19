@@ -1,0 +1,12 @@
+{
+  "id": "8a5a9d73-abf1-4bf2-b352-3772aeb758f3",
+  "instruction": "Write a thank-you note given the context below.",
+  "input": "Recipient: Your friend \nContext: She recently took you out to lunch and paid",
+  "output": "Dear Friend, \n\nI wanted to take this opportunity to thank you for taking me out to lunch and for graciously paying the bill. I had a great time catching up and I appreciate your kind gesture. \n\nTake care,\n[Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

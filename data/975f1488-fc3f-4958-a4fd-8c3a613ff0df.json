@@ -1,0 +1,12 @@
+{
+  "id": "975f1488-fc3f-4958-a4fd-8c3a613ff0df",
+  "instruction": "Select the verb that describes the action in the following sentence.",
+  "input": "They welcomed the visitors.",
+  "output": "Welcomed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

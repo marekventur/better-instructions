@@ -1,0 +1,12 @@
+{
+  "id": "c2928320-acfd-4bc4-a864-a82ca1d5fc23",
+  "instruction": "Identify the appropriate homophone for the highlighted word.",
+  "input": "The heiress wore a expensive suite to the wedding.",
+  "output": "The heiress wore an expensive suit to the wedding.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

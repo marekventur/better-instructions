@@ -1,0 +1,12 @@
+{
+  "id": "abb427a1-cd3a-4763-8c22-0b8e746f52ea",
+  "instruction": "Generate a variable to store the following number",
+  "input": "258",
+  "output": "x = 258",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2a330ba5-a69c-4359-a4a4-f19eab456300",
+  "instruction": "Make an inference about the following text.",
+  "input": "The car had just been washed and the sun shone brightly on its shiny surfaces.",
+  "output": "The car looked brand new after the washing.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

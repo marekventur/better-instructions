@@ -1,0 +1,12 @@
+{
+  "id": "d4058c3a-d997-4bc4-b72f-bd6c3f38ae6a",
+  "instruction": "How does Newton's Second Law of Motion apply to a rocking chair?",
+  "input": "",
+  "output": "Newton's Second Law of Motion states that the force applied to an object is equal to the product of its mass and acceleration caused by that force. In a rocking chair, the force applied is when the occupant pushes off the ground, causing the it to accelerate in the opposite direction due to inertia. The resulting acceleration of the chair is then proportional to the momentum created by the force.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

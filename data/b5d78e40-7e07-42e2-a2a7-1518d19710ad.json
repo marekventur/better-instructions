@@ -1,0 +1,12 @@
+{
+  "id": "b5d78e40-7e07-42e2-a2a7-1518d19710ad",
+  "instruction": "Create a storyboard for the given case study",
+  "input": "Case study describing a successful project",
+  "output": "Storyboard:\n\n1. Establish the context - Introduce the problem faced by the company and described the project plan. \n\n2. Execute the plan - Show how the team implemented the project in order to solve the problem.\n\n3. Reflect on the results - Show the positive outcome of the project. \n\n4. Highlight the progress - Show how this project has impacted the company's bottom line. \n\n5. Celebrate success - Show the celebration of the successful project.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bf549212-746b-49e9-9d9c-7913de1b15d5",
+  "instruction": "Take the input text \"The quick brown fox\" and apply the Caesar Cipher algorithm with a key of 5",
+  "input": "The quick brown fox",
+  "output": "Xli tmzi ytwnl ksi",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

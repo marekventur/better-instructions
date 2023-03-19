@@ -1,0 +1,12 @@
+{
+  "id": "7b46055c-9387-476e-b96a-89039d0888fe",
+  "instruction": "Find the total amount of numbers from the given text.",
+  "input": "Forty-nine people attended the conference in 2019.",
+  "output": "2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

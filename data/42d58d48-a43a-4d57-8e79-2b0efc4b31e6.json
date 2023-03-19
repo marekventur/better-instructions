@@ -1,0 +1,12 @@
+{
+  "id": "42d58d48-a43a-4d57-8e79-2b0efc4b31e6",
+  "instruction": "Suggest one action to improve the performance of a given algorithm.",
+  "input": "k-Means Clustering",
+  "output": "To improve the performance of k-Means Clustering, one could try different clustering algorithms such as introduction of fuzzy clustering or hierarchical clustering in combination with k-means clustering.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

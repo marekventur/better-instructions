@@ -1,0 +1,12 @@
+{
+  "id": "f49b8b23-c0e4-4381-becf-d98a987301fa",
+  "instruction": "Design a program to calculate the distance between two points.",
+  "input": "Point 1: (x1,y1), Point 2: (x2,y2)",
+  "output": "//Function to calculate the distance\ndef calculate_distance(x1, y1, x2, y2): \n    dist = ((x2 - x1)**2 + (y2 - y1)**2)**0.5 \n    return dist \n\n# Driver code \nx1 = 2\ny1 = 3\nx2 = 10\ny2 = 20\n\n# Calculate distance \nd = calculate_distance(x1, y1, x2, y2) \nprint(\"Distance between two points is:\", d)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

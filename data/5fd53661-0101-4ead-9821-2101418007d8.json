@@ -1,0 +1,12 @@
+{
+  "id": "5fd53661-0101-4ead-9821-2101418007d8",
+  "instruction": "Write a query to pull the last 5 products added to the table.",
+  "input": "",
+  "output": "SELECT * FROM products ORDER BY productID DESC LIMIT 5;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

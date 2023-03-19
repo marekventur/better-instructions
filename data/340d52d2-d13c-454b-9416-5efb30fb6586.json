@@ -1,0 +1,12 @@
+{
+  "id": "340d52d2-d13c-454b-9416-5efb30fb6586",
+  "instruction": "Create a holiday itinerary that visits the following three cities.",
+  "input": "Delhi, India, Siem Reap, Cambodia, and Tokyo, Japan",
+  "output": "Day 1: \n- Arrive in Delhi, India and check into your accommodation.\n- Start your exploration of the city with a visit to Red Fort and Qutab Minar. \n- Wander around the markets of Chandni Chowk. \n\nDay 2: \n- Visit the riverside green spaces of Humayun's Tomb and the Lotus Temple.\n- Enjoy the best street food the city of Delhi has to offer. \n\nDay 3: \n- Take the flight to Siem Reap, Cambodia and check into your hotel. \n- Start the day with a guided tour to the majestic Angkor Wat. \n- Get a closer look at the beautiful architecture of Angkor Thom. \n\nDay 4: \n- Visit the temples of Ta Prohm and Preah Khan. \n- In the evening, enjoy a Khmer dinner with Apsara dance entertainment. \n\nDay 5: \n- Take the flight to Tokyo and check into your hotel. \n- Enjoy the unique view of Tokyo's skyline from Tokyo Skytree.\n- Stroll around the Shinjuku neighborhood and try the local eateries. \n\nDay 6: \n- Spend the day visiting some of the vibrant shopping areas at Harajuku and Shibuya. \n- Enjoy the local cuisine \u2013 from sushi bars to ramen shops. \n\nDay 7: \n- Visit the Sun City Tokyo, a theme park located on the roof of a multi-storey shopping mall.\n- Visit the Daikanyama and Naka-Meguro neighborhoods for some shopping. \n- Visit the Sensoji Temple and the Tsukiji Fish Market.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

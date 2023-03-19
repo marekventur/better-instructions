@@ -1,0 +1,12 @@
+{
+  "id": "02e61be4-a265-4792-87c5-fc1d11783b70",
+  "instruction": "Create a data model for a shopping cart.",
+  "input": "",
+  "output": "A Shopping Cart data model should include the following attributes: \n- User details (name, email address, etc.) \n- Product details (name, image, description, etc.) \n- Shopping cart details (price, quantity, item total, shipping costs, etc.) \n- Payment method \n- Billing information \n- Delivery address \n- Tax details \n- Order status \n- Order confirmation details",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

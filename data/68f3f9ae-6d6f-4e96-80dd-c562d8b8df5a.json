@@ -1,0 +1,12 @@
+{
+  "id": "68f3f9ae-6d6f-4e96-80dd-c562d8b8df5a",
+  "instruction": "Explain the process of mitosis in 200 words.",
+  "input": "",
+  "output": "Mitosis is a process of cell division that creates similarly genetically identical daughter cells from a single parent cell. It consists of four main stages which are prophase, metaphase, anaphase, and telophase. \n\nIn prophase, the chromosomes condense and the nuclear membrane begins to break down. Microtubules attach to each chromosome at their centromeres in order to form the mitotic spindle. \n\nIn metaphase, the chromosomes line up along the equatorial plane in the middle of the spindle. \n\nIn anaphase, the microtubules attached to each chromatid pull on the sister chromatids in opposite directions. This results in the separation of the chromatids and the movement of the chromosomes to the opposite poles of the spindle. \n\nIn telophase, the chromosomes move to the poles of the spindle. The nuclear membrane reforms and the chromatids begin to relax and decondense. Ultimately, cytoplasm splits and the cell is divided into two daughter cells that are identical to the parent cell. \n\nMitosis is an essential process for cell growth and the survival of single-celled organisms. It is also essential for tissue and organ growth and repair.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

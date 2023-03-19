@@ -1,0 +1,12 @@
+{
+  "id": "a55616c8-e9de-4ad5-8755-e3712cae88e4",
+  "instruction": "Generate a regex expression to match any usernames with alphanumeric characters.",
+  "input": "NA",
+  "output": "^[a-zA-Z0-9]+$",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

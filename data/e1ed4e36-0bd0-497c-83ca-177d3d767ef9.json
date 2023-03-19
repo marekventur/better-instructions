@@ -1,0 +1,12 @@
+{
+  "id": "e1ed4e36-0bd0-497c-83ca-177d3d767ef9",
+  "instruction": "Suppose you want to buy a car. Compare two cars based on the given criteria and make a final decision.",
+  "input": "Car A: 2019 Toyota Corolla\nCar B: 2019 Ford Focus\nCriteria: Price, Fuel economy, Technology features",
+  "output": "The 2019 Toyota Corolla is more expensive than the 2019 Ford Focus but offers better fuel economy. The Ford Focus includes advanced technology features such as touchscreen display with Apple CarPlay and Android Auto as well as blind spot monitoring and rear cross-traffic alert, while the Toyota Corolla comes with cruise control, automatic headlights, and Toyota Safety Sense. Considering both price and features, the 2019 Ford Focus is likely the best choice given the budget.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

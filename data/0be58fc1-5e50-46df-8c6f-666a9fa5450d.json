@@ -1,0 +1,12 @@
+{
+  "id": "0be58fc1-5e50-46df-8c6f-666a9fa5450d",
+  "instruction": "Categorize the given object into one of the given categories.",
+  "input": "Object: Book\nCategories: Furniture and Literature",
+  "output": "Literature.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

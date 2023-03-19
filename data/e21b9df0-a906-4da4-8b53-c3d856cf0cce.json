@@ -1,0 +1,12 @@
+{
+  "id": "e21b9df0-a906-4da4-8b53-c3d856cf0cce",
+  "instruction": "Train a neural network to accurately classify different types of animals.",
+  "input": "",
+  "output": "A neural network can be trained to accurately classify different types of animals using supervised learning techniques. To train the network, a dataset of animal images should be provided and labeled with the corresponding classes. The dataset should be divided into training and testing sets in order to assess the performance of the network. The neural network should then be trained on the training set, using a learning objective such as maximum accuracy. Finally, the network's accuracy can be evaluated on the testing set.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4bbca6b2-1081-48b6-b306-af282a7d7049",
+  "instruction": "Add singular and plural forms of bullfrog to the following sentence: \"The bullfrogs and the ___ hopped quickly away.\"",
+  "input": "",
+  "output": "The bullfrogs and the bullfrogs hopped quickly away.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

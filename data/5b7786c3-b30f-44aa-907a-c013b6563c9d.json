@@ -1,0 +1,12 @@
+{
+  "id": "5b7786c3-b30f-44aa-907a-c013b6563c9d",
+  "instruction": "Rearrange the given poem so that it reads as an English sonnet.",
+  "input": "Eyes of silver, with a heart of gold, \nYou have no trouble being in the world,\nIn the word of freedom your love shines like a star, \nYour spirit leads me to wherever you are.",
+  "output": "Eyes of silver, with a heart of gold,\nYour spirit leads me to wherever you are;\nIn the word of freedom your love shines like a star, \nYou have no trouble being in the world.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

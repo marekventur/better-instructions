@@ -1,0 +1,12 @@
+{
+  "id": "87cac318-787c-4873-aa88-e4206f8d3e0c",
+  "instruction": "Generate a machine learning algorithm to predict the outcome of a rock, paper, scissors game.",
+  "input": "",
+  "output": "A possible machine learning algorithm for predicting the outcome of a rock-paper-scissors game is the Naive Bayes classifier. This algorithm works by analyzing the data of past games and using the data to build a model that can predict the winner of future games.\n\nThe algorithm looks at all the predictors present in past games, such as the player's choice, the opponent's choice, and the outcome of the game, to determine which predictors are most significant in the success of a player. The algorithm then creates a model based on these predictors and uses it to recognize patterns in the data that can be used to accurately predict the winner of a rock-paper-scissors game.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

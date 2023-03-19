@@ -1,0 +1,12 @@
+{
+  "id": "e9e6efe8-d93e-48b2-8fa2-451d935292f7",
+  "instruction": "Send a reply to this customer email",
+  "input": "Dear Rebecca,\n\nI'm writing to let you know that the books I ordered from your site have not arrived yet.\n\nSincerely,\nJacob",
+  "output": "Dear Jacob, \n\nThank you for bringing this to our attention. We apologize for the late delivery of your books and are doing our best to get them shipped to you as soon as possible. \n\nIf there is anything else that we can help with, please do not hesitate to contact us. \n\nSincerely,\nRebecca",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

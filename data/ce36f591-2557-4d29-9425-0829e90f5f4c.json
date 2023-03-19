@@ -1,0 +1,12 @@
+{
+  "id": "ce36f591-2557-4d29-9425-0829e90f5f4c",
+  "instruction": "Find thebug in the following code and suggest a fix.",
+  "input": "def add_two_numbers(x, y):\n    x + y",
+  "output": "The bug in the code is that the function does not return the sum of two numbers. To fix this, we can add a return statement to the function: \n\ndef add_two_numbers(x, y):\n    return x + y",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

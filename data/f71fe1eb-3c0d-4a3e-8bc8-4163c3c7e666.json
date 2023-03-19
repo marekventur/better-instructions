@@ -1,0 +1,12 @@
+{
+  "id": "f71fe1eb-3c0d-4a3e-8bc8-4163c3c7e666",
+  "instruction": "Explain why this algorithm works.",
+  "input": "def binary_search(list, target):\n  lower = 0 \n  upper = len(list) - 1\n    \n  while lower <= upper: \n    mid = (lower + upper) // 2  # Floor Division\n    guess = list[mid]\n    if guess == target:\n      return mid\n    if guess > target:\n      upper = mid - 1\n    else: \n      lower = mid + 1\n \n  return None",
+  "output": "This algorithm works by using a divide and conquer approach. It begins by dividing the given list into two parts and finds a tuned position by repeatedly halving the list until the target element is found. This approach is advantageous because it greatly reduces the number of comparisons required to find the target value. If the element is not found, upper and lower bounds for the search become equal, meaning the element does not exist in the list. Hence, the algorithm is guaranteed to find the target (if it exists) or return None if it does not exist.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

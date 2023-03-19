@@ -1,0 +1,12 @@
+{
+  "id": "31bb70f8-1ec8-4f42-924b-05268cd9e4a3",
+  "instruction": "Compare the climate of two cities.",
+  "input": "Tokyo and New York",
+  "output": "Tokyo has significantly warmer temperatures compared to New York, it also has more humid weather due to its proximity to the ocean, while New York has cooler temperatures and less humidity.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

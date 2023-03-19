@@ -1,0 +1,12 @@
+{
+  "id": "7cada6e1-6523-436b-89dd-24949de9438a",
+  "instruction": "Given a description of the symptom, suggest the best way to manage it.",
+  "input": "I am feeling fatigue and exhaustion all the time.",
+  "output": "It is best to get enough sleep, eat nutritious food, and manage stress levels in order to manage fatigue and exhaustion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a472b713-6dd1-4305-b576-9dd26af9332a",
+  "instruction": "Explain the differences between two different things.",
+  "input": "Differences between customer service and customer support.",
+  "output": "The main difference between customer service and customer support is that customer service is focused on engaging customers and providing assistance based on their needs, whereas customer support is focused on problem solving and providing technical assistance. Customer service focuses on building customer relationships, whereas customer support focuses on resolving technical issues. Customer service is proactive and customer support is reactive. Customer service is more customer-facing and customer support is more technology-focused.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

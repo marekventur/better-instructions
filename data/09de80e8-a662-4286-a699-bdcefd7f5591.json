@@ -1,0 +1,12 @@
+{
+  "id": "09de80e8-a662-4286-a699-bdcefd7f5591",
+  "instruction": "Categorize the given observations into either science or pseudoscience.",
+  "input": "- Homeopathy\n- Quantum physics",
+  "output": "Homeopathy is pseudoscience, while quantum physics is science.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

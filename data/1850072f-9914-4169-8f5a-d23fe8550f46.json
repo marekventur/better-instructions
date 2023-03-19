@@ -1,0 +1,12 @@
+{
+  "id": "1850072f-9914-4169-8f5a-d23fe8550f46",
+  "instruction": "Shorten the following tweet to less than 140 characters.",
+  "input": "I just finished writing my first article for a magazine and it's been one of the most rewarding experiences I've ever had.",
+  "output": "I just wrote my first magazine article. It was amazing! #Writing #RewardingExperience",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

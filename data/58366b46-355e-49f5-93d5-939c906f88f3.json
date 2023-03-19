@@ -1,0 +1,12 @@
+{
+  "id": "58366b46-355e-49f5-93d5-939c906f88f3",
+  "instruction": "Re-write this sentence using an active voice.",
+  "input": "The boat was crashed by the captain.",
+  "output": "The captain crashed the boat.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

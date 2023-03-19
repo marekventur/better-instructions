@@ -1,0 +1,12 @@
+{
+  "id": "364d67a9-52be-4999-8379-d79c4c9b3944",
+  "instruction": "Summarise the key features of a K-means Clustering Algorithm",
+  "input": "",
+  "output": "K-means clustering is an unsupervised learning algorithm used to identify clusters in a dataset. It works by first randomly selecting points in the dataset and then grouping points that are close together into clusters. The algorithm then finds the mean of each cluster and uses it as the new cluster center. The process is then repeated until the cluster centers no longer move, at which point the clustering is complete.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

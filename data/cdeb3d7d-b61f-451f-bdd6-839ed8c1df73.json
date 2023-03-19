@@ -1,0 +1,12 @@
+{
+  "id": "cdeb3d7d-b61f-451f-bdd6-839ed8c1df73",
+  "instruction": "Select a random noun from the following list",
+  "input": "list: dog, cat, bird, car",
+  "output": "car",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

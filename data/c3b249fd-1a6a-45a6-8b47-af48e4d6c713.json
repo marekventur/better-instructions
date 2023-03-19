@@ -1,0 +1,12 @@
+{
+  "id": "c3b249fd-1a6a-45a6-8b47-af48e4d6c713",
+  "instruction": "Categorize the given list of items into at least 2 groups.",
+  "input": "Rabbit, chicken, sheep",
+  "output": "Group 1: Rabbit, chicken\nGroup 2: Sheep",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

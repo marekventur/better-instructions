@@ -1,0 +1,12 @@
+{
+  "id": "07323160-2e74-4188-9d74-9bbad995091f",
+  "instruction": "Explain why a non-relational database may be more suitable for certain data operations than a relational one.",
+  "input": "",
+  "output": "A non-relational database can be more suitable for certain data operations than a relational one because it offers more flexibility. Non-relational databases provide an open schema which makes it easier to store and access data without having to consider the relationships between data points. Non-relational databases may also be better suited for storing and accessing data quickly, as relational databases require complex queries to retrieve data.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

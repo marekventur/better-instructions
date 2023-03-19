@@ -1,0 +1,12 @@
+{
+  "id": "a49fcde1-58ee-4945-870e-c2b175f8d631",
+  "instruction": "Generate a list of tactics to achieve a given goal.",
+  "input": "Goal: Increase website traffic",
+  "output": "- Improve website design and content \n- Optimize website for search engine rankings \n- Utilize social media platforms for advertising \n- Produce high-quality content for promotion and engagement \n- Implement email marketing campaigns \n- Incorporate strategic link building \n- Leverage influencer marketing",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

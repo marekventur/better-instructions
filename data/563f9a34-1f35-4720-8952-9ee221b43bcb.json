@@ -1,0 +1,12 @@
+{
+  "id": "563f9a34-1f35-4720-8952-9ee221b43bcb",
+  "instruction": "Find the missing part of this math equation.",
+  "input": "7 + 4 =",
+  "output": "7 + 4 = 11",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

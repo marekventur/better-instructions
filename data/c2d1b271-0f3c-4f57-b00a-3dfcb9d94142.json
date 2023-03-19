@@ -1,0 +1,12 @@
+{
+  "id": "c2d1b271-0f3c-4f57-b00a-3dfcb9d94142",
+  "instruction": "Edit the sentence by adding an adverb that describes how they \"speak\".",
+  "input": "They speak",
+  "output": "They speak confidently.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

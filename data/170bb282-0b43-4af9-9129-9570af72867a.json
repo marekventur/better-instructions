@@ -1,0 +1,12 @@
+{
+  "id": "170bb282-0b43-4af9-9129-9570af72867a",
+  "instruction": "Rewrite this sentence using a relative clause:",
+  "input": "The boy who laughed was upset.",
+  "output": "The boy, who laughed, was upset.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

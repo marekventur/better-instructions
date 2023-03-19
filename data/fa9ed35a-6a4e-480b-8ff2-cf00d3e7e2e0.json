@@ -1,0 +1,12 @@
+{
+  "id": "fa9ed35a-6a4e-480b-8ff2-cf00d3e7e2e0",
+  "instruction": "Compute the minimum score required to pass a test with 15 questions and a passing score of 80%.",
+  "input": "",
+  "output": "The minimum score required to pass the test is 12 out of 15, which is equivalent to 80%.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

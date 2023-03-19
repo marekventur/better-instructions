@@ -1,0 +1,12 @@
+{
+  "id": "b84569c6-c4cc-47d1-a11b-ade4a120edb0",
+  "instruction": "Help him set up his email account.",
+  "input": "John's name and a preferred password\n\nJohn,Password123",
+  "output": "John, you can set up your email account by following these steps: \n\n1. Visit the website of your preferred email provider. \n2. Select the \"create an account\" option. \n3. Enter your name, email address, and preferred password.\n4. Confirm the account registration. \n\nCongratulations, you've successfully set up your email account!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

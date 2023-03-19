@@ -1,0 +1,12 @@
+{
+  "id": "c11e79b6-4a25-427c-96ca-cfe2d8726450",
+  "instruction": "Make an upvote/downvote system for a comment board",
+  "input": "",
+  "output": "The upvote/downvote system should allow users to upvote and downvote comments on a comment board. This can be implemented by adding a \"like\" and \"dislike\" button to each comment, allowing users to upvote or downvote it by clicking the respective buttons.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

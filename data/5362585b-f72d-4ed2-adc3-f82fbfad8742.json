@@ -1,0 +1,12 @@
+{
+  "id": "5362585b-f72d-4ed2-adc3-f82fbfad8742",
+  "instruction": "How would you classify the following animal as a mammal, reptile, or fish?",
+  "input": "Snake",
+  "output": "Reptile.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

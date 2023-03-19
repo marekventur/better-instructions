@@ -1,0 +1,12 @@
+{
+  "id": "4bfe08d5-ec54-4c33-9edd-567a30d87789",
+  "instruction": "Take the provided text and rewrite it to avoid repetition and make it more concise.",
+  "input": "She was happy and so she smiled and laughed and grinned.",
+  "output": "She was delighted and expressed this with a smile, laughter, and an ear-to-ear grin.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "516a5cd4-5a4a-46ea-8633-019b13a94a72",
+  "instruction": "Develop a program to measure the length of a text",
+  "input": "No input required",
+  "output": "This program needs to take a text as an input and measure the length of the text. It should count the characters, words and sentences in the text and output the count. The program can use library functions to parse the text and count the characters, words and sentences.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

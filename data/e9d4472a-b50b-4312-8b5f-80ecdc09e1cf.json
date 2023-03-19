@@ -1,0 +1,12 @@
+{
+  "id": "e9d4472a-b50b-4312-8b5f-80ecdc09e1cf",
+  "instruction": "Create a form in HTML that allows users to answer multiple-choice questions.",
+  "input": "Questions:\nQ1. Which of the following are mammals?\na. Human\nb. Fish\nc. Parrot\nd. Snake\n\nQ2. Who is the president of France?\na. Angela Merkel\nb. Recep Tayyip Erdogan\nc. Joe Biden\nd. Emmanuel Macron",
+  "output": "<form>\n  <h2>Multiple Choice Questions</h2>\n  <p>Q1. Which of the following are mammals?</p>\n  <label><input type=\"radio\" name=\"question1\" value=\"a\">a. Human</label><br>\n  <label><input type=\"radio\" name=\"question1\" value=\"b\">b. Fish</label><br>\n  <label><input type=\"radio\" name=\"question1\" value=\"c\">c. Parrot</label><br>\n  <label><input type=\"radio\" name=\"question1\" value=\"d\">d. Snake</label><br>\n  <p>Q2. Who is the president of France?</p>\n  <label><input type=\"radio\" name=\"question2\" value=\"a\">a. Angela Merkel</label><br>\n  <label><input type=\"radio\" name=\"question2\" value=\"b\">b. Recep Tayyip Erdogan</label><br>\n  <label><input type=\"radio\" name=\"question2\" value=\"c\">c. Joe Biden</label><br>\n  <label><input type=\"radio\" name=\"question2\" value=\"d\">d. Emmanuel Macron</label><br>\n  <input type=\"submit\" value=\"Submit\">\n</form>",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6ad75026-ec49-4b8e-bb88-d42c19ca0eb2",
+  "instruction": "Create a SQL query to select the first name and last name of all customers who live in a specific city.",
+  "input": "City Name: Chicago",
+  "output": "SELECT first_name, last_name FROM customers WHERE city = 'Chicago' ;",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "92e1f76b-092a-480a-b4fb-b4171abf5b19",
+  "instruction": "Summarise how to boil a potato in 5 steps.",
+  "input": "",
+  "output": "To boil a potato, you need to: \n1. Place the potatoes in a pot and cover them with cold water\n2. Bring the water to a boil over high heat\n3. Reduce the heat and let the potatoes simmer for 10 to 15 minutes\n4. Use a fork to test for doneness\n5. Once done, drain the water, and serve the potatoes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

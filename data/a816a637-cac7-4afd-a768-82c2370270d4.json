@@ -1,0 +1,12 @@
+{
+  "id": "a816a637-cac7-4afd-a768-82c2370270d4",
+  "instruction": "Examine the differences between an LLC and a C-corporation.",
+  "input": "",
+  "output": "An LLC and a C-corporation are two different legal structures used for businesses. \n\nLLCs are a type of pass-through entity, meaning that the owners of the business are taxed on the profits of the business without the business itself being taxed. LLCs also offer pass-through liability protection: the owners of the LLC are not personally liable for the debts and other risks of the business. \n\nC-corporations, on the other hand, are separate legal entities that are taxed on their own profits. Their shareholders are generally taxed separately on any profits they receive from the C-corporation. C-corporations offer greater flexibility when it comes to issuing stock and issuing dividends to shareholders. They also may be eligible for better tax rates. However, they come with double taxation: the corporation and the shareholders are both taxed on their profits.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

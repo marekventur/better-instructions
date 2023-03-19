@@ -1,0 +1,12 @@
+{
+  "id": "f6dad0c8-e47b-40fb-bf0d-1a8b45c5d9a9",
+  "instruction": "Insert a transition word at the beginning of this sentence.",
+  "input": "He found the treasure after searching for a long time.",
+  "output": "Eventually, he found the treasure after searching for a long time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

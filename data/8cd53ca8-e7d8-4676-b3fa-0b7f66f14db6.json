@@ -1,0 +1,12 @@
+{
+  "id": "8cd53ca8-e7d8-4676-b3fa-0b7f66f14db6",
+  "instruction": "Given a stock price over a period of time, determine whether the stock is a good investment.",
+  "input": "The stock price has increased 10% over the past 6 months.",
+  "output": "Whether the stock is a good investment depends on a number of factors, such as company performance and the financial health of the stock, as well as the current state of the market. Additionally, past performance is no guarantee of future success, so it is important to evaluate the stock in the context of a wider trend or cycle. Overall, the 10% increase in stock price over the past 6 months is a positive indicator, but further research into the market and company performance is recommended.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

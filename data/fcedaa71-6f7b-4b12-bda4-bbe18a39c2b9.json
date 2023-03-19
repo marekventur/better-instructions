@@ -1,0 +1,12 @@
+{
+  "id": "fcedaa71-6f7b-4b12-bda4-bbe18a39c2b9",
+  "instruction": "Perform calculations on the provided numbers.",
+  "input": "Numbers: 5, 7, 11",
+  "output": "Sum: 23\nDifference: -3\nProduct: 385",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

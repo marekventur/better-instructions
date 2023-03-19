@@ -1,0 +1,12 @@
+{
+  "id": "525f7d16-1f6a-42fb-93f2-e25fca321c7f",
+  "instruction": "Convert this sentence from it's active form to it's passive form",
+  "input": "We will take a decision today",
+  "output": "A decision will be taken today.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

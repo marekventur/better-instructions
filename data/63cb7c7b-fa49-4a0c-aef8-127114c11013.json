@@ -1,0 +1,12 @@
+{
+  "id": "63cb7c7b-fa49-4a0c-aef8-127114c11013",
+  "instruction": "Name an animal found in a given habitat.",
+  "input": "Rivers",
+  "output": "Animals commonly found in rivers include fish, turtles, beavers, muskrats, and otters.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "88338397-1c33-43de-8889-a62dfde8c4a7",
+  "instruction": "Create a web page for a given topic.",
+  "input": "Topic: Outdoor Adventure",
+  "output": "A web page for the topic of Outdoor Adventure, featuring a full-width picture at the top with engaging content below. The page should have an introduction describing the topic, listing out different adventures that can be included under the category, including detailed information on each adventure. It should also feature visitor reviews or ratings where applicable. There should be multiple tabs available, such as a FAQ page, to explore further. Additionally, there should be a booking or contact page with detailed information on how to get started and connect with an organizer or adventure professional.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

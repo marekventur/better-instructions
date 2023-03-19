@@ -1,0 +1,12 @@
+{
+  "id": "18f3479b-8f4c-4770-bba2-658791053c44",
+  "instruction": "Research and explain what are the properties of a prime number.",
+  "input": "",
+  "output": "A prime number is an integer that is greater than one and is only divisible by one and itself. It must not have any factors other than one and itself. Prime numbers are important in many areas of mathematics, including cryptography and number theory. They are also used to create composite numbers, which can be further calculated and used for various purposes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

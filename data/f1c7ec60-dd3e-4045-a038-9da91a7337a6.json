@@ -1,0 +1,12 @@
+{
+  "id": "f1c7ec60-dd3e-4045-a038-9da91a7337a6",
+  "instruction": "Write a review of a book.",
+  "input": "Name of book: The Cat in the Hat",
+  "output": "The Cat in the Hat by Dr. Seuss is a memorable classic and a delight for children of all ages. The story follows two bored children, Sally and her brother, as a talking cat interrupts their day with wild antics. Using humor and fantastic rhymes, Dr. Seuss has created a beloved story still loved by many. The Cat in the Hat is a fun and whimsical story that young readers will never forget.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "89ca0b31-a24f-4939-a98b-e0e411017018",
+  "instruction": "Transform the given expression into an equation.",
+  "input": "The sum of three consecutive integers is 18",
+  "output": "x + (x + 1) + (x + 2) = 18",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

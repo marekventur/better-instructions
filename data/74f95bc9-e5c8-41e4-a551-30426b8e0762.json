@@ -1,0 +1,12 @@
+{
+  "id": "74f95bc9-e5c8-41e4-a551-30426b8e0762",
+  "instruction": "Generate a recipe of a dish including 5 main ingredients and appropriate quantity",
+  "input": "",
+  "output": "Here is a recipe for a delicious vegetable stir-fry:\nIngredients:\n- 1 onion, diced\n- 2 cloves garlic, minced\n- 1 bell pepper, sliced\n- 1 cup diced carrots\n- 2 cups broccoli florets\n- 2 tablespoons soy sauce\n- 1 tablespoon sesame oil\n- 1 tablespoon garlic chili sauce\n- 2 tablespoons of oil for frying\n\nInstructions:\n1. Heat the oil in a wok or large sauce pan over medium-high heat.\n2. Add onions and garlic and cook until softened, about 2 minutes.\n3. Add bell pepper, carrots and broccoli.\n4. Cook for another 2 minutes, stirring regularly.\n5. Add soy sauce, sesame oil and garlic chili sauce.\n6. Stir to combine and cook for another 2 minutes, until vegetables are tender.\n7. Serve with steamed rice. Enjoy!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

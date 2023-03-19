@@ -1,0 +1,12 @@
+{
+  "id": "a4f4f33b-a15d-44f0-9bc0-35df270206df",
+  "instruction": "Standardize the following date to the ISO 8601 format.",
+  "input": "July 26th, 2021",
+  "output": "",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

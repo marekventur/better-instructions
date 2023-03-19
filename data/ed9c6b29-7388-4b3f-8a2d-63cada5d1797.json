@@ -1,0 +1,12 @@
+{
+  "id": "ed9c6b29-7388-4b3f-8a2d-63cada5d1797",
+  "instruction": "Reconstruct the sentence and replace the capitalized word with the closest synonym.",
+  "input": "I feel APPREHENSIVE about the upcoming test.",
+  "output": "I feel NERVOUS about the upcoming test.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

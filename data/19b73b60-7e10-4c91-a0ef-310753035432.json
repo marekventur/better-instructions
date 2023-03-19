@@ -1,0 +1,12 @@
+{
+  "id": "19b73b60-7e10-4c91-a0ef-310753035432",
+  "instruction": "Deploy website with given requirements.",
+  "input": "The website has to be deployed on WordPress, with 3 pages (Home, About, Contact) and should have a mailing system.",
+  "output": "The website has been successfully deployed on WordPress with 3 pages (Home, About, Contact) and a mailing system installed.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

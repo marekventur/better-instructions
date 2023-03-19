@@ -1,0 +1,12 @@
+{
+  "id": "df42120f-28b7-480e-a6d5-7a00bec029e2",
+  "instruction": "Create a macro in Excel to convert Celsius degrees to Fahrenheit.",
+  "input": "",
+  "output": "=Convert(Celsius, \"C\", \"F\")\n\nThis macro will convert any value given in Celsius to its equivalent Fahrenheit temperature.  To use this formula, enter '=Convert(Celsius, \"C\", \"F\")' into a cell, but replace 'Celsius' with the temperature value in Celsius that you wish to convert. For example, if you wish to convert 18\u00b0 Celsius to Fahrenheit, you would enter '=Convert(18, \"C\", \"F\")' into a cell. The result of this macro would be '64.4\u00b0F'.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

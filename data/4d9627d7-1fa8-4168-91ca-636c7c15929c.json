@@ -1,0 +1,12 @@
+{
+  "id": "4d9627d7-1fa8-4168-91ca-636c7c15929c",
+  "instruction": "Compose an email to your boss about the status of your project.",
+  "input": "",
+  "output": "Dear [Name],\n\nI am writing to provide an update on the progress of my project. I have made significant progress and almost 90% of the work is complete. I expect the remaining work to be completed by the end of the week and I am confident I can submit the final project on the deadline.\n\nThank you for your support and guidance.\n\nSincerely,\n[Your Name]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

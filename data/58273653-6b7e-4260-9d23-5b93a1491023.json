@@ -1,0 +1,12 @@
+{
+  "id": "58273653-6b7e-4260-9d23-5b93a1491023",
+  "instruction": "Summarize these two sentences in one sentence.",
+  "input": "The cat meowed loudly. It ran away when it saw a dog.",
+  "output": "The cat meowed loudly and ran away when it saw a dog.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

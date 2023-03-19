@@ -1,0 +1,12 @@
+{
+  "id": "49859d95-ffb3-4636-8fab-1859c775077b",
+  "instruction": "Choose the group of words that forms the best sentence",
+  "input": "their a stole wallet",
+  "output": "They stole a wallet.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

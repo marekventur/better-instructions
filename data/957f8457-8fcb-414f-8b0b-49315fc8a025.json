@@ -1,0 +1,12 @@
+{
+  "id": "957f8457-8fcb-414f-8b0b-49315fc8a025",
+  "instruction": "Generate a 3D model for a building using the given information.",
+  "input": "Height: 5 feet; width: 6 feet; length: 10 feet",
+  "output": "A 3D model of a 5 feet by 6 feet by 10 feet building.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

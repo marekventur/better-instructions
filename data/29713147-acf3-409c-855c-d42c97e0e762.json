@@ -1,0 +1,12 @@
+{
+  "id": "29713147-acf3-409c-855c-d42c97e0e762",
+  "instruction": "Generate a mnemonic to help remember the following list",
+  "input": "cat, balloon, sun, elephant",
+  "output": "Cats Bring Sunshine Everywhere.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

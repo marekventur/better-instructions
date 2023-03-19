@@ -1,0 +1,12 @@
+{
+  "id": "fd3a9bfc-7cff-45ee-b20a-3a3faa796b30",
+  "instruction": "Create a function to check if an input string is a palindrome.",
+  "input": "",
+  "output": "def is_palindrome(s):\n    return s == s[::-1]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

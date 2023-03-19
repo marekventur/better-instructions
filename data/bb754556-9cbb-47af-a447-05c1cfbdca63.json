@@ -1,0 +1,12 @@
+{
+  "id": "bb754556-9cbb-47af-a447-05c1cfbdca63",
+  "instruction": "Compare the following two items: a car and a boat.",
+  "input": "car,boat",
+  "output": "A car is best for traveling on land, while a boat is better for traveling on water. Cars are typically faster and come in many more varieties compared to boats, but boats can hold more cargo and are more suited for longer distances.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

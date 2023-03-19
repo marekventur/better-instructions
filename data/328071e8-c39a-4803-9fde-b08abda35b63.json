@@ -1,0 +1,12 @@
+{
+  "id": "328071e8-c39a-4803-9fde-b08abda35b63",
+  "instruction": "If the given input is \"[Apple, Orange, Lemon]\", write a line of code to list all the elements in reverse order.",
+  "input": "[Apple, Orange, Lemon]",
+  "output": "myList = [Apple, Orange, Lemon]\nmyList.reverse()\nprint(myList)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

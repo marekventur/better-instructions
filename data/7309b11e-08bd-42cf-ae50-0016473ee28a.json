@@ -1,0 +1,12 @@
+{
+  "id": "7309b11e-08bd-42cf-ae50-0016473ee28a",
+  "instruction": "Delete the all the nouns from the sentence.",
+  "input": "Yesterday I went to the zoo with my friends.",
+  "output": "Yesterday I went to with .",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

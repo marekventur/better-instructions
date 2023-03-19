@@ -1,0 +1,12 @@
+{
+  "id": "924c24cf-83f9-4b17-ac28-e94b8028a6c1",
+  "instruction": "Take the following tweet and turn it into persuasive copy:",
+  "input": "Check out our newest product!",
+  "output": "Don't miss out on this one of a kind product which will completely revolutionize the way you think of _______! Not only is it the newest item on the market, it's also the most innovative and sophisticated, yet easy to use. Get the best of both worlds and be the envy of your peers. Don'twait any longer; make sure you check out our newest product today!",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

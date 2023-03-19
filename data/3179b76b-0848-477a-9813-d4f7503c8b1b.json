@@ -1,0 +1,12 @@
+{
+  "id": "3179b76b-0848-477a-9813-d4f7503c8b1b",
+  "instruction": "Create an email introducing different team members to each other",
+  "input": "The team members are Alex, Elana, Mike, and Katrina",
+  "output": "Dear Team, \n\nI'm pleased to introduce the four members of our team: Alex, Elana, Mike, and Katrina. They each bring a unique set of skills and insights to the team and I'm looking forward to seeing how their talents come together to make us stronger. \n\nLet's welcome them and start collaborating!\n\nBest regards, \n\n[Sender]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

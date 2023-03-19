@@ -1,0 +1,12 @@
+{
+  "id": "e2b1fcf6-04d2-478f-9639-333fef4e9edd",
+  "instruction": "Output the time one hour from the given time",
+  "input": "5:00 PM",
+  "output": "6:00 PM",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

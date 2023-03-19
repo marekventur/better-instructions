@@ -1,0 +1,12 @@
+{
+  "id": "9e3bf117-8d45-4480-8885-7f9149074e2f",
+  "instruction": "Infer a conclusion from the given facts.",
+  "input": "John had 7 apples and he gave 5 away.",
+  "output": "John has 2 apples left.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

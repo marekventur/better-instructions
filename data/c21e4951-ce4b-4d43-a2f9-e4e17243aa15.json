@@ -1,0 +1,12 @@
+{
+  "id": "c21e4951-ce4b-4d43-a2f9-e4e17243aa15",
+  "instruction": "Reorganize the given paragraph in the correct order.",
+  "input": "It is easy to use and convenient. Healthcare applications are becoming increasingly common. They are designed to store, access, and manage health data.",
+  "output": "Healthcare applications are becoming increasingly common as they are designed to store, access, and manage health data in an easy and convenient manner.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

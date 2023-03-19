@@ -1,0 +1,12 @@
+{
+  "id": "7e18ea00-6c5d-460a-91ff-be743d8a9c3c",
+  "instruction": "Edit the sentences below to avoid gender bias.",
+  "input": "The secretary answered the phone and welcomed the customer.",
+  "output": "The administrative assistant answered the phone and welcomed the customer.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

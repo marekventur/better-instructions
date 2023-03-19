@@ -1,0 +1,12 @@
+{
+  "id": "4b674a5c-f1ea-4c76-bf52-31fd0e53d00e",
+  "instruction": "Read the following sentence and suggest an alternative version that is more descriptive.",
+  "input": "He was a brave boy.",
+  "output": "He was a brave and courageous boy, who never backed down from a challenge and always rose up to face obstacles.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

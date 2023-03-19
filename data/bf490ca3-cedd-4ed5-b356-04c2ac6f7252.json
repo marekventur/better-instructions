@@ -1,0 +1,12 @@
+{
+  "id": "bf490ca3-cedd-4ed5-b356-04c2ac6f7252",
+  "instruction": "Generate a response for a question about the climate type of a city.",
+  "input": "What is the climate type like in Manchester?",
+  "output": "Manchester has a temperate and humid climate, with relatively mild summers and cool winters. The city experiences occasional rainfall throughout the year, with a peak during the autumn months of October, November and December. The average annual temperature is around 8.5\u00b0C with temperatures typically ranging from -1\u00b0C to 14\u00b0C.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

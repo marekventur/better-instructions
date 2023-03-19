@@ -1,0 +1,12 @@
+{
+  "id": "8fcb2ba1-9263-4141-8919-949b005670d1",
+  "instruction": "Create a list of tips for beginners in Python programming.",
+  "input": "",
+  "output": "1. Start by writing simple programs. Don\u2019t jump directly into complicated projects.\n2. Make sure to keep the code organized, readable and commented.\n3. Learn the basics first, like variables, functions, loops and classes.\n4. Practice daily. Even if it's for only 30 minutes a day.\n5. Use debuggers and IDEs to help spot errors and become more comfortable with coding.\n6. Take advantage of online resources, including documentation, tutorials and forums.\n7. Get involved in open source projects or build something from the ground up.\n8. Network and try to find people within the Python community to ask for help and advice.\n9. Test your programs thoroughly to find bugs and ensure they perform correctly.\n10. Learn best coding practices such as writing clean code and comments, modularization and more.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

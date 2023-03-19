@@ -1,0 +1,12 @@
+{
+  "id": "7d660cee-dea1-45db-8e68-efbeaecb815c",
+  "instruction": "Describe the Difference between Python and JavaScript",
+  "input": "",
+  "output": "Python is a general-purpose, high-level programming language used for creating scripts and applications. JavaScript is a lightweight, interpreted scripting language for creating interactive web pages. Despite some similarities, Python and JavaScript have several key differences. Python is a more structured and type-dependent language, while JavaScript is a more dynamic and loosely typed language. Python is typically used for backend development, while JavaScript is used for frontend development. Python is faster in terms of execution and is preferred for complex applications, while JavaScript is preferred for simpler tasks.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

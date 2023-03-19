@@ -1,0 +1,12 @@
+{
+  "id": "86806d8c-c4bc-432b-acee-7dd6465cc07d",
+  "instruction": "Build a machine learning model to predict customer churn.",
+  "input": "",
+  "output": "For this task, we need to build a machine learning model that can predict customer churn. The model should be able to take in customer data, such as demographic information, spending habits, and product usage, to predict whether a customer will remain loyal or not. We should also use an appropriate algorithm, such as a decision tree, to optimize the model's prediction accuracy.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

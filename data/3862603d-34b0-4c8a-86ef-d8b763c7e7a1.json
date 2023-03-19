@@ -1,0 +1,12 @@
+{
+  "id": "3862603d-34b0-4c8a-86ef-d8b763c7e7a1",
+  "instruction": "Given a photo, suggest three people who would look good in the photo.",
+  "input": "<image>",
+  "output": "The three people who would look great in this photo are: a young professional in business attire, a teenager in athletic wear, and a middle-aged woman in casual clothes.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

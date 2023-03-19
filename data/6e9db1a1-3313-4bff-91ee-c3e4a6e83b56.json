@@ -1,0 +1,12 @@
+{
+  "id": "6e9db1a1-3313-4bff-91ee-c3e4a6e83b56",
+  "instruction": "Provide instructions for boiling an egg.",
+  "input": "",
+  "output": "To boil an egg, start by filling a pot with cold water and adding the egg. Bring the pot to a boil and set a timer for the desired level of doneness (e.g. 3 minutes for a soft cooked egg, 8 minutes for a hard-boiled egg). When done, turn the heat off and let the egg sit in the hot water for a few more minutes. Lastly, remove the egg and run cold water over it to stop the cooking process.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

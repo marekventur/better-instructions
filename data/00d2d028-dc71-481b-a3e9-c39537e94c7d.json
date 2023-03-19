@@ -1,0 +1,12 @@
+{
+  "id": "00d2d028-dc71-481b-a3e9-c39537e94c7d",
+  "instruction": "Sort the given items in order of their weight.",
+  "input": "Apple, Car, Pencil",
+  "output": "Pencil, Apple, Car",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

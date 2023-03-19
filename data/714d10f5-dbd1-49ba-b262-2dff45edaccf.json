@@ -1,0 +1,12 @@
+{
+  "id": "714d10f5-dbd1-49ba-b262-2dff45edaccf",
+  "instruction": "Take the given number and divide it by three, then round the result to the nearest whole number.",
+  "input": "42",
+  "output": "14.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

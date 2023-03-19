@@ -1,0 +1,12 @@
+{
+  "id": "9a9d670c-d13c-45eb-9f59-a584dbfdab33",
+  "instruction": "Provide one example of an affective computing application.",
+  "input": "",
+  "output": "One example of an affective computing application is health and wellness monitoring for elderly people. Wearable sensors can be used to collect biometric data such as heart rate, temperature, and respiration rate. This data can be monitored in real time, and when changes in the data are detected, an alert can be sent to the elderly person's family or a medical provider. The data can also be analyzed to detect signs of stress and anxiety, allowing medical professionals to provide proactive interventions.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

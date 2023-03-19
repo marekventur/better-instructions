@@ -1,0 +1,12 @@
+{
+  "id": "fe48e4cf-d1ab-4f24-b2c7-8fac2cfa1841",
+  "instruction": "Describe the type of data that is most suitable for using machine learning.",
+  "input": "",
+  "output": "Machine learning is best used with large sets of structured data, such as numerical data, names and addresses, or image and video data. This type of data is organized and complete, which allows machine learning algorithms to interpret trends and make meaningful predictions. Additionally, it is important that the data is current and up-to-date in order to allow the algorithms to accurately reflect controlled variables in real-world applications.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

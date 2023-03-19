@@ -1,0 +1,12 @@
+{
+  "id": "bf6759ea-ac34-408b-b4fd-f16447efcceb",
+  "instruction": "Remove the spelling errors in the following sentence",
+  "input": "The chikdren ran amok in the street.",
+  "output": "The children ran amok in the street.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

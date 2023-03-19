@@ -1,0 +1,12 @@
+{
+  "id": "430c2a67-9a79-4453-acb7-7c74aa988c41",
+  "instruction": "Given a sentence and a new sentence, generate a sentence that has the same meaning with the new given sentence.",
+  "input": "Sentence: He wasn't able to get the job.\nNew sentence: He failed to land the job.",
+  "output": "He was unsuccessful in obtaining the job.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

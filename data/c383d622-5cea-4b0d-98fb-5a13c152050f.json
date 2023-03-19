@@ -1,0 +1,12 @@
+{
+  "id": "c383d622-5cea-4b0d-98fb-5a13c152050f",
+  "instruction": "Reorganize the text by finding the main idea conveyed by the writer.",
+  "input": "The painting depicted a beautiful landscape of a small village, with mountains on one side and green fields on the other.",
+  "output": "The painting showed a small village with mountains on one side and green fields on the other, creating a beautiful landscape.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

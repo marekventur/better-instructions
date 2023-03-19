@@ -1,0 +1,12 @@
+{
+  "id": "15a5b1c9-a7ef-48db-8084-4cda8aaa4604",
+  "instruction": "Given the purpose, provide the code for generating a random password",
+  "input": "Generate a random password that contains 8 characters with upper and lower case letters, numbers and symbols",
+  "output": "import random\nimport string\n\ndef generate_password():\n    chars = string.ascii_letters + string.digits + string.punctuation\n    return ''.join(random.choices(chars, k=8))\n\nprint(generate_password())",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

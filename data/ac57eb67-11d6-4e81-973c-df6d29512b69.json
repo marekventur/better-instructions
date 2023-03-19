@@ -1,0 +1,12 @@
+{
+  "id": "ac57eb67-11d6-4e81-973c-df6d29512b69",
+  "instruction": "Generate a set of guidelines to follow when using this tool.",
+  "input": "No input",
+  "output": "1. Read the instructions carefully before using the tool.\n2. Always check that the parameters are correctly set before starting a task.\n3. Test the output of the tool before using it for the production purpose.\n4. Make sure the tool always has access to the latest version of the input data.\n5. Make sure to backup the output of the tool for future reference.\n6. Follow the safety guidelines mentioned in the manual.\n7. Perform periodic maintenance checks of the tool to ensure its proper functioning.\n8. Use the tool only for the intended purpose and do not modify or alter it.\n9. Logs should be regularly monitored to detect any errors or anomalies.\n10. Get in touch with support staff if you face any difficulties while using the tool.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

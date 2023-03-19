@@ -1,0 +1,12 @@
+{
+  "id": "7c9d434b-d9b0-44f4-9d23-8d3a63aa40f8",
+  "instruction": "Create a story from the following sentences.",
+  "input": "The sun was setting and the birds were singing.",
+  "output": "The sun was setting in the sky, casting an orange glow over the horizon. The birds were singing their evening song, chirping and trilling away in the trees. As the sun slowly disappeared, a breeze blew and rustled through the trees, sending a chill down the spine of anyone who was still outdoors. The birds grew quiet and the night slowly settled, bringing a calm and peaceful atmosphere to the area.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d4c44219-d266-450c-87ff-16823590b76f",
+  "instruction": "Name and define three kings of classification.",
+  "input": "",
+  "output": "1. Binary Classification: Binary classification is the process of classifying an item into one of two predefined categories. Examples include determining an image as either a cat or a dog.\n\n2. Multi-class classification: Multi-class classification is the process of classifying an item into one of more than two predefined categories. Examples include determining the species of a plant or animal.\n\n3. Multi-label classification: Multi-label classification is the process of classifying an item into multiple predefined categories. Examples include identifying the genre of a piece of literature or the moods portrayed in a photograph.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

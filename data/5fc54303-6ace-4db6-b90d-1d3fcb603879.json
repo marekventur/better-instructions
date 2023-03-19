@@ -1,0 +1,12 @@
+{
+  "id": "5fc54303-6ace-4db6-b90d-1d3fcb603879",
+  "instruction": "Collect 5 relevant sources to support an argument.",
+  "input": "Argument: Increased use of robots in manufacturing will result in more efficient production.",
+  "output": "Sources: \n\n1. \u201cRobots and Automation in Manufacturing.\u201d ScienceDirect, Elsevier, www.sciencedirect.com/topics/engineering/robots-and-automation-in-manufacturing.\n\n2. \u201cRobotics in Manufacturing: Productivity and Quality in Focus.\u201d Robotics Business Review, Tech-Clarity, 10 Sept. 2019, roboticsbusinessreview.com/manufacturing/robotics-in-manufacturing-productivity-and-quality-in-focus/.\n\n3. Goyanes, Jos\u00e9 Jaime. \u201cRobots in Manufacturing: Automation Revolutionizes Manufacturing Processes.\u201d Humble Robotics, Humble Robots, 29 July 2019, www.humblerobotics.com/articles/automation-revolutionizes-manufacturing-processes.php.\n\n4. Morrell, Ryan. \u201cRobots and Automation: What\u2019s Next?\u201d cnet.com, 5 Dec. 2016, www.cnet.com/how-to/robots-and-automation-whats-next/.\n\n5. Manuel, Mary Catherine. \u201cRobots & Automation in Manufacturing: Automation Improves Product Quality.\u201d RoboticsTomorrow, Robotics Tomorrow, 21 July 2017, www.robotstomorrow.com/article/detail/robots-automation-in-manufacturing-automation-improves-product-quality.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

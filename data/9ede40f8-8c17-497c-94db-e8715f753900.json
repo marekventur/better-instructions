@@ -1,0 +1,12 @@
+{
+  "id": "9ede40f8-8c17-497c-94db-e8715f753900",
+  "instruction": "Detect any spelling errors in the following word.",
+  "input": "beautifull",
+  "output": "The word \"beautifull\" contains a spelling error. The correct spelling is \"beautiful\".",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

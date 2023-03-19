@@ -1,0 +1,12 @@
+{
+  "id": "ea8b0e04-d5ab-43c2-95dc-b23bbf4a21c6",
+  "instruction": "Name the type of sentence used in the sentence provided.",
+  "input": "I'm in love with the color blue.",
+  "output": "Declarative sentence.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

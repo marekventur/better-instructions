@@ -1,0 +1,12 @@
+{
+  "id": "3fbdb581-083b-4d73-a21e-b3d56a110070",
+  "instruction": "Given the phone model and specifications, write a product description.",
+  "input": "Samsung Galaxy S20\n- 6.2 Inches\n- Quad rear cameras with 64MP, 12MP, and 8MP\n- 5,000 mAh battery",
+  "output": "The Samsung Galaxy S20 boasts an impressive 6.2 inch screen, which offers an incredible viewing experience. The phone has a powerful quad rear camera configuration, with a 64MP main lens, a 12MP ultrawide lens, and an 8MP telephoto lens, allowing you to capture every moment with stunning image quality. The 5,000 mAh battery ensures that you can enjoy your device all day.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

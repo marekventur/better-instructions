@@ -1,0 +1,12 @@
+{
+  "id": "bd4408f7-8644-4394-9549-4d43fec72583",
+  "instruction": "Assign the following sentences to the appropriate parts of speech.",
+  "input": "The sun was shining brightly.",
+  "output": "The \u2013 Article\nsun \u2013 Noun\nwas \u2013 Verb\nshining \u2013 Verb\nbrightly \u2013 Adverb",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

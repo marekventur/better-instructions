@@ -1,0 +1,12 @@
+{
+  "id": "5c2c1dcf-1805-4694-a120-6824fbe636d4",
+  "instruction": "generate an algorithm to find the first common ancestor of two nodes in a binary tree.",
+  "input": "",
+  "output": "A simple solution is to traverse the binary tree and find the paths from the root node to both nodes. Then compare the paths to find the last common ancestor node. The algorithm can be recursively defined as follows: \n\nFindFirstCommonAncestor(nodeA, nodeB):\n\u2013 Find the path from root to nodeA and store it in a vector or array.\n\u2013 Find the path from root to nodeB and store it in another vector or array.\n\u2013 Traverse both paths backwards and find the first different node. The node prior to this node is the first common ancestor.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

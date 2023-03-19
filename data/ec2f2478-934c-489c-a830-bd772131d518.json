@@ -1,0 +1,12 @@
+{
+  "id": "ec2f2478-934c-489c-a830-bd772131d518",
+  "instruction": "Classify this article by type.",
+  "input": "It was 7am, the sun was just rising above the horizon, and Ryan was already sweating as he jogged up the hill.",
+  "output": "Narrative",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

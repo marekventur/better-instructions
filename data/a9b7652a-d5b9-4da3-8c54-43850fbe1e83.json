@@ -1,0 +1,12 @@
+{
+  "id": "a9b7652a-d5b9-4da3-8c54-43850fbe1e83",
+  "instruction": "For the given lyrics, fill in the blank.",
+  "input": "\"_______ me like lightning, _______ me like rain\"",
+  "output": "Strike me like lightning, pour me like rain.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

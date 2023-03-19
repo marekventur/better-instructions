@@ -1,0 +1,12 @@
+{
+  "id": "ccd834cf-c51e-42ed-8a6b-2db967039c82",
+  "instruction": "What\u2019s the recipe for preparing a Mexican omelette?",
+  "input": "",
+  "output": "Ingredients: 2 large eggs, 1/2 cup chopped onion, 1/2 cup diced red, yellow, or green bell pepper, 2 tablespoons vegetable oil, 1/4 teaspoon salt, 1/4 teaspoon ground cumin, 1/4 teaspoon garlic powder, 1/2 cup shredded Mexican-blend cheese.\n\nInstructions:\n1. Whisk the eggs together in a medium bowl.\n2. Heat the oil in a medium skillet over medium heat.\n3. Add the onion, bell pepper, salt, cumin, and garlic powder to the skillet and saute for 5 minutes, or until the vegetables are tender.\n4. Add the egg mixture and cook for about 5 minutes, stirring gently with a spatula until the eggs are almost set.\n5. Top with the cheese and cook for another 2 minutes, or until the eggs are cooked through and the cheese is melted.\n6. Serve with warm tortillas or toast.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

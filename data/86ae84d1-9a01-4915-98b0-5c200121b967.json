@@ -1,0 +1,12 @@
+{
+  "id": "86ae84d1-9a01-4915-98b0-5c200121b967",
+  "instruction": "Determine if the following statement is true or false: \"The movie 'Titanic' was released in 1999.\"",
+  "input": "",
+  "output": "False, the movie 'Titanic' was released in 1997.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

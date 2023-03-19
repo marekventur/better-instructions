@@ -1,0 +1,12 @@
+{
+  "id": "65bc3f4f-6676-496d-b8e6-fe7306bb24a7",
+  "instruction": "Generate two possible questions a customer might ask related to the product.",
+  "input": "",
+  "output": "What is the expected delivery time for this product? Does this product come with a warranty?",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

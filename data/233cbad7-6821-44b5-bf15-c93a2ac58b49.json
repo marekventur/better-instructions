@@ -1,0 +1,12 @@
+{
+  "id": "233cbad7-6821-44b5-bf15-c93a2ac58b49",
+  "instruction": "Provide a list of tools that are essential for web development.",
+  "input": "",
+  "output": "Here is a list of tools essential for web development: \n- A text editor such as Sublime Text or Visual Studio Code. \n- A browser such as Google Chrome, Firefox, or Safari. \n- A code repository such as GitHub or Bitbucket for storing, tracking, and versioning your code. \n- A development server like Apache or Nginx for running and testing your code. \n- A task runner such as Gulp or Grunt to automate tedious tasks. \n- A Framework such as Bootstrap or ZURB Foundation for a rapid development experience. \n- A package manager such as NPM or Yarn for managing front-end dependencies. \n- A content management system (CMS) such as WordPress, Drupal, or Joomla for creating and managing websites.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

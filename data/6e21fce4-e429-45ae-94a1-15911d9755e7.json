@@ -1,0 +1,12 @@
+{
+  "id": "6e21fce4-e429-45ae-94a1-15911d9755e7",
+  "instruction": "Edit this clinical report to be more concise.",
+  "input": "The patient was seen today in the office for a physical and medical evaluation. The patient was complaining of pain in their legs, and had signs of weakness in the legs.",
+  "output": "The patient presented in the office with leg pain and weakness.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

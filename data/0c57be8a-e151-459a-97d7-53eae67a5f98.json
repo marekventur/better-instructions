@@ -1,0 +1,12 @@
+{
+  "id": "0c57be8a-e151-459a-97d7-53eae67a5f98",
+  "instruction": "Select the correct answer for the given question.",
+  "input": "Which is the longest river in the world?\nA) Nile\nB) Amazon\nC) Yangtze",
+  "output": "A) Nile",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

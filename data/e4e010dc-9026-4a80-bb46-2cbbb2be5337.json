@@ -1,0 +1,12 @@
+{
+  "id": "e4e010dc-9026-4a80-bb46-2cbbb2be5337",
+  "instruction": "Classify the following sentence: \"I am feeling terrible today.\"",
+  "input": "",
+  "output": "The sentence can be classified as a statement of emotion.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

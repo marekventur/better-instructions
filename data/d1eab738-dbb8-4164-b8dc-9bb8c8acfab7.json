@@ -1,0 +1,12 @@
+{
+  "id": "d1eab738-dbb8-4164-b8dc-9bb8c8acfab7",
+  "instruction": "Summarize the sentence in two sentences, each containing fewer than 7 words.",
+  "input": "The movie was interesting, but had too much plot twists.",
+  "output": "Interesting plot, too many twists.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

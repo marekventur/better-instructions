@@ -1,0 +1,12 @@
+{
+  "id": "b4e9ece7-9c79-4abb-b012-65f0a85d8b10",
+  "instruction": "Give an example of how to solve this equation.",
+  "input": "2x + 5 = 13",
+  "output": "To solve this equation, we can first subtract 5 from both sides to get 2x = 8. Then we can divide both sides by 2 to get x = 4. Therefore, the solution is x = 4.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

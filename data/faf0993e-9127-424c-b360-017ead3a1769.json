@@ -1,0 +1,12 @@
+{
+  "id": "faf0993e-9127-424c-b360-017ead3a1769",
+  "instruction": "Perform a sentiment analysis on the given sentence.",
+  "input": "I love this movie!",
+  "output": "Positive sentiment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

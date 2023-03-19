@@ -1,0 +1,12 @@
+{
+  "id": "205c4150-5426-4469-8994-7027a94b6b9a",
+  "instruction": "Analyse why the given movie was critically acclaimed.",
+  "input": "La La Land",
+  "output": "La La Land was critically acclaimed for its stunning visuals, excellent acting performances from Ryan Gosling and Emma Stone, and the creative and unique storyline. The movie also explored themes of love, loss, and striving for success in the contemporary age. The cinematography and sound were also praised for creating an immersive environment for audiences. All of these elements combined to make La La Land a critically acclaimed movie.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

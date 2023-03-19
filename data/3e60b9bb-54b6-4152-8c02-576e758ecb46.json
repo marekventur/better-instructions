@@ -1,0 +1,12 @@
+{
+  "id": "3e60b9bb-54b6-4152-8c02-576e758ecb46",
+  "instruction": "Formulate the argument of the following statement.",
+  "input": "Unregulated animal testing is unethical.",
+  "output": "Unregulated animal testing is unethical because it involves subjecting animals to inhumane treatment, exposing them to potentially harmful substances, and can lead to inaccurate results with potentially serious consequences when the results are extrapolated to humans.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c2d2dafe-bb07-439e-96b6-70854d5cc5e5",
+  "instruction": "Given a technical term and its definition, generate an example sentence that demonstrates the concept.",
+  "input": "Term: convolutional neural network\nDefinition: A type of deep learning algorithm that uses convolutional layers to apply filters to input images",
+  "output": "The convolutional neural network is able to apply filters to the input image and extract meaningful features from it.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

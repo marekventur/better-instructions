@@ -1,0 +1,12 @@
+{
+  "id": "672548d0-9f27-457a-b3dd-7dbf9cc330ad",
+  "instruction": "Given a number, generate a sequence of prime numbers up to that number.",
+  "input": "10",
+  "output": "2, 3, 5, 7",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

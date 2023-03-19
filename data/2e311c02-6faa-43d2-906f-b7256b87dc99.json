@@ -1,0 +1,12 @@
+{
+  "id": "2e311c02-6faa-43d2-906f-b7256b87dc99",
+  "instruction": "Rank these countries according to their Gross Domestic Product",
+  "input": "USA, Germany, France, India",
+  "output": "USA, Germany, India, France",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

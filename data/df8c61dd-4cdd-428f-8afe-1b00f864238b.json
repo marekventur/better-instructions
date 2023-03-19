@@ -1,0 +1,12 @@
+{
+  "id": "df8c61dd-4cdd-428f-8afe-1b00f864238b",
+  "instruction": "List ten items on a grocery list.",
+  "input": "",
+  "output": "Grocery List:\n1. Milk \n2. Eggs\n3. Bread \n4. Bananas \n5. Apples  \n6. Cheese \n7. Carrots\n8. Broccoli \n9. Oranges\n10. Tomatoes \n11. Yogurt",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

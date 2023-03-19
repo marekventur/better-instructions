@@ -1,0 +1,12 @@
+{
+  "id": "bb748968-26c9-40b0-b7b9-588c0401528b",
+  "instruction": "Read the given paragraph and find the main theme",
+  "input": "In baseball, home-run hitting has been much more difficult in the past few decades, due to the ball being harder, as well as the transformation of stadiums after 1988 to favor pitching.",
+  "output": "The main theme of the paragraph is that hitting home runs has become more difficult in recent years because of the changes in the ball and stadium design.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ccea7a5a-1a86-4322-beca-7c1fa64d79a0",
+  "instruction": "Suggest some popular restaurants in a given city.",
+  "input": "New York City",
+  "output": "1. Magnolia Bakery 2. Katz\u2019s Delicatessen 3. Juniors Cheesecake 4. Shake Shack 5. Joe's Pizza 6. Sarabeth\u2019s 7. Sweet Chick 8. Murray\u2019s Cheese Bar 9. Sarepalling Thai 10. ABC Kitchen",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

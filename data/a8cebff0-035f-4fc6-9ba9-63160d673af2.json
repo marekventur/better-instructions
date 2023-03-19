@@ -1,0 +1,12 @@
+{
+  "id": "a8cebff0-035f-4fc6-9ba9-63160d673af2",
+  "instruction": "Rewrite the sentence so that the negative sentiment is reversed.",
+  "input": "He never listens to my advice.",
+  "output": "He always takes my advice into consideration.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "63fa8cff-73b6-49ad-ac83-64479e02c46d",
+  "instruction": "Generate a regular expression to validate a six digit ZIP code.",
+  "input": "",
+  "output": "^[0-9]{6}$",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

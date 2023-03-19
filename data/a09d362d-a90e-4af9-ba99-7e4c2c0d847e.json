@@ -1,0 +1,12 @@
+{
+  "id": "a09d362d-a90e-4af9-ba99-7e4c2c0d847e",
+  "instruction": "For the following pair of words, give a sentence demonstrating how they contrast each other.",
+  "input": "Softness/Hardness",
+  "output": "A pillow provides softness while a rock is hard.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

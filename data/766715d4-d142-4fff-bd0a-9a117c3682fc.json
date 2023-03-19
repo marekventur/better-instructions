@@ -1,0 +1,12 @@
+{
+  "id": "766715d4-d142-4fff-bd0a-9a117c3682fc",
+  "instruction": "Analyze this sentence and identify errors in grammar, punctuation, and spelling.",
+  "input": "I saw him yesterday and he said hi",
+  "output": "Error - punctuation: I saw him yesterday and he said hi should be I saw him yesterday, and he said hi. \nError - grammar: \"he said\" should be \"he said hi\". \nNo spelling errors.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

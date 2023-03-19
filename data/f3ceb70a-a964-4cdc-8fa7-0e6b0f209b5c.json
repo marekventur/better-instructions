@@ -1,0 +1,12 @@
+{
+  "id": "f3ceb70a-a964-4cdc-8fa7-0e6b0f209b5c",
+  "instruction": "Type a few sentences as if talking to a customer service assistant",
+  "input": "I am inquiring about a refund for a product I purchased recently.",
+  "output": "Hello, I'm sorry to hear that you are inquiring about a refund. Can you please tell me a bit more about your purchase including the date and the product? I'd be happy to help you with the issue.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b20334c6-e61f-415c-963a-f32eee56bb69",
+  "instruction": "Classify the following type of animal:",
+  "input": "Sloth",
+  "output": "The sloth is a mammal from the xenarthrans group and is found in Central and South America. It is best known for its slow movement and is also a popularly sought-after pet. Sloths can either be two-toed or three-toed and typically live in trees, although they can also be found on the ground. They primarily eat leaves, fruit, and insects.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

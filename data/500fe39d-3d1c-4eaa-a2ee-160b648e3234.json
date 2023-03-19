@@ -1,0 +1,12 @@
+{
+  "id": "500fe39d-3d1c-4eaa-a2ee-160b648e3234",
+  "instruction": "Identify the sentence that is grammatically incorrect.",
+  "input": "A. The cat is sleeping in the window.\nB. There are many cats sleeping in the window.\nC. The cats are sleeping in the window.\nD. Sleeping are the cats in the window.",
+  "output": "D. Sleeping are the cats in the window.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

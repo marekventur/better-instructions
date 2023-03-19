@@ -1,0 +1,12 @@
+{
+  "id": "4dc5e783-f2c1-4873-8005-16b3c29619c6",
+  "instruction": "Classify this book as either fiction or nonfiction.",
+  "input": "The Cat in the Hat by Dr. Seuss",
+  "output": "This book is classified as fiction.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "81c35785-30bb-4d5e-95be-12bbcc97fbd0",
+  "instruction": "Estimate the probability of winning a game given the following information.",
+  "input": "Information:\n- Player #1 is a beginner\n- Player #2 is an expert",
+  "output": "Given the information provided, it is estimated that Player #2 has a 80% chance of winning the game while Player #1 has a 20% chance of winning. Player #2's expertise gives them the advantage in this scenario.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "83ba25a9-2800-4aee-98bf-75e8915cc5ef",
+  "instruction": "Create a chart to compare and contrast the two types of spacecraft.",
+  "input": "Manned vs Unmanned",
+  "output": "|        | Manned Spacecraft | Unmanned Spacecraft |\n|--------|-------------------|--------------------|\n| Crew   | Has a human crew | No human crew      |\n| Launch | More expensive    | Less expensive      |\n| Risk   | Higher Risk       | Lower Risk         |",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

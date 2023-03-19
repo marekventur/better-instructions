@@ -1,0 +1,12 @@
+{
+  "id": "89514d73-49f2-49aa-828f-878fc000bac9",
+  "instruction": "Find a movie recommendation for given genre.",
+  "input": "Comedy",
+  "output": "My pick for a great comedy movie is \"The Hangover\". It stars Bradley Cooper, Zach Galifianakis, and Ed Helms, and follows a wild night for three young bachelor friends in Las Vegas. The movie has plenty of funny moments and the plot will keep you guessing the entire time. Plus, it's perfect for a fun night out with friends.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

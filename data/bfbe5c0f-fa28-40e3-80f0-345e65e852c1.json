@@ -1,0 +1,12 @@
+{
+  "id": "bfbe5c0f-fa28-40e3-80f0-345e65e852c1",
+  "instruction": "What is the area in meters of the given shape?",
+  "input": "Rectangle with width 30mm and height 50mm",
+  "output": "The area of the rectangle is 1500 sq mm, which is equivalent to 0.15 sq meters.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

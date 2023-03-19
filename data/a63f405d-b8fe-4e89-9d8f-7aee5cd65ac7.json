@@ -1,0 +1,12 @@
+{
+  "id": "a63f405d-b8fe-4e89-9d8f-7aee5cd65ac7",
+  "instruction": "Write code to create a function.",
+  "input": "",
+  "output": "def myFunction(x):\n   return x * x * x",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

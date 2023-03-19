@@ -1,0 +1,12 @@
+{
+  "id": "0927e2a8-bb5a-4d0a-88e3-990f910014c8",
+  "instruction": "Rewrite this sentence with the correct grammar.",
+  "input": "That movie I watch it last night.",
+  "output": "I watched that movie last night.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

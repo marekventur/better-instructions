@@ -1,0 +1,12 @@
+{
+  "id": "77c9504a-10e6-4031-b1e0-7b7292942cb4",
+  "instruction": "Make an API call to the given URL and print the output in the console.",
+  "input": "https://data.cityofnewyork.us/resource/fhrw-4uyv.json",
+  "output": "\"\"\"\nMake an API call to the given URL and print the output in the console\n\"\"\"\n\nimport requests \n\nurl = \"https://data.cityofnewyork.us/resource/fhrw-4uyv.json\" \nresponse = requests.get(url) \n\nif response.status_code == 200: \n    data = response.json() \n    print(data)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

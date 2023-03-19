@@ -1,0 +1,12 @@
+{
+  "id": "d74ac972-fa0c-4534-8dec-8d0289e3e932",
+  "instruction": "Given negative and positive statements, assign each one a sentiment score.",
+  "input": "Negative statement: I had a terrible day.\nPositive statement: I made a great progress on my project.",
+  "output": "Negative statement: -1\nPositive statement: 1",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

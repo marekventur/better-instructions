@@ -1,0 +1,12 @@
+{
+  "id": "3a9a1077-6f9c-4ed5-ba05-c27745d75d5d",
+  "instruction": "Create a dialog between two people who are discussing a scientific phenomenon",
+  "input": "Hydropower",
+  "output": "Person 1: Did you know that hydropower is now being used to generate electricity?\nPerson 2: Really? That\u2019s incredible! How does it work?\nPerson: 1: Well, hydropower utilizes the energy of moving water to generate electricity. By capturing and harnessing the energy of falling or flowing water, hydropower can be used for efficient electricity generation.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

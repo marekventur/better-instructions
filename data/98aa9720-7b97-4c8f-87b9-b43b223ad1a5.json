@@ -1,0 +1,12 @@
+{
+  "id": "98aa9720-7b97-4c8f-87b9-b43b223ad1a5",
+  "instruction": "Classify the item by its scientific name.",
+  "input": "Field mouse",
+  "output": "The scientific name for a field mouse is Apodemus sylvaticus.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

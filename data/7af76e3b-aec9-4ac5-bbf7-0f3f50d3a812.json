@@ -1,0 +1,12 @@
+{
+  "id": "7af76e3b-aec9-4ac5-bbf7-0f3f50d3a812",
+  "instruction": "Crop the photo I gave you, reduce the size by 50%, and add a red border to it.",
+  "input": "[Image]",
+  "output": "[Cropped, Reduced-Sized image with Red Border]",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

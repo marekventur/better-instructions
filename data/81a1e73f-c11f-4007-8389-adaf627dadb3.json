@@ -1,0 +1,12 @@
+{
+  "id": "81a1e73f-c11f-4007-8389-adaf627dadb3",
+  "instruction": "Name a technology that is used to detect phishing emails.",
+  "input": "",
+  "output": "One of the most widely used technologies for phishing emails is artificial intelligence and machine learning. AI and ML algorithms can be used to detect and analyze patterns in emails, as well as identifying malicious emails based on keywords and other features. AI can also be used to analyze the sender's behavior, such as whether or not the sender has sent similar emails to other recipients, or if the sender is spoofing another person or organization. Other technologies that can be used to detect phishing emails include email signature analysis, domain and sender reputation analysis, IP address blacklists, and text-based analysis.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

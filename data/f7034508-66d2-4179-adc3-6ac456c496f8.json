@@ -1,0 +1,12 @@
+{
+  "id": "f7034508-66d2-4179-adc3-6ac456c496f8",
+  "instruction": "Generate a story describing the emotions of a character in a given situation.",
+  "input": "Alice is stuck in traffic, trying to get to her parent's house for Thanksgiving.",
+  "output": "Alice pounded her fists on the steering wheel as she looked out the window at the gridlocked cars stretching on for miles. She was desperate to reach her parents' house in time for Thanksgiving, but it seemed like every driver on the road had decided to take the same route she had. Anger and frustration built within her as the minutes ticked by, feeling like hours. Her only hope was that somehow, some way, she would still make it on time.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c28ad17a-62b5-4918-91c3-d8f57d3fa7f7",
+  "instruction": "Modify the given poem.",
+  "input": "Roses are red,\nViolets are blue,\nSugar is sweet,\nAnd so are you.",
+  "output": "Roses are red and tulips are too,\nViolets are blue and so are the skies,\nSugar is sweet and so are you,\nThere's no one else like you in my life.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

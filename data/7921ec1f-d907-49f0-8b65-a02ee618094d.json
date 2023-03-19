@@ -1,0 +1,12 @@
+{
+  "id": "7921ec1f-d907-49f0-8b65-a02ee618094d",
+  "instruction": "Given some medical symptoms, diagnose the illness.",
+  "input": "* Fever\n* Headache\n* Loss of appetite\n* Muscle aches",
+  "output": "The symptoms indicate that the person may have the flu.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

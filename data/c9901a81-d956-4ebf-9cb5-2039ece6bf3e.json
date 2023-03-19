@@ -1,0 +1,12 @@
+{
+  "id": "c9901a81-d956-4ebf-9cb5-2039ece6bf3e",
+  "instruction": "Convert the given amount from one unit of measure to another.",
+  "input": "Convert 6 feet to inches",
+  "output": "6 feet is equal to 72 inches.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

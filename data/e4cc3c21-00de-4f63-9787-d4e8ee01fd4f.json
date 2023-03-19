@@ -1,0 +1,12 @@
+{
+  "id": "e4cc3c21-00de-4f63-9787-d4e8ee01fd4f",
+  "instruction": "List the counties of Ireland.",
+  "input": "",
+  "output": "The counties of Ireland are: Antrim, Armagh, Carlow, Cavan, Clare, Cork, Derry, Donegal, Down, Dublin, Fermanagh, Galway, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, Tipperary, Tyrone, Waterford, Westmeath, Wexford and Wicklow.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

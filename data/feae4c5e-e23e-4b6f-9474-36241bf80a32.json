@@ -1,0 +1,12 @@
+{
+  "id": "feae4c5e-e23e-4b6f-9474-36241bf80a32",
+  "instruction": "Write a python code to compute the sum of the elements of a given list",
+  "input": "[3, 4, 5, 6, 7]",
+  "output": "def sum_list(list):\n    total = 0\n    for num in list: \n        total += num\n    return total\n\ntotal_sum = sum_list([3, 4, 5, 6, 7]) \nprint(total_sum) # Output: 25",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

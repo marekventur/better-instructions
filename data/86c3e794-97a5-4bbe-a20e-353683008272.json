@@ -1,0 +1,12 @@
+{
+  "id": "86c3e794-97a5-4bbe-a20e-353683008272",
+  "instruction": "Put these two pieces of text together to make a sentence.",
+  "input": "It was a beautiful day. The sky was blue.",
+  "output": "It was a beautiful day, with the sky a brilliant blue.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

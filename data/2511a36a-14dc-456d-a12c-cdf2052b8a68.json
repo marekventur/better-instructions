@@ -1,0 +1,12 @@
+{
+  "id": "2511a36a-14dc-456d-a12c-cdf2052b8a68",
+  "instruction": "Write some code to print an array in reverse order.",
+  "input": "let arr = [4, 5, 6, 7]",
+  "output": "for (let i = arr.length - 1; i >= 0; i--) {\n  console.log(arr[i]);\n}",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

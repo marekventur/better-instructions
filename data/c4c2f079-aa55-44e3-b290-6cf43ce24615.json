@@ -1,0 +1,12 @@
+{
+  "id": "c4c2f079-aa55-44e3-b290-6cf43ce24615",
+  "instruction": "Rewrite the following sentence with more accurate grammar.",
+  "input": "She done a lot of good",
+  "output": "She has done a lot of good.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

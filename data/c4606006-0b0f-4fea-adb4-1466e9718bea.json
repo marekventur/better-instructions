@@ -1,0 +1,12 @@
+{
+  "id": "c4606006-0b0f-4fea-adb4-1466e9718bea",
+  "instruction": "Given a sentence, mark the parts of speech in it.",
+  "input": "The young girl hugged her teddy bear.",
+  "output": "The (determiner) young (adjective) girl (noun) hugged (verb) her (possessive pronoun) teddy (noun) bear (noun).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

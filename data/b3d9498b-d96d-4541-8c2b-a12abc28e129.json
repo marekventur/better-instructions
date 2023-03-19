@@ -1,0 +1,12 @@
+{
+  "id": "b3d9498b-d96d-4541-8c2b-a12abc28e129",
+  "instruction": "Determine if the given sentence is passive or active.",
+  "input": "The cat was chased by the dog.",
+  "output": "The given sentence is passive.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

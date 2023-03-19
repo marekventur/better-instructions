@@ -1,0 +1,12 @@
+{
+  "id": "a7a8c643-2ab0-4326-a2d9-33eba95450ad",
+  "instruction": "Classify each of the following animals as a predator or herbivore.",
+  "input": "- Lion\n- Rabbit",
+  "output": "- Lion: Predator\n- Rabbit: Herbivore",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

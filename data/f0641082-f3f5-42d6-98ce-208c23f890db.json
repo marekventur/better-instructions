@@ -1,0 +1,12 @@
+{
+  "id": "f0641082-f3f5-42d6-98ce-208c23f890db",
+  "instruction": "Identify and classify the type of mistake that was made.",
+  "input": "He called his mom his father.",
+  "output": "Mixing up the words 'mom' and 'father' (Semantic Error).",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

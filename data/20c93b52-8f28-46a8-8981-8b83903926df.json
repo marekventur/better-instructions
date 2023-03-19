@@ -1,0 +1,12 @@
+{
+  "id": "20c93b52-8f28-46a8-8981-8b83903926df",
+  "instruction": "Sum up the main points of the given paragraph.",
+  "input": "One of the main components of educational technology is data-driven instruction (DDI). This type of instruction uses data to provide learners with personalized learning experiences that are tailored to their needs. DDI can improve the efficiency of instruction by helping teachers identify which topics students need help with and honing in on those topics to increase student engagement and achievement.",
+  "output": "Data-driven instruction (DDI) uses data to improve the efficiency of instruction by helping teachers identify individual student needs, to increase engagement and achievement, and to provide personalized learning experiences.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

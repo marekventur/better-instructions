@@ -1,0 +1,12 @@
+{
+  "id": "b6ae77a6-9f69-4ca0-8d74-476d45c4dee2",
+  "instruction": "Rewrite the sentence to use a pronoun instead of the noun.",
+  "input": "The teacher gave his students a homework assignment.",
+  "output": "He gave them a homework assignment.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

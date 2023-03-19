@@ -1,0 +1,12 @@
+{
+  "id": "2f0faa44-0775-4176-8435-2c950cfacd55",
+  "instruction": "Generate a random password using the following constraints: 15 characters, at least 1 uppercase letter and 1 special character.",
+  "input": "",
+  "output": "I{mk7N#>|dN5Nr",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

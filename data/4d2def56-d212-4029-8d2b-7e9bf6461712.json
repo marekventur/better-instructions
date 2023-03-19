@@ -1,0 +1,12 @@
+{
+  "id": "4d2def56-d212-4029-8d2b-7e9bf6461712",
+  "instruction": "Find the wrong word and replace it with the correct one.",
+  "input": "We went to the bazaar and bought some fruits and vedgetables.",
+  "output": "We went to the bazaar and bought some fruits and vegetables.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

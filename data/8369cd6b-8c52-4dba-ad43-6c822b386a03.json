@@ -1,0 +1,12 @@
+{
+  "id": "8369cd6b-8c52-4dba-ad43-6c822b386a03",
+  "instruction": "Given a passage of text, edit the passage to correct any grammatical errors.",
+  "input": "I am done with the project and im quite proud of the results it was hard works.",
+  "output": "I am done with the project and I'm quite proud of the results; it was hard work.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

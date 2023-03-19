@@ -1,0 +1,12 @@
+{
+  "id": "01d39227-9f88-4a80-b2eb-b28f7f9d4b99",
+  "instruction": "Find the formula for the chemical compound corresponding to the following inputs.",
+  "input": "Name: Barium nitrate",
+  "output": "Ba(NO3)2",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

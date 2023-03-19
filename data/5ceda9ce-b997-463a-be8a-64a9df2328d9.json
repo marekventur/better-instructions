@@ -1,0 +1,12 @@
+{
+  "id": "5ceda9ce-b997-463a-be8a-64a9df2328d9",
+  "instruction": "Insert the following transition in the sentence.",
+  "input": "He was a great student but rarely received praise.\nTransition: Despite",
+  "output": "Despite his greatness as a student, he rarely received praise.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

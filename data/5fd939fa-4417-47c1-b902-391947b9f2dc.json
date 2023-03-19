@@ -1,0 +1,12 @@
+{
+  "id": "5fd939fa-4417-47c1-b902-391947b9f2dc",
+  "instruction": "Combine the two sentences according to the given syntax.",
+  "input": "She is walking. She is talking.",
+  "output": "She is walking and talking.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

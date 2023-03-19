@@ -1,0 +1,12 @@
+{
+  "id": "905d60a4-ab9d-4074-8383-03f84dfdd00a",
+  "instruction": "Given the two following sentences, combine them into one using the word \"whereas\"",
+  "input": "The cat is friendly. It rarely meows.",
+  "output": "The cat is friendly, whereas it rarely meows.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

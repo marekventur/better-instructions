@@ -1,0 +1,12 @@
+{
+  "id": "03c397d2-e0fe-4dd4-8940-ee421a9c6c07",
+  "instruction": "List the best practices for developing a mobile application.",
+  "input": "",
+  "output": "The best practices for developing a mobile application include using a responsive design, testing on real devices, optimizing images and other resources, using analytics to track user behavior, and making sure the user experience is simple and intuitive. Additionally, leveraging existing libraries and frameworks can help speed up development time and reduce the amount of code that needs to be written. Finally, utilizing the device's hardware capabilities and leveraging push notifications can help drive user engagement and keep users coming back for more.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

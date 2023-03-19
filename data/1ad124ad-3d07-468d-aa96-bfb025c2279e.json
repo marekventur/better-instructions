@@ -1,0 +1,12 @@
+{
+  "id": "1ad124ad-3d07-468d-aa96-bfb025c2279e",
+  "instruction": "Connect two events by their causes and effects.",
+  "input": "Global warming and the melting of polar ice.",
+  "output": "Global warming is causing polar ice to melt, leading to rising sea levels and subsequent flooding, as well as more extreme weather events.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9ff6ff9b-d688-4376-b084-6504c9550f7f",
+  "instruction": "From the given list of countries, select the countries with population less than 10 million.",
+  "input": "India (1.35 billion), Poland (37.7 million), Morocco (36.45 million), Bangladesh (161 million)",
+  "output": "Poland (37.7 million), Morocco (36.45 million)",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

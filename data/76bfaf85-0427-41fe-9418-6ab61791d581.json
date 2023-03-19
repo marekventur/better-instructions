@@ -1,0 +1,12 @@
+{
+  "id": "76bfaf85-0427-41fe-9418-6ab61791d581",
+  "instruction": "Categorize each item as either an animal, vegetable, or mineral.",
+  "input": "Apple",
+  "output": "Vegetable",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

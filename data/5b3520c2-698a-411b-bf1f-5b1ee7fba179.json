@@ -1,0 +1,12 @@
+{
+  "id": "5b3520c2-698a-411b-bf1f-5b1ee7fba179",
+  "instruction": "Generate a movie review based on this synopsis of Little Women",
+  "input": "The film follows the classic novel by Louisa May Alcott and tells the story of the four March sisters who come of age in America in the aftermath of the Civil War.",
+  "output": "Little Women is an excellent adaptation of Louisa May Alcott\u2019s beloved classic novel. The movie follows the four March sisters as they come of age in America in the aftermath of the Civil War. With a wonderful cast and poignant directing, Little Women is sure to be a hit with fans of the original novel and newcomers alike. Its exploration of themes such as family, female independence, and the power of love make it an emotional, thought-provoking watch.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

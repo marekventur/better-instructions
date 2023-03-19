@@ -1,0 +1,12 @@
+{
+  "id": "22b7e38d-2201-463e-94ec-f185572ab7aa",
+  "instruction": "Categorize this article into one of the seven news genres.",
+  "input": "The country has been facing a shortage of medical supplies for weeks now. Hospitals have been forced to turn away patients for the lack of necessary equipment, and the government has been scrambling to find a solution.",
+  "output": "Category: News, Politics & Government.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}

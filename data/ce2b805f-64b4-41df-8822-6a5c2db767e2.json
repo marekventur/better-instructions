@@ -1,0 +1,12 @@
+{
+  "id": "ce2b805f-64b4-41df-8822-6a5c2db767e2",
+  "instruction": "Generate a response plan for the following scenario",
+  "input": "Your company just announced a new product launch.",
+  "output": "For the product launch, our response plan should include the following tasks: \n\n1. Creating the product launch strategy and timeline. \n2. Develop a marketing campaign to raise awareness of the product launch. \n3. Set up the product website and create its content. \n4. Announcing the product launch to the media.\n5. Scheduling any events associated with the product launch. \n6. Preparing strategies to handle customer inquiries and feedback. \n7. Measuring the results of the product launch and making any necessary adjustments.\n8. Plan for follow-up actions and promotions to generate continued interest in the product.",
+  "license": "stanford-alpaca-unknown",
+  "generation-type": "openai-text-davinci-003",
+  "generation-reference": "https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json",
+  "modified": [],
+  "verified": [],
+  "tags": []
+}
