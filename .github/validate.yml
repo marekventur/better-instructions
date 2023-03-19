@@ -1,0 +1,14 @@
+name: Validate data
+on: 
+  workflow_dispatch:
+  push:
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      - name: Run validation script
+        run: ./scripts/validate.py

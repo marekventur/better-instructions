@@ -1,0 +1,26 @@
+name: Format data
+on: 
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      - name: Run format script
+        run: ./scripts/format.py
+      - name: Commit
+        run: |
+          git add generated
+          git config --global user.email "marekventur+better-instructions@gmail.com
+          git config --global user.name "InstructionsBot"
+          git commit -m "Formatting"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

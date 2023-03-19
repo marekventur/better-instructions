@@ -1,7 +1,7 @@
 # Better instruction training data for LLMs 
 This is an attempt to create a high-quality and open database of instructions to fine-tune LLMs on. It's based on the original dataset from https://github.com/tatsu-lab/stanford_alpaca and is meant to improve on it. 
 
-Most of the data was generated unsupervised by a LLM (`text-davinci-003`), which, while cheap, isn't always free of errors and does not always meet high quality standards. By creating an open and curated dataset, we're hoping to bring humans into the loop and support a wider range of verification and generation methods. We're also hoping to close the gap to commercial and closed datasets.
+Most of the data was generated unsupervised by a LLM (`text-davinci-003`), which, while cheap, isn't always free of errors and does not always meet high quality standards. By creating an open and curated dataset, we're hoping to bring humans into the loop and support a wider range of verification and generation methods. This might also help close the gap to commercial and closed datasets.
 
 Example:
 ```
