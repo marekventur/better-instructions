@@ -39,6 +39,10 @@ These are meant to be arrays of how (if at all) a given instruction has been ver
 ## `tags` 
 Not currently used, but meant to annotate the topic of an instructions. For example `maths`, `rhyming`, etc.  
 
+## Full data
+
+You can find a full and combined version of this data [here https://github.com/marekventur/better-instructions/blob/main/generated/full.json?raw=true.] A queryable datasette-lite version can be accessed [here https://lite.datasette.io/?json=https://github.com/marekventur/better-instructions/blob/main/generated/full.json?raw=true]
+
 ## How to contribute
 - Fork this repository
 - Modify instructions (they're all in `./data/`)
@@ -54,4 +58,3 @@ This repository is meant to contain only the data (and related scripts for valid
 - Write tool: UI to walk through random instructions and allow users to rate and modify
 - Write tool: Use other LLMs to assess quality of existing prompts
 - Add automatically updated counter to README
-- Add datasette
