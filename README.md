@@ -32,11 +32,11 @@ The `license` field on each instruction is meant to capture this in a machine-re
 ## Metadata
 Metadata fields are meant to be machine readable, so it'll be useful to keep them consistent. However, since this repository is relatively new, these conventions need to be established first. Here are some suggestions: 
 
-## `generation-type` and `generation-reference`
+### `generation-type` and `generation-reference`
 These fields contain information of where the instruction has been sourced or generated from. These should not be updated when instructions are modified.
-## `modified` and `verified` 
+### `modified` and `verified` 
 These are meant to be arrays of how (if at all) a given instruction has been verified or modified. Suggested fields: `human`, `openai-text-davinci-003`, `my-custom-script-x`, etc. 
-## `tags` 
+### `tags` 
 Not currently used, but meant to annotate the topic of an instructions. For example `maths`, `rhyming`, etc.  
 
 ## Full data
